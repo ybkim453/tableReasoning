@@ -11,8 +11,8 @@ from run_helper import load_dataset, check_transpose, check_sort, read_json_file
 
 
 def main(
-        model:Optional[str] = "llama3.3:70b", # base model of the agent (for short prompt to save money)
-        long_model:Optional[str] = "llama3.3:70b", # long model of the agent (only used for long prompt)
+        model:Optional[str] = "gpt-oss:120b", # base model of the agent (for short prompt to save money)
+        long_model:Optional[str] = "gpt-oss:120b", # long model of the agent (only used for long prompt)
         provider: str = "openai_ollama", # openai, huggingface, vllm
         dataset:str = "wtq", # wtq, tabfact
         perturbation: str = "none", # none, transpose, shuffle, transpose_shuffle
