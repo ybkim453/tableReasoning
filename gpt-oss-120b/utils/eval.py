@@ -14,7 +14,7 @@ def parse_header_checking_result(output):
     result = match.group(0) if match else None
     
     # if (A) or (C), return False, if (B) return True
-    if "B" in result:
+    if result and "B" in result:
         return True
     else:
         return False
