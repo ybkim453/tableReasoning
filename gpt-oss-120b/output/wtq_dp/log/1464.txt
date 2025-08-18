@@ -1,0 +1,18 @@
+===================Title===================
+Figure skating at the Asian Winter Games
+===================Table===================
+|    | Rank   | Nation      |   Gold |   Silver |   Bronze |   Total |
+|---:|:-------|:------------|-------:|---------:|---------:|--------:|
+|  0 | 1      | China       |     13 |        9 |       13 |      35 |
+|  1 | 2      | Japan       |      7 |       10 |        7 |      24 |
+|  2 | 3      | Uzbekistan  |      1 |        2 |        3 |       6 |
+|  3 | 4      | Kazakhstan  |      2 |        2 |        0 |       4 |
+|  4 | 5      | North Korea |      1 |        0 |        1 |       2 |
+|  5 | 6      | South Korea |      0 |        0 |        2 |       2 |
+|  6 | Total  | Total       |     24 |       23 |       26 |      73 |
+===================Question===================
+tell me the total number of medals won by kazakhstan.
+===================Text===================
+Final Answer: 4
+===================Answer===================
+4

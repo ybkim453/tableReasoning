@@ -1,0 +1,22 @@
+===================Title===================
+Guan Zhen
+===================Table===================
+|    |   Season | Team            | Country   |   Division |   Apps |   Goals |
+|---:|---------:|:----------------|:----------|-----------:|-------:|--------:|
+|  0 |     2003 | Shandong Luneng | China     |          1 |      4 |       0 |
+|  1 |     2004 | Shandong Luneng | China     |          1 |      0 |       0 |
+|  2 |     2005 | Shandong Luneng | China     |          1 |      0 |       0 |
+|  3 |     2006 | Chengdu Wuniu   | China     |          2 |      1 |       0 |
+|  4 |     2007 | Shandong Luneng | China     |          1 |      0 |       0 |
+|  5 |     2008 | Jiangsu Sainty  | China     |          2 |     24 |       0 |
+|  6 |     2009 | Jiangsu Sainty  | China     |          1 |     15 |       0 |
+|  7 |     2010 | Jiangsu Sainty  | China     |          1 |     17 |       0 |
+|  8 |     2011 | Jiangsu Sainty  | China     |          1 |      9 |       0 |
+|  9 |     2012 | Jiangsu Sainty  | China     |          1 |      0 |       0 |
+| 10 |     2013 | Jiangsu Sainty  | China     |          1 |     11 |       0 |
+===================Question===================
+which season had, at most, 1 app?
+===================Text===================
+Final Answer: 2004, 2005, 2006, 2007, 2012
+===================Answer===================
+2006

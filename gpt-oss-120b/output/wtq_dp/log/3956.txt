@@ -1,0 +1,71 @@
+===================Title===================
+List of refractive indices
+===================Table===================
+|    | Material                                          |   λ (nm) | n                 |
+|---:|:--------------------------------------------------|---------:|:------------------|
+|  0 | Vacuum                                            |   nan    | 1 (by definition) |
+|  1 | Air at STP                                        |   nan    | 1.000277          |
+|  2 | Air                                               |   589.29 | 1.000293          |
+|  3 | Carbon dioxide                                    |   589.29 | 1.00045           |
+|  4 | Helium                                            |   589.29 | 1.000036          |
+|  5 | Hydrogen                                          |   589.29 | 1.000132          |
+|  6 | Arsenic trisulfide and sulfur in methylene iodide |   nan    | 1.9               |
+|  7 | Benzene                                           |   589.29 | 1.501             |
+|  8 | Carbon disulfide                                  |   589.29 | 1.628             |
+|  9 | Carbon tetrachloride                              |   589.29 | 1.461             |
+| 10 | Ethyl alcohol (ethanol)                           |   589.29 | 1.361             |
+| 11 | Silicone oil                                      |   nan    | 1.336-1.582       |
+| 12 | Water                                             |   589.29 | 1.3330            |
+| 13 | 10% Glucose solution in water                     |   589.29 | 1.3477            |
+| 14 | 20% Glucose solution in water                     |   589.29 | 1.3635            |
+| 15 | 60% Glucose solution in water                     |   589.29 | 1.4394            |
+| 16 | Titanium dioxide (Rutile phase )                  |   589.29 | 2.496             |
+| 17 | Diamond                                           |   589.29 | 2.419             |
+| 18 | Strontium titanate                                |   589.29 | 2.41              |
+| 19 | Amber                                             |   589.29 | 1.55              |
+| 20 | Fused silica (also called Fused Quartz)           |   589.29 | 1.458             |
+| 21 | Sodium chloride                                   |   589.29 | 1.544             |
+| 22 | Liquid helium                                     |   nan    | 1.025             |
+| 23 | Water ice                                         |   nan    | 1.31              |
+| 24 | Cornea (human)                                    |   nan    | 1.373/1.380/1.401 |
+| 25 | Lens (human)                                      |   nan    | 1.386 - 1.406     |
+| 26 | Acetone                                           |   nan    | 1.36              |
+| 27 | Ethanol                                           |   nan    | 1.36              |
+| 28 | Glycerol                                          |   nan    | 1.4729            |
+| 29 | Bromine                                           |   nan    | 1.661             |
+| 30 | Teflon AF                                         |   nan    | 1.315             |
+| 31 | Teflon                                            |   nan    | 1.35 - 1.38       |
+| 32 | Cytop                                             |   nan    | 1.34              |
+| 33 | Sylgard 184 (Polydimethylsiloxane)                |   nan    | 1.4118            |
+| 34 | PLA                                               |   nan    | 1.46              |
+| 35 | Acrylic glass                                     |   nan    | 1.490 - 1.492     |
+| 36 | Polycarbonate                                     |   nan    | 1.584 - 1.586     |
+| 37 | PMMA                                              |   nan    | 1.4893 - 1.4899   |
+| 38 | PETg                                              |   nan    | 1.57              |
+| 39 | PET                                               |   nan    | 1.5750            |
+| 40 | Crown glass (pure)                                |   nan    | 1.50 - 1.54       |
+| 41 | Flint glass (pure)                                |   nan    | 1.60 - 1.62       |
+| 42 | Crown glass (impure)                              |   nan    | 1.485 - 1.755     |
+| 43 | Flint glass (impure)                              |   nan    | 1.523 - 1.925     |
+| 44 | Pyrex (a borosilicate glass)                      |   nan    | 1.470             |
+| 45 | Cryolite                                          |   nan    | 1.338             |
+| 46 | Rock salt                                         |   nan    | 1.516             |
+| 47 | Sapphire                                          |   nan    | 1.762–1.778       |
+| 48 | Sugar Solution, 25%                               |   nan    | 1.3723            |
+| 49 | Sugar Solution, 50%                               |   nan    | 1.4200            |
+| 50 | Sugar Solution, 75%                               |   nan    | 1.4774            |
+| 51 | Cubic zirconia                                    |   nan    | 2.15 - 2.18       |
+| 52 | Potassium Niobate (KNbO3)                         |   nan    | 2.28              |
+| 53 | Silicon carbide                                   |   nan    | 2.65 - 2.69       |
+| 54 | Cinnabar (Mercury sulfide)                        |   nan    | 3.02              |
+| 55 | Gallium(III) phosphide                            |   nan    | 3.5               |
+| 56 | Gallium(III) arsenide                             |   nan    | 3.927             |
+| 57 | Zinc Oxide                                        |   390    | 2.4               |
+| 58 | Germanium                                         |   nan    | 4.01              |
+| 59 | Silicon                                           |   590    | 3.962             |
+===================Question===================
+which material does not have a wavelength above 500nm?
+===================Text===================
+Final Answer: Zinc Oxide
+===================Answer===================
+Zinc Oxide
