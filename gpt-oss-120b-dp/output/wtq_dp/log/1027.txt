@@ -1,0 +1,17 @@
+===================Title===================
+Gordon Ramsay
+===================Table===================
+|    | Restaurant                         | Location                                    | Date Opened   | Date Closed   |
+|---:|:-----------------------------------|:--------------------------------------------|:--------------|:--------------|
+|  0 | Verre at the Hilton Dubai Creek    | Dubai, United Arab Emirates                 | nan           | October 2011  |
+|  1 | Maze by Gordon Ramsay              | The Pearl-Qatar, Doha, Qatar                | 2010          | March 2012    |
+|  2 | Gordon Ramsay at Conrad Tokyo      | Conrad Tokyo, Tokyo, Japan                  | nan           | -             |
+|  3 | Cerise by Gordon Ramsay            | Minato, Tokyo, Japan                        | nan           | -             |
+|  4 | Maze by Gordon Ramsay              | One and Only Hotel, Cape Town, South Africa | April 2009    | July 2010     |
+|  5 | Maze / Maze Grill by Gordon Ramsay | Crown Metropol, Melbourne, Australia        | March 2010    | August 2011   |
+===================Question===================
+when did the restaurant "verre" at the hilton dubai creek close?
+===================Text===================
+Final Answer: October 2011
+===================Answer===================
+October 2011

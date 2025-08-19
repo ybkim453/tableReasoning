@@ -1,0 +1,21 @@
+===================Title===================
+1956 Winter Olympics
+===================Table===================
+|    |   Rank | Nation        | Gold   |   Silver |   Bronze |   Total |
+|---:|-------:|:--------------|:-------|---------:|---------:|--------:|
+|  0 |      1 | Soviet Union  | *7*    |        3 |        6 |      16 |
+|  1 |      2 | Austria       | 4      |        3 |        4 |      11 |
+|  2 |      3 | Finland       | 3      |        3 |        1 |       7 |
+|  3 |      4 | Switzerland   | 3      |        2 |        1 |       6 |
+|  4 |      5 | Sweden        | 2      |        4 |        4 |      10 |
+|  5 |      6 | United States | 2      |        3 |        2 |       7 |
+|  6 |      7 | Norway        | 2      |        1 |        1 |       4 |
+|  7 |      8 | Italy         | 1      |        2 |        0 |       3 |
+|  8 |      9 | Germany       | 1      |        0 |        1 |       2 |
+|  9 |     10 | Canada        | 0      |        1 |        2 |       3 |
+===================Question===================
+list each country that had 2 bronze medals.
+===================Text===================
+Final Answer: United States, Canada
+===================Answer===================
+United States,Canada
