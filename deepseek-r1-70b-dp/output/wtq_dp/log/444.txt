@@ -1,0 +1,62 @@
+===================Title===================
+Austria's Next Topmodel (cycle 4)
+===================Table===================
+|    | Contestant                  |   Age | Height                 | Home City                          | Rank                         |
+|---:|:----------------------------|------:|:-----------------------|:-----------------------------------|:-----------------------------|
+|  0 | Isabelle Raisa              |    16 | 170 cm (5 ft 7 in)     | Vienna                             | Eliminated in Episode 1      |
+|  1 | Alina Chlebecek             |    18 | 170 cm (5 ft 7 in)     | Deutsch-Wagram                     | Eliminated in Episode 1      |
+|  2 | Sabrina Angelika Rauch †    |    21 | 175 cm (5 ft 9 in)     | Graz                               | Eliminated in Episode 2      |
+|  3 | Katharina Mihalović        |    23 | 179 cm (5 ft 10.5 in)  | Vienna                             | Eliminated in Episode 2      |
+|  4 | Nataša Marić              |    16 | 175 cm (5 ft 9 in)     | Liefering (originally from Serbia) | Eliminated in Episode 3      |
+|  5 | Michaela Schopf             |    21 | 172 cm (5 ft 7.5 in)   | Salzburg (originally from Germany) | Quit in Episode 4            |
+|  6 | Christine Riener            |    20 | 181 cm (5 ft 11.25 in) | Bludenz                            | Eliminated in Episode 4      |
+|  7 | Teodora-Mădălina Andreica |    17 | 177 cm (5 ft 9.5 in)   | Romania                            | Eliminated in Episode 6      |
+|  8 | Yemisi Rieger               |    17 | 177 cm (5 ft 9.5 in)   | Vienna                             | Eliminated in Episode 7      |
+|  9 | Izabela Pop Kostić         |    20 | 170 cm (5 ft 7 in)     | Vienna (originally from Bosnia)    | Eliminated in Episode 8      |
+| 10 | Bianca Ebelsberger          |    24 | 179 cm (5 ft 10.5 in)  | Aurach am Hongar                   | Eliminated in Episode 9      |
+| 11 | Nadine Trinker              |    21 | 183 cm (6 ft 0 in)     | Bodensdorf                         | Eliminated in Episode 9      |
+| 12 | Dzejlana "Lana" Baltić     |    20 | 179 cm (5 ft 10.5 in)  | Graz (originally from Bosnia)      | 1st Eliminated in Episode 10 |
+| 13 | Melisa Popanicić           |    16 | 175 cm (5 ft 9 in)     | Wörgl                             | 2nd Eliminated in Episode 10 |
+| 14 | Gina Zeneb Adamu            |    17 | 175 cm (5 ft 9 in)     | Bad Vöslau                        | Runner-Up                    |
+| 15 | Antonia Maria Hausmair      |    16 | 175 cm (5 ft 9 in)     | Siegendorf                         | Winner                       |
+===================Question===================
+how many models were taller than 5 ft 11 inches?
+===================Text===================
+<think>
+Okay, so I need to figure out how many models from Austria's Next Topmodel (cycle 4) were taller than 5 ft 11 inches based on the table provided. Let me start by understanding what exactly 5 ft 11 inches converts to in centimeters because the heights are given in both cm and feet/inches.
+
+I know that 1 foot is 30.48 cm, so let's calculate 5 ft 11 in. 
+
+First, 5 feet would be 5 * 30.48 = 152.4 cm. Then, 11 inches is 11 * 2.54 = 27.94 cm. Adding those together gives a total of approximately 180.34 cm. So, any model with a height greater than 180.34 cm would be taller than 5 ft 11 in.
+
+Looking back at the table, I'll go through each contestant's height and see if it exceeds 180.34 cm. Let's list them out:
+
+1. Isabelle Raisa: 170 cm → No
+2. Alina Chlebecek: 170 cm → No
+3. Sabrina Angelika Rauch †: 175 cm → No
+4. Katharina Mihalović: 179 cm → Close, but under 180.34 → No
+5. Nataša Marić: 175 cm → No
+6. Michaela Schopf: 172 cm → No
+7. Christine Riener: 181 cm → Yes, that's above 180.34
+8. Teodora-Mădălina Andreica: 177 cm → No
+9. Yemisi Rieger: 177 cm → No
+10. Izabela Pop Kostić: 170 cm → No
+11. Bianca Ebelsberger: 179 cm → Under
+12. Dzejlana "Lana" Baltić: 179 cm → Under
+13. Melisa Popanicić: 175 cm → No
+14. Gina Zeneb Adamu: 175 cm → No
+15. Antonia Maria Hausmair: 175 cm → No
+
+Wait, only contestant number 6 is 181 cm, which is above 180.34. Let me double-check the others to make sure I didn't miss anyone.
+
+Looking through again:
+
+- Katharina Mihalović at 179 cm is close but not over.
+- Bianca and Lana are also at 179 cm, so they don't count either.
+
+So only Christine Riener at 181 cm is taller than 5 ft 11 in. That means there's just one model who meets the criteria.
+</think>
+
+Final Answer: 1
+===================Answer===================
+2

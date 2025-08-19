@@ -1,0 +1,84 @@
+===================Title===================
+London Borough of Redbridge
+===================Table===================
+|    | Route Number   | Route                                                    | Via                                                         | Operator          | Operation                             |
+|---:|:---------------|:---------------------------------------------------------|:------------------------------------------------------------|:------------------|:--------------------------------------|
+|  0 | 25             | Ilford Hainault Street to Oxford Circus                  | Holborn , Aldgate , Stratford                               | First London      | 24 Hours. London Buses service. Times |
+|  1 | 66             | Leytonstone Station to Romford Station                   | Wanstead , Redbridge , Gants Hill , Newbury Park            | Arriva London     | Daily. London Buses service. Times    |
+|  2 | 86             | Stratford Bus Station to Romford Station                 | Manor Park, Ilford , Seven Kings                            | Stagecoach London | Daily. London Buses service. Times    |
+|  3 | 101            | Wanstead Station to Gallions Reach Shopping Centre       | Manor Park , East Ham , Beckton                             | Stagecoach London | Daily. London Buses service. Times    |
+|  4 | 123            | Ilford Hainault Street to Wood Green Bus Station         | Gants Hill , Walthamstow, Tottenham, Turnpike Lane          | Arriva London     | Daily. London Buses service. Times    |
+|  5 | 128            | Claybury Broadway to Romford Station                     | Barkingside, Gants Hill , Ilford                            | Arriva London     | 24 Hours. London Buses service. Times |
+|  6 | 145            | Leytonstone to Dagenham Asda                             | Redbridge , Ilford, Becontree                               | Stagecoach London | Daily. London Buses service. Times    |
+|  7 | 147            | Ilford Hainault Street to Canning Town station           | East Ham , Newham General Hospital, Custom House            | Stagecoach London | Daily. London Buses service. Times    |
+|  8 | 150            | Chigwell Row to Becontree Heath Bus Station              | Hainault Barkingside, Gants Hill , Ilford                   | Arriva London     | Daily. London Buses service. Times    |
+|  9 | 167            | Debden to Ilford Hainault Street                         | Loughton , Barkingside, Gants Hill                          | Blue Triangle     | Daily. London Buses service. Times    |
+| 10 | 169            | Barking Town Centre to Clayhall The Glade                | Ilford , Newbury Park, Barkingside                          | Stagecoach London | Daily. London Buses service. Times    |
+| 11 | 179            | Chingford to Ilford Hainault Street                      | Woodford Green, South Woodford , Gants Hill                 | First London      | Daily. London Buses service. Times    |
+| 12 | 247            | Barkingside Station to Romford Station                   | Hainault , Collier Row                                      | Stagecoach London | Daily. London Buses service. Times    |
+| 13 | 275            | Walthamstow St James Street Station to Barkingside Tesco | Highams Park, Woodford Green, Woodford Bridge               | Arriva London     | Daily. London Buses service. Times    |
+| 14 | 296            | Ilford Sainbury's to Romford Station                     | Gants Hill , Newbury Park, Rose Lane                        | Stagecoach London | Daily. London Buses service. Times    |
+| 15 | 308            | Wanstead Station to Clapton Park Millfields Road         | Forest Gate , Stratford , Leyton                            | First London      | Daily. London Buses service. Times    |
+| 16 | 362            | Grange Hill to King George Hospital                      | Hainault, Marks Gate, Chadwell Heath                        | Blue Triangle     | Daily. London Buses service. Times    |
+| 17 | 364            | Ilford Hainault Street to Dagenham East Station          | Goodmayes , Becontree, Dagenham Heathway                    | Blue Triangle     | Daily. London Buses service. Times    |
+| 18 | 366            | Redbridge Falmouth Gardens to Beckton Station            | Redbridge , Ilford, Barking                                 | Stagecoach London | Daily. London Buses service. Times    |
+| 19 | 396            | Ilford Sainbury's to King George Hospital                | Gants Hill , Newbury Park, Little Heath                     | Stagecoach London | Daily. London Buses service. Times    |
+| 20 | 462            | Hainault The Lowe to Ilford Hainault Street              | Grange Hill , Barkingside, Gants Hill                       | Arriva London     | Daily. London Buses service. Times    |
+| 21 | EL1            | Ilford Station to Barking Reach                          | Ilford Lane, Barking , River Road                           | Blue Triangle     | 24 Hours. London Buses service. Times |
+| 22 | EL2            | Ilford Station to Dagenham Dock Station                  | Barking , Thames View Estate, Dagenham                      | Blue Triangle     | Daily. London Buses service. Times    |
+| 23 | W12            | Walthamstow Coppermill Lane to Wanstead Station          | Walthamstow Central , Whipps Cross Hospital, South Woodford | HCT Group         | Daily. London Buses service. Times    |
+| 24 | W13            | Woodford Wells to Leytonstone Station                    | Woodford Green, Snaresbrook , Wanstead                      | HCT Group         | Daily. London Buses service. Times    |
+| 25 | W14            | Leyton Asda to Woodford Bridge                           | South Woodford , Wanstead , Leytonstone                     | Arriva London     | Daily. London Buses service. Times    |
+| 26 | W19            | Walthamstow Angel Avenue to Ilford Station               | Walthamstow Central , Leytonstone , Manor Park              | Blue Triangle     | Daily. London Buses service. Times    |
+===================Question===================
+how many other routes share the same operator as router 66?
+===================Text===================
+<think>
+Alright, so I need to figure out how many other routes share the same operator as route 66 based on the provided table. Let's start by understanding what each part of the question entails.
+
+First, looking at the table, each row represents a different bus route with various details like Route Number, Route, Via, Operator, and Operation. The key here is to focus on the "Operator" column since we're comparing operators.
+
+The specific route in question is number 66. Let me find that row first. Scanning through, I see that route 66 has an operator listed as Arriva London. So, now my task is to count how many other routes have Arriva London as their operator.
+
+Going through each row one by one:
+
+- Route 25: Operator is First London → Not a match.
+- Route 66: Arriva London (we're comparing against this)
+- Route 86: Stagecoach London → No.
+- Route 101: Stagecoach London → No.
+- Route 123: Arriva London → Match found. That's one.
+- Route 128: Arriva London → Second match.
+- Route 145: Stagecoach London → No.
+- Route 147: Stagecoach London → No.
+- Route 150: Arriva London → Third match.
+- Route 167: Blue Triangle → No.
+- Route 169: Stagecoach London → No.
+- Route 179: First London → No.
+- Route 247: Stagecoach London → No.
+- Route 275: Arriva London → Fourth match.
+- Route 296: Stagecoach London → No.
+- Route 308: First London → No.
+- Route 362: Blue Triangle → No.
+- Route 364: Blue Triangle → No.
+- Route 366: Stagecoach London → No.
+- Route 396: Stagecoach London → No.
+- Route 462: Arriva London → Fifth match.
+- Route  EL1: Blue Triangle → No.
+- Route EL2: Blue Triangle → No.
+- Route W12: HCT Group → No.
+- Route W13: HCT Group → No.
+- Route W14: Arriva London → Sixth match.
+- Route W19: Blue Triangle → No.
+
+So, let's list out all the routes with operator Arriva London apart from route 66:
+
+123,128,150,275,462,W14
+
+Wait, that makes six routes. But when I counted earlier, I thought it was five, but upon recounting, I see six matches excluding route 66.
+
+So, the answer should be 6 other routes share the same operator as route 66.
+</think>
+
+Final Answer: 123,128,150,275,462,W14
+===================Answer===================
+6

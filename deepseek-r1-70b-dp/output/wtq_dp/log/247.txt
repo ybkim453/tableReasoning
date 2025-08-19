@@ -1,0 +1,59 @@
+===================Title===================
+Todd Martin
+===================Table===================
+|    | Outcome   |   No. | Date               | Championship                          | Surface   | Opponent in the final   | Score in the final                |
+|---:|:----------|------:|:-------------------|:--------------------------------------|:----------|:------------------------|:----------------------------------|
+|  0 | Runner-up |     1 | February 15, 1993  | Memphis, Tennessee, USA               | Hard (i)  | Jim Courier             | 7–5, 6–7(4–7), 6–7(4–7)           |
+|  1 | Winner    |     1 | May 17, 1993       | Coral Springs, Florida, USA           | Clay      | David Wheaton           | 6–3, 6–4                          |
+|  2 | Runner-up |     2 | July 26, 1993      | Washington D.C., USA                  | Hard      | Amos Mansdorf           | 6–7(3–7), 5–7                     |
+|  3 | Runner-up |     3 | August 2, 1993     | Montreal, Canada                      | Hard      | Mikael Pernfors         | 6–2, 2–6, 5–7                     |
+|  4 | Runner-up |     4 | October 18, 1993   | Tokyo, Japan                          | Carpet    | Ivan Lendl              | 4–6, 4–6                          |
+|  5 | Runner-up |     5 | January 31, 1994   | Australian Open, Melbourne, Australia | Hard      | Pete Sampras            | 6–7(4–7), 4–6, 4–6                |
+|  6 | Winner    |     2 | February 14, 1994  | Memphis, Tennessee, USA               | Hard      | Brad Gilbert            | 6–4, 7–5                          |
+|  7 | Runner-up |     6 | May 2, 1994        | Atlanta, Georgia, USA                 | Clay      | Michael Chang           | 7–6(7–4), 6–7(4–7), 0–6           |
+|  8 | Runner-up |     7 | May 9, 1994        | Pinehurst, USA                        | Clay      | Jared Palmer            | 4–6, 6–7(5–7)                     |
+|  9 | Winner    |     3 | June 13, 1994      | London (Queen's Club), UK             | Grass     | Pete Sampras            | 7–6(7–4), 7–6(7–4)                |
+| 10 | Winner    |     4 | February 20, 1995  | Memphis, Tennessee, USA               | Hard      | Paul Haarhuis           | 7–6(7–2), 6–4                     |
+| 11 | Runner-up |     8 | December 18, 1995  | Grand Slam Cup, Munich, Germany       | Carpet    | Goran Ivanišević      | 6–7(4–7), 3–6, 4–6                |
+| 12 | Winner    |     5 | January 15, 1996   | Sydney, Australia                     | Hard      | Goran Ivanišević      | 5–7, 6–3, 6–4                     |
+| 13 | Runner-up |     9 | February 26, 1996  | Memphis, Tennessee, USA               | Hard (i)  | Pete Sampras            | 4–6, 6–7(2–7)                     |
+| 14 | Runner-up |    10 | August 22, 1996    | Stockholm, Sweden                     | Hard (i)  | Thomas Enqvist          | 5–7, 4–6, 6–7(0–7)                |
+| 15 | Winner    |     6 | April 20, 1998     | Barcelona, Spain                      | Clay      | Alberto Berasategui     | 6–2, 1–6, 6–3, 6–2                |
+| 16 | Winner    |     7 | November 16, 1998  | Stockholm, Sweden                     | Hard      | Thomas Johansson        | 6–3, 6–4, 6–4                     |
+| 17 | Winner    |     8 | January 18, 1999   | Sydney, Australia                     | Hard      | Àlex Corretja          | 6–3, 7–6(7–5)                     |
+| 18 | Runner-up |    11 | April 12, 1999     | Estoril, Portugal                     | Clay      | Albert Costa            | 6–7(4–7), 6–2, 3–6                |
+| 19 | Runner-up |    12 | September 12, 1999 | US Open, New York City, USA           | Hard      | Andre Agassi            | 4–6, 7–6(7–5), 7–6(7–2), 3–6, 2–6 |
+===================Question===================
+how many total matches were in 1993?
+===================Text===================
+<think>
+Alright, so I need to figure out how many total matches Todd Martin played in 1993 based on the provided table. Let me start by understanding what each column represents and then extract the relevant information.
+
+First, looking at the table headers: Outcome, No., Date, Championship, Surface, Opponent in the final, and Score in the final. Each row seems to represent a final match that Todd Martin was part of, indicating whether he won or was runner-up, along with details about each match.
+
+The key here is that each row corresponds to one match result, specifically in the finals. So for 1993, I need to count how many rows have dates falling within that year.
+
+I'll go through each row and check the Date column:
+
+- Row 0: February 15, 1993 → 1993
+- Row 1: May 17, 1993 → 1993
+- Row 2: July 26, 1993 → 1993
+- Row 3: August 2, 1993 → 1993
+- Row 4: October 18, 1993 → 1993
+
+Rows 0 to 4 are all in 1993. Now, I need to count how many matches that is.
+
+Looking at the row indices (0 to 4), each represents one match. So from 0 to 4, that's 5 matches.
+
+Wait a second, let me make sure. Each of these rows is a final match, so each indicates Todd Martin played in that final. Therefore, each row corresponds to one match. So the count should be 5.
+
+But wait, I need to ensure that there are no other entries in 1993 beyond row 4. Let's check further:
+
+Rows after 4 have dates like January 31, 1994, etc., which are outside of 1993. So yes, only rows 0 through 4 fall within 1993.
+
+Thus, the total number of matches Todd Martin played in 1993 is 5.
+</think>
+
+Final Answer: 5
+===================Answer===================
+5

@@ -1,0 +1,102 @@
+===================Title===================
+Kansas City Brass
+===================Table===================
+|    |   Year |   Division | League     | Regular Season      | Playoffs        | Open Cup        |
+|---:|-------:|-----------:|:-----------|:--------------------|:----------------|:----------------|
+|  0 |   1998 |          4 | USISL PDSL | 4th, Central        | Division Finals | 1st Round       |
+|  1 |   1999 |          4 | USL PDL    | 5th, Heartland      | Did not qualify | Did not qualify |
+|  2 |   2000 |          4 | USL PDL    | 4th, Rocky Mountain | Did not qualify | Did not qualify |
+|  3 |   2001 |          4 | USL PDL    | 5th, Rocky Mountain | Did not qualify | Did not qualify |
+|  4 |   2002 |          4 | USL PDL    | 5th, Heartland      | Did not qualify | Did not qualify |
+|  5 |   2003 |          4 | USL PDL    | 5th, Heartland      | Did not qualify | Did not qualify |
+|  6 |   2004 |          4 | USL PDL    | 6th, Heartland      | Did not qualify | Did not qualify |
+|  7 |   2005 |          4 | USL PDL    | 3rd, Heartland      | Did not qualify | Did not qualify |
+|  8 |   2006 |          4 | USL PDL    | 3rd, Heartland      | Did not qualify | Did not qualify |
+|  9 |   2007 |          4 | USL PDL    | 3rd, Heartland      | Did not qualify | 1st Round       |
+| 10 |   2008 |          4 | USL PDL    | 5th, Heartland      | Did not qualify | Did not qualify |
+| 11 |   2009 |          4 | USL PDL    | 6th, Heartland      | Did not qualify | Did not qualify |
+| 12 |   2010 |          4 | USL PDL    | 7th, Heartland      | Did not qualify | Did not qualify |
+| 13 |   2011 |          4 | USL PDL    | 4th, Heartland      | Did not qualify | Did not qualify |
+| 14 |   2012 |          4 | USL PDL    | 5th, Heartland      | Did not qualify | Did not qualify |
+| 15 |   2013 |          4 | USL PDL    | 4th, Heartland      | Did not qualify | Did not qualify |
+===================Question===================
+how many consecutive seasons did the kansas city brass not qualify for the playoffs?
+===================Text===================
+<think>
+Okay, so I need to figure out how many consecutive seasons the Kansas City Brass didn't qualify for the playoffs based on this table. Let me start by looking at each year and checking the 'Playoffs' column.
+
+Looking at the Playoffs column:
+
+- 1998: Division Finals – they qualified.
+- 1999: Did not qualify
+- 2000: Did not qualify
+- 2001: Did not qualify
+- 2002: Did not qualify
+- 2003: Did not qualify
+- 2004: Did not qualify
+- 2005: Did not qualify
+- 2006: Did not qualify
+- 2007: Did not qualify
+- 2008: Did not qualify
+- 2009: Did not qualify
+- 2010: Did not qualify
+- 2011: Did not qualify
+- 2012: Did not qualify
+- 2013: Did not qualify
+
+Wait, but in 1998 they did qualify. So the consecutive non-qualifying starts from 1999 onwards.
+
+Now, I need to count how many years after 1998 they didn't make the playoffs. Let's list them out:
+
+1999: No
+2000: No
+2001: No
+2002: No
+2003: No
+2004: No
+2005: No
+2006: No
+2007: No
+2008: No
+2009: No
+2010: No
+2011: No
+2012: No
+2013: No
+
+Wait, that's 15 years from 1999 to 2013 inclusive. Let me count them:
+
+From 1999 (year 1) to 2013 is 15 years because 2013 - 1999 = 14, but since both ends are included, it's 15 seasons.
+
+But wait, looking at the table, the data starts in 1998 and goes through 2013. So from 1999 (row index 1) to 2013 (row index 15), that's 15 consecutive seasons where they did not qualify for the playoffs after their initial qualification in 1998.
+
+Wait a minute, let me double-check. The years are:
+
+- 1999
+- 2000
+- 2001
+- 2002
+- 2003
+- 2004
+- 2005
+- 2006
+- 2007
+- 2008
+- 2009
+- 2010
+- 2011
+- 2012
+- 2013
+
+That's from 1999 to 2013, which is 15 years. So they had a total of 15 consecutive seasons without making the playoffs after 1998.
+
+But wait, in 2007, looking back at the table, Playoffs for 2007 was "Did not qualify", so that continues the streak.
+
+Wait another thing: The first season (1998) they qualified. Then from 1999 onward, every year until 2013 they didn't qualify. So starting from 1999, it's a run of 15 consecutive seasons without playoffs.
+
+So the answer should be 15 consecutive seasons.
+</think>
+
+Final Answer: 15
+===================Answer===================
+15

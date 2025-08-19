@@ -1,0 +1,59 @@
+===================Title===================
+Great Officer of State
+===================Table===================
+|    |   Position | Officer                       | current officers                   | superseded by       | Royal Household     |
+|---:|-----------:|:------------------------------|:-----------------------------------|:--------------------|:--------------------|
+|  0 |          1 | Lord High Steward             | vacant                             | Justiciar           | Lord Steward        |
+|  1 |          2 | Lord High Chancellor          | The Rt Hon Chris Grayling, MP      | nan                 | nan                 |
+|  2 |          3 | Lord High Treasurer           | in commission                      | nan                 | nan                 |
+|  3 |          4 | Lord President of the Council | The Rt Hon Nick Clegg, MP          | nan                 | nan                 |
+|  4 |          5 | Lord Privy Seal               | The Rt Hon Andrew Lansley, CBE, MP | nan                 | nan                 |
+|  5 |          6 | Lord Great Chamberlain        | The Marquess of Cholmondeley       | Lord High Treasurer | Lord Chamberlain    |
+|  6 |          7 | Lord High Constable           | vacant                             | Earl Marshal        | Master of the Horse |
+|  7 |          8 | Earl Marshal                  | The Duke of Norfolk                | nan                 | Master of the Horse |
+|  8 |          9 | Lord High Admiral             | HRH The Duke of Edinburgh          | nan                 | nan                 |
+===================Question===================
+how many ranks about lord high treasurer is the lord high steward?
+===================Text===================
+<think>
+Alright, so I need to figure out how many ranks apart the Lord High Treasurer is from the Lord High Steward in the given table. Let me start by carefully looking at each position and their corresponding numbers.
+
+First, I see that the table lists positions with a numerical index starting from 0 up to 8. Each row represents a different "Great Officer of State." The first column seems to be an index, and the second is the Position number, which increments from 1 onwards.
+
+Looking at the rows:
+
+- Row 0: Lord High Steward (Position 1)
+- Row 1: Lord High Chancellor (Position 2)
+- Row 2: Lord High Treasurer (Position 3)
+- Then there are other positions like Lord President of the Council, etc.
+
+Wait, no. Let me check again because I might have misread. The second column is labeled "Position" but the numbers go from 1 to 9, incrementing by 1 each time. So, Position 1 is Lord High Steward at index 0 (row 0), and so on.
+
+Wait, no. Actually, looking more carefully:
+
+The first row (index 0) has Position 1: Lord High Steward
+
+Second row (index 1): Position 2: Lord High Chancellor
+
+Third row (index 2): Position 3: Lord High Treasurer
+
+So the positions are ordered from 1 to 9, and each position is one rank higher than the previous. So, Lord High Steward is Position 1, then next is 2, etc.
+
+Now, the user's question is asking how many ranks apart the Lord High Treasurer is from the Lord High Steward. So I need to determine the difference in their positions.
+
+Lord High Steward is Position 1.
+
+Lord High Treasurer is Position 3.
+
+So the difference between them is 3 - 1 = 2 ranks apart.
+
+Wait, but let me make sure: are they asking how many ranks above or below? The question is "how many ranks about lord high treasurer is the lord high steward". Hmm, maybe I misinterpreted. It could mean how many positions away each is from the other in the hierarchy, so it's just a numerical difference regardless of order.
+
+Alternatively, perhaps the user made a typo and meant to ask how many ranks the Lord High Treasurer is above or below the Lord High Steward. But according to the table, Lord High Steward is Position 1, and Lord High Treasurer is Position 3. So they are two positions apart in rank. Therefore, the answer would be that there's a difference of two ranks between them.
+
+Wait, but another way: counting each step. From Position 1 (Steward) to 2 (Chancellor), then to 3 (Treasurer). That's two steps higher. So they're two ranks apart.
+</think>
+
+Final Answer: 2
+===================Answer===================
+2

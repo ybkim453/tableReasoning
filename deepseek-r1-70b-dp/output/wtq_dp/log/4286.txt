@@ -1,0 +1,44 @@
+===================Title===================
+2010 Woodlands Wellington FC season
+===================Table===================
+|    | Position   | Player            | Transferred From    | Date             |
+|---:|:-----------|:------------------|:--------------------|:-----------------|
+|  0 | GK         | Fajar Sarib       | Geylang United      | 1 January 2010   |
+|  1 | GK         | Hafez Mawasi      | Balestier Khalsa    | 1 January 2010   |
+|  2 | DF         | Winston Yap       | Sengkang Punggol    | 1 January 2010   |
+|  3 | DF         | Kazuki Yoshino    | Albirex Niigata (S) | 1 January 2010   |
+|  4 | DF         | Sahairi Ramri     | Balestier Khalsa    | 1 January 2010   |
+|  5 | MF         | Syed Karim        | SAFFC               | 1 January 2010   |
+|  6 | MF         | Mohd Noor Ali     | Geylang United      | 1 January 2010   |
+|  7 | MF         | Guntur Djafril    | SAFFC               | 1 January 2010   |
+|  8 | MF         | Sazali Salleh     | Sengkang Punggol    | 1 January 2010   |
+|  9 | FW         | Laakkad Abdelhadi | Free Transfer       | 1 January 2010   |
+| 10 | FW         | Rizawan Abdullah  | Balestier Khalsa    | 1 January 2010   |
+| 11 | MF         | Rachid Lajane     | Raja Al Hoceima     | 26 February 2010 |
+===================Question===================
+tell me the number of players transferred on january 1.
+===================Text===================
+<think>
+Okay, so I need to figure out how many players were transferred on January 1st based on the table provided. Let me look at each row one by one.
+
+Starting from the top:
+
+- Player Fajar Sarib was transferred on Jan 1, that's one.
+- Hafez Mawasi also on Jan 1, so two now.
+- Winston Yap, another one on Jan 1, making it three.
+- Kazuki Yoshino, same date, four.
+- Sahairi Ramri, Jan 1 again, five.
+- Syed Karim, sixth player on that day.
+- Mohd Noor Ali, seventh on the first of January.
+- Guntur Djafril, eighth player transferred then.
+- Sazali Salleh, ninth on Jan 1.
+- Laakkad Abdelhadi, tenth on that date as well.
+
+Wait, there's one more: Rachid Lajane was transferred on February 26th. So he doesn't count towards January 1st transfers.
+
+So adding them up, from player 0 to 9, all have the transfer date as Jan 1 except the last one at index 11 who is on Feb 26. That makes a total of 10 players transferred on January 1.
+</think>
+
+Final Answer: 10
+===================Answer===================
+11

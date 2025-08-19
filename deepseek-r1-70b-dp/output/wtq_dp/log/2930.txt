@@ -1,0 +1,39 @@
+===================Title===================
+2006 Yokohama F. Marinos season
+===================Table===================
+|    | Match           | Date   | Venue   | Opponents   | Score   |
+|---:|:----------------|:-------|:--------|:------------|:--------|
+|  0 | GL-A-1          | 2006.. | [[]]    | [[]]        | -       |
+|  1 | GL-A-2          | 2006.. | [[]]    | [[]]        | -       |
+|  2 | GL-A-3          | 2006.. | [[]]    | [[]]        | -       |
+|  3 | GL-A-4          | 2006.. | [[]]    | [[]]        | -       |
+|  4 | GL-A-5          | 2006.. | [[]]    | [[]]        | -       |
+|  5 | GL-A-6          | 2006.. | [[]]    | [[]]        | -       |
+|  6 | Quarterfinals-1 | 2006.. | [[]]    | [[]]        | -       |
+|  7 | Quarterfinals-2 | 2006.. | [[]]    | [[]]        | -       |
+|  8 | Semifinals-1    | 2006.. | [[]]    | [[]]        | -       |
+|  9 | Semifinals-2    | 2006.. | [[]]    | [[]]        | -       |
+===================Question===================
+hoe many matches have no score listed?
+===================Text===================
+<think>
+Alright, so I need to figure out how many matches in this table have no score listed. Let me start by looking at each row one by one.
+
+The table has 10 rows, from 0 to 9. Each row represents a different match. The "Score" column is where the result of each match should be, but I'm checking if it's filled or not. 
+
+Looking at each row:
+
+- Row 0: Score is "-" which indicates no score.
+- Row 1: Same as above, score is "-".
+- Row 2: Again, "-" so no score here either.
+- Rows 3, 4, 5: All have "-" in the score column. That's three more without scores.
+- Now rows 6 to 9 also show "-" for each of their scores.
+
+So adding them up: rows 0 through 9 all have "-", meaning none of the matches have a score listed. That makes a total of 10 matches with no score.
+</think>
+
+The table has 10 matches, and all of them have a "-" in the "Score" column, indicating that no scores are listed.
+
+Final Answer: 10
+===================Answer===================
+10

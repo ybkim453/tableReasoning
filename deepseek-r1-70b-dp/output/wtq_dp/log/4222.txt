@@ -1,0 +1,74 @@
+===================Title===================
+Men's 200 metres world record progression
+===================Table===================
+|    | Time   | Wind   | Auto   | Athlete        | Nationality    | Location of race              | Date              |
+|---:|:-------|:-------|:-------|:---------------|:---------------|:------------------------------|:------------------|
+|  0 | 20.6y  | nan    | nan    | Andy Stanfield | United States  | Philadelphia, United States   | May 26, 1951      |
+|  1 | 20.6   | nan    | nan    | Andy Stanfield | United States  | Los Angeles, United States    | June 28, 1952     |
+|  2 | 20.6   | 0.0    | nan    | Thane Baker    | United States  | Bakersfield, United States    | June 23, 1956     |
+|  3 | 20.6   | nan    | 20.75  | Bobby Morrow   | United States  | Melbourne, Australia          | November 27, 1956 |
+|  4 | 20.6   | nan    | nan    | Manfred Germar | West Germany   | Wuppertal, Germany            | October 1, 1958   |
+|  5 | 20.6y  | −1.6   | nan    | Ray Norton     | United States  | Berkeley, United States       | March 19, 1960    |
+|  6 | 20.6   | nan    | nan    | Ray Norton     | United States  | Philadelphia, United States   | April 30, 1960    |
+|  7 | 20.5y  | nan    | nan    | Peter Radford  | United Kingdom | Wolverhampton, United Kingdom | May 28, 1960      |
+|  8 | 20.5   | 0.0    | 20.75  | Stone Johnson  | United States  | Stanford, United States       | July 2, 1960      |
+|  9 | 20.5   | 0.0    | nan    | Ray Norton     | United States  | Stanford, United States       | July 2, 1960      |
+| 10 | 20.5   | nan    | 20.65  | Livio Berruti  | Italy          | Rome, Italy                   | September 3, 1960 |
+| 11 | 20.5   | nan    | 20.62  | Livio Berruti  | Italy          | Rome, Italy                   | September 3, 1960 |
+| 12 | 20.5y  | −1.1   | 20.67  | Paul Drayton   | United States  | Walnut, United States         | June 23, 1962     |
+| 13 | 20.3y  | −0.1   | nan    | Henry Carr     | United States  | Tempe, United States          | March 23, 1963    |
+| 14 | 20.2y  | 0.5    | nan    | Henry Carr     | United States  | Tempe, United States          | April 4, 1964     |
+| 15 | 20.0y  | 0.0    | nan    | Tommie Smith   | United States  | Sacramento, United States     | June 11, 1968     |
+| 16 | 19.8A  | 0.9    | 19.83A | Tommie Smith   | United States  | Mexico City, Mexico           | October 16, 1968  |
+| 17 | 19.8A  | 0.9    | 19.86A | Donald Quarrie | Jamaica        | Cali, Colombia                | August 3, 1971    |
+| 18 | 19.8+  | 1.3    | nan    | Donald Quarrie | Jamaica        | Eugene, Oregon, United States | June 7, 1975      |
+===================Question===================
+which nationality had a total of 13 wins?
+===================Text===================
+<think>
+Okay, so I need to figure out which nationality had a total of 13 wins based on the given table about Men's 200 meters world record progression. Let me look through each row and count how many times each nationality appears.
+
+Starting from the top:
+
+0: United States  
+1: United States  
+2: United States  
+3: United States  
+4: West Germany  
+5: United States  
+6: United States  
+7: United Kingdom  
+8: United States  
+9: United States  
+10: Italy  
+11: Italy  
+12: United States  
+13: United States  
+14: United States  
+15: United States  
+16: United States  
+17: Jamaica  
+18: Jamaica  
+
+Now, let's count each nationality:
+
+United States: Let me go through the entries. Entries 0 to 2 are USA, that's 3. Entry 3 is also USA, so 4. Entry 4 is West Germany, so skip. Entry 5 and 6 are USA, making it 6. Entry7 is UK, entry8 and 9 are USA (total 8). Entries10 and 11 are Italy (so 2 each). Then entries12-16 are USA: that's five more, bringing the total to 13. So USA has 13 wins.
+
+Wait, let me recount to make sure:
+
+Entries:
+0-2: 3
+3:4
+5-6:6
+8-9:8
+12:9
+13-14:11
+15:12
+16:13
+
+So yes, the United States had 13 entries in the table. Other nationalities have fewer.
+</think>
+
+Final Answer: United States
+===================Answer===================
+United States

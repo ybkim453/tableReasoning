@@ -1,0 +1,46 @@
+===================Title===================
+List of radio station callsigns in Tasmania
+===================Table===================
+|    | Callsign   | Area served   |   Frequency | Band   | Fate                                                | Freq currently   | Purpose    |
+|---:|:-----------|:--------------|------------:|:-------|:----------------------------------------------------|:-----------------|:-----------|
+|  0 | 7CAE       | Hobart        |        92.1 | FM     | Changed call to 7THE ca. 1980                       | 7THE             | Community  |
+|  1 | 7DY        | Derby         |       nan   | AM     | Moved to Scottsdale and changed call to 7SD in 1954 | 7SD              | Commercial |
+|  2 | 7EX        | Launceston    |      1008   | AM     | Moved to FM in 2008 as 7EXX                         | silent           | Commercial |
+|  3 | 7HO        | Hobart        |       864   | AM     | Moved to FM in 1990 as 7HHO                         | 7RPH             | Commercial |
+|  4 | 7HT        | Hobart        |      1080   | AM     | Moved to FM in 1998 as 7XXX                         | 7TAB (HPON)      | Commercial |
+|  5 | 7LA        | Launceston    |      1098   | AM     | Moved to FM in 2008 as 7LAA                         | silent           | Commercial |
+|  6 | 7NT        | Launceston    |       711   | AM     | Moved to FM in 2006, retained call                  | silent           | National   |
+|  7 | 7QN        | Queenstown    |       630   | AM     | Moved to FM in 1991, retained call                  | 7RN              | National   |
+|  8 | 7QT        | Queenstown    |       837   | AM     | Changed call to 7XS in 1988                         | 7XS              | Commercial |
+|  9 | 7UV        | Ulverstone    |       nan   | AM     | Moved to Devonport and changed call to 7AD in 1940  | 7AD              | Commercial |
+| 10 | 7ZL        | Hobart        |       603   | AM     | Changed call to 7RN in 1991                         | 7RN              | National   |
+===================Question===================
+derby and which other station are the only ones to not have a frequency?
+===================Text===================
+<think>
+Okay, so I need to figure out which stations besides Derby don't have a frequency listed in the table. Let's take a look at the table provided.
+
+First, the question asks about "derby and which other station are the only ones to not have a frequency?" So, I'm focusing on the 'Frequency' column because that's where the numbers should be. If the frequency is listed as 'nan,' that probably means there's no data or it's missing.
+
+Looking through each row:
+
+- Row 0: Callsign 7CAE has Frequency 92.1 FM. So, yes, it has a frequency.
+- Row 1: Callsign 7DY serves Derby, and its Frequency is 'nan.' That's one without a frequency.
+- Row 2: 7EX has 1008 AM. So, that's there.
+- Row 3: 7HO at 864 AM. Got it.
+- Row 4: 7HT with 1080 AM. Present.
+- Row 5: 7LA at 1098 AM. Yes.
+- Row 6: 7NT is 711 AM. There's a frequency.
+- Row 7: 7QN has 630 AM. That's listed.
+- Row 8: 7QT with 837 AM. Yep, it's there.
+- Row 9: 7UV shows 'nan' for Frequency. So that's another one without a frequency.
+- Row 10: 7ZL at 603 AM. It has the frequency.
+
+So, from this, besides Derby (7DY), the other station without a frequency is Ulverstone with callsign 7UV. Therefore, both 7DY and 7UV have 'nan' in their Frequency column.
+</think>
+
+Derby's callsign is 7DY, and the other station without a frequency is 7UV serving Ulverstone.
+
+Final Answer: 7DY, 7UV
+===================Answer===================
+Ulverstone

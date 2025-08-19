@@ -1,0 +1,39 @@
+===================Title===================
+Levanger
+===================Table===================
+|    | Parish     | Church name       | Location   |   Year built |
+|---:|:-----------|:------------------|:-----------|-------------:|
+|  0 | Alstadhaug | Alstadhaug Church | Alstadhaug |         1180 |
+|  1 | Ekne       | Ekne Church       | Ekne       |         1893 |
+|  2 | Levanger   | Levanger Church   | Levanger   |         1902 |
+|  3 | Levanger   | Bamberg Church    | Levanger   |         1998 |
+|  4 | Markabygd  | Markabygda Church | Markabygd  |         1887 |
+|  5 | Okkenhaug  | Okkenhaug Chapel  | Okkenhaug  |         1893 |
+|  6 | Ytterøy    | Ytterøy Church    | Ytterøya   |         1890 |
+|  7 | Åsen      | Åsen Church      | Åsen      |         1904 |
+===================Question===================
+what parish had more than one church built.
+===================Text===================
+<think>
+Alright, so I need to figure out which parish had more than one church built based on the table provided about Levanger. Let's start by understanding the structure of the table.
+
+The table has five columns: Parish, Church name, Location, and Year built. Each row represents a different church with its corresponding details.
+
+I'll go through each row to identify the parishes and count how many churches each parish has.
+
+1. The first row is for Alstadhaug parish with one church.
+2. The second row shows Ekne parish with one church.
+3. Now, looking at the third row, it's Levanger parish with Levanger Church built in 1902.
+4. The fourth row also lists Levanger as the parish but a different church named Bamberg Church, built in 1998.
+5. Moving on, Markabygd parish has one church.
+6. Okkenhaug parish also has just one chapel.
+7. Ytterøy and Åsen each have one church.
+
+From this, I can see that Levanger is the only parish with two entries: Levanger Church (1902) and Bamberg Church (1998). All other parishes have only one church each.
+
+So, it's clear that Levanger parish had more than one church built.
+</think>
+
+Final Answer: Levanger
+===================Answer===================
+Levanger

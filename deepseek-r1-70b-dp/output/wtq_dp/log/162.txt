@@ -1,0 +1,123 @@
+===================Title===================
+List of storms on the Great Lakes
+===================Table===================
+|    | Ship             | Type of Vessel   | Lake          | Location                         | Lives lost   |
+|---:|:-----------------|:-----------------|:--------------|:---------------------------------|:-------------|
+|  0 | Argus            | Steamer          | Lake Huron    | 25 miles off Kincardine, Ontario | 25 lost      |
+|  1 | James Carruthers | Steamer          | Lake Huron    | near Kincardine                  | 18 lost      |
+|  2 | Hydrus           | Steamer          | Lake Huron    | near Lexington, Michigan         | 28 lost      |
+|  3 | Leafield         | Steamer          | Lake Superior | nan                              | all hands    |
+|  4 | John A. McGean   | Steamer          | Lake Huron    | near Goderich, Ontario           | 28 lost      |
+|  5 | Plymouth         | Barge            | Lake Michigan | nan                              | 7 lost       |
+|  6 | Charles S. Price | Steamer          | Lake Huron    | near Port Huron, Michigan        | 28 lost      |
+|  7 | Regina           | Steamer          | Lake Huron    | near Harbor Beach, Michigan      | nan          |
+|  8 | Issac M. Scott   | Steamer          | Lake Huron    | near Port Elgin, Ontario         | 28 lost      |
+|  9 | Henry B. Smith   | Steamer          | Lake Superior | nan                              | all hands    |
+| 10 | Wexford          | Steamer          | Lake Huron    | north of Grand Bend, Ontario     | all hands    |
+| 11 | Lightship No. 82 | Lightship        | Lake Erie     | Point Albino (near Buffalo)      | 6 lost       |
+===================Question===================
+how many ships are listed as a steamer?
+===================Text===================
+<think>
+Okay, so I'm trying to figure out how many ships in the given table are listed as steamers. Let me look at the table step by step.
+
+First, I see that each row represents a different ship with various details like Ship name, Type of Vessel, Lake, Location, and Lives lost. The question is specifically asking about the "Type of Vessel" being a steamer.
+
+I'll go through each entry one by one to check their vessel type.
+
+1. **Argus**: It's listed as a Steamer.
+2. **James Carruthers**: Also a Steamer.
+3. **Hydrus**: Again, a Steamer.
+4. **Leafield**: This is another Steamer.
+5. **John A. McGean**: Steamer once more.
+6. **Plymouth**: Here, the type is Barge, so not a steamer.
+7. **Charles S. Price**: Steamer.
+8. **Regina**: This one's also a Steamer.
+9. **Issac M. Scott**: Steamer as well.
+10. **Henry B. Smith**: Another Steamer.
+11. **Wexford**: This is a Steamer too.
+12. **Lightship No. 82**: The type here is Lightship, so not a steamer.
+
+Now, let me count how many steamers there are:
+
+- Rows 0 to 4: All steamers except the 6th row (Plymouth).
+Wait, actually, from rows 0 to 11, excluding row 6 and 12, all others are steamers. Let's recount:
+
+1. Argus
+2. James Carruthers
+3. Hydrus
+4. Leafield
+5. John A. McGean
+7. Charles S. Price
+8. Regina
+9. Issac M. Scott
+10. Henry B. Smith
+11. Wexford
+
+That's 11 entries, but wait, the count might be a bit off because I think I missed Plymouth as non-steamer and Lightship No.82 also. So total entries are 12, but two of them aren't steamers.
+
+So out of 12 ships, 10 are steamers, 1 is a Barge (Plymouth), and 1 is a Lightship (Lightship No.82).
+
+Wait no, let's recount:
+
+Looking at each row from 0 to 11:
+
+0: Steamer
+1: Steamer
+2: Steamer
+3: Steamer
+4: Steamer
+5: Barge
+6: Steamer
+7: Steamer
+8: Steamer
+9: Steamer
+10: Steamer
+11: Lightship
+
+So rows 0-11, which is 12 entries. From these, row 5 (Plymouth) and row 11 (Lightship No.82) are not steamers.
+
+That means 12 total minus 2 non-steamers equals 10 steamers.
+
+Wait, no, because in the table provided, from 0 to 11, that's 12 entries:
+
+Rows 0: Steamer
+1: Steamer
+2: Steamer
+3: Steamer
+4: Steamer
+5: Barge (not steamer)
+6: Steamer
+7: Steamer
+8: Steamer
+9: Steamer
+10: Steamer
+11: Lightship (not steamer)
+
+So that's 12 entries, 2 are non-steamers. Therefore, 10 steamers.
+
+Wait, but my initial count said 10, but let me go through each entry again:
+
+0. Argus - Steamer
+1. James Carruthers - Steamer
+2. Hydrus - Steamer
+3. Leafield - Steamer
+4. John A. McGean - Steamer
+5. Plymouth - Barge (not)
+6. Charles S. Price - Steamer
+7. Regina - Steamer
+8. Issac M. Scott - Steamer
+9. Henry B. Smith - Steamer
+10. Wexford - Steamer
+11. Lightship No.82 - Lightship (not)
+
+So that's 0-4: 5 steamers
+
+6-10: 5 more steamers, that makes 10.
+
+Yes, so total of 10 steamers.
+</think>
+
+Final Answer: 10
+===================Answer===================
+10

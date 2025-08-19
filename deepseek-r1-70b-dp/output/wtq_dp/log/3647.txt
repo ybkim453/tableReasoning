@@ -1,0 +1,62 @@
+===================Title===================
+1972 Minnesota Vikings season
+===================Table===================
+|    |   Week | Date         | Opponent               | Results\nFinal score   | Results\nTeam record   | Venue                         | Attendance   |
+|---:|-------:|:-------------|:-----------------------|:-----------------------|:-----------------------|:------------------------------|:-------------|
+|  0 |      1 | September 18 | Washington Redskins    | L 24–21                | 0–1                    | Metropolitan Stadium          | 47,900       |
+|  1 |      2 | September 24 | at Detroit Lions       | W 34–10                | 1–1                    | Tiger Stadium                 | 54,418       |
+|  2 |      3 | October 1    | Miami Dolphins         | L 16–14                | 1–2                    | Metropolitan Stadium          | 47,900       |
+|  3 |      4 | October 8    | St. Louis Cardinals    | L 19–17                | 1–3                    | Metropolitan Stadium          | 49,687       |
+|  4 |      5 | October 15   | at Denver Broncos      | W 23–20                | 2–3                    | Mile High Stadium             | 51,656       |
+|  5 |      6 | October 23   | at Chicago Bears       | L 13–10                | 2–4                    | Soldier Field                 | 55,701       |
+|  6 |      7 | October 29   | at Green Bay Packers   | W 27–13                | 3–4                    | Lambeau Field                 | 56,263       |
+|  7 |      8 | November 5   | New Orleans Saints     | W 37–6                 | 4–4                    | Metropolitan Stadium          | 49,784       |
+|  8 |      9 | November 12  | Detroit Lions          | W 16–14                | 5–4                    | Metropolitan Stadium          | 49,784       |
+|  9 |     10 | November 19  | at Los Angeles Rams    | W 45–41                | 6–4                    | Los Angeles Memorial Coliseum | 77,982       |
+| 10 |     11 | November 26  | at Pittsburgh Steelers | L 23–10                | 6–5                    | Three Rivers Stadium          | 50,348       |
+| 11 |     12 | December 3   | Chicago Bears          | W 23–10                | 7–5                    | Metropolitan Stadium          | 49,784       |
+| 12 |     13 | December 10  | Green Bay Packers      | L 23–7                 | 7–6                    | Metropolitan Stadium          | 49,784       |
+| 13 |     14 | December 16  | at San Francisco 49ers | L 20–17                | 7–7                    | Candlestick Park              | 61,214       |
+===================Question===================
+what is the total of attendees for the december games?
+===================Text===================
+<think>
+Okay, so I need to find the total number of attendees for the December games in the 1972 Minnesota Vikings season based on the provided table. Let me look at each row and identify which games were played in December.
+
+First, scanning through the "Date" column:
+
+- Week 11: November 26 vs Pittsburgh Steelers (not December)
+- Week 12: December 3 vs Chicago Bears
+- Week 13: December 10 vs Green Bay Packers
+- Week 14: December 16 at San Francisco 49ers
+
+So, there are three games in December: weeks 12, 13, and 14.
+
+Now, I'll note the attendance for each of these:
+
+- Week 12 (Dec 3): Attendance is 49,784
+- Week 13 (Dec 10): Attendance is also 49,784
+- Week 14 (Dec 16): Attendance is 61,214
+
+To find the total attendees, I'll add these numbers together.
+
+First, add week 12 and week 13: 49,784 + 49,784. Let me calculate that:
+
+49,784 * 2 = 99,568.
+
+Then, add week 14's attendance: 99,568 + 61,214.
+
+Calculating this sum: 
+
+99,568 + 60,000 is 159,568.
+
+Then subtract the difference because it's 61,214, which is 1,214 more than 60,000. So:
+
+159,568 + 1,214 = 160,782.
+
+So, the total attendees for December games should be 160,782.
+</think>
+
+Final Answer: 160782
+===================Answer===================
+160782

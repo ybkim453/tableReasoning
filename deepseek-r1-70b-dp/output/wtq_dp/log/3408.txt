@@ -1,0 +1,37 @@
+===================Title===================
+IC 342/Maffei Group
+===================Table===================
+|    | Name             | Type      | R.A. (J2000)   | Dec. (J2000)    | Redshift (km/s)   | Apparent Magnitude   |
+|---:|:-----------------|:----------|:---------------|:----------------|:------------------|:---------------------|
+|  0 | Camelopardalis A | Irr       | 04h 26m 16.3s  | +72° 48′ 21′′   | -46 ± 1           | 14.8                 |
+|  1 | Camelopardalis B | Irr       | 04h 53m 07.1s  | +67° 05′ 57′′   | 77                | 16.1                 |
+|  2 | Cassiopeia 1     | dIrr      | 02h 06m 02.8s  | +68° 59′ 59′′   | 35                | 16.4                 |
+|  3 | IC 342           | SAB(rs)cd | 03h 46m 48.5s  | +68° 05′ 46′′   | 31 ± 3            | 9.1                  |
+|  4 | KK 35            | Irr       | 03h 45m 12.6s  | +67° 51′ 51′′   | 105 ± 1           | 17.2                 |
+|  5 | NGC 1560         | SA(s)d    | 04h 32m 49.1s  | +71° 52′ 59′′   | -36 ± 5           | 12.2                 |
+|  6 | NGC 1569         | Sbrst     | 04h 30m 49.1s  | +64° 50′ 52,6′′ | -104 ± 4          | 11,2                 |
+|  7 | UGCA 86          | Im        | 03h 59m 50.5s  | +67° 08′ 37′′   | 67 ± 4            | 13.5                 |
+|  8 | UGCA 92          | Im        | 04h 32m 04.9s  | +63° 36′ 49.0′′ | -99 ± 5           | 13.8                 |
+|  9 | UGCA 105         | Im        | 05h 14m 15.3s  | +62° 34′ 48′′   | 111 ± 5           | 13.9                 |
+===================Question===================
+which member of ic 342 subgroup is the only sab(rs)cd type?
+===================Text===================
+<think>
+Okay, so I have this table about the IC 342/Maffei Group, and I need to find out which member of the IC 342 subgroup is the only one with the type SAB(rs)cd. Let me start by understanding what each part means.
+
+First, looking at the table headers: Name, Type, R.A., Dec., Redshift, Apparent Magnitude. Since we're focusing on the "Type" column, I should look for the entry that has "SAB(rs)cd".
+
+I'll go through each row one by one to check their types.
+
+Row 0: Camelopardalis A is Irr type.
+Row 1: Camelopardalis B is also Irr.
+Row 2: Cassiopeia 1 is dIrr. That's different but not SAB.
+Row 3: Here, IC 342 is listed as SAB(rs)cd. That seems to be the one we're looking for.
+Rows 4-9: The types are Irr, SA(s)d, Sbrst, Im, Im, Im. None of these match SAB(rs)cd.
+
+So, among all the members in the table, only IC 342 has that specific type. Therefore, it's the only member with SAB(rs)cd.
+</think>
+
+Final Answer: IC 342
+===================Answer===================
+IC 342

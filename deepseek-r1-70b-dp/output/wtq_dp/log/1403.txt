@@ -1,0 +1,44 @@
+===================Title===================
+M6 Toll
+===================Table===================
+|    | Date introduced   | Class 1 (e.g. Motorbike)   | Class 2 (e.g. Car)   | Class 3 (e.g. Car with trailer)   | Class 4 (e.g. Van)   | Class 5 (e.g. HGV)   |
+|---:|:------------------|:---------------------------|:---------------------|:----------------------------------|:---------------------|:---------------------|
+|  0 | 9 December 2003   | £1.00                      | £2.00                | £5.00                             | £5.00                | £10.00               |
+|  1 | 23 July 2004      | £1.00                      | £2.00                | £5.00                             | £5.00                | £6.00                |
+|  2 | 16 August 2004    | £2.00                      | £3.00                | £6.00                             | £6.00                | £6.00                |
+|  3 | 14 June 2005      | £2.50                      | £3.50                | £7.00                             | £7.00                | £7.00                |
+|  4 | 1 January 2008    | £2.50                      | £4.50                | £8.00                             | £9.00                | £9.00                |
+|  5 | 1 January 2009    | £2.70                      | £4.70                | £8.40                             | £9.40                | £9.40                |
+|  6 | 1 March 2010      | £2.70                      | £5.00                | £9.00                             | £10.00               | £10.00               |
+|  7 | 1 March 2011      | £3.00                      | £5.30                | £9.60                             | £10.60               | £10.60               |
+|  8 | 1 March 2012      | £3.00                      | £5.50                | £10.00                            | £11.00               | £11.00               |
+===================Question===================
+what is the difference in price from class 1 to class 3 on december 9 of 2003?
+===================Text===================
+<think>
+Okay, so I need to figure out the difference in price from Class 1 to Class 3 on December 9, 2003, using the given table about M6 Toll charges. Let me start by understanding what each part of the question is asking.
+
+First, the table has columns for different classes and their prices over various dates. The rows are numbered from 0 to 8, with each row representing a specific date when the toll charges were introduced or changed. Each class (1 through 5) corresponds to different vehicle types, such as motorbikes, cars, vans, etc.
+
+The question is asking about December 9, 2003. Looking at the table, I see that Date Introduced for row 0 is "9 December 2003". So, I need to focus on row 0 for this date.
+
+Now, the classes in question are Class 1 and Class 3. From the headers, Class 1 includes motorbikes, and Class 3 includes cars with trailers. The prices for these classes on that specific date would be under their respective columns in row 0.
+
+Looking at the table:
+
+- For Date 9 December 2003 (row 0):
+  - Class 1: £1.00
+  - Class 3: £5.00
+
+So, to find the difference in price from Class 1 to Class 3 on that date, I subtract the Class 1 price from the Class 3 price.
+
+Calculating: £5.00 (Class 3) minus £1.00 (Class 1) equals £4.00.
+
+I should make sure that I'm looking at the correct classes and not mixing up any numbers. Class 2 is cars, but we need to go from Class 1 to Class 3 directly. So yes, it's just subtracting those two values.
+</think>
+
+The difference in price from Class 1 (£1.00) to Class 3 (£5.00) on December 9, 2003, is calculated by subtracting the Class 1 price from the Class 3 price.
+
+Final Answer: £4.00
+===================Answer===================
+£4.00

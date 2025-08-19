@@ -1,0 +1,108 @@
+===================Title===================
+List of awards and nominations received by Charlie Sheen
+===================Table===================
+|    |   Year | Result    | Award                                                                                      | Film                 |
+|---:|-------:|:----------|:-------------------------------------------------------------------------------------------|:---------------------|
+|  0 |   1989 | Won       | Bronze Wrangler Theatrical Motion Picture                                                  | Young Guns           |
+|  1 |   1999 | Nominated | SAG Award Outstanding Performance by a Cast in a Theatrical Motion Picture                 | Being John Malkovich |
+|  2 |   1999 | Nominated | Online Film Critics Society Award for Best Cast                                            | Being John Malkovich |
+|  3 |   2001 | Nominated | ALMA Award Outstanding Actor in a Television Series                                        | Spin City            |
+|  4 |   2002 | Nominated | ALMA Award Outstanding Actor in a Television Series                                        | Spin City            |
+|  5 |   2002 | Won       | Golden Globe Award Best Performance by an Actor in a Television Series - Musical or Comedy | Spin City            |
+|  6 |   2002 | Nominated | Kids' Choice Awards Favorite Television Actor                                              | Two and a Half Men   |
+|  7 |   2005 | Nominated | SAG Award Outstanding Performance by a Male Actor in a Comedy Series                       | Two and a Half Men   |
+|  8 |   2005 | Nominated | Golden Globe Award for Best Actor – Television Series Musical or Comedy                    | Two and a Half Men   |
+|  9 |   2006 | Won       | Golden Icon Award Best Actor - Comedy Series                                               | Two and a Half Men   |
+| 10 |   2006 | Nominated | Emmy Award for Outstanding Lead Actor - Comedy Series                                      | Two and a Half Men   |
+| 11 |   2006 | Nominated | Golden Globe Award for Best Actor – Television Series Musical or Comedy                    | Two and a Half Men   |
+| 12 |   2007 | Nominated | People's Choice Award Favorite Male TV Star                                                | nan                  |
+| 13 |   2007 | Nominated | Teen Choice Award Choice TV Actor: Comedy                                                  | Two and a Half Men   |
+| 14 |   2007 | Nominated | Emmy Award for Outstanding Lead Actor - Comedy Series                                      | Two and a Half Men   |
+| 15 |   2008 | Nominated | People's Choice Award Favorite Male TV Star                                                | nan                  |
+| 16 |   2008 | Nominated | Teen Choice Awards Choice TV Actor: Comedy                                                 | Two and a Half Men   |
+| 17 |   2008 | Nominated | Outstanding Lead Actor - Comedy Series                                                     | Two and a Half Men   |
+| 18 |   2008 | Won       | ALMA Award Outstanding Actor in a Comedy Television Series                                 | Two and a Half Men   |
+| 19 |   2010 | Nominated | SAG Award Outstanding Performance by a Male Actor in a Comedy Series                       | Two and a Half Men   |
+| 20 |   2012 | Won       | WWE Slammy Award Top Social Media Ambassador                                               | WWE Raw              |
+===================Question===================
+between 1989 and 2012 charlie sheen was nominated for his role in two and a half men how many times?
+===================Text===================
+<think>
+Okay, let's figure out how many times Charlie Sheen was nominated for his role in Two and a Half Men between 1989 and 2012 based on the table provided.
+
+First, I'll go through each row of the table and look for entries where the Film column is "Two and a Half Men". Then, I'll check if the Result is "Nominated" for those specific rows. 
+
+Starting from the top:
+
+- Row 0: Year 1989, Film is Young Guns, not relevant.
+- Row 1: 1999, Being John Malkovich, not our target.
+- Rows 2 and 3 are also about other films.
+- Jumping to row 5: 2002, Spin City won a Golden Globe, but that's another show.
+- Now, looking at rows where Film is "Two and a Half Men":
+  - Row 6: 2002, Nominated for Kids' Choice Awards
+  - Rows 7 and 8: Both in 2005, Nominated for SAG and Golden Globe
+  - Row 9: 2006, Won an award (not nomination)
+  - Rows 10,11: 2006, both Nominated for Emmy and Golden Globe
+  - Row 12: 2007, Film is "nan" so skip
+  - Rows 13,14: Both in 2007, Nominated for Teen Choice and Emmy
+  - Rows 15: 2008, Film is "nan", skip
+  - Rows 16,17: 2008, both Nominated for Teen Choice and Lead Actor
+  - Row 18: 2008, Won ALMA Award (not a nomination)
+  - Row 19: 2010, SAG Award Nomination
+
+Now, count the nominations:
+
+- 2002: 1
+- 2005: 2
+- 2006: 2 (Emmy and Golden Globe)
+- 2007: 2 (Teen Choice and Emmy)
+- 2008: 2 (Teen Choice and Lead Actor)
+- 2010: 1
+
+Wait, but row 12 in 2007 is "nan" for Film, so we shouldn't count that. So focusing only on rows where Film is exactly "Two and a Half Men".
+
+So specific counts:
+
+Row 6: 2002 - Nominated
+Rows 7 and 8: 2005 - both Noms (total 2)
+Rows 10 and 11: 2006 - both Noms (total 2)
+Rows 13,14: 2007 - both Noms (total 2)
+Rows 16,17: 2008 - both Noms (total 2)
+Row 19: 2010 - Nom
+
+Adding these up: 1 + 2 + 2 + 2 + 2 + 1 = 10.
+Wait, but let me recount the actual rows:
+
+Looking again:
+
+- Row6: 2002
+- Row7: 2005
+- Row8:2005 (so two in 2005)
+- Row10:2006
+- Row11:2006 (two in 2006)
+- Row13:2007
+- Row14:2007 (two in 2007)
+- Row16:2008
+- Row17:2008 (two in 2008)
+Wait, but rows 12 and15 have "nan" for Film, so they should be excluded.
+
+So total nominations:
+
+From 2002:1
+
+2005:2
+
+2006:2
+
+2007:2
+
+2008:2
+
+2010:1
+
+Total:1+2+2+2+2+1=10
+</think>
+
+Final Answer: 10
+===================Answer===================
+12

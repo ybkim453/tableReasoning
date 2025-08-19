@@ -1,0 +1,69 @@
+===================Title===================
+List of storms on the Great Lakes
+===================Table===================
+|    | Ship             | Type of Vessel   | Lake          | Location                         | Lives lost   |
+|---:|:-----------------|:-----------------|:--------------|:---------------------------------|:-------------|
+|  0 | Argus            | Steamer          | Lake Huron    | 25 miles off Kincardine, Ontario | 25 lost      |
+|  1 | James Carruthers | Steamer          | Lake Huron    | near Kincardine                  | 18 lost      |
+|  2 | Hydrus           | Steamer          | Lake Huron    | near Lexington, Michigan         | 28 lost      |
+|  3 | Leafield         | Steamer          | Lake Superior | nan                              | all hands    |
+|  4 | John A. McGean   | Steamer          | Lake Huron    | near Goderich, Ontario           | 28 lost      |
+|  5 | Plymouth         | Barge            | Lake Michigan | nan                              | 7 lost       |
+|  6 | Charles S. Price | Steamer          | Lake Huron    | near Port Huron, Michigan        | 28 lost      |
+|  7 | Regina           | Steamer          | Lake Huron    | near Harbor Beach, Michigan      | nan          |
+|  8 | Issac M. Scott   | Steamer          | Lake Huron    | near Port Elgin, Ontario         | 28 lost      |
+|  9 | Henry B. Smith   | Steamer          | Lake Superior | nan                              | all hands    |
+| 10 | Wexford          | Steamer          | Lake Huron    | north of Grand Bend, Ontario     | all hands    |
+| 11 | Lightship No. 82 | Lightship        | Lake Erie     | Point Albino (near Buffalo)      | 6 lost       |
+===================Question===================
+how many vessels were not lost on lake huron?
+===================Text===================
+<think>
+Alright, so I'm trying to figure out how many vessels were not lost on Lake Huron based on the given table. Let me go through this step by step.
+
+First, I need to understand what the question is asking. It’s about determining how many vessels didn't sink or weren't lost on Lake Huron. So, I should look at each entry in the table for Lake Huron and see if there's any indication that the vessel was lost or not.
+
+Looking at the table columns: Ship name, Type of Vessel, Lake, Location, Lives lost. The key here is to find out which ships on Lake Huron had no lives lost or weren't entirely lost. But wait, sometimes it might just say "nan" or "all hands," so I need to decode that.
+
+First, list all the entries for Lake Huron. Let's go through each row:
+
+- Row 0: Argus, Steamer, Lake Huron, Location given, Lives lost: 25 lost.
+- Row 1: James Carruthers, Steamer, Lake Huron, near Kincardine, 18 lost.
+- Row 2: Hydrus, Steamer, Lake Huron, near Lexington, Michigan, 28 lost.
+- Row 3: Leafield, Steamer, Lake Superior... Wait, no, that's Lake Superior. So skip this one because it's not on Lake Huron.
+- Row 4: John A. McGean, Steamer, Lake Huron, near Goderich, Ontario, 28 lost.
+- Row 5: Plymouth, Barge, Lake Michigan, so skip.
+- Row 6: Charles S. Price, Steamer, Lake Huron, near Port Huron, Michigan, 28 lost.
+- Row 7: Regina, Steamer, Lake Huron, near Harbor Beach, Michigan, Lives lost: nan.
+- Row 8: Issac M. Scott, Steamer, Lake Huron, near Port Elgin, Ontario, 28 lost.
+- Row 9: Henry B. Smith, Steamer, Lake Superior... Skip again.
+- Row 10: Wexford, Steamer, Lake Huron, north of Grand Bend, Ontario, "all hands" lost.
+- Row 11: Lightship No. 82, Lightship, Lake Erie... Not Huron.
+
+So focusing on the Lake Huron entries. Now, for each, check if lives were lost or not:
+
+- Argus: 25 lost → vessel was lost.
+- James Carruthers: 18 lost → vessel lost.
+- Hydrus: 28 lost → lost.
+- John A. McGean: 28 lost → lost.
+- Charles S. Price: 28 lost → lost.
+- Regina: "nan" under Lives lost.
+- Issac M. Scott: 28 lost → lost.
+- Wexford: "all hands" → everyone on board was lost.
+
+So, which ones were not lost? Only the one with "nan" in lives lost. That's Regina. But wait, does "nan" mean no lives were lost, or is it missing data? The question is about vessels not lost, so if "nan" means that there's no information on lives lost, but the vessel itself might still have been lost.
+
+Wait, perhaps I should interpret "lives lost" as an indicator of whether the vessel sank. If a vessel was lost (sank), it would have some lives lost, unless it was saved or didn't sink. But in maritime terms, a vessel is considered lost if it's either sunk or damaged beyond repair.
+
+But looking at the table, "Lives lost" might indicate that the vessel sank because people died. So, for Regina, since Lives lost is "nan," maybe no lives were lost, implying the vessel didn't sink or wasn't lost.
+
+Wait, but I should check if there's any other indication. For example, other entries with "all hands" likely mean everyone was lost, so the vessel was definitely lost. But nan could be that data isn't available, but perhaps in context, it means no lives were lost because the number is zero. Or maybe it's unknown.
+
+Alternatively, if the only two options are a specific number or "nan," perhaps "nan" implies that there was no loss of life, hence the vessel wasn't sunk or lost. So, in this case, Regina would be the only vessel on Lake Huron where lives weren't lost, meaning she wasn't lost.
+
+So, how many vessels on Lake Huron were not lost? Only one: Regina.
+</think>
+
+Final Answer: 1
+===================Answer===================
+4

@@ -1,0 +1,219 @@
+===================Title===================
+New South Wales 90 class locomotive
+===================Table===================
+|    |   Locomotive | Name                                                       | Serial No      | Entered Service   | Livery           |
+|---:|-------------:|:-----------------------------------------------------------|:---------------|:------------------|:-----------------|
+|  0 |         9001 | Ernest Henry                                               | 1373/918266-3  | May 94            | FreightCorp      |
+|  1 |         9002 | Michael Wendon                                             | 1374/918266-2  | May 94            | FreightCorp      |
+|  2 |         9003 | Matthew Ryan                                               | 1375/918266-1  | Aug 94            | FreightCorp      |
+|  3 |         9004 | Kevin Nichols                                              | 1376/918266-4  | May 94            | FreightCorp      |
+|  4 |         9005 | Kevin Barry                                                | 1377/918266-5  | May 94            | FreightCorp      |
+|  5 |         9006 | Murray Rose                                                | 1378/918266-6  | May 94            | FreightCorp      |
+|  6 |         9007 | Dunc Gray                                                  | 1379/918266-7  | May 94            | FreightCorp      |
+|  7 |         9008 | Ralph Doubell                                              | 1380/918266-8  | Aug 94            | FreightCorp      |
+|  8 |         9009 | Lionel Cox                                                 | 1381/918266-9  | Jul 94            | FreightCorp      |
+|  9 |         9010 | John Devitt                                                | 1382/918266-10 | Jul 94            | FreightCorp      |
+| 10 |         9011 | Kevan Gosper                                               | 1383/918266-11 | Jul 94            | FreightCorp      |
+| 11 |         9012 | Neil Brooks/Peter Evans/\nMark Kerry/Mark Tonelli          | 1384/918266-12 | Jun 94            | FreightCorp      |
+| 12 |         9013 | Michael Diamond                                            | 1385/918266-13 | Jun 94            | FreightCorp      |
+| 13 |         9014 | Peter Antonie/Stephen Hawkins                              | 1386/918266-14 | Jul 94            | FreightCorp      |
+| 14 |         9015 | Duncan Armstrong                                           | 1387/918266-15 | Jul 94            | FreightCorp      |
+| 15 |         9016 | Herb Elliott                                               | 1388/918266-16 | Jul 94            | FreightCorp      |
+| 16 |         9017 | Andrew Cooper/Nicholas Green/\nMichael McKay/James Tomkins | 1389/918266-17 | Jun 94            | FreightCorp      |
+| 17 |         9018 | John Konrads                                               | 1390/918266-18 | Jul 94            | FreightCorp      |
+| 18 |         9019 | Dean Lukin                                                 | 1391/918266-19 | Jul 94            | FreightCorp      |
+| 19 |         9020 | Russell Mark                                               | 1392/918266-20 | Jun 94            | FreightCorp      |
+| 20 |         9021 | Ian O'Brien                                                | 1393/918266-21 | Aug 94            | FreightCorp      |
+| 21 |         9022 | Clint Robinson                                             | 1394/918266-22 | Aug 94            | FreightCorp      |
+| 22 |         9023 | Robert Windle                                              | 1395/918266-23 | Oct 94            | FreightCorp      |
+| 23 |         9024 | John Winter                                                | 1396/918266-24 | Aug 94            | FreightCorp      |
+| 24 |         9025 | Todd Woodbridge/Mark Woodforde                             | 1397/918266-25 | Aug 94            | FreightCorp      |
+| 25 |         9026 | David Theile                                               | 1398/918266-26 | Oct 94            | FreightCorp      |
+| 26 |         9027 | -                                                          | 1399/918266-27 | Aug 94            | FreightCorp      |
+| 27 |         9028 | -                                                          | 1400/918266/28 | Aug 94            | FreightCorp      |
+| 28 |         9029 | -                                                          | 1401/918266/29 | Aug 94            | FreightCorp      |
+| 29 |         9030 | Australian Men's Hockey Team                               | 1402/918266-30 | Aug 94            | FreightCorp      |
+| 30 |         9031 | -                                                          | 1403/918266/31 | Aug 94            | FreightCorp      |
+| 31 |         9032 | -                                                          | 05-1692        | Nov 05            | Pacific National |
+| 32 |         9033 | -                                                          | 05-1693        | Nov 05            | Pacific National |
+| 33 |         9034 | -                                                          | 05-1694        | Nov 05            | Pacific National |
+| 34 |         9035 | -                                                          | 05-1695        | Nov 05            | Pacific National |
+===================Question===================
+how many locomotives have names ?
+===================Text===================
+<think>
+Okay, let's try to figure out how many locomotives have names based on this table. 
+
+First, I'll look at each row in the "Name" column and check if there's an actual name listed or just a dash ("-"). Each dash probably means that particular locomotive doesn't have a name.
+
+Starting from the top:
+
+- 9001: Ernest Henry – has a name.
+- 9002: Michael Wendon – named.
+- 9003: Matthew Ryan – yes.
+- 9004: Kevin Nichols – yes.
+- 9005: Kevin Barry – yes.
+- 9006: Murray Rose – yes.
+- 9007: Dunc Gray – yes.
+- 9008: Ralph Doubell – yes.
+- 9009: Lionel Cox – yes.
+- 9010: John Devitt – yes.
+- 9011: Kevan Gosper – yes.
+- 9012: Neil Brooks/Peter Evans/Mark Kerry/Mark Tonelli – multiple names, but still named.
+- 9013: Michael Diamond – yes.
+- 9014: Peter Antonie/Stephen Hawkins – two names here.
+- 9015: Duncan Armstrong – yes.
+- 9016: Herb Elliott – yes.
+- 9017: Andrew Cooper/Nicholas Green/Michael McKay/James Tomkins – multiple names.
+- 9018: John Konrads – yes.
+- 9019: Dean Lukin – yes.
+- 9020: Russell Mark – yes.
+- 9021: Ian O'Brien – yes.
+- 9022: Clint Robinson – yes.
+- 9023: Robert Windle – yes.
+- 9024: John Winter – yes.
+- 9025: Todd Woodbridge/Mark Woodforde – two names.
+- 9026: David Theile – yes.
+- 9027: - – no name.
+- 9028: - – no name.
+- 9029: - – no name.
+- 9030: Australian Men's Hockey Team – that's a name, even though it's an organization.
+- 9031: - – no name.
+- 9032: - – no name.
+- 9033: - – no name.
+- 9034: - – no name.
+- 9035: - – no name.
+
+Now I'll count the ones with names. Let me list them out:
+
+From 9001 to 9026, each seems to have a name except the ones marked "-". So from 9001 up to 9026, that's 26 locomotives (since 9026 is number 26). Wait no, the table goes beyond that because it continues up to 9035.
+
+Wait, actually, counting each row:
+
+Rows 0-25 are 9001-9026. Then rows 26 onwards are 9027-9035.
+
+So let's count how many have names:
+
+From 9001 (row 0) to 9026 (row 25):
+
+That's 26 locomotives, but check each row. Wait no, perhaps not exactly because some of the later ones might have "-".
+
+Wait, looking back: in rows 26-30, which are 9027-9031:
+
+- Rows 26,27,28,29,30: 9027 (no), 9028 (no), 9029 (no), 9030 (yes), 9031 (no). So only row 29 has a name.
+
+Rows 31-34 are 9032-9035:
+
+All have "-", so no names.
+
+Now, counting the named ones:
+
+From rows 0 to 25: let's see if any have "-". Wait in this range, from row 0 to 25 (which is up to 9026):
+
+Wait earlier I thought they all had names except some. Let me go through each:
+
+Row 0: name
+1: name
+2:name
+3:name
+4:name
+5:name
+6:name
+7:name
+8:name
+9:name
+10:name
+11:name (multiple, but yes)
+12:name
+13:names
+14:name
+15:name
+16:names
+17:name
+18:name
+19:name
+20:name
+21:name
+22:name
+23:name
+24:name
+25: name
+
+So rows 0-25: all have names except none in this range. Wait no, wait when I look at the initial list, in row 25 it's 9026, which has a name.
+
+Wait then from rows 0 to 30:
+
+Rows 26 is 9027: no
+27: 9028: no
+28: 9029: no
+29:9030: yes
+30:9031: no
+
+So rows 26-30: only row 29 has a name.
+
+Then rows beyond, 31-34 (locomotives 9032-9035) have no names.
+
+Wait but looking at the table, locomotive 9030 is in row 29 and does have a name. So that's one more.
+
+So total named are:
+
+From 9001 (row0) to 9026 (row25): all 26 of these seem to have names? Wait, no: wait from row0 to row30, there's 31 locomotives, but not necessarily all named.
+
+Wait let me recount:
+
+Each row represents one locomotive. So the total number is 35 rows, from 9001 (row0) to 9035 (row34).
+
+Now, I need to count each row where "Name" column isn't "-".
+
+Let's go step by step:
+
+Row 0: name – yes
+1: yes
+2:yes
+3:yes
+4:yes
+5:yes
+6:yes
+7:yes
+8:yes
+9:yes
+10:yes
+11:yes (multiple names)
+12:yes
+13:yes (two names)
+14:yes
+15:yes (one name, Herb Elliott)
+16:yes (multiple)
+17:yes
+18:yes
+19:yes
+20:yes
+21:yes
+22:yes
+23:yes
+24:yes
+25: yes (David Theile)
+26: no (dash)
+27: no
+28: no
+29: yes (Australian Men's Hockey Team)
+30: no
+31: no
+32: no
+33: no
+34: no
+
+Now, total named:
+
+Count the number of "yes". From row0 to row25: that's 26 rows. Then row29 is another "yes".
+
+So 26 +1 =27.
+
+Wait, but in row11 and others have multiple names, but each counts as one locomotive with a name.
+
+Yes, so total named are 27.
+</think>
+
+Final Answer: 27
+===================Answer===================
+27

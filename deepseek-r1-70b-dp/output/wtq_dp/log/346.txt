@@ -1,0 +1,65 @@
+===================Title===================
+Carlo Janka
+===================Table===================
+|    | Season   | Age         | Overall                 | Slalom         |   Giant\nSlalom | Super G   | Downhill   | Combined   |
+|---:|:---------|:------------|:------------------------|:---------------|----------------:|:----------|:-----------|:-----------|
+|  0 | 2007     | 20          | 130                     | –              |              40 | –         | –          | —          |
+|  1 | 2008     | 21          | 64                      | –              |              28 | 46        | 46         | 31         |
+|  2 | 2009     | 22          | 7                       | –              |               6 | 16        | 16         | 1          |
+|  3 | 2010     | 23          | 1                       | –              |               2 | 6         | 2          | 2          |
+|  4 | 2011     | 24          | 3                       | –              |               5 | 6         | 9          | 6          |
+|  5 | 2012     | 25          | 24                      | –              |              16 | 28        | 17         | 19         |
+|  6 | 2013     | 26          | 48                      | –              |              48 | 27        | 38         | 4          |
+|  7 | 2014     | 27          | 18                      | –              |              25 | 14        | 20         | 11         |
+|  8 | Season   | Date        | Location                | Race           |             nan | nan       | nan        | nan        |
+|  9 | 2009     | 13 Dec 2008 | Val d'Isère, France    | Giant slalom   |             nan | nan       | nan        | nan        |
+| 10 | 2009     | 16 Jan 2009 | Wengen, Switzerland     | Super Combined |             nan | nan       | nan        | nan        |
+| 11 | 2010     | 4 Dec 2009  | Beaver Creek, USA       | Super Combined |             nan | nan       | nan        | nan        |
+| 12 | 2010     | 5 Dec 2009  | Beaver Creek, USA       | Downhill       |             nan | nan       | nan        | nan        |
+| 13 | 2010     | 6 Dec 2009  | Beaver Creek, USA       | Giant Slalom   |             nan | nan       | nan        | nan        |
+| 14 | 2010     | 16 Jan 2010 | Wengen, Switzerland     | Downhill       |             nan | nan       | nan        | nan        |
+| 15 | 2010     | 10 Mar 2010 | Garmisch, Germany       | Downhill       |             nan | nan       | nan        | nan        |
+| 16 | 2010     | 12 Mar 2010 | Garmisch, Germany       | Giant Slalom   |             nan | nan       | nan        | nan        |
+| 17 | 2011     | 5 Mar 2011  | Kranjska Gora, Slovenia | Giant Slalom   |             nan | nan       | nan        | nan        |
+===================Question===================
+how many years was he at least in the top 20 overall?
+===================Text===================
+<think>
+Alright, so I need to figure out how many years Carlo Janka was at least in the top 20 overall based on the provided table. Let me start by understanding the structure of the table.
+
+The table has two main parts: seasons 2007 through 2014 with various rankings, and then a section that lists specific races with locations and dates. Since the question is about his overall ranking, I should focus on the first part of the table where the 'Overall' column is present.
+
+Looking at each season's Overall performance:
+
+- Season 2007: Overall rank is 130. That’s way below top 20.
+- Season 2008: Overall rank is 64. Still not in the top 20, but better than the previous year.
+- Season 2009: Overall rank drops to 7. Now we're talking, that's definitely within the top 20.
+- Season 2010: He reaches rank 1 overall. Clearly top 20.
+- Season 2011: His rank is 3. Still in the top 20.
+- Season 2012: Rank 24. That’s just outside the top 20, so it doesn't count.
+- Season 2013: Rank 48. Way below 20.
+- Season 2014: Rank 18. That's within the top 20 again.
+
+Wait, in my initial thought I might have missed that season 2014 is rank 18, which is indeed top 20.
+
+So let me list out the seasons where he was at least top 20 overall:
+
+2009 (7), 2010 (1), 2011 (3), and 2014 (18). That's four seasons. 
+
+Hold on, let me double-check each season to make sure I didn't miss any others or include incorrectly.
+
+- Season 2007: No.
+- 2008: No.
+- 2009: Yes.
+- 2010: Yes.
+- 2011: Yes.
+- 2012: No (24).
+- 2013: No.
+- 2014: Yes.
+
+So that's four years in total where he was at least top 20 overall. I think that's correct.
+</think>
+
+Final Answer: 4
+===================Answer===================
+4

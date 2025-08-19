@@ -1,0 +1,69 @@
+===================Title===================
+1989 NHL Entry Draft
+===================Table===================
+|    |   Pick # | Player          | Position   | Nationality    | NHL team              | College/junior/club team                 |
+|---:|---------:|:----------------|:-----------|:---------------|:----------------------|:-----------------------------------------|
+|  0 |      148 | Paul Krake      | Goalie     | Canada         | Quebec Nordiques      | University of Alaska Anchorage (NCAA)    |
+|  1 |      149 | Phil Huber      | Center     | Canada         | New York Islanders    | Kamloops Blazers (WHL)                   |
+|  2 |      150 | Derek Langille  | Defense    | Canada         | Toronto Maple Leafs   | North Bay Centennials (OHL)              |
+|  3 |      151 | Jim Solly       | Left Wing  | Canada         | Winnipeg Jets         | Bowling Green State University (NCAA)    |
+|  4 |      152 | Sergei Starikov | Defense    | Soviet Union   | New Jersey Devils     | CSKA Moscow (USSR)                       |
+|  5 |      153 | Milan Tichy     | Defense    | Czechoslovakia | Chicago Blackhawks    | Prince Albert Raiders (WHL)              |
+|  6 |      154 | Jon Pratt       | Left Wing  | United States  | Minnesota North Stars | Pingree High School (USHS-MA)            |
+|  7 |      155 | Rob Sangster    | Left Wing  | Canada         | Vancouver Canucks     | Kitchener Rangers (OHL)                  |
+|  8 |      156 | Kevin Plager    | Right Wing | United States  | St. Louis Blues       | Parkway North High School (USHS-MO)      |
+|  9 |      157 | Raymond Saumier | Right Wing | Canada         | Hartford Whalers      | Trois Rivieres Draveurs (QMJHL)          |
+| 10 |      158 | Andy Suhy       | Defense    | United States  | Detroit Red Wings     | Western Michigan University (NCAA)       |
+| 11 |      159 | Sverre Sears    | Defense    | United States  | Philadelphia Flyers   | Princeton University (NCAA)              |
+| 12 |      160 | Greg Spenrath   | Defense    | Canada         | New York Rangers      | Tri-City Americans (WHL)                 |
+| 13 |      161 | Derek Plante    | Center     | United States  | Buffalo Sabres        | Cloquet High School (USHS-MN)            |
+| 14 |      162 | Darcy Martini   | Defense    | Canada         | Edmonton Oilers       | Michigan Technological University (NCAA) |
+| 15 |      163 | David Shute     | Left Wing  | United States  | Pittsburgh Penguins   | Victoria Cougars (WHL)                   |
+| 16 |      164 | Rick Allain     | Defense    | Canada         | Boston Bruins         | Kitchener Rangers (OHL)                  |
+| 17 |      165 | Sean Whyte      | Right Wing | Canada         | Los Angeles Kings     | Guelph Platers (OHL)                     |
+| 18 |      166 | Dean Holoien    | Right Wing | Canada         | Washington Capitals   | Saskatoon Blades (WHL)                   |
+| 19 |      167 | Patrick Lebeau  | Left Wing  | Canada         | Montreal Canadiens    | St-Jean Lynx (QMJHL)                     |
+| 20 |      168 | Kevin Wortman   | Defense    | United States  | Calgary Flames        | American International College (NCAA)    |
+===================Question===================
+besides rob sangster, which other player was from the kitchener rangers club team?
+===================Text===================
+<think>
+Okay, so I need to figure out which player besides Rob Sangster was from the Kitchener Rangers club team based on the given table. Let me start by understanding what's being asked here.
+
+First, the question mentions "besides rob sangster," so Rob is already known to be from the Kitchener Rangers. My task is to find another player in the same table who is also listed as coming from that club team.
+
+Looking at the table, each row represents a different pick with various details about the players. The key columns here are "Player" and "College/junior/club team." I need to scan through each entry under the "College/junior/club team" column to see if any other player's team is listed as "Kitchener Rangers (OHL)."
+
+Let me go through the table row by row. Starting from the top:
+
+1. **Row 0**: Paul Krake - University of Alaska Anchorage, so not Kitchener.
+2. **Row 1**: Phil Huber - Kamloops Blazers, nope.
+3. **Row 2**: Derek Langille - North Bay Centennials, not them.
+4. **Row 3**: Jim Solly - Bowling Green State, different team.
+5. **Row 4**: Sergei Starikov - CSKA Moscow, USSR, so no.
+6. **Row 5**: Milan Tichy - Prince Albert Raiders, WHL, not Kitchener.
+7. **Row 6**: Jon Pratt - Pingree High School, USHS-MA, different team.
+8. **Row 7**: Rob Sangster - Kitchener Rangers (OHL). This is the one mentioned in the question.
+9. **Row 8**: Kevin Plager - Parkway North High School, not relevant.
+10. **Row 9**: Raymond Saumier - Trois Rivieres Draveurs, QMJHL, nope.
+11. **Row 10**: Andy Suhy - Western Michigan University, NCAA, different team.
+12. **Row 11**: Sverre Sears - Princeton University, still not Kitchener.
+13. **Row 12**: Greg Spenrath - Tri-City Americans, WHL, not the same.
+14. **Row 13**: Derek Plante - Cloquet High School, USHS-MN, different team.
+15. **Row 14**: Darcy Martini - Michigan Tech University, NCAA.
+16. **Row 15**: David Shute - Victoria Cougars, WHL.
+17. **Row 16**: Rick Allain - Wait, here it is: Kitchener Rangers (OHL). So Rick Allain is another player from the same club team as Rob Sangster.
+
+I should double-check to ensure I didn't miss any other entries that might also be from Kitchener Rangers. Let me scan through the remaining rows just to confirm:
+
+18. **Row 17**: Sean Whyte - Guelph Platers, OHL.
+19. **Row 18**: Dean Holoien - Saskatoon Blades, WHL.
+20. **Row 19**: Patrick Lebeau - St-Jean Lynx, QMJHL.
+21. **Row 20**: Kevin Wortman - American International College, NCAA.
+
+No other entries match the Kitchener Rangers (OHL) team except for Rob Sangster and Rick Allain. Therefore, Rick Allain is the other player from that club team in addition to Rob Sangster.
+</think>
+
+Final Answer: Rick Allain
+===================Answer===================
+Rick Allain

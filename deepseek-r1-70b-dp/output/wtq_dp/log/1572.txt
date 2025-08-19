@@ -1,0 +1,76 @@
+===================Title===================
+Kansas City Brass
+===================Table===================
+|    |   Year |   Division | League     | Regular Season      | Playoffs        | Open Cup        |
+|---:|-------:|-----------:|:-----------|:--------------------|:----------------|:----------------|
+|  0 |   1998 |          4 | USISL PDSL | 4th, Central        | Division Finals | 1st Round       |
+|  1 |   1999 |          4 | USL PDL    | 5th, Heartland      | Did not qualify | Did not qualify |
+|  2 |   2000 |          4 | USL PDL    | 4th, Rocky Mountain | Did not qualify | Did not qualify |
+|  3 |   2001 |          4 | USL PDL    | 5th, Rocky Mountain | Did not qualify | Did not qualify |
+|  4 |   2002 |          4 | USL PDL    | 5th, Heartland      | Did not qualify | Did not qualify |
+|  5 |   2003 |          4 | USL PDL    | 5th, Heartland      | Did not qualify | Did not qualify |
+|  6 |   2004 |          4 | USL PDL    | 6th, Heartland      | Did not qualify | Did not qualify |
+|  7 |   2005 |          4 | USL PDL    | 3rd, Heartland      | Did not qualify | Did not qualify |
+|  8 |   2006 |          4 | USL PDL    | 3rd, Heartland      | Did not qualify | Did not qualify |
+|  9 |   2007 |          4 | USL PDL    | 3rd, Heartland      | Did not qualify | 1st Round       |
+| 10 |   2008 |          4 | USL PDL    | 5th, Heartland      | Did not qualify | Did not qualify |
+| 11 |   2009 |          4 | USL PDL    | 6th, Heartland      | Did not qualify | Did not qualify |
+| 12 |   2010 |          4 | USL PDL    | 7th, Heartland      | Did not qualify | Did not qualify |
+| 13 |   2011 |          4 | USL PDL    | 4th, Heartland      | Did not qualify | Did not qualify |
+| 14 |   2012 |          4 | USL PDL    | 5th, Heartland      | Did not qualify | Did not qualify |
+| 15 |   2013 |          4 | USL PDL    | 4th, Heartland      | Did not qualify | Did not qualify |
+===================Question===================
+how many total times did they not qualify for open cup?
+===================Text===================
+<think>
+Okay, so I need to figure out how many times the Kansas City Brass did not qualify for the Open Cup based on the provided table. Let me look at the table carefully.
+
+The table has columns: Year, Division, League, Regular Season, Playoffs, and Open Cup. The key here is the "Open Cup" column because that's what the question is about. I need to count how many times it says "Did not qualify" in that column.
+
+Looking through each row from 1998 to 2013:
+
+- In 1998, Open Cup is "1st Round", so they qualified that year.
+- From 1999 onwards, every entry under Open Cup says "Did not qualify". Let me count these years: 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007 (wait no, in 2007 it's "1st Round" again), so actually from 1999 to 2013 excluding 1998 and 2007.
+
+Wait, wait. Let me go through each year one by one:
+
+- 1998: Open Cup is "1st Round" → qualified.
+- 1999: Did not qualify.
+- 2000: Did not qualify.
+- 2001: Did not qualify.
+- 2002: Did not qualify.
+- 2003: Did not qualify.
+- 2004: Did not qualify.
+- 2005: Did not qualify.
+- 2006: Did not qualify.
+- 2007: Open Cup is "1st Round" → qualified again.
+- 2008: Did not qualify.
+- 2009: Did not qualify.
+- 2010: Did not qualify.
+- 2011: Did not qualify.
+- 2012: Did not qualify.
+- 2013: Did not qualify.
+
+So in total, how many times did they not qualify? Let me count the "Did not qualify" entries:
+
+From 1999 to 2006: that's 8 years (1999-2006 inclusive).
+Then from 2008 to 2013: that's another 6 years.
+So adding those together: 8 + 6 = 14 times.
+
+Wait, but the table has 16 rows starting from 0 (1998) up to 15 (2013). So total years covered are 16 (from 1998 through 2013 inclusive). But in terms of Open Cup qualification:
+
+- They qualified in 1998 and 2007.
+- Did not qualify in all other years.
+
+So how many did they not qualify? Total years minus the qualified ones.
+
+Total years: From 1998 to 2013, that's 16 years (including both endpoints).
+
+They qualified twice: 1998 and 2007.
+
+Therefore, 16 - 2 = 14 times they did not qualify for the Open Cup.
+</think>
+
+Final Answer: 14
+===================Answer===================
+14

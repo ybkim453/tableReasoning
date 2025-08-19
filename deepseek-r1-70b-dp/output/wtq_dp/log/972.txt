@@ -1,0 +1,29 @@
+===================Title===================
+Equestrian at the 1960 Summer Olympics
+===================Table===================
+|    |   Rank | Nation              |   Gold |   Silver |   Bronze |   Total |
+|---:|-------:|:--------------------|-------:|---------:|---------:|--------:|
+|  0 |      1 | Australia (AUS)     |      2 |        1 |        0 |       3 |
+|  1 |      2 | Italy (ITA)         |      1 |        1 |        1 |       3 |
+|  2 |      3 | Germany (EUA)       |      1 |        0 |        1 |       2 |
+|  3 |      4 | Soviet Union (URS)  |      1 |        0 |        0 |       1 |
+|  4 |      5 | Switzerland (SUI)   |      0 |        2 |        1 |       3 |
+|  5 |      6 | United States (USA) |      0 |        1 |        0 |       1 |
+|  6 |      7 | Great Britain (GBR) |      0 |        0 |        1 |       1 |
+|  7 |      7 | France (FRA)        |      0 |        0 |        1 |       1 |
+===================Question===================
+australia, italy, and what other country are listed with 3 total medals?
+===================Text===================
+<think>
+Alright, so I'm trying to figure out which three countries have a total of 3 medals each in the Equestrian event at the 1960 Summer Olympics based on the provided table.
+
+First, I'll look through each row of the table and check the "Total" column for the value 3. The first entry is Australia with a total of 3 medals. That's one country down. Next, Italy also has a total of 3 medals, so that's the second country. Now, I need to find another country besides Australia and Italy that has exactly 3 total medals.
+
+Moving further down the table, the next row is Germany (EUA) with a total of 2 medals, which doesn't meet our criteria. Then we have the Soviet Union (URS) with only 1 medal. Following that, Switzerland (SUI) catches my eye because its total is listed as 3. That makes Switzerland the third country with exactly 3 total medals.
+
+I'll double-check to ensure there are no other countries beyond these three with a total of 3. The United States has 1, Great Britain has 1, and France also has 1. So yes, only Australia, Italy, and Switzerland each have 3 medals in total.
+</think>
+
+Final Answer: Australia, Italy, Switzerland
+===================Answer===================
+Switzerland (SUI)

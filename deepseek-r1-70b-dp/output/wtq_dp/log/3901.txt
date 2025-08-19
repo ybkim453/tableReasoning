@@ -1,0 +1,55 @@
+===================Title===================
+Reina Nacional de Belleza Miss República Dominicana 2007
+===================Table===================
+|    | Represented       | Contestant                          |   Age |   Height | Hometown                     |
+|---:|:------------------|:------------------------------------|------:|---------:|:-----------------------------|
+|  0 | Azua              | Alicia Fernández de la Cruz        |    23 |     1.69 | Santo Domingo                |
+|  1 | Barahona          | Lucía Magdalena Alvarado Suarez    |    20 |     1.71 | Santo Domingo                |
+|  2 | Com. Dom. EU      | Sandra Elisabeth Tavares Ruíz      |    19 |     1.8  | Newark                       |
+|  3 | Distrito Nacional | Aimeé Elaine Melo Hernández       |    23 |     1.73 | Santo Domingo                |
+|  4 | Duarte            | Paola Saint-Hilaire Arias           |    20 |     1.79 | Santiago de los Caballeros   |
+|  5 | Espaillat         | Angela María García Ruíz         |    26 |     1.77 | Moca                         |
+|  6 | Independencia     | Joany Marleny Sosa Peralta          |    20 |     1.82 | Jimaní                      |
+|  7 | La Altagracia     | Ana Carolina Viñas Machado         |    22 |     1.84 | Santiago de los Caballeros   |
+|  8 | La Romana         | Alina Charlin Espinal Luna          |    19 |     1.81 | La Romana                    |
+|  9 | La Vega           | Catherine Mabel Ramírez Rosario    |    21 |     1.83 | Santiago de los Caballeros   |
+| 10 | Monte Cristi      | Grace Stephany Mota Grisanty        |    18 |     1.75 | San Fernando de Monte Cristi |
+| 11 | Peravia           | Mariela Joselin Rosario Jiménez    |    25 |     1.86 | Santo Domingo                |
+| 12 | Puerto Plata      | Sheila Massiel Castíllo Domínguez |    18 |     1.83 | Altamira                     |
+| 13 | Salcedo           | Rossemely Cruz Logroño             |    26 |     1.76 | Salcedo                      |
+| 14 | San Cristóbal    | Daniela Teresa Peguero Brito        |    24 |     1.74 | Santo Domingo                |
+| 15 | Santiago          | Karina Luisa Betances Cabrera       |    21 |     1.8  | Santiago de los Caballeros   |
+| 16 | Santo Domingo     | Yisney Lina Lagrange Méndez        |    19 |     1.82 | Pedro Brand                  |
+| 17 | Valverde          | Fania Miguelina Marte Lozada        |    22 |     1.73 | Mao                          |
+===================Question===================
+how many contestants are older than 25 years old?
+===================Text===================
+<think>
+Okay, so I need to figure out how many contestants are older than 25 years old from this table. Let me start by carefully going through each entry and checking their ages.
+
+Looking at the first row: Contestant Alicia Fernández de la Cruz is 23 years old. That's below 25, so she doesn't count.
+
+Next, Lucía Magdalena Alvarado Suarez is 20. Also under 25. Moving on to Sandra Elisabeth Tavares Ruiz, who is 19—still too young.
+
+Then there's Aimeé Elaine Melo Hernández at 23. Nope, not over 25 yet. Paola Saint-Hilaire Arias is 20, so she doesn't qualify either.
+
+Angela María García Ruiz is listed as 26. Okay, that's above 25. So she counts as one.
+
+Now, Joany Marleny Sosa Peralta is 20—too young. Ana Carolina Viñas Machado is 22, still under 25.
+
+Alina Charlin Espinal Luna is 19, so no. Catherine Mabel Ramírez Rosario is 21, which doesn't make the cut.
+
+Grace Stephany Mota Grisanty is only 18—definitely not. Next up is Mariela Joselin Rosario Jiménez at 25. Wait, the question is about older than 25, so exactly 25 doesn't count. So she's out.
+
+Sheila Massiel Castillo Domínguez is 18, nope. Rossemely Cruz Logroño is 26—another one over 25. That’s two now.
+
+Daniela Teresa Peguero Brito is 24, which is under 25. Karina Luisa Betances Cabrera is 21—too young.
+
+Yisney Lina Lagrange Méndez is 19, so no. Finally, Fania Miguelina Marte Lozada is 22—under 25.
+
+So looking back, only two contestants are older than 25: Angela María García Ruiz and Rossemely Cruz Logroño.
+</think>
+
+Final Answer: 2
+===================Answer===================
+2

@@ -1,0 +1,106 @@
+===================Title===================
+ICW World Heavyweight Championship
+===================Table===================
+|    | Wrestler:    |   Reigns: | Date:             | Place:                    | Notes:                                          |
+|---:|:-------------|----------:|:------------------|:--------------------------|:------------------------------------------------|
+|  0 | Lanny Poffo  |         1 | May 10, 1978      | San Francisco, California | Defeated Joe Banek to become the first champion |
+|  1 | Randy Savage |         1 | March 13, 1979    | Halifax, Nova Scotia      | nan                                             |
+|  2 | Lanny Poffo  |         2 | July 21, 1979     | Lexington, Kentucky       | nan                                             |
+|  3 | Randy Savage |         2 | 1981              | Unknown                   | nan                                             |
+|  4 | Lanny Poffo  |         3 | 1981              | Unknown                   | nan                                             |
+|  5 | Randy Savage |         3 | 1982              | Unknown                   | nan                                             |
+|  6 | Paul Christy |         1 | November 13, 1983 | Springfield, Illinois     | nan                                             |
+|  7 | Lanny Poffo  |         4 | January 1, 1984   | Springfield, Illinois     | nan                                             |
+===================Question===================
+who reigned for the longest combined amount of time?
+===================Text===================
+<think>
+Alright, so I need to figure out who reigned for the longest combined amount of time as the ICW World Heavyweight Champion based on the provided table. Let's break this down step by step.
+
+First, let me look at the table again. It lists seven entries, each representing a different reign by various wrestlers. The columns are: Wrestler, Reigns, Date, Place, and Notes. My goal is to determine which wrestler held the title for the longest total time when combining all their individual reigns.
+
+I see that two wrestlers have multiple reigns: Lanny Poffo and Randy Savage. Paul Christy only has one reign listed. 
+
+Starting with Lanny Poffo:
+- His first reign was from May 10, 1978, to March 13, 1979 (when Randy Savage won the title). That's about 10 months.
+- His second reign was from July 21, 1979, until sometime in 1981. Let's say that's roughly 1 year and 5 months, but it's unclear exactly when he lost it to Randy Savage again.
+- His third reign was in 1981, which I assume didn't last too long before Randy Savage took it back, maybe a few months.
+- Then his fourth reign started on January 1, 1984. Without an end date, it's hard to measure, but for the sake of this problem, we'll consider only up until that point.
+
+Now, looking at Randy Savage:
+- His first reign was from March 13, 1979, to July 21, 1979, which is about 4 months.
+- His second reign in 1981. If he took it back and held it until Lanny Poffo's third reign, that might be a similar duration as before, maybe around half a year.
+- Then his third reign in 1982. Again, without specific end dates, but let's assume each of these was several months.
+
+Paul Christy only has one reign from November 13, 1983, to January 1, 1984, which is about 1 month and a half. So he probably has the shortest total time.
+
+Now, adding up Lanny Poffo's reigns: if each of his four reigns averaged around 6-8 months, that would be roughly 28-32 months in total. Randy Savage has three reigns; if each was about 4-6 months on average, that totals around 12-18 months.
+
+Wait, but looking back, the problem is that after Lanny's fourth reign starting Jan 1, 1984, we don't have an end date, so it's unclear. But considering only up to the listed data, maybe the durations for each reign after the first two aren't as long. Alternatively, perhaps the dates are approximate.
+
+Alternatively, maybe I should calculate based on known data:
+
+- Lanny Poffo:
+  - May 10, 1978 – March 13, 1979: ~10 months
+  - July 21, 1979 – 1981 (unknown date). Let's assume he held it for about a year until Randy took over in early 1981.
+  - Then another reign in 1981 which might have been short-lived before Randy Savage took it again in 1982. Maybe a couple of months each time.
+
+So adding up, maybe around 10 + 12 + 3 + (from Jan 84 to when? If we don't know, perhaps we can only count until the last known date, which is Nov 13, 83, when Paul Christy won it. So Lanny's fourth reign started on Jan 1, 1984, but since that's after Paul's reign, maybe his time as champion isn't counted beyond that point.
+
+Wait, no. Looking at the table:
+
+Entry 0: Lanny Poffo starts May 10,1978
+
+Entry1: Randy Savage March13,79
+
+Entry2:Lanny July21,79
+
+Entry3:Randy in 1981 (date unknown)
+
+Entry4: Lanny 1981
+
+Entry5: Randy 1982
+
+Entry6:Paul Nov13,83
+
+Entry7:Lanny Jan1,84.
+
+So it's possible that between each entry, the title changed hands. So:
+
+From Entry0 to Entry1: Lanny held from May78-Mar79: ~10 months.
+
+Entry1 to Entry2: Randy Mar79-Jul79: ~4 months.
+
+Entry2 to Entry3: Lanny Jul79-1981: Let's say 1 year and 6 months (assuming he lost it in Jan82? Wait, but Entry3 is in 1981. So if Entry2 started Jul79 and ended when Entry3 began in 1981, that's roughly 1 year and 6 months.
+
+Entry3 to Entry4: Randy 1981-1981 (since Entry4 starts same year). Maybe a few months.
+
+Entry4 to Entry5: Lanny 1981-1982 when Randy took over again. So maybe another 6 months.
+
+Entry5 to Entry6: Randy 1982-Nov13,83: That's about 1 year and 3 months.
+
+Then Entry6 to Entry7: Paul Nov13,83-Jan1,84: About 1.5 months.
+
+So total for each wrestler:
+
+Lanny Poffo:
+- May78-Mar79: ~10 months
+- Jul79-1981: ~1.5 years (18 months)
+- 1981: Maybe a few months? Let's say 3 months.
+Total so far: 31 months
+
+Randy Savage:
+- Mar79-Jul79: 4 months
+- 1981: Some period, maybe 6 months if from mid81 to early82?
+Then 1982-Nov13,83: ~1 year and 3 months, which is 15 months.
+
+So Randy's total would be 4 + 6 + 15 = 25 months.
+
+Paul Christy: Just the one reign of about 1.5 months.
+
+So Lanny has about 31 months total, Randy around 25, so Lanny Poffo reigned for the longest combined time.
+</think>
+
+Final Answer: Lanny Poffo
+===================Answer===================
+Lanny Poffo

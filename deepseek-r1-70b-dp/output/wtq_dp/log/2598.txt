@@ -1,0 +1,46 @@
+===================Title===================
+2011 European Team Championships Super League
+===================Table===================
+|    |   Rank | Name                 | Nationality    | Time    | Notes   |   Points |
+|---:|-------:|:---------------------|:---------------|:--------|:--------|---------:|
+|  0 |      1 | Adam Kszczot         | Poland         | 1:46.50 | nan     |       12 |
+|  1 |      2 | Jeff Lastennet       | France         | 1:46.70 | nan     |       11 |
+|  2 |      3 | Gareth Warburton     | Great Britain  | 1:46.95 | SB      |       10 |
+|  3 |      4 | Mario Scapini        | Italy          | 1:47.20 | PB      |        9 |
+|  4 |      5 | Anis Ananenka        | Belarus        | 1:47.29 | nan     |        8 |
+|  5 |      6 | Oleh Kayafa          | Ukraine        | 1:47.42 | nan     |        7 |
+|  6 |      7 | Joni Jaako           | Sweden         | 1:47.61 | SB      |        6 |
+|  7 |      8 | Robin Schembera      | Germany        | 1:47.79 | nan     |        5 |
+|  8 |      9 | Ivan Tukhtachev      | Russia         | 1:48.27 | SB      |        4 |
+|  9 |     10 | Antonio Manuel Reina | Spain          | 1:48.56 | nan     |        3 |
+| 10 |     11 | António Rodrigues   | Portugal       | 1:50.45 | nan     |        2 |
+| 11 |     12 | Milan Kocourek       | Czech Republic | 1:59.28 | nan     |        1 |
+===================Question===================
+who holds the first fastest time?
+===================Text===================
+<think>
+Okay, so I need to figure out who holds the first fastest time in this table from the 2011 European Team Championships Super League. Let me start by looking at the table. It has several columns: Rank, Name, Nationality, Time, Notes, and Points.
+
+The question is asking for the person with the fastest time, which would be the one with the smallest Time value since lower times mean faster performances in track events. So I should scan through the Time column to find the minimum value.
+
+Looking at each row:
+
+1. Adam Kszczot from Poland has a time of 1:46.50.
+2. Jeff Lastennet from France is next with 1:46.70.
+3. Gareth Warburton from Great Britain at 1:46.95.
+4. Mario Scapini from Italy with 1:47.20.
+5. Anis Ananenka of Belarus at 1:47.29.
+6. Oleh Kayafa from Ukraine, 1:47.42.
+7. Joni Jaako from Sweden at 1:47.61.
+8. Robin Schembera from Germany with 1:47.79.
+9. Ivan Tukhtachev of Russia at 1:48.27.
+10. Antonio Manuel Reina from Spain, 1:48.56.
+11. António Rodrigues from Portugal with 1:50.45.
+12. Milan Kocourek of Czech Republic at 1:59.28.
+
+Comparing all these times, the fastest time is 1:46.50 by Adam Kszczot. So he holds the first position and therefore has the fastest time in this event.
+</think>
+
+Final Answer: Adam Kszczot
+===================Answer===================
+Adam Kszczot

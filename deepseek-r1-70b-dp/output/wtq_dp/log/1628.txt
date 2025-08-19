@@ -1,0 +1,53 @@
+===================Title===================
+Olga Tereshkova
+===================Table===================
+|    |   Year | Competition               | Venue                | Position   | Event         | Notes   |
+|---:|-------:|:--------------------------|:---------------------|:-----------|:--------------|:--------|
+|  0 |   2001 | World Youth Championships | Debrecen, Hungary    | 4th        | 400 m         | nan     |
+|  1 |   2002 | Asian Games               | Busan, South Korea   | 2nd        | 4x400 m relay | nan     |
+|  2 |   2005 | Asian Championships       | Incheon, South Korea | 2nd        | 4x400 m relay | nan     |
+|  3 |   2005 | Universiade               | Izmir, Turkey        | 6th        | 4x400 m relay | nan     |
+|  4 |   2006 | Asian Games               | Doha, Qatar          | 2nd        | 4x400 m relay | nan     |
+|  5 |   2006 | Asian Games               | Doha, Qatar          | 1st        | 400 m         | nan     |
+|  6 |   2006 | World Cup                 | Athens, Greece       | 7th        | 400 m         | nan     |
+|  7 |   2007 | Universiade               | Bangkok, Thailand    | 1st        | 400 m         | nan     |
+|  8 |   2011 | Universiade               | Shenzhen, China      | –          | 400 m         | DQ      |
+===================Question===================
+number of consecutive years she finished in top 10
+===================Text===================
+<think>
+Okay, so I need to figure out how many consecutive years Olga Tereshkova finished in the top 10 based on the table provided. Let's break it down step by step.
+
+First, looking at the table, each row represents a different year and competition she participated in. The key columns here are "Year", "Position", and "Event". I'm focusing on her position to see if she was within the top 10 each consecutive year.
+
+Starting from the earliest year:
+
+- **2001**: She finished 4th in the 400m event at the World Youth Championships. That's definitely top 10.
+- **2002**: She got 2nd place in the 4x400m relay at the Asian Games. Also top 10.
+- **2005**: There are two entries here. In the Asian Championships, she was 2nd again. Later that year, at the Universiade, she placed 6th in the same event. Both within top 10.
+- **2006**: She participated three times. First, 2nd place in the 4x400m relay at the Asian Games. Then, 1st place in the 400m at the same event. Lastly, 7th place in the 400m at the World Cup. All top 10 finishes.
+- **2007**: She won gold (1st) in the 400m at the Universiade. Top 10 again.
+- **2011**: Here she was disqualified (DQ) in the 400m event, so her position is listed as "–". I think that means she didn't finish or wasn't placed, so this doesn't count as a top 10.
+
+Now, looking for consecutive years without any breaks. From 2001 to 2007, every year she competed, and each time she finished in the top 10. That's 2001, 2002, 2005, 2006, 2007—wait, but between 2002 and 2005 there are two years (2003 and 2004) where there's no data. So that breaks continuity.
+
+Wait, actually, the table starts in 2001, then 2002, skips 2003 and 2004, resumes in 2005. So from 2005 onward: 2005, 2006, 2007. That’s three consecutive years where she was in top 10 each year.
+
+Alternatively, maybe considering 2001 to 2002 as two consecutive years, then a gap, then 2005-2007. But the question is about the maximum number of consecutive years without gaps. So from 2005 to 2007, that's three years straight where she finished top 10 each year.
+
+But wait, in 2006 and 2007, there are multiple entries per year, but they're within the same year, so each new competition doesn't reset the count as long as it's the same year. So the consecutive streak would be from 2005 to 2007 inclusive, making three years.
+
+Wait again, let me check: 2001 is one, 2002 another—so that’s two consecutive years. Then in 2005, she starts again, but since there was a gap between 2002 and 2005 (no data for 03 and 04), the next streak would be from 2005 to 2006 to 2007—three consecutive years.
+
+So the longest stretch is three years: 2005, 2006, 2007. But I need to make sure that each year she finished in top 10. Let me verify:
+
+- **2005**: Two competitions—both positions are within top 10.
+- **2006**: Three competitions—all within top 10.
+- **2007**: One competition—1st place.
+
+Yes, so three consecutive years (2005, 2006, 2007) where she finished in the top 10 each year without interruption. Therefore, the number of consecutive years is 3.
+</think>
+
+Final Answer: 3
+===================Answer===================
+3

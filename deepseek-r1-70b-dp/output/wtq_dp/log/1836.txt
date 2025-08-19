@@ -1,0 +1,60 @@
+===================Title===================
+1956 Winter Olympics
+===================Table===================
+|    |   Rank | Nation        | Gold   |   Silver |   Bronze |   Total |
+|---:|-------:|:--------------|:-------|---------:|---------:|--------:|
+|  0 |      1 | Soviet Union  | *7*    |        3 |        6 |      16 |
+|  1 |      2 | Austria       | 4      |        3 |        4 |      11 |
+|  2 |      3 | Finland       | 3      |        3 |        1 |       7 |
+|  3 |      4 | Switzerland   | 3      |        2 |        1 |       6 |
+|  4 |      5 | Sweden        | 2      |        4 |        4 |      10 |
+|  5 |      6 | United States | 2      |        3 |        2 |       7 |
+|  6 |      7 | Norway        | 2      |        1 |        1 |       4 |
+|  7 |      8 | Italy         | 1      |        2 |        0 |       3 |
+|  8 |      9 | Germany       | 1      |        0 |        1 |       2 |
+|  9 |     10 | Canada        | 0      |        1 |        2 |       3 |
+===================Question===================
+which country won the most total medals?
+===================Text===================
+<think>
+Okay, so I have this table about the 1956 Winter Olympics medal counts, and I need to figure out which country won the most total medals. Let me start by looking at the table again.
+
+The table has columns for Rank, Nation, Gold, Silver, Bronze, and Total medals. Each row represents a different nation and their respective medal counts. My goal is to find the nation with the highest number in the "Total" column.
+
+Looking at each row:
+
+- Soviet Union: 16 total
+- Austria: 11
+- Finland:7
+- Switzerland:6
+- Sweden:10
+- United States:7
+- Norway:4
+- Italy:3
+- Germany:2
+- Canada:3
+
+So the totals are as follows:
+Soviet Union has the highest with 16, followed by Austria at 11, then Sweden at 10, and so on. The other countries have fewer than that.
+
+Wait, but I should double-check to make sure I'm not missing anything. Let me list them out:
+
+1. Soviet Union: 7 Gold, 3 Silver, 6 Bronze = 7+3+6=16
+2. Austria: 4+3+4=11
+3. Finland:3+3+1=7
+4. Switzerland:3+2+1=6
+5. Sweden:2+4+4=10
+6. United States:2+3+2=7
+7. Norway:2+1+1=4
+8. Italy:1+2+0=3
+9. Germany:1+0+1=2
+10. Canada:0+1+2=3
+
+Yep, so Soviet Union clearly has the highest total of 16 medals.
+
+I think that's it. No other country comes close to that number in the table provided.
+</think>
+
+Final Answer: Soviet Union
+===================Answer===================
+Soviet Union

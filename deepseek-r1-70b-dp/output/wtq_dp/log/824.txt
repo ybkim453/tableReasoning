@@ -1,0 +1,38 @@
+===================Title===================
+GameStorm.org
+===================Table===================
+|    | Iteration    | Dates             | Location                 | Attendance   | Notes                                                                                   |
+|---:|:-------------|:------------------|:-------------------------|:-------------|:----------------------------------------------------------------------------------------|
+|  0 | GameStorm 10 | March 2008        | Red Lion - Vancouver, WA | 750          | -                                                                                       |
+|  1 | GameStorm 11 | March 26–29, 2009 | Hilton - Vancouver, WA   | 736          | debut of Video games, first-ever Artist Guest of Honor, Rob Alexander                   |
+|  2 | GameStorm 12 | March 25–28, 2010 | Hilton - Vancouver, WA   | 802          | Board games Guest of Honor: Tom Lehmann                                                 |
+|  3 | GameStorm 13 | March 24–27, 2011 | Hilton - Vancouver, WA   | 984          | Guests: Lisa Steenson, Michael A. Stackpole                                             |
+|  4 | GameStorm 14 | March 22–25, 2012 | Hilton - Vancouver, WA   | 1072         | Boardgame:Andrew Hackard and Sam Mitschke of Steve Jackson Games - RPG: Jason Bulmahn   |
+|  5 | GameStorm 15 | March 21–24, 2013 | Hilton - Vancouver, WA   | 1188         | nan                                                                                     |
+|  6 | GameStorm 16 | March 20–23, 2014 | Hilton - Vancouver, WA   | tba          | Guests: Mike Selinker, Shane Lacy Hensley, Lisa Steenson, Zev Shlasinger of Z-Man Games |
+===================Question===================
+how many gamestorms had at least 800 people?
+===================Text===================
+<think>
+Okay, so I need to figure out how many GameStorm events had at least 800 attendees based on the provided table. Let's start by looking through each iteration's attendance.
+
+First, GameStorm 10 in 2008 had 750 people. That's below 800, so it doesn't count.
+
+Next, GameStorm 11 in 2009 had 736 attendees. Still under 800.
+
+Moving on to GameStorm 12 in 2010, the attendance was 802. That's over 800, so that's one event.
+
+GameStorm 13 in 2011 jumped up to 984 people. Definitely over 800, that's two events now.
+
+Then, GameStorm 14 in 2012 had 1072 attendees, which is well above 800. So that's the third.
+
+Looking at GameStorm 15 in 2013, the attendance was 1188. That's way over 800, bringing our count to four.
+
+GameStorm 16 in 2014 has 'tba' listed for attendance, which I think means the number isn't available yet or wasn't recorded. So we can't include that one since we don't have the data.
+
+So adding them up: GameStorms 12, 13, 14, and 15 each had over 800 attendees. That makes a total of four events.
+</think>
+
+Final Answer: 4
+===================Answer===================
+4

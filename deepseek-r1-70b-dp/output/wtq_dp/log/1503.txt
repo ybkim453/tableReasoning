@@ -1,0 +1,56 @@
+===================Title===================
+2005 Australia national football team season
+===================Table===================
+|    | Player       | Friendlies   | FIFA Confederations Cup   | FIFA World Cup Qual.   |   Total Goals |
+|---:|:-------------|:-------------|:--------------------------|:-----------------------|--------------:|
+|  0 | Aloisi       | 1            | 4                         | -                      |             5 |
+|  1 | Bresciano    | 2            | -                         | 1                      |             3 |
+|  2 | Thompson     | 1            | -                         | 2                      |             3 |
+|  3 | Viduka       | 1            | -                         | 2                      |             3 |
+|  4 | Chipperfield | 1            | -                         | 1                      |             2 |
+|  5 | Emerton      | -            | -                         | 2                      |             2 |
+|  6 | Milicic      | 2            | -                         | -                      |             2 |
+|  7 | Cahill       | -            | -                         | 1                      |             1 |
+|  8 | Colosimo     | 1            | -                         | -                      |             1 |
+|  9 | Culina       | -            | -                         | 1                      |             1 |
+| 10 | Elrich       | 1            | -                         | -                      |             1 |
+| 11 | Griffiths    | 1            | -                         | -                      |             1 |
+| 12 | Skoko        | -            | 1                         | -                      |             1 |
+| 13 | Zdrilic      | 1            | -                         | -                      |             1 |
+===================Question===================
+how many goals did the top player in the table score?
+===================Text===================
+<think>
+Okay, so I need to figure out how many goals the top player in the table scored based on the given data. Let me start by understanding the structure of the table.
+
+The table lists players along with their goal contributions across three categories: Friendlies, FIFA Confederations Cup, and FIFA World Cup Qualifiers. There's also a Total Goals column at the end for each player.
+
+I remember that "top player" would typically mean the one who scored the most goals overall. So I should look at the Total Goals column to identify who has the highest number there.
+
+Let me go through each row:
+
+- Aloisi: 5 goals
+- Bresciano: 3 goals
+- Thompson: 3 goals
+- Viduka: 3 goals
+- Chipperfield: 2 goals
+- Emerton: 2 goals
+- Milicic: 2 goals
+- Cahill: 1 goal
+- Colosimo: 1 goal
+- Culina: 1 goal
+- Elrich: 1 goal
+- Griffiths: 1 goal
+- Skoko: 1 goal
+- Zdrilic: 1 goal
+
+Looking at these totals, Aloisi has the highest with 5 goals. So he's the top player in terms of total goals scored.
+
+But wait, I should double-check to make sure there isn't a tie or any miscalculations. Bresciano, Thompson, and Viduka each have 3 goals, which is less than 5. The rest have fewer, so Aloisi indeed leads with 5.
+
+Therefore, the top player scored 5 goals.
+</think>
+
+Final Answer: 5
+===================Answer===================
+5

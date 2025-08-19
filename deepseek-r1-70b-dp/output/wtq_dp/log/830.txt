@@ -1,0 +1,42 @@
+===================Title===================
+GameStorm.org
+===================Table===================
+|    | Iteration    | Dates             | Location                 | Attendance   | Notes                                                                                   |
+|---:|:-------------|:------------------|:-------------------------|:-------------|:----------------------------------------------------------------------------------------|
+|  0 | GameStorm 10 | March 2008        | Red Lion - Vancouver, WA | 750          | -                                                                                       |
+|  1 | GameStorm 11 | March 26–29, 2009 | Hilton - Vancouver, WA   | 736          | debut of Video games, first-ever Artist Guest of Honor, Rob Alexander                   |
+|  2 | GameStorm 12 | March 25–28, 2010 | Hilton - Vancouver, WA   | 802          | Board games Guest of Honor: Tom Lehmann                                                 |
+|  3 | GameStorm 13 | March 24–27, 2011 | Hilton - Vancouver, WA   | 984          | Guests: Lisa Steenson, Michael A. Stackpole                                             |
+|  4 | GameStorm 14 | March 22–25, 2012 | Hilton - Vancouver, WA   | 1072         | Boardgame:Andrew Hackard and Sam Mitschke of Steve Jackson Games - RPG: Jason Bulmahn   |
+|  5 | GameStorm 15 | March 21–24, 2013 | Hilton - Vancouver, WA   | 1188         | nan                                                                                     |
+|  6 | GameStorm 16 | March 20–23, 2014 | Hilton - Vancouver, WA   | tba          | Guests: Mike Selinker, Shane Lacy Hensley, Lisa Steenson, Zev Shlasinger of Z-Man Games |
+===================Question===================
+at least how many more people attended gamestorm 15 than gamestrom 13?
+===================Text===================
+<think>
+Okay, so I need to figure out how many more people attended GameStorm 15 compared to GameStorm 13 based on the table provided. Let me start by looking at the table and identifying the relevant information.
+
+First, I'll look for the attendance numbers for each of these events. From the table:
+
+- GameStorm 13 (which is Iteration 3) had an attendance of 984 people.
+- GameStorm 15 (Iteration 5) shows an attendance of 1188 people.
+
+Wait, actually, looking at the table again, I think there might be a typo or confusion in the numbering. Let me double-check:
+
+The iterations go from 0 to 6, with each iteration corresponding to GameStorm 10 up to GameStorm 16. So:
+
+- Iteration 3 is GameStorm 13 (March 24–27, 2011) with attendance 984.
+- Iteration 5 is GameStorm 15 (March 21–24, 2013) with attendance 1188.
+
+So I need to subtract the attendance of GameStorm 13 from that of GameStorm 15. That would be 1188 minus 984.
+
+Let me do the math:
+
+1188 - 984 = 204.
+
+So at least 204 more people attended GameStorm 15 than GameStorm 13.
+</think>
+
+Final Answer: 204
+===================Answer===================
+204

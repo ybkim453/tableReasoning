@@ -1,0 +1,97 @@
+===================Title===================
+1993 German motorcycle Grand Prix
+===================Table===================
+|    | Pos   | Rider                     | Manufactuer   | Time/Retired   |   Points |
+|---:|:------|:--------------------------|:--------------|:---------------|---------:|
+|  0 | 1     | Doriano Romboni           | Honda         | 33:53.776      |       25 |
+|  1 | 2     | Loris Capirossi           | Honda         | +0.090         |       20 |
+|  2 | 3     | Helmut Bradl              | Honda         | +0.384         |       16 |
+|  3 | 4     | Max Biaggi                | Honda         | +2.346         |       13 |
+|  4 | 5     | Loris Reggiani            | Aprilia       | +2.411         |       11 |
+|  5 | 6     | Tetsuya Harada            | Yamaha        | +2.537         |       10 |
+|  6 | 7     | Pierfrancesco Chili       | Yamaha        | +3.845         |        9 |
+|  7 | 8     | Jean-Philippe Ruggia      | Aprilia       | +3.985         |        8 |
+|  8 | 9     | Carlos Cardús            | Honda         | +4.893         |        7 |
+|  9 | 10    | Luis d'Antin              | Honda         | +25.044        |        6 |
+| 10 | 11    | Alberto Puig              | Honda         | +25.136        |        5 |
+| 11 | 12    | John Kocinski             | Suzuki        | +25.463        |        4 |
+| 12 | 13    | Jochen Schmid             | Yamaha        | +47.065        |        3 |
+| 13 | 14    | Jean-Michel Bayle         | Aprilia       | +1:15.546      |        2 |
+| 14 | 15    | Juan Borja                | Honda         | +1:15.769      |        1 |
+| 15 | 16    | Frédéric Protat         | Aprilia       | +1:15.858      |      nan |
+| 16 | 17    | Adi Stadler               | Honda         | +1:16.349      |      nan |
+| 17 | 18    | Bernd Kassner             | Aprilia       | +1:16:464      |      nan |
+| 18 | 19    | Paolo Casoli              | Gilera        | +1:26.061      |      nan |
+| 19 | 20    | Gabriele Debbia           | Honda         | +1:40.049      |      nan |
+| 20 | 21    | Adrian Bosshard           | Honda         | +1:47.492      |      nan |
+| 21 | 22    | Massimo Pennacchioli      | Honda         | +1:59.498      |      nan |
+| 22 | 23    | Bernard Haenggeli         | Aprilia       | +2:41.806      |      nan |
+| 23 | 24    | Alessandro Gramigni       | Gilera        | +1 Lap         |      nan |
+| 24 | Ret   | Andreas Preining          | Aprilia       | Retirement     |      nan |
+| 25 | Ret   | Volker Bähr              | Honda         | Retirement     |      nan |
+| 26 | Ret   | Jurgen van den Goorbergh  | Aprilia       | Retirement     |      nan |
+| 27 | Ret   | Luis Maurel               | Aprilia       | Retirement     |      nan |
+| 28 | Ret   | Patrick van den Goorbergh | Aprilia       | Retirement     |      nan |
+| 29 | Ret   | Eskil Suter               | Aprilia       | Retirement     |      nan |
+| 30 | Ret   | Wilco Zeelenberg          | Aprilia       | Retirement     |      nan |
+| 31 | Ret   | Jean-Pierre Jeandat       | Aprilia       | Retirement     |      nan |
+| 32 | DNS   | Nobuatsu Aoki             | Honda         | Did not start  |      nan |
+===================Question===================
+what is the total number of manufactuers listed in the table?
+===================Text===================
+<think>
+Alright, I need to determine the total number of manufacturers listed in the provided table for the 1993 German motorcycle Grand Prix. Let me go through this step by step.
+
+First, I'll look at each row of the table and note down the manufacturer for each rider. The "Manufactuer" column should give me that information. Starting from the top:
+
+1. Doriano Romboni rides for Honda.
+2. Loris Capirossi is also on Honda.
+3. Helmut Bradl, another Honda rider.
+4. Max Biaggi with Honda again.
+5. Loris Reggiani switches to Aprilia.
+6. Tetsuya Harada represents Yamaha.
+7. Pierfrancesco Chili also rides for Yamaha.
+8. Jean-Philippe Ruggia is on Aprilia.
+9. Carlos Cardús back on Honda.
+10. Luis d'Antin with Honda.
+11. Alberto Puig on Honda.
+12. John Kocinski riding Suzuki.
+13. Jochen Schmid on Yamaha.
+14. Jean-Michel Bayle with Aprilia.
+15. Juan Borja on Honda.
+16. Frédéric Protat rides Aprilia.
+17. Adi Stadler on Honda.
+18. Bernd Kassner with Aprilia.
+19. Paolo Casoli represents Gilera.
+20. Gabriele Debbia on Honda.
+21. Adrian Bosshard with Honda.
+22. Massimo Pennacchioli rides Honda.
+23. Bernard Haenggeli on Aprilia.
+24. Alessandro Gramigni with Gilera.
+25. Andreas Preining did not finish but was on Aprilia.
+26. Volker Bähr retired, riding Honda.
+27. Jurgen van den Goorbergh on Aprilia.
+28. Luis Maurel with Aprilia.
+29. Patrick van den Goorbergh also on Aprilia.
+30. Eskil Suter rides Aprilia.
+31. Wilco Zeelenberg on Aprilia.
+32. Jean-Pierre Jeandat did not start but was on Honda.
+
+Now, I'll list all the manufacturers mentioned: Honda, Aprilia, Yamaha, Suzuki, Gilera.
+
+I should check if there are any duplicates or additional manufacturers I might have missed. Going through each entry again confirms that these are the only manufacturers listed without any others.
+
+So, counting them up:
+
+1. Honda
+2. Aprilia
+3. Yamaha
+4. Suzuki
+5. Gilera
+
+That's a total of 5 different manufacturers.
+</think>
+
+Final Answer: 5
+===================Answer===================
+5

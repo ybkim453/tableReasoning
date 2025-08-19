@@ -1,0 +1,45 @@
+===================Title===================
+2005–06 FIS Ski Jumping World Cup
+===================Table===================
+|    |   Rank | Name             | Nationality   |   1st (m) |   2nd (m) |   Points |
+|---:|-------:|:-----------------|:--------------|----------:|----------:|---------:|
+|  0 |      1 | Matti Hautamäki | FIN           |     132   |     131.5 |    274.3 |
+|  1 |      2 | Tami Kiuru       | FIN           |     128.5 |     130.5 |    264.7 |
+|  2 |      3 | Janne Ahonen     | FIN           |     127   |     130.5 |    264   |
+|  3 |      4 | Adam Małysz      | POL           |     127   |     130.5 |    261.5 |
+|  4 |      5 | Andreas Kofler   | AUT           |     126.5 |     132   |    261.3 |
+|  5 |     11 | Jakub Janda      | CZE           |     123.5 |     128.5 |    252.6 |
+===================Question===================
+how many participants have a final score more than 262?
+===================Text===================
+<think>
+Alright, so I have this table from the 2005–06 FIS Ski Jumping World Cup, and I need to figure out how many participants have a final score more than 262. Let me break it down step by step.
+
+First, looking at the table, each row represents a participant with their rank, name, nationality, scores from two jumps (1st and 2nd in meters), and total points. The key here is to focus on the "Points" column because that's where the final scores are listed.
+
+I need to go through each row and check if the points exceed 262. Let me list them out:
+
+1. Matti Hautamäki has 274.3 points.
+2. Tami Kiuru has 264.7 points.
+3. Janne Ahonen has 264 points.
+4. Adam Małysz has 261.5 points.
+5. Andreas Kofler has 261.3 points.
+6. Jakub Janda has 252.6 points.
+
+Now, I'll compare each score to 262:
+
+- Matti Hautamäki: 274.3 > 262 → Yes
+- Tami Kiuru: 264.7 > 262 → Yes
+- Janne Ahonen: 264 > 262 → Yes (Wait, but 264 is actually greater than 262, so this should be included)
+- Adam Małysz: 261.5 < 262 → No
+- Andreas Kofler: 261.3 < 262 → No
+- Jakub Janda: 252.6 < 262 → No
+
+Wait a second, I initially thought Janne Ahonen's score was exactly 264, which is indeed more than 262. So that's three participants with scores over 262.
+
+So the count should be Matti, Tami, and Janne. That makes it three participants.
+</think>
+
+Final Answer: 3
+===================Answer===================
+3

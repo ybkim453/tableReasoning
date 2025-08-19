@@ -1,0 +1,94 @@
+===================Title===================
+Flamurtari Vlorë
+===================Table===================
+|    | Season   | Competition           | Round   | Club                | Home   | Away   |
+|---:|:---------|:----------------------|:--------|:--------------------|:-------|:-------|
+|  0 | 1985–86  | UEFA Cup Winners' Cup | 1R      | HJK Helsinki        | 1–2    | 2–3    |
+|  1 | 1986–87  | UEFA Cup              | 1R      | FC Barcelona        | 1–1    | 0–0    |
+|  2 | 1987–88  | UEFA Cup              | 1R      | FK Partizan Beograd | 2–0    | 1–2    |
+|  3 | 1987–88  | UEFA Cup              | 2R      | Wismut Aue          | 2–0    | 0–1    |
+|  4 | 1987–88  | UEFA Cup              | 1/16    | FC Barcelona        | 1–0    | 1–4    |
+|  5 | 1988–89  | UEFA Cup Winners' Cup | 1R      | Lech Poznań        | 2–3    | 0–1    |
+|  6 | 1990–91  | UEFA Cup Winners' Cup | 1R      | Olympiacos Piraeus  | 0–2    | 1–3    |
+|  7 | 1991–92  | UEFA European Cup     | 1R      | IFK Göteborg       | 1–1    | 0–0    |
+|  8 | 1996–97  | UEFA Cup Winners' Cup | QR      | Humenné            | 0–2    | 0–1    |
+|  9 | 2009–10  | UEFA Europa League    | 2QR     | Motherwell          | 1–0    | 1–8    |
+| 10 | 2011–12  | UEFA Europa League    | 1QR     | FK Budućnost       | 1–2    | 3–1    |
+| 11 | nan      | nan                   | 2QR     | FK Jablonec 97      | 0–2    | 1–5    |
+| 12 | 2012–13  | UEFA Europa League    | 1QR     | Budapest Honvéd    | 0–1    | 0–2    |
+===================Question===================
+which season did flamurtari vlorë win more home games than away?
+===================Text===================
+<think>
+Okay, so I need to figure out which seasons Flamurtari Vlorë won more home games than away using the provided table. Let me break this down step by step.
+
+First, I'll look at each season one by one and compare their home and away wins.
+
+Starting with Season 1985–86: They played against HJK Helsinki in the UEFA Cup Winners' Cup 1R. The scores are Home 1–2 and Away 2–3. So, they lost at home (1-2) and also lost away (2-3). That means 0 home wins and 0 away wins.
+
+Next is Season 1986–87 against FC Barcelona in the UEFA Cup 1R. The scores are Home 1–1 and Away 0–0. Both matches were draws, so no wins at home or away.
+
+Moving to Season 1987–88: They played FK Partizan Beograd. Home score is 2–0 (win) and Away is 1–2 (loss). So that's 1 home win and 0 away wins. Since 1 > 0, this season counts.
+
+Then in the same season, they played Wismut Aue in the 2R: Home 2–0 (win) and Away 0–1 (loss). Again, 1 home win vs 0 away. So another instance where home wins are more.
+
+Wait, but looking back, each row represents a different round, so I need to consider each round separately or aggregate per season? Hmm, the question is about seasons, so I should consider all rounds within a single season together.
+
+But in this table, for 1987–88, there's both Round 1R and 2R. So total home wins: 2 (from 2-0 against Partizan and Wismut), away losses: 1 (1-2 vs Partizan) and another loss 0-1. Wait no, the away scores are 1–2 (loss) and 0–1 (also a loss). So in total for 1987–88 season, they have 2 home wins and 0 away wins.
+
+So definitely more home than away that season.
+
+Next is Season 1988–89 against Lech Poznan. Home 2-3 (loss), Away 0-1 (loss). Both losses, so no wins either way.
+
+Season 1990–91: Olympiacos Piraeus, both matches are losses (0-2 home, 1-3 away). So no wins.
+
+Season 1991–92 against IFK Göteborg. Home is 1-1 and Away is 0-0, so draws in both legs, no wins.
+
+Season 1996–97: They played Humenne. Home 0-2 (loss) and Away 0-1 (another loss). No wins.
+
+Now looking at Season 2009–10 against Motherwell. Home score 1-0 (win), but away is 1-8 (big loss). So that's 1 home win, 0 away. Therefore, more home than away.
+
+Season 2011–12: They played FK Buducnost in the 1QR. Home 1-2 (loss) and Away 3-1 (win). So here, they have 1 away win and 0 home wins.
+
+There's a row with 'nan' season marked as nan, so I can ignore that one since it's not specific to any season.
+
+Season 2012–13: Budapest Honvéd. Home 0-1 (loss) and Away 0-2 (another loss). No wins either way.
+
+So compiling this:
+
+- 1987–88: 2 home wins, 0 away
+- 2009–10: 1 home win, 0 away
+
+Wait, in 1987–88, they played two rounds. So within that season, they had two home games and two away games? Or per round, each having a home and away leg?
+
+Looking back at the table:
+
+Each row seems to represent one round for a specific season.
+
+So Season 1985–86: Only one round (1R) with HJK Helsinki, so just Home and Away legs of that single tie.
+
+Season 1986–87: One round against Barcelona.
+
+Season 1987–88: They played two rounds: 1R against Partizan and then 2R against Wismut. So within the same season, they had multiple rounds, each contributing a home and away leg.
+
+So for Season 1987–88:
+
+- 1R: Home 2-0 (win), Away 1-2 (loss)
+- 2R: Home 2-0 (win), Away 0-1 (loss)
+
+Thus total of 2 home wins, 0 away wins. So they definitely had more home wins that season.
+
+Similarly, Season 2009–10:
+
+Only one round against Motherwell: Home win, Away loss. So 1 home vs 0 away.
+
+Other seasons either had no home wins or equal number (like 2011-12 where it was 1 home loss and 1 away win).
+
+So the seasons where they had more home than away wins are:
+
+1987–88 and 2009–10.
+</think>
+
+Final Answer: 1987–88, 2009–10
+===================Answer===================
+1986-87

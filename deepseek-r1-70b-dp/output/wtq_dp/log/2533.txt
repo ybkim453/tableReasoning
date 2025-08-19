@@ -1,0 +1,44 @@
+===================Title===================
+Bexar County, Texas
+===================Table===================
+|    | Representative        | Party   | Home Town/City   |   District |
+|---:|:----------------------|:--------|:-----------------|-----------:|
+|  0 | Trey Martinez Fischer | D       | San Antonio      |        116 |
+|  1 | Philip Cortez         | D       | San Antonio      |        117 |
+|  2 | Joe Farias            | D       | San Antonio      |        118 |
+|  3 | Roland Gutierrez      | D       | San Antonio      |        119 |
+|  4 | Ruth McClendon        | D       | San Antonio      |        120 |
+|  5 | Joe Straus            | R       | San Antonio      |        121 |
+|  6 | Lyle Larson           | R       | San Antonio      |        122 |
+|  7 | Mike Villarreal       | D       | San Antonio      |        123 |
+|  8 | Jose Menendez         | D       | San Antonio      |        124 |
+|  9 | Justin Rodriguez      | D       | San Antonio      |        125 |
+===================Question===================
+what representative was the only one elected in district 116 of san antonio?
+===================Text===================
+<think>
+Okay, so I need to figure out which representative was the only one elected in District 116 of San Antonio based on the provided table. Let me take it step by step.
+
+First, I'll look at each row of the table. The table has several columns: an index number starting from 0, Representative names, their Party affiliations, Home Town/City, and District numbers. My focus is on finding who represents District 116 in San Antonio.
+
+I see that each row represents a different representative with their respective details. I'll go through each row one by one to check the district number.
+
+Row 0: Trey Martinez Fischer from San Antonio, Party D, District 116.
+Row 1: Philip Cortez from San Antonio, Party D, District 117.
+Row 2: Joe Farias from San Antonio, Party D, District 118.
+Row 3: Roland Gutierrez from San Antonio, Party D, District 119.
+Row 4: Ruth McClendon from San Antonio, Party D, District 120.
+Row 5: Joe Straus from San Antonio, Party R, District 121.
+Row 6: Lyle Larson from San Antonio, Party R, District 122.
+Row 7: Mike Villarreal from San Antonio, Party D, District 123.
+Row 8: Jose Menendez from San Antonio, Party D, District 124.
+Row 9: Justin Rodriguez from San Antonio, Party D, District 125.
+
+Looking through these, I notice that each district number is unique. So, only one representative is assigned to each district. Specifically for District 116, it's listed in row 0 with the name Trey Martinez Fischer.
+
+So, since each district has only one representative and the question asks for the representative elected in District 116, the answer should be Trey Martinez Fischer.
+</think>
+
+Final Answer: Trey Martinez Fischer
+===================Answer===================
+Trey Martinez Fischer

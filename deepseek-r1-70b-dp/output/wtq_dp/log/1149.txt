@@ -1,0 +1,55 @@
+===================Title===================
+Windows Server 2012
+===================Table===================
+|    | Specifications                                  | Foundation                                 | Essentials                                                        | Standard                      | Datacenter               |
+|---:|:------------------------------------------------|:-------------------------------------------|:------------------------------------------------------------------|:------------------------------|:-------------------------|
+|  0 | Distribution                                    | OEM only                                   | Retail, volume licensing, OEM                                     | Retail, volume licensing, OEM | Volume licensing and OEM |
+|  1 | Licensing model                                 | Per server                                 | Per server                                                        | Per CPU pair + CAL            | Per CPU pair + CAL       |
+|  2 | Processor chip limit                            | 1                                          | 2                                                                 | 64                            | 64                       |
+|  3 | Memory limit                                    | 32 GB                                      | 64 GB                                                             | 4 TB                          | 4 TB                     |
+|  4 | User limit                                      | 15                                         | 25                                                                | Unlimited                     | Unlimited                |
+|  5 | File Services limits                            | 1 standalone DFS root                      | 1 standalone DFS root                                             | Unlimited                     | Unlimited                |
+|  6 | Network Policy and Access Services limits       | 50 RRAS connections and 10 IAS connections | 250 RRAS connections, 50 IAS connections, and 2 IAS Server Groups | Unlimited                     | Unlimited                |
+|  7 | Remote Desktop Services limits                  | 50 Remote Desktop Services connections     | Gateway only                                                      | Unlimited                     | Unlimited                |
+|  8 | Virtualization rights                           | N/A                                        | Either in 1 VM or 1 physical server, but not both at once         | 2 VMs                         | Unlimited                |
+|  9 | DHCP role                                       | Yes                                        | Yes                                                               | Yes                           | Yes                      |
+| 10 | DNS server role                                 | Yes                                        | Yes                                                               | Yes                           | Yes                      |
+| 11 | Fax server role                                 | Yes                                        | Yes                                                               | Yes                           | Yes                      |
+| 12 | UDDI Services                                   | Yes                                        | Yes                                                               | Yes                           | Yes                      |
+| 13 | Print and Document Services                     | Yes                                        | Yes                                                               | Yes                           | Yes                      |
+| 14 | Web Services (Internet Information Services)    | Yes                                        | Yes                                                               | Yes                           | Yes                      |
+| 15 | Windows Deployment Services                     | Yes                                        | Yes                                                               | Yes                           | Yes                      |
+| 16 | Windows Server Update Services                  | No                                         | Yes                                                               | Yes                           | Yes                      |
+| 17 | Active Directory Lightweight Directory Services | Yes                                        | Yes                                                               | Yes                           | Yes                      |
+| 18 | Active Directory Rights Management Services     | Yes                                        | Yes                                                               | Yes                           | Yes                      |
+| 19 | Application server role                         | Yes                                        | Yes                                                               | Yes                           | Yes                      |
+| 20 | Server Manager                                  | Yes                                        | Yes                                                               | Yes                           | Yes                      |
+| 21 | Windows Powershell                              | Yes                                        | Yes                                                               | Yes                           | Yes                      |
+| 22 | Active Directory Domain Services                | Must be root of forest and domain          | Must be root of forest and domain                                 | Yes                           | Yes                      |
+| 23 | Active Directory Certificate Services           | Certificate Authorities only               | Certificate Authorities only                                      | Yes                           | Yes                      |
+| 24 | Active Directory Federation Services            | Yes                                        | No                                                                | Yes                           | Yes                      |
+| 25 | Server Core mode                                | No                                         | No                                                                | Yes                           | Yes                      |
+| 26 | Hyper-V                                         | No                                         | No                                                                | Yes                           | Yes                      |
+===================Question===================
+which edition or editions of windows server 2012 does not have limited virtualization rights?
+===================Text===================
+<think>
+Okay, so I need to figure out which editions of Windows Server 2012 don't have limited virtualization rights. Let me start by looking at the table provided.
+
+Looking at the table, each row represents different features across four editions: Foundation, Essentials, Standard, and Datacenter. The question is about virtualization rights, which is in row 8.
+
+In row 8, "Virtualization rights," I see the following:
+
+- Foundation: N/A
+- Essentials: Either in 1 VM or 1 physical server, but not both at once
+- Standard: 2 VMs
+- Datacenter: Unlimited
+
+So, the question asks for editions that do *not* have limited virtualization rights. That means I'm looking for editions where the virtualization rights are "Unlimited."
+
+From row 8, only Datacenter has "Unlimited" virtualization rights. The others either have N/A (Foundation), a restriction to one instance (Essentials), or up to two VMs (Standard). Therefore, only Datacenter edition doesn't have limited virtualization rights.
+</think>
+
+Final Answer: Datacenter
+===================Answer===================
+Datacenter

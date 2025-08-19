@@ -1,0 +1,36 @@
+===================Title===================
+2000 Chicago Bears season
+===================Table===================
+|    |   Round |   Pick | Name           | Position   | College            |
+|---:|--------:|-------:|:---------------|:-----------|:-------------------|
+|  0 |       1 |      9 | Brian Urlacher | S          | New Mexico         |
+|  1 |       2 |     39 | Mike Brown     | S          | Nebraska           |
+|  2 |       3 |     69 | Dez White      | WR         | Georgia Tech       |
+|  3 |       3 |     87 | Dustin Lyman   | TE         | Wake Forest        |
+|  4 |       4 |    125 | Reggie Austin  | DB         | Wake Forest        |
+|  5 |       6 |    170 | Frank Murphy   | WR         | Kansas State       |
+|  6 |       6 |    174 | Paul Edinger   | K          | Michigan State     |
+|  7 |       7 |    223 | James Cotton   | DE         | Ohio State         |
+|  8 |       7 |    254 | Michael Green  | S          | Northwestern State |
+===================Question===================
+how many wr were picked in round 3?
+===================Text===================
+<think>
+Alright, let me figure this out. So, I need to determine how many wide receivers (WR) were picked in round 3 of the 2000 Chicago Bears season draft based on the provided table.
+
+First, I'll look at each row of the table and check two things: the round number and the position of each player. The question specifically asks about round 3, so I'm focusing on any entries where the Round column is 3.
+
+Looking through the table:
+
+- Row 0: Round 1, Position S → Not relevant.
+- Row 1: Round 2, Position S → Not relevant.
+- Row 2: Round 3, Position WR. Okay, that's one WR in round 3.
+- Row 3: Round 3, Position TE → Not a WR, so doesn't count.
+- Rows 4 to 8 are Rounds 4 and beyond, so I can ignore those since the question is only about round 3.
+
+So, from this, there's only one entry in round 3 where the position is WR. Therefore, the number of WRs picked in round 3 is 1.
+</think>
+
+Final Answer: 1
+===================Answer===================
+1

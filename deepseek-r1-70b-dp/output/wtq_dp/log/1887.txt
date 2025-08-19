@@ -1,0 +1,29 @@
+===================Title===================
+Quebec lieutenant
+===================Table===================
+|    | Political lieutenant   | District\n(Area)                                              |   Took Office |   Left Office | Party leader                |
+|---:|:-----------------------|:--------------------------------------------------------------|--------------:|--------------:|:----------------------------|
+|  0 | Georges-Henri Héon    | Argenteuil\n(Laurentides)                                     |          1949 |          1949 | George A. Drew              |
+|  1 | Léon Balcer           | Trois-Rivières\n(Mauricie)                                   |          1957 |          1965 | John George Diefenbaker     |
+|  2 | Marcel Faribault       | none                                                          |          1967 |          1968 | Robert Stanfield            |
+|  3 | Claude Wagner          | Saint-Hyacinthe\n(Montérégie)                               |          1972 |          1978 | Robert Stanfield\nJoe Clark |
+|  4 | Lucien Bouchard        | Lac-Saint-Jean\n(Saguenay-Lac-Saint-Jean)                     |          1988 |          1990 | Brian Mulroney              |
+|  5 | Benoît Bouchard       | Roberval\n(Saguenay-Lac-Saint-Jean)                           |          1990 |          1993 | Brian Mulroney              |
+|  6 | Monique Landry         | Blainville—Deux-Montagnes\n(Laurentides)                      |          1993 |          1993 | Kim Campbell                |
+|  7 | André Bachand         | Richmond—Arthabaska\n(Centre-du-Québec &\nEastern Townships) |          1998 |          2004 | Joe Clark\nPeter MacKay     |
+===================Question===================
+which district was claude wagner over? lac-saint-jean or saint-hyacinthe
+===================Text===================
+<think>
+Okay, so I need to figure out which district Claude Wagner was over based on the provided table. Let me start by looking through each row of the table carefully. 
+
+First, I'll scan the "Political lieutenant" column for the name Claude Wagner. Once I find his row, I can check the corresponding district in the "District (Area)" column.
+
+Looking at row 3, I see that the political lieutenant is Claude Wagner. The district listed there is Saint-Hyacinthe under the Montérégie region. So, according to this table, Claude Wagner was responsible for the Saint-Hyacinthe district.
+</think>
+
+The district Claude Wagner was over is Saint-Hyacinthe.
+
+Final Answer: Saint-Hyacinthe
+===================Answer===================
+Saint-Hyacinthe (Montérégie)

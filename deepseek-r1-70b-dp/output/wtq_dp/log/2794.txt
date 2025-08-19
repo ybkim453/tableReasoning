@@ -1,0 +1,47 @@
+===================Title===================
+Martina Hrašnová
+===================Table===================
+|    |   Year | Competition                   | Venue                | Position   | Notes   |
+|---:|-------:|:------------------------------|:---------------------|:-----------|:--------|
+|  0 |   1999 | World Youth Championships     | Bydgoszcz, Poland    | 12th       | nan     |
+|  1 |   2000 | World Junior Championships    | Santiago, Chile      | 5th        | nan     |
+|  2 |   2001 | European Junior Championships | Grosseto, Italy      | 2nd        | 61.97 m |
+|  3 |   2001 | World Championships           | Edmonton, Canada     | 23rd       | 61.26 m |
+|  4 |   2002 | World Junior Championships    | Kingston, Jamaica    | 2nd        | 63.91 m |
+|  5 |   2002 | European Championships        | Munich, Germany      | 26th       | 60.28 m |
+|  6 |   2006 | European Championships        | Gothenburg, Sweden   | 26th       | 62.39 m |
+|  7 |   2007 | World Student Games           | Bangkok, Thailand    | 5th        | 64.95 m |
+|  8 |   2007 | World Championships           | Osaka, Japan         | 13th       | 68.15 m |
+|  9 |   2008 | Olympic Games                 | Beijing, PR China    | 8th        | 71.00 m |
+| 10 |   2008 | World Athletics Final         | Stuttgart, Germany   | 2nd        | 71.40 m |
+| 11 |   2009 | World Student Games           | Belgrade, Serbia     | 2nd        | 72.85 m |
+| 12 |   2009 | World Championships           | Berlin, Germany      | 3rd        | 74.79 m |
+| 13 |   2009 | World Athletics Final         | Thessaloniki, Greece | 3rd        | 70.45 m |
+| 14 |   2012 | European Championships        | Helsinki, Finland    | 2nd        | 73.34 m |
+===================Question===================
+what is the total number of 2nd place positions?
+===================Text===================
+<think>
+Okay, so I need to figure out how many times Martina Hrašnová got 2nd place based on the table provided. Let me go through each row one by one.
+
+Starting from the top:
+- In 1999, she was 12th. Not 2nd.
+- 2000: 5th place. Still not 2nd.
+- 2001 at European Juniors: She got 2nd! That's one.
+- Later in 2001 at World Championships: 23rd. Nope.
+- 2002 at World Juniors: Another 2nd place. Now we're at two.
+- Same year, European Championships: 26th. Not relevant.
+- 2006: 26th again. No luck there.
+- 2007: Two competitions. First was 5th, second 13th. Neither is 2nd.
+- 2008: Olympics gave her 8th and then a 2nd place at World Athletics Final. That's three now.
+- In 2009, she competed in Student Games where she got 2nd again. So that's four. And then 3rd and another 3rd in other events that year.
+- Finally, 2012 European Championships: She was 2nd once more. Now we're up to five.
+
+So adding them all up: positions at rows 2 (2001), 4 (2002), 10 (2008), 11 (2009), and 14 (2012). Wait, no—row 10 is 2008 World Athletics Final where she was 2nd. Then row 11, 2009 Student Games, another 2nd. Then in 2012, the last row, another 2nd.
+
+Wait, let me recount to avoid mistakes. Row indexes 2 (2001), 4 (2002), 10 (2008), 11 (2009), and 14 (2012). That makes five times she was 2nd place.
+</think>
+
+Final Answer: 5
+===================Answer===================
+5

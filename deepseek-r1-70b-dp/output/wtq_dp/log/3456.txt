@@ -1,0 +1,50 @@
+===================Title===================
+Speed skating at the 1972 Winter Olympics
+===================Table===================
+|    |   Rank | Nation              |   Gold |   Silver |   Bronze |   Total |
+|---:|-------:|:--------------------|-------:|---------:|---------:|--------:|
+|  0 |      1 | Netherlands (NED)   |      4 |        3 |        2 |       9 |
+|  1 |      2 | United States (USA) |      2 |        1 |        1 |       4 |
+|  2 |      3 | West Germany (FRG)  |      2 |        0 |        0 |       2 |
+|  3 |      4 | Norway (NOR)        |      0 |        2 |        2 |       4 |
+|  4 |      5 | Soviet Union (URS)  |      0 |        1 |        2 |       3 |
+|  5 |      6 | Sweden (SWE)        |      0 |        1 |        1 |       2 |
+|  6 |    nan | Total               |      8 |        8 |        8 |      24 |
+===================Question===================
+what country had the least amount of bronze medals?
+===================Text===================
+<think>
+Alright, let's tackle this problem step by step. So, I have a table that shows the medal counts for different countries in Speed Skating at the 1972 Winter Olympics. The columns are Rank, Nation, Gold, Silver, Bronze, and Total medals.
+
+The question is asking which country had the least amount of bronze medals. Hmm, okay. First, I need to look at the Bronze column and find out the numbers for each country.
+
+Looking at the table:
+
+- Netherlands (NED) has 2 bronze medals.
+- United States (USA) also has 1 bronze medal.
+- West Germany (FRG) doesn't have any bronze medals; it's zero.
+- Norway (NOR) has 2 bronze medals.
+- Soviet Union (URS) has 2 bronze medals as well.
+- Sweden (SWE) has 1 bronze medal.
+
+So, the Bronze column shows NED:2, USA:1, FRG:0, NOR:2, URS:2, SWE:1. The last row is for Total and has 8 bronze medals overall, but I think that's just summing up all the bronzes from each country.
+
+Now, the question is about which country had the least amount of bronze medals. From the numbers above, West Germany (FRG) has 0 bronze medals. That seems to be the lowest because zero is less than one or two.
+
+Wait a second, let me double-check to make sure I didn't miss anything. The FRG row under Bronze says 0, yes. No other country has less than that since all others have at least 1 bronze medal except for maybe someone else? Let's see:
+
+- NED:2
+- USA:1
+- FRG:0
+- NOR:2
+- URS:2
+- SWE:1
+
+No, all others besides FRG have either 1 or more. So, West Germany (FRG) is the only one with zero bronze medals.
+
+Therefore, the country with the least amount of bronze medals is West Germany.
+</think>
+
+Final Answer: West Germany (FRG)
+===================Answer===================
+West Germany

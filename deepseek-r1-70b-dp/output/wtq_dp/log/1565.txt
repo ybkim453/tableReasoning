@@ -1,0 +1,88 @@
+===================Title===================
+Kansas City Brass
+===================Table===================
+|    |   Year |   Division | League     | Regular Season      | Playoffs        | Open Cup        |
+|---:|-------:|-----------:|:-----------|:--------------------|:----------------|:----------------|
+|  0 |   1998 |          4 | USISL PDSL | 4th, Central        | Division Finals | 1st Round       |
+|  1 |   1999 |          4 | USL PDL    | 5th, Heartland      | Did not qualify | Did not qualify |
+|  2 |   2000 |          4 | USL PDL    | 4th, Rocky Mountain | Did not qualify | Did not qualify |
+|  3 |   2001 |          4 | USL PDL    | 5th, Rocky Mountain | Did not qualify | Did not qualify |
+|  4 |   2002 |          4 | USL PDL    | 5th, Heartland      | Did not qualify | Did not qualify |
+|  5 |   2003 |          4 | USL PDL    | 5th, Heartland      | Did not qualify | Did not qualify |
+|  6 |   2004 |          4 | USL PDL    | 6th, Heartland      | Did not qualify | Did not qualify |
+|  7 |   2005 |          4 | USL PDL    | 3rd, Heartland      | Did not qualify | Did not qualify |
+|  8 |   2006 |          4 | USL PDL    | 3rd, Heartland      | Did not qualify | Did not qualify |
+|  9 |   2007 |          4 | USL PDL    | 3rd, Heartland      | Did not qualify | 1st Round       |
+| 10 |   2008 |          4 | USL PDL    | 5th, Heartland      | Did not qualify | Did not qualify |
+| 11 |   2009 |          4 | USL PDL    | 6th, Heartland      | Did not qualify | Did not qualify |
+| 12 |   2010 |          4 | USL PDL    | 7th, Heartland      | Did not qualify | Did not qualify |
+| 13 |   2011 |          4 | USL PDL    | 4th, Heartland      | Did not qualify | Did not qualify |
+| 14 |   2012 |          4 | USL PDL    | 5th, Heartland      | Did not qualify | Did not qualify |
+| 15 |   2013 |          4 | USL PDL    | 4th, Heartland      | Did not qualify | Did not qualify |
+===================Question===================
+how many leagues are usl pdl?
+===================Text===================
+<think>
+Alright, let's tackle this question step by step. The user provided a table about the Kansas City Brass and wants to know how many leagues are USL PDL based on that table.
+
+First, I need to understand what the table is showing. It lists information from 1998 to 2013, with columns like Year, Division, League, Regular Season performance, Playoffs, and Open Cup results.
+
+Looking at the "League" column, it's clear that the team was part of different leagues in these years. In 1998, they were in USISL PDSL. Starting from 1999 onwards until 2013, each year lists "USL PDL". 
+
+So, the question is asking for how many leagues are named USL PDL. Wait, that might be a bit confusing. Are they asking how many times USL PDL appears in the League column?
+
+Looking back at the table:
+
+- In 1998, it's USISL PDSL.
+- From 1999 to 2013 (that's 15 years), each entry under "League" is USL PDL.
+
+So, from year 1999 (index 1) to 2013 (index 14), that's 15 entries in total. But wait, index 0 is 1998, and then indices 1 through 15 are years 1999 to 2013. Wait no, let me count the rows correctly.
+
+Wait the table has 16 rows from year 1998 (row 0) up to 2013 (row 14). But actually, looking at the first column, it's numbered 0 to 15, which is 16 entries. However, in row 0 (year 1998), the league is USISL PDSL, and rows 1 through 15 are from 1999 to 2013, all showing "USL PDL". So that's 15 instances where League is USL PDL.
+
+Wait no, let me check each row:
+
+Row 0: Year 1998, League USISL PDSL
+
+Rows 1-14: Years 1999-2012 (since rows are 0 to 14 as per the table). Wait, the last row is 15 years? Let's count:
+
+From row 0: 1998
+
+Row 1: 1999
+
+Row 2: 2000
+
+...
+
+Row 15: 2013
+
+So that's 16 rows total. From 1998 to 2013 inclusive is 16 years.
+
+In 1998, the league is USISL PDSL.
+
+From 1999 (row1) to 2013 (row15), which is 15 years, the league is USL PDL each year.
+
+Wait no: rows 0-15 correspond to 1998-2013. So from row1 (1999) to row15 (2013): that's 15 rows where League is USL PDL.
+
+So the question is how many leagues are named USL PDL. But wait, "USL PDL" refers to a single league. The question might be phrased differently: perhaps it's asking in how many years was the team part of USL PDL.
+
+Alternatively, maybe the user wants to know how many unique leagues there are with the name USL PDL in the table, but that doesn't make sense because each year is the same league structure. So the count would be 15 times where the League is USL PDL.
+
+Wait, but looking at the data again:
+
+In row0 (1998), it's USISL PDSL
+
+Rows1-15: all are USL PDL, which is 15 instances.
+
+So the number of leagues named USL PDL in the table would be 15 entries.
+
+But wait, maybe "USL PDL" appears multiple times as the same league. So perhaps the user is asking how many different leagues are there, but each time it's USL PDL except for 1998 which was a different one. But the question is specifically about USL PDL leagues in the table.
+
+Wait, the exact wording of the question is "how many leagues are usl pdl?" So perhaps they're asking for how many times the team played in the USL PDL league over the years.
+
+So from 1999 to 2013, that's 15 years where the league was USL PDL. Therefore, the answer would be 15.
+</think>
+
+Final Answer: 15
+===================Answer===================
+15

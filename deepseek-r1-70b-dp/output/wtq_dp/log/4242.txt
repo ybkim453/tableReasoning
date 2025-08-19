@@ -1,0 +1,34 @@
+===================Title===================
+Glasgow Airport
+===================Table===================
+|    |   Rank | Airport               | Passengers handled   | Change\n2011/12   |
+|---:|-------:|:----------------------|:---------------------|:------------------|
+|  0 |      1 | London Heathrow       | 828,531              | 0%                |
+|  1 |      2 | London Gatwick        | 607,417              | 7%                |
+|  2 |      3 | London Stansted       | 331,607              | 3%                |
+|  3 |      4 | London Luton          | 276,488              | 0%                |
+|  4 |      5 | Belfast International | 266,987              | 8%                |
+|  5 |      6 | Bristol               | 239,666              | 8%                |
+|  6 |      7 | Birmingham            | 208,123              | 2%                |
+|  7 |      8 | Southampton           | 173,576              | 24%               |
+|  8 |      9 | London City           | 158,239              | 6%                |
+|  9 |     10 | Belfast City          | 100,003              | 4%                |
+===================Question===================
+which airport is the most busy?
+===================Text===================
+<think>
+Okay, so I need to figure out which airport from the given table is the most busy based on the number of passengers handled. Let me look at the table again.
+
+The table has several columns: Rank, Airport, Passengers handled, and Change 2011/12. The ranks go from 1 to 10, with London Heathrow being rank 1. I'm interested in the "Passengers handled" column because that will tell me how busy each airport is. 
+
+Looking at the numbers:
+- London Heathrow has 828,531 passengers.
+- Gatwick has 607,417, which is less than Heathrow.
+- Stansted with 331k, Luton 276k, and so on down to Belfast City with 100k.
+
+So clearly, the highest number is at London Heathrow. That means it's the busiest airport in this list. The other airports have lower numbers, so even though some have higher percentage changes, the total passengers determine the busyness here.
+</think>
+
+Final Answer: London Heathrow
+===================Answer===================
+London Heathrow

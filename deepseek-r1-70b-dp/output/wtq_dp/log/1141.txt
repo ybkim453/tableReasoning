@@ -1,0 +1,40 @@
+===================Title===================
+Nicolás Terol
+===================Table===================
+|    | Season   | Class   | Moto    |   Races |   Win |   Podiums |   Pole | Pts    | Position   |
+|---:|:---------|:--------|:--------|--------:|------:|----------:|-------:|:-------|:-----------|
+|  0 | 2004     | 125cc   | Aprilia |       1 |     0 |         0 |      0 | 0      | NC         |
+|  1 | 2005     | 125cc   | Derbi   |      13 |     0 |         0 |      0 | 1      | 36th       |
+|  2 | 2006     | 125cc   | Derbi   |      16 |     0 |         0 |      0 | 53     | 14th       |
+|  3 | 2007     | 125cc   | Derbi   |      17 |     0 |         0 |      0 | 19     | 22nd       |
+|  4 | 2008     | 125cc   | Aprilia |      17 |     1 |         5 |      0 | 176    | 5th        |
+|  5 | 2009     | 125cc   | Aprilia |      16 |     1 |         4 |      0 | 179.5  | 3rd        |
+|  6 | 2010     | 125cc   | Aprilia |      16 |     3 |        14 |      1 | 296    | 2nd        |
+|  7 | 2011     | 125cc   | Aprilia |      16 |     8 |        11 |      7 | 302    | 1st        |
+|  8 | 2012     | Moto2   | Suter   |      17 |     0 |         1 |      0 | 37     | 17th       |
+|  9 | 2013     | Moto2   | Suter   |      17 |     3 |         4 |      1 | 150    | 7th        |
+| 10 | 2014     | Moto2   | Suter   |       1 |     0 |         0 |      0 | 0*     | NC*        |
+| 11 | Total    | nan     | nan     |     147 |    16 |        39 |      9 | 1213.5 | nan        |
+===================Question===================
+how many podiumdoes 2004 have
+===================Text===================
+<think>
+Alright, so I need to figure out how many podiums Nicolás Terol had in 2004 according to the given table. Let me start by understanding what each column represents because that's crucial for extracting the correct information.
+
+The table has several columns: Season, Class, Moto, Races, Win, Podiums, Pole, Pts, and Position. Each row corresponds to a different year, starting from 2004 up to 2014, with an additional Total row at the end. The user is specifically asking about the number of podiums in the year 2004.
+
+Looking at the table, I should focus on the row where Season is 2004. Scanning through the rows:
+
+- Row 0: Season 2004, Class 125cc, Moto Aprilia
+- Races: 1
+- Win: 0
+- Podiums: 0
+
+So, in 2004, Nicolás Terol participated in 1 race but didn't win any and also didn't make it to the podium. Therefore, the number of podiums that year is zero.
+
+I should double-check to ensure I'm reading the correct row and column. The Podiums column for 2004 indeed shows a value of 0, which confirms my initial assessment.
+</think>
+
+Final Answer: 0
+===================Answer===================
+0

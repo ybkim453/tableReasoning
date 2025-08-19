@@ -1,0 +1,53 @@
+===================Title===================
+1990 IndyCar season
+===================Table===================
+|    | Date   | Rnd          | Race Name                              | Circuit                           | City/Location               | Pole position      | Winning driver     | Winning team         | Report   |
+|---:|:-------|:-------------|:---------------------------------------|:----------------------------------|:----------------------------|:-------------------|:-------------------|:---------------------|:---------|
+|  0 | 1      | April 8      | Autoworks 200                          | Phoenix International Raceway     | Phoenix, Arizona            | Rick Mears         | Rick Mears         | Team Penske          | Report   |
+|  1 | 2      | April 22     | Toyota Long Beach Grand Prix           | Streets of Long Beach             | Long Beach, California      | Al Unser, Jr.      | Al Unser, Jr.      | Galles-Kraco Racing  | Report   |
+|  2 | 3      | May 27       | 74th Indianapolis 500                  | Indianapolis Motor Speedway       | Speedway, Indiana           | Emerson Fittipaldi | Arie Luyendyk      | Doug Shierson Racing | Report   |
+|  3 | 4      | June 3       | Miller Genuine Draft 200               | Milwaukee Mile                    | West Allis, Wisconsin       | Rick Mears         | Al Unser, Jr.      | Galles-Kraco Racing  | Report   |
+|  4 | 5      | June 17      | Valvoline Grand Prix of Detroit        | Streets of Detroit                | Detroit, Michigan           | Michael Andretti   | Michael Andretti   | Newman/Haas Racing   | Report   |
+|  5 | 6      | June 24      | Budweiser/G.I.Joe's 200                | Portland International Raceway    | Portland, Oregon            | Danny Sullivan     | Michael Andretti   | Newman/Haas Racing   | Report   |
+|  6 | 7      | July 8       | Budweiser Grand Prix of Cleveland      | Cleveland Burke Lakefront Airport | Cleveland, Ohio             | Rick Mears         | Danny Sullivan     | Team Penske          | Report   |
+|  7 | 8      | July 15      | Marlboro Grand Prix at the Meadowlands | Meadowlands Sports Complex        | East Rutherford, New Jersey | Michael Andretti   | Michael Andretti   | Newman/Haas Racing   | Report   |
+|  8 | 9      | July 22      | Molson Indy Toronto                    | Exhibition Place                  | Toronto, Ontario            | Danny Sullivan     | Al Unser, Jr.      | Galles-Kraco Racing  | Report   |
+|  9 | 10     | August 5     | Marlboro 500                           | Michigan International Speedway   | Brooklyn, Michigan          | Emerson Fittipaldi | Al Unser, Jr.      | Galles-Kraco Racing  | Report   |
+| 10 | 11     | August 26    | Texaco/Havoline Grand Prix of Denver   | Streets of Denver                 | Denver, Colorado            | Teo Fabi           | Al Unser, Jr.      | Galles-Kraco Racing  | Report   |
+| 11 | 12     | September 2  | Molson Indy Vancouver                  | Streets of Vancouver              | Vancouver, British Columbia | Michael Andretti   | Al Unser, Jr.      | Galles-Kraco Racing  | Report   |
+| 12 | 13     | September 16 | Red Roof Inns 200                      | Mid-Ohio Sports Car Course        | Lexington, Ohio             | Michael Andretti   | Michael Andretti   | Newman/Haas Racing   | Report   |
+| 13 | 14     | September 23 | Texaco/Havoline 200                    | Road America                      | Elkhart Lake, Wisconsin     | Danny Sullivan     | Michael Andretti   | Newman/Haas Racing   | Report   |
+| 14 | NC     | October 6    | Marlboro Challenge                     | Nazareth Speedway                 | Nazareth, Pennsylvania      | Michael Andretti   | Rick Mears         | Team Penske          | Report   |
+| 15 | 15     | October 7    | Bosch Spark Plug Grand Prix            | Nazareth Speedway                 | Nazareth, Pennsylvania      | Bobby Rahal        | Emerson Fittipaldi | Team Penske          | Report   |
+| 16 | 16     | October 21   | Champion Spark Plug 300K               | Laguna Seca Raceway               | Monterey, California        | Danny Sullivan     | Danny Sullivan     | Team Penske          | Report   |
+===================Question===================
+how long after the "vavoline grand prix of detroit" did michael andretti win again?
+===================Text===================
+<think>
+Alright, so I need to figure out how long after the "Valvoline Grand Prix of Detroit" Michael Andretti won again. Let me start by looking through the table provided.
+
+First, I'll locate the "Valvoline Grand Prix of Detroit." Scanning through the Race Name column, I see it's row 4, which is on June 17th. The winning driver there was Michael Andretti, from Newman/Haas Racing.
+
+Now, I need to find the next race where Michael Andretti won after this date. Let me go down the list of races chronologically.
+
+The next event is on June 24th in Portland, Oregon (row 5), but the winner there was also Michael Andretti. Wait, that's just one week later? So he won again at the Budweiser/G.I.Joe's 200 on June 24th.
+
+But let me double-check to make sure I didn't skip any races in between. The Valvoline Grand Prix of Detroit is on June 17th, and the next race is June 24th, which is exactly one week later.
+
+So Michael Andretti won at Detroit on June 17th and then again just a week later on June 24th.
+
+Wait, but I should make sure there's no other races between them. Let me check all dates:
+
+- April has two races: 8th and 22nd.
+- May 27th is the Indy 500.
+- Then June 3rd (Milwaukee), then June 17th (Detroit), followed by June 24th (Portland).
+So yes, after Detroit on the 17th, the next race he won was Portland on the 24th.
+
+Calculating the time between these two races: from June 17 to June 24 is exactly one week, which is 7 days.
+</think>
+
+The "Valvoline Grand Prix of Detroit" took place on June 17th. Michael Andretti's next win after that was on June 24th at Portland International Raceway.
+
+Final Answer: 7
+===================Answer===================
+7 days

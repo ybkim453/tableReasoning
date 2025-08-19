@@ -1,0 +1,105 @@
+===================Title===================
+Narkhed
+===================Table===================
+|    |   Sr. No. |   Train No. | Name of the Train                  | Arrival   | Departure   | Day          |
+|---:|----------:|------------:|:-----------------------------------|:----------|:------------|:-------------|
+|  0 |         1 |       18238 | Chhatisgarh Express                | 01:23     | 01:25       | Daily        |
+|  1 |         2 |       12160 | Jabalpur-Amravati SF               | 04:51     | 04:53       | Daily        |
+|  2 |         3 |       51294 | Amla-Nagpur Pass                   | 06:39     | 06:40       | Daily        |
+|  3 |         4 |       12913 | Indore-Nag Tri. Exp                | 06:49     | 06:51       | M            |
+|  4 |         5 |       19301 | Indore-Yashwantpur Exp             | 07:20     | 07:25       | M            |
+|  5 |         6 |       12406 | Nizamuddin-Bhusaval Gondwana Exp   | 07:25     | 07:27       | M,St         |
+|  6 |         7 |       12410 | Nizamuddin-Raigarh Gondwana Exp    | 07:25     | 07:27       | S,M,Tu,W,T,F |
+|  7 |         8 |       51151 | New Amravati-Narkhed Pass          | 08:30     | N/a         | Daily        |
+|  8 |         9 |       22112 | Nagpur-Bhusaval SF                 | 08:37     | 08:39       | M,T,St       |
+|  9 |        10 |       11045 | Dikshsabhoomi Exp                  | 08:53     | 08:55       | St           |
+| 10 |        11 |       16359 | Ernakulam-Patna Exp                | 08:53     | 08:55       | M            |
+| 11 |        12 |       51829 | Nagpur-Agra Pass                   | 09:41     | 09:42       | Daily        |
+| 12 |        13 |       12861 | Visakapatnam-Nizamuddin            | 10:43     | 10:44       | Daily        |
+| 13 |        14 |       12721 | Dakshin Express                    | 10:43     | 10:44       | Daily        |
+| 14 |        15 |       12616 | Grand Trunk(GT) Exp                | 10:49     | 10:51       | Daily        |
+| 15 |        16 |       19714 | Sec-Jaipur Exp                     | 11:58     | 12:00       | Tu           |
+| 16 |        17 |       11203 | Nagpur-Jaipur Weekly Express       | 13:03     | 13:05       | T            |
+| 17 |        18 |       12615 | Grand Trunk(GT) Exp                | 13:30     | 13:32       | Daily        |
+| 18 |        19 |       12405 | Bhusaval-H.Nizamuddin Gondwana Exp | 14:08     | 14:10       | S,Tu,        |
+| 19 |        20 |       12409 | Raigarh-H.Nizamuddin- Gondwana Exp | 14:08     | 14:10       | M,W,T,F,St   |
+| 20 |        21 |       16360 | Patna-Ernakulam Exp                | 14:08     | 14:10       | W            |
+| 21 |        22 |       11046 | Dikshsabhoomi Exp                  | 14:09     | 14:10       | Tu           |
+| 22 |        23 |       22111 | Bhusaval_Nagpur SF                 | 14:36     | 14:38       | S,W,F        |
+| 23 |        24 |       19713 | Jaipur-Sec Exp                     | 15:48     | 15:50       | Tu           |
+| 24 |        25 |       12722 | Dakshin Express                    | 16:00     | 16:02       | Daily        |
+| 25 |        26 |       51183 | Bhusaval-Narkhed Pass              | 16:00     | N/a         | Daily        |
+| 26 |        27 |       11204 | Jaipur-Nagpur Exp                  | 17:24     | 17:25       | St           |
+| 27 |        28 |       19302 | Yashwantpur-Indore Exp             | 17:35     | 17:40       | W            |
+| 28 |        29 |       51830 | Agra-Nagpur Pass                   | 18:04     | 18:05       | Daily        |
+| 29 |        30 |       51293 | Nagpur-Amla Pass                   | 19:55     | 20:00       | Daily        |
+| 30 |        31 |       12914 | Nagpur-Indore Tri. Exp             | 20:08     | 20:10       | M            |
+| 31 |        32 |       12159 | Amravati-Jabalpur SF               | 22:30     | 22:32       | Daily        |
+| 32 |        33 |       18237 | Chhatisgarh Express                | 23:09     | 23:10       | Daily        |
+| 33 |        34 |       51152 | Narkhed-New Amravati Pass          | N/a       | 18:00       | Daily        |
+| 34 |        35 |       51184 | Bhusaval-Narkhed Pass              | N/a       | 09:00       | Daily        |
+===================Question===================
+which train leaves the earliest on mondays?
+===================Text===================
+<think>
+Alright, I need to figure out which train leaves the earliest on Mondays from Narkhed based on the provided table. Let me start by understanding the structure of the table.
+
+The table has several columns: Sr. No., Train No., Name of the Train, Arrival time, Departure time, and Day. My goal is to find the trains that depart on Monday and determine which one leaves the earliest.
+
+First, I'll go through each row and note down the trains that operate on Mondays. The 'Day' column indicates the days each train runs. For example, some have "Daily", while others specify certain days of the week like M (Monday), T (Tuesday), W (Wednesday), Th (Thursday), F (Friday), St (Saturday), Su (Sunday).
+
+Let's go row by row:
+
+1. Sr. No. 0: Train No. 18238, Chhatisgarh Express, Departure at 01:25, Daily. Since it's daily, it runs on Monday. The departure time is 01:25.
+
+2. Sr. No. 1: Train No. 12160, Jabalpur-Amravati SF, Departs at 04:53, Daily. So it leaves on Monday at 04:53.
+
+3. Sr. No. 2: Train No.51294, Amla-Nagpur Pass, departs at 06:40, Daily. Leaves Monday at 06:40.
+
+4. Sr. No. 3: Train No.12913, Indore-Nag Tri. Exp, departs at 06:51, Day is M (Monday). So it's a Monday train departing at 06:51.
+
+5. Sr. No.4: Train No.19301, Indore-Yashwantpur Exp, departs at07:25, Day M. Departs on Monday at07:25.
+
+6. Sr. No.5: Train No.12406, Nizamuddin-Bhusaval Gondwana Exp, departs at 07:27, Days are M,St. So it runs on Monday and Saturday, departing at07:27.
+
+7. Sr. No.6: Train No.12410, Nizamuddin-Raigarh Gondwana Exp, departs at07:27, Days include S,M,Tu,W,T,F, which means it doesn't run on Sunday but does run Monday to Saturday. So departure time is 07:27.
+
+8. Sr. No.7: Train No.51151, New Amravati-Narkhed Pass, arrival at08:30, Departure N/a (no departure; perhaps it's the starting point). Since it doesn't depart from Narkhed, I can ignore this one.
+
+9. Sr. No.8: The next few rows are checked similarly, but I'm focusing on Monday only. For example:
+
+- Train 51183 departs at16:00 daily.
+- But wait, looking further down, let's ensure we capture all Monday trains and their departure times.
+
+Continuing through the list, I note each train that runs on Monday along with its departure time:
+
+From Sr.No.0 to Sr.No.34, I collect all Monday departures.
+
+Now, compiling the list of Monday departure times:
+
+- 01:25 (Train No.18238)
+- 04:53 (Train No.12160)
+- 06:40 (Train No.51294)
+- 06:51 (Train No.12913)
+- 07:25 (Train No.19301)
+- 07:27 (Train No.12406)
+- 07:27 (Train No.12410)
+
+Additionally, Train No.51152 departs at18:00 on Monday as per Sr.No.33.
+
+Wait, looking back:
+
+Sr.No.33: Train 51152 departs at18:00 on Daily days except arrival is N/a and departure is18:00, so it does depart on Mondays at18:00.
+
+But the earliest time among these would be the train departing at01:25, which is the Chhatisgarh Express (Train No.18238). However, I should check if there are any other trains that leave earlier than this but only on Mondays. But looking through the list again, 01:25 is indeed the earliest departure time among Monday trains.
+
+Wait a second, let me make sure I didn't miss any earlier times. From the table:
+
+- The first row has a departure at01:25 (Train No.18238).
+- Next is04:53.
+So yes, 01:25 is the earliest time on Mondays.
+</think>
+
+Final Answer: Chhatisgarh Express
+===================Answer===================
+Chhatisgarh Express

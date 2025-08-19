@@ -1,0 +1,39 @@
+===================Title===================
+Sinnamon
+===================Table===================
+|    |   Year | Name                       | Label       | Hot Black Singles   | Club Play Singles   |
+|---:|-------:|:---------------------------|:------------|:--------------------|:--------------------|
+|  0 |   1982 | "He's Gonna Take You Home" | Becket      | ―                   | ―                   |
+|  1 |   1982 | "Thanks to You"            | Becket      | #44                 | #1                  |
+|  2 |   1983 | "I Need You Now"           | Jive        | ―                   | ―                   |
+|  3 |   1984 | "Thin Line"                | Power House | ―                   | ―                   |
+|  4 |   1986 | "Say It Again"             | Spring      | ―                   | ―                   |
+|  5 |   1986 | "Say It Again"             | Spring      | ―                   | ―                   |
+|  6 |   1987 | "Send It C.O.D."           | New Image   | ―                   | ―                   |
+===================Question===================
+how many labels did sinnamon record under?
+===================Text===================
+<think>
+Alright, so I need to figure out how many labels Sinnamon recorded under based on the table provided. Let me start by looking at the table carefully.
+
+First, the table has several columns: Year, Name, Label, Hot Black Singles, and Club Play Singles. The rows list different songs by Sinnamon along with their respective labels and chart performances for each year from 1982 to 1987.
+
+I notice that each row represents a song, and under the "Label" column, there are different names listed such as Becket, Jive, Power House, Spring, and New Image. My task is to count how many unique labels Sinnamon recorded under.
+
+Let me list out the labels I see:
+
+1. The first entry in 1982 is under Becket.
+2. The second entry in the same year (1982) is also under Becket.
+3. In 1983, the label changes to Jive.
+4. Moving to 1984, it's Power House.
+5. Then in 1986, there are two entries both under Spring, but they're the same song "Say It Again," so that's just one unique label.
+6. Finally, in 1987, the label is New Image.
+
+Now, I should make sure I'm not missing any duplicates or variations. Becket appears twice for different songs, Jive once, Power House once, Spring twice (same song), and New Image once. So each of these labels is distinct from one another.
+
+So, counting them up: Becket, Jive, Power House, Spring, and New Image. That makes a total of 5 unique labels.
+</think>
+
+Final Answer: 5
+===================Answer===================
+5

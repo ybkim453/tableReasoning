@@ -1,0 +1,83 @@
+===================Title===================
+Colorado Rapids Women
+===================Table===================
+|    |   Year |   Division | League       | Reg. Season   | Playoffs        |
+|---:|-------:|-----------:|:-------------|:--------------|:----------------|
+|  0 |   2003 |          2 | USL W-League | 5th, Western  | nan             |
+|  1 |   2004 |          1 | USL W-League | 8th, Western  | nan             |
+|  2 |   2005 |          1 | USL W-League | 6th, Western  | nan             |
+|  3 |   2006 |          1 | USL W-League | 5th, Western  | nan             |
+|  4 |   2007 |          1 | USL W-League | 5th, Western  | nan             |
+|  5 |   2008 |          1 | USL W-League | 6th, Western  | Did not qualify |
+|  6 |   2009 |          1 | USL W-League | 7th, Western  | Did not qualify |
+|  7 |   2010 |          1 | USL W-League | 6th, Western  | Did not qualify |
+|  8 |   2011 |          1 | USL W-League | 7th, Western  | Did not qualify |
+|  9 |   2012 |          1 | USL W-League | 4th, Western  | Did not qualify |
+| 10 |   2013 |          1 | USL W-League | 4th, Western  | Did not qualify |
+===================Question===================
+what is the total number of times the team did not qualify for playoffs?
+===================Text===================
+<think>
+Okay, so I need to figure out how many times the Colorado Rapids Women team did not qualify for playoffs based on the table provided. Let me start by looking at each row of data and checking the "Playoffs" column.
+
+Starting from 2003, the playoff entry is 'nan', which probably stands for 'not applicable' or 'no playoffs'. I'll count that as a year they didn't qualify. 
+
+In 2004, again it's 'nan', so that's another year without qualifying.
+
+2005: 'nan' once more, adding to the count.
+
+2006: Still 'nan', so that's four years now.
+
+2007: Again, 'nan', making it five.
+
+Moving on to 2008, the playoff entry is "Did not qualify", which clearly indicates they didn't make it. So I'll add this as the sixth year.
+
+2009 also says "Did not qualify". That brings the total to seven.
+
+2010: Same result, so now eight years.
+
+2011: Again, "Did not qualify" for playoffs, making it nine times.
+
+Finally, 2012 and 2013 both show "Did not qualify", adding two more instances. Wait, let me recount because sometimes I might miscount. From 2008 to 2013 is six years, each with "Did not qualify". Plus the first five years (2003-2007) where it was 'nan', that's a total of 11 times? Wait no, from 2003 to 2013 is 11 rows, but looking at each one:
+
+- 2003: nan
+- 2004: nan
+- 2005: nan
+- 2006: nan
+- 2007: nan (so five 'nan's)
+Then:
+- 2008: Did not qualify
+- 2009: Did not qualify
+- 2010: Did not qualify
+- 2011: Did not qualify
+- 2012: Did not qualify
+- 2013: Did not qualify
+
+Wait, that's six more after 2007. So five plus six equals eleven times? But wait, the table shows 'nan' for years up to 2007 and then "Did not qualify" from 2008 onwards. So let me check each row:
+
+Row 0 (2003): nan → didn't qualify
+Row 1 (2004): nan → didn't qualify
+Row 2 (2005): nan → didn't qualify
+Row 3 (2006): nan → didn't qualify
+Row 4 (2007): nan → didn't qualify
+That's five years.
+
+Then rows 5 to 10 (2008-2013 inclusive) have "Did not qualify", which is six more instances. So total would be 5 + 6 = 11 times.
+
+Wait, but looking back at the table, row indices from 0 to 10 correspond to years 2003 through 2013, that's 11 years in total. Each of these rows has either 'nan' or "Did not qualify". So every single year listed, they didn't qualify for playoffs. Therefore, the total number is 11.
+
+But wait, I think I might have miscounted because looking at each row:
+
+- 2003: nan
+- 2004: nan
+- 2005: nan
+- 2006: nan
+- 2007: nan → that's five
+Then from 2008 to 2013 (six years): six more.
+
+Wait, 2008 is the sixth year, so adding those makes it 11 total. So yes, the answer should be 11.
+</think>
+
+Final Answer: 11
+===================Answer===================
+6

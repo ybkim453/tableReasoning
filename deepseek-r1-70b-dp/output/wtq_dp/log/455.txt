@@ -1,0 +1,33 @@
+===================Title===================
+United States men's national soccer team
+===================Table===================
+|    | #   | Player           |   Goals |   Caps | Career       |
+|---:|:----|:-----------------|--------:|-------:|:-------------|
+|  0 | 1   | Landon Donovan   |      57 |    155 | 2000–present |
+|  1 | 2   | Clint Dempsey    |      36 |    103 | 2004–present |
+|  2 | 3   | Eric Wynalda     |      34 |    106 | 1990–2000    |
+|  3 | 4   | Brian McBride    |      30 |     95 | 1993–2006    |
+|  4 | 5   | Joe-Max Moore    |      24 |    100 | 1992–2002    |
+|  5 | 6T  | Jozy Altidore    |      21 |     67 | 2007–present |
+|  6 | 6T  | Bruce Murray     |      21 |     86 | 1985–1993    |
+|  7 | 8   | Eddie Johnson    |      19 |     62 | 2004–present |
+|  8 | 9T  | Earnie Stewart   |      17 |    101 | 1990–2004    |
+|  9 | 9T  | DaMarcus Beasley |      17 |    114 | 2001–present |
+===================Question===================
+how many goals did earnie stewart score?
+===================Text===================
+<think>
+Okay, so I need to figure out how many goals Earnie Stewart scored based on the provided table. Let me start by understanding the structure of the table.
+
+The table has several columns: an index starting from 0, a Player column with their names, Goals, Caps, and Career spans. Each row represents a different player's statistics.
+
+I'm looking for Earnie Stewart specifically. Scanning through the Player column, I see that row 8 (since it starts at 0) has Earnie Stewart. The columns are in this order: index, Rank, Player, Goals, Caps, Career.
+
+So, focusing on Earnie Stewart's row, under the Goals column, the number is 17. That should be the answer.
+</think>
+
+Earnie Stewart scored 17 goals.
+
+Final Answer: 17
+===================Answer===================
+17

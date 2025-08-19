@@ -1,0 +1,52 @@
+===================Title===================
+2012–13 Exeter City F.C. season
+===================Table===================
+|    | Name          |   League |   FA Cup |   League Cup |   JP Trophy |   Total |
+|---:|:--------------|---------:|---------:|-------------:|------------:|--------:|
+|  0 | Scot Bennett  |        5 |        0 |            0 |           0 |       5 |
+|  1 | Danny Coles   |        3 |        0 |            0 |           0 |       3 |
+|  2 | Liam Sercombe |        1 |        0 |            0 |           0 |       1 |
+|  3 | Alan Gow      |        4 |        0 |            0 |           0 |       4 |
+|  4 | John O'Flynn  |       11 |        0 |            1 |           0 |      12 |
+|  5 | Guillem Bauza |        2 |        0 |            0 |           0 |       2 |
+|  6 | Jimmy Keohane |        3 |        0 |            0 |           0 |       3 |
+|  7 | Pat Baldwin   |        1 |        0 |            0 |           0 |       1 |
+|  8 | Jamie Cureton |       20 |        0 |            0 |           0 |      20 |
+|  9 | Arron Davies  |        3 |        0 |            0 |           0 |       3 |
+| 10 | Jake Gosling  |        1 |        0 |            0 |           0 |       1 |
+| 11 | OWN GOALS     |        0 |        0 |            0 |           0 |       0 |
+| 12 | Total         |        0 |        0 |            0 |           0 |       0 |
+===================Question===================
+how many consecutive zeros are listed under the fa cup category?
+===================Text===================
+<think>
+Okay, so I need to figure out how many consecutive zeros are listed under the FA Cup category in the given table. Let me start by looking at the table structure and the data presented.
+
+The table has columns labeled: Name, League, FA Cup, League Cup, JP Trophy, and Total. Each row corresponds to a player or "OWN GOALS" with their respective statistics across these competitions for the 2012-13 Exeter City F.C. season.
+
+My focus is on the FA Cup column. I'll go through each row's FA Cup entry one by one, starting from the top.
+
+Row 0: Scot Bennett - FA Cup is 0.
+Row 1: Danny Coles - FA Cup is 0.
+Row 2: Liam Sercombe - FA Cup is 0.
+Row 3: Alan Gow - FA Cup is 0.
+Row 4: John O'Flynn - FA Cup is 0.
+Row 5: Guillem Bauza - FA Cup is 0.
+Row 6: Jimmy Keohane - FA Cup is 0.
+Row 7: Pat Baldwin - FA Cup is 0.
+Row 8: Jamie Cureton - FA Cup is 0.
+Row 9: Arron Davies - FA Cup is 0.
+Row 10: Jake Gosling - FA Cup is 0.
+Row 11: OWN GOALS - FA Cup is 0.
+Row 12: Total - FA Cup is 0.
+
+So, I'm checking each row's FA Cup value. Starting from the first entry, they're all zeros. Let me count how many consecutive zeros there are before a non-zero appears. However, looking through all rows, every single FA Cup entry is zero. There are no non-zero entries in that column except possibly after some point, but in this case, all 13 entries (including the Total row) have zero.
+
+Wait, but the question asks for consecutive zeros. If all are zero, then the entire column is filled with zeros without any breaks. So from top to bottom, it's one continuous sequence of zeros. Therefore, the number of consecutive zeros would be equal to the total number of entries in that column minus any non-zero entries, which here is none.
+
+So, counting each row, there are 13 rows (from 0 to 12). Each has an FA Cup entry of zero. Thus, all 13 are consecutive zeros.
+</think>
+
+Final Answer: 13
+===================Answer===================
+13

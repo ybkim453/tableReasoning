@@ -1,0 +1,43 @@
+===================Title===================
+Africa Squadron
+===================Table===================
+|    | Vessel          | Captor     | Date             | Location       |
+|---:|:----------------|:-----------|:-----------------|:---------------|
+|  0 | Porpoise        | Raritan    | 23 January 1845  | Rio de Janeiro |
+|  1 | Albert          | Bainbridge | June 1845        | Bahia          |
+|  2 | Laurens         | Onkahye    | 23 January 1848  | Rio de Janeiro |
+|  3 | A.D. Richardson | Perry      | 11 December 1848 | Rio de Janeiro |
+|  4 | Independence    | Perry      | 13 December 1848 | Rio de Janeiro |
+|  5 | Susan           | Perry      | 6 February 1849  | Rio de Janeiro |
+===================Question===================
+who captured the most vessels?
+===================Text===================
+<think>
+Alright, let's tackle this problem step by step. So, I have a table here with information about various vessels captured by different captors. The question is asking who captured the most vessels.
+
+First, I need to understand what each column represents. The columns are: Vessel, Captor, Date, and Location. My focus is on the "Captor" column because that's what the question is about.
+
+I'll go through each row and note down the captors and how many times they appear. Let's list them out:
+
+1. **Porpoise** was captured by **Raritan**.
+2. **Albert** was captured by **Bainbridge**.
+3. **Laurens** was captured by **Onkahye**.
+4. **A.D. Richardson** was captured by **Perry**.
+5. **Independence** was captured by **Perry**.
+6. **Susan** was captured by **Perry**.
+
+Now, I'll count how many times each captor appears:
+
+- **Raritan**: 1 vessel
+- **Bainbridge**: 1 vessel
+- **Onkahye**: 1 vessel
+- **Perry**: 3 vessels
+
+Looking at these numbers, Perry captured three vessels, which is more than any other captor in the list. The others each captured only one vessel.
+
+So, based on this analysis, Perry is the one who captured the most vessels.
+</think>
+
+Final Answer: Perry
+===================Answer===================
+Perry

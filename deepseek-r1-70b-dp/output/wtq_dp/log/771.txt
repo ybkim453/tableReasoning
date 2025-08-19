@@ -1,0 +1,39 @@
+===================Title===================
+Toy safety
+===================Table===================
+|    |   Year | Injuries (US $000)   |   Deaths (age <15) | CPSC toy safety funding\n(US$ Millions)   |   Toy sales\n(US $ Billions) |
+|---:|-------:|:---------------------|-------------------:|:------------------------------------------|-----------------------------:|
+|  0 |   1994 | 154                  |                nan | nan                                       |                        nan   |
+|  1 |   1995 | 139                  |                nan | nan                                       |                        nan   |
+|  2 |   1996 | 130                  |                nan | nan                                       |                        nan   |
+|  3 |   1997 | 141                  |                nan | nan                                       |                        nan   |
+|  4 |   1998 | 153                  |                 14 | nan                                       |                        nan   |
+|  5 |   1999 | 152                  |                 16 | 13.6                                      |                        nan   |
+|  6 |   2000 | 191                  |                 17 | 12.0                                      |                        nan   |
+|  7 |   2001 | 255                  |                 25 | 12.4                                      |                        nan   |
+|  8 |   2002 | 212                  |                 13 | 12.2                                      |                         21.3 |
+|  9 |   2003 | 206                  |                 11 | 12.8                                      |                         20.7 |
+| 10 |   2004 | 210                  |                 16 | 11.5                                      |                         22.4 |
+| 11 |   2005 | 202 (estimate)       |                 20 | 11.0                                      |                         22.2 |
+| 12 |   2006 | no data              |                 22 | no data†                                  |                         22.3 |
+| 13 |   2007 | no data              |                 22 | no data                                   |                        nan   |
+| 14 |   2008 | no data              |                 19 | no data                                   |                        nan   |
+| 15 |   2009 | no data              |                 12 | no data                                   |                        nan   |
+===================Question===================
+what is the first year in which data was recorded for deaths under the age of 15?
+===================Text===================
+<think>
+Alright, let's tackle this problem step by step. I need to determine the first year in which data was recorded for deaths under the age of 15 based on the provided table.
+
+First, I'll examine each row of the table starting from the earliest year, which is 1994. The "Deaths (age <15)" column has values listed as 'nan' from 1994 to 1997. 'nan' typically stands for 'not a number,' indicating missing data. So, no deaths were recorded in these years.
+
+Moving forward, in 1998, the value under "Deaths" is 14. This represents the first instance where data is available. Therefore, 1998 is the earliest year with recorded death data for individuals under the age of 15.
+
+To ensure accuracy, I'll double-check subsequent rows to confirm that the data continues to be filled in after 1998, which it does, but the question specifically asks for the first occurrence.
+</think>
+
+The first year with recorded death data under 15 is 1998.
+
+Final Answer: 1998
+===================Answer===================
+1998

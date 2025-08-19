@@ -1,0 +1,48 @@
+===================Title===================
+1981 NHL Entry Draft
+===================Table===================
+|    |   Pick # | Player          | Position   | Nationality   | NHL team              | College/junior/club team                    |
+|---:|---------:|:----------------|:-----------|:--------------|:----------------------|:--------------------------------------------|
+|  0 |      148 | Dan McFall      | Defence    | United States | Winnipeg Jets         | Buffalo Jr. Sabres (NAJHL)                  |
+|  1 |      149 | Rick Zombo      | Defence    | United States | Detroit Red Wings     | Austin Mavericks (USHL)                     |
+|  2 |      150 | Tony Arima      | Left Wing  | Finland       | Colorado Rockies      | Jokerit (Finland)                           |
+|  3 |      151 | Denis Dore      | Right Wing | Canada        | Hartford Whalers      | Chicoutimi Saguenéens (QMJHL)              |
+|  4 |      152 | Gaetan Duchesne | Left Wing  | Canada        | Washington Capitals   | Quebec Remparts (QMJHL)                     |
+|  5 |      153 | Richard Turmel  | Defence    | Canada        | Toronto Maple Leafs   | Shawinigan Cataractes (QMJHL)               |
+|  6 |      154 | Mitch Lamoureux | Centre     | Canada        | Pittsburgh Penguins   | Oshawa Generals (OMJHL)                     |
+|  7 |      155 | Mike Sturgeon   | Defence    | Canada        | Edmonton Oilers       | Kelowna Buckaroos (BCJHL)                   |
+|  8 |      156 | Ari Lahteenmaki | Right Wing | Finland       | New York Rangers      | HIFK (Finland)                              |
+|  9 |      157 | Petri Skriko    | Right Wing | Finland       | Vancouver Canucks     | Saipa (Finland)                             |
+| 10 |      158 | Andre Cote      | Right Wing | Canada        | Quebec Nordiques      | Quebec Remparts (QMJHL)                     |
+| 11 |      159 | Johan Mellstrom | Left Wing  | Sweden        | Chicago Black Hawks   | Falun (Sweden)                              |
+| 12 |      160 | Kari Kanervo    | Centre     | Finland       | Minnesota North Stars | TPS (Finland)                               |
+| 13 |      161 | Armel Parisee   | Defence    | Canada        | Boston Bruins         | Chicoutimi Saguenéens (QMJHL)              |
+| 14 |      162 | Dale DeGray     | Defence    | Canada        | Calgary Flames        | Oshawa Generals (OMJHL)                     |
+| 15 |      163 | Steve Taylor    | Left Wing  | United States | Philadelphia Flyers   | Providence College (ECAC)                   |
+| 16 |      164 | Gates Orlando   | Centre     | Canada        | Buffalo Sabres        | Providence College (ECAC)                   |
+| 17 |      165 | Dan Brennan     | Left Wing  | Canada        | Los Angeles Kings     | University of North Dakota (WCHA)           |
+| 18 |      166 | Paul Gess       | Left Wing  | United States | Montreal Canadiens    | Bloomington Jefferson High School (USHS-MN) |
+| 19 |      167 | Alain Vigneault | Defence    | Canada        | St. Louis Blues       | Trois-Rivières Draveurs (QMJHL)            |
+| 20 |      168 | Bill Dowd       | Defence    | Canada        | New York Islanders    | Ottawa 67's (OMJHL)                         |
+===================Question===================
+who is the last player listed?
+===================Text===================
+<think>
+Alright, so I need to figure out who the last player listed in the 1981 NHL Entry Draft table is. Let me start by looking at the structure of the table provided.
+
+The table has several columns: Pick #, Player, Position, Nationality, NHL team, and College/junior/club team. Each row represents a different pick in the draft. The first column seems to be an index starting from 0, so each subsequent pick increments by one in that column. 
+
+Looking at the rows, I can see that the picks go from number 148 up. The first row is pick #148, and each next row increases by 1. So, the last row should have the highest pick number among those listed.
+
+I'll count through the rows to find out how many there are in total. Starting from row 0 (which is pick 148), I see that the last row is at index 20, which would correspond to pick #168 because each pick increases by 1 as we go down each row. 
+
+To confirm, let me check the Pick # column for the last row. It shows 168, which makes sense since it's the 21st pick listed (since we start counting from 0). Therefore, the player with pick number 168 is the last one in this table.
+
+Looking at that last row, the Player's name is Bill Dowd. His position is Defence, he's from Canada, and he was drafted by the New York Islanders from the Ottawa 67's (OMJHL).
+
+So, putting it all together, the last player listed in the table is Bill Dowd.
+</think>
+
+Final Answer: Bill Dowd
+===================Answer===================
+Bill Dowd

@@ -1,0 +1,52 @@
+===================Title===================
+Central America
+===================Table===================
+|    | Country     |   Amphibians |   Birds |   Mammals |   Reptile |   Total terrestrial vertebrates |   Vascular plants |   Biodiversity |
+|---:|:------------|-------------:|--------:|----------:|----------:|--------------------------------:|------------------:|---------------:|
+|  0 | Belize      |           46 |     544 |       147 |       140 |                             877 |              2894 |           3771 |
+|  1 | Costa Rica  |          183 |     838 |       232 |       258 |                            1511 |             12119 |          13630 |
+|  2 | El Salvador |           30 |     434 |       137 |       106 |                             707 |              2911 |           3618 |
+|  3 | Guatemala   |          133 |     684 |       193 |       236 |                            1246 |              8681 |           9927 |
+|  4 | Honduras    |          101 |     699 |       201 |       213 |                            1214 |              5680 |           6894 |
+|  5 | Nicaragua   |           61 |     632 |       181 |       178 |                            1052 |              7590 |           8642 |
+|  6 | Panama      |          182 |     904 |       241 |       242 |                            1569 |              9915 |          11484 |
+===================Question===================
+which country in central america is the most biodiverse?
+===================Text===================
+<think>
+Okay, so I need to figure out which country in Central America is the most biodiverse based on the provided table. Let me look at the table again and understand what each column represents.
+
+The table has columns for Country, Amphibians, Birds, Mammals, Reptile, Total terrestrial vertebrates, Vascular plants, and Biodiversity. The Biodiversity column seems to be a sum or some measure of overall biodiversity. 
+
+I'm going to check the Biodiversity numbers for each country:
+
+- Belize: 3771
+- Costa Rica: 13630
+- El Salvador: 3618
+- Guatemala: 9927
+- Honduras: 6894
+- Nicaragua: 8642
+- Panama: 11484
+
+Comparing these, it looks like Panama has the highest Biodiversity number at 11484. That's higher than Costa Rica's 13630? Wait, no, wait a second. Let me double-check:
+
+Wait, Costa Rica's Biodiversity is listed as 13630, which is actually higher than Panama's 11484. Did I read that right?
+
+Looking again: Costa Rica has 13630, Panama has 11484. So Costa Rica is higher. Then Guatemala has 9927. So the order from highest to lowest would be:
+
+1. Costa Rica (13630)
+2. Panama (11484)
+3. Guatemala (9927)
+4. Nicaragua (8642)
+5. Honduras (6894)
+6. El Salvador (3618)
+7. Belize (3771)
+
+So, based on the Biodiversity column, Costa Rica is the most biodiverse country in Central America according to this table.
+</think>
+
+Costa Rica has the highest biodiversity value of 13630 compared to other countries listed.
+
+Final Answer: Costa Rica
+===================Answer===================
+Costa Rica

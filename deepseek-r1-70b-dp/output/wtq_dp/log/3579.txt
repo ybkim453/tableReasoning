@@ -1,0 +1,63 @@
+===================Title===================
+Wiseman hypothesis
+===================Table===================
+|    |   Tablet | Genealogy                                      | Narrative      | Colophon                                                                          |
+|---:|---------:|:-----------------------------------------------|:---------------|:----------------------------------------------------------------------------------|
+|  0 |        1 | Creation of Universe 1:1                       | 1:2 to 2:3     | "This is the account of the heavens and of the earth when they were created." 2:4 |
+|  1 |        2 | Heavens and Earth 2:4                          | 2:5 to 4:26    | "This is the written account of Adam." 5:1                                        |
+|  2 |        3 | Adam to Noah 5:1 - 32                          | 6:1 - 8        | "This is the account of Noah." 6:9                                                |
+|  3 |        4 | Noah to Shem, Ham, and Japeth 6:9 - 10         | 6:11 to 9:29   | "This is the account of Shem, Ham, and Japheth, Noah's sons." 10:1                |
+|  4 |        5 | Descendants of Shem, Ham, and Japeth 10:1 - 32 | 11:1 - 9       | "This is the account of Shem." 11:10                                              |
+|  5 |        6 | Shem to Terah 11:10 - 26                       | no narrative   | "This is the account of Terah." 11:27                                             |
+|  6 |        7 | Terah to Abraham 11:27                         | 11:28 to 25:11 | "This is the account of Abraham's son Ishmael." 25:12 (eldest son)                |
+|  7 |        8 | Descendants of Ishmael 25:13 - 18              | no narrative   | "This is the account of Abraham's son Isaac." 25:19                               |
+|  8 |        9 | Abraham to Isaac 25:19                         | 25:20 to 35:29 | "This is the account of Esau." 36:1 (eldest son)                                  |
+|  9 |       10 | Descendants of Esau 36:2 - 5                   | 36:6 - 8       | "This is the account of Esau." 36:9                                               |
+| 10 |       11 | Descendants of Esau 36:10 to 37:1              | no narrative   | "This is the account of Jacob." 37:2                                              |
+| 11 |      nan | no genealogy                                   | 37:2 to 50:26  | no colophon                                                                       |
+===================Question===================
+how many tablets have no narrative?
+===================Text===================
+<think>
+Alright, I need to figure out how many tablets have no narrative based on the given table about the Wiseman hypothesis.
+
+First, let me look at each row of the table and check the "Narrative" column for entries that say "no narrative."
+
+Starting from Tablet 0:
+
+- Tablet 1: Narrative is 2:5 to 4:26. That's a narrative section, so it doesn't count.
+  
+Tablet 2: Narrative from 6:1 - 8. Also has a narrative.
+
+Tablet 3: Narrative from 6:11 to 9:29. Still narrative present.
+
+Tablet 4: Narrative is 11:1 - 9. So, that's narrative as well.
+
+Now, Tablet 5: The "Narrative" column says "no narrative." That's one tablet without a narrative.
+
+Moving on to Tablet 6: It has a narrative from 11:28 to 25:11. Narrative exists here.
+
+Tablet 7: Narrative is marked as "no narrative." That's the second tablet without a narrative.
+
+Tablet 8: The narrative runs from 25:20 to 35:29, so it does have a narrative.
+
+Tablet 9: It has a narrative from 36:6 - 8. So, that's present.
+
+Tablet 10: Narrative is "no narrative." That's the third tablet without a narrative.
+
+Wait, but looking back, Tablet 5, 7, and 10 all have "no narrative" in their respective columns. Let me count again:
+
+- Tablet 5: Yes
+- Tablet 7: Yes
+- Tablet 10: Yes
+
+That makes three tablets with no narrative sections according to the table.
+
+I should double-check to make sure I didn't miss any others. Scanning through each tablet from 0 to 11, those are the only ones where "Narrative" is marked as "no narrative." Tablets 1-4, 6, 8, and 9 all have some form of narrative.
+
+So, the total number of tablets without a narrative should be three.
+</think>
+
+Final Answer: 3
+===================Answer===================
+3

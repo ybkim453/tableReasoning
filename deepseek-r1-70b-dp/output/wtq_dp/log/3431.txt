@@ -1,0 +1,62 @@
+===================Title===================
+AFL Cairns
+===================Table===================
+|    |   Year | Premiers                        | Score       | Runners Up                      | Score .1   |
+|---:|-------:|:--------------------------------|:------------|:--------------------------------|:-----------|
+|  0 |   2003 | Centrals Trinity Beach Bulldogs | 14.11 (95)  | North Cairns                    | 6.7 (43)   |
+|  1 |   2004 | Port Douglas Crocs              | 17.13 (115) | North Cairns Tigers             | 8.9 (57)   |
+|  2 |   2005 | Port Douglas Crocs              | 19.14 (128) | Cairns Saints                   | 4.11 (35)  |
+|  3 |   2006 | Manunda Hawks                   | 11.11 (77)  | Centrals Trinity Beach Bulldogs | 10.9 (69)  |
+|  4 |   2007 | Centrals Trinity Beach Bulldogs | 14.16 (100) | Cairns Saints                   | 11.2 (68)  |
+|  5 |   2008 | Cairns Saints                   | 12.15 (87)  | North Cairns Tigers             | 2.9 (21)   |
+|  6 |   2009 | South Cairns Cutters            | 9.11 (65)   | Cairns Saints                   | 9.4 (58)   |
+|  7 |   2010 | North Cairns Tigers             | 8.10 (58)   | Port Douglas Crocs              | 8.5 (53)   |
+|  8 |   2011 | Manunda Hawks                   | 11.8 (74)   | Port Douglas Crocs              | 6.9 (45)   |
+|  9 |   2012 | Cairns Saints                   | 17.6 (108)  | North Cairns Tigers             | 11.12 (78) |
+| 10 |   2013 | North Cairns Tigers             | 14.14 (98)  | Port Douglas Crocs              | 13.6 (84)  |
+===================Question===================
+how many teams under runners up after 2007 had more than 10 points?
+===================Text===================
+<think>
+Alright, I need to figure out how many teams that were runners-up after 2007 had more than 10 points. Let me start by understanding the table.
+
+The table lists AFL Cairns from 2003 to 2013. Each row shows the Premiers and Runners Up with their scores. The years in question are after 2007, so I'll focus on rows where Year is greater than 2007, specifically 2008 to 2013.
+
+Next, I need to look at each of these years and check the Runners Up's score. But wait, the user mentioned "more than 10 points." However, the scores are in a format like 12.15 (87) which represents goals and behinds. The number in parentheses is the total points. So for each runner-up after 2007, I need to look at their total points.
+
+Let me list out the relevant years:
+
+- 2008: Runners Up - North Cairns Tigers with 2.9 (21)
+- 2009: Runners Up - Cairns Saints with 9.4 (58)
+- 2010: Runners Up - Port Douglas Crocs with 8.5 (53)
+- 2011: Runners Up - Port Douglas Crocs with 6.9 (45)
+- 2012: Runners Up - North Cairns Tigers with 11.12 (78)
+- 2013: Runners Up - Port Douglas Crocs with 13.6 (84)
+
+Now, I'll extract the total points for each:
+
+2008: 21
+2009: 58
+2010: 53
+2011: 45
+2012: 78
+2013: 84
+
+I need to count how many of these are more than 10. 
+
+Looking at each:
+- 21 > 10 → Yes
+- 58 > 10 → Yes
+- 53 > 10 → Yes
+- 45 > 10 → Yes
+- 78 > 10 → Yes
+- 84 > 10 → Yes
+
+So all six runners-up after 2007 have more than 10 points. Wait, that can't be right because the user is asking how many, but I'm seeing all of them meet the criteria. But let me double-check each score:
+
+Yes, each total is above 10. Therefore, all six teams qualify.
+</think>
+
+Final Answer: 6
+===================Answer===================
+2

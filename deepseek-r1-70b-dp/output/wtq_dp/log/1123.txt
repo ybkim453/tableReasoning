@@ -1,0 +1,119 @@
+===================Title===================
+Tommy Robredo career statistics
+===================Table===================
+|    | Outcome   |   No. | Date              | Tournament                                  | Surface   | Opponent           | Score                   |
+|---:|:----------|------:|:------------------|:--------------------------------------------|:----------|:-------------------|:------------------------|
+|  0 | Runner-up |     1 | 15 April 2001     | Grand Prix Hassan II, Casablanca, Morocco   | Clay      | Guillermo Cañas   | 5–7, 2–6                |
+|  1 | Winner    |     1 | 29 July 2001      | Orange Warsaw Open, Sopot, Poland           | Clay      | Albert Portas      | 1–6, 7–5, 7–6(7–2)      |
+|  2 | Runner-up |     2 | 20 July 2003      | Mercedes Cup, Stuttgart, Germany            | Clay      | Guillermo Coria    | 2–6, 2–6, 1–6           |
+|  3 | Winner    |     2 | 2 May 2004        | Torneo Godó, Barcelona, Spain              | Clay      | Gastón Gaudio     | 6–3, 4–6, 6–2, 3–6, 6–3 |
+|  4 | Runner-up |     3 | 1 May 2005        | Estoril Open, Estoril, Portugal             | Clay      | Gastón Gaudio     | 1–6, 6–2, 1–6           |
+|  5 | Runner-up |     4 | 30 April 2006     | Torneo Godó, Barcelona, Spain              | Clay      | Rafael Nadal       | 4–6, 4–6, 0–6           |
+|  6 | Winner    |     3 | 21 May 2006       | Hamburg Masters, Hamburg, Germany           | Clay      | Radek Štěpánek  | 6–1, 6–3, 6–3           |
+|  7 | Winner    |     4 | 16 July 2006      | Swedish Open, Båstad, Sweden               | Clay      | Nikolay Davydenko  | 6–2, 6–1                |
+|  8 | Runner-up |     5 | 14 January 2007   | Heineken Open, Auckland, New Zealand        | Hard      | David Ferrer       | 4–6, 2–6                |
+|  9 | Winner    |     5 | 5 August 2007     | Orange Warsaw Open, Sopot, Poland (2)       | Clay      | José Acasuso      | 7–5, 6–0                |
+| 10 | Runner-up |     6 | 16 September 2007 | China Open, Beijing, China                  | Hard (i)  | Fernando González | 1–6, 6–3, 1–6           |
+| 11 | Winner    |     6 | 7 October 2007    | Open de Moselle, Metz, France               | Hard (i)  | Andy Murray        | 0–6, 6–2, 6–3           |
+| 12 | Runner-up |     7 | 15 June 2008      | Orange Warsaw Open, Warsaw, Poland          | Clay      | Nikolay Davydenko  | 3–6, 3–6                |
+| 13 | Winner    |     7 | 13 July 2008      | Swedish Open, Båstad, Sweden (2)           | Clay      | Tomáš Berdych    | 6–4, 6–1                |
+| 14 | Winner    |     8 | 14 February 2009  | Brasil Open, Costa do Sauípe, Brazil       | Clay      | Thomaz Bellucci    | 6–3, 3–6, 6–4           |
+| 15 | Winner    |     9 | 22 February 2009  | Copa Telmex, Buenos Aires, Argentina        | Clay      | Juan Mónaco       | 7–5, 2–6, 7–6(7–5)      |
+| 16 | Winner    |    10 | 6 February 2011   | Chile Open, Santiago, Chile                 | Clay      | Santiago Giraldo   | 6–2, 2–6, 7–6(7–5)      |
+| 17 | Winner    |    11 | 14 April 2013     | Grand Prix Hassan II, Casablanca, Morocco   | Clay      | Kevin Anderson     | 7–6(8–6), 4–6, 6–3      |
+| 18 | Winner    |    12 | 28 July 2013      | ATP Vegeta Croatia Open Umag, Umag, Croatia | Clay      | Fabio Fognini      | 6–0, 6–3                |
+===================Question===================
+how many winners total are there?
+===================Text===================
+<think>
+Okay, I need to figure out how many winners are there in total based on Tommy Robredo's career statistics table provided. Let me start by understanding the structure of the table.
+
+Looking at the columns: Outcome, No., Date, Tournament, Surface, Opponent, and Score. The key column here is "Outcome" which indicates whether Tommy was a Winner or Runner-up for each entry.
+
+Each row represents a final match he participated in. So, I should count how many times the Outcome is "Winner". 
+
+Let me go through each row one by one:
+
+1. Row 0: Runner-up → Not a win.
+2. Row 1: Winner → Count = 1
+3. Row 2: Runner-up → No.
+4. Row 3: Winner → Count = 2
+5. Row 4: Runner-up → No.
+6. Row 5: Runner-up → No.
+7. Row 6: Winner → Count = 3
+8. Row 7: Winner → Count = 4
+9. Row 8: Runner-up → No.
+10. Row 9: Winner → Count = 5
+11. Row 10: Runner-up → No.
+12. Row 11: Winner → Count = 6
+13. Row 12: Runner-up → No.
+14. Row 13: Winner → Count = 7
+15. Row 14: Winner → Count = 8
+16. Row 15: Winner → Count = 9
+17. Row 16: Winner → Count = 10
+18. Row 17: Winner → Count = 11
+19. Row 18: Winner → Count = 12
+
+Wait, that can't be right because the table has more rows than that. Let me recount.
+
+Looking again:
+
+Rows are numbered from 0 to 18, which is 19 entries in total. For each row, I look at Outcome.
+
+Let's list them:
+
+Row 0: Runner-up
+Row 1: Winner → 1
+Row 2: Runner-up
+Row 3: Winner → 2
+Row 4: Runner-up
+Row 5: Runner-up
+Row 6: Winner →3
+Row 7: Winner→4
+Row8:Runner-up
+Row9:Winner→5
+Row10:Runner-up
+Row11:Winner→6
+Row12:Runner-up
+Row13:Winner→7
+Row14:Winner→8
+Row15:Winner→9
+Row16:Winner→10
+Row17:Winner→11
+Row18:Winner→12
+
+Wait, so from Row 0 to Row 18: there are 19 rows. Counting the number of Winner entries:
+
+Each time Outcome is "Winner", we count it.
+
+Looking back:
+
+Rows where Outcome is Winner are at positions 1,3,6,7,9,11,13,14,15,16,17,18.
+
+Let me list them:
+
+Row1: W
+Row3:W
+Row6:W
+Row7:W
+Row9:W
+Row11:W
+Row13:W
+Row14:W
+Row15:W
+Row16:W
+Row17:W
+Row18:W
+
+So that's 12 times? Let me count: 1,2,3,...,12. So total of 12 winners.
+
+But wait, looking at the No. column: for example, Row0 is No.1 Runner-up, then Winner at Row1 is No.1. Then Runner-up at Row2 is No.2, etc. The "No." seems to be a cumulative count of finals he's played, starting from 1.
+
+But regardless, I'm just counting how many times Outcome is Winner.
+
+So the total number of Winners is 12.
+</think>
+
+Final Answer: 12
+===================Answer===================
+12

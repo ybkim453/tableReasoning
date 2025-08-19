@@ -1,0 +1,46 @@
+===================Title===================
+List of storms on the Great Lakes
+===================Table===================
+|    | Ship             | Type of Vessel   | Lake          | Location                         | Lives lost   |
+|---:|:-----------------|:-----------------|:--------------|:---------------------------------|:-------------|
+|  0 | Argus            | Steamer          | Lake Huron    | 25 miles off Kincardine, Ontario | 25 lost      |
+|  1 | James Carruthers | Steamer          | Lake Huron    | near Kincardine                  | 18 lost      |
+|  2 | Hydrus           | Steamer          | Lake Huron    | near Lexington, Michigan         | 28 lost      |
+|  3 | Leafield         | Steamer          | Lake Superior | nan                              | all hands    |
+|  4 | John A. McGean   | Steamer          | Lake Huron    | near Goderich, Ontario           | 28 lost      |
+|  5 | Plymouth         | Barge            | Lake Michigan | nan                              | 7 lost       |
+|  6 | Charles S. Price | Steamer          | Lake Huron    | near Port Huron, Michigan        | 28 lost      |
+|  7 | Regina           | Steamer          | Lake Huron    | near Harbor Beach, Michigan      | nan          |
+|  8 | Issac M. Scott   | Steamer          | Lake Huron    | near Port Elgin, Ontario         | 28 lost      |
+|  9 | Henry B. Smith   | Steamer          | Lake Superior | nan                              | all hands    |
+| 10 | Wexford          | Steamer          | Lake Huron    | north of Grand Bend, Ontario     | all hands    |
+| 11 | Lightship No. 82 | Lightship        | Lake Erie     | Point Albino (near Buffalo)      | 6 lost       |
+===================Question===================
+what is the name of the ship listed after regina?
+===================Text===================
+<think>
+Alright, so I need to figure out what ship comes after Regina in the given table. Let me take a look at the data provided.
+
+The table has 12 entries, each with details about different ships. The columns are: an index number starting from 0, Ship name, Type of Vessel, Lake, Location, and Lives lost.
+
+I'm specifically looking for the ship that's listed right after Regina. So first, I should find where Regina is in the table. Let me go through each row one by one based on their indexes.
+
+Starting from index 0: Argus
+Index 1: James Carruthers
+Index 2: Hydrus
+Index 3: Leafield
+Index 4: John A. McGean
+Index 5: Plymouth
+Index 6: Charles S. Price
+Index 7: Regina
+
+Okay, so Regina is at index 7. Now I need to find what comes after that. The next index would be 8.
+
+Looking at index 8: Issac M. Scott
+
+So the ship listed right after Regina is Issac M. Scott.
+</think>
+
+Final Answer: Issac M. Scott
+===================Answer===================
+Issac M. Scott

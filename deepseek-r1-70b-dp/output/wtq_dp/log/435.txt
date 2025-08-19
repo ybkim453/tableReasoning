@@ -1,0 +1,73 @@
+===================Title===================
+Nadia Fanchini
+===================Table===================
+|    |   Season |   Age | Overall                  | Slalom                   | Giant\nSlalom            | Super G                  | Downhill                 | Combined                 |
+|---:|---------:|------:|:-------------------------|:-------------------------|:-------------------------|:-------------------------|:-------------------------|:-------------------------|
+|  0 |     2004 |    17 | 112                      | –                        | –                        | 51                       | –                        | —                        |
+|  1 |     2005 |    18 | 37                       | –                        | 27                       | 18                       | 49                       | —                        |
+|  2 |     2006 |    19 | 22                       | –                        | 18                       | 37                       | 15                       | —                        |
+|  3 |     2007 |    20 | 33                       | –                        | 50                       | 15                       | 23                       | —                        |
+|  4 |     2008 |    21 | 38                       | –                        | –                        | 35                       | 13                       | —                        |
+|  5 |     2009 |    22 | 9                        | –                        | 40                       | 2                        | 5                        | 50                       |
+|  6 |     2010 |    23 | 28                       | –                        | –                        | 13                       | 23                       | —                        |
+|  7 |     2011 |    24 | Injured, did not compete | Injured, did not compete | Injured, did not compete | Injured, did not compete | Injured, did not compete | Injured, did not compete |
+|  8 |     2012 |    25 | 75                       | –                        | 28                       | –                        | –                        | —                        |
+|  9 |     2013 |    26 | 37                       | –                        | 17                       | 28                       | 30                       | —                        |
+===================Question===================
+what is the total number of seasons in which nadia franchini was ranked in the top 50 overall?
+===================Text===================
+<think>
+Alright, I need to figure out how many seasons Nadia Fanchini was ranked in the top 50 overall based on this table. Let me go through each season one by one.
+
+Starting with Season 2004: Her overall rank is 112. That's way above 50, so she wasn't in the top 50 that year.
+
+Next, Season 2005: Overall rank is 37. That's below 50, so she was ranked here. Count = 1.
+
+Season 2006: Rank is 22. Still within top 50. Count goes to 2.
+
+Season 2007: Her overall rank drops to 33. Still under 50. Now count is 3.
+
+Moving on to Season 2008: She's at 38, which is still in the top 50. Count increases to 4.
+
+Season 2009: Wow, she improved a lot with an overall rank of 9. Definitely within top 50. Count becomes 5.
+
+Now Season 2010: Her rank is 28. Still under 50. So count is now 6.
+
+Season 2011: She was injured and didn't compete, so no ranking here. We can skip this season.
+
+Then in Season 2012: Rank is 75, which is above 50. So she wasn't in the top 50 that year.
+
+Lastly, Season 2013: Her rank is 37, which is under 50. That brings our count to 7.
+
+So adding them up from each season where her overall rank was <=50. Wait, let me recount to make sure I didn't miss any:
+
+2005 (37) - yes
+
+2006 (22) - yes
+
+2007 (33) - yes
+
+2008 (38) - yes
+
+2009 (9) - yes
+
+2010 (28) - yes
+
+2013 (37) - yes
+
+That's a total of 7 seasons. Did I count right? Let me check again:
+
+1. 2005: yes
+2. 2006: yes
+3. 2007: yes
+4. 2008: yes
+5. 2009: yes
+6. 2010: yes
+7. 2013: yes
+
+Yes, that's seven seasons in total where she was ranked in the top 50 overall.
+</think>
+
+Final Answer: 7
+===================Answer===================
+7

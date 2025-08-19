@@ -1,0 +1,40 @@
+===================Title===================
+Speed skating at the 1972 Winter Olympics
+===================Table===================
+|    |   Rank | Nation              |   Gold |   Silver |   Bronze |   Total |
+|---:|-------:|:--------------------|-------:|---------:|---------:|--------:|
+|  0 |      1 | Netherlands (NED)   |      4 |        3 |        2 |       9 |
+|  1 |      2 | United States (USA) |      2 |        1 |        1 |       4 |
+|  2 |      3 | West Germany (FRG)  |      2 |        0 |        0 |       2 |
+|  3 |      4 | Norway (NOR)        |      0 |        2 |        2 |       4 |
+|  4 |      5 | Soviet Union (URS)  |      0 |        1 |        2 |       3 |
+|  5 |      6 | Sweden (SWE)        |      0 |        1 |        1 |       2 |
+|  6 |    nan | Total               |      8 |        8 |        8 |      24 |
+===================Question===================
+which country does not have any bronze medals?
+===================Text===================
+<think>
+Okay, I need to figure out which country doesn't have any bronze medals based on this table from the 1972 Winter Olympics speed skating event. Let's see how to approach this.
+
+First, looking at the table structure: it lists each country with their rank, nation name, and counts of gold, silver, and bronze medals, plus total medals. The last row is a total which sums up all medals, so I can ignore that one for specific countries.
+
+The question is asking for the country without any bronze medals. That means I need to look at each nation's Bronze column and see if it's zero or not.
+
+Starting from Rank 1: Netherlands (NED) has 2 bronzes. So they do have bronze medals. Not this one.
+
+Rank 2: United States (USA) has 1 bronze. They also have some, so move on.
+
+Rank 3: West Germany (FRG) shows 0 bronzes. That's a candidate.
+
+Checking Rank 4: Norway (NOR) has 2 bronzes. So they aren't the one.
+
+Rank 5: Soviet Union (URS) with 2 bronzes as well, so no.
+
+Rank 6: Sweden (SWE) has 1 bronze medal. Therefore, West Germany is the only country in this list without any bronze medals.
+
+I should double-check to make sure I didn't miss anything. The Bronze column for West Germany is indeed 0, while all others have at least one. So yes, that's the correct answer.
+</think>
+
+Final Answer: West Germany (FRG)
+===================Answer===================
+West Germany (FRG)

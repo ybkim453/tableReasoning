@@ -1,0 +1,72 @@
+===================Title===================
+Montreal Impact (1992–2011)
+===================Table===================
+|    |   Year | MVP                 | Defensive Player of the Year   | Unsung Hero       | Newcomer of the Year               |
+|---:|-------:|:--------------------|:-------------------------------|:------------------|:-----------------------------------|
+|  0 |   1993 | Patrice Ferri       | –                              | –                 | –                                  |
+|  1 |   1994 | Jean Harbor         | –                              | –                 | –                                  |
+|  2 |   1995 | Lloyd Barker        | –                              | –                 | –                                  |
+|  3 |   1996 | Paolo Ceccarelli    | –                              | –                 | –                                  |
+|  4 |   1997 | Mauro Biello        | –                              | –                 | –                                  |
+|  5 |   1998 | Mauro Biello        | –                              | –                 | –                                  |
+|  6 |   1999 | N/A                 | –                              | –                 | –                                  |
+|  7 |   2000 | Jim Larkin          | –                              | –                 | –                                  |
+|  8 |   2001 | Mauro Biello        | –                              | –                 | –                                  |
+|  9 |   2002 | Eduardo Sebrango    | Gabriel Gervais                | Jason DiTullio    | Zé Roberto                        |
+| 10 |   2003 | Greg Sutton         | Gabriel Gervais                | David Fronimadis  | Martin Nash                        |
+| 11 |   2004 | Gabriel Gervais     | Greg Sutton                    | Zé Roberto       | Sandro Grande                      |
+| 12 |   2005 | Mauro Biello        | Nevio Pizzolitto               | Mauricio Vincello | Masahiro Fukazawa                  |
+| 13 |   2006 | Mauricio Vincello   | Gabriel Gervais                | Andrew Weber      | Leonardo Di Lorenzo                |
+| 14 |   2007 | Leonardo Di Lorenzo | Mauricio Vincello              | Simon Gatti       | Matt Jordan                        |
+| 15 |   2008 | Matt Jordan         | Nevio Pizzolitto               | Joey Gjertsen     | Stefano Pesoli                     |
+| 16 |   2009 | David Testo         | Nevio Pizzolitto               | Adam Braz         | Stephen deRoux                     |
+| 17 |   2010 | Philippe Billy      | Philippe Billy                 | Tony Donatelli    | Ali Gerba                          |
+| 18 |   2011 | Hassoun Camara      | Evan Bush                      | Simon Gatti       | Ian Westlake / Sinisa Ubiparipovic |
+===================Question===================
+how many players received the defensive player of the year award after being named mvp in the previous year?
+===================Text===================
+<think>
+Okay, I need to figure out how many players received the Defensive Player of the Year award after being named MVP in the previous year based on the provided table.
+
+First, I'll look at each row from 1993 to 2011 and compare the MVP from one year with the Defensive Player of the Year in the next year.
+
+Starting with 1993: Patrice Ferri was MVP. In 1994, the Defensive Player is not listed (it's a dash), so no match here.
+
+Next, 1994 MVP Jean Harbor. In 1995, Defensive Player is again a dash, so nothing there either.
+
+Moving to 1995, MVP Lloyd Barker. The next year, 1996, still no Defensive Player, just a dash.
+
+In 1996, MVP Paolo Ceccarelli. 1997's Defensive Player is also a dash. No luck.
+
+1997 MVP Mauro Biello. In 1998, the Defensive Player is again a dash. Not helpful.
+
+1998 MVP Mauro Biello again. 1999's Defensive Player is N/A, so nothing there either.
+
+2000 MVP Jim Larkin. The next year, 2001, the Defensive Player is still a dash. No match.
+
+2001 MVP Mauro Biello once more. In 2002, the Defensive Player is Gabriel Gervais. But was he the MVP in 2001? He wasn't; it was Mauro Biello, so no connection here.
+
+Now, looking at 2002: Eduardo Sebrango is MVP, and in 2003, the Defensive Player is Gabriel Gervais again. Was Gervais the MVP before? No, he wasn't MVP any time prior, I think.
+
+In 2003, Greg Sutton is MVP. Then in 2004, the Defensive Player is Greg Sutton as well! Wait, so Greg Sutton was MVP in 2003 and then Defensive Player in 2004. That's a match because he won both awards consecutively but different categories.
+
+Next, 2004 MVP Gabriel Gervais. The next year, 2005 Defensive Player is Nevio Pizzolitto. Did Gervais win Defender the following year? No, it was someone else.
+
+In 2005, Mauro Biello is MVP again. 2006's Defensive Player is Gabriel Gervais, who wasn't MVP in 2005. So no match here.
+
+2006 MVP Mauricio Vincello. In 2007, the Defensive Player is himself? Wait, no: looking at 2007, the Defensive Player is Mauricio Vincello, same as the previous year's MVP. So that's another match because he was MVP in 2006 and then won Defender of the Year in 2007.
+
+Moving on to 2007: Leonardo Di Lorenzo is MVP. In 2008, the Defensive Player is Nevio Pizzolitto, not him. So no match.
+
+2008 MVP Matt Jordan. Next year, 2009's Defensive Player is again Nevio. Not a match because Jordan was the previous MVP.
+
+In 2009, David Testo is MVP. The next year, 2010's Defensive Player is Philippe Billy, who wasn't the MVP before. So no.
+
+2010 MVP Philippe Billy. In 2011, the Defensive Player is Evan Bush, not him. So no match there either.
+
+So from all these years, I found two instances where a player was MVP one year and then Defensive Player of the Year the next: Greg Sutton in 2003 & 2004, and Mauricio Vincello in 2006 & 2007.
+</think>
+
+Final Answer: 2
+===================Answer===================
+2

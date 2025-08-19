@@ -1,0 +1,102 @@
+===================Title===================
+Opinion polling by state for the United States presidential election, 2008 (Iowa)
+===================Table===================
+|    | Poll Source       |   Sample Size |   Margin of Error | Date            | Democrat        |   % | Republican    |   % .1 |
+|---:|:------------------|--------------:|------------------:|:----------------|:----------------|----:|:--------------|-------:|
+|  0 | Rasmussen Reports |           500 |               4.5 | Mar 31, 2008    | Hillary Clinton |  36 | John McCain   |     51 |
+|  1 | Rasmussen Reports |           500 |               4.5 | Mar 31, 2008    | Barack Obama    |  46 | John McCain   |     42 |
+|  2 | Survey USA        |           517 |               4.4 | Mar 14-16, 2008 | Hillary Clinton |  44 | John McCain   |     48 |
+|  3 | Survey USA        |           517 |               4.4 | Mar 14-16, 2008 | Barack Obama    |  50 | John McCain   |     44 |
+|  4 | Rasmussen Reports |           500 |             nan   | Feb 18, 2008    | Hillary Clinton |  37 | John McCain   |     47 |
+|  5 | Rasmussen Reports |           500 |             nan   | Feb 18, 2008    | Barack Obama    |  44 | John McCain   |     41 |
+|  6 | Survey USA        |           563 |               4.2 | Feb 15-17, 2008 | Hillary Clinton |  41 | John McCain   |     52 |
+|  7 | Survey USA        |           563 |               4.2 | Feb 15-17, 2008 | Barack Obama    |  51 | John McCain   |     41 |
+|  8 | Survey USA        |           543 |               4.3 | Jan 4-6, 2008   | Hillary Clinton |  51 | Rudy Giuliani |     35 |
+|  9 | Survey USA        |           543 |               4.3 | Jan 4-6, 2008   | Hillary Clinton |  47 | Mike Huckabee |     45 |
+| 10 | Survey USA        |           543 |               4.3 | Jan 4-6, 2008   | Hillary Clinton |  44 | John McCain   |     48 |
+| 11 | Survey USA        |           543 |               4.3 | Jan 4-6, 2008   | Hillary Clinton |  48 | Mitt Romney   |     40 |
+| 12 | Survey USA        |           543 |               4.3 | Jan 4-6, 2008   | Barack Obama    |  66 | Rudy Giuliani |     26 |
+| 13 | Survey USA        |           543 |               4.3 | Jan 4-6, 2008   | Barack Obama    |  58 | Mike Huckabee |     35 |
+| 14 | Survey USA        |           543 |               4.3 | Jan 4-6, 2008   | Barack Obama    |  55 | John McCain   |     38 |
+| 15 | Survey USA        |           543 |               4.3 | Jan 4-6, 2008   | Barack Obama    |  59 | Mitt Romney   |     33 |
+| 16 | Survey USA        |           nan |             nan   | Dec. 17, 2007   | Hillary Clinton |  46 | Mike Huckabee |     45 |
+| 17 | Survey USA        |           546 |               4.3 | Nov 9-11, 2007  | Hillary Clinton |  47 | Rudy Giuliani |     43 |
+| 18 | Survey USA        |           546 |               4.3 | Nov 9-11, 2007  | Hillary Clinton |  49 | Mike Huckabee |     43 |
+| 19 | Survey USA        |           546 |               4.3 | Nov 9-11, 2007  | Hillary Clinton |  44 | John McCain   |     48 |
+| 20 | Survey USA        |           546 |               4.3 | Nov 9-11, 2007  | Hillary Clinton |  49 | Mitt Romney   |     43 |
+| 21 | Survey USA        |           546 |               4.3 | Nov 9-11, 2007  | Barack Obama    |  52 | Rudy Giuliani |     39 |
+| 22 | Survey USA        |           546 |               4.3 | Nov 9-11, 2007  | Barack Obama    |  56 | Mike Huckabee |     35 |
+| 23 | Survey USA        |           546 |               4.3 | Nov 9-11, 2007  | Barack Obama    |  50 | John McCain   |     42 |
+| 24 | Survey USA        |           546 |               4.3 | Nov 9-11, 2007  | Barack Obama    |  53 | Mitt Romney   |     39 |
+| 25 | Survey USA        |           513 |               4.4 | Oct 12-14, 2007 | Hillary Clinton |  48 | Rudy Giuliani |     43 |
+| 26 | Survey USA        |           506 |               4.3 | Oct 12-14, 2007 | Hillary Clinton |  51 | Mike Huckabee |     41 |
+| 27 | Survey USA        |           502 |               4.5 | Oct 12-14, 2007 | Hillary Clinton |  49 | John McCain   |     44 |
+| 28 | Survey USA        |           498 |               4.5 | Oct 12-14, 2007 | Hillary Clinton |  52 | Ron Paul      |     36 |
+| 29 | Survey USA        |           506 |               4.4 | Oct 12-14, 2007 | Hillary Clinton |  50 | Mitt Romney   |     42 |
+| 30 | Survey USA        |           509 |               4.4 | Oct 12-14, 2007 | Hillary Clinton |  50 | Fred Thompson |     42 |
+===================Question===================
+in the 2008 presidential primary polling in iowa in 2008, how many times did a democrat have at least 50% of the vote?
+===================Text===================
+<think>
+Okay, so I'm trying to figure out how many times a Democrat had at least 50% of the vote in the Iowa 2008 presidential primary polling based on this table. Let's break it down step by step.
+
+First, I'll look through each row of the table and check where the Democrat's percentage is 50% or higher. The Democrats mentioned are Hillary Clinton and Barack Obama. 
+
+Looking at each entry:
+
+0: Hillary Clinton - 36%, no
+1: Barack Obama - 46%, no
+2: Hillary Clinton - 44%, no
+3: Barack Obama - 50%, yes (that's one)
+4: Hillary Clinton - 37%, no
+5: Barack Obama - 44%, no
+6: Hillary Clinton - 41%, no
+7: Barack Obama - 51%, yes (two)
+8: Hillary Clinton - 51%, yes (three)
+9: Hillary Clinton - 47%, no
+10: Hillary Clinton - 44%, no
+11: Hillary Clinton - 48%, no
+12: Barack Obama - 66%, yes (four)
+13: Barack Obama - 58%, yes (five)
+14: Barack Obama - 55%, yes (six)
+15: Barack Obama - 59%, yes (seven)
+16: Hillary Clinton - 46%, no
+17: Hillary Clinton - 47%, no
+18: Hillary Clinton - 49%, no
+19: Hillary Clinton - 44%, no
+20: Hillary Clinton - 49%, no
+21: Barack Obama - 52%, yes (eight)
+22: Barack Obama - 56%, yes (nine)
+23: Barack Obama - 50%, yes (ten)
+24: Barack Obama - 53%, yes (eleven)
+25: Hillary Clinton - 48%, no
+26: Hillary Clinton - 51%, yes (twelve)
+27: Hillary Clinton - 49%, no
+28: Hillary Clinton - 52%, yes (thirteen)
+29: Hillary Clinton - 50%, yes (fourteen)
+30: Hillary Clinton - 50%, yes (fifteen)
+
+Wait, let me recount that to make sure I didn't miss anything. Starting from the top:
+
+Row 3: Obama at 50% → count 1
+Row 7: Obama at 51% → count 2
+Row 8: HRC at 51% → count 3
+Rows 12-15: Obama each time over 50%, that's four counts (rows 12,13,14,15) adding to 3+4=7 so far.
+Then row 21: Obama 52% → 8
+Row22: 56% →9
+Row23:50%→10
+Row24:53%→11
+Then looking at Hillary:
+Row26:51%→12
+Row28:52%→13
+Row29:50%→14
+Row30:50%→15
+
+Wait, so that's a total of 15 times where either Obama or Clinton had 50% or more. But I need to make sure each row is counted only once and correctly.
+
+I think that's accurate because each time the Democrat's percentage is checked, and if it's 50+%, it counts towards the total.
+</think>
+
+Final Answer: 15
+===================Answer===================
+15

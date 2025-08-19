@@ -1,0 +1,53 @@
+===================Title===================
+1971 Trans-AMA motocross series
+===================Table===================
+|    |   Place | Rider             | Country        | Team      |   Points |   Wins |
+|---:|--------:|:------------------|:---------------|:----------|---------:|-------:|
+|  0 |       1 | Sylvain Geboers   | Belgium        | Suzuki    |     3066 |      3 |
+|  1 |       2 | Adolf Weil        | Germany        | Maico     |     2331 |      2 |
+|  2 |       3 | Torlief Hansen    | Sweden         | Husqvarna |     2052 |      0 |
+|  3 |       4 | Roger De Coster   | Belgium        | Suzuki    |     1865 |      3 |
+|  4 |       5 | Joel Robert       | Belgium        | Suzuki    |     1730 |      1 |
+|  5 |       6 | Heikki Mikkola    | Finland        | Husqvarna |     1680 |      2 |
+|  6 |       7 | Willy Bauer       | Germany        | Maico     |     1276 |      0 |
+|  7 |       8 | Gaston Rahier     | Belgium        | ČZ       |     1112 |      0 |
+|  8 |       9 | Pierre Karsmakers | Netherlands    | Husqvarna |     1110 |      0 |
+|  9 |      10 | Dave Bickers      | United Kingdom | ČZ       |     1076 |      0 |
+| 10 |      11 | John Banks        | United Kingdom | ČZ       |      971 |      0 |
+| 11 |      12 | Andy Roberton     | United Kingdom | Husqvarna |      810 |      0 |
+| 12 |      13 | Vlastimil Valek   | Czechoslovakia | ČZ       |      709 |      0 |
+| 13 |      14 | Mark Blackwell    | United States  | Husqvarna |      604 |      0 |
+| 14 |      15 | Brad Lackey       | United States  | ČZ       |      603 |      0 |
+| 15 |      16 | Gary Jones        | United States  | Yamaha    |      439 |      0 |
+| 16 |      17 | John DeSoto       | United States  | Suzuki    |      425 |      0 |
+| 17 |      18 | Chris Horsefield  | United Kingdom | ČZ       |      416 |      0 |
+| 18 |      19 | Uno Palm          | Sweden         | Husqvarna |      324 |      0 |
+| 19 |      20 | Peter Lamppu      | United States  | Montesa   |      309 |      0 |
+===================Question===================
+which rider had the least points?
+===================Text===================
+<think>
+Okay, so I need to figure out which rider had the least points based on the given table from the 1971 Trans-AMA motocross series. Let me see how I can approach this.
+
+First, I should look at each row of the table and focus on the "Points" column because that's what determines who has the least. The goal is to find the smallest number in that column.
+
+Starting from the top, the first rider Sylvain Geboers has 3066 points, which seems pretty high since he won some races. Then Adolf Weil with 2331 and Torlief Hansen at 2052. These are all top positions so they probably have higher points.
+
+Continuing down, Roger De Coster has 1865, Joel Robert at 1730, Heikki Mikkola with 1680, Willy Bauer at 1276. So far, the numbers are decreasing but not super low yet.
+
+Looking further, Gaston Rahier has 1112, Pierre Karsmakers with 1110, which is slightly lower than Gaston's. Then Dave Bickers at 1076 and John Banks with 971 points. Those are getting lower each time.
+
+Next, Andy Roberton has 810, Vlastimil Valek at 709, Mark Blackwell with 604, Brad Lackey at 603 points. Now we're in the lower end of the rankings.
+
+Gary Jones is next with 439, John DeSoto at 425, Chris Horsefield with 416 points, Uno Palm has 324, and Peter Lamppu at 309 points. 
+
+So comparing all these, I see that as I go down the list, the points get lower each time. The last few riders have points in the low hundreds. The very last entry is Peter Lamppu with 309 points, which seems to be the lowest.
+
+Wait, let me double-check to make sure I didn't miss anyone with even fewer points. Scanning through again: after Brad Lackey at 603, it goes down each time—Gary Jones (439), John DeSoto (425), Chris Horsefield (416), Uno Palm (324), and Peter Lamppu (309). Yes, Peter has the lowest points among all listed.
+
+So, based on this analysis, Peter Lamppu is the rider with the least points in the series.
+</think>
+
+Final Answer: Peter Lamppu
+===================Answer===================
+Peter Lamppu

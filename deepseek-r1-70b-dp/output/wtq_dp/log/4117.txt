@@ -1,0 +1,58 @@
+===================Title===================
+1970 Summer Universiade
+===================Table===================
+|    | Rank   | Nation         |   Gold |   Silver |   Bronze |   Total |
+|---:|:-------|:---------------|-------:|---------:|---------:|--------:|
+|  0 | 1      | Soviet Union   |     26 |       17 |       15 |      58 |
+|  1 | 2      | United States  |     22 |       18 |       11 |      51 |
+|  2 | 3      | East Germany   |      8 |        3 |        4 |      15 |
+|  3 | 4      | Italy          |      4 |        4 |        6 |      14 |
+|  4 | 5      | Japan          |      3 |        7 |        5 |      15 |
+|  5 | 6      | Hungary        |      3 |        6 |        6 |      15 |
+|  6 | 7      | West Germany   |      3 |        6 |        4 |      13 |
+|  7 | 8      | United Kingdom |      3 |        4 |        7 |      14 |
+|  8 | 9      | Poland         |      3 |        1 |        5 |       9 |
+|  9 | 10     | Yugoslavia     |      3 |        1 |        1 |       5 |
+| 10 | 11     | Netherlands    |      1 |        1 |        2 |       4 |
+| 11 | 12     | Austria        |      1 |        1 |        1 |       3 |
+| 12 | 12     | Bulgaria       |      1 |        1 |        1 |       3 |
+| 13 | 14     | France         |      1 |        0 |        4 |       5 |
+| 14 | 15     | Romania        |      0 |        4 |        2 |       6 |
+| 15 | 16     | Cuba           |      0 |        2 |        2 |       4 |
+| 16 | 17     | Australia      |      0 |        1 |        0 |       1 |
+| 17 | 17     | Czechoslovakia |      0 |        1 |        0 |       1 |
+| 18 | 17     | Greece         |      0 |        1 |        0 |       1 |
+| 19 | 17     | Sweden         |      0 |        1 |        0 |       1 |
+| 20 | 21     | Canada         |      0 |        0 |        1 |       1 |
+| 21 | 21     | South Korea    |      0 |        0 |        1 |       1 |
+| 22 | 21     | Madagascar     |      0 |        0 |        1 |       1 |
+| 23 | 21     | Panama         |      0 |        0 |        1 |       1 |
+| 24 | Total  | Total          |     82 |       80 |       80 |     242 |
+===================Question===================
+what is the difference between the number of medals the first ranked team had and the number of medals the 21st ranked teams had?
+===================Text===================
+<think>
+Okay, I need to figure out the difference in the number of medals between the first-ranked team and the 21st-ranked teams from the given table for the 1970 Summer Universiade.
+
+First, looking at the table, the first row shows the Soviet Union with a total of 58 medals. They're ranked 1st, so that's my starting point. 
+
+Next, I need to find the 21st-ranked teams. Scanning down the Rank column, I see that ranks go from 1 to 17 and then jump to 21. Specifically, at index 20, Canada is ranked 21st with a total of 1 medal. Similarly, South Korea, Madagascar, and Panama are also ranked 21st, each with 1 medal as well.
+
+Wait, so there are four teams tied at rank 21: Canada, South Korea, Madagascar, and Panama. Each has only 1 medal in total. 
+
+Now, the question is asking for the difference between the number of medals of the first team (Soviet Union) and each of the 21st-ranked teams. So I need to subtract the total medals of each 21st-ranked team from the Soviet Union's total.
+
+The Soviet Union has 58 medals. Each 21st-ranked team has 1 medal. Therefore, the difference for each would be 58 - 1 = 57. 
+
+But wait, do I report this difference once or multiple times? Since there are four teams at rank 21, each with the same number of medals, the difference for each is the same—57 medals.
+
+So the answer should list all four team names along with the numerical difference. But looking back at the question, it's asking for the difference between the first and the 21st-ranked teams, not specifying whether to include all or just one. Since there are multiple teams at rank 21, I should mention each in the final answer.
+
+Therefore, the difference is 57 medals when comparing the Soviet Union to each of Canada, South Korea, Madagascar, and Panama.
+</think>
+
+The difference between the number of medals the first-ranked team (Soviet Union) had and each of the 21st-ranked teams (Canada, South Korea, Madagascar, Panama) is 57.
+
+Final Answer: 57
+===================Answer===================
+57

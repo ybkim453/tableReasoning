@@ -1,0 +1,39 @@
+===================Title===================
+Princess Disneymania
+===================Table===================
+|    |   # | Title                                | Performer(s)           | Film                            | Length   |
+|---:|----:|:-------------------------------------|:-----------------------|:--------------------------------|:---------|
+|  0 |   1 | "Once Upon a Dream"                  | Emily Osment           | Sleeping Beauty                 | 3:32     |
+|  1 |   2 | "That's How You Know"                | Demi Lovato            | Enchanted                       | 3:12     |
+|  2 |   3 | "Some Day My Prince Will Come"       | Ashley Tisdale         | Snow White and the Seven Dwarfs | 3:30     |
+|  3 |   4 | "Colors of the Wind"                 | Vanessa Hudgens        | Pocahontas                      | 3:58     |
+|  4 |   5 | "Reflection"                         | Christina Aguilera     | Mulan                           | 3:33     |
+|  5 |   6 | "So This Is Love"                    | The Cheetah Girls      | Cinderella                      | 3:40     |
+|  6 |   7 | "Kiss the Girl"                      | Colbie Caillat         | The Little Mermaid              | 3:16     |
+|  7 |   8 | "It's Not Just Make Believe"         | Kari Kimmel            | Ella Enchanted                  | 3:06     |
+|  8 |   9 | "Under the Sea"                      | Raven-Symoné          | The Little Mermaid              | 3:15     |
+|  9 |  10 | "Ever Ever After"                    | Jordan Pruitt          | Enchanted                       | 3:12     |
+| 10 |  11 | "True to Your Heart"                 | Keke Palmer            | Mulan                           | 3:22     |
+| 11 |  12 | "Happy Working Song"                 | Amy Adams              | Enchanted                       | 2:09     |
+| 12 |  13 | "Part of Your World"                 | Original Broadway Cast | The Little Mermaid              | 3:23     |
+| 13 |  14 | "A Dream Is a Wish Your Heart Makes" | Disney Channel Stars   | Cinderella                      | 3:46     |
+===================Question===================
+which song plays before "part of your world"?
+===================Text===================
+<think>
+Alright, so I need to figure out which song plays before "Part of Your World" based on the given table. Let me start by looking at the table structure.
+
+The table has columns: #, Title, Performer(s), Film, and Length. Each row is numbered from 0 to 13, with the "#" column representing the position in the tracklist. 
+
+I'm specifically interested in finding out what comes right before "Part of Your World." First, I'll locate that song in the table.
+
+Looking through the Title column... Okay, here it is at row 12: "# 12 | 'Part of Your World' by Original Broadway Cast from The Little Mermaid with a length of 3:23."
+
+Now, to find the song before it, I need to check the previous row. So that's row 11. Row 11 has "# 11 | 'Happy Working Song' performed by Amy Adams from Enchanted, with a length of 2:09." 
+
+So "Part of Your World" is track #12, and the song right before it is track #11, which is "Happy Working Song."
+</think>
+
+Final Answer: Happy Working Song
+===================Answer===================
+"Happy Working Song"

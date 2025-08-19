@@ -1,0 +1,49 @@
+===================Title===================
+Tongan paʻanga
+===================Table===================
+|    | Value     | Diameter   | Composition   | 1975–1979\nObverse   | 1975–1979\nReverse                                      | 1981-\nObverse      | 1981-\nReverse                                          |
+|---:|:----------|:-----------|:--------------|:---------------------|:--------------------------------------------------------|:--------------------|:--------------------------------------------------------|
+|  0 | 1 seniti  | 18 mm      | Bronze        | Maize                | Pig                                                     | Maize               | Vanilla                                                 |
+|  1 | 2 seniti  | 21 mm      | Bronze        | Marrows              | PLANNED FAMILIES FOOD FOR ALL, six people holding hands | Taro                | PLANNED FAMILIES FOOD FOR ALL, six people holding hands |
+|  2 | 5 seniti  | 19 mm      | Cupronickel   | Chicken with chicks  | Bananas                                                 | Chicken with chicks | Coconuts                                                |
+|  3 | 10 seniti | 24 mm      | Cupronickel   | King                 | Grazing cattle                                          | King                | Bananas on tree                                         |
+|  4 | 20 seniti | 29 mm      | Cupronickel   | King                 | Bees and hive                                           | King                | Yams                                                    |
+|  5 | 50 seniti | 32–33 mm   | Cupronickel   | King                 | Fishes around a vortex                                  | King                | Tomatoes                                                |
+===================Question===================
+what is the average diameter of all the coins composed of bronze?
+===================Text===================
+<think>
+Alright, so I've got this problem here where I need to find the average diameter of all the coins made of bronze from the given table about Tongan paʻanga. Let me break it down step by step.
+
+First, I should understand what's being asked. The question is specifically about the average diameter of bronze coins. So, I'm looking for all rows in the table where the Composition column says "Bronze" and then calculate the average of their Diameter values.
+
+Looking at the table:
+
+- Each row represents a different coin with various attributes like Value, Diameter, Composition, and images on Obverse and Reverse from 1975–1979 and 1981 onwards.
+
+I'll scan through each row's Composition to identify which ones are bronze. Let me go one by one.
+
+Row 0: Value is 1 seniti. Composition is Bronze. So that's the first bronze coin with a Diameter of 18 mm.
+
+Row 1: Value is 2 seniti. Composition is also Bronze. Its Diameter is 21 mm.
+
+Rows 2 to 5 have Composition as Cupronickel, so I can ignore those for this specific question.
+
+So, there are two bronze coins: the 1 seniti and 2 seniti with diameters of 18mm and 21mm respectively.
+
+Now, to find the average diameter. The formula for average is the sum of all values divided by the number of values. So I'll add both diameters together and then divide by 2.
+
+Sum = 18 + 21 = 39 mm
+
+Number of bronze coins = 2
+
+Average = 39 / 2 = 19.5 mm
+
+Wait, let me double-check that math. Yeah, 18 plus 21 is indeed 39, divided by 2 equals 19.5.
+
+So the average diameter should be 19.5 millimeters.
+</think>
+
+Final Answer: 19.5
+===================Answer===================
+19.5 mm

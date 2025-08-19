@@ -1,0 +1,36 @@
+===================Title===================
+Sandro Rosell
+===================Table===================
+|    |   Rank | Player            | From      | Transfer Fee\n(€ millions)   |   Year |
+|---:|-------:|:------------------|:----------|:-----------------------------|-------:|
+|  0 |      1 | Neymar            | Santos FC | 86.0                         |   2013 |
+|  1 |      2 | Cesc Fàbregas    | Arsenal   | 29+5(variables)              |   2011 |
+|  2 |      3 | Alexis Sánchez   | Udinese   | 26+11(add ons)               |   2011 |
+|  3 |      4 | Javier Mascherano | Liverpool | 26.8                         |   2010 |
+|  4 |      5 | Alex Song         | Arsenal   | 19.0                         |   2012 |
+|  5 |      6 | Jordi Alba        | Valencia  | 14.0                         |   2012 |
+|  6 |      7 | Adriano           | Sevilla   | 13.5                         |   2010 |
+===================Question===================
+how many players were transferred in 2012?
+===================Text===================
+<think>
+Alright, so I have this table in front of me about Sandro Rosell and some player transfers. The question is asking how many players were transferred in 2012. Let me break it down.
+
+First, looking at the columns: Rank, Player, From, Transfer Fee (in € millions), and Year. My focus should be on the 'Year' column to find out which players were moved in 2012.
+
+I'll go through each row one by one:
+
+1. The first entry is Neymar from Santos FC with a transfer fee of 86.0 million euros, but that happened in 2013. So, not relevant for 2012.
+2. Next up is Cesc Fàbregas from Arsenal, transferred in 2011. Not the year we're looking for.
+3. Then there's Alexis Sánchez from Udinese, also moved in 2011. Still too early.
+4. Javier Mascherano came from Liverpool in 2010. Nope, that's before 2012.
+5. Now, Alex Song was transferred from Arsenal in 2012 with a fee of 19 million euros. That fits our target year.
+6. Jordi Alba joined from Valencia in 2012 as well, costing 14 million euros. Another one for 2012.
+7. The last entry is Adriano from Sevilla, but that transfer was in 2010.
+
+So, counting the players transferred in 2012: Alex Song and Jordi Alba. That makes two players. I don't see any others in the table for that year.
+</think>
+
+Final Answer: 2
+===================Answer===================
+2

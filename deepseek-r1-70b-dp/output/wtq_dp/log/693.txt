@@ -1,0 +1,48 @@
+===================Title===================
+Henry J. Kaiser-class oiler
+===================Table===================
+|    | Ship               | Hull No.   | Status                                                                                                                                                                                                                                      | Years Active                                     | NVR\nPage   |
+|---:|:-------------------|:-----------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------|:------------|
+|  0 | Henry J. Kaiser    | T-AO-187   | Active—Southern California Duty Oiler                                                                                                                                                                                                       | 1986–present                                     | AO187       |
+|  1 | Joshua Humphreys   | T-AO-188   | Inactivated 1996, returned to service 2005                                                                                                                                                                                                  | 1987-1996; 2005-2006; 2010-present               | AO188       |
+|  2 | John Lenthall      | T-AO-189   | Active                                                                                                                                                                                                                                      | 1987-1996; 1998–present                          | AO189       |
+|  3 | Andrew J. Higgins  | T-AO-190   | Inactivated May 1996. Sold to the Chilean Navy May 2009. Towed to Atlantic Marine Alabama shipyard, Mobile, Alabama, September 2009 for three-month refit. Commissioned in Chilean Navy on 10 February 2010 and renamed Almirante Montt.[1] | 1987-1996 (USA); 2010–present (Chile)            | AO190       |
+|  4 | Benjamin Isherwood | T-AO-191   | Cancelled when 95.3% complete,\ntransferred to the Maritime Administration,\nlaid up in the James River Reserve Fleet,\nscrapped in 2011                                                                                                    | Launched 1988, christened 1991, never in service | AO191       |
+|  5 | Henry Eckford      | T-AO-192   | Cancelled when 84% complete,\ntransferred to the Maritime Administration,\nlaid up in the James River Reserve Fleet,\nscrapped in 2011                                                                                                      | Launched 1989, never in service                  | AO192       |
+|  6 | Walter S. Diehl    | T-AO-193   | Active                                                                                                                                                                                                                                      | 1988–present                                     | AO193       |
+|  7 | John Ericsson      | T-AO-194   | Active                                                                                                                                                                                                                                      | 1991–present                                     | AO194       |
+|  8 | Leroy Grumman      | T-AO-195   | Active                                                                                                                                                                                                                                      | 1989–present                                     | AO195       |
+|  9 | Kanawha            | T-AO-196   | Active                                                                                                                                                                                                                                      | 1991–present                                     | AO196       |
+| 10 | Pecos              | T-AO-197   | Active                                                                                                                                                                                                                                      | 1990–present                                     | AO197       |
+| 11 | Big Horn           | T-AO-198   | Active                                                                                                                                                                                                                                      | 1992–present                                     | AO198       |
+| 12 | Tippecanoe         | T-AO-199   | Active                                                                                                                                                                                                                                      | 1993–present                                     | AO199       |
+| 13 | Guadalupe          | T-AO-200   | Active                                                                                                                                                                                                                                      | 1992–present                                     | AO200       |
+| 14 | Patuxent           | T-AO-201   | Active                                                                                                                                                                                                                                      | 1995–present                                     | AO201       |
+| 15 | Yukon              | T-AO-202   | Active                                                                                                                                                                                                                                      | 1994–present                                     | AO202       |
+| 16 | Laramie            | T-AO-203   | Active                                                                                                                                                                                                                                      | 1996–present                                     | AO203       |
+| 17 | Rappahannock       | T-AO-204   | Active                                                                                                                                                                                                                                      | 1995–present                                     | AO204       |
+===================Question===================
+which ship is on the nvr page before henry eckford?
+===================Text===================
+<think>
+Alright, so I need to figure out which ship is on the NVR page before Henry Eckford based on the provided table. Let me go through this step by step.
+
+First, looking at the table structure, each row represents a different ship with various details like Ship name, Hull No., Status, Years Active, and NVR Page. The question is asking about the position of Henry Eckford's NVR page relative to another ship.
+
+I see that each row has an index starting from 0. Henry Eckford is at index 5 (since it starts counting from 0). So, the row before Henry Eckford would be the one with index 4.
+
+Now, looking at index 4 in the table, the Ship name there is Benjamin Isherwood, with Hull No. T-AO-191. Its NVR Page is AO191. The ship before that would be at index 3, which is Andrew J. Higgins with NVR Page AO190. But wait, the question isn't about the chronological order of the ships but specifically which one comes before Henry Eckford on the NVR page list.
+
+Wait, no. The NVR Page numbers are given as AO187, AO188, up to AO204. Each row's NVR Page is unique and in sequence with their Hull No., but the index in the table isn't necessarily the same as the order in the NVR pages. So, I need to check which ship has an NVR Page that comes right before Henry Eckford's.
+
+Henry Eckford's NVR Page is AO192. Looking at the list:
+
+- The row before it (row 5) is Benjamin Isherwood with NVR Page AO191.
+- Then comes Henry Eckford at AO192.
+
+So, the ship listed just before Henry Eckford in the table is Benjamin Isherwood, but based on their NVR pages, AO191 comes right before AO192. Therefore, the answer should be Benjamin Isherwood.
+</think>
+
+Final Answer: Benjamin Isherwood
+===================Answer===================
+Benjamin Isherwood

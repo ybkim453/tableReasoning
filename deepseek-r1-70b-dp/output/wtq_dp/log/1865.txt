@@ -1,0 +1,46 @@
+===================Title===================
+Imparja Cup
+===================Table===================
+|    |   Year | State/Territory Men's Division   | State/Territory Women's Division   | Major Centres Division   | Community Division   | Women's Division   |
+|---:|-------:|:---------------------------------|:-----------------------------------|:-------------------------|:---------------------|:-------------------|
+|  0 |   2012 | Queensland                       | New South Wales                    | nan                      | nan                  | nan                |
+|  1 |   2012 | New South Wales                  | New South Wales                    | Darwin                   | Brothers in Arms     | Bush Potatoes      |
+|  2 |   2011 | New South Wales                  | New South Wales                    | Maranoa Murris           | Gap Angels           | Bush Potatoes      |
+|  3 |   2010 | Western Australia                | nan                                | nan                      | nan                  | nan                |
+|  4 |   2009 | Queensland                       | nan                                | Alkupitja                | Tangentyere          | New South Wales    |
+|  5 |   2008 | Queensland                       | nan                                | Katherine                | Cooktown             | New South Wales    |
+|  6 |   2007 | New South Wales                  | nan                                | Alkupitja                | Cat Tigers           | CGA Cougars        |
+|  7 |   2006 | Queensland                       | nan                                | Alice Springs            | Melville Island      | Darwin             |
+|  8 |   2005 | Queensland                       | nan                                | Alice Springs            | Alkupitja            | Darwin             |
+|  9 |   2004 | Queensland                       | nan                                | Alice Springs            | Normanton            | Tennant Creek      |
+| 10 |   2003 | New South Wales                  | nan                                | Darwin                   | nan                  | nan                |
+| 11 |   2002 | Northern Territory               | nan                                | Darwin                   | nan                  | nan                |
+| 12 |   2001 | Tasmania                         | nan                                | nan                      | nan                  | nan                |
+===================Question===================
+how long of a year span does the chart entail?
+===================Text===================
+<think>
+Alright, let me try to figure out how long of a year span this chart covers. So, first, I need to look at all the years listed in the table and determine the earliest and latest years.
+
+Looking through each row:
+
+- The first entry is 2012.
+- Then another 2012, so that's the same year.
+- Next entries go from 2011 down to 2001. 
+
+So, the oldest year here is 2001, and the most recent is 2012. To find the span, I subtract 2001 from 2012, which gives me 11 years. But wait, do I add 1 since both endpoints are inclusive? Let's see: 2012 minus 2001 is 11, but from 2001 to 2012, that's actually a 12-year span because it includes both the starting and ending years.
+
+Wait, no, let me double-check. If you have years from 2001 to 2012, subtracting gives 11, but counting each year including both endpoints would be 12 years (since 2012 - 2001 = 11, plus 1 is 12). But actually, when calculating the span between two years, it's just the difference. So from 2001 to 2012, how many years apart are they? It's 12 - 1 = 11 years because you don't count both endpoints twice. Wait no, that's not right.
+
+Let me think of a smaller example: from 2001 to 2003 is two years (2001 and 2002), which is a span of 3 years including both. So the number of years is end year minus start year plus one. But when calculating how many years apart they are, it's just the difference between them. So 2012 - 2001 = 11 years. But in terms of the span covered, from January 1, 2001, to December 31, 2012, that's 12 full years.
+
+Hmm, maybe I should clarify. The question is asking how long a year span does the chart entail. So it's about the range between the earliest and latest years. So if the earliest year is 2001 and the latest is 2012, then the span is from 2001 to 2012 inclusive, which is 12 years.
+
+Wait no, subtracting 2001 from 2012 gives 11, but adding 1 for inclusivity makes it 12. So that's correct. Therefore, the chart covers a span of 12 years.
+</think>
+
+The year span in the chart ranges from 2001 to 2012, which is 12 years.
+
+Final Answer: 12
+===================Answer===================
+11

@@ -1,0 +1,28 @@
+===================Title===================
+Speed skating at the 1972 Winter Olympics
+===================Table===================
+|    |   Rank | Nation              |   Gold |   Silver |   Bronze |   Total |
+|---:|-------:|:--------------------|-------:|---------:|---------:|--------:|
+|  0 |      1 | Netherlands (NED)   |      4 |        3 |        2 |       9 |
+|  1 |      2 | United States (USA) |      2 |        1 |        1 |       4 |
+|  2 |      3 | West Germany (FRG)  |      2 |        0 |        0 |       2 |
+|  3 |      4 | Norway (NOR)        |      0 |        2 |        2 |       4 |
+|  4 |      5 | Soviet Union (URS)  |      0 |        1 |        2 |       3 |
+|  5 |      6 | Sweden (SWE)        |      0 |        1 |        1 |       2 |
+|  6 |    nan | Total               |      8 |        8 |        8 |      24 |
+===================Question===================
+in the 1972 olympics, how many more medals did west germany win in speed skating compared to sweden?
+===================Text===================
+<think>
+Okay, so I need to figure out how many more medals West Germany won in speed skating at the 1972 Olympics compared to Sweden. Let's start by looking at the table provided.
+
+First, I'll locate both countries in the table. The Netherlands is first with 9 total medals. Then there's the USA with 4, and West Germany (FRG) next with a total of 2 medals. Norway follows with 4, then the Soviet Union with 3, Sweden with 2, and finally the Total row which sums everything up.
+
+Wait, so each row shows the number of gold, silver, bronze, and total medals for each country. I'm interested in comparing West Germany and Sweden's total medals to find out how many more West Germany won than Sweden.
+
+Looking at West Germany (FRG), their total is 2 medals. For Sweden (SWE), the total is also 2 medals. So if both have 2 medals each, then West Germany didn't win more medals than Sweden; they actually won the same number. Therefore, the difference would be zero.
+</think>
+
+Final Answer: 0
+===================Answer===================
+0

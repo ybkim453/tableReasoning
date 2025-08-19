@@ -1,0 +1,36 @@
+===================Title===================
+Brickyard 400
+===================Table===================
+|    |   Year | Network   | NASCAR\nCountdown                                           | Lap-by-lap     | Color commentator(s)       | Pit reporters                                          | Ratings         | Viewers       |
+|---:|-------:|:----------|:------------------------------------------------------------|:---------------|:---------------------------|:-------------------------------------------------------|:----------------|:--------------|
+|  0 |   2007 | ESPN      | Brent Musburger\nSuzy Kolber\nBrad Daugherty                | Jerry Punch    | Rusty Wallace\nAndy Petree | Dave Burns\nJamie Little\nAllen Bestwick\nMike Massaro | 4.2 (4.9 cable) | 6.574 million |
+|  1 |   2008 | ESPN      | Allen Bestwick\nRusty Wallace\nBrad Daugherty               | Jerry Punch    | Dale Jarrett\nAndy Petree  | Dave Burns\nJamie Little\nShannon Spake\nMike Massaro  | 4.3 (5.1 cable) | 6.668 million |
+|  2 |   2009 | ESPN      | Allen Bestwick\nRusty Wallace\nBrad Daugherty\nRay Evernham | Jerry Punch    | Dale Jarrett\nAndy Petree  | Dave Burns\nJamie Little\nShannon Spake\nVince Welch   | 4.1 (4.8 cable) | 6.487 million |
+|  3 |   2010 | ESPN      | Allen Bestwick\nRusty Wallace\nBrad Daugherty\nRay Evernham | Marty Reid     | Dale Jarrett\nAndy Petree  | Dave Burns\nJamie Little\nJerry Punch\nVince Welch     | 3.6 (4.2 cable) | 5.709 million |
+|  4 |   2011 | ESPN      | Nicole Briscoe\nRusty Wallace\nBrad Daugherty               | Allen Bestwick | Dale Jarrett\nAndy Petree  | Dave Burns\nJamie Little\nJerry Punch\nVince Welch     | 4.0 (4.6 cable) | 6.337 million |
+|  5 |   2012 | ESPN      | Nicole Briscoe\nRusty Wallace\nBrad Daugherty\nRay Evernham | Allen Bestwick | Dale Jarrett\nAndy Petree  | Dave Burns\nJamie Little\nJerry Punch\nVince Welch     | 3.3             | 5.1 million   |
+|  6 |   2013 | ESPN      | Nicole Briscoe\nRusty Wallace\nBrad Daugherty\nRay Evernham | Allen Bestwick | Dale Jarrett\nAndy Petree  | Dave Burns\nJamie Little\nJerry Punch\nVince Welch     | 3.6             | 5.5 million   |
+|  7 |   2014 | ESPN      | nan                                                         | nan            | nan                        | nan                                                    | nan             | nan           |
+===================Question===================
+which years had at least a 4.1 rating?
+===================Text===================
+<think>
+Okay, so I need to figure out which years had at least a 4.1 rating for the Brickyard 400 based on this table. Let me start by looking through each row of the table and noting down the year along with its corresponding ratings.
+
+First, I see that there are entries from 2007 to 2014. The 'Ratings' column has numbers for some years but not all. I'll go step by step:
+
+- **2007**: The rating is 4.2 (with a cable rating of 4.9). That's above 4.1, so 2007 qualifies.
+- **2008**: The rating here is 4.3 with a cable rating of 5.1. Also above 4.1, so 2008 should be included.
+- **2009**: The rating is 4.1 (cable 4.8). Since it's exactly 4.1, that meets the criteria. So, 2009 makes the list.
+- **2010**: This year shows a rating of 3.6 with a cable rating of 4.2. Both are below 4.1, so I'll exclude this one.
+- **2011**: The rating is 4.0 (cable 4.6). Hmm, wait, 4.0 is just below 4.1? Or does the cable rating count here? The main rating is 4.0 which is less than 4.1, so I think this doesn't qualify.
+- **2012**: Here, the rating drops to 3.3. Definitely below 4.1, so no.
+- **2013**: The rating is 3.6, still under 4.1. So, not included.
+- **2014**: There's 'nan' for ratings, which probably means data isn't available or it wasn't applicable that year.
+
+Putting this all together, the years with at least a 4.1 rating are 2007, 2008, and 2009.
+</think>
+
+Final Answer: 2007, 2008, 2009
+===================Answer===================
+2007,2008,2009

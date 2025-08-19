@@ -1,0 +1,32 @@
+===================Title===================
+GameStorm.org
+===================Table===================
+|    | Iteration    | Dates             | Location                 | Attendance   | Notes                                                                                   |
+|---:|:-------------|:------------------|:-------------------------|:-------------|:----------------------------------------------------------------------------------------|
+|  0 | GameStorm 10 | March 2008        | Red Lion - Vancouver, WA | 750          | -                                                                                       |
+|  1 | GameStorm 11 | March 26–29, 2009 | Hilton - Vancouver, WA   | 736          | debut of Video games, first-ever Artist Guest of Honor, Rob Alexander                   |
+|  2 | GameStorm 12 | March 25–28, 2010 | Hilton - Vancouver, WA   | 802          | Board games Guest of Honor: Tom Lehmann                                                 |
+|  3 | GameStorm 13 | March 24–27, 2011 | Hilton - Vancouver, WA   | 984          | Guests: Lisa Steenson, Michael A. Stackpole                                             |
+|  4 | GameStorm 14 | March 22–25, 2012 | Hilton - Vancouver, WA   | 1072         | Boardgame:Andrew Hackard and Sam Mitschke of Steve Jackson Games - RPG: Jason Bulmahn   |
+|  5 | GameStorm 15 | March 21–24, 2013 | Hilton - Vancouver, WA   | 1188         | nan                                                                                     |
+|  6 | GameStorm 16 | March 20–23, 2014 | Hilton - Vancouver, WA   | tba          | Guests: Mike Selinker, Shane Lacy Hensley, Lisa Steenson, Zev Shlasinger of Z-Man Games |
+===================Question===================
+what is the total number of iterations?
+===================Text===================
+<think>
+Okay, so I need to figure out how many iterations of GameStorm.org there are based on this table. Let me look at the table again.
+
+The table has a column labeled "Iteration" with entries from 0 to 6. Each row represents an iteration of GameStorm, starting at 10 and going up to 16. The first row is Iteration 0 as GameStorm 10, then Iteration 1 as GameStorm 11, all the way through Iteration 6 as GameStorm 16.
+
+I think each "Iteration" number corresponds to a specific year and event. So, counting from 0 to 6 gives us seven iterations in total because we include both starting and ending points when counting inclusively.
+
+Wait, is iteration 0 considered part of the count? Yes, because it's listed as the first entry with GameStorm 10. So that would be one iteration, then each subsequent number adds another. From 0 to 6 is seven different iterations.
+
+Alternatively, maybe "Iteration" refers to the version after a certain point, but looking at the dates and how they progress year by year, it seems each Iteration represents an annual event starting from 2008 up to 2014, which would be seven events in total. So, the number of iterations is seven.
+</think>
+
+The table lists GameStorm iterations from 0 (GameStorm 10) through 6 (GameStorm 16), totaling seven iterations.
+
+Final Answer: 7
+===================Answer===================
+7

@@ -1,0 +1,42 @@
+===================Title===================
+2005 East Asian Games
+===================Table===================
+|    | Rank   | Nation               |   Gold |   Silver |   Bronze |   Total |
+|---:|:-------|:---------------------|-------:|---------:|---------:|--------:|
+|  0 | 1      | China (CHN)          |    127 |       63 |       33 |     223 |
+|  1 | 2      | Japan (JPN)          |     46 |       56 |       77 |     179 |
+|  2 | 3      | South Korea (KOR)    |     32 |       48 |       65 |     145 |
+|  3 | 4      | Chinese Taipei (TPE) |     12 |       34 |       26 |      72 |
+|  4 | 5      | Macau (MAC)          |     11 |       16 |       17 |      44 |
+|  5 | 6      | North Korea (PRK)    |      6 |       10 |       20 |      36 |
+|  6 | 7      | Hong Kong (HKG)      |      2 |        2 |        9 |      13 |
+|  7 | 8      | Mongolia (MGL)       |      1 |        1 |        6 |       8 |
+|  8 | 9      | Guam (GUM)           |      0 |        0 |        1 |       1 |
+|  9 | Total  | Total                |    237 |      230 |      254 |     721 |
+===================Question===================
+how many medals were won by hong kong?
+===================Text===================
+<think>
+Okay, so I need to figure out how many medals Hong Kong won in the 2005 East Asian Games based on the provided table. Let me start by understanding the table structure.
+
+The table has several columns: Rank, Nation, Gold, Silver, Bronze, and Total. Each row represents a country's performance, showing the number of gold, silver, and bronze medals they won, along with the total number of medals. The last row shows the overall totals for all nations combined.
+
+I'm looking specifically for Hong Kong (HKG). Let me scan through the 'Nation' column to find that entry. 
+
+Looking at each row:
+
+1. China has 127 golds, 63 silvers, 33 bronzes, total 223.
+2. Japan with 46 golds, etc., but I need to keep going until I reach Hong Kong.
+
+Continuing down, I see the ranks go from 0 to 9. The row for Hong Kong is at index 6: Rank 7, Nation "Hong Kong (HKG)", Gold: 2, Silver: 2, Bronze: 9, Total: 13.
+
+So, the total medals won by Hong Kong would be the sum of their gold, silver, and bronze medals. That's 2 + 2 + 9, which equals 13. Alternatively, I can just look at the 'Total' column for Hong Kong, which is already provided as 13.
+
+I should double-check to make sure I'm reading the correct row. The nation before it is Macau with 11 golds and a total of 44 medals, then North Korea with 6 golds, etc. So yes, Hong Kong is next after that, with totals adding up to 13.
+
+Therefore, the number of medals won by Hong Kong is 13.
+</think>
+
+Final Answer: 13
+===================Answer===================
+13

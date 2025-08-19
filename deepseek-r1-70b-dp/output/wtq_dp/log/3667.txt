@@ -1,0 +1,56 @@
+===================Title===================
+2011 USL Pro season
+===================Table===================
+|    |   Rank | Player            | Nation   | Club                      |   Goals |
+|---:|-------:|:------------------|:---------|:--------------------------|--------:|
+|  0 |      1 | Jhonny Arteaga    | COL      | FC New York               |      13 |
+|  1 |      2 | Matthew Delicâte | ENG      | Richmond Kickers          |      10 |
+|  2 |      3 | José Angulo      | USA      | Harrisburg City Islanders |       9 |
+|  3 |      3 | Maxwell Griffin   | USA      | Orlando City              |       9 |
+|  4 |      3 | Luke Mulholland   | ENG      | Wilmington Hammerheads    |       9 |
+|  5 |      6 | Andriy Budnyy     | UKR      | Wilmington Hammerheads    |       8 |
+|  6 |      6 | Jamie Watson      | USA      | Orlando City              |       8 |
+|  7 |      6 | Andrew Welker     | USA      | Harrisburg City Islanders |       8 |
+|  8 |      9 | Chris Banks       | USA      | Wilmington Hammerheads    |       7 |
+|  9 |      9 | Sallieu Bundu     | SLE      | Charlotte Eagles          |       7 |
+| 10 |      9 | George Davis IV   | USA      | Dayton Dutch Lions        |       7 |
+| 11 |      9 | Sainey Touray     | GAM      | Harrisburg City Islanders |       7 |
+===================Question===================
+how many players each earned 7 goals?
+===================Text===================
+<think>
+Okay, so I'm trying to figure out how many players scored exactly 7 goals in the 2011 USL Pro season based on this table provided. Let me take it step by step.
+
+First, I'll look at each row of the table and check the "Goals" column. The goal is to count all the entries where the number of goals is exactly 7.
+
+Starting from the top:
+
+- Rank 0: Jhonny Arteaga with 13 goals – that's more than 7, so not counting.
+- Rank 1: Matthew Delicâte with 10 goals – also more than 7.
+- Ranks 2,3,4: José Angulo, Maxwell Griffin, and Luke Mulholland each have 9 goals. Still higher than 7, so moving on.
+- Rank 5: Andriy Budnyy with 8 goals – closer but still not 7.
+- Rank 6: Jamie Watson also has 8 goals – again, nope.
+- Rank 7: Andrew Welker has 8 goals too. Still not what we're looking for.
+
+Now, the next set starts at Rank 8:
+
+- Rank 8: Chris Banks with 7 goals – that's one player.
+- Rank 9: Sallieu Bundu also has 7 goals – that's two.
+- Rank 10: George Davis IV with 7 goals – now three players.
+- Finally, Rank 11: Sainey Touray who scored 7 goals as well. So that makes four.
+
+Wait, did I count correctly? Let me recount to make sure I didn't miss anyone. Starting from the bottom:
+
+- Chris Banks (Rank 8) is definitely one at 7 goals.
+- Then Sallieu Bundu (Rank 9) adds another.
+- George Davis IV (Rank 10) makes it three.
+- And finally, Sainey Touray (Rank 11) brings it to four.
+
+So in total, there are four players who each scored exactly 7 goals. I think that's all of them because the next ones above have higher than 7 and below 7 doesn't apply here since it's only up to Rank 11.
+
+I don't see any other entries beyond these, so yes, the answer should be four.
+</think>
+
+Final Answer: 4
+===================Answer===================
+4

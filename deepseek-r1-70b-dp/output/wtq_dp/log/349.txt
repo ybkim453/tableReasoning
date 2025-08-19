@@ -1,0 +1,74 @@
+===================Title===================
+Carlo Janka
+===================Table===================
+|    | Season   | Age         | Overall                 | Slalom         |   Giant\nSlalom | Super G   | Downhill   | Combined   |
+|---:|:---------|:------------|:------------------------|:---------------|----------------:|:----------|:-----------|:-----------|
+|  0 | 2007     | 20          | 130                     | –              |              40 | –         | –          | —          |
+|  1 | 2008     | 21          | 64                      | –              |              28 | 46        | 46         | 31         |
+|  2 | 2009     | 22          | 7                       | –              |               6 | 16        | 16         | 1          |
+|  3 | 2010     | 23          | 1                       | –              |               2 | 6         | 2          | 2          |
+|  4 | 2011     | 24          | 3                       | –              |               5 | 6         | 9          | 6          |
+|  5 | 2012     | 25          | 24                      | –              |              16 | 28        | 17         | 19         |
+|  6 | 2013     | 26          | 48                      | –              |              48 | 27        | 38         | 4          |
+|  7 | 2014     | 27          | 18                      | –              |              25 | 14        | 20         | 11         |
+|  8 | Season   | Date        | Location                | Race           |             nan | nan       | nan        | nan        |
+|  9 | 2009     | 13 Dec 2008 | Val d'Isère, France    | Giant slalom   |             nan | nan       | nan        | nan        |
+| 10 | 2009     | 16 Jan 2009 | Wengen, Switzerland     | Super Combined |             nan | nan       | nan        | nan        |
+| 11 | 2010     | 4 Dec 2009  | Beaver Creek, USA       | Super Combined |             nan | nan       | nan        | nan        |
+| 12 | 2010     | 5 Dec 2009  | Beaver Creek, USA       | Downhill       |             nan | nan       | nan        | nan        |
+| 13 | 2010     | 6 Dec 2009  | Beaver Creek, USA       | Giant Slalom   |             nan | nan       | nan        | nan        |
+| 14 | 2010     | 16 Jan 2010 | Wengen, Switzerland     | Downhill       |             nan | nan       | nan        | nan        |
+| 15 | 2010     | 10 Mar 2010 | Garmisch, Germany       | Downhill       |             nan | nan       | nan        | nan        |
+| 16 | 2010     | 12 Mar 2010 | Garmisch, Germany       | Giant Slalom   |             nan | nan       | nan        | nan        |
+| 17 | 2011     | 5 Mar 2011  | Kranjska Gora, Slovenia | Giant Slalom   |             nan | nan       | nan        | nan        |
+===================Question===================
+how many seasons did janka compete in before he turned 27?
+===================Text===================
+<think>
+Okay, so I need to figure out how many seasons Carlo Janka competed in before he turned 27. Let me start by looking at the table provided.
+
+First, I see that each row represents a season with details like Season, Age, and various race categories. The first few rows (0 to 7) seem to list his performance across different seasons from 2007 to 2014. Then there's another section starting with Season 8 which lists specific races with dates and locations.
+
+My main focus is on the first part of the table where each season is listed by year and age. I need to determine how many seasons Janka competed in before he turned 27.
+
+Looking at the Age column:
+
+- In 2007, his age was 20.
+- 2008: 21
+- 2009: 22
+- 2010: 23
+- 2011: 24
+- 2012: 25
+- 2013: 26
+- 2014: 27
+
+Wait, but the question is about before he turned 27. So I need to count all seasons where his age was less than 27.
+
+So counting each season up until the season when he was 26 years old.
+
+Let me list them out:
+
+Season 2007 (20)
+Season 2008 (21)
+Season 2009 (22)
+Season 2010 (23)
+Season 2011 (24)
+Season 2012 (25)
+Season 2013 (26)
+
+That's seven seasons. Wait, but looking at the table again, Season 2007 is index 0, then 1 to 7 correspond to 2008-2014.
+
+Wait, does each index represent a single season? Yes, I think so. So from 2007 to 2013 inclusive, that's 7 seasons (excluding 2014 where he turned 27). But wait, in the table, Season 2007 is at index 0, and then 2008 index1 up to 2014 index7.
+
+Wait, but when did he turn 27? If his age in 2014 was 27, then before turning 27 would be all seasons where his age was less than 27, so up to 2013. So that's from 2007 (20) through 2013 (26).
+
+Now counting the number of seasons:
+
+From 2007 to 2013 inclusive is 7 years, which are 7 seasons.
+
+Therefore, he competed in 7 seasons before turning 27.
+</think>
+
+Final Answer: 7
+===================Answer===================
+7

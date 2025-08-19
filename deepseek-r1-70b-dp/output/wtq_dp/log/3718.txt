@@ -1,0 +1,45 @@
+===================Title===================
+Jagged Little Pill
+===================Table===================
+|    |   Year | Title               |   Chart positions\nAU |   Chart positions\nCA | Chart positions\nIE   | Chart positions\nNL   | Chart positions\nNZ   |   Chart positions\nUK | Chart positions\nUS\nHot 100   |   Chart positions\nUS\nAirplay |   Chart positions\nUS\nAlternative |
+|---:|-------:|:--------------------|----------------------:|----------------------:|:----------------------|:----------------------|:----------------------|----------------------:|:-------------------------------|-------------------------------:|-----------------------------------:|
+|  0 |   1995 | "You Oughta Know" A |                     4 |                    20 | —                     | 11                    | 25                    |                    22 | —                              |                             13 |                                  1 |
+|  1 |   1995 | "Hand in My Pocket" |                    13 |                     1 | —                     | —                     | 7                     |                    26 | —                              |                             15 |                                  1 |
+|  2 |   1996 | "Ironic"            |                     3 |                     1 | 8                     | 6                     | 3                     |                    11 | 4                              |                              2 |                                  1 |
+|  3 |   1996 | "You Learn"         |                    20 |                     1 | —                     | 13                    | —                     |                    24 | 6                              |                              1 |                                  7 |
+|  4 |   1996 | "Head Over Feet"    |                    12 |                     1 | 11                    | 33                    | 27                    |                     7 | —                              |                              3 |                                 25 |
+|  5 |   1997 | "All I Really Want" |                    40 |                     2 | —                     | —                     | —                     |                    59 | —                              |                             65 |                                 14 |
+===================Question===================
+how many single charted on the dutch top 40 after "hands in my pocket"?
+===================Text===================
+<think>
+Okay, so I need to figure out how many singles charted on the Dutch Top 40 after "Hand in My Pocket". Let's break this down step by step.
+
+First, looking at the table provided, it lists several singles from Alanis Morissette's album "Jagged Little Pill". Each row represents a single with its release year and various chart positions across different countries. The columns include chart positions for Australia (AU), Canada (CA), Ireland (IE), Netherlands (NL), New Zealand (NZ), UK, US Hot 100, US Airplay, and US Alternative.
+
+The question is asking specifically about the Dutch Top 40, which corresponds to the column labeled "Chart positions\nNL". So I need to focus on that column for each single.
+
+"Hand in My Pocket" is the second single listed, at index 1. It was released in 1995 and its NL chart position is listed as "—", meaning it didn't chart there or the data isn't available.
+
+Now, I need to look at all the singles that came after "Hand in My Pocket" and check their Dutch Top 40 chart positions. The singles that follow are:
+
+- Index 2: "Ironic" (1996) with NL position 6
+- Index 3: "You Learn" (1996) with NL position 13
+- Index 4: "Head Over Feet" (1996) with NL position 33
+- Index 5: "All I Really Want" (1997) with NL position "—"
+
+So, starting from index 2 onwards:
+
+1. "Ironic": Charted at #6 in the Netherlands.
+2. "You Learn": Charted at #13.
+3. "Head Over Feet": Charted at #33.
+4. "All I Really Want": No chart position listed ("—").
+
+Each of these singles, except "All I Really Want", has a numerical value under NL, indicating they charted on the Dutch Top 40. Therefore, there are three singles after "Hand in My Pocket" that charted on the Dutch Top 40.
+
+Wait, but I should double-check if any other singles were released after "Hand in My Pocket" beyond what's listed here. In the table provided, those are all the subsequent singles up to index 5. So yes, only three singles after "Hand in My Pocket" charted in NL.
+</think>
+
+Final Answer: 3
+===================Answer===================
+3

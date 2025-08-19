@@ -1,0 +1,56 @@
+===================Title===================
+Melissa Morrison-Howard
+===================Table===================
+|    |   Year | Competition                | Venue                       | Position   | Event         |
+|---:|-------:|:---------------------------|:----------------------------|:-----------|:--------------|
+|  0 |   1997 | World Indoor Championships | Paris, France               | 5th        | 60 m hurdles  |
+|  1 |   1997 | USA Outdoor Championships  | Indianapolis, United States | 1st        | 100 m hurdles |
+|  2 |   1998 | Grand Prix Final           | Moscow, Russia              | 2nd        | 100 m hurdles |
+|  3 |   1998 | USA Indoor Championships   | nan                         | 1st        | 60 m hurdles  |
+|  4 |   1999 | World Indoor Championships | Maebashi, Japan             | 6th        | 60 m hurdles  |
+|  5 |   2000 | Olympic Games              | Sydney, Australia           | 3rd        | 100 m hurdles |
+|  6 |   2000 | Grand Prix Final           | Doha, Qatar                 | 4th        | 100 m hurdles |
+|  7 |   2002 | Grand Prix Final           | Paris, France               | 7th        | 100 m hurdles |
+|  8 |   2002 | USA Indoor Championships   | nan                         | 1st        | 60 m hurdles  |
+|  9 |   2003 | World Indoor Championships | Birmingham, England         | 3rd        | 60 m hurdles  |
+| 10 |   2003 | World Athletics Final      | Monaco                      | 6th        | 100 m hurdles |
+| 11 |   2004 | Olympic Games              | Athens, Greece              | 3rd        | 100 m hurdles |
+===================Question===================
+how many events did melissa morrison-howard place 3rd or better between 1997 and 2004?
+===================Text===================
+<think>
+Alright, so I need to figure out how many events Melissa Morrison-Howard placed 3rd or better between 1997 and 2004 based on the provided table. Let me go through each row one by one.
+
+Starting with the first entry in 1997 at the World Indoor Championships in Paris. She got 5th place, which is worse than 3rd, so that doesn't count.
+
+Next, still in 1997, she won the USA Outdoor Championships in Indianapolis with a 1st place finish. That's definitely better than 3rd, so that's one event.
+
+Moving to 1998, she came in 2nd at the Grand Prix Final in Moscow. Second is better than third, so that's another event. Also in 1998, she won the USA Indoor Championships, which gives her a third event.
+
+In 1999, at the World Indoor Championships in Japan, she placed 6th, which doesn't make the cut since it's worse than 3rd.
+
+Jumping to 2000, she got bronze (3rd place) at the Olympic Games in Sydney. That counts as the fourth event. Later that year, at the Grand Prix Final in Doha, she finished 4th, which is below the threshold, so no count there.
+
+In 2002, she was 7th at the Grand Prix Final in Paris, which doesn't qualify. However, she also won the USA Indoor Championships again, placing 1st, so that's a fifth event.
+
+In 2003, she got 3rd place at the World Indoor Championships in England, adding another to the count, making it six events. Also that year, she placed 6th at the World Athletics Final in Monaco, which doesn't count.
+
+Finally, in 2004, she again secured a bronze (3rd) at the Olympic Games in Athens, bringing the total to seven events.
+
+Wait, let me recount to make sure I didn't miss anything. So, from each year:
+
+1997: 1 event
+1998: 2 events
+2000: 1 event
+2002: 1 event
+2003: 1 event
+2004: 1 event
+
+Adding those up gives a total of seven events where she placed 3rd or better. I think that's correct.
+</think>
+
+She placed in the top three or better in seven events.
+
+Final Answer: 7
+===================Answer===================
+7

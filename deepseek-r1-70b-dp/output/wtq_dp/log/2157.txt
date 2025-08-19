@@ -1,0 +1,67 @@
+===================Title===================
+Kingston Transit
+===================Table===================
+|    | Route   | Destinations                                          | Via                                                | Frequency\n(minutes)   | Peak Hours Only   | Former                      |
+|---:|:--------|:------------------------------------------------------|:---------------------------------------------------|:-----------------------|:------------------|:----------------------------|
+|  0 | 1       | Montreal Street\nSt. Lawrence College                 | Downtown                                           | 30                     | nan               | Cataraqui Town Centre-Woods |
+|  1 | 2       | Kingston Centre\nDivision Street                      | St. Lawrence College\nDowntown                     | 30                     | nan               | nan                         |
+|  2 | 3       | Kingston Centre\nDowntown                             | Queen Mary Road\nSt. Lawrence College\nKing Street | 30                     | nan               | nan                         |
+|  3 | 4       | Princess Street                                       | Cataraqui Town Centre\nDowntown                    | 30                     | nan               | nan                         |
+|  4 | 6       | Cataraqui Town Centre\nSt. Lawrence College           | Gardiners Town Centre                              | 30                     | nan               | Downtown                    |
+|  5 | 7       | Dalton/Division\nMidland/Gardiners                    | Cataraqui Town Centre\nTrain Station\nBus Terminal | 30                     | nan               | nan                         |
+|  6 | 9       | Downtown\nCataraqui Town Centre                       | Brock St. / Barrie St.\nGardiners Town Centre      | 20                     | nan               | nan                         |
+|  7 | 10      | Amherstview\nCataraqui Town Centre                    | Collins Bay Road                                   | 30                     | nan               | Kingston Centre             |
+|  8 | 11      | Kingston Centre\nCataraqui Town Centre                | Bath Road\nGardiners Town Centre                   | 30                     | nan               | (formerly Route 71)         |
+|  9 | 12      | Kingston Centre\nHighway 15                           | Downtown\nCFB Kingston (off-peak only)             | 30                     | nan               | -                           |
+| 10 | 12A     | CFB Kingston\nDowntown                                | nan                                                | 30                     | X                 | nan                         |
+| 11 | 18      | Train Station\nBus Terminal                           | Downtown\nQueen's University\nSt. Lawrence College | *                      | nan               | Student Circuit             |
+| 12 | 19      | Montreal Street\nQueen's University                   | Downtown                                           | 30                     | X                 | nan                         |
+| 13 | 14      | Train Station\nCataraqui Town Centre / Midland Avenue | Waterloo-Davis\nMultiplex                          | 30                     | nan               | (formerly Route A)          |
+| 14 | 15      | Reddendale\nCataraqui Town Centre - Woods             | Gardiners Town Centre                              | 30                     | nan               | (formerly Route B)          |
+| 15 | 16      | Train Station\nBus Terminal                           | Kingston Centre                                    | 30                     | nan               | (formerly Route C)          |
+===================Question===================
+how many are only available during peak hours?
+===================Text===================
+<think>
+Alright, so I need to figure out how many routes are only available during peak hours based on the given table about Kingston Transit. Let's break this down step by step.
+
+First, I'll look at each row in the table and check the "Peak Hours Only" column. The key here is to identify which routes have a value indicating they're only available during peak times. In the table, it seems that if a route is only available during peak hours, the "Peak Hours Only" column will have an 'X'. If it's not a peak-only route, this column might be empty or have a different notation like 'nan'.
+
+Starting from the top:
+
+1. Route 1: The "Peak Hours Only" column says 'nan', which I think means it's not available only during peaks. So, not counting this one.
+2. Route 2: Same as above, 'nan' so no peak-only.
+3. Route 3: Again, 'nan' in that column.
+4. Route 4: 'nan' here too.
+5. Route 6: 'nan', so it's a regular route.
+6. Route 7: 'nan', not peak-only.
+7. Route 9: This one has an 'X' under "Peak Hours Only", which indicates it is only available during peak hours. So, that's our first count.
+8. Route 10: The column for this route also has an 'X'. Wait, but looking at the row, the route number might be a continuation or variant. Let me check again. Yes, Route 12A in row 10 has 'X', so that's another peak-only route.
+9. Route 18: No mention of peak hours; it just has '*', which might mean something else like a special frequency.
+10. Route 19: This one also has an 'X' in the "Peak Hours Only" column, making it a third peak-only route.
+
+Wait, did I miss any? Let me go through each row again to make sure:
+
+- Rows 0 to 9: Checked all except maybe row 12 and beyond.
+- Route 14 (row 13): 'nan', so no.
+- Route 15 (row 14): 'nan'.
+- Route 16 (row 15): 'nan'.
+
+So, the only routes with 'X' in the "Peak Hours Only" column are:
+
+1. Route 9
+2. Route 12A
+3. Route 19
+
+That's a total of three routes. Wait, but let me double-check if I counted correctly:
+
+- Route 9: Yes.
+- Route 12A: That's another one.
+- Route 19: Third.
+
+So, three in total are only available during peak hours.
+</think>
+
+Final Answer: 3
+===================Answer===================
+2

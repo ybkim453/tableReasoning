@@ -1,0 +1,67 @@
+===================Title===================
+2010 Woodlands Wellington FC season
+===================Table===================
+|    | Position   | Player            | Transferred From    | Date             |
+|---:|:-----------|:------------------|:--------------------|:-----------------|
+|  0 | GK         | Fajar Sarib       | Geylang United      | 1 January 2010   |
+|  1 | GK         | Hafez Mawasi      | Balestier Khalsa    | 1 January 2010   |
+|  2 | DF         | Winston Yap       | Sengkang Punggol    | 1 January 2010   |
+|  3 | DF         | Kazuki Yoshino    | Albirex Niigata (S) | 1 January 2010   |
+|  4 | DF         | Sahairi Ramri     | Balestier Khalsa    | 1 January 2010   |
+|  5 | MF         | Syed Karim        | SAFFC               | 1 January 2010   |
+|  6 | MF         | Mohd Noor Ali     | Geylang United      | 1 January 2010   |
+|  7 | MF         | Guntur Djafril    | SAFFC               | 1 January 2010   |
+|  8 | MF         | Sazali Salleh     | Sengkang Punggol    | 1 January 2010   |
+|  9 | FW         | Laakkad Abdelhadi | Free Transfer       | 1 January 2010   |
+| 10 | FW         | Rizawan Abdullah  | Balestier Khalsa    | 1 January 2010   |
+| 11 | MF         | Rachid Lajane     | Raja Al Hoceima     | 26 February 2010 |
+===================Question===================
+how long is the roster for the 2010 woodlands wellington fc season?
+===================Text===================
+<think>
+Alright, so I need to figure out how long the roster is for the 2010 Woodlands Wellington FC season based on the given table. Let's look at the table again.
+
+The table has columns: Position, Player, Transferred From, and Date. Each row represents a different player with their respective details. I see that there are entries numbered from 0 to 11. Wait, but starting from 0 can sometimes be confusing because it might not always indicate a count starting at 1.
+
+Let me count each row. Starting from the top:
+
+Row 0: Fajar Sarib
+Row 1: Hafez Mawasi
+Row 2: Winston Yap
+Row 3: Kazuki Yoshino
+Row 4: Sahairi Ramri
+Row 5: Syed Karim
+Row 6: Mohd Noor Ali
+Row 7: Guntur Djafril
+Row 8: Sazali Salleh
+Row 9: Laakkad Abdelhadi
+Row 10: Rizawan Abdullah
+Row 11: Rachid Lajane
+
+So that's from row 0 to row 11. Now, how many players is that? If we count starting at 0, then each number represents a unique player. So from 0 to 11 inclusive would be 12 rows because 11 - 0 + 1 = 12.
+
+Wait, just to make sure I'm not making a mistake here. Sometimes when people number items, they start at 1, so the count is equal to the last number. But in programming and databases, we often start counting from 0, but the total count would still be one more than the highest index. So if the last row is indexed as 11, that's 12 players.
+
+Alternatively, I can just list them out:
+
+1. Fajar Sarib
+2. Hafez Mawasi
+3. Winston Yap
+4. Kazuki Yoshino
+5. Sahairi Ramri
+6. Syed Karim
+7. Mohd Noor Ali
+8. Guntur Djafril
+9. Sazali Salleh
+10. Laakkad Abdelhadi
+11. Rizawan Abdullah
+12. Rachid Lajane
+
+Yep, that's 12 players in total. So the roster has 12 members for the 2010 season.
+</think>
+
+The roster consists of 12 players.
+
+Final Answer: 12
+===================Answer===================
+12

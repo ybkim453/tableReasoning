@@ -1,0 +1,49 @@
+===================Title===================
+Diving at the 1984 Summer Olympics – Women's 3 metre springboard
+===================Table===================
+|    |   Rank | Diver                          |   Preliminary\nPoints |   Preliminary\nRank |   Final\nPoints |
+|---:|-------:|:-------------------------------|----------------------:|--------------------:|----------------:|
+|  0 |    nan | Sylvie Bernier (CAN)           |                489.51 |                   3 |          530.7  |
+|  1 |    nan | Kelly McCormick (USA)          |                516.75 |                   2 |          527.46 |
+|  2 |    nan | Christina Seufert (USA)        |                481.41 |                   5 |          517.62 |
+|  3 |      4 | Li Yihua (CHN)                 |                517.92 |                   1 |          506.52 |
+|  4 |      5 | Li Qiaoxian (CHN)              |                466.83 |                   6 |          487.68 |
+|  5 |      6 | Elsa Tenorio (MEX)             |                460.56 |                   8 |          463.56 |
+|  6 |      7 | Lesley Smith (ZIM)             |                438.72 |                  10 |          451.89 |
+|  7 |      8 | Debbie Fuller (CAN)            |                437.04 |                  11 |          450.99 |
+|  8 |      9 | Jennifer Donnet (AUS)          |                432.78 |                  12 |          443.13 |
+|  9 |     10 | Daphne Jongejans (NED)         |                487.95 |                   4 |          437.4  |
+| 10 |     11 | Anita Rossing (SWE)            |                464.58 |                   7 |          424.98 |
+| 11 |     12 | Verónica Ribot (ARG)          |                443.25 |                   9 |          422.52 |
+| 12 |     13 | Ann Fargher (NZL)              |                421.65 |                  13 |          nan    |
+| 13 |     14 | Tine Tollan (NOR)              |                419.55 |                  14 |          nan    |
+| 14 |     15 | Antonette Wilken (ZIM)         |                414.66 |                  15 |          nan    |
+| 15 |     16 | Guadalupe Canseco (MEX)        |                411.96 |                  16 |          nan    |
+| 16 |     17 | Claire Izacard (FRA)           |                403.17 |                  17 |          nan    |
+| 17 |     18 | Valerie McFarland-Beddoe (AUS) |                401.13 |                  18 |          nan    |
+| 18 |     19 | Alison Childs (GBR)            |                400.68 |                  19 |          nan    |
+| 19 |     20 | Kerstin Finke (FRG)            |                393.93 |                  20 |          nan    |
+| 20 |     21 | Nicole Kreil (AUT)             |                382.68 |                  21 |          nan    |
+| 21 |     22 | Joana Figueiredo (POR)         |                374.07 |                  22 |          nan    |
+| 22 |     23 | Angela Ribeiro (BRA)           |                370.68 |                  23 |          nan    |
+| 23 |     24 | Rim Hassan (EGY)               |                258.63 |                  24 |          nan    |
+===================Question===================
+how many points did ann fargher have?
+===================Text===================
+<think>
+Alright, I need to figure out how many points Ann Fargher had based on the provided table. Let me look through the information given.
+
+First, I'll scan the table to find the row where the diver's name is Ann Fargher. I see that each row has a Diver column, so I can search for her there. Scanning down the list... here she is: Ann Fargher from New Zealand.
+
+Looking at her row, the columns are Preliminary Points, Preliminary Rank, and Final Points. The question asks how many points she had, but it doesn't specify which round. Typically, in such contexts, when just asking about points without specifying, they usually refer to the final points. However, I should check if both preliminary and final points are present.
+
+In Ann's row, the Preliminary Points show 421.65, which is a valid number. The Final Points column for her has 'nan', which stands for 'not a number' or missing data. This suggests that she didn't advance to the finals, so she only has preliminary points.
+
+Since the final points are not available for her and the question doesn't specify, but usually, total points might refer to her performance in the competition, which would be the Preliminary Points as she didn't make it further. Alternatively, if considering all points, both preliminary and final, but since finals aren't available, maybe just the prelims.
+
+Wait, actually, looking back at the table, for Ann Fargher, Final Points are 'nan', so her only scored points would be from the Preliminary round. Therefore, the answer should be 421.65.
+</think>
+
+Final Answer: 421.65
+===================Answer===================
+421.65

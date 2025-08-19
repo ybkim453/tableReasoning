@@ -1,0 +1,43 @@
+===================Title===================
+2007 Weber Cup
+===================Table===================
+|    |   Match no. | Match Type   | Team Europe       | Score     | Team USA     | Progressive Total   |
+|---:|------------:|:-------------|:------------------|:----------|:-------------|:--------------------|
+|  0 |          25 | Singles      | Mika Koivuniemi   | 217 - 279 | Chris Barnes | 14 - 11             |
+|  1 |          26 | Singles      | Osku Palermaa     | 217 - 244 | Tommy Jones  | 14 - 12             |
+|  2 |          27 | Singles      | Paul Moor         | 210 - 199 | Tim Mack     | 15 - 12             |
+|  3 |          28 | Singles      | Tore Torgersen    | 206 - 275 | Doug Kent    | 15 - 13             |
+|  4 |          29 | Singles      | Tomas Leandersson | 176 - 258 | Bill Hoffman | 15 - 14             |
+|  5 |          30 | Baker        | Team Europe       | 202 - 203 | Team USA     | 15 - 15             |
+|  6 |          31 | Singles      | Tore Torgersen    | 202 - 264 | Chris Barnes | 15 - 16             |
+|  7 |          32 | Singles      | Osku Palermaa     | 196 - 235 | Tommy Jones  | 15 - 17             |
+===================Question===================
+how many matches did team europe win?
+===================Text===================
+<think>
+Alright, so I'm trying to figure out how many matches Team Europe won in the 2007 Weber Cup based on the provided table. Let me break this down step by step.
+
+First, I'll look at each match individually and determine whether Team Europe won that particular match or not. The table has eight matches listed, from Match 25 to Match 32. Each match has details like the type (Singles or Baker), the players involved, their scores, and a progressive total which probably shows the running tally of wins for both teams.
+
+Starting with Match 25: It's a Singles match between Mika Koivuniemi (Europe) and Chris Barnes (USA). The score is 217-279. I think in bowling, the higher score wins, so since 279 is higher than 217, Team USA won this one. So Europe didn't win here.
+
+Next is Match 26: Another Singles match with Osku Palermaa (Europe) vs Tommy Jones (USA). The score here is 217-244. Again, 244 is higher, so USA wins this too. No win for Europe yet.
+
+Match 27 is Singles between Paul Moor (Europe) and Tim Mack (USA). Scores are 210-199. This time, Europe's score is higher (210 > 199), so Team Europe wins Match 27. That's one win so far.
+
+Moving on to Match 28: Tore Torgersen (Europe) vs Doug Kent (USA) in Singles. The scores are 206-275. Here, USA has the higher score, so they take this match. Still at one win for Europe.
+
+Match 29 is Singles with Tomas Leandersson (Europe) against Bill Hoffman (USA). The scores are 176-258. Again, USA's score is higher, so no additional wins here. Europe remains at one win.
+
+Now, Match 30: This is a Baker match between Team Europe and Team USA. The score is 202-203. Baker matches are team events where both teams bowl together, and the higher total wins. Since 203 is just slightly higher than 202, Team USA edges this one out. So Europe doesn't get a win here.
+
+Match 31: Back to Singles with Tore Torgersen (Europe) vs Chris Barnes (USA). The scores are 202-264. Clearly, USA has the higher score, so they take this match as well. Still at one win for Europe.
+
+Finally, Match 32: Osku Palermaa (Europe) against Tommy Jones (USA) in Singles again. Scores are 196-235. Higher score goes to USA, so no additional wins here either.
+
+Adding it all up, the only match Team Europe won is Match 27 where Paul Moor had a higher score than Tim Mack.
+</think>
+
+Final Answer: 1
+===================Answer===================
+1

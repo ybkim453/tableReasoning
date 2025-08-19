@@ -1,0 +1,48 @@
+===================Title===================
+Sport in Australia
+===================Table===================
+|    | Competition                        | Total spectatorship   | Average match attendance   | Year      |
+|---:|:-----------------------------------|:----------------------|:---------------------------|:----------|
+|  0 | A-League                           | 1,772,133             | 12,707                     | 2012/2013 |
+|  1 | Australian Football League         | 6,931,085             | 33,484                     | 2013      |
+|  2 | Big Bash League                    | 550,262               | 17,750                     | 2011/2012 |
+|  3 | National Basketball League         | 547,021               | 4,031                      | 2010/2011 |
+|  4 | National Rugby League              | 3,345,248             | 16,643                     | 2013      |
+|  5 | Super Rugby                        | 773,940               | 19,348                     | 2012      |
+|  6 | Rugby Championship                 | 133,532               | 44,511                     | 2012      |
+|  7 | State of Origin series             | 186,607               | 62,202                     | 2011      |
+|  8 | Women's National Basketball League | 77,944                | nan                        | 2010/2011 |
+===================Question===================
+what is the only sport that has a listed average match attendance of less than 10,000?
+===================Text===================
+<think>
+Alright, so I need to figure out which sport from the given table has an average match attendance of less than 10,000. Let me start by looking at each entry one by one.
+
+First, let's list out all the competitions and their average attendances:
+
+1. A-League: 12,707
+2. Australian Football League: 33,484
+3. Big Bash League: 17,750
+4. National Basketball League: 4,031
+5. National Rugby League: 16,643
+6. Super Rugby: 19,348
+7. Rugby Championship: 44,511
+8. State of Origin series: 62,202
+9. Women's National Basketball League: nan (which I think means not available or not applicable)
+
+Now, I'm looking for any average attendance that's below 10,000. Let me go through each:
+
+- A-League is above 10k.
+- Australian Football League way higher.
+- Big Bash also above.
+- National Basketball League is at 4,031, which is under 10k.
+- National Rugby League over.
+- Super Rugby over.
+- Rugby Championship and State of Origin both much higher.
+
+The Women's NBL has 'nan', so we can't consider it because the data isn't available. So the only one under 10k is the National Basketball League with 4,031.
+</think>
+
+Final Answer: National Basketball League
+===================Answer===================
+National Basketball League

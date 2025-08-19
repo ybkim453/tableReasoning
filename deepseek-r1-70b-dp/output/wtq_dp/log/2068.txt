@@ -1,0 +1,47 @@
+===================Title===================
+1989 NHL Entry Draft
+===================Table===================
+|    |   Pick # | Player          | Position   | Nationality    | NHL team              | College/junior/club team                 |
+|---:|---------:|:----------------|:-----------|:---------------|:----------------------|:-----------------------------------------|
+|  0 |      148 | Paul Krake      | Goalie     | Canada         | Quebec Nordiques      | University of Alaska Anchorage (NCAA)    |
+|  1 |      149 | Phil Huber      | Center     | Canada         | New York Islanders    | Kamloops Blazers (WHL)                   |
+|  2 |      150 | Derek Langille  | Defense    | Canada         | Toronto Maple Leafs   | North Bay Centennials (OHL)              |
+|  3 |      151 | Jim Solly       | Left Wing  | Canada         | Winnipeg Jets         | Bowling Green State University (NCAA)    |
+|  4 |      152 | Sergei Starikov | Defense    | Soviet Union   | New Jersey Devils     | CSKA Moscow (USSR)                       |
+|  5 |      153 | Milan Tichy     | Defense    | Czechoslovakia | Chicago Blackhawks    | Prince Albert Raiders (WHL)              |
+|  6 |      154 | Jon Pratt       | Left Wing  | United States  | Minnesota North Stars | Pingree High School (USHS-MA)            |
+|  7 |      155 | Rob Sangster    | Left Wing  | Canada         | Vancouver Canucks     | Kitchener Rangers (OHL)                  |
+|  8 |      156 | Kevin Plager    | Right Wing | United States  | St. Louis Blues       | Parkway North High School (USHS-MO)      |
+|  9 |      157 | Raymond Saumier | Right Wing | Canada         | Hartford Whalers      | Trois Rivieres Draveurs (QMJHL)          |
+| 10 |      158 | Andy Suhy       | Defense    | United States  | Detroit Red Wings     | Western Michigan University (NCAA)       |
+| 11 |      159 | Sverre Sears    | Defense    | United States  | Philadelphia Flyers   | Princeton University (NCAA)              |
+| 12 |      160 | Greg Spenrath   | Defense    | Canada         | New York Rangers      | Tri-City Americans (WHL)                 |
+| 13 |      161 | Derek Plante    | Center     | United States  | Buffalo Sabres        | Cloquet High School (USHS-MN)            |
+| 14 |      162 | Darcy Martini   | Defense    | Canada         | Edmonton Oilers       | Michigan Technological University (NCAA) |
+| 15 |      163 | David Shute     | Left Wing  | United States  | Pittsburgh Penguins   | Victoria Cougars (WHL)                   |
+| 16 |      164 | Rick Allain     | Defense    | Canada         | Boston Bruins         | Kitchener Rangers (OHL)                  |
+| 17 |      165 | Sean Whyte      | Right Wing | Canada         | Los Angeles Kings     | Guelph Platers (OHL)                     |
+| 18 |      166 | Dean Holoien    | Right Wing | Canada         | Washington Capitals   | Saskatoon Blades (WHL)                   |
+| 19 |      167 | Patrick Lebeau  | Left Wing  | Canada         | Montreal Canadiens    | St-Jean Lynx (QMJHL)                     |
+| 20 |      168 | Kevin Wortman   | Defense    | United States  | Calgary Flames        | American International College (NCAA)    |
+===================Question===================
+what are the number of players with a soviet union nationality?
+===================Text===================
+<think>
+Alright, so I need to figure out how many players in the given table have a nationality from the Soviet Union. Let me start by carefully looking through each row of the table.
+
+First, I'll scan the "Nationality" column for each player. The table has 21 entries, numbered from 0 to 20. I'll go one by one:
+
+- Row 0: Nationality is Canada.
+- Row 1: Canada again.
+- Row 2: Still Canada.
+- Row 3: Canada once more.
+- Row 4: Oh, here's one that says Soviet Union. That's Sergei Starikov.
+- Rows 5 to 20: I'll check each of these. Nationalities include Czechoslovakia, United States, and various Canadian entries. I don't see any other mentions of the Soviet Union beyond row 4.
+
+So, after going through all the rows, only one player has the nationality listed as the Soviet Union.
+</think>
+
+Final Answer: 1
+===================Answer===================
+1

@@ -1,0 +1,57 @@
+===================Title===================
+Salvatore Bettiol
+===================Table===================
+|    |   Year | Competition            | Venue                  | Position   | Event    | Notes   |
+|---:|-------:|:-----------------------|:-----------------------|:-----------|:---------|:--------|
+|  0 |   1986 | Venice Marathon        | Venice, Italy          | 1st        | Marathon | 2:18:44 |
+|  1 |   1987 | World Championships    | Rome, Italy            | 13th       | Marathon | 2:17:45 |
+|  2 |   1987 | Venice Marathon        | Venice, Italy          | 1st        | Marathon | 2:10:01 |
+|  3 |   1990 | European Championships | Split, FR Yugoslavia   | 4th        | Marathon | 2:17:45 |
+|  4 |   1991 | World Championships    | Tokyo, Japan           | 6th        | Marathon | 2:15:58 |
+|  5 |   1992 | Olympic Games          | Barcelona, Spain       | 5th        | Marathon | 2:14:15 |
+|  6 |   1993 | World Championships    | Stuttgart, Germany     | —          | Marathon | DNF     |
+|  7 |   1996 | Olympic Games          | Atlanta, United States | 20th       | Marathon | 2:17:27 |
+===================Question===================
+in what year did salvatore bettiol run in the most marathons?
+===================Text===================
+<think>
+Okay, so I need to figure out in which year Salvatore Bettiol ran the most marathons based on the given table. Let me start by understanding the data presented.
+
+The table lists seven entries, each representing a different marathon event that Salvatore participated in, spanning from 1986 to 1996. Each row has details like the year, competition name, venue, position, event (which is always Marathon here), and notes which sometimes include his finishing time or if he DNF'd (Did Not Finish).
+
+My goal is to determine the year where he ran the most marathons. To do this, I should count how many marathons he participated in each year.
+
+Looking at the Years column:
+
+- 1986: One marathon (Venice Marathon)
+- 1987: Two marathons (World Championships and Venice Marathon)
+- 1990: One marathon (European Championships)
+- 1991: One marathon (World Championships)
+- 1992: One marathon (Olympic Games)
+- 1993: One marathon (World Championships), but he DNF'd
+- 1996: One marathon (Olympic Games)
+
+Wait, I should check each row:
+
+Row 0: 1986 – that's one.
+Row 1: 1987 – another, so two marathons in 1987.
+Row 2: Also 1987, making it the second of that year? Wait, no. Row 1 is 1987 World Championships, and row 2 is 1987 Venice Marathon. So yes, two marathons in 1987.
+
+Rows 3 to 6 are each in different years (1990, 1991, 1992, 1993, 1996), with one marathon each.
+
+So the breakdown per year:
+
+- 1986: 1
+- 1987: 2
+- 1990: 1
+- 1991: 1
+- 1992: 1
+- 1993: 1 (even though he DNF'd, it still counts as participating)
+- 1996: 1
+
+Therefore, the year with the most marathons is 1987 with two events. So Salvatore Bettiol ran in the most marathons in 1987.
+</think>
+
+Final Answer: 1987
+===================Answer===================
+1987

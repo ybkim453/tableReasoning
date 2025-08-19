@@ -1,0 +1,46 @@
+===================Title===================
+2000 Úrvalsdeild
+===================Table===================
+|    |   Pos | Team       |   Played |   Won |   Draw |   Lost |   Goals For |   Goals Against |   Goal Difference |   Points | Notes                 |
+|---:|------:|:-----------|---------:|------:|-------:|-------:|------------:|----------------:|------------------:|---------:|:----------------------|
+|  0 |     1 | KR         |       18 |    11 |      4 |      3 |          27 |              14 |                13 |       37 | UEFA Champions League |
+|  1 |     2 | Fylkir     |       18 |    10 |      5 |      3 |          39 |              16 |                23 |       35 | UEFA Cup              |
+|  2 |     3 | Grindavík |       18 |     8 |      6 |      4 |          25 |              18 |                 7 |       30 | UEFA Cup              |
+|  3 |     4 | ÍBV       |       18 |     8 |      5 |      5 |          29 |              17 |                12 |       29 | Inter-Toto Cup        |
+|  4 |     5 | ÍA        |       18 |     7 |      5 |      6 |          21 |              17 |                 4 |       26 | nan                   |
+|  5 |     6 | Keflavík  |       18 |     4 |      7 |      7 |          21 |              35 |               -14 |       19 | nan                   |
+|  6 |     7 | Breiðablik |       18 |     5 |      3 |     10 |          29 |              35 |                -6 |       18 | nan                   |
+|  7 |     8 | Fram       |       18 |     4 |      5 |      9 |          22 |              33 |               -11 |       17 | nan                   |
+|  8 |     9 | Stjarnan   |       18 |     4 |      5 |      9 |          18 |              31 |               -13 |       17 | Relegated             |
+|  9 |    10 | Leiftur    |       18 |     3 |      7 |      8 |          24 |              39 |               -15 |       16 | Relegated             |
+===================Question===================
+what is the least number of points earned?
+===================Text===================
+<think>
+Okay, so I need to figure out what the least number of points earned is from this table about the 2000 Úrvalsdeild. Let me start by looking at each team's points.
+
+First, I see that KR is at position 1 with 37 points. That seems like a lot. Then Fylkir has 35, Grindavík with 30, and ÍBV with 29. So those top four are all above 25 points. 
+
+Looking further down, I see ÍA has 26 points, which is still in the mid-range. Keflavík is next with 19. Hmm, that's a drop from 26 to 19. Then Breiðablik also has 18 points, same as Fram below them? Wait no, looking back, Fram actually has 17 points. Oh, right, and then Stjarnan also has 17. Leiftur is last with 16 points.
+
+Wait, so the points go from 37 down to 16. I need to find the least number of points earned, so that would be the smallest number in the 'Points' column. Let me check each row:
+
+- KR:37
+- Fylkir:35
+- Grindavík:30
+- ÍBV:29
+- ÍA:26
+- Keflavík:19
+- Breiðablik:18
+- Fram:17
+- Stjarnan:17
+- Leiftur:16
+
+So the points are decreasing, and the lowest is 16. That belongs to Leiftur at position 10. So the least number of points earned in that season was 16.
+</think>
+
+The team with the least points earned in the 2000 Úrvalsdeild season had 16 points.
+
+Final Answer: 16
+===================Answer===================
+16

@@ -1,0 +1,52 @@
+===================Title===================
+Bexar County, Texas
+===================Table===================
+|    | Representative        | Party   | Home Town/City   |   District |
+|---:|:----------------------|:--------|:-----------------|-----------:|
+|  0 | Trey Martinez Fischer | D       | San Antonio      |        116 |
+|  1 | Philip Cortez         | D       | San Antonio      |        117 |
+|  2 | Joe Farias            | D       | San Antonio      |        118 |
+|  3 | Roland Gutierrez      | D       | San Antonio      |        119 |
+|  4 | Ruth McClendon        | D       | San Antonio      |        120 |
+|  5 | Joe Straus            | R       | San Antonio      |        121 |
+|  6 | Lyle Larson           | R       | San Antonio      |        122 |
+|  7 | Mike Villarreal       | D       | San Antonio      |        123 |
+|  8 | Jose Menendez         | D       | San Antonio      |        124 |
+|  9 | Justin Rodriguez      | D       | San Antonio      |        125 |
+===================Question===================
+which party is the least represented?
+===================Text===================
+<think>
+Alright, so I've got this table about Bexar County, Texas representatives and their parties. The question is asking which party is the least represented. Let me break it down.
+
+First, I'll look at each representative's party affiliation. There are 10 entries in total. Now, let's count how many are from each party.
+
+Starting with Representative Trey Martinez Fischer: he's a Democrat (D). Then Philip Cortez is also D. Joe Farias, same party, D again. Roland Gutierrez, another D. Ruth McClendon is D as well. So far that's 5 Democrats.
+
+Then we have Joe Straus, who is Republican (R). Next up is Lyle Larson, also R. That brings Republicans to 2. Moving on, Mike Villarreal is back to D. Jose Menendez and Justin Rodriguez are both D too. 
+
+So adding those up: Trey, Philip, Joe Farias, Roland, Ruth, Mike, Jose, and Justin are all Democrats. That makes 8 Democrats in total. On the Republican side, we have Joe Straus and Lyle Larson, so that's 2 Republicans.
+
+Wait a second, did I count correctly? Let me go through each row again to make sure I didn't miss anything. 
+
+Row 0: D
+Row 1: D
+Row 2: D
+Row 3: D
+Row 4: D
+Row 5: R
+Row 6: R
+Row 7: D
+Row 8: D
+Row 9: D
+
+Yep, that's 8 Democrats and 2 Republicans. So the total is 10 representatives.
+
+Now, comparing the numbers, Democrats have 8 seats and Republicans have 2. The question asks for the least represented party. Since there are only two parties listed here—D and R—the party with fewer members is clearly the Republican Party with just 2 representatives compared to 8 from the Democratic side.
+
+I don't see any other parties mentioned, so it's a straightforward comparison between D and R in this context.
+</think>
+
+Final Answer: R
+===================Answer===================
+R

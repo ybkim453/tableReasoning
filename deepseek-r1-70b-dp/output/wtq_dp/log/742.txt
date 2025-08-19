@@ -1,0 +1,62 @@
+===================Title===================
+Great Officer of State
+===================Table===================
+|    |   Position | Officer                       | current officers                   | superseded by       | Royal Household     |
+|---:|-----------:|:------------------------------|:-----------------------------------|:--------------------|:--------------------|
+|  0 |          1 | Lord High Steward             | vacant                             | Justiciar           | Lord Steward        |
+|  1 |          2 | Lord High Chancellor          | The Rt Hon Chris Grayling, MP      | nan                 | nan                 |
+|  2 |          3 | Lord High Treasurer           | in commission                      | nan                 | nan                 |
+|  3 |          4 | Lord President of the Council | The Rt Hon Nick Clegg, MP          | nan                 | nan                 |
+|  4 |          5 | Lord Privy Seal               | The Rt Hon Andrew Lansley, CBE, MP | nan                 | nan                 |
+|  5 |          6 | Lord Great Chamberlain        | The Marquess of Cholmondeley       | Lord High Treasurer | Lord Chamberlain    |
+|  6 |          7 | Lord High Constable           | vacant                             | Earl Marshal        | Master of the Horse |
+|  7 |          8 | Earl Marshal                  | The Duke of Norfolk                | nan                 | Master of the Horse |
+|  8 |          9 | Lord High Admiral             | HRH The Duke of Edinburgh          | nan                 | nan                 |
+===================Question===================
+what is the lowest position, other than lord high admiral?
+===================Text===================
+<think>
+Okay, let me try to figure out this question step by step. The table provided lists various positions under "Great Officer of State." Each row has a position number, the title of the officer, who the current officer is, and some other columns like superseded by and Royal Household.
+
+The question asks for the lowest position, other than Lord High Admiral. So first, I need to identify what the lowest position in this table is, excluding Lord High Admiral.
+
+Looking at the table, each row has a number under the "Position" column. The numbers go from 1 to 9. Position 1 is Lord High Steward, and it's vacant. Then position 2 is Lord High Chancellor, held by Chris Grayling. Position 3 is Lord High Treasurer, which is in commission. Position 4 is Lord President of the Council, held by Nick Clegg. Position 5 is Lord Privy Seal, held by Andrew Lansley. Position 6 is Lord Great Chamberlain, held by The Marquess of Cholmondeley. Position 7 is Lord High Constable, which is vacant. Position 8 is Earl Marshal, held by The Duke of Norfolk. Finally, position 9 is Lord High Admiral, held by HRH The Duke of Edinburgh.
+
+Since the question is asking for the lowest position other than Lord High Admiral (which is position 9), I need to find the next lowest. The positions are numbered from 1 to 9, so lower numbers are higher positions? Wait, that might not be correct. Typically, in such rankings, the lower the number, the higher the rank. For example, in many hierarchical structures, position 1 is the highest.
+
+So if position 1 is Lord High Steward and it's vacant, then position 2 would be next, which is Lord High Chancellor. But wait, the user is asking for the lowest position other than Lord High Admiral. So we're looking for the position with the highest number (since higher numbers are lower in rank), excluding position 9.
+
+Wait, that might not make sense because usually, lower numbers indicate higher positions. For example, in some organizations, position 1 is CEO, position 2 is COO, etc., with position 1 being more senior.
+
+But the term "lowest" could mean the least important or the last in order. So if we're looking for the lowest (as in rank), it would be the highest number except for Lord High Admiral at position 9. But wait, that doesn't make sense because if position 1 is the highest, then position 8 would be lower than all others except 9.
+
+Wait no, perhaps I'm misunderstanding. Let me think again. If we're to list positions from highest to lowest based on their number, position 1 is highest, and position 9 is lowest. But the user wants the lowest position other than Lord High Admiral (position 9), so that would be position 8.
+
+Alternatively, maybe the numbering doesn't reflect rank, but rather a different order. Maybe it's just a list without implying hierarchy beyond their sequence. For example, perhaps they are ordered as per some historical or ceremonial precedence, not necessarily in terms of power or authority.
+
+In any case, the user is asking for the lowest position other than Lord High Admiral. So we need to find which position is considered the lowest among the remaining ones.
+
+Looking at the table again:
+
+- Position 1: Lord High Steward (vacant)
+- Position 2: Lord High Chancellor
+- Position 3: Lord High Treasurer
+- Position 4: Lord President of the Council
+- Position 5: Lord Privy Seal
+- Position 6: Lord Great Chamberlain
+- Position 7: Lord High Constable (vacant)
+- Position 8: Earl Marshal
+- Position 9: Lord High Admiral
+
+Assuming that lower numbers are higher positions, then position 1 is the highest, and position 9 is the lowest. But since we're excluding position 9, the next would be position 8.
+
+Alternatively, perhaps "lowest" refers to the least important or most junior role among these great officers. If so, then looking at the roles, Earl Marshal (position 8) might be considered lower than, say, Lord High Chancellor (position 2), which is a very senior role.
+
+Therefore, position 8 would be Earl Marshal, making it the lowest other than Lord High Admiral.
+</think>
+
+The lowest position in the table, excluding Lord High Admiral (position 9), is position 8: Earl Marshal.
+
+Final Answer: Earl Marshal
+===================Answer===================
+Earl Marshal

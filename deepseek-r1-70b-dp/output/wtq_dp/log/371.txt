@@ -1,0 +1,43 @@
+===================Title===================
+Salvatore Bettiol
+===================Table===================
+|    |   Year | Competition            | Venue                  | Position   | Event    | Notes   |
+|---:|-------:|:-----------------------|:-----------------------|:-----------|:---------|:--------|
+|  0 |   1986 | Venice Marathon        | Venice, Italy          | 1st        | Marathon | 2:18:44 |
+|  1 |   1987 | World Championships    | Rome, Italy            | 13th       | Marathon | 2:17:45 |
+|  2 |   1987 | Venice Marathon        | Venice, Italy          | 1st        | Marathon | 2:10:01 |
+|  3 |   1990 | European Championships | Split, FR Yugoslavia   | 4th        | Marathon | 2:17:45 |
+|  4 |   1991 | World Championships    | Tokyo, Japan           | 6th        | Marathon | 2:15:58 |
+|  5 |   1992 | Olympic Games          | Barcelona, Spain       | 5th        | Marathon | 2:14:15 |
+|  6 |   1993 | World Championships    | Stuttgart, Germany     | —          | Marathon | DNF     |
+|  7 |   1996 | Olympic Games          | Atlanta, United States | 20th       | Marathon | 2:17:27 |
+===================Question===================
+what are the number of times olympic games is listed as the competition?
+===================Text===================
+<think>
+Okay, let me try to figure this out. I need to determine how many times the Olympic Games are listed as the competition in Salvatore Bettiol's table.
+
+Looking at the table, each row represents a different event he participated in. The "Competition" column is where I should focus. I'll go through each row one by one.
+
+First row (Year 1986): Competition is Venice Marathon. Not Olympics.
+
+Second row (1987): World Championships. Not Olympics.
+
+Third row (1987 again): Another Venice Marathon. Still not Olympics.
+
+Moving to 1990: European Championships in Split. Nope.
+
+Next, 1991: World Championships in Tokyo. Not Olympic Games.
+
+Then 1992: The competition is listed as Olympic Games in Barcelona. That's one occurrence.
+
+Jumping to 1993: Stuttgart's World Championships. Not the Olympics.
+
+Finally, 1996: Competition is Olympic Games in Atlanta. So that's a second time.
+
+So, I count two entries where the competition is the Olympic Games.
+</think>
+
+Final Answer: 2
+===================Answer===================
+2

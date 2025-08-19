@@ -1,0 +1,68 @@
+===================Title===================
+Divya Prabandha
+===================Table===================
+|    |   Sl no | Name of the prabandham   |   Starting from |   Ending with |   Number of pasurams | Sung by               |
+|---:|--------:|:-------------------------|----------------:|--------------:|---------------------:|:----------------------|
+|  0 |       1 | Periazhvar Thirumozhi    |               1 |           473 |                  473 | Periyalvar            |
+|  1 |       2 | Thiruppavai              |             474 |           503 |                   30 | Aandaal               |
+|  2 |       3 | Nachiar Tirumozhi        |             504 |           646 |                  143 | Aandaal               |
+|  3 |       4 | Perumal Thirumozhi       |             647 |           751 |                  105 | Kulasekara alvar      |
+|  4 |       5 | Thiruchchanda Viruththam |             752 |           871 |                  120 | Thirumalisai alvar    |
+|  5 |       6 | Thirumalai               |             872 |           916 |                   45 | Thondaradippodi alvar |
+|  6 |       7 | Thiruppalliyezhuchchi    |             917 |           926 |                   10 | Thondaradippodi alvar |
+|  7 |       8 | Amalanadhi piran         |             927 |           936 |                   10 | Thiruppaan alvar      |
+|  8 |       9 | Kanni Nun Siruththambu   |             937 |           947 |                   11 | Madhurakavi Alvar     |
+|  9 |      10 | Peria Thirumozhi         |             948 |          2031 |                 1084 | Thirumangai alvar     |
+| 10 |      11 | Kurun Thandagam          |            2032 |          2051 |                   20 | Thirumangai alvar     |
+| 11 |      12 | Nedum Thandagam          |            2052 |          2081 |                   30 | Thirumangai alvar     |
+| 12 |      13 | Mudhal Thiruvandhadhi    |            2082 |          2181 |                  100 | Poigai Alvar          |
+| 13 |      14 | Irandam Thiruvandhadhi   |            2182 |          2281 |                  100 | Bhoothathalvar        |
+| 14 |      15 | Moonram Thiruvandhadhi   |            2282 |          2381 |                  100 | Peyalvar              |
+| 15 |      16 | Naanmugan Thiruvandhadhi |            2382 |          2477 |                   96 | Thirumalisai alvar    |
+| 16 |      17 | Thiruviruththam          |            2478 |          2577 |                  100 | Nammalvar             |
+| 17 |      18 | Thiruvasiriyam           |            2578 |          2584 |                    7 | Nammalvar             |
+| 18 |      19 | Peria Thiruvandhadhi     |            2585 |          2671 |                   87 | Nammalvar             |
+| 19 |      20 | Thiruvezhukkurrirukkai   |            2672 |          2672 |                    1 | Thirumangai alvar     |
+| 20 |      21 | Siriya Thirumadal        |            2673 |          2673 |                    1 | Thirumangai alvar     |
+| 21 |      22 | Peria Thirumadal         |            2674 |          2674 |                    1 | Thirumangai alvar     |
+| 22 |      23 | Thiruvay Mozhi           |            2674 |          3776 |                 1102 | Nammalvar             |
+| 23 |     nan | Total number of pasurams |             nan |           nan |                 3776 | nan                   |
+===================Question===================
+which prabandham has the least number of pasurams
+===================Text===================
+<think>
+Alright, I need to figure out which prabandham has the least number of pasurams based on the provided table. Let me go through each row one by one.
+
+Starting from the top:
+
+1. Periazhvar Thirumozhi has 473 pasurams.
+2. Thiruppavai with 30.
+3. Nachiar Tirumozhi with 143.
+4. Perumal Thirumozhi has 105.
+5. Thiruchchanda Viruththam at 120.
+6. Thirumalai with 45.
+7. Thiruppalliyezhuchchi has only 10.
+8. Amalanadhi piran also has 10.
+9. Kanni Nun Siruththambu with 11.
+10. Peria Thirumozhi is a large one with 1084.
+11. Kurun Thandagam at 20.
+12. Nedum Thandagam with 30.
+13. Mudhal Thiruvandhadhi has 100.
+14. Irandam Thiruvandhadhi also 100.
+15. Moonram Thiruvandhadhi again 100.
+16. Naanmugan Thiruvandhadhi at 96.
+17. Thiruviruththam with 100.
+18. Thiruvasiriyam only 7, which is very few.
+19. Peria Thiruvandhadhi has 87.
+20. Thiruvezhukkurrirukkai and Siriya Thirumadal each have just 1 pasuram.
+21. Peria Thirumadal also with 1.
+22. Thiruvay Mozhi is large, 1102.
+
+Wait, I noticed that entries 20 (Thiruvezhukkurrirukkai), 21 (Siriya Thirumadal), and 22 (Peria Thirumadal) each have only 1 pasuram. Also, entry 18 (Thiruvasiriyam) has just 7. So among these, the ones with the least are those three with 1 pasuram each.
+
+So the prabandhams with the least number of pasurams are Thiruvezhukkurrirukkai, Siriya Thirumadal, and Peria Thirumadal.
+</think>
+
+Final Answer: Thiruvezhukkurrirukkai, Siriya Thirumadal, Peria Thirumadal
+===================Answer===================
+Thiruvezhukkurrirukkai,Siriya Thirumadal,Peria Thirumadal

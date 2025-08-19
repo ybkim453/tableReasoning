@@ -1,0 +1,50 @@
+===================Title===================
+Abraham Lincoln High School (Los Angeles)
+===================Table===================
+|    | School                                     |   2007 |   2008 |   2009 |   2010 |   2011 |
+|---:|:-------------------------------------------|-------:|-------:|-------:|-------:|-------:|
+|  0 | Francisco Bravo Medical Magnet High School |    807 |    818 |    815 |    820 |    832 |
+|  1 | Marc and Eva Stern Math and Science School |    718 |    792 |    788 |    788 |    809 |
+|  2 | Oscar De La Hoya Animo Charter High School |    662 |    726 |    709 |    710 |    744 |
+|  3 | James A. Garfield High School              |    553 |    597 |    593 |    632 |    705 |
+|  4 | Abraham Lincoln High School                |    594 |    609 |    588 |    616 |    643 |
+|  5 | Woodrow Wilson High School                 |    582 |    585 |    600 |    615 |    636 |
+|  6 | Theodore Roosevelt High School             |    557 |    551 |    576 |    608 |    nan |
+|  7 | Thomas Jefferson High School               |    457 |    516 |    514 |    546 |    546 |
+|  8 | Santee Education Complex                   |    nan |    502 |    521 |    552 |    565 |
+===================Question===================
+which school had the highest listed number before 2009?
+===================Text===================
+<think>
+Alright, so I need to figure out which school had the highest listed number before 2009 based on the provided table. Let me break this down step by step.
+
+First, I should understand what each part of the table represents. The table lists various high schools along with some numbers for the years 2007 through 2011. My focus is on the data from before 2009, which would be the years 2007 and 2008.
+
+Looking at the columns, each school has five data points: 2007, 2008, 2009, 2010, and 2011. Since I'm only interested in numbers before 2009, I'll concentrate on the 2007 and 2008 figures for each school.
+
+Let me list out the schools along with their 2007 and 2008 numbers:
+
+- Francisco Bravo Medical Magnet High School: 807 (2007), 818 (2008)
+- Marc and Eva Stern Math and Science School: 718 (2007), 792 (2008)
+- Oscar De La Hoya Animo Charter High School: 662 (2007), 726 (2008)
+- James A. Garfield High School: 553 (2007), 597 (2008)
+- Abraham Lincoln High School: 594 (2007), 609 (2008)
+- Woodrow Wilson High School: 582 (2007), 585 (2008)
+- Theodore Roosevelt High School: 557 (2007), 551 (2008)
+- Thomas Jefferson High School: 457 (2007), 516 (2008)
+- Santee Education Complex: nan (2007), 502 (2008)
+
+Now, I need to find the highest number in these two years. Starting with Francisco Bravo's 807 and 818—both are pretty high. Let me compare these with others.
+
+Marc and Eva Stern has 718 and 792. The second year is higher than the first but still lower than Bravo's numbers.
+
+Oscar De La Hoya Animo has lower numbers in both years compared to Bravo. James A. Garfield and Abraham Lincoln have even lower scores, so they're not contenders for the highest. Woodrow Wilson and Theodore Roosevelt are also below Bravo’s figures. Thomas Jefferson and Santee Education Complex have lower numbers as well.
+
+So, looking at all the 2007 and 2008 data points, Francisco Bravo Medical Magnet High School has the highest number both years with 807 in 2007 and 818 in 2008. No other school comes close to those figures before 2009.
+</think>
+
+The school with the highest numbers before 2009 is Francisco Bravo Medical Magnet High School.
+
+Final Answer: Francisco Bravo Medical Magnet High School
+===================Answer===================
+Francisco Bravo Medical Magnet High School

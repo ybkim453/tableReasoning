@@ -1,0 +1,58 @@
+===================Title===================
+AFL Cairns
+===================Table===================
+|    |   Year | Premiers                        | Score       | Runners Up                      | Score .1   |
+|---:|-------:|:--------------------------------|:------------|:--------------------------------|:-----------|
+|  0 |   2003 | Centrals Trinity Beach Bulldogs | 14.11 (95)  | North Cairns                    | 6.7 (43)   |
+|  1 |   2004 | Port Douglas Crocs              | 17.13 (115) | North Cairns Tigers             | 8.9 (57)   |
+|  2 |   2005 | Port Douglas Crocs              | 19.14 (128) | Cairns Saints                   | 4.11 (35)  |
+|  3 |   2006 | Manunda Hawks                   | 11.11 (77)  | Centrals Trinity Beach Bulldogs | 10.9 (69)  |
+|  4 |   2007 | Centrals Trinity Beach Bulldogs | 14.16 (100) | Cairns Saints                   | 11.2 (68)  |
+|  5 |   2008 | Cairns Saints                   | 12.15 (87)  | North Cairns Tigers             | 2.9 (21)   |
+|  6 |   2009 | South Cairns Cutters            | 9.11 (65)   | Cairns Saints                   | 9.4 (58)   |
+|  7 |   2010 | North Cairns Tigers             | 8.10 (58)   | Port Douglas Crocs              | 8.5 (53)   |
+|  8 |   2011 | Manunda Hawks                   | 11.8 (74)   | Port Douglas Crocs              | 6.9 (45)   |
+|  9 |   2012 | Cairns Saints                   | 17.6 (108)  | North Cairns Tigers             | 11.12 (78) |
+| 10 |   2013 | North Cairns Tigers             | 14.14 (98)  | Port Douglas Crocs              | 13.6 (84)  |
+===================Question===================
+which premier had the least number of points in their score?
+===================Text===================
+<think>
+Okay, so I need to figure out which premier had the least number of points in their score based on this table about AFL Cairns. Let me start by understanding what each column represents.
+
+The table has years from 2003 to 2013, and for each year, it lists the Premiers (the winning team), their score, the Runners Up, and their score as well. The scores are in a format like "14.11 (95)", which I think is goals.behinds (total points). So the number in parentheses is the total points.
+
+My task is to find the Premier with the least total points. That means I need to look at each year's Premiers' scores, extract the total points, compare them, and identify the smallest one.
+
+Let me list out each Premier and their corresponding score:
+
+- 2003: Centrals Trinity Beach Bulldogs - 14.11 (95)
+- 2004: Port Douglas Crocs - 17.13 (115)
+- 2005: Port Douglas Crocs - 19.14 (128)
+- 2006: Manunda Hawks - 11.11 (77)
+- 2007: Centrals Trinity Beach Bulldogs - 14.16 (100)
+- 2008: Cairns Saints - 12.15 (87)
+- 2009: South Cairns Cutters - 9.11 (65)
+- 2010: North Cairns Tigers - 8.10 (58)
+- 2011: Manunda Hawks - 11.8 (74)
+- 2012: Cairns Saints - 17.6 (108)
+- 2013: North Cairns Tigers - 14.14 (98)
+
+Now, I'll list just the total points for each Premier:
+
+95, 115, 128, 77, 100, 87, 65, 58, 74, 108, 98.
+
+Looking at these numbers, I need to find the smallest one. Let me sort them in ascending order:
+
+58, 65, 74, 77, 87, 95, 98, 100, 108, 115, 128.
+
+The smallest number here is 58, which corresponds to the 2010 Premiers, North Cairns Tigers, with a score of 8.10 (58).
+
+Wait, but I should double-check if there's any other Premier with a lower score. Looking back through the list, 58 is indeed the lowest. So North Cairns Tigers in 2010 had the least points as Premiers.
+</think>
+
+The premier with the least number of points in their score is North Cairns Tigers.
+
+Final Answer: North Cairns Tigers
+===================Answer===================
+North Cairns Tigers

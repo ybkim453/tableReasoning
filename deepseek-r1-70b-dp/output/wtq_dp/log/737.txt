@@ -1,0 +1,42 @@
+===================Title===================
+Great Officer of State
+===================Table===================
+|    |   Position | Officer                       | current officers                   | superseded by       | Royal Household     |
+|---:|-----------:|:------------------------------|:-----------------------------------|:--------------------|:--------------------|
+|  0 |          1 | Lord High Steward             | vacant                             | Justiciar           | Lord Steward        |
+|  1 |          2 | Lord High Chancellor          | The Rt Hon Chris Grayling, MP      | nan                 | nan                 |
+|  2 |          3 | Lord High Treasurer           | in commission                      | nan                 | nan                 |
+|  3 |          4 | Lord President of the Council | The Rt Hon Nick Clegg, MP          | nan                 | nan                 |
+|  4 |          5 | Lord Privy Seal               | The Rt Hon Andrew Lansley, CBE, MP | nan                 | nan                 |
+|  5 |          6 | Lord Great Chamberlain        | The Marquess of Cholmondeley       | Lord High Treasurer | Lord Chamberlain    |
+|  6 |          7 | Lord High Constable           | vacant                             | Earl Marshal        | Master of the Horse |
+|  7 |          8 | Earl Marshal                  | The Duke of Norfolk                | nan                 | Master of the Horse |
+|  8 |          9 | Lord High Admiral             | HRH The Duke of Edinburgh          | nan                 | nan                 |
+===================Question===================
+what officer is listed previous to lord high admiral?
+===================Text===================
+<think>
+Alright, so I need to figure out which officer is listed right before the Lord High Admiral in this table. Let's start by looking at the structure of the table provided.
+
+The table has several columns: Position, Officer, current officers, superseded by, and Royal Household. Each row represents a different Great Officer of State with their corresponding details.
+
+First, I'll look for the "Lord High Admiral" position to determine its position in the list. Scanning through the rows:
+
+- The first row (Position 1) is Lord High Steward.
+- Position 2: Lord High Chancellor
+- Position 3: Lord High Treasurer
+- Position 4: Lord President of the Council
+- Position 5: Lord Privy Seal
+- Position 6: Lord Great Chamberlain
+- Position 7: Lord High Constable
+- Position 8: Earl Marshal
+- Position 9: Lord High Admiral
+
+So, Lord High Admiral is at position number 9. The question asks for the officer listed previous to this, which would be the one just before position 9. That means I need to look at position 8.
+
+Looking back at position 8, the Officer column says "Earl Marshal" and the current officer is "The Duke of Norfolk." Therefore, Earl Marshal is the officer listed right before Lord High Admiral in this table.
+</think>
+
+Final Answer: Earl Marshal
+===================Answer===================
+Earl Marshal

@@ -1,0 +1,49 @@
+===================Title===================
+United States House of Representatives elections in Colorado, 2008
+===================Table===================
+|    |   District | Incumbent        | 2008 Status   | Democratic    | Republican       |
+|---:|-----------:|:-----------------|:--------------|:--------------|:-----------------|
+|  0 |          1 | Diana DeGette    | Re-election   | Diana DeGette | George Lilly     |
+|  1 |          2 | Mark Udall       | Open          | Jared Polis   | Scott Starin     |
+|  2 |          3 | John Salazar     | Re-election   | John Salazar  | Wayne Wolf       |
+|  3 |          4 | Marilyn Musgrave | Re-election   | Betsy Markey  | Marilyn Musgrave |
+|  4 |          5 | Doug Lamborn     | Re-election   | Hal Bidlack   | Doug Lamborn     |
+|  5 |          6 | Tom Tancredo     | Open          | Hank Eng      | Mike Coffman     |
+|  6 |          7 | Ed Perlmutter    | Re-election   | Ed Perlmutter | John W. Lerew    |
+===================Question===================
+ed perlmutter is how many districts away from mark udalls district
+===================Text===================
+<think>
+Alright, so I need to figure out how many districts apart Ed Perlmutter and Mark Udall are from each other based on the provided table. Let me start by looking at the table again.
+
+First, let's list out the districts and their incumbents:
+
+- District 1: Diana DeGette
+- District 2: Mark Udall
+- District 3: John Salazar
+- District 4: Marilyn Musgrave
+- District 5: Doug Lamborn
+- District 6: Tom Tancredo (but he's open, so maybe that doesn't matter)
+- District 7: Ed Perlmutter
+
+Wait, no, in the rows, each row represents a district, right? So looking at the table:
+
+Row 0 is District 1,
+Row 1 is District 2,
+Row 2 is District 3,
+and so on up to Row 6 which is District 7.
+
+So Mark Udall is in District 2 (second row), and Ed Perlmutter is in District 7 (seventh row). So their districts are numbered 2 and 7 respectively. 
+
+To find how many districts apart they are, I subtract the smaller number from the larger one: 7 - 2 = 5. But wait, does that mean there's a 5-district difference? Or do we count the number of steps between them?
+
+Let me think about it. If someone is in District 2 and another in District 7, moving from 2 to 3 is one step, then to 4 (two), 5 (three), 6 (four), and 7 (five). So that's actually a total of five steps between them, meaning they are five districts apart.
+
+Wait no, because the count of districts between them would be 7 - 2 = 5. But sometimes when people say "how many away," they might mean the number in between plus one. For example, from District 1 to District 3 is two districts apart (1 and 3), but there's one district in between (District 2). So maybe it's better to count the difference as 7 - 2 = 5, meaning five districts apart.
+
+Yes, I think that's correct. So Ed Perlmutter is in District 7, Mark Udall in District 2. The numerical difference is 5, so they are five districts apart.
+</think>
+
+Final Answer: 5
+===================Answer===================
+5

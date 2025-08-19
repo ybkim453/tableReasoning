@@ -1,0 +1,51 @@
+===================Title===================
+Ralph Jones
+===================Table===================
+|    | School   | Season   | Record   | Conference Record   | Place   | Postseason         |
+|---:|:---------|:---------|:---------|:--------------------|:--------|:-------------------|
+|  0 | Illinois | 1912–13  | 10–6     | 7–6                 | 5th     | nan                |
+|  1 | Illinois | 1913–14  | 9–4      | 7–3                 | 3rd     | nan                |
+|  2 | Illinois | 1914–15  | 16–0     | 12–0                | T1st    | National Champions |
+|  3 | Illinois | 1915–16  | 13–3     | 9–3                 | T2nd    | nan                |
+|  4 | Illinois | 1916–17  | 13–3     | 10–2                | T1st    | Big Ten Champions  |
+|  5 | Illinois | 1917–18  | 9–6      | 6–6                 | T4th    | nan                |
+|  6 | Illinois | 1918–19  | 6–8      | 5–7                 | 5th     | nan                |
+|  7 | Illinois | 1919–20  | 9–4      | 8–4                 | 3rd     | nan                |
+|  8 | Illinois | 1912–20  | 85–34    | 64–31               | –       | nan                |
+===================Question===================
+which year did they win more conference games, 1917-18 or 1915-16?
+===================Text===================
+<think>
+Alright, I need to figure out which year Ralph Jones' team won more conference games between 1917-18 and 1915-16 based on the provided table. Let me go through this step by step.
+
+First, I should locate both seasons in the table. The 1915–16 season is row 3, and the 1917–18 season is row 5. Wait, no, looking again, row 5 seems to be 1916-17, so actually, 1917-18 would be row 5 or maybe further down. Let me check each row carefully.
+
+Looking at the table:
+
+Row 0: 1912–13
+Row 1: 1913–14
+Row 2: 1914–15
+Row 3: 1915–16
+Row 4: 1916–17
+Row 5: 1917–18
+Row 6: 1918–19
+Row 7: 1919–20
+Row 8: Aggregate from 1912–20
+
+So, row 3 is the 1915–16 season and row 5 is 1917–18.
+
+Now, for each of these rows, I need to check the "Conference Record" column. 
+
+For 1915–16 (row 3), the conference record is 9–3.
+For 1917–18 (row 5), it's 6–6.
+
+Wait a second, I'm looking at row 5 and see that the Conference Record is 6-6. But wait, in row 4 (1916-17), the record was 10-2, which is better than both. So back to rows 3 and 5: row 3's conference record is 9–3 and row 5's is 6–6.
+
+So comparing these two, 9 wins vs. 6 wins: 1915-16 had more conference wins.
+</think>
+
+The team won more conference games in the 1915–16 season with a 9–3 record compared to the 1917–18 season's 6–6 record.
+
+Final Answer: 1915–16
+===================Answer===================
+1915-16

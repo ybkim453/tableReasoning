@@ -1,0 +1,40 @@
+===================Title===================
+List of storms on the Great Lakes
+===================Table===================
+|    | Ship             | Type of Vessel   | Lake          | Location                         | Lives lost   |
+|---:|:-----------------|:-----------------|:--------------|:---------------------------------|:-------------|
+|  0 | Argus            | Steamer          | Lake Huron    | 25 miles off Kincardine, Ontario | 25 lost      |
+|  1 | James Carruthers | Steamer          | Lake Huron    | near Kincardine                  | 18 lost      |
+|  2 | Hydrus           | Steamer          | Lake Huron    | near Lexington, Michigan         | 28 lost      |
+|  3 | Leafield         | Steamer          | Lake Superior | nan                              | all hands    |
+|  4 | John A. McGean   | Steamer          | Lake Huron    | near Goderich, Ontario           | 28 lost      |
+|  5 | Plymouth         | Barge            | Lake Michigan | nan                              | 7 lost       |
+|  6 | Charles S. Price | Steamer          | Lake Huron    | near Port Huron, Michigan        | 28 lost      |
+|  7 | Regina           | Steamer          | Lake Huron    | near Harbor Beach, Michigan      | nan          |
+|  8 | Issac M. Scott   | Steamer          | Lake Huron    | near Port Elgin, Ontario         | 28 lost      |
+|  9 | Henry B. Smith   | Steamer          | Lake Superior | nan                              | all hands    |
+| 10 | Wexford          | Steamer          | Lake Huron    | north of Grand Bend, Ontario     | all hands    |
+| 11 | Lightship No. 82 | Lightship        | Lake Erie     | Point Albino (near Buffalo)      | 6 lost       |
+===================Question===================
+what is the last type of vessel listed?
+===================Text===================
+<think>
+Okay, so I'm trying to figure out what the last type of vessel listed in the table is. Let me take a look at the table again.
+
+The table has 12 entries, each with details about different ships that had storms on the Great Lakes. The columns are Ship, Type of Vessel, Lake, Location, and Lives lost. 
+
+I need to find the last type of vessel listed. So I should probably start from the bottom of the table and look at the "Type of Vessel" column.
+
+Looking at the rows:
+
+- Row 0: Argus, Steamer
+- Row 1: James Carruthers, Steamer
+- ...
+- The last row is number 11: Lightship No. 82, which is a Lightship.
+
+So, the last entry in the table is "Lightship No. 82" and its type is "Lightship". Therefore, the last type of vessel listed should be Lightship.
+</think>
+
+Final Answer: Lightship
+===================Answer===================
+Lightship

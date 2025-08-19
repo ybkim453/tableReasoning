@@ -1,0 +1,95 @@
+===================Title===================
+List of football stadiums in France
+===================Table===================
+|    |   # | Stadium                          | Capacity   | City              | Region                      | Home Team                     |   Opened |
+|---:|----:|:---------------------------------|:-----------|:------------------|:----------------------------|:------------------------------|---------:|
+|  0 |   1 | Stade de France                  | 81,338     | Paris             | Île-de-France              | France national football team |     1998 |
+|  1 |   2 | Stade Vélodrome                 | 60,013     | Marseille         | Provence-Alpes-Côte d'Azur | Olympique de Marseille        |     1937 |
+|  2 |   3 | Grand Stade Lille Métropole     | 50,186     | Villeneuve-d'Ascq | Nord-Pas-de-Calais          | Lille OSC                     |     2012 |
+|  3 |   4 | Parc des Princes                 | 48,712     | Paris             | Île-de-France              | Paris Saint-Germain FC        |     1897 |
+|  4 |   5 | Stade Félix Bollaert            | 41,233     | Lens              | Nord-Pas-de-Calais          | RC Lens                       |     1932 |
+|  5 |   6 | Stade Gerland                    | 41,044     | Lyon              | Rhône-Alpes                | Olympique Lyonnais            |     1926 |
+|  6 |   7 | Stade de la Beaujoire            | 38,285     | Nantes            | Pays de la Loire            | FC Nantes Atlantique          |     1984 |
+|  7 |   8 | Stade Geoffroy-Guichard          | 37,587     | Saint-Étienne    | Rhône-Alpes                | AS Saint-Étienne             |     1931 |
+|  8 |   9 | Allianz Riviera                  | 35,624     | Nice              | Provence-Alpes-Côte d'Azur | OGC Nice                      |     2013 |
+|  9 |  10 | Stadium Municipal                | 35,575     | Toulouse          | Midi-Pyrénées             | Toulouse FC                   |     1937 |
+| 10 |  11 | Stade Chaban-Delmas              | 34,462     | Bordeaux          | Aquitaine                   | FC Girondins de Bordeaux      |     1938 |
+| 11 |  12 | Stade de la Mosson               | 32,939     | Montpellier       | Languedoc-Roussillon        | Montpellier HSC               |     1972 |
+| 12 |  13 | Stade de la Route de Lorient     | 31,127     | Rennes            | Brittany                    | Stade Rennais FC              |     1912 |
+| 13 |  14 | Stade de la Meinau               | 29,230     | Strasbourg        | Alsace                      | RC Strasbourg                 |     1914 |
+| 14 |  15 | Stade Municipal Saint-Symphorien | 26,700     | Metz              | Lorraine                    | FC Metz                       |     1923 |
+| 15 |  16 | Grand Stade du Havre             | 25,178     | Le Havre          | Upper Normandy              | Le Havre AC                   |     2012 |
+| 16 |  17 | MMArena                          | 25,000     | Le Mans           | Pays de la Loire            | Le Mans UC                    |     2011 |
+| 17 |  18 | Stade du Hainaut                 | 24,926     | Valenciennes      | Nord-Pas-de-Calais          | Valenciennes FC               |     2011 |
+| 18 |  19 | Stade de l'Abbé-Deschamps       | 23,467     | Auxerre           | Bourgogne                   | AJ Auxerre                    |     1918 |
+| 19 |  20 | Stade Louis Dugauguez            | 23,189     | Sedan             | Champagne-Ardenne           | Club Sportif Sedan Ardennes   |     2000 |
+| 20 |  21 | Stade Auguste-Delaune            | 21,684     | Reims             | Champagne-Ardenne           | Stade Reims                   |     1935 |
+| 21 |  22 | Stade Michel d'Ornano            | 21,500     | Caen              | Lower Normandy              | Stade Malherbe Caen           |     1993 |
+| 22 |  23 | Stade de l'Aube                  | 20,400     | Troyes            | Champagne-Ardenne           | Troyes AC                     |     1956 |
+| 23 |  24 | Stade Marcel Picot               | 20,087     | Tomblaine         | Lorraine                    | AS Nancy                      |     1926 |
+| 24 |  25 | Stade des Alpes                  | 20,068     | Grenoble          | Rhône-Alpes                | Grenoble Foot 38              |     2008 |
+| 25 |  26 | Stade Auguste Bonal              | 20,025     | Montbéliard      | Franche-Comté              | FC Sochaux-Montbéliard       |     2000 |
+| 26 |  27 | Stade Sébastien Charléty       | 20,000     | Paris             | Île-de-France              | Paris FC                      |     1938 |
+===================Question===================
+which stadium seats the least amount of people?
+===================Text===================
+<think>
+Okay, so I need to determine which stadium in France has the least seating capacity based on the provided table. Let's start by understanding what each column represents. The table lists various stadiums with their capacities, cities, regions, home teams, and the year they opened.
+
+First, I should focus on the "Capacity" column since that's what the question is about. My goal is to find the smallest number in that column. To do this, I'll go through each row one by one and note down the capacities.
+
+Looking at the table:
+
+1. Stade de France: 81,338
+2. Stade Vélodrome: 60,013
+3. Grand Stade Lille Métropole: 50,186
+4. Parc des Princes: 48,712
+5. Stade Félix Bollaert: 41,233
+6. Stade Gerland: 41,044
+7. Stade de la Beaujoire: 38,285
+8. Stade Geoffroy-Guichard: 37,587
+9. Allianz Riviera: 35,624
+10. Stadium Municipal: 35,575
+11. Stade Chaban-Delmas: 34,462
+12. Stade de la Mosson: 32,939
+13. Stade de la Route de Lorient: 31,127
+14. Stade de la Meinau: 29,230
+15. Stade Municipal Saint-Symphorien: 26,700
+16. Grand Stade du Havre: 25,178
+17. MMArena: 25,000
+18. Stade du Hainaut: 24,926
+19. Stade de l'Abbé-Deschamps: 23,467
+20. Stade Louis Dugauguez: 23,189
+21. Stade Auguste-Delaune: 21,684
+22. Stade Michel d'Ornano: 21,500
+23. Stade de l'Aube: 20,400
+24. Stade Marcel Picot: 20,087
+25. Stade des Alpes: 20,068
+26. Stade Auguste Bonal: 20,025
+27. Stade Sébastien Charléty: 20,000
+
+Now, I'll list out the capacities in order to find the smallest:
+
+Looking through these numbers, I can see that they start from around 81k and go down. The lower end of the spectrum includes stadiums with capacities just over 20,000.
+
+Starting from the bottom of the list:
+
+- Stade Sébastien Charléty: 20,000
+- Stade Auguste Bonal: 20,025 (slightly higher than 20k)
+- Stade des Alpes: 20,068
+- Stade Marcel Picot: 20,087
+- Stade de l'Aube: 20,400
+
+So the smallest capacity is 20,000 at Stade Sébastien Charléty. However, I should double-check to make sure there isn't a stadium with an even lower capacity that I might have missed.
+
+Looking back through all the capacities again:
+
+- The next one above 20k is MMArena at 25,000 and Grand Stade du Havre at 25,178.
+- Then up from there are others like Stadium Municipal at 35k, which is higher.
+
+No, it seems that Stade Sébastien Charléty indeed has the lowest capacity of exactly 20,000. There's no stadium in the list with a lower number than that. So I can confidently say that this stadium seats the least amount of people.
+</think>
+
+Final Answer: Stade Sébastien Charléty
+===================Answer===================
+Stade Sébastien Charléty

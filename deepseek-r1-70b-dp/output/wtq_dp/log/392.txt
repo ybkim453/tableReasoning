@@ -1,0 +1,42 @@
+===================Title===================
+Ralph Jones
+===================Table===================
+|    | School   | Season   | Record   | Conference Record   | Place   | Postseason         |
+|---:|:---------|:---------|:---------|:--------------------|:--------|:-------------------|
+|  0 | Illinois | 1912–13  | 10–6     | 7–6                 | 5th     | nan                |
+|  1 | Illinois | 1913–14  | 9–4      | 7–3                 | 3rd     | nan                |
+|  2 | Illinois | 1914–15  | 16–0     | 12–0                | T1st    | National Champions |
+|  3 | Illinois | 1915–16  | 13–3     | 9–3                 | T2nd    | nan                |
+|  4 | Illinois | 1916–17  | 13–3     | 10–2                | T1st    | Big Ten Champions  |
+|  5 | Illinois | 1917–18  | 9–6      | 6–6                 | T4th    | nan                |
+|  6 | Illinois | 1918–19  | 6–8      | 5–7                 | 5th     | nan                |
+|  7 | Illinois | 1919–20  | 9–4      | 8–4                 | 3rd     | nan                |
+|  8 | Illinois | 1912–20  | 85–34    | 64–31               | –       | nan                |
+===================Question===================
+how many times did he place not in the top 3?
+===================Text===================
+<think>
+Okay, so I need to figure out how many times Ralph Jones didn't place in the top 3 based on the given table. Let me start by looking at each season and checking the "Place" column.
+
+Starting from the first row (1912–13), his place is 5th. That's not top 3, so that's one count.
+
+Next, 1913–14: he was 3rd. That's within the top 3, so no count here.
+
+1914–15 shows T1st, which means tied for first. Definitely in the top 3.
+
+In 1915–16, it's T2nd, still within top 3.
+
+1916–17 is T1st again, so that's a top placement.
+
+1917–18: here he's T4th. That's outside the top 3, so another count.
+
+Looking at 1918–19, his place is 5th, which isn't in the top 3 either. So that's a third instance.
+
+Then there's the last row summarizing from 1912–20, but I think that's just an overall record and doesn't affect the placement counts since it lacks a specific place value.
+
+So adding up the instances where he wasn't in the top 3: 5th, T4th, and 5th again. That makes three times.
+</think>
+
+Final Answer: 3
+===================Answer===================
+3

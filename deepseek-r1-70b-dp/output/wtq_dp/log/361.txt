@@ -1,0 +1,62 @@
+===================Title===================
+Super League XVIV
+===================Table===================
+|    | Team                                     | Stadium                         | Capacity   | City/Area                                    |
+|---:|:-----------------------------------------|:--------------------------------|:-----------|:---------------------------------------------|
+|  0 | Bradford Bulls (2014 season)             | Provident Stadium               | 27,000     | Bradford, West Yorkshire                     |
+|  1 | Castleford Tigers (2014 season)          | The Wish Communications Stadium | 11,750     | Castleford, West Yorkshire                   |
+|  2 | Catalans Dragons (2014 season)           | Stade Gilbert Brutus            | 14,000     | Perpignan, Pyrénées-Orientales, France     |
+|  3 | Huddersfield Giants (2014 season)        | John Smith's Stadium            | 24,544     | Huddersfield, West Yorkshire                 |
+|  4 | Hull (2014 season)                       | Kingston Communications Stadium | 25,404     | Kingston upon Hull, East Riding of Yorkshire |
+|  5 | Hull Kingston Rovers (2014 season)       | MS3 Craven Park                 | 9,471      | Kingston upon Hull, East Riding of Yorkshire |
+|  6 | Leeds Rhinos (2014 season)               | Headingley Carnegie Stadium     | 22,250     | Leeds, West Yorkshire                        |
+|  7 | London Broncos (2014 season)             | Twickenham Stoop                | 12,700     | Twickenham, London                           |
+|  8 | Salford City Reds (2014 season)          | Salford City Stadium            | 12,000     | Salford, Greater Manchester                  |
+|  9 | St Helens RLFC (2014 season)             | Langtree Park                   | 18,000     | St Helens, Merseyside                        |
+| 10 | Wakefield Trinity Wildcats (2014 season) | Rapid Solicitors Stadium        | 11,000     | Wakefield, West Yorkshire                    |
+| 11 | Warrington Wolves (2014 season)          | Halliwell Jones Stadium         | 15,500     | Warrington, Cheshire                         |
+| 12 | Widnes Vikings (2014 season)             | The Select Security Stadium     | 13,500     | Widnes, Cheshire, England                    |
+| 13 | Wigan Warriors (2014 season)             | DW Stadium                      | 25,138     | Wigan, Greater Manchester                    |
+===================Question===================
+how many stadiums are not in west yorkshire?
+===================Text===================
+<think>
+Okay, so I need to figure out how many stadiums in Super League XVIV are not located in West Yorkshire. Let me start by looking at each team and their respective stadium locations.
+
+First, I'll go through the table row by row:
+
+1. Bradford Bulls - Provident Stadium is in Bradford, West Yorkshire.
+2. Castleford Tigers - Their stadium is in Castleford, also West Yorkshire.
+3. Catalans Dragons - They're based in Perpignan, France. That's definitely outside of West Yorkshire.
+4. Huddersfield Giants - Located in Huddersfield, which is part of West Yorkshire.
+5. Hull - Kingston Communications Stadium is in Kingston upon Hull, East Riding of Yorkshire. So that's not West Yorkshire.
+6. Hull Kingston Rovers - Their stadium is also in Kingston upon Hull, same as above, so not West Yorkshire.
+7. Leeds Rhinos - Headingley Carnegie Stadium is in Leeds, which is part of West Yorkshire.
+8. London Broncos - They play at Twickenham Stoop in Twickenham, London. That's outside West Yorkshire for sure.
+9. Salford City Reds - Their stadium is in Salford, Greater Manchester. Not West Yorkshire.
+10. St Helens RLFC - Located in St Helens, Merseyside. So that's another one outside.
+11. Wakefield Trinity Wildcats - They're in Wakefield, which is part of West Yorkshire.
+12. Warrington Wolves - Based in Warrington, Cheshire. Not in West Yorkshire.
+13. Widnes Vikings - Their stadium is in Widnes, Cheshire, England. So again, not West Yorkshire.
+14. Wigan Warriors - DW Stadium is in Wigan, Greater Manchester. That's outside too.
+
+Now let me count how many are not in West Yorkshire:
+
+- Catalans Dragons: 1
+- Hull: 2
+- Hull Kingston Rovers: 3
+- London Broncos:4
+- Salford City Reds:5
+- St Helens RLFC:6
+- Warrington Wolves:7
+- Widnes Vikings:8
+- Wigan Warriors:9
+
+Wait, that's 9 stadiums. Let me check if I missed any:
+
+From the list above, yes, each of these teams is outside West Yorkshire. So total 9.
+</think>
+
+Final Answer: 9
+===================Answer===================
+9

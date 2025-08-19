@@ -1,0 +1,73 @@
+===================Title===================
+Athletics at the 2002 Asian Games
+===================Table===================
+|    | Rank   | Nation             |   Gold |   Silver |   Bronze |   Total |
+|---:|:-------|:-------------------|-------:|---------:|---------:|--------:|
+|  0 | 1      | China (CHN)        |     14 |       14 |       13 |      41 |
+|  1 | 2      | India (IND)        |      7 |        6 |        4 |      17 |
+|  2 | 3      | Saudi Arabia (KSA) |      7 |        1 |        0 |       8 |
+|  3 | 4      | Kazakhstan (KAZ)   |      3 |        4 |        5 |      12 |
+|  4 | 5      | South Korea (KOR)  |      3 |        2 |        1 |       6 |
+|  5 | 6      | Japan (JPN)        |      2 |       13 |        8 |      23 |
+|  6 | 7      | Bahrain (BRN)      |      2 |        1 |        1 |       4 |
+|  7 | 8      | Sri Lanka (SRI)    |      2 |        0 |        2 |       4 |
+|  8 | 9      | Qatar (QAT)        |      1 |        4 |        3 |       8 |
+|  9 | 10     | Thailand (THA)     |      1 |        1 |        2 |       4 |
+| 10 | 11     | Kyrgyzstan (KGZ)   |      1 |        1 |        0 |       2 |
+| 11 | 12     | Kuwait (KUW)       |      1 |        0 |        0 |       1 |
+| 12 | 12     | North Korea (PRK)  |      1 |        0 |        0 |       1 |
+| 13 | 14     | Uzbekistan (UZB)   |      0 |        1 |        3 |       4 |
+| 14 | 15     | Iran (IRI)         |      0 |        1 |        0 |       1 |
+| 15 | Total  | Total              |     45 |       49 |       42 |     136 |
+===================Question===================
+how many countries have less than 10 total medals?
+===================Text===================
+<think>
+Okay, so I need to figure out how many countries have less than 10 total medals based on the given table for Athletics at the 2002 Asian Games. Let me go through each step carefully.
+
+First, I'll look at the table structure. It has columns for Rank, Nation, Gold, Silver, Bronze, and Total. The rows list various nations along with their medal counts. My task is to count how many countries have a total medal count that's less than 10.
+
+I'll start by examining each row except the last one labeled "Total", since that's the overall sum and not a country. For each nation, I'll check the "Total" column. If the number there is less than 10, I'll note it down.
+
+Let me go through them one by one:
+
+1. **China (CHN)**: Total is 41. That's way above 10.
+2. **India (IND)**: Total is 17. Still more than 10.
+3. **Saudi Arabia (KSA)**: Total is 8. Okay, that's less than 10. So that's one country.
+4. **Kazakhstan (KAZ)**: Total is 12. More than 10.
+5. **South Korea (KOR)**: Total is 6. Less than 10. That's two countries now.
+6. **Japan (JPN)**: Total is 23. Above 10.
+7. **Bahrain (BRN)**: Total is 4. Less than 10. Now three countries.
+8. **Sri Lanka (SRI)**: Total is 4. Also less than 10, making it four.
+9. **Qatar (QAT)**: Total is 8. That's five.
+10. **Thailand (THA)**: Total is 4. Six now.
+11. **Kyrgyzstan (KGZ)**: Total is 2. Seven countries.
+12. **Kuwait (KUW)**: Total is 1. Eight.
+13. **North Korea (PRK)**: Total is 1. Nine countries here.
+14. **Uzbekistan (UZB)**: Total is 4. That's ten countries.
+15. **Iran (IRI)**: Total is 1. Now eleven.
+
+Wait, but looking back at the table, I see that both Kuwait and North Korea are tied at Rank 12 with a total of 1 each. So each of them individually has less than 10. Similarly, Uzbekistan has 4, Iran has 1. So adding those up:
+
+- Saudi Arabia (8)
+- South Korea (6)
+- Bahrain (4)
+- Sri Lanka (4)
+- Qatar (8)
+- Thailand (4)
+- Kyrgyzstan (2)
+- Kuwait (1)
+- North Korea (1)
+- Uzbekistan (4)
+- Iran (1)
+
+Let me count them: 1, 2, ..., up to eleven. That seems right because each of these countries has a total under 10.
+
+I need to make sure I didn't miss any or double-count. Let's recount:
+
+From the list above, that's 11 distinct countries with totals less than 10.
+</think>
+
+Final Answer: 11
+===================Answer===================
+11

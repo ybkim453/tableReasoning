@@ -1,0 +1,29 @@
+===================Title===================
+Equestrian at the 1960 Summer Olympics
+===================Table===================
+|    |   Rank | Nation              |   Gold |   Silver |   Bronze |   Total |
+|---:|-------:|:--------------------|-------:|---------:|---------:|--------:|
+|  0 |      1 | Australia (AUS)     |      2 |        1 |        0 |       3 |
+|  1 |      2 | Italy (ITA)         |      1 |        1 |        1 |       3 |
+|  2 |      3 | Germany (EUA)       |      1 |        0 |        1 |       2 |
+|  3 |      4 | Soviet Union (URS)  |      1 |        0 |        0 |       1 |
+|  4 |      5 | Switzerland (SUI)   |      0 |        2 |        1 |       3 |
+|  5 |      6 | United States (USA) |      0 |        1 |        0 |       1 |
+|  6 |      7 | Great Britain (GBR) |      0 |        0 |        1 |       1 |
+|  7 |      7 | France (FRA)        |      0 |        0 |        1 |       1 |
+===================Question===================
+how many total medals did italy win?
+===================Text===================
+<think>
+Alright, so I need to figure out how many total medals Italy won in the Equestrian events at the 1960 Summer Olympics based on the provided table.
+
+First, I'll look through each row of the table and find the one that represents Italy. Scanning through the 'Nation' column, I see that Italy is abbreviated as ITA. Looking at the corresponding row, which is the second one (index 1), it shows the medals won by Italy.
+
+In this row, under the Gold column, there's a 1. That means Italy won 1 gold medal. Then, moving to Silver, there's also a 1, indicating 1 silver medal was won. Next, under Bronze, there's another 1, so that's 1 bronze medal as well.
+
+To find the total number of medals, I'll add up all these individual medals: 1 (Gold) + 1 (Silver) + 1 (Bronze). That adds up to a total of 3 medals won by Italy in Equestrian events at those Olympics.
+</think>
+
+Final Answer: 3
+===================Answer===================
+3

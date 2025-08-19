@@ -1,0 +1,170 @@
+===================Title===================
+Marek Plawgo
+===================Table===================
+|    |   Year | Competition                   | Venue                      | Position   | Event         | Notes          |
+|---:|-------:|:------------------------------|:---------------------------|:-----------|:--------------|:---------------|
+|  0 |   1999 | European Junior Championships | Riga, Latvia               | 4th        | 400 m hurdles | 52.17          |
+|  1 |   2000 | World Junior Championships    | Santiago, Chile            | 1st        | 400 m hurdles | 49.23          |
+|  2 |   2001 | World Championships           | Edmonton, Canada           | 18th (sf)  | 400 m hurdles | 49.80          |
+|  3 |   2001 | Universiade                   | Beijing, China             | 8th        | 400 m hurdles | 49.68          |
+|  4 |   2002 | European Indoor Championships | Vienna, Austria            | 1st        | 400 m         | 45.39 (CR, NR) |
+|  5 |   2002 | European Indoor Championships | Vienna, Austria            | 1st        | 4x400 m relay | 3:05.50 (CR)   |
+|  6 |   2002 | European Championships        | Munich, Germany            | 4th        | 400 m         | 45.40          |
+|  7 |   2002 | European Championships        | Munich, Germany            | 8th        | 4x400 m relay | DQ             |
+|  8 |   2003 | World Indoor Championships    | Birmingham, United Kingdom | 7th (sf)   | 400 m         | 46.82          |
+|  9 |   2003 | World Indoor Championships    | Birmingham, United Kingdom | 3rd        | 4x400 m relay | 3:06.61        |
+| 10 |   2003 | European U23 Championships    | Bydgoszcz, Poland          | 1st        | 400 m hurdles | 48.45          |
+| 11 |   2003 | European U23 Championships    | Bydgoszcz, Poland          | 1st        | 4x400 m relay | 3:03.32        |
+| 12 |   2004 | Olympic Games                 | Athens, Greece             | 6th        | 400 m hurdles | 49.00          |
+| 13 |   2004 | Olympic Games                 | Athens, Greece             | 10th (h)   | 4x400 m relay | 3:03.69        |
+| 14 |   2006 | European Championships        | Gothenburg, Sweden         | 2nd        | 400 m hurdles | 48.71          |
+| 15 |   2007 | World Championships           | Osaka, Japan               | 3rd        | 400 m hurdles | 48.12 (NR)     |
+| 16 |   2007 | World Championships           | Osaka, Japan               | 3rd        | 4x400 m relay | 3:00.05        |
+| 17 |   2008 | Olympic Games                 | Beijing, China             | 6th        | 400 m hurdles | 48.42          |
+| 18 |   2008 | Olympic Games                 | Beijing, China             | 7th        | 4x400 m relay | 3:00.32        |
+| 19 |   2012 | European Championships        | Helsinki, Finland          | 18th (sf)  | 400 m hurdles | 50.77          |
+===================Question===================
+what are the number of times the 400 m hurdles was listed as the event?
+===================Text===================
+<think>
+Okay, so I need to figure out how many times the 400 m hurdles event was listed in Marek Plawgo's table. Let me go through each row one by one.
+
+Starting from the top:
+
+Row 0: Event is 400 m hurdles.
+Row 1: Also 400 m hurdles.
+Row 2: Again, 400 m hurdles.
+Row 3: 400 m hurdles once more.
+Row 4: This one is 400 m, so not counting it for hurdles.
+Row 5: 4x400 m relay. Not relevant here.
+Row 6: Back to 400 m, so nope.
+Row 7: Relay again, skip.
+Row 8: 400 m, no hurdles.
+Row 9: Relay, not needed.
+Row 10: 400 m hurdles. Count it.
+Row 11: Relay, so no.
+Row 12: 400 m hurdles again.
+Row 13: Relay, skip.
+Row 14: 400 m hurdles.
+Row 15: He's in the 400 m hurdles here too.
+Row 16: Wait, this is 4x400 relay. So not counting.
+Row 17: Again, relay, so no.
+Row 18: Back to 400 m hurdles.
+Row 19: Last one, 400 m hurdles.
+
+Wait, let me count how many times I said "count it" or noted it's 400 m hurdles.
+
+Looking again:
+
+Rows 0-3: That's four times.
+
+Then rows 10,12,14,15,18,19. Let's see:
+
+Row 10: Yes.
+Row12: Yes.
+Row14: Yes.
+Row15: Yes, as per event column.
+Wait, row15 is 400 m hurdles? No, in the table it says 400 m hurdles for row15.
+
+Wait no, checking the data:
+
+Looking back, maybe I miscounted. Let me list each row's event and see.
+
+Row 0: 400m hurdles
+Row1: same
+Row2: same
+Row3: same
+Row4: 400m (no hurdles)
+Row5: relay
+Row6: 400m
+Row7: relay
+Row8: 400m
+Row9: relay
+Row10: 400m hurdles
+Row11: relay
+Row12: 400m hurdles
+Row13: relay
+Row14: 400m hurdles
+Row15: 400m hurdles (event column says so)
+Wait, no, in row15 the event is "400 m hurdles" as per the table.
+Row16: relay
+Row17: relay
+Row18: Wait, actually looking at Row17's event: it's 4x400m relay? Or 400m hurdles?
+
+Wait, checking the table again:
+
+Looking back at the table provided:
+
+At row 15, Event is "400 m hurdles", yes.
+
+Then rows 16 and 17 are relays.
+
+Row18 in the table corresponds to index 17: event is 4x400 m relay.
+
+So no, that's not 400m hurdles.
+
+Wait, perhaps I made a mistake earlier. Let me recount:
+
+Let me list each row where Event is exactly "400 m hurdles".
+
+Rows:
+
+0: Yes
+
+1: Yes
+
+2: Yes
+
+3: Yes
+
+10: Yes
+
+12: Yes
+
+14: Yes
+
+15: Yes
+
+Also, what about row19? In the table, it's event 400m hurdles. So that's another one.
+
+Wait no, in row19, Event is "400 m hurdles" as per the table data.
+
+So rows: 0,1,2,3,10,12,14,15,19.
+
+That's 9 times.
+
+But wait, let me count:
+
+Row indices from 0 to 19. Let me list each event:
+
+- Row 0: 400 m hurdles
+Count=1
+
+- Row1: same → 2
+
+- Row2: same →3
+
+- Row3: same→4
+
+- Row10: same→5
+
+- Row12: same→6
+
+- Row14: same→7
+
+- Row15: same→8
+
+- Row19: same→9.
+
+Wait, no. Wait in the table, row 19's event is "400 m hurdles"?
+
+Looking back at the data:
+
+Row 19: Event →"400 m hurdles". So yes, that's the ninth occurrence.
+
+So total of 9 times.
+</think>
+
+Final Answer: 9
+===================Answer===================
+10

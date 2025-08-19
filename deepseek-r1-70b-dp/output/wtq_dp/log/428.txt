@@ -1,0 +1,35 @@
+===================Title===================
+Nadia Fanchini
+===================Table===================
+|    |   Season |   Age | Overall                  | Slalom                   | Giant\nSlalom            | Super G                  | Downhill                 | Combined                 |
+|---:|---------:|------:|:-------------------------|:-------------------------|:-------------------------|:-------------------------|:-------------------------|:-------------------------|
+|  0 |     2004 |    17 | 112                      | –                        | –                        | 51                       | –                        | —                        |
+|  1 |     2005 |    18 | 37                       | –                        | 27                       | 18                       | 49                       | —                        |
+|  2 |     2006 |    19 | 22                       | –                        | 18                       | 37                       | 15                       | —                        |
+|  3 |     2007 |    20 | 33                       | –                        | 50                       | 15                       | 23                       | —                        |
+|  4 |     2008 |    21 | 38                       | –                        | –                        | 35                       | 13                       | —                        |
+|  5 |     2009 |    22 | 9                        | –                        | 40                       | 2                        | 5                        | 50                       |
+|  6 |     2010 |    23 | 28                       | –                        | –                        | 13                       | 23                       | —                        |
+|  7 |     2011 |    24 | Injured, did not compete | Injured, did not compete | Injured, did not compete | Injured, did not compete | Injured, did not compete | Injured, did not compete |
+|  8 |     2012 |    25 | 75                       | –                        | 28                       | –                        | –                        | —                        |
+|  9 |     2013 |    26 | 37                       | –                        | 17                       | 28                       | 30                       | —                        |
+===================Question===================
+how many total seasons are listed?
+===================Text===================
+<think>
+Okay, so I need to figure out how many total seasons are listed for Nadia Fanchini in the given table. Let me start by looking at the table structure.
+
+The table has a header row with categories like Season, Age, Overall, Slalom, Giant Slalom, Super G, Downhill, and Combined. Each subsequent row represents data for each season she participated in or was injured during.
+
+Looking at the rows, I see that they are indexed from 0 to 9. That means there are 10 rows of data. But wait, does each row correspond to a unique season? Let me check the Season column.
+
+The first row (index 0) is for Season 2004 when she was 17 years old. Then it goes up year by year: 2005, 2006, and so on until 2013. Each index increment corresponds to one season. 
+
+So from Season 2004 (row 0) through Season 2013 (row 9), that's a span of 10 seasons. I should count each row as one season regardless of whether she competed or was injured because the question is about how many seasons are listed, not how many she actively participated in.
+
+Therefore, the total number of seasons listed is 10.
+</think>
+
+Final Answer: 10
+===================Answer===================
+10

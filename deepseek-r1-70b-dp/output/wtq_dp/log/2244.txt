@@ -1,0 +1,46 @@
+===================Title===================
+1995 U.S. Open (golf)
+===================Table===================
+|    | Place   | Player         | Country       | Score           | To par   | Money ($)   |
+|---:|:--------|:---------------|:--------------|:----------------|:---------|:------------|
+|  0 | 1       | Corey Pavin    | United States | 72-69-71-68=280 | E        | 350,000     |
+|  1 | 2       | Greg Norman    | Australia     | 68-67-74-73=282 | +2       | 207,000     |
+|  2 | 3       | Tom Lehman     | United States | 70-72-67-74=283 | +3       | 131,974     |
+|  3 | T4      | Bill Glasson   | United States | 69-70-76-69=284 | +4       | 66,633      |
+|  4 | T4      | Jay Haas       | United States | 70-73-72-69=284 | +4       | 66,633      |
+|  5 | T4      | Neal Lancaster | United States | 70-72-77-65=284 | +4       | 66,633      |
+|  6 | T4      | Davis Love III | United States | 72-68-73-71=284 | +4       | 66,633      |
+|  7 | T4      | Jeff Maggert   | United States | 69-72-77-66=284 | +4       | 66,633      |
+|  8 | T4      | Phil Mickelson | United States | 68-70-72-74=284 | +4       | 66,633      |
+|  9 | T10     | Frank Nobilo   | New Zealand   | 72-72-70-71=285 | +5       | 44,184      |
+| 10 | T10     | Vijay Singh    | Fiji          | 70-71-72-72=285 | +5       | 44,184      |
+| 11 | T10     | Bob Tway       | United States | 69-69-72-75=285 | +5       | 44,184      |
+===================Question===================
+who is the last player on the list with a place finish of t10?
+===================Text===================
+<think>
+Okay, so I need to figure out who the last player is on the list with a place finish of T10. Let me start by looking at the table provided.
+
+The table lists players from the 1995 U.S. Open golf tournament. Each row has details about their placement, score, and other info. My focus is on the "Place" column, specifically those with a "T10" finish.
+
+Looking through the list:
+
+- The first player is Corey Pavin in 1st place.
+- Then there's Greg Norman in 2nd.
+- Tom Lehman comes in 3rd.
+- Next, several players are tied for 4th (T4), which are Bill Glasson, Jay Haas, Neal Lancaster, Davis Love III, Jeff Maggert, and Phil Mickelson.
+
+After T4, I see three players listed under T10:
+
+1. Frank Nobilo from New Zealand with a score of 285.
+2. Vijay Singh from Fiji, also with 285.
+3. Bob Tway from the United States, same score.
+
+The question is asking for the last player on the list with a T10 finish. So I need to check their positions in the table. Frank Nobilo is at index 9, Vijay Singh at 10, and Bob Tway at 11. Since indexing starts at 0, Bob Tway is the last one listed.
+
+Therefore, the last player with a T10 finish is Bob Tway.
+</think>
+
+Final Answer: Bob Tway
+===================Answer===================
+Bob Tway

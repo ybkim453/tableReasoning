@@ -1,0 +1,76 @@
+===================Title===================
+AFL Cairns
+===================Table===================
+|    |   Year | Premiers                        | Score       | Runners Up                      | Score .1   |
+|---:|-------:|:--------------------------------|:------------|:--------------------------------|:-----------|
+|  0 |   2003 | Centrals Trinity Beach Bulldogs | 14.11 (95)  | North Cairns                    | 6.7 (43)   |
+|  1 |   2004 | Port Douglas Crocs              | 17.13 (115) | North Cairns Tigers             | 8.9 (57)   |
+|  2 |   2005 | Port Douglas Crocs              | 19.14 (128) | Cairns Saints                   | 4.11 (35)  |
+|  3 |   2006 | Manunda Hawks                   | 11.11 (77)  | Centrals Trinity Beach Bulldogs | 10.9 (69)  |
+|  4 |   2007 | Centrals Trinity Beach Bulldogs | 14.16 (100) | Cairns Saints                   | 11.2 (68)  |
+|  5 |   2008 | Cairns Saints                   | 12.15 (87)  | North Cairns Tigers             | 2.9 (21)   |
+|  6 |   2009 | South Cairns Cutters            | 9.11 (65)   | Cairns Saints                   | 9.4 (58)   |
+|  7 |   2010 | North Cairns Tigers             | 8.10 (58)   | Port Douglas Crocs              | 8.5 (53)   |
+|  8 |   2011 | Manunda Hawks                   | 11.8 (74)   | Port Douglas Crocs              | 6.9 (45)   |
+|  9 |   2012 | Cairns Saints                   | 17.6 (108)  | North Cairns Tigers             | 11.12 (78) |
+| 10 |   2013 | North Cairns Tigers             | 14.14 (98)  | Port Douglas Crocs              | 13.6 (84)  |
+===================Question===================
+which runner up had the top score?
+===================Text===================
+<think>
+Okay, so I need to figure out which runner-up had the top score from the given AFL Cairns table. Let's start by understanding what each part of the table represents.
+
+The table has columns for Year, Premiers, Score, Runners Up, and another column labeled Score.1. It looks like each row corresponds to a different year, listing the premiers (the winners) and runners-up (the second place) along with their scores in those years.
+
+My task is to find which runner-up team had the highest score among all the runners-up listed in the table. So I should focus on the "Runners Up" column and their corresponding scores in the "Score .1" column.
+
+I'll go through each year one by one, noting down the runners-up and their scores:
+
+- 2003: Runners-up are North Cairns with a score of 6.7 (43).
+- 2004: Runners-up are North Cairns Tigers with a score of 8.9 (57). Wait, in 2003 they were just North Cairns, but here it's North Cairns Tigers. Is that the same team? Probably yes, maybe the name changed or was expanded.
+- 2005: Runners-up are Cairns Saints, 4.11 (35).
+- 2006: Runners-up are Centrals Trinity Beach Bulldogs, 10.9 (69).
+- 2007: Runners-up again are Cairns Saints with a score of 11.2 (68). So that's two times for them.
+- 2008: Runners-up are North Cairns Tigers, 2.9 (21).
+- 2009: Runners-up are Cairns Saints, 9.4 (58).
+- 2010: Runners-up are Port Douglas Crocs with 8.5 (53). Wait, in previous years they were the premiers, so now runners-up.
+- 2011: Runners-up again are Port Douglas Crocs, this time with 6.9 (45).
+- 2012: Runners-up are North Cairns Tigers, 11.12 (78). Hmm, that's a higher score than some others I've seen.
+- 2013: Runners-up are Port Douglas Crocs again, but their score is 13.6 (84).
+
+Wait, in 2013, the runners-up are Port Douglas Crocs with a score of 13.6 (84). Let me calculate that to be sure. In Australian football scores, each goal is worth 6 points and each behind is 1 point. So 13 goals and 6 behinds would be 13*6 + 6 = 78 + 6 = 84. That's correct.
+
+Now I'll list out all the runners-up scores:
+
+- North Cairns: 43 (2003) and 57 (2004), but in 2008, they scored 21 as Tigers.
+Wait, actually, looking back at 2004, it's North Cairns Tigers with 57. In 2003, just North Cairns with 43.
+
+But I think the team names might vary slightly each year, so perhaps treating them as the same team for the purpose of this question.
+
+So compiling all runners-up scores:
+
+1. 2003: North Cairns - 43
+2. 2004: North Cairns Tigers - 57
+3. 2005: Cairns Saints - 35
+4. 2006: Centrals Trinity Beach Bulldogs - 69
+5. 2007: Cairns Saints - 68
+6. 2008: North Cairns Tigers - 21
+7. 2009: Cairns Saints - 58
+8. 2010: Port Douglas Crocs - 53
+9. 2011: Port Douglas Crocs - 45
+10. 2012: North Cairns Tigers - 78
+11. 2013: Port Douglas Crocs - 84
+
+Now, I need to find the highest score among these.
+
+Looking at the numbers:
+
+- The scores are as follows:
+43, 57, 35, 69, 68, 21, 58, 53, 45, 78, 84.
+
+The highest number here is 84, which was achieved by Port Douglas Crocs in 2013. So the runner-up with the top score is Port Douglas Crocs with a score of 84.
+</think>
+
+Final Answer: Port Douglas Crocs
+===================Answer===================
+Port Douglas Crocs

@@ -1,0 +1,54 @@
+===================Title===================
+World War II casualties of Poland
+===================Table===================
+|    | Description Losses                | 1939/40   | 1940/41   | 1941/42   | 1942/43   | 1943/44   | 1944/45   | Total     |
+|---:|:----------------------------------|:----------|:----------|:----------|:----------|:----------|:----------|:----------|
+|  0 | Direct War Losses                 | 360,000   | nan       | nan       | nan       | nan       | 183,000   | 543,000   |
+|  1 | Murdered                          | 75,000    | 100,000   | 116,000   | 133,000   | 82,000    | nan       | 506,000   |
+|  2 | Deaths In Prisons & Camps         | 69,000    | 210,000   | 220,000   | 266,000   | 381,000   | nan       | 1,146,000 |
+|  3 | Deaths Outside of Prisons & Camps | nan       | 42,000    | 71,000    | 142,000   | 218,000   | nan       | 473,000   |
+|  4 | Murdered in Eastern Regions       | nan       | nan       | nan       | nan       | nan       | 100,000   | 100,000   |
+|  5 | Deaths other countries            | nan       | nan       | nan       | nan       | nan       | nan       | 2,000     |
+|  6 | Total                             | 504,000   | 352,000   | 407,000   | 541,000   | 681,000   | 270,000   | 2,770,000 |
+===================Question===================
+what is the total numbers of losses not including direct war losses?
+===================Text===================
+<think>
+Alright, so I need to figure out the total number of losses not including direct war losses from the given table about Poland's casualties in World War II. Let me start by looking at the table structure.
+
+The table has several categories of losses: Direct War Losses, Murdered, Deaths In Prisons & Camps, Deaths Outside of Prisons & Camps, Murdered in Eastern Regions, and Deaths other countries. Each row corresponds to one of these categories with their respective numbers over different time periods.
+
+First, I should identify which of these are considered "direct war losses" because the question asks for the total excluding that category. Looking at the table, the first row (0) is labeled as Direct War Losses with a total of 543,000. So I need to exclude this number from the overall total.
+
+Next, let's look at all the other categories:
+
+1. Murdered: Total is 506,000
+2. Deaths In Prisons & Camps: Total is 1,146,000
+3. Deaths Outside of Prisons & Camps: Total is 473,000
+4. Murdered in Eastern Regions: Total is 100,000
+5. Deaths other countries: Total is 2,000
+
+I need to sum these totals because they represent losses that are not part of the direct war losses.
+
+Let me add them up step by step:
+
+506,000 (Murdered) + 1,146,000 (Deaths In Prisons & Camps) = 1,652,000
+
+Then add Deaths Outside: 1,652,000 + 473,000 = 2,125,000
+
+Next, Murdered in Eastern Regions: 2,125,000 + 100,000 = 2,225,000
+
+Finally, Deaths other countries: 2,225,000 + 2,000 = 2,227,000
+
+Wait a minute, let me check if I didn't miss any rows. The total in the table's last row is 2,770,000. If I subtract Direct War Losses (543,000), does it give the same result?
+
+2,770,000 - 543,000 = 2,227,000.
+
+Yes, that matches my earlier calculation. So the total number of losses excluding direct war losses is 2,227,000.
+</think>
+
+The non-direct war losses are calculated by adding all categories except Direct War Losses, which totals 2,227,000.
+
+Final Answer: 2,227,000
+===================Answer===================
+2,227,000

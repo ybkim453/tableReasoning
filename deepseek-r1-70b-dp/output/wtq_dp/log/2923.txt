@@ -1,0 +1,40 @@
+===================Title===================
+Tommy Moe
+===================Table===================
+|    |   Season | Date        | Location             | Discipline   | Place   |
+|---:|---------:|:------------|:---------------------|:-------------|:--------|
+|  0 |     1993 | 27 Feb 1993 | Whistler, BC, Canada | Downhill     | 2nd     |
+|  1 |     1994 | 12 Dec 1993 | Val-d'Isère, France | Super G      | 3rd     |
+|  2 |     1994 | 29 Dec 1993 | Bormio, Italy        | Downhill     | 3rd     |
+|  3 |     1994 | 12 Mar 1994 | Whistler, BC, Canada | Downhill     | 3rd     |
+|  4 |     1994 | 13 Mar 1994 | Whistler, BC, Canada | Super G      | 1st     |
+|  5 |     1994 | 16 Mar 1994 | Vail, CO, USA        | Downhill     | 3rd     |
+|  6 |     1995 | 11 Dec 1994 | Tignes, France       | Super G      | 2nd     |
+===================Question===================
+where was the previous race at before tignes, france?
+===================Text===================
+<think>
+Alright, so I need to figure out where Tommy Moe's race was before Tignes, France. Let me look at the table provided.
+
+First, I see that each row represents a different race with details like Season, Date, Location, Discipline, and Place. The dates are in the format Day-Month-Year, but written as numbers and abbreviations. 
+
+I notice that the last entry is Season 1995, on 11 Dec 1994 at Tignes, France. So I need to find the race right before this one. That would be the row just above it.
+
+Looking up, the previous row (row 5) has a date of 16 Mar 1994 in Vail, CO, USA. So that's the race before Tignes. Wait, but there are two races in Whistler on March 12 and 13, 1994, so I have to make sure I'm looking at the correct order.
+
+Wait, let me list all the dates in order:
+
+- Row 0: 27 Feb 1993
+- Row 1: 12 Dec 1993
+- Row 2: 29 Dec 1993
+- Row 3: 12 Mar 1994
+- Row 4: 13 Mar 1994
+- Row 5: 16 Mar 1994
+- Row 6: 11 Dec 1994
+
+So before Tignes on 11 Dec 1994, the last race was on 16 Mar 1994 in Vail. Therefore, the previous location was Vail, CO, USA.
+</think>
+
+Final Answer: Vail, CO, USA
+===================Answer===================
+Vail, CO, USA

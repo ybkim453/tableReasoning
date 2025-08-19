@@ -1,0 +1,85 @@
+===================Title===================
+2001 Batang Red Bull Thunder season
+===================Table===================
+|    | DATE                        | OPPONENT     | SCORE   | TOP SCORER (Total points)   | VENUE            |
+|---:|:----------------------------|:-------------|:--------|:----------------------------|:-----------------|
+|  0 | February 7 All-Filipino Cup | SHELL        | 76-60   | nan                         | PHILSPORTS ARENA |
+|  1 | February 11                 | MOBILINE     | 80-68   | nan                         | ARANETA COLISEUM |
+|  2 | February 16                 | ALASKA       | 73-72   | Davonn Harp (20)            | PHILSPORTS ARENA |
+|  3 | February 28                 | SAN MIGUEL   | 78-76   | Lowell Briones (21)         | PHILSPORTS ARENA |
+|  4 | March 3                     | BRGY.GINEBRA | 79-72   | nan                         | ILOILO CITY      |
+|  5 | March 9                     | SHELL        | 65-58   | nan                         | PHILSPORTS ARENA |
+|  6 | April 4                     | STA.LUCIA    | 87-84   | nan                         | PHILSPORTS ARENA |
+|  7 | June 10 Commissioner's Cup  | MOBILINE     | 97-92   | Tony Lang (29)              | ARANETA COLISEUM |
+|  8 | June 15                     | BRGY.GINEBRA | 111-98  | nan                         | PHILSPORTS ARENA |
+|  9 | June 24                     | SHELL        | 94-82   | nan                         | ARANETA COLISEUM |
+| 10 | July 1                      | POP COLA     | 95-79   | nan                         | ARANETA COLISEUM |
+| 11 | July 8                      | STA.LUCIA    | 95-88   | nan                         | ARANETA COLISEUM |
+| 12 | July 13                     | TANDUAY      | 104-98  | nan                         | PHILSPORTS ARENA |
+| 13 | September 23 Governor's Cup | TANDUAY      | 108-93  | nan                         | PHILSPORTS ARENA |
+| 14 | September 29                | TALK 'N TEXT | 99-85   | nan                         | DUMAGUETE CITY   |
+| 15 | October 14                  | SHELL        | 68-62   | nan                         | YNARES CENTER    |
+| 16 | October 19                  | STA.LUCIA    | 101-94  | nan                         | CUNETA ASTRODOME |
+| 17 | October 24                  | BRGY.GINEBRA | 93-72   | nan                         | PHILSPORTS ARENA |
+| 18 | November 7                  | SAN MIGUEL   | 86-81   | nan                         | ARANETA COLISEUM |
+===================Question===================
+how many games did the team win with scores above 100?
+===================Text===================
+<think>
+Okay, so I need to figure out how many games the team won with scores above 100 based on the provided table. Let me look through each game one by one.
+
+Starting from the top:
+
+0. February 7: Score is 76-60. The team scored 76, which is below 100. So that's not it.
+
+1. February 11: They scored 80 against MOBILINE. Still under 100.
+
+2. February 16: 73 points, also under 100.
+
+3. February 28: Scored 78 against SAN MIGUEL. Nope.
+
+4. March 3: 79 points in Iloilo City. Below 100.
+
+5. March 9: 65-58 win. They scored 65, which is too low.
+
+6. April 4: They scored 87 against STA.LUCIA. Close to 100 but not quite there yet.
+
+7. June 10 Commissioner's Cup: Score is 97-92, so they got 97 points here. Still under 100.
+
+8. June 15: 111-98 win. Oh, that's above 100. So this counts as one game.
+
+9. June 24: They scored 94 against SHELL. Under 100.
+
+10. July 1: 95 points. Not enough.
+
+11. July 8: 95 again. Still under.
+
+12. July 13: Scored 104, which is above 100. That's the second game.
+
+13. September 23 Governor's Cup: They scored 108 against TANDUAY. Definitely over 100. So that's three games now.
+
+14. September 29: 99 points. Close but not over 100.
+
+15. October 14: Only 68, way below.
+
+16. October 19: Scored 101. That's just over 100, so that's the fourth game.
+
+17. October 24: They scored 93, which is under.
+
+18. November 7: 86 points. Also under.
+
+So adding up the games where their score was above 100:
+
+- June 15: 111
+- July 13: 104
+- September 23: 108
+- October 19: 101
+
+That makes a total of four games.
+</think>
+
+The team won 4 games with scores above 100.
+
+Final Answer: 4
+===================Answer===================
+4

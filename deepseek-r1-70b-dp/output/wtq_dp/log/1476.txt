@@ -1,0 +1,35 @@
+===================Title===================
+2000 Úrvalsdeild
+===================Table===================
+|    |   Pos | Team       |   Played |   Won |   Draw |   Lost |   Goals For |   Goals Against |   Goal Difference |   Points | Notes                 |
+|---:|------:|:-----------|---------:|------:|-------:|-------:|------------:|----------------:|------------------:|---------:|:----------------------|
+|  0 |     1 | KR         |       18 |    11 |      4 |      3 |          27 |              14 |                13 |       37 | UEFA Champions League |
+|  1 |     2 | Fylkir     |       18 |    10 |      5 |      3 |          39 |              16 |                23 |       35 | UEFA Cup              |
+|  2 |     3 | Grindavík |       18 |     8 |      6 |      4 |          25 |              18 |                 7 |       30 | UEFA Cup              |
+|  3 |     4 | ÍBV       |       18 |     8 |      5 |      5 |          29 |              17 |                12 |       29 | Inter-Toto Cup        |
+|  4 |     5 | ÍA        |       18 |     7 |      5 |      6 |          21 |              17 |                 4 |       26 | nan                   |
+|  5 |     6 | Keflavík  |       18 |     4 |      7 |      7 |          21 |              35 |               -14 |       19 | nan                   |
+|  6 |     7 | Breiðablik |       18 |     5 |      3 |     10 |          29 |              35 |                -6 |       18 | nan                   |
+|  7 |     8 | Fram       |       18 |     4 |      5 |      9 |          22 |              33 |               -11 |       17 | nan                   |
+|  8 |     9 | Stjarnan   |       18 |     4 |      5 |      9 |          18 |              31 |               -13 |       17 | Relegated             |
+|  9 |    10 | Leiftur    |       18 |     3 |      7 |      8 |          24 |              39 |               -15 |       16 | Relegated             |
+===================Question===================
+how many wins does fylkir show?
+===================Text===================
+<think>
+Okay, so I need to figure out how many wins Fylkir had in the 2000 Úrvalsdeild season based on the table provided. Let me start by understanding the structure of the table. 
+
+Looking at the columns, they are: Pos (position), Team, Played, Won, Draw, Lost, Goals For, Goals Against, Goal Difference, Points, and Notes. Each row represents a different team's performance.
+
+The question is specifically about Fylkir's number of wins. So I should locate the row where the Team is Fylkir. Scanning through the table, I see that each team is listed with their corresponding statistics. 
+
+Looking at the second row (index 1), the Team is Fylkir. The columns are in order, so after Played (which is 18 for all teams), the next column is Won. For Fylkir, the number under Won is 10.
+
+Wait, let me double-check to make sure I'm looking at the right row and column. Yes, the second entry has Team as Fylkir, and the 'Won' column shows 10. That seems straightforward. 
+
+I don't think there's any trick here; it's a direct lookup. Sometimes tables might aggregate data or have hidden rows, but in this case, each team is listed once with their stats. So I can confidently say that Fylkir had 10 wins that season.
+</think>
+
+Final Answer: 10
+===================Answer===================
+10

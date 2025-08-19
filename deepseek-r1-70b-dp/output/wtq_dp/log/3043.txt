@@ -1,0 +1,35 @@
+===================Title===================
+2004 Summer Paralympics
+===================Table===================
+|    |   Rank | Nation        |   Gold |   Silver |   Bronze |   Total |
+|---:|-------:|:--------------|-------:|---------:|---------:|--------:|
+|  0 |      1 | China         |     63 |       46 |       32 |     141 |
+|  1 |      2 | Great Britain |     35 |       30 |       29 |      94 |
+|  2 |      3 | Canada        |     28 |       19 |       25 |      72 |
+|  3 |      4 | United States |     27 |       22 |       39 |      88 |
+|  4 |      5 | Australia     |     26 |       38 |       36 |     100 |
+|  5 |      6 | Ukraine       |     24 |       12 |       19 |      55 |
+|  6 |      7 | Spain         |     20 |       27 |       24 |      71 |
+|  7 |      8 | Germany       |     19 |       28 |       31 |      78 |
+|  8 |      9 | France        |     18 |       26 |       30 |      74 |
+|  9 |     10 | Japan         |     17 |       16 |       20 |      53 |
+===================Question===================
+what was the top country as indicated by the total number of medals?
+===================Text===================
+<think>
+Okay, so I need to figure out which country was at the top based on the total number of medals in the 2004 Summer Paralympics using the provided table. Let me start by understanding the structure of the table. It has columns for Rank, Nation, Gold, Silver, Bronze, and Total medals. Each row represents a different country's performance.
+
+First, I should look at the "Total" column because the question is about the total number of medals. The ranks are already provided, but it's possible that the rank might not directly align with the highest total if there were tiebreakers or other factors, but in this case, since each rank is unique from 1 to 10, I can safely assume Rank 1 has the highest total.
+
+Looking at the table:
+
+- China is ranked 1st with a total of 141 medals.
+- Great Britain is next with 94, which is lower than China's total.
+- Canada follows with 72, then the United States with 88, Australia with 100, and so on down to Japan with 53.
+
+So the highest Total number I see is 141 for China. That must be the top country in terms of medals won in these Paralympics.
+</think>
+
+Final Answer: China
+===================Answer===================
+China

@@ -1,0 +1,39 @@
+===================Title===================
+Morocco at the Paralympics
+===================Table===================
+|    | Games          | Athletes   |   Gold |   Silver |   Bronze |   Total | Rank   |
+|---:|:---------------|:-----------|-------:|---------:|---------:|--------:|:-------|
+|  0 | 1988 Seoul     | 14         |      0 |        0 |        1 |       1 | 48     |
+|  1 | 1992 Barcelona | 5          |      0 |        0 |        0 |       0 | –      |
+|  2 | 1996 Atlanta   | 4          |      0 |        0 |        0 |       0 | –      |
+|  3 | 2000 Sydney    | 7          |      0 |        0 |        0 |       0 | –      |
+|  4 | 2004 Athens    | 10         |      2 |        4 |        0 |       6 | 42     |
+|  5 | 2008 Beijing   | 18         |      4 |        1 |        2 |       7 | 32     |
+|  6 | 2012 London    | 31         |      3 |        0 |        3 |       6 | 37     |
+|  7 | Total          | Total      |      9 |        5 |        6 |      20 | 54     |
+===================Question===================
+which games had above 2 total medals awarded?
+===================Text===================
+<think>
+Okay, so I need to figure out which Paralympic Games had more than 2 total medals awarded for Morocco based on this table. Let me look at each row one by one.
+
+Starting from the top:
+
+- **1988 Seoul**: Total medals are 1. That's below 2.
+- **1992 Barcelona**: Total is 0. Also below.
+- **1996 Atlanta**: Again, total is 0.
+- **2000 Sydney**: Still 0. Not there yet.
+- **2004 Athens**: Now, the total here is 6 medals. That's definitely above 2. So this one counts.
+- **2008 Beijing**: The total is 7, which is also above 2. Another one to include.
+- **2012 London**: Total is 6, so again above 2.
+
+I don't need to consider the last row because it's the total across all games, not a specific game.
+
+So the games that meet the criteria are Athens 2004, Beijing 2008, and London 2012. I should list them by their respective Games names as they appear in the table.
+</think>
+
+The games with more than 2 total medals awarded to Morocco were the 2004 Athens, 2008 Beijing, and 2012 London Paralympics.
+
+Final Answer: 2004 Athens, 2008 Beijing, 2012 London
+===================Answer===================
+2004 Athens,2008 Beijing,2012 London

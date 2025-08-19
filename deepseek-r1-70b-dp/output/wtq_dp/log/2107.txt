@@ -1,0 +1,62 @@
+===================Title===================
+List of London's Burning episodes (series 10)
+===================Table===================
+|    |   # | Directed By       | Written By       | Original Air Date   |
+|---:|----:|:------------------|:-----------------|:--------------------|
+|  0 |   1 | Frank W. Smith    | Simon J. Sharkey | September 14, 1997  |
+|  1 |   2 | Frank W. Smith    | Simon J. Sharkey | September 28, 1997  |
+|  2 |   3 | Gerry Poulson     | David Humphries  | October 5, 1997     |
+|  3 |   4 | Gerry Poulson     | David Humphries  | October 12, 1997    |
+|  4 |   5 | John Reardon      | Neil McKay       | October 26, 1997    |
+|  5 |   6 | John Reardon      | Neil McKay       | November 2, 1997    |
+|  6 |   7 | Frank W. Smith    | Fran Carroll     | November 9, 1997    |
+|  7 |   8 | Douglas Mackinnon | Neil McKay       | November 16, 1997   |
+|  8 |   9 | Douglas Mackinnon | Neil McKay       | November 23, 1997   |
+|  9 |  10 | John Reardon      | Simon J. Sharkey | November 30, 1997   |
+| 10 |  11 | John Reardon      | Simon J. Sharkey | January 4, 1998     |
+| 11 |  12 | Ken Horn          | David Humphries  | January 11, 1998    |
+| 12 |  13 | John Reardon      | Simon J. Sharkey | January 18, 1998    |
+| 13 |  14 | Ken Horn          | Neil McKay       | January 25, 1998    |
+| 14 |  15 | Frank W. Smith    | Dave Humphries   | February 1, 1998    |
+| 15 |  16 | Douglas MacKinnon | Neil McKay       | February 8, 1998    |
+| 16 |  17 | Graham Moore      | Simon J. Sharkey | February 15, 1998   |
+| 17 |  18 | John Reardon      | Simon J. Sharkey | February 22, 1998   |
+===================Question===================
+can you list each of the writer's last names in alphabetical order?
+===================Text===================
+<think>
+Okay, so I need to figure out how to list each writer's last name from the given table in alphabetical order. Let me start by looking at the "Written By" column and extract all the unique last names.
+
+Looking through each row:
+
+1. Simon J. Sharkey → Sharkey
+2. Simon J. Sharkey → Sharkey (duplicate)
+3. David Humphries → Humphries
+4. David Humphries → Humphries (duplicate)
+5. Neil McKay → McKay
+6. Neil McKay → McKay (duplicate)
+7. Fran Carroll → Carroll
+8. Neil McKay → McKay (another duplicate)
+9. Neil McKay → McKay (duplicate again)
+10. Simon J. Sharkey → Sharkey (again, but already noted)
+11. David Humphries → Humphries (duplicate)
+12. Simon J. Sharkey → Sharkey (duplicate)
+13. Neil McKay → McKay (duplicate)
+14. Dave Humphries → Hmm, wait a second, this is "Dave" instead of "David". I wonder if it's the same person as David Humphries or someone else. The last name is still Humphries.
+15. Neil McKay → McKay (duplicate)
+16. Simon J. Sharkey → Sharkey (duplicate)
+17. John Reardon's row has writer Simon J. Sharkey, so another Sharkey.
+
+So compiling all unique last names:
+
+- Carroll
+- Humphries
+- McKay
+- Sharkey
+
+Now, arranging them alphabetically: Carroll comes first, then Humphries, followed by McKay, and finally Sharkey.
+</think>
+
+Final Answer: Carroll, Humphries, McKay, Sharkey
+===================Answer===================
+Carroll,Humphries,McKay,Sharkey

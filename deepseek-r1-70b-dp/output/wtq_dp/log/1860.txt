@@ -1,0 +1,103 @@
+===================Title===================
+Mao Inoue
+===================Table===================
+|    |   Year | Organization                             | Award                   | Work                                    | Result    |
+|---:|-------:|:-----------------------------------------|:------------------------|:----------------------------------------|:----------|
+|  0 |   2005 | 47th The Television Drama Academy Awards | Best Actress            | Hana Yori Dango                         | Won       |
+|  1 |   2007 | 10th Nikkan Sports Drama Grand Prix      | Best Actress            | Hana Yori Dango 2                       | Won       |
+|  2 |   2007 | 16th Hashida Awards                      | Newcomer Award          | Hana Yori Dango 2                       | Won       |
+|  3 |   2007 | 2007 MTV Student Voice Awards            | Best Actress            | Hana Yori Dango 2                       | Won       |
+|  4 |   2007 | 54th The Television Academy Drama Awards | Best Actress            | First Kiss                              | Nominated |
+|  5 |   2008 | Nickelodeon Kids' Choice Awards          | Best Actress            | Hana Yori Dango 2                       | Won       |
+|  6 |   2010 | Nikkan Sports Grand Prix (Fall)          | Best Supporting Actress | Veterinarian Dolittle                   | Nominated |
+|  7 |   2011 | 3rd TAMA Film Award                      | Best Emerging Actress   | Miracle in the Pacific                  | Won       |
+|  8 |   2011 | 35th Fumiko Yamaji Award Film Awards     | Newcomer Actress        | Youkame no Semi                         | Won       |
+|  9 |   2011 | 26th Nikkan Sport Film Awards            | Best Newcomer           | Youkame no Semi, Miracle in the Pacific | Won       |
+| 10 |   2011 | TV Navi                                  | Best Actress            | Ohisama                                 | Won       |
+| 11 |   2011 | 70th The Television Drama Academy Awards | Best Actress            | Ohisama                                 | Won       |
+| 12 |   2012 | 35th Japan Academy Awards                | Best Starring Actress   | Youkame no Semi                         | Won       |
+| 13 |   2012 | Japan Film Festival Theater Staff        | Best Actress            | Youkame no Semi                         | Won       |
+| 14 |   2012 | 16th Nikkan Sport Grand Prix             | Best Actress            | Tokkan                                  | Nominated |
+===================Question===================
+which award is listed the most on this chart?
+===================Text===================
+<think>
+Okay, so I need to figure out which award is listed the most on this chart about Mao Inoue's awards and nominations. Let me start by looking through each row of the table.
+
+The table has 15 entries, from year 2005 to 2012. Each entry has an Organization and an Award category. My task is to count how many times each specific award appears across all these entries.
+
+First, I'll list out all the Awards:
+
+1. Best Actress
+2. Best Actress
+3. Newcomer Award
+4. Best Actress
+5. Best Actress
+6. Best Actress
+7. Best Emerging Actress
+8. Newcomer Actress
+9. Best Newcomer
+10. Best Actress
+11. Best Actress
+12. Best Starring Actress
+13. Best Actress
+14. Best Actress
+
+Wait, that might not be accurate. Let me go through each row:
+
+Row 0: Award - Best Actress  
+Row 1: Best Actress  
+Row 2: Newcomer Award  
+Row 3: Best Actress  
+Row 4: Best Actress  
+Row 5: Best Actress  
+Row 6: Best Supporting Actress (this is different, so not the same)  
+Row 7: Best Emerging Actress  
+Row 8: Newcomer Actress  
+Row 9: Best Newcomer  
+Row 10: Best Actress  
+Row 11: Best Actress  
+Row 12: Best Starring Actress  
+Row 13: Best Actress  
+Row 14: Best Actress  
+
+Wait, I think I made a mistake. Let me count each award category:
+
+- "Best Actress" appears in rows: 0,1,3,4,5,10,11,13,14 → that's 9 times?
+Wait, let me recount:
+
+Row 0: Best Actress  
+Row 1: Best Actress  
+Row 2: Newcomer Award  
+Row 3: Best Actress  
+Row 4: Best Actress (nominated)  
+Row 5: Best Actress  
+Row 6: Best Supporting Actress  
+Row 7: Best Emerging Actress  
+Row 8: Newcomer Actress  
+Row 9: Best Newcomer  
+Row 10: Best Actress  
+Row 11: Best Actress  
+Row 12: Best Starring Actress  
+Row 13: Best Actress  
+Row 14: Best Actress  
+
+So, "Best Actress" is in rows 0,1,3,4 (nominated),5,10,11,13,14. That's 9 times.
+
+Other awards:
+
+- Newcomer Award: Row 2
+- Newcomer Actress: Row8
+- Best Emerging Actress: Row7
+- Best Newcomer: Row9
+- Best Supporting Actress: Row6 (once)
+- Best Starring Actress: Row12 (once)
+
+So, the most listed award is "Best Actress" with 9 occurrences.
+</think>
+
+The most frequently listed award is "Best Actress".
+
+Final Answer: Best Actress
+===================Answer===================
+Best Actress

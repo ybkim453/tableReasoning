@@ -1,0 +1,56 @@
+===================Title===================
+Brendan Jones (golfer)
+===================Table===================
+|    |   No. | Date        | Tournament                                                     | Winning score         | Margin of\nvictory   | Runner(s)-up                                                                               |
+|---:|------:|:------------|:---------------------------------------------------------------|:----------------------|:---------------------|:-------------------------------------------------------------------------------------------|
+|  0 |     1 | 3 Nov 2002  | Philip Morris K.K. Championship                                | −19 (65-67-67-70=269) | 2 strokes            | Toshimitsu Izawa                                                                           |
+|  1 |     2 | 10 Aug 2003 | Sun Chlorella Classic                                          | −8 (71-73-68-68=280)  | 1 stroke             | Daisuke Maruyama, Taichi Teshima                                                           |
+|  2 |     3 | 25 Apr 2004 | Tsuruya Open                                                   | −9 (64-73-69-69=275)  | 2 strokes            | Keiichiro Fukabori, Scott Laycock,\n Tatsuya Mitsuhashi, Taichi Teshima,\n Shinichi Yokota |
+|  3 |     4 | 26 Jun 2004 | Gateway to the Open Mizuno Open                                | −14 (67-68-70-69=274) | Playoff              | Hiroaki Iijima                                                                             |
+|  4 |     5 | 23 Apr 2006 | Tsuruya Open                                                   | −11 (70-68-66-69=273) | 2 strokes            | Mamo Osanai                                                                                |
+|  5 |     6 | 22 Apr 2007 | Tsuruya Open                                                   | −16 (67-65-68-68=268) | 2 strokes            | Masahiro Kuramoto, Hirofumi Miyase,\n Takuya Taniguchi                                     |
+|  6 |     7 | 11 Nov 2007 | Mitsui Sumitomo VISA Taiheiyo Masters                          | −13 (67-68-69-70=274) | 5 strokes            | Toru Taniguchi                                                                             |
+|  7 |     8 | 2 Dec 2007  | Golf Nippon Series JT Cup                                      | −11 (70-70-68-61=261) | 1 stroke             | Toru Taniguchi                                                                             |
+|  8 |     9 | 26 Sep 2010 | Asia-Pacific Panasonic Open\n(co-sanctioned by the Asian Tour) | −6 (71-70-66=207)     | 1 stroke             | Ryuichi Oda                                                                                |
+|  9 |    10 | 1 May 2011  | The Crowns                                                     | −9 (67-66-68-70=271)  | Playoff              | Jang Ik-jae                                                                                |
+| 10 |    11 | 15 Apr 2012 | Token Homemate Cup                                             | −15 (68-69-70-62=269) | 2 strokes            | Ryuichi Oda                                                                                |
+| 11 |    12 | 29 Jul 2012 | Sun Chlorella Classic                                          | −15 (69-66-68-70=273) | 2 strokes            | Lee Seong-ho, Hideki Matsuyama (am),\n Yoshinobu Tsukada                                   |
+| 12 |    13 | 30 Jun 2013 | Gateway to the Open Mizuno Open                                | −19 (67-66-68-68=269) | 3 strokes            | Kim Kyung-tae                                                                              |
+===================Question===================
+which tournaments had a margin victory of at most 1 stroke?
+===================Text===================
+<think>
+Alright, so I need to figure out which tournaments Brendan Jones won with a margin of victory of at most 1 stroke. Let me start by understanding what the table provides.
+
+First, looking at the columns: Date, Tournament, Winning score, Margin of victory, and Runner(s)-up. The key here is the "Margin of victory" column. I need to find all tournaments where this margin is either 1 stroke or less, but since margins are typically in whole strokes, it's probably just 1 stroke.
+
+I'll go through each row one by one:
+
+1. **First tournament** on 3 Nov 2002: Margin is 2 strokes. That's more than 1, so no.
+2. **Second tournament** on 10 Aug 2003: Margin is 1 stroke. Yes, this counts.
+3. **Third tournament** on 25 Apr 2004: Margin is 2 strokes. No.
+4. **Fourth tournament** on 26 Jun 2004: It says "Playoff". Hmm, I'm not sure if a playoff counts as a margin of victory in terms of strokes. Playoffs can sometimes be sudden death where the winner isn't determined by stroke count but rather outplaying on specific holes. So maybe this shouldn't be considered since it's not explicitly 1 stroke.
+5. **Fifth tournament** on 23 Apr 2006: Margin is 2 strokes. No.
+6. **Sixth tournament** on 22 Apr 2007: Margin is 2 strokes. No.
+7. **Seventh tournament** on 11 Nov 2007: Margin is 5 strokes. No.
+8. **Eighth tournament** on 2 Dec 2007: Margin is 1 stroke. Yes, this counts.
+9. **Ninth tournament** on 26 Sep 2010: Margin is 1 stroke. Yes.
+10. **Tenth tournament** on 1 May 2011: It's a playoff again. Same reasoning as before; I think it doesn't count since the margin isn't specified in strokes.
+11. **Eleventh tournament** on 15 Apr 2012: Margin is 2 strokes. No.
+12. **Twelfth tournament** on 29 Jul 2012: Margin is 2 strokes. No.
+13. **Thirteenth tournament** on 30 Jun 2013: Margin is 3 strokes. No.
+
+Wait, let me double-check the playoff entries because sometimes a playoff can result in a specific stroke margin if it went to extra holes with a certain number of strokes difference, but without explicit numbers, I think it's safer to exclude them since we don't have exact data on how many strokes determined the victory.
+
+So the tournaments that meet the criteria are:
+
+- 10 Aug 2003: Sun Chlorella Classic (Margin = 1)
+- 2 Dec 2007: Golf Nippon Series JT Cup (Margin = 1)
+- 26 Sep 2010: Asia-Pacific Panasonic Open (Margin = 1)
+
+I should list these tournament names based on their order in the table. The second, eighth, and ninth entries.
+</think>
+
+Final Answer: Sun Chlorella Classic, Golf Nippon Series JT Cup, Asia-Pacific Panasonic Open
+===================Answer===================
+Sun Chlorella Classic,Golf Nippon Series JT Cup,Asia-Pacific Panasonic Open (co-sanctioned by the Asian Tour)

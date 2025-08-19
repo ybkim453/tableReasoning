@@ -1,0 +1,55 @@
+===================Title===================
+Boldklubben Frem
+===================Table===================
+|    | Name                    | Nationality   | From            | To               | Honours                           | Comments                                  |
+|---:|:------------------------|:--------------|:----------------|:-----------------|:----------------------------------|:------------------------------------------|
+|  0 | Henrik Jensen           | Denmark       | 1 July 2012     | Present          | nan                               | nan                                       |
+|  1 | John 'Tune' Kristiansen | Denmark       | 18 June 2012    | 23 June 2012     | nan                               | Caretaker for one league match            |
+|  2 | Peer F. Hansen          | Denmark       | 1 January 2012  | 18 June 2012     | won promotion to the third tier   | nan                                       |
+|  3 | John 'Tune' Kristiansen | Denmark       | 27 July 2010    | 30 December 2011 | won promotion to the fourth tier  | Originally had contract until summer 2012 |
+|  4 | René Heitmann          | Denmark       | 17 July 2010    | 27 July 2010     | nan                               | Never coached the team in a match         |
+|  5 | Christian Andersen      | Denmark       | 11 July 2009    | 19 June 2010     | Team was relegated to third tier  | Club went bankrupt after the season       |
+|  6 | Anders Theil            | Denmark       | 7 November 2005 | 7 July 2009      | nan                               | Originally had contract until summer 2011 |
+|  7 | Ebbe Skovdahl           | Denmark       | 11 October 2003 | 6 November 2005  | Team was relegated to second tier | Originally had contract until summer 2007 |
+|  8 | Ole Mørk                | Denmark       | 15 October 2001 | 10 October 2003  | Won promotion to first tier       | Originally had contract until end of 2004 |
+|  9 | Johnny Petersen         | Denmark       | 5 May 1998      | 14 October 2001  | nan                               | Originally had contract until end of 2001 |
+| 10 | John 'Tune' Kristiansen | Denmark       | 1996            | 4 May 1998       | Won promotion to second tier      | nan                                       |
+===================Question===================
+who was the first head coach of boldklubben frem?
+===================Text===================
+<think>
+Alright, so I need to figure out who was the first head coach of Boldklubben Frem based on the provided table. Let me start by looking at the table and understanding how it's structured.
+
+The table has several columns: an index number (from 0 to 10), Name, Nationality, From date, To date, Honours, and Comments. Each row represents a different coach or manager associated with Boldklubben Frem.
+
+Since the question is about the "first" head coach, I assume it refers to the earliest in time. So, I should look for the coach with the earliest 'From' date. Let me go through each row's 'From' dates:
+
+- Row 0: From 1 July 2012
+- Row 1: 18 June 2012
+- Row 2: 1 January 2012
+- Row 3: 27 July 2010
+- Row 4: 17 July 2010
+- Row 5: 11 July 2009
+- Row 6: 7 November 2005
+- Row 7: 11 October 2003
+- Row 8: 15 October 2001
+- Row 9: 5 May 1998
+- Row 10: 1996
+
+Looking at these dates, the earliest 'From' date is in row 10, which just says "1996" with no specific day or month. The coach's name there is John 'Tune' Kristiansen.
+
+Wait a second, but I notice that row 10 has two entries for John 'Tune' Kristiansen—a bit confusing. Let me check again:
+
+- Row 3 and Row 1 both have the same name: John 'Tune' Kristiansen but different dates.
+- Row 10 also has him listed with a start date in 1996.
+
+So, it seems that row 10 is the earliest period for any coach, starting in 1996. Therefore, according to the table, John 'Tune' Kristiansen was coaching Boldklubben Frem from 1996 until May 4, 1998.
+
+Wait, but let's confirm if there are any coaches before that. Looking at row 10 again, it's the only one with a start date in 1996. All other rows have later dates. So yes, row 10 is indeed the earliest listed coach.
+
+Therefore, based on the table provided, the first head coach of Boldklubben Frem would be John 'Tune' Kristiansen.
+</think>
+
+Final Answer: John 'Tune' Kristiansen
+===================Answer===================
+John 'Tune' Kristiansen

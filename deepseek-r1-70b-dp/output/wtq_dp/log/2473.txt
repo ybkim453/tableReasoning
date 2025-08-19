@@ -1,0 +1,52 @@
+===================Title===================
+List of international cricket centuries at Eden Gardens
+===================Table===================
+|    |   No. | Score   | Player             | Team         |   Balls |   Inns. | Opposing team   | Date             | Result   |
+|---:|------:|:--------|:-------------------|:-------------|--------:|--------:|:----------------|:-----------------|:---------|
+|  0 |     1 | 123     | Kris Srikkanth     | India        |     103 |       1 | Pakistan        | 18 February 1987 | Lost     |
+|  1 |     2 | 107*    | Desmond Haynes     | West Indies  |     137 |       1 | Pakistan        | 1 November 1989  | Lost     |
+|  2 |     3 | 100*    | Sachin Tendulkar   | India        |     103 |       2 | Kenya           | 31 May 1998      | Won      |
+|  3 |     4 | 121     | Marcus Trescothick | England      |     109 |       2 | India           | 19 January 2002  | Lost     |
+|  4 |     5 | 108*    | Salman Butt        | Pakistan     |     130 |       2 | India           | 13 November 2004 | Won      |
+|  5 |     6 | 134*    | Graeme Smith       | South Africa |     124 |       2 | India           | 25 November 2005 | Won      |
+|  6 |     7 | 118     | Upul Tharanga      | Sri Lanka    |     128 |       1 | India           | 24 December 2009 | Lost     |
+|  7 |     8 | 150*    | Gautam Gambhir     | India        |     137 |       2 | Sri Lanka       | 24 December 2009 | Won      |
+|  8 |     9 | 107     | Virat Kohli        | India        |     114 |       2 | Sri Lanka       | 24 December 2009 | Won      |
+|  9 |    10 | 106     | Ryan ten Doeschate | Netherlands  |     108 |       1 | Ireland         | 18 March 2011    | Lost     |
+| 10 |    11 | 101     | Paul Stirling      | Ireland      |      72 |       2 | Netherlands     | 18 March 2011    | Won      |
+| 11 |    12 | 106     | Nasir Jamshed      | Pakistan     |     124 |       1 | India           | 3 January 2013   | Won      |
+===================Question===================
+how many games had at least 130 balls?
+===================Text===================
+<think>
+Okay, so I need to figure out how many games had at least 130 balls based on the provided table. Let me start by understanding what each column represents.
+
+Looking at the table, the columns are: No., Score, Player, Team, Balls, Innings, Opposing team, Date, and Result. The key here is the "Balls" column because that's what the question focuses on—games where players faced at least 130 balls.
+
+I'll go through each row one by one to check the value in the "Balls" column.
+
+1. **Row 0**: Balls = 103. That's below 130, so this game doesn't count.
+2. **Row 1**: Balls = 137. That's more than 130, so this counts.
+3. **Row 2**: Balls = 103. Again, below 130, so no.
+4. **Row 3**: Balls = 109. Still below 130.
+5. **Row 4**: Balls = 130. Exactly 130, which meets the condition, so this counts.
+6. **Row 5**: Balls = 124. Less than 130, doesn't count.
+7. **Row 6**: Balls = 128. Also less than 130.
+8. **Row 7**: Balls = 137. This is above 130, so it counts.
+9. **Row 8**: Balls = 114. Below 130.
+10. **Row 9**: Balls = 108. No.
+11. **Row 10**: Balls = 72. Definitely no.
+12. **Row 11**: Balls = 124. Still under 130.
+
+Wait, let me recount to make sure I didn't miss any:
+
+- Row 1: 137 (count)
+- Row 4: 130 (counts because it's exactly 130)
+- Row 7: 137 (another count)
+
+That makes a total of three games where the number of balls faced was at least 130. So, the answer should be 3.
+</think>
+
+Final Answer: 3
+===================Answer===================
+3

@@ -1,0 +1,49 @@
+===================Title===================
+Charles Henderson High School
+===================Table===================
+|    |   Year |   Team Record\nW |   Team Record\nL | Playoffs                |
+|---:|-------:|-----------------:|-----------------:|:------------------------|
+|  0 |   2001 |                7 |                2 | 3rd Qualifier, Region 2 |
+|  1 |   2002 |                8 |                1 | 2nd Qualifier, Region 2 |
+|  2 |   2003 |                8 |                1 | 2nd Qualifier, Region 2 |
+|  3 |   2004 |                7 |                2 | 2nd Qualifier, Region 2 |
+|  4 |   2005 |                3 |                5 | Did Not Make Playoffs   |
+|  5 |   2006 |                5 |                4 | 4th Qualifier, Region 2 |
+|  6 |   2007 |               13 |                1 | 1st Qualifier, Region 2 |
+|  7 |   2008 |                7 |                4 | 2nd Qualifier, Region 2 |
+|  8 |   2009 |                5 |                5 | Did Not Make Playoffs   |
+|  9 |   2010 |                5 |                5 | Did Not Make Playoffs   |
+===================Question===================
+what was first year they did not make the playoffs?
+===================Text===================
+<think>
+Okay, so I need to figure out the first year Charles Henderson High School did not make the playoffs based on this table. Let me go through the data step by step.
+
+Looking at the table, each row represents a different year from 2001 to 2010. The columns show the year, wins (W), losses (L), and playoff status. I'm particularly interested in the "Playoffs" column because it tells me whether they made it or not.
+
+Starting with the earliest years:
+
+- In 2001, they were the 3rd Qualifier in Region 2. That means they did make the playoffs.
+- 2002 shows them as 2nd Qualifier, so again, they made it.
+- 2003 is also a playoff year as 2nd Qualifier.
+- 2004 continues with 2nd Qualifier status; another playoff appearance.
+  
+Now, moving to 2005. The "Playoffs" column says "Did Not Make Playoffs". That's the first instance where they didn't qualify. 
+
+I should check if there were any years before 2005 where they also didn't make it, but from 2001 to 2004, they all made the playoffs in some capacity. So 2005 is indeed the first year without a playoff appearance.
+
+Just to be thorough, I'll glance at the subsequent years:
+
+- 2006: They were 4th Qualifier, so back to playoffs.
+- 2007: 1st Qualifier; definitely made it.
+- 2008: 2nd Qualifier again.
+- 2009 and 2010 both say "Did Not Make Playoffs", but since 2005 was the first occurrence, those are just additional years they missed out.
+
+Therefore, the answer is clear. The first year they didn't make the playoffs was 2005.
+</think>
+
+The first year Charles Henderson High School did not make the playoffs was in 2005.
+
+Final Answer: 2005
+===================Answer===================
+2005

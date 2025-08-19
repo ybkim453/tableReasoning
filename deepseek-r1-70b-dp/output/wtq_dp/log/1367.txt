@@ -1,0 +1,42 @@
+===================Title===================
+Minor major seventh chord
+===================Table===================
+|    | Chord   | Root   | Minor Third   | Perfect Fifth   | Major Seventh   |
+|---:|:--------|:-------|:--------------|:----------------|:----------------|
+|  0 | CmM7    | C      | E♭            | G               | B               |
+|  1 | C♯mM7   | C♯     | E             | G♯              | B♯ (C)          |
+|  2 | D♭mM7   | D♭     | F♭ (E)        | A♭              | C               |
+|  3 | DmM7    | D      | F             | A               | C♯              |
+|  4 | D♯mM7   | D♯     | F♯            | A♯              | C (D)           |
+|  5 | E♭mM7   | E♭     | G♭            | B♭              | D               |
+|  6 | EmM7    | E      | G             | B               | D♯              |
+|  7 | FmM7    | F      | A♭            | C               | E               |
+|  8 | F♯mM7   | F♯     | A             | C♯              | E♯ (F)          |
+|  9 | G♭mM7   | G♭     | B (A)         | D♭              | F               |
+| 10 | GmM7    | G      | B♭            | D               | F♯              |
+| 11 | G♯mM7   | G♯     | B             | D♯              | F (G)           |
+| 12 | A♭mM7   | A♭     | C♭ (B)        | E♭              | G               |
+| 13 | AmM7    | A      | C             | E               | G♯              |
+| 14 | A♯mM7   | A♯     | C♯            | E♯ (F)          | G (A)           |
+| 15 | B♭mM7   | B♭     | D♭            | F               | A               |
+| 16 | BmM7    | B      | D             | F♯              | A♯              |
+===================Question===================
+what cord comes after emm7?
+===================Text===================
+<think>
+Okay, so I need to figure out what chord comes after EmM7 based on the table provided. Let me start by looking at the table structure.
+
+The table lists chords in order from 0 to 16. Each row represents a different "Minor major seventh chord." The columns show the Chord name, Root, Minor Third, Perfect Fifth, and Major Seventh notes for each chord.
+
+Looking at the question: what comes after EmM7? First, I should find where EmM7 is located in the table. Scanning through the 'Chord' column, I see that row 6 has the Chord "EmM7." So EmM7 is at index number 6.
+
+Now, to determine which chord comes right after it, I just need to look at the next row, which would be index 7. Checking row 7, the Chord listed there is FmM7.
+
+So, the chord that comes immediately after EmM7 in this table is FmM7.
+</think>
+
+The chord following EmM7 in the sequence is F minor major seventh (FmM7).
+
+Final Answer: FmM7
+===================Answer===================
+FmM7

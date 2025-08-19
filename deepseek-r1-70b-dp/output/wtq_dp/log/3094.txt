@@ -1,0 +1,70 @@
+===================Title===================
+Princess Disneymania
+===================Table===================
+|    |   # | Title                                | Performer(s)           | Film                            | Length   |
+|---:|----:|:-------------------------------------|:-----------------------|:--------------------------------|:---------|
+|  0 |   1 | "Once Upon a Dream"                  | Emily Osment           | Sleeping Beauty                 | 3:32     |
+|  1 |   2 | "That's How You Know"                | Demi Lovato            | Enchanted                       | 3:12     |
+|  2 |   3 | "Some Day My Prince Will Come"       | Ashley Tisdale         | Snow White and the Seven Dwarfs | 3:30     |
+|  3 |   4 | "Colors of the Wind"                 | Vanessa Hudgens        | Pocahontas                      | 3:58     |
+|  4 |   5 | "Reflection"                         | Christina Aguilera     | Mulan                           | 3:33     |
+|  5 |   6 | "So This Is Love"                    | The Cheetah Girls      | Cinderella                      | 3:40     |
+|  6 |   7 | "Kiss the Girl"                      | Colbie Caillat         | The Little Mermaid              | 3:16     |
+|  7 |   8 | "It's Not Just Make Believe"         | Kari Kimmel            | Ella Enchanted                  | 3:06     |
+|  8 |   9 | "Under the Sea"                      | Raven-Symoné          | The Little Mermaid              | 3:15     |
+|  9 |  10 | "Ever Ever After"                    | Jordan Pruitt          | Enchanted                       | 3:12     |
+| 10 |  11 | "True to Your Heart"                 | Keke Palmer            | Mulan                           | 3:22     |
+| 11 |  12 | "Happy Working Song"                 | Amy Adams              | Enchanted                       | 2:09     |
+| 12 |  13 | "Part of Your World"                 | Original Broadway Cast | The Little Mermaid              | 3:23     |
+| 13 |  14 | "A Dream Is a Wish Your Heart Makes" | Disney Channel Stars   | Cinderella                      | 3:46     |
+===================Question===================
+how many disney movies are featured in this list?
+===================Text===================
+<think>
+Alright, I need to figure out how many Disney movies are featured in this list. Let me start by carefully examining each row of the table provided.
+
+First, I notice that each entry has a 'Film' column which indicates the movie each song is from. My goal is to count the distinct Disney movies listed here. 
+
+Looking at the first few entries:
+
+1. "Once Upon a Dream" from Sleeping Beauty
+2. "That's How You Know" from Enchanted
+3. "Some Day My Prince Will Come" from Snow White and the Seven Dwarfs
+4. "Colors of the Wind" from Pocahontas
+5. "Reflection" from Mulan
+6. "So This Is Love" from Cinderella
+7. "Kiss the Girl" from The Little Mermaid
+8. "It's Not Just Make Believe" from Ella Enchanted
+9. "Under the Sea" also from The Little Mermaid
+10. "Ever Ever After" again from Enchanted
+11. "True to Your Heart" from Mulan, which is a repeat of #5
+12. "Happy Working Song" from Enchanted, another repeat of #2 and #10
+13. "Part of Your World" from The Little Mermaid, repeating #7 and #9
+14. "A Dream Is a Wish Your Heart Makes" from Cinderella, repeating #6
+
+Now, I'll list out all the unique movies mentioned:
+
+- Sleeping Beauty (1)
+- Enchanted (2, 10, 12)
+- Snow White and the Seven Dwarfs (3)
+- Pocahontas (4)
+- Mulan (5,11)
+- Cinderella (6,14)
+- The Little Mermaid (7,9,13)
+
+I need to make sure I don't double-count any movies. Each time a movie is listed more than once, it's just multiple songs from the same film. So, counting each unique title only once:
+
+1. Sleeping Beauty
+2. Enchanted
+3. Snow White and the Seven Dwarfs
+4. Pocahontas
+5. Mulan
+6. Cinderella
+7. The Little Mermaid
+
+That makes a total of 7 distinct Disney movies in this list.
+</think>
+
+Final Answer: 7
+===================Answer===================
+8

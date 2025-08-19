@@ -1,0 +1,57 @@
+===================Title===================
+Toy safety
+===================Table===================
+|    |   Year | Injuries (US $000)   |   Deaths (age <15) | CPSC toy safety funding\n(US$ Millions)   |   Toy sales\n(US $ Billions) |
+|---:|-------:|:---------------------|-------------------:|:------------------------------------------|-----------------------------:|
+|  0 |   1994 | 154                  |                nan | nan                                       |                        nan   |
+|  1 |   1995 | 139                  |                nan | nan                                       |                        nan   |
+|  2 |   1996 | 130                  |                nan | nan                                       |                        nan   |
+|  3 |   1997 | 141                  |                nan | nan                                       |                        nan   |
+|  4 |   1998 | 153                  |                 14 | nan                                       |                        nan   |
+|  5 |   1999 | 152                  |                 16 | 13.6                                      |                        nan   |
+|  6 |   2000 | 191                  |                 17 | 12.0                                      |                        nan   |
+|  7 |   2001 | 255                  |                 25 | 12.4                                      |                        nan   |
+|  8 |   2002 | 212                  |                 13 | 12.2                                      |                         21.3 |
+|  9 |   2003 | 206                  |                 11 | 12.8                                      |                         20.7 |
+| 10 |   2004 | 210                  |                 16 | 11.5                                      |                         22.4 |
+| 11 |   2005 | 202 (estimate)       |                 20 | 11.0                                      |                         22.2 |
+| 12 |   2006 | no data              |                 22 | no data†                                  |                         22.3 |
+| 13 |   2007 | no data              |                 22 | no data                                   |                        nan   |
+| 14 |   2008 | no data              |                 19 | no data                                   |                        nan   |
+| 15 |   2009 | no data              |                 12 | no data                                   |                        nan   |
+===================Question===================
+how many years had more the $190,000 spent on injuries?
+===================Text===================
+<think>
+Okay, so I need to figure out how many years had more than $190,000 spent on injuries based on this table. Let me look through each row carefully.
+
+First, I should understand what the "Injuries (US $000)" column represents. It seems like the numbers are in thousands of dollars. So, if an entry is 154, that's $154,000. Got it.
+
+Now, I need to find years where this number exceeds 190, which would mean more than $190,000 spent on injuries. Let me go through each year one by one.
+
+Starting from 1994: 154. That's below 190, so no.
+1995: 139 – also below.
+1996: 130 – still below.
+1997: 141 – not there yet.
+1998: 153 – getting closer but not over 190.
+1999: 152 – same as above.
+2000: 191 – oh, that's just over 190. So this year counts.
+2001: 255 – definitely way over.
+2002: 212 – also over.
+2003: 206 – yes, that's above too.
+2004: 210 – still over.
+2005: 202 (estimate) – yes, it's over.
+2006 and beyond have "no data", so I can't consider those.
+
+Wait, let me double-check each of these to make sure I didn't miss any. 
+
+From 1994 to 1999, all are below 190 except for 2000 which is exactly 191,000. Then from 2001 to 2005, each year the injuries are above 190k. So that's 6 years: 2000, 2001, 2002, 2003, 2004, and 2005.
+
+I think that's all. So the answer should be the count of these years.
+</think>
+
+The table shows that from 2000 to 2005, each year had injuries exceeding $190,000. 
+
+Final Answer: 6
+===================Answer===================
+6

@@ -1,0 +1,69 @@
+===================Title===================
+2008–09 Sacramento Kings season
+===================Table===================
+|    |   Game | Date       | Team           | Score           | High points                     | High rebounds                                      | High assists                                 | Location\nAttendance               | Record   |
+|---:|-------:|:-----------|:---------------|:----------------|:--------------------------------|:---------------------------------------------------|:---------------------------------------------|:-----------------------------------|:---------|
+|  0 |     33 | January 2  | @ Detroit      | L 92–98         | Brad Miller (25)                | Brad Miller (16)                                   | John Salmons (4)                             | The Palace of Auburn Hills\n22,076 | 8–25     |
+|  1 |     34 | January 3  | @ Indiana      | L 117–122       | Kevin Martin (45)               | Bobby Jackson (10)                                 | Kevin Martin, Brad Miller (6)                | Conseco Fieldhouse\n12,765         | 8–26     |
+|  2 |     35 | January 5  | @ New Jersey   | L 90–98         | Kevin Martin (36)               | Kenny Thomas (8)                                   | Brad Miller (8)                              | Izod Center\n12,314                | 8–27     |
+|  3 |     36 | January 6  | @ Chicago      | L 94–99         | Kevin Martin (29)               | Brad Miller (12)                                   | Beno Udrih (5)                               | United Center\n18,060              | 8–28     |
+|  4 |     37 | January 9  | Miami          | L 115–119 (OT)  | John Salmons (29)               | Brad Miller (16)                                   | John Salmons, Brad Miller, Bobby Jackson (4) | ARCO Arena\n12,587                 | 8–29     |
+|  5 |     38 | January 11 | Dallas         | W 102–95        | Kevin Martin (21)               | Spencer Hawes (8)                                  | Beno Udrih (6)                               | ARCO Arena\n12,294                 | 9–29     |
+|  6 |     39 | January 13 | Orlando        | L 107–139       | Kevin Martin (30)               | Francisco García (5)                              | Francisco García (5)                        | ARCO Arena\n11,168                 | 9–30     |
+|  7 |     40 | January 14 | @ Golden State | W 135–133 (3OT) | Brad Miller (30)                | Brad Miller (22)                                   | John Salmons, Beno Udrih (7)                 | Oracle Arena\n19,122               | 10–30    |
+|  8 |     41 | January 16 | Milwaukee      | L 122–129       | John Salmons, Kevin Martin (24) | Jason Thompson (11)                                | John Salmons (6)                             | ARCO Arena\n11,663                 | 10–31    |
+|  9 |     42 | January 20 | @ Denver       | L 99–118        | Kevin Martin (25)               | Jason Thompson (11)                                | John Salmons, Beno Udrih (5)                 | Pepsi Center\n15,164               | 10–32    |
+| 10 |     43 | January 21 | Washington     | L 107–110       | John Salmons, Beno Udrih (24)   | John Salmons, Shelden Williams, Jason Thompson (5) | John Salmons (5)                             | ARCO Arena\n10,821                 | 10–33    |
+| 11 |     44 | January 24 | @ Milwaukee    | L 104–106       | Kevin Martin (20)               | Brad Miller (13)                                   | Brad Miller (9)                              | Bradley Center\n15,379             | 10–34    |
+| 12 |     45 | January 25 | @ Toronto      | L 97–113        | John Salmons (21)               | John Salmons (7)                                   | Beno Udrih (5)                               | Air Canada Centre\n18,127          | 10–35    |
+| 13 |     46 | January 27 | @ Cleveland    | L 110–117       | Kevin Martin (35)               | Kevin Martin (7)                                   | Kevin Martin (7)                             | Quicken Loans Arena\n20,562        | 10–36    |
+| 14 |     47 | January 28 | @ Boston       | L 100–119       | John Salmons (22)               | Jason Thompson (11)                                | John Salmons (5)                             | TD Banknorth Garden\n18,624        | 10–37    |
+| 15 |     48 | January 30 | Chicago        | L 88–109        | Kevin Martin (27)               | Jason Thompson (12)                                | Spencer Hawes, Kevin Martin (3)              | ARCO Arena\n13,356                 | 10–38    |
+===================Question===================
+how many games had at least 15,000 spectators in attendance?
+===================Text===================
+<think>
+Alright, so I need to figure out how many games had at least 15,000 spectators in attendance based on the given table about the Sacramento Kings' 2008–09 season. Let me go through this step by step.
+
+First, I'll look at each row in the table and check the "Location/Attendance" column. Each entry there has a venue name followed by the number of attendees. For example, the first game is at The Palace of Auburn Hills with 22,076 spectators.
+
+I think the best approach is to go through each game one by one and note down the attendance numbers, then count how many are equal to or greater than 15,000.
+
+Starting from the top:
+
+1. Game 33 on Jan 2: Attendance is 22,076. That's more than 15k. So that's 1.
+2. Game 34 on Jan 3: 12,765. Less than 15k. Doesn't count.
+3. Game 35 on Jan 5: 12,314. Also less than 15k.
+4. Game 36 on Jan 6: 18,060. That's above 15k. Now we're at 2.
+5. Game 37 on Jan 9: 12,587. Below 15k. No count.
+6. Game 38 on Jan 11: 12,294. Still below 15k.
+7. Game 39 on Jan 13: 11,168. Nope.
+8. Game 40 on Jan 14: 19,122. That's over 15k. Now at 3.
+9. Game 41 on Jan 16: 11,663. Under 15k.
+10. Game 42 on Jan 20: 15,164. Exactly 15k? Wait, the cutoff is "at least" 15k, so that's included. Now we're at 4.
+11. Game 43 on Jan 21: 10,821. Below 15k.
+12. Game 44 on Jan 24: 15,379. That's over 15k. So now it's 5.
+13. Game 45 on Jan 25: 18,127. Over again, so count becomes 6.
+14. Game 46 on Jan 27: 20,562. Definitely over. Now 7.
+15. Game 47 on Jan 28: 18,624. Also over, making it 8.
+16. Game 48 on Jan 30: 13,356. Below 15k.
+
+Wait a second, let me recount to make sure I didn't miss any:
+
+Looking back through the list:
+
+- Game 33: 22,076 → yes
+- Game 36: 18,060 → yes
+- Game 40:19,122 → yes
+- Game 42:15,164 → yes (>=15k)
+- Game 44:15,379 → yes
+- Game 45:18,127 → yes
+- Game 46:20,562 → yes
+- Game 47:18,624 → yes
+
+So that's a total of 8 games where attendance was at least 15,000.
+</think>
+
+Final Answer: 8
+===================Answer===================
+8

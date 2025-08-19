@@ -1,0 +1,56 @@
+===================Title===================
+2003 Grand Prix of Monterey
+===================Table===================
+|    |   Pos |   No | Driver               | Team                           |   Laps | Time/Retired   |   Grid |   Points |
+|---:|------:|-----:|:---------------------|:-------------------------------|-------:|:---------------|-------:|---------:|
+|  0 |     1 |   32 | Patrick Carpentier   | Team Player's                  |     87 | 1:48:11.023    |      1 |       22 |
+|  1 |     2 |    1 | Bruno Junqueira      | Newman/Haas Racing             |     87 | +0.8 secs      |      2 |       17 |
+|  2 |     3 |    3 | Paul Tracy           | Team Player's                  |     87 | +28.6 secs     |      3 |       14 |
+|  3 |     4 |    9 | Michel Jourdain, Jr. | Team Rahal                     |     87 | +40.8 secs     |     13 |       12 |
+|  4 |     5 |   34 | Mario Haberfeld      | Mi-Jack Conquest Racing        |     87 | +42.1 secs     |      6 |       10 |
+|  5 |     6 |   20 | Oriol Servià        | Patrick Racing                 |     87 | +1:00.2        |     10 |        8 |
+|  6 |     7 |   51 | Adrian Fernández    | Fernández Racing              |     87 | +1:01.4        |      5 |        6 |
+|  7 |     8 |   12 | Jimmy Vasser         | American Spirit Team Johansson |     87 | +1:01.8        |      8 |        5 |
+|  8 |     9 |    7 | Tiago Monteiro       | Fittipaldi-Dingman Racing      |     86 | + 1 Lap        |     15 |        4 |
+|  9 |    10 |   55 | Mario Domínguez     | Herdez Competition             |     86 | + 1 Lap        |     11 |        3 |
+| 10 |    11 |   27 | Bryan Herta          | PK Racing                      |     86 | + 1 Lap        |     12 |        2 |
+| 11 |    12 |   31 | Ryan Hunter-Reay     | American Spirit Team Johansson |     86 | + 1 Lap        |     17 |        1 |
+| 12 |    13 |   19 | Joël Camathias      | Dale Coyne Racing              |     85 | + 2 Laps       |     18 |        0 |
+| 13 |    14 |   33 | Alex Tagliani        | Rocketsports Racing            |     85 | + 2 Laps       |     14 |        0 |
+| 14 |    15 |    4 | Roberto Moreno       | Herdez Competition             |     85 | + 2 Laps       |      9 |        0 |
+| 15 |    16 |   11 | Geoff Boss           | Dale Coyne Racing              |     83 | Mechanical     |     19 |        0 |
+| 16 |    17 |    2 | Sébastien Bourdais  | Newman/Haas Racing             |     77 | Mechanical     |      4 |        0 |
+| 17 |    18 |   15 | Darren Manning       | Walker Racing                  |     12 | Mechanical     |      7 |        0 |
+| 18 |    19 |    5 | Rodolfo Lavín       | Walker Racing                  |     10 | Mechanical     |     16 |        0 |
+===================Question===================
+which driver only scored 1 point?
+===================Text===================
+<think>
+Alright, so I need to figure out which driver only scored 1 point in the 2003 Grand Prix of Monterey based on this table. Let me take a closer look at the data provided.
+
+First, I'll examine each row and note the points each driver earned. The Points column is what's important here since we're looking for someone who scored exactly 1 point.
+
+Starting from the top:
+
+- Row 0: Patrick Carpentier scored 22 points.
+- Row 1: Bruno Junqueira got 17 points.
+- Row 2: Paul Tracy with 14 points.
+- Row 3: Michel Jourdain, Jr. has 12 points.
+- Row 4: Mario Haberfeld earned 10 points.
+- Row 5: Oriol Servià scored 8 points.
+- Row 6: Adrian Fernández got 6 points.
+- Row 7: Jimmy Vasser with 5 points.
+- Row 8: Tiago Monteiro has 4 points.
+- Row 9: Mario Domínguez earned 3 points.
+- Row 10: Bryan Herta scored 2 points.
+- Row 11: Ryan Hunter-Reay got 1 point.
+- The remaining rows have drivers who scored 0 points.
+
+So, scanning through the Points column, I see that only one driver has exactly 1 point. That's Ryan Hunter-Reay in row 11. No other driver in the table has just 1 point; they either have more or zero.
+
+Therefore, the answer should be Ryan Hunter-Reay.
+</think>
+
+Final Answer: Ryan Hunter-Reay
+===================Answer===================
+Ryan Hunter-Reay

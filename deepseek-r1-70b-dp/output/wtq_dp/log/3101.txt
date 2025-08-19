@@ -1,0 +1,75 @@
+===================Title===================
+Princess Disneymania
+===================Table===================
+|    |   # | Title                                | Performer(s)           | Film                            | Length   |
+|---:|----:|:-------------------------------------|:-----------------------|:--------------------------------|:---------|
+|  0 |   1 | "Once Upon a Dream"                  | Emily Osment           | Sleeping Beauty                 | 3:32     |
+|  1 |   2 | "That's How You Know"                | Demi Lovato            | Enchanted                       | 3:12     |
+|  2 |   3 | "Some Day My Prince Will Come"       | Ashley Tisdale         | Snow White and the Seven Dwarfs | 3:30     |
+|  3 |   4 | "Colors of the Wind"                 | Vanessa Hudgens        | Pocahontas                      | 3:58     |
+|  4 |   5 | "Reflection"                         | Christina Aguilera     | Mulan                           | 3:33     |
+|  5 |   6 | "So This Is Love"                    | The Cheetah Girls      | Cinderella                      | 3:40     |
+|  6 |   7 | "Kiss the Girl"                      | Colbie Caillat         | The Little Mermaid              | 3:16     |
+|  7 |   8 | "It's Not Just Make Believe"         | Kari Kimmel            | Ella Enchanted                  | 3:06     |
+|  8 |   9 | "Under the Sea"                      | Raven-Symoné          | The Little Mermaid              | 3:15     |
+|  9 |  10 | "Ever Ever After"                    | Jordan Pruitt          | Enchanted                       | 3:12     |
+| 10 |  11 | "True to Your Heart"                 | Keke Palmer            | Mulan                           | 3:22     |
+| 11 |  12 | "Happy Working Song"                 | Amy Adams              | Enchanted                       | 2:09     |
+| 12 |  13 | "Part of Your World"                 | Original Broadway Cast | The Little Mermaid              | 3:23     |
+| 13 |  14 | "A Dream Is a Wish Your Heart Makes" | Disney Channel Stars   | Cinderella                      | 3:46     |
+===================Question===================
+which disney movie has the most songs listed?
+===================Text===================
+<think>
+Okay, I need to figure out which Disney movie has the most songs listed in the given table. Let me go through each row and count how many times each film appears.
+
+1. "Once Upon a Dream" – Sleeping Beauty (count 1)
+2. "That's How You Know" – Enchanted (count 1)
+3. "Some Day My Prince Will Come" – Snow White and the Seven Dwarfs (count 1)
+4. "Colors of the Wind" – Pocahontas (count 1)
+5. "Reflection" – Mulan (count 1)
+6. "So This Is Love" – Cinderella (count 1)
+7. "Kiss the Girl" – The Little Mermaid (count 1)
+8. "It's Not Just Make Believe" – Ella Enchanted (count 1)
+9. "Under the Sea" – The Little Mermaid (now count 2 for this movie)
+10. "Ever Ever After" – Enchanted (now count 2 for Enchanted)
+11. "True to Your Heart" – Mulan (now count 2 for Mulan)
+12. "Happy Working Song" – Enchanted (count 3 for Enchanted)
+13. "Part of Your World" – The Little Mermaid (now count 3 for this movie)
+14. "A Dream Is a Wish Your Heart Makes" – Cinderella (count 2 for Cinderella)
+
+So now, let's tally up the counts:
+- Sleeping Beauty: 1
+- Enchanted: 3
+- Snow White and the Seven Dwarfs:1 
+- Pocahontas:1
+- Mulan:2
+- Cinderella:2
+- The Little Mermaid:3
+
+Wait, both Enchanted and The Little Mermaid have 3 songs each. Hmm, that's a tie. But I need to check if I counted correctly.
+
+Looking back:
+- Enchanted has tracks at positions 2, 10, 11, which is 3.
+- The Little Mermaid has tracks at positions 7,9,12, but wait position 13 is another one? Wait no, position 12 is "Part of Your World" from The Little Mermaid—that's the third song for it. So yes, both have 3 each.
+
+Wait, actually, I think I made a mistake because in my initial count above, Enchanted has 3 and The Little Mermaid also has 3. Let me recount:
+
+Enchanted appears at tracks:
+2: "That's How You Know"
+10: "Ever Ever After"
+11: "Happy Working Song" – that's three.
+
+The Little Mermaid appears at:
+7: "Kiss the Girl"
+9: "Under the Sea"
+12: "Part of Your World" – also three.
+
+So both have 3 songs each. But looking again, I see The Little Mermaid has tracks 7,9,12—so that's three. Enchanted has 2,10,11—also three.
+
+So they're tied with the most at 3 each. So according to my analysis, both "Enchanted" and "The Little Mermaid" have 3 songs each, which is the highest count in the table.
+</think>
+
+Final Answer: Enchanted, The Little Mermaid
+===================Answer===================
+The Little Mermaid,Enchanted

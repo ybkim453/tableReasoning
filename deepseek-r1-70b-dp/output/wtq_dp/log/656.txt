@@ -1,0 +1,37 @@
+===================Title===================
+2000 Chicago Bears season
+===================Table===================
+|    |   Round |   Pick | Name           | Position   | College            |
+|---:|--------:|-------:|:---------------|:-----------|:-------------------|
+|  0 |       1 |      9 | Brian Urlacher | S          | New Mexico         |
+|  1 |       2 |     39 | Mike Brown     | S          | Nebraska           |
+|  2 |       3 |     69 | Dez White      | WR         | Georgia Tech       |
+|  3 |       3 |     87 | Dustin Lyman   | TE         | Wake Forest        |
+|  4 |       4 |    125 | Reggie Austin  | DB         | Wake Forest        |
+|  5 |       6 |    170 | Frank Murphy   | WR         | Kansas State       |
+|  6 |       6 |    174 | Paul Edinger   | K          | Michigan State     |
+|  7 |       7 |    223 | James Cotton   | DE         | Ohio State         |
+|  8 |       7 |    254 | Michael Green  | S          | Northwestern State |
+===================Question===================
+how many players were drafted in the third round?
+===================Text===================
+<think>
+Alright, so I need to figure out how many players were drafted in the third round by the Chicago Bears in 2000 based on the provided table. Let me take a closer look at the table.
+
+The table has several columns: the first column is just an index starting from 0, then Round, Pick, Name, Position, and College. Each row represents a different draft pick. I'm focusing on the 'Round' column to find out which picks were made in the third round.
+
+Looking through each row:
+
+- The first row (index 0) shows Round 1.
+- The second row (index 1) is Round 2.
+- Rows at index 2 and 3 both have Round 3. That's two players so far.
+- Then, rows from index 4 onwards are Rounds 4, 6, etc.
+
+So, I count two entries where the Round is 3: Dez White and Dustin Lyman.
+
+Wait, let me double-check to make sure there aren't any others. Scrolling through all the rounds again, no, only those two are in Round 3. Therefore, the number of players drafted in the third round is 2.
+</think>
+
+Final Answer: 2
+===================Answer===================
+2

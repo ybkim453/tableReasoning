@@ -1,0 +1,56 @@
+===================Title===================
+Janko Tipsarević
+===================Table===================
+|    | Outcome   |   No. | Date             | Tournament                                        | Surface   | Opponent               | Score                        |
+|---:|:----------|------:|:-----------------|:--------------------------------------------------|:----------|:-----------------------|:-----------------------------|
+|  0 | Runner-up |     1 | 25 October 2009  | Kremlin Cup, Russia                               | Hard (i)  | Mikhail Youzhny        | 7–6(7–5), 0–6, 4–6           |
+|  1 | Runner-up |     2 | 19 June 2010     | UNICEF Open, Netherlands                          | Grass     | Sergiy Stakhovsky      | 3–6, 0–6                     |
+|  2 | Runner-up |     3 | 27 February 2011 | International Tennis Championships, United States | Hard      | Juan Martín del Potro | 4–6, 4–6                     |
+|  3 | Runner-up |     4 | 18 June 2011     | Aegon International, United Kingdom               | Grass     | Andreas Seppi          | 6–7(5–7), 6–3, 3–5 ret.      |
+|  4 | Winner    |     1 | 2 October 2011   | Malaysian Open, Malaysia                          | Hard (i)  | Marcos Baghdatis       | 6–4, 7–5                     |
+|  5 | Winner    |     2 | 23 October 2011  | Kremlin Cup, Russia                               | Hard (i)  | Viktor Troicki         | 6–4, 6–2                     |
+|  6 | Runner-up |     5 | 30 October 2011  | St. Petersburg Open, Russia                       | Hard (i)  | Marin Čilić          | 3–6, 6–3, 2–6                |
+|  7 | Runner-up |     6 | 8 January 2012   | Chennai Open, India                               | Hard      | Milos Raonic           | 7–6(7–4), 6–7(4–7), 6–7(4–7) |
+|  8 | Winner    |     3 | 15 July 2012     | Stuttgart Open, Germany                           | Clay      | Juan Mónaco           | 6–4, 5–7, 6–3                |
+|  9 | Runner-up |     7 | 22 July 2012     | Swiss Open, Switzerland                           | Clay      | Thomaz Bellucci        | 7–6(8–6), 4–6, 2–6           |
+| 10 | Winner    |     4 | 6 January 2013   | Chennai Open, India                               | Hard      | Roberto Bautista-Agut  | 3–6, 6–1, 6–3                |
+===================Question===================
+how many winners are listed in the outcome column?
+===================Text===================
+<think>
+Okay, so I need to figure out how many winners are listed in the outcome column of this table about Janko Tipsarević. Let me start by looking at the table provided.
+
+The table has several columns: Outcome, No., Date, Tournament, Surface, Opponent, and Score. The key here is the "Outcome" column because that's where we can see if he was a winner or runner-up in each event.
+
+I'll go through each row one by one to check the outcome. 
+
+1. The first entry has an Outcome of Runner-up. So, not a win.
+2. The second one is also Runner-up. Still no winners yet.
+3. Third entry: Runner-up again. No luck there either.
+4. Fourth row shows Runner-up once more. Hmm, still none.
+5. Now the fifth entry changes things—Outcome is Winner! That's our first winner.
+6. Sixth row: Outcome is Winner again. So that's two winners now.
+7. Seventh entry goes back to Runner-up. No addition there.
+8. Eighth row: Winner. Now we have three winners.
+9. Ninth entry is Runner-up, so no change.
+10. Tenth and final row: Winner. That brings the total to four winners.
+
+Let me just count again to make sure I didn't miss any. Starting from the top:
+
+- 1st: Runner-up
+- 2nd: Runner-up
+- 3rd: Runner-up
+- 4th: Runner-up
+- 5th: Winner (1)
+- 6th: Winner (2)
+- 7th: Runner-up
+- 8th: Winner (3)
+- 9th: Runner-up
+- 10th: Winner (4)
+
+Yes, that's four instances where the Outcome is Winner. So the number of winners listed in the outcome column is four.
+</think>
+
+Final Answer: 4
+===================Answer===================
+4

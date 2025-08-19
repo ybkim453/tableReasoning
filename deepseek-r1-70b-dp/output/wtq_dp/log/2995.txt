@@ -1,0 +1,48 @@
+===================Title===================
+Hawaii Islanders
+===================Table===================
+|    |   Year | Record   | Finish   | Manager                                        | Playoffs           |
+|---:|-------:|:---------|:---------|:-----------------------------------------------|:-------------------|
+|  0 |   1961 | 68-86    | 6th      | Tommy Heath / Bill Werle                       | none               |
+|  1 |   1962 | 77-76    | 5th      | Irv Noren                                      | none               |
+|  2 |   1963 | 81-77    | 4th      | Irv Noren                                      | nan                |
+|  3 |   1964 | 60-98    | 10th     | Bob Lemon                                      | nan                |
+|  4 |   1965 | 75-72    | 6th (t)  | George Case                                    | nan                |
+|  5 |   1966 | 63-84    | 10th     | George Case                                    | nan                |
+|  6 |   1967 | 60-87    | 12th     | Wayne Terwilliger                              | nan                |
+|  7 |   1968 | 78-69    | 3rd      | Bill Adair                                     | nan                |
+|  8 |   1969 | 74-72    | 4th      | Chuck Tanner                                   | nan                |
+|  9 |   1970 | 98-48    | 1st      | Chuck Tanner                                   | Lost League Finals |
+| 10 |   1971 | 73-73    | 4th (t)  | Bill Adair                                     | nan                |
+| 11 |   1972 | 74-74    | 5th      | Rocky Bridges                                  | nan                |
+| 12 |   1973 | 70-74    | 5th      | Rocky Bridges / Warren Hacker / Roy Hartsfield | nan                |
+| 13 |   1974 | 67-77    | 6th      | Roy Hartsfield                                 | nan                |
+| 14 |   1975 | 88-56    | 1st      | Roy Hartsfield                                 | League Champs      |
+| 15 |   1976 | 77-68    | 2nd      | Roy Hartsfield                                 | League Champs      |
+| 16 |   1977 | 79-67    | 2nd      | Dick Phillips                                  | Lost League Finals |
+| 17 |   1978 | 56-82    | 8th      | Dick Phillips                                  | nan                |
+| 18 |   1979 | 72-76    | 8th      | Dick Phillips                                  | Lost League Finals |
+| 19 |   1980 | 76-65    | 5th      | Doug Rader                                     | Lost League Finals |
+| 20 |   1981 | 72-65    | 3rd (t)  | Doug Rader                                     | Lost in 1st round  |
+| 21 |   1982 | 73-71    | 5th      | Doug Rader                                     | nan                |
+| 22 |   1983 | 72-71    | 5th      | Tom Trebelhorn                                 | nan                |
+| 23 |   1984 | 87-53    | 1st      | Tommy Sandt                                    | Lost League Finals |
+| 24 |   1985 | 84-59    | 1st      | Tommy Sandt                                    | Lost in 1st round  |
+| 25 |   1986 | 65-79    | 9th      | Tommy Sandt                                    | nan                |
+| 26 |   1987 | 65-75    | 9th      | Bob Bailey                                     | nan                |
+===================Question===================
+who was the next manager after george case?
+===================Text===================
+<think>
+Okay, so I need to figure out who was the next manager after George Case based on the provided table about the Hawaii Islanders. Let me start by looking through the table and identifying where George Case is listed.
+
+First, I'll scan through the "Manager" column. I see that in 1965 (index 4), the manager is George Case. The record for that year was 75-72, finishing 6th(t). Then, moving to the next year, which would be 1966 at index 5, the manager is still listed as George Case. So he managed two consecutive years: 1965 and 1966.
+
+Now, I need to find out who took over after him. Looking at the subsequent years, in 1967 (index 6), the manager changed to Wayne Terwilliger. That means right after George Case's tenure in 1965-1966, the next manager was Wayne Terwilliger starting from 1967.
+
+I don't see any other managers mentioned between 1966 and 1967, so it seems like Wayne Terwilliger is indeed the one who came right after George Case. Therefore, the answer should be Wayne Terwilliger.
+</think>
+
+Final Answer: Wayne Terwilliger
+===================Answer===================
+Wayne Terwilliger

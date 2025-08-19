@@ -1,0 +1,42 @@
+===================Title===================
+Kristýna Plíšková
+===================Table===================
+|    | Outcome   |   No. | Date              | Tournament                    | Surface    | Partner               | Opponents                              | Score                  |
+|---:|:----------|------:|:------------------|:------------------------------|:-----------|:----------------------|:---------------------------------------|:-----------------------|
+|  0 | Runner-up |     1 | 16 May 2010       | Kurume, Japan                 | Clay       | Karolína Plíšková | Sun Shengnan\n Xu Yifan                | 0–6, 3–6               |
+|  1 | Winner    |     1 | 13 February 2011  | Rancho Mirage, United States  | Hard       | Karolína Plíšková | Nadejda Guskova\n Sandra Zaniewska     | 6–7(6–8), 6–1, 6–4     |
+|  2 | Winner    |     2 | 7 August 2011     | Vancouver, Canada             | Hard       | Karolína Plíšková | Jamie Hampton\n N. Lertcheewakarn      | 5–7, 6–2, 6–4          |
+|  3 | Runner-up |     2 | 6 November 2011   | Taipei 5, Taiwan              | Hard       | Karolína Plíšková | Chan Yung-jan\n Zheng Jie              | 6–7(5–7), 7–5, 3–6     |
+|  4 | Runner-up |     3 | 20 November 2011  | Bratislava, Slovakia          | Hard       | Karolína Plíšková | Naomi Broady\n Kristina Mladenovic     | 7–5, 4–6, [2–10]       |
+|  5 | Winner    |     3 | 23 January 2012   | Andrézieux-Bouthéon, France | Hard (i)   | Karolína Plíšková | Julie Coin\n Eva Hrdinová             | 6–4, 4–6, [10–5]       |
+|  6 | Winner    |     4 | 30 January 2012   | Grenoble, France              | Hard (i)   | Karolína Plíšková | Valentyna Ivakhnenko\n Maryna Zanevska | 6–1, 6–3               |
+|  7 | Runner-up |     4 | 17 September 2012 | Shrewsbury, United Kingdom    | Hard (i)   | Karolína Plíšková | Vesna Dolonc\n Stefanie Vögele        | 1–6, 7–6(7–3), [13–15] |
+|  8 | Winner    |     5 | 12 November 2012  | Zawada, Poland                | Carpet (i) | Karolína Plíšková | Kristina Barrois\n Sandra Klemenschits | 6–3, 6–1               |
+|  9 | Winner    |     6 | 28 October 2013   | Barnstaple, United Kingdom    | Hard (i)   | Naomi Broady          | Raluca Olaru\n Tamira Paszek           | 6–3, 3–6, [10–5]       |
+===================Question===================
+how many total wins are there?
+===================Text===================
+<think>
+Okay, so I have this table about Kristýna Plíšková and her matches. The question is asking how many total wins she has based on this data. Let me look at each row carefully.
+
+First, the columns are Outcome, No., Date, Tournament, Surface, Partner, Opponents, and Score. The Outcome column tells me whether she won or was a runner-up for each match.
+
+I'll go through each row one by one to count the wins. 
+
+Row 0: Outcome is Runner-up. So that's not a win.
+Row 1: Outcome is Winner. That's her first win.
+Row 2: Again, Winner. Second win.
+Row 3: Runner-up again, so no win here.
+Row 4: Runner-up once more, still no addition to wins.
+Row 5: Winner, that's the third win.
+Row 6: Winner, fourth win.
+Row 7: Runner-up, nothing added.
+Row 8: Winner, fifth win.
+Row 9: Winner, sixth win.
+
+Wait, let me count again to make sure I didn't miss any. Rows 1,2,5,6,8,9 are all winners. That's six wins in total. So the answer should be 6.
+</think>
+
+Final Answer: 6
+===================Answer===================
+6

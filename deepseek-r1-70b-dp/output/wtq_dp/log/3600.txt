@@ -1,0 +1,39 @@
+===================Title===================
+Lic. Adolfo López Mateos International Airport
+===================Table===================
+|    |   Rank | City                           | Passengers   |   Ranking | Airline                                |
+|---:|-------:|:-------------------------------|:-------------|----------:|:---------------------------------------|
+|  0 |      1 | Quintana Roo, Cancún          | 132,046      |       nan | Aeroméxico Connect, Interjet, Volaris |
+|  1 |      2 | Nuevo León, Monterrey         | 106,513      |       nan | Aeroméxico Connect, Interjet          |
+|  2 |      3 | Guerrero, Acapulco             | 56,069       |       nan | Aeroméxico Connect, Interjet          |
+|  3 |      4 | Jalisco, Guadalajara           | 52,584       |       nan | Aeroméxico Connect, Volaris           |
+|  4 |      5 | Jalisco, Puerto Vallarta       | 43,419       |         1 | Interjet                               |
+|  5 |      6 | Baja California Sur, Los Cabos | 37,526       |         1 | Interjet                               |
+|  6 |      7 | Guerrero, Ixtapa/Zihuatanejo   | 35,507       |       nan | Interjet                               |
+|  7 |      8 | Baja California, Tijuana       | 14,906       |       nan | Interjet                               |
+|  8 |      9 | Tabasco, Villahermosa          | 6,928        |         1 | VivaAerobus                            |
+|  9 |     10 | Tamaulipas, Tampico            | 3,619        |         1 | VivaAerobus                            |
+===================Question===================
+what were the number of routes that had at least 50,000 passengers?
+===================Text===================
+<think>
+Alright, let's tackle this problem step by step. The user provided a table with data about various cities and their passenger numbers at Lic. Adolfo López Mateos International Airport. They're asking how many routes had at least 50,000 passengers.
+
+First, I need to understand the structure of the table. Each row represents a different route, with details like City, Passengers, and Ranking. The key here is the 'Passengers' column because we're looking for routes where this number is 50,000 or higher.
+
+Looking at each entry:
+
+1. Quintana Roo, Cancún has 132,046 passengers. That's way above 50k.
+2. Nuevo León, Monterrey with 106,513 also exceeds the threshold.
+3. Guerrero, Acapulco is next with 56,069, which is just over 50k.
+4. Jalisco, Guadalajara has 52,584, which is above 50k.
+5. The remaining cities (Puerto Vallarta, Los Cabos, Ixtapa/Zihuatanejo, Tijuana, Villahermosa, and Tampico) all have passenger numbers below 50k.
+
+So, counting the ones that meet or exceed 50k: Cancún, Monterrey, Acapulco, and Guadalajara. That makes four routes.
+
+I should make sure I didn't miss any entries. Scanning through again, no other cities in the table have passenger counts above 50k beyond these four. Therefore, the answer is straightforward.
+</think>
+
+Final Answer: 4
+===================Answer===================
+4

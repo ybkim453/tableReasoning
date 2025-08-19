@@ -1,0 +1,51 @@
+===================Title===================
+1980–81 San Antonio Spurs season
+===================Table===================
+|    |   Round |   Pick | Player         | Position   | Nationality   | School/Club Team            |
+|---:|--------:|-------:|:---------------|:-----------|:--------------|:----------------------------|
+|  0 |       1 |     15 | Reggie Johnson | PF/C       | United States | Tennessee                   |
+|  1 |       2 |     39 | Michael Miley  | nan        | United States | California State-Long Beach |
+|  2 |       3 |     60 | Lavon Mercer   | nan        | United States | Georgia                     |
+|  3 |       3 |     61 | Rich Yonakor   | nan        | United States | North Carolina              |
+|  4 |       4 |     83 | Calvin Roberts | nan        | United States | California State-Fullerton  |
+|  5 |       5 |    107 | Gib Hinz       | nan        | United States | Wisconsin-Eau Claire        |
+|  6 |       6 |    129 | Dean Uthoff    | nan        | United States | Iowa State                  |
+|  7 |       7 |    153 | Allan Zahn     | nan        | United States | Arkansas                    |
+|  8 |       8 |    172 | Bill Bailey    | nan        | United States | Texas Pan-American          |
+|  9 |       9 |    192 | Al Williams    | nan        | United States | North Texas State           |
+| 10 |      10 |    209 | Steve Schall   | nan        | United States | Arkansas                    |
+===================Question===================
+how many on the list were picked in the first 100 selections?
+===================Text===================
+<think>
+Okay, so I need to figure out how many players from this table were picked in the first 100 selections of the NBA draft for the San Antonio Spurs during the 1980–81 season. Let me break it down step by step.
+
+First, looking at the table, each row represents a player selected by the Spurs, along with their round, pick number, position, nationality, and school or club team. The key here is to focus on the "Pick" column because that will tell me where each player was selected in the overall draft order.
+
+The question is asking specifically about those who were picked within the first 100 selections. So I need to go through each row and check if their pick number is less than or equal to 100. Let's start from the top.
+
+1. Reggie Johnson: Pick #15. That's definitely in the first 100.
+2. Michael Miley: Pick #39. Also within the first 100.
+3. Lavon Mercer: Pick #60. Still under 100.
+4. Rich Yonakor: Next pick is #61, which is also under 100.
+5. Calvin Roberts: Pick #83. That's still in the first 100.
+6. Gib Hinz: Pick #107. Oh, that's over 100, so he doesn't count.
+7. Dean Uthoff: Pick #129. Also over 100.
+8. Allan Zahn: Pick #153. Over 100.
+9. Bill Bailey: Pick #172. Way over.
+10. Al Williams: Pick #192. Still over.
+11. Steve Schall: Pick #209. Definitely over.
+
+So counting the ones with pick numbers ≤100:
+- Reggie Johnson (15)
+- Michael Miley (39)
+- Lavon Mercer (60)
+- Rich Yonakor (61)
+- Calvin Roberts (83)
+
+That's a total of 5 players picked in the first 100 selections.
+</think>
+
+Final Answer: 5
+===================Answer===================
+5

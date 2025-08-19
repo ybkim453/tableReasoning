@@ -1,0 +1,55 @@
+===================Title===================
+Levanger
+===================Table===================
+|    | Parish     | Church name       | Location   |   Year built |
+|---:|:-----------|:------------------|:-----------|-------------:|
+|  0 | Alstadhaug | Alstadhaug Church | Alstadhaug |         1180 |
+|  1 | Ekne       | Ekne Church       | Ekne       |         1893 |
+|  2 | Levanger   | Levanger Church   | Levanger   |         1902 |
+|  3 | Levanger   | Bamberg Church    | Levanger   |         1998 |
+|  4 | Markabygd  | Markabygda Church | Markabygd  |         1887 |
+|  5 | Okkenhaug  | Okkenhaug Chapel  | Okkenhaug  |         1893 |
+|  6 | Ytterøy    | Ytterøy Church    | Ytterøya   |         1890 |
+|  7 | Åsen      | Åsen Church      | Åsen      |         1904 |
+===================Question===================
+which parish had the most churches built.
+===================Text===================
+<think>
+Okay, so I have this table about Levanger with information on parishes and their churches. The question is asking which parish had the most churches built. Let me go through each step carefully.
+
+First, I need to understand what's in the table. Each row represents a church with details like the parish it belongs to, the name of the church, its location, and the year it was built. There are 8 rows in total.
+
+The key here is to count how many churches each parish has. The "Parish" column will tell me that. I'll list out the parishes and count their occurrences.
+
+Looking at row 0: Parish is Alstadhaug, so that's 1 church.
+Row 1: Ekne, another single church, total here is 1.
+Row 2: Levanger, that's one. But wait, in row 3, it's also Levanger. So now Levanger has two churches.
+Moving to row 4: Markabygd, that's the first time I see this parish, so count is 1.
+Row 5: Okkenhaug Chapel under Okkenhaug parish, another single church.
+Row 6: Ytterøy Church under Ytterøy parish, which is also new, so 1.
+Row 7: Åsen Church under Åsen parish, first occurrence as well.
+
+So compiling the counts:
+- Alstadhaug: 1
+- Ekne: 1
+- Levanger: 2 (from rows 2 and 3)
+- Markabygd: 1
+- Okkenhaug: 1
+- Ytterøy: 1
+- Åsen: 1
+
+Wait, that's seven parishes but the table has eight rows. Let me recount because maybe I missed something.
+
+Looking again:
+Row 0: Alstadhaug – 1
+Row 1: Ekne – 1
+Row 2: Levanger – count starts here as 1
+Row 3: Levanger again, so total for Levanger is now 2.
+Rows 4 to 7 each have unique parishes, adding one each. So that's correct; Levanger has two churches.
+
+Therefore, the parish with the most churches built is Levanger, having two churches.
+</think>
+
+Final Answer: Levanger
+===================Answer===================
+Levanger

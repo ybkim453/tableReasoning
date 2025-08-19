@@ -1,0 +1,55 @@
+===================Title===================
+Daniel Tovar
+===================Table===================
+|    | Year      | Title                          | Rol                                                     | Format       | Related Links                                               |
+|---:|:----------|:-------------------------------|:--------------------------------------------------------|:-------------|:------------------------------------------------------------|
+|  0 | 2010      | Niñas mal (telenovela)        | Piti                                                    | Telenovela   | http://www.novelamtv.com/                                   |
+|  1 | 2010      | Soy tu fan (México)           | Actor                                                   | Serie        | https://www.youtube.com/watch?v=hnCb5GG0E2U                 |
+|  2 | 2010      | Yo Te Estaré Cuidando         | Camilo                                                  | Short Film   | nan                                                         |
+|  3 | 2009      | Infinito                       | nan                                                     | Short Film   | nan                                                         |
+|  4 | 2009      | Me Mueves 2° Temporada         | Arturo                                                  | Serie        | https://www.youtube.com/watch?v=fNE5WHZ_tt8&feature=related |
+|  5 | 2008      | Me Mueves 1° Temporada         | Arturo                                                  | Serie        | https://www.youtube.com/watch?v=lj2Q6rrOK1k                 |
+|  6 | 2008      | La Carretera Es Blanca Y Llana | Peru                                                    | Short Film   | https://www.youtube.com/watch?v=GKehxHZ16rs                 |
+|  7 | 2007      | La Zona                        | Alejandro                                               | Feature Film | https://www.youtube.com/watch?v=W5SzXJe-NMk                 |
+|  8 | 2006–2008 | Skimo                          | Fito                                                    | Serie        | https://www.youtube.com/watch?v=w_6cn3BajE0&feature=related |
+|  9 | 2006      | La Vida Inmune                 | Malhora                                                 | Feature Film | https://www.youtube.com/watch?v=PQt4RU3usnw                 |
+| 10 | 2005      | Cuentos De Pelos               | nan                                                     | Serie        | nan                                                         |
+| 11 | 2005      | Quinceañera                   | nan                                                     | Feature Film | nan                                                         |
+| 12 | 2004      | El Divan De Valentina          | Dj                                                      | Serie        | nan                                                         |
+| 13 | 2001      | Perros Patinadores             | nan                                                     | Short Film   | nan                                                         |
+| 14 | 1997–2001 | Bizbirije                      | Differentes personajes en "No es Justo" y "Ponte Bizbo" | Capsulas     | https://www.youtube.com/watch?v=M7YCuvFbFJ0                 |
+===================Question===================
+name a film title that does not have any related links listed.
+===================Text===================
+<think>
+Okay, so I need to figure out which film titles from Daniel Tovar's work don't have any related links listed in the table. Let me go through each row one by one.
+
+Starting with the first entry, it's "Niñas mal (telenovela)" from 2010, and the link is there, so that's not it. Next is "Soy tu fan (México)", also 2010, has a YouTube link. Then "Yo Te Estaré Cuidando" from 2010, but the Related Links column says 'nan', which I think means no link. So that's one possibility.
+
+Looking further down, "Infinito" from 2009 also has 'nan' in the links. Then "Me Mueves 2° Temporada" and "1° Temporada" both have YouTube links. "La Carretera Es Blanca Y Llana" has a link too. "La Zona" has a link as well.
+
+Moving on, "Skimo" from 2006–2008 has a related link. "La Vida Inmune" also has one. Now, "Cuentos De Pelos" from 2005 shows 'nan' in the links column, so that's another one without a link. Similarly, "Quinceañera" from 2005 and "El Divan De Valentina" from 2004 both have 'nan'. Then there's "Perros Patinadores" from 2001 with no link, but wait, it does say 'Short Film' so it might be a film. Lastly, "Bizbirije" has a link.
+
+So the films without links are: Yo Te Estaré Cuidando (2010), Infinito (2009), Cuentos De Pelos (2005), Quinceañera (2005), El Divan De Valentina (2004), and Perros Patinadores (2001). 
+
+Wait, the question asks specifically for film titles. Let me check each format: "Yo Te Estaré Cuidando" is a Short Film, so it counts. Same with Infinito as Short Film, Quinceañera is Feature Film, El Divan De Valentina is Serie, but wait, Serie is series or TV show, not film. So I should exclude that.
+
+So the actual films without links are: Yo Te Estaré Cuidando (Short Film), Infinito (Short Film), Quinceañera (Feature Film). Also, "Cuentos De Pelos" is a Serie, so no. Perros Patinadores is Short Film but from 2001.
+
+Wait, the user's question was about film titles. So I need to include all entries where the Format is either Feature Film or Short Film and Related Links is 'nan'.
+
+Let me list each row with those criteria:
+
+- Row 2 (2010): Yo Te Estaré Cuidando - Short Film, nan
+- Row3 (2009): Infinito - Short Film, nan
+- Row11 (2005): Quinceañera - Feature Film, nan
+- Row13 (2001): Perros Patinadores - Short Film, nan
+
+Wait, earlier I thought El Divan De Valentina was a Serie, so not a film. So the films without links are Yo Te Estaré Cuidando, Infinito, Quinceañera, and Perros Patinadores.
+
+So answer should include these titles.
+</think>
+
+Final Answer: Yo Te Estaré Cuidando, Infinito, Quinceañera, Perros Patinadores
+===================Answer===================
+Yo Te Estaré Cuidando

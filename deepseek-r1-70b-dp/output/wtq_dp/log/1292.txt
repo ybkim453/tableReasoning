@@ -1,0 +1,91 @@
+===================Title===================
+PSL Players' Player of the Season
+===================Table===================
+|    | Season   | Footballer         | Club              | Position   | Nationality   |
+|---:|:---------|:-------------------|:------------------|:-----------|:--------------|
+|  0 | 2012-13  | Itumeleng Khune    | Kaizer Chiefs     | GK         | South Africa  |
+|  1 | 2011-12  | Siyabonga Nomvethe | Moroka Swallows   | FW         | South Africa  |
+|  2 | 2010-11  | Thulani Serero     | Ajax Cape Town    | MF         | South Africa  |
+|  3 | 2009-10  | Katlego Mphela     | Mamelodi Sundowns | FW         | South Africa  |
+|  4 | 2008-09  | Teko Modise        | Orlando Pirates   | MF         | South Africa  |
+|  5 | 2007-08  | Itumeleng Khune    | Kaizer Chiefs     | GK         | South Africa  |
+|  6 | 2006-07  | Godfrey Sapula     | Mamelodi Sundowns | MF         | South Africa  |
+|  7 | 2005-06  | Surprise Moriri    | Mamelodi Sundowns | MF         | South Africa  |
+|  8 | 2004-05  | Sandile Ndlovu     | Dynamos           | FW         | South Africa  |
+|  9 | 2003-04  | Tinashe Nengomasha | Kaizer Chiefs     | MF         | Zimbabwe      |
+| 10 | 2002-03  | Moeneeb Josephs    | Ajax Cape Town    | GK         | South Africa  |
+| 11 | 2001-02  | Jabu Pule          | Kaizer Chiefs     | MF         | South Africa  |
+| 12 | 2000-01  | Benjani Mwaruwari  | Jomo Cosmos       | FW         | Zimbabwe      |
+| 13 | 1999-00  | Siyabonga Nomvethe | Kaizer Chiefs     | FW         | South Africa  |
+| 14 | 1998-99  | Roger Feutmba      | Mamelodi Sundowns | MF         | Cameroon      |
+| 15 | 1997-98  | Raphael Chukwu     | Mamelodi Sundowns | FW         | Nigeria       |
+| 16 | 1996-97  | Wilfred Mugeyi     | Bush Bucks        | FW         | Zimbabwe      |
+===================Question===================
+which nationalities were only represented once?
+===================Text===================
+<think>
+Alright, let's tackle this problem step by step. The question is asking which nationalities were represented only once in the given table of PSL Players' Player of the Season.
+
+First, I'll need to look through each row and note down the Nationality column. Counting occurrences for each nationality will help identify those that appear exactly once.
+
+Starting from the top:
+
+- 2012-13: South Africa
+- 2011-12: South Africa
+- 2010-11: South Africa
+- 2009-10: South Africa
+- 2008-09: South Africa
+- 2007-08: South Africa
+- 2006-07: South Africa
+- 2005-06: South Africa
+- 2004-05: South Africa
+- 2003-04: Zimbabwe
+- 2002-03: South Africa
+- 2001-02: South Africa
+- 2000-01: Zimbabwe
+- 1999-00: South Africa
+- 1998-99: Cameroon
+- 1997-98: Nigeria
+- 1996-97: Zimbabwe
+
+Now, I'll list out each nationality and count how many times each appears:
+
+- South Africa: Let's see, rows 0 to 15 have multiple entries. Counting them... that's rows 0,1,2,3,4,5,6,7,8,9 (wait, no, row 9 is Zimbabwe), so up to row 12 and beyond. Actually, let me recount:
+
+Looking again: From the list above, South Africa appears in most entries except for a few.
+
+Breaking it down:
+
+South Africa is present in rows:
+0,1,2,3,4,5,6,7,8,10,11,12 (Wait, row 12 is Zimbabwe), so up to row 13 (which is South Africa). So that's multiple times. Let me count each occurrence:
+
+Row 0: SA
+Row1: SA
+Row2:SA
+ Row3:SA
+Row4:SA
+Row5:SA
+Row6:SA
+Row7:SA
+Row8:SA
+Row10:SA
+Row11:SA
+Row13:SA
+
+That's 12 times.
+
+Zimbabwe appears in rows:
+9,12,16? Wait no, looking back:
+
+Wait, my initial list shows row 9 as Zimbabwe (Tinashe Nengomasha), row 12 is Benjani Mwaruwari (also Zimbabwe), and row 16: Wilfred Mugeyi (Zimbabwe). So that's three times.
+
+Cameroon appears once in row14: Roger Feutmba.
+
+Nigeria appears once in row15: Raphael Chukwu.
+
+So, the nationalities with only one occurrence are Cameroon and Nigeria.
+</think>
+
+Final Answer: Cameroon, Nigeria
+===================Answer===================
+Cameroon,Nigeria

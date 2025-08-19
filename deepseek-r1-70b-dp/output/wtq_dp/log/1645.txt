@@ -1,0 +1,43 @@
+===================Title===================
+Jacques Laffite
+===================Table===================
+|    |   Year | Class   |   No | Tyres   | Car                                              | Team                    | Co-Drivers                                 |   Laps | Pos.   | Class\nPos.   |
+|---:|-------:|:--------|-----:|:--------|:-------------------------------------------------|:------------------------|:-------------------------------------------|-------:|:-------|:--------------|
+|  0 |   1972 | S\n3.0  |   22 | nan     | Ligier JS2\nMaserati 3.0L V6                     | Automobiles Ligier      | Pierre Maublanc                            |    195 | DNF    | DNF           |
+|  1 |   1973 | S\n3.0  |   62 | nan     | Ligier JS2\nMaserati 3.0L V6                     | Automobiles Ligier      | Guy Ligier                                 |     24 | DSQ    | DSQ           |
+|  2 |   1974 | S\n3.0  |   15 | nan     | Ligier JS2\nMaserati 3.0L V6                     | Automobiles Ligier      | Alain Serpaggi                             |    310 | 8th    | 5th           |
+|  3 |   1977 | S\n+2.0 |    8 | nan     | Renault Alpine A442\nRenault 2.0L Turbo V6       | Renault Sport           | Patrick Depailler                          |    289 | DNF    | DNF           |
+|  4 |   1978 | S\n+2.0 |   10 | nan     | Mirage M9\nRenault 2.0L Turbo V6                 | Grand Touring Cars Inc. | Vern Schuppan\n Sam Posey                  |    293 | 10th   | 5th           |
+|  5 |   1990 | C1      |    6 | G       | Porsche 962C\nPorsche Type-935 3.0L Turbo Flat-6 | Joest Porsche Racing    | Henri Pescarolo\n Jean-Louis Ricci         |    328 | 14th   | 14th          |
+|  6 |   1993 | GT      |   71 | D       | Venturi 500LM\nRenault PRV 3.0 L Turbo V6        | Jacadi Racing           | Michel Maisonneuve\n Christophe Dechavanne |    210 | DNF    | DNF           |
+|  7 |   1994 | GT2     |   49 | P       | Porsche 911 Carrera RSR\nPorsche 3.8 L Flat-6    | Larbre Compétition     | Jacques Alméras\n Jean-Marie Alméras     |     94 | DNF    | DNF           |
+|  8 |   1996 | GT1     |   38 | M       | McLaren F1 GTR\nBMW S70 6.1L V12                 | Team Bigazzi SRL        | Steve Soper\n Marc Duez                    |    318 | 11th   | 9th           |
+===================Question===================
+what year did the porsche first appear in the c1 class?
+===================Text===================
+<think>
+Alright, I need to determine the year when Porsche first appeared in the C1 class according to the provided table about Jacques Laffite's racing history.
+
+First, let me scan through each row of the table and look for entries where the Class is 'C1' and see if the Car or Team mentions Porsche.
+
+Starting with the rows:
+
+- 1972: Class S\3.0, Car Ligier JS2 - not relevant.
+- 1973: Same class as above, still Ligier.
+- 1974: Same, Ligier again.
+- 1977: Class S+2.0, Renault Alpine A442 - no Porsche here.
+- 1978: Still under the same category, Mirage M9 with Renault engine.
+- 1990: Here, the class is C1, and the car is Porsche 962C. This seems to be the first occurrence of Porsche in the C1 class.
+
+Checking further rows:
+
+- 1993: GT class with Venturi, not Porsche.
+- 1994: GT2, but the car is a Porsche 911 Carrera RSR. Although it's a Porsche, this is after the 1990 entry, so earlier occurrence was already found in 1990.
+- 1996: GT1 class, McLaren F1 GTR - not related to C1.
+
+So, the first time Porsche appears in the C1 class is in the year 1990.
+</think>
+
+Final Answer: 1990
+===================Answer===================
+1990

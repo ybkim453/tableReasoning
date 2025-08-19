@@ -1,0 +1,38 @@
+===================Title===================
+River Trent
+===================Table===================
+|    |   Rank\n | Date\n            |   Level at Trent Bridge\nm |   Level at Trent Bridge\nft | Peak Flow\nm3/s   | Peak Flow\ncfs   |
+|---:|---------:|:------------------|---------------------------:|----------------------------:|:------------------|:-----------------|
+|  0 |        1 | February 1795     |                      24.55 |                        80.5 | 1,416             | 50,000           |
+|  1 |        2 | October 1875      |                      24.38 |                        80   | 1,274             | 45,000           |
+|  2 |        3 | March 1947        |                      24.3  |                        79.7 | 1,107             | 39,100           |
+|  3 |        4 | November 1852     |                      24.26 |                        79.6 | 1,082             | 38,200           |
+|  4 |        5 | November 2000     |                      23.8  |                        78.1 | 1,019             | 36,000           |
+|  5 |      nan | Normal / Avg flow |                      20.7  |                        68   | 84                | 3,000            |
+===================Question===================
+when was the last time peak flow was greater than 45,000 cfs?
+===================Text===================
+<think>
+Okay, so I need to figure out when was the last time the peak flow on the River Trent was greater than 45,000 cubic feet per second (cfs) based on the table provided. Let's break this down step by step.
+
+First, looking at the table, there are six entries, each with different dates and corresponding data about the river levels and peak flows in both m³/s and cfs. The key columns here are "Peak Flow m3/s" and "Peak Flow cfs". But since the question is about 45,000 cfs, I'll focus on the cfs column.
+
+Starting from the top of the table:
+
+1. The first entry is from February 1795 with a peak flow of 50,000 cfs. That's definitely greater than 45,000.
+2. The second entry is October 1875 with 45,000 cfs. Hmm, that's exactly 45,000, so it doesn't exceed it.
+3. March 1947 shows 39,100 cfs, which is below 45k.
+4. November 1852 has 38,200 cfs, also below.
+5. November 2000 at 36,000 cfs is even lower.
+6. The last row seems to be the average or normal flow with only 3,000 cfs.
+
+Wait a second, I should check if there's any entry after February 1795 that has a peak flow over 45k. From the table, after 1795, the next highest is October 1875 at exactly 45k, which doesn't count because it's not greater than. Then in March 1947 and others it's even lower.
+
+So the only entry where cfs exceeds 45k is February 1795 with 50k. Since that's the first one chronologically, but we need the last time this happened. After 1795, there are no higher flows over 45k in the subsequent entries; they're all either equal or lower.
+
+Therefore, the last time the peak flow was greater than 45,000 cfs would be February 1795 because that's the most recent date with a value exceeding 45k.
+</think>
+
+Final Answer: February 1795
+===================Answer===================
+February 1795

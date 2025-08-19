@@ -1,0 +1,55 @@
+===================Title===================
+2006 IAAF World Indoor Championships – Men's high jump
+===================Table===================
+|    |   Rank | Athlete            | Nationality    | 2.15   | 2.20   | 2.24   | 2.27   |   Result | Notes   |
+|---:|-------:|:-------------------|:---------------|:-------|:-------|:-------|:-------|---------:|:--------|
+|  0 |      1 | Yaroslav Rybakov   | Russia         | o      | o      | o      | o      |     2.27 | q       |
+|  1 |      1 | Andriy Sokolovskyy | Ukraine        | o      | o      | o      | o      |     2.27 | q       |
+|  2 |      1 | Stefan Holm        | Sweden         | o      | o      | o      | o      |     2.27 | q       |
+|  3 |      1 | Andrey Tereshin    | Russia         | o      | o      | o      | o      |     2.27 | q       |
+|  4 |      1 | Víctor Moya       | Cuba           | o      | o      | o      | o      |     2.27 | q, PB   |
+|  5 |      1 | Linus Thörnblad   | Sweden         | o      | o      | o      | o      |     2.27 | q       |
+|  6 |      7 | Giulio Ciotti      | Italy          | o      | o      | o      | xxx    |     2.24 | q       |
+|  7 |      8 | Robert Wolski      | Poland         | xo     | o      | o      | xxx    |     2.24 | q       |
+|  8 |      9 | Ramsay Carelse     | South Africa   | xo     | xo     | o      | xxx    |     2.24 | nan     |
+|  9 |     10 | Tora Harris        | United States  | o      | o      | xo     | xxx    |     2.24 | nan     |
+| 10 |     10 | Nicola Ciotti      | Italy          | o      | o      | xo     | xxx    |     2.24 | nan     |
+| 11 |     10 | Wojciech Theiner   | Poland         | o      | o      | xo     | xxx    |     2.24 | nan     |
+| 12 |     13 | Tomáš Janku      | Czech Republic | o      | o      | xxo    | xxx    |     2.24 | nan     |
+| 13 |     13 | Mustapha Raifak    | France         | o      | o      | xxo    | xxx    |     2.24 | nan     |
+| 14 |     15 | Svatoslav Ton      | Czech Republic | o      | xo     | xxx    | nan    |     2.2  | nan     |
+| 15 |     16 | Adam Shunk         | United States  | o      | xxx    | nan    | 2.15   |   nan    | nan     |
+| 16 |     16 | Roman Fricke       | Germany        | o      | xxx    | nan    | 2.15   |   nan    | nan     |
+===================Question===================
+adam shunk received the same score as what other competitor?
+===================Text===================
+<think>
+Okay, so I need to figure out who Adam Shunk tied with in terms of their score at the 2006 IAAF World Indoor Championships – Men's high jump. Let me look through the table and see.
+
+First, I'll find Adam Shunk in the table. Scanning down, there he is on row 15. His rank is 16, and his result is 2.15m. The notes say "nan", but that might not be relevant right now.
+
+Now, I need to check other athletes to see if anyone else also had a result of 2.15m. Let's go through the table from top to bottom.
+
+Looking at each row:
+
+- Row 0: Result 2.27m
+- Row 1: 2.27m
+- ... and so on until Row 14, which is Svatoslav Ton with 2.20m.
+- Then Row 15: Adam Shunk with 2.15m.
+- Next is Row 16: Roman Fricke from Germany. His result is also 2.15m.
+
+So, both Adam Shunk and Roman Fricke have the same result of 2.15 meters. That means they tied in their scores.
+
+Wait, let me make sure I didn't miss anyone else. Checking rows above:
+
+- Rows 6 to 14 have results of either 2.24m or 2.20m.
+- So no one else in those has 2.15m except Adam and Roman.
+
+Therefore, the answer should be that Adam Shunk tied with Roman Fricke.
+</think>
+
+Adam Shunk received the same score as Roman Fricke.
+
+Final Answer: Roman Fricke
+===================Answer===================
+Roman Fricke

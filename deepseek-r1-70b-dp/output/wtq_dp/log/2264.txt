@@ -1,0 +1,116 @@
+===================Title===================
+Osaka Pro Wrestling Championship
+===================Table===================
+|    | Wrestler:            | Times:   | Date:             | Location:    | Notes:                                                                                                                        |
+|---:|:---------------------|:---------|:------------------|:-------------|:------------------------------------------------------------------------------------------------------------------------------|
+|  0 | Super Delfin         | 1        | January 4, 2000   | Tokyo, Japan | Beat Dick Togo for the championship                                                                                           |
+|  1 | Takehiro Murahama    | 1        | May 7, 2000       | Tokyo, Japan | nan                                                                                                                           |
+|  2 | Super Delfin         | 2        | June 18, 2000     | Osaka, Japan | nan                                                                                                                           |
+|  3 | Gamma                | 1        | June 24, 2001     | Osaka, Japan | nan                                                                                                                           |
+|  4 | Super Delfin         | 3        | January 3, 2002   | Osaka, Japan | nan                                                                                                                           |
+|  5 | Takehiro Murahama    | 2        | July 6, 2003      | Osaka, Japan | nan                                                                                                                           |
+|  6 | Daio QUALLT          | 1        | April 17, 2004    | Osaka, Japan | nan                                                                                                                           |
+|  7 | Billyken Kid         | 1        | August 8, 2004    | Osaka, Japan | nan                                                                                                                           |
+|  8 | “Big Boss” MA-G-MA   | 1        | October 2, 2004   | Osaka, Japan | nan                                                                                                                           |
+|  9 | Super Dolphin        | 1        | February 13, 2005 | Osaka, Japan | nan                                                                                                                           |
+| 10 | Super Delfin         | 4        | February 26, 2006 | Osaka, Japan | nan                                                                                                                           |
+| 11 | Billyken Kid         | 2        | August 26, 2006   | Osaka, Japan | nan                                                                                                                           |
+| 12 | Tigers Mask          | 1        | February 12, 2007 | Osaka, Japan | nan                                                                                                                           |
+| 13 | Hideyoshi            | 1        | July 26, 2008     | Osaka, Japan | nan                                                                                                                           |
+| 14 | Billyken Kid         | 3        | February 15, 2009 | Osaka, Japan | nan                                                                                                                           |
+| 15 | Dick Togo            | 1        | July 25, 2009     | Osaka, Japan | nan                                                                                                                           |
+| 16 | Billyken Kid         | 4        | February 11, 2010 | Osaka, Japan | nan                                                                                                                           |
+| 17 | CIMA                 | 1        | June 18, 2010     | Osaka, Japan | nan                                                                                                                           |
+| 18 | Tigers Mask          | 2        | July 29, 2010     | Osaka, Japan | nan                                                                                                                           |
+| 19 | Asian Cougar / Kuuga | 1        | August 28, 2010   | Osaka, Japan | Asian Cougar renamed himself Kuuga during his reign.                                                                          |
+| 20 | Tigers Mask          | 3        | April 29, 2011    | Osaka, Japan | nan                                                                                                                           |
+| 21 | Billyken Kid         | 5        | August 14, 2011   | Osaka, Japan | nan                                                                                                                           |
+| 22 | Daisuke Harada       | 1        | February 26, 2012 | Osaka, Japan | nan                                                                                                                           |
+| 23 | Black Buffalo        | 1        | March 25, 2012    | Osaka, Japan | nan                                                                                                                           |
+| 24 | Daisuke Harada       | 2        | July 22, 2012     | Osaka, Japan | nan                                                                                                                           |
+| 25 | Vacated              | N/A      | March 30, 2013    | Osaka, Japan | Title vacated, after Harada announced that he was not re-signing with Osaka Pro after his contract ran out on April 29, 2013. |
+| 26 | Tigers Mask          | 4        | May 19, 2013      | Osaka, Japan | Defeated Billyken Kid in the finals of a four-man tournament to win the vacant title.                                         |
+| 27 | Quiet Storm          | 1        | July 21, 2013     | Osaka, Japan | nan                                                                                                                           |
+| 28 | Zeus                 | 1        | January 19, 2014  | Osaka, Japan | nan                                                                                                                           |
+===================Question===================
+what is the difference between most and least times?
+===================Text===================
+<think>
+Alright, let's tackle this question step by step. The user has provided a table listing the Osaka Pro Wrestling Championship holders along with their number of title reigns, dates, locations, and some notes. The question asks for the difference between the most and least times someone held the championship.
+
+First, I need to understand what "Times" refers to in the table. It seems like "Times" indicates how many separate occasions a wrestler has won the championship. So, each time a new wrestler wins, that's a new entry, incrementing their count if they've won before.
+
+Looking at the table, I should extract the "Wrestler" and "Times" columns to see who held it more often and who held it less. Let me go through each row:
+
+Row 0: Super Delfin - 1
+Row 1: Takehiro Murahama -1
+Row2: Super Delfin -2 (now total 2)
+Row3: Gamma -1
+Row4: Super Delfin -3 (total 3)
+Row5: Takehiro Murahama -2 (his second time, so now he's at 2)
+Row6: Daio QUALLT -1
+Row7: Billyken Kid -1
+Row8: “Big Boss” MA-G-MA -1
+Row9: Super Dolphin -1
+Row10: Super Delfin -4 (now total 4)
+Row11: Billyken Kid -2
+Row12: Tigers Mask -1
+Row13: Hideyoshi -1
+Row14: Billyken Kid -3
+Row15: Dick Togo -1
+Row16: Billyken Kid -4 (total 4)
+Row17: CIMA -1
+Row18: Tigers Mask -2
+Row19: Asian Cougar / Kuuga -1
+Row20: Tigers Mask -3
+Row21: Billyken Kid -5 (now at 5)
+Row22: Daisuke Harada -1
+Row23: Black Buffalo -1
+Row24: Daisuke Harada -2
+Row25: Vacated - N/A
+Row26: Tigers Mask -4
+Row27: Quiet Storm -1
+Row28: Zeus -1
+
+Wait, so I need to list each wrestler's total number of reigns. Let me make a list:
+
+- Super Delfin: 4 times (rows 0,2,4,10)
+- Takehiro Murahama: 2 times (rows 1,5)
+- Gamma:1
+- Daio QUALLT:1
+- Billyken Kid: 4 (rows7,11,14,16) but wait, row21 has him at 5. So adding up:
+
+Row7:1, row11:2, row14:3, row16:4, row21:5. So Billyken Kid has 5 reigns.
+
+- Tigers Mask: rows12 (1),18(2),20(3),26(4) → total 4
+- Hideyoshi:1
+- Dick Togo:1
+- Super Dolphin:1
+- CIMA:1
+- Asian Cougar/Kuuga:1
+- Daisuke Harada:2 (rows22,24)
+- Black Buffalo:1
+- Quiet Storm:1
+- Zeus:1
+
+So the wrestlers and their total reigns:
+
+Billyken Kid:5
+Super Delfin:4
+Tigers Mask:4
+Takehiro Murahama:2
+Daisuke Harada:2
+Gamma:1, Daio QUALLT:1, Big Boss MA-G-MA:1, Super Dolphin:1, Dick Togo:1, CIMA:1, Asian Cougar/Kuuga:1, Hideyoshi:1, Black Buffalo:1, Quiet Storm:1, Zeus:1.
+
+Wait, did I miss any? Let me check each row:
+
+From the rows above, Billyken Kid is at 5, Super Delfin at 4, Tigers Mask at 4. The rest have less.
+
+So the maximum times someone held it is 5 (Billyken Kid), and the minimum is 1 (several wrestlers).
+
+Therefore, the difference between most and least is 5 -1 =4.
+</think>
+
+Final Answer: 4
+===================Answer===================
+4

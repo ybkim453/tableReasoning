@@ -1,0 +1,37 @@
+===================Title===================
+2008 F.C. Tokyo season
+===================Table===================
+|    | Match           | Date   | Venue   | Opponents   | Score   |
+|---:|:----------------|:-------|:--------|:------------|:--------|
+|  0 | GL-B-1          | 2008.. | [[]]    | [[]]        | -       |
+|  1 | GL-B-2          | 2008.. | [[]]    | [[]]        | -       |
+|  2 | GL-B-3          | 2008.. | [[]]    | [[]]        | -       |
+|  3 | GL-B-4          | 2008.. | [[]]    | [[]]        | -       |
+|  4 | GL-B-5          | 2008.. | [[]]    | [[]]        | -       |
+|  5 | GL-B-6          | 2008.. | [[]]    | [[]]        | -       |
+|  6 | Quarterfinals-1 | 2008.. | [[]]    | [[]]        | -       |
+|  7 | Quarterfinals-2 | 2008.. | [[]]    | [[]]        | -       |
+===================Question===================
+how many more gl-b matches are there than quarterfinals?
+===================Text===================
+<think>
+Okay, so I'm trying to figure out how many more GL-B matches there are than Quarterfinals in the 2008 F.C. Tokyo season based on the table provided. Let me break this down step by step.
+
+First, I'll look at the table structure. It has several columns: Match, Date, Venue, Opponents, and Score. Each row represents a different match with an index starting from 0 up to 7. 
+
+I notice that the matches are labeled as GL-B-1 through GL-B-6, which probably stands for Group Stage B matches 1 to 6. Then there are two Quarterfinals matches: Quarterfinals-1 and Quarterfinals-2.
+
+So, my task is to count how many GL-B matches there are and compare that number with the number of Quarterfinals matches to find out the difference.
+
+Starting with GL-B matches, they're numbered from 1 to 6. That means there are 6 GL-B matches in total. Now, looking at the Quarterfinals, I see two entries: Quarterfinals-1 and Quarterfinals-2, so that's 2 matches.
+
+To find out how many more GL-B matches there are compared to Quarterfinals, I subtract the number of Quarterfinals from the number of GL-B matches. That would be 6 minus 2, which equals 4.
+
+Wait a second, let me make sure I didn't miss anything. The table shows indexes up to 7, but only two of those are Quarterfinals. So yes, 6 GL-B and 2 Quarterfinals. Subtracting gives me 4 more GL-B matches than Quarterfinals.
+
+I think that's correct. There's no need to consider any other factors because the question is straightforward about counting based on the given table.
+</think>
+
+Final Answer: 4
+===================Answer===================
+4

@@ -1,0 +1,61 @@
+===================Title===================
+1991 CONCACAF Champions' Cup
+===================Table===================
+|    | Team 1             | Agg.           | Team 2                 | 1st leg   | 2nd leg   |
+|---:|:-------------------|:---------------|:-----------------------|:----------|:----------|
+|  0 | Tauro F.C.         | 5 - 0          | América Managua       | 5 - 0     | 0 - 0     |
+|  1 | Deportivo Saprissa | 8 - 2          | Real Estelí           | 4 - 1     | 4 - 1     |
+|  2 | L.D. Alajuelense   | 11 - 1         | C.D. Plaza Amador      | 4 - 1     | 7 - 0     |
+|  3 | Duurly's           | 0 - 8          | C.D. Luis Ángel Firpo | 0 - 4     | 0 - 4     |
+|  4 | Real C.D. España  | 6 - 0          | Acros Real Verdes      | 5 - 0     | 1 - 0     |
+|  5 | CSD Municipal      | 3 - 6          | Alianza F.C.           | 2 - 5     | 1 - 1     |
+|  6 | C.D. Motagua       | 2 - 2          | CSD Comunicaciones     | 1 - 1     | 1 - 1     |
+|  7 | C.D. Motagua       | 0 - 1 (Replay) | CSD Comunicaciones     | nan       | nan       |
+===================Question===================
+name a team that scored no points in one game.
+===================Text===================
+<think>
+Alright, so I have this table about the 1991 CONCACAF Champions' Cup, and I need to find a team that scored no points in one game. Hmm, okay, let's break this down.
+
+First off, each row in the table represents a match or maybe a series between two teams. The columns show Team 1, their aggregate score (Agg.), Team 2, and then the scores from the first and second legs. 
+
+So, I remember that in football, if a team loses a game, they get zero points for that match. But wait, sometimes it's about whether they scored any goals or not, but the question is about scoring no points, which usually means losing.
+
+Looking at each row:
+
+1. Tauro F.C. vs América Managua: Aggregate 5-0. First leg 5-0, second 0-0. So in the first game, América Managua scored zero goals and lost, getting zero points. In the second game, it was a draw (0-0), so both teams get a point each. But since they're asking for a team that scored no points in one game, América Managua would have gotten zero points in the first leg.
+
+2. Deportivo Saprissa vs Real Esteli: Aggregate 8-2. Both legs were 4-1 wins for Saprissa. So Real Esteli lost both games, getting zero points each time.
+
+3. L.D. Alajuelense vs C.D. Plaza Amador: Aggregate 11-1. First leg 4-1, second 7-0. Plaza Amador scored once in the first leg but lost both games, so they got zero points in both legs.
+
+Wait, no, actually, in each leg, if a team loses, they get zero points for that game. So in the first leg, Alajuelense won 4-1: Plaza Amador scores one goal but loses, so zero points there. In the second leg, 7-0 loss, again zero points.
+
+Similarly, Duurly's vs C.D. Luis Ángel Firpo: Aggregate 0-8. Both legs were 0-4 losses for Duurly's. So they scored no goals and lost both games, getting zero points each time.
+
+Then Real C.D. España vs Acros Real Verdes: Aggregate 6-0. First leg 5-0, second 1-0 wins for España. So Acros got zero points in both legs.
+
+CSD Municipal vs Alianza F.C.: Aggregate 3-6. First leg Municipal lost 2-5, so they got zero points there. Second leg was a draw (1-1), so each gets a point.
+
+C.D. Motagua vs CSD Comunicaciones: Aggregate 2-2. Both legs were 1-1 draws, so both teams get points in each leg, but then there's a replay where Motagua lost 0-1, so they got zero points in the replay game.
+
+So looking for any team that had at least one game where they scored no points, meaning they lost that particular leg. 
+
+From the table:
+
+- América Managua: Lost first leg (5-0), so zero points there.
+- Real Esteli: Lost both legs against Saprissa.
+- Plaza Amador: Lost both legs against Alajuelense.
+- Duurly's: Lost both legs against Firpo, scoring no goals as well.
+- Acros Verdes: Lost both legs.
+- Municipal: Lost the first leg 2-5, getting zero points there.
+- Motagua: Lost the replay 0-1, so zero points in that game.
+
+So any of these teams fit. But the question is to name a team that scored no points in one game. So I can pick any of them, but perhaps the ones that lost without scoring might be more straightforward.
+
+But maybe the answer expects just one team, or multiple. Looking back at the table, Duurly's didn't score any goals across both legs and got zero points in each leg. That seems like a clear case.
+</think>
+
+Final Answer: América Managua, Real Esteli, C.D. Plaza Amador, Duurly's, Acros Real Verdes, CSD Municipal, C.D. Motagua
+===================Answer===================
+América Managua

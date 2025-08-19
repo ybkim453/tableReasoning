@@ -1,0 +1,66 @@
+===================Title===================
+PSL Players' Player of the Season
+===================Table===================
+|    | Season   | Footballer         | Club              | Position   | Nationality   |
+|---:|:---------|:-------------------|:------------------|:-----------|:--------------|
+|  0 | 2012-13  | Itumeleng Khune    | Kaizer Chiefs     | GK         | South Africa  |
+|  1 | 2011-12  | Siyabonga Nomvethe | Moroka Swallows   | FW         | South Africa  |
+|  2 | 2010-11  | Thulani Serero     | Ajax Cape Town    | MF         | South Africa  |
+|  3 | 2009-10  | Katlego Mphela     | Mamelodi Sundowns | FW         | South Africa  |
+|  4 | 2008-09  | Teko Modise        | Orlando Pirates   | MF         | South Africa  |
+|  5 | 2007-08  | Itumeleng Khune    | Kaizer Chiefs     | GK         | South Africa  |
+|  6 | 2006-07  | Godfrey Sapula     | Mamelodi Sundowns | MF         | South Africa  |
+|  7 | 2005-06  | Surprise Moriri    | Mamelodi Sundowns | MF         | South Africa  |
+|  8 | 2004-05  | Sandile Ndlovu     | Dynamos           | FW         | South Africa  |
+|  9 | 2003-04  | Tinashe Nengomasha | Kaizer Chiefs     | MF         | Zimbabwe      |
+| 10 | 2002-03  | Moeneeb Josephs    | Ajax Cape Town    | GK         | South Africa  |
+| 11 | 2001-02  | Jabu Pule          | Kaizer Chiefs     | MF         | South Africa  |
+| 12 | 2000-01  | Benjani Mwaruwari  | Jomo Cosmos       | FW         | Zimbabwe      |
+| 13 | 1999-00  | Siyabonga Nomvethe | Kaizer Chiefs     | FW         | South Africa  |
+| 14 | 1998-99  | Roger Feutmba      | Mamelodi Sundowns | MF         | Cameroon      |
+| 15 | 1997-98  | Raphael Chukwu     | Mamelodi Sundowns | FW         | Nigeria       |
+| 16 | 1996-97  | Wilfred Mugeyi     | Bush Bucks        | FW         | Zimbabwe      |
+===================Question===================
+how many total award winners were goal keeps?
+===================Text===================
+<think>
+Okay, so I need to figure out how many total award winners were goalkeepers based on the given table. Let me start by understanding the problem.
+
+The table lists the PSL Players' Player of the Season for various seasons, each with details about the Footballer, Club, Position, and Nationality. My task is to count how many of these winners played as goalkeepers (GK).
+
+First, I'll go through each row one by one and check the "Position" column. For any entry where the position is GK, I'll note down the footballer's name.
+
+Looking at each row:
+
+1. Index 0: Itumeleng Khune - Position is GK.
+2. Index 1: Siyabonga Nomvethe - FW (Forward), not a goalkeeper.
+3. Index 2: Thulani Serero - MF (Midfielder), not a goalkeeper.
+4. Index 3: Katlego Mphela - FW, not a goalkeeper.
+5. Index 4: Teko Modise - MF, not a goalkeeper.
+6. Index 5: Itumeleng Khune again - GK.
+7. Index 6: Godfrey Sapula - MF, not a goalkeeper.
+8. Index 7: Surprise Moriri - MF, not a goalkeeper.
+9. Index 8: Sandile Ndlovu - FW, not a goalkeeper.
+10. Index 9: Tinashe Nengomasha - MF, not a goalkeeper.
+11. Index 10: Moeneeb Josephs - GK.
+12. Index 11: Jabu Pule - MF, not a goalkeeper.
+13. Index 12: Benjani Mwaruwari - FW, not a goalkeeper.
+14. Index 13: Siyabonga Nomvethe again - FW, not a goalkeeper.
+15. Index 14: Roger Feutmba - MF, not a goalkeeper.
+16. Index 15: Raphael Chukwu - FW, not a goalkeeper.
+17. Index 16: Wilfred Mugeyi - FW, not a goalkeeper.
+
+So, from the table, I found three instances where the position is GK:
+
+1. Itumeleng Khune (2012-13)
+2. Itumeleng Khune again (2007-08)
+3. Moeneeb Josephs (2002-03)
+
+Wait, but looking closer, actually, in the rows, Index 0 and Index 5 both list Itumeleng Khune as GK in different seasons, so that's two separate wins for him. Then there's Moeneeb Josephs once.
+
+So total of three goalkeepers have won the award.
+</think>
+
+Final Answer: 3
+===================Answer===================
+3

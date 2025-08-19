@@ -1,0 +1,37 @@
+===================Title===================
+Tongan paʻanga
+===================Table===================
+|    | Value     | Diameter   | Composition   | 1975–1979\nObverse   | 1975–1979\nReverse                                      | 1981-\nObverse      | 1981-\nReverse                                          |
+|---:|:----------|:-----------|:--------------|:---------------------|:--------------------------------------------------------|:--------------------|:--------------------------------------------------------|
+|  0 | 1 seniti  | 18 mm      | Bronze        | Maize                | Pig                                                     | Maize               | Vanilla                                                 |
+|  1 | 2 seniti  | 21 mm      | Bronze        | Marrows              | PLANNED FAMILIES FOOD FOR ALL, six people holding hands | Taro                | PLANNED FAMILIES FOOD FOR ALL, six people holding hands |
+|  2 | 5 seniti  | 19 mm      | Cupronickel   | Chicken with chicks  | Bananas                                                 | Chicken with chicks | Coconuts                                                |
+|  3 | 10 seniti | 24 mm      | Cupronickel   | King                 | Grazing cattle                                          | King                | Bananas on tree                                         |
+|  4 | 20 seniti | 29 mm      | Cupronickel   | King                 | Bees and hive                                           | King                | Yams                                                    |
+|  5 | 50 seniti | 32–33 mm   | Cupronickel   | King                 | Fishes around a vortex                                  | King                | Tomatoes                                                |
+===================Question===================
+how many coins have a diameter of at least 20mm?
+===================Text===================
+<think>
+Alright, let's try to figure out how many coins have a diameter of at least 20mm based on the given table.
+
+First, I'll look through each row of the table and check the diameter for each coin. The columns are labeled from 0 to 5, representing different denominations.
+
+Starting with the first row (0), it's 1 seniti with a diameter of 18 mm. That's below 20mm, so that doesn't count.
+
+Next is row 1, which is 2 seniti with a diameter of 21 mm. Since 21 is greater than or equal to 20, this one counts. So that's the first coin.
+
+Moving on to row 2, it's 5 seniti with a diameter of 19 mm. That's still below 20mm, so we skip this one.
+
+Row 3 is 10 seniti, having a diameter of 24 mm. That's well above 20mm, so that's the second coin that meets the criteria.
+
+Then row 4 is 20 seniti with a diameter of 29 mm. Again, way over 20mm, making it the third qualifying coin.
+
+Lastly, row 5 is 50 seniti, and its diameter is listed as 32–33 mm. Both measurements are above 20mm, so this is the fourth coin that fits.
+
+Now, adding them up: rows 1,3,4,5 each have diameters of at least 20mm. That makes a total of four coins.
+</think>
+
+Final Answer: 4
+===================Answer===================
+4

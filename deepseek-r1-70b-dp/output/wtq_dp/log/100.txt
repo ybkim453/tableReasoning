@@ -1,0 +1,105 @@
+===================Title===================
+Cheltenham Town F.C.
+===================Table===================
+|    | Year      | Kit Manufacturer   | Shirt Sponsor            | Back of Shirt Sponsor   | Short Sponsor        |
+|---:|:----------|:-------------------|:-------------------------|:------------------------|:---------------------|
+|  0 | 1977–1978 | nan                | National Express         | nan                     | nan                  |
+|  1 | 1982–1985 | Umbro              | nan                      | nan                     | nan                  |
+|  2 | 1985–1986 | Umbro              | Whitbread                | nan                     | nan                  |
+|  3 | 1986–1988 | Henson             | Duraflex                 | nan                     | nan                  |
+|  4 | 1988–1989 | nan                | Gulf Oil                 | nan                     | nan                  |
+|  5 | 1991–1993 | Technik            | Gulf Oil                 | nan                     | nan                  |
+|  6 | 1993–1994 | Club Sport         | Gulf Oil                 | nan                     | nan                  |
+|  7 | 1994–1995 | Klūb Sport        | Empress                  | nan                     | nan                  |
+|  8 | 1995–1996 | Matchwinner        | Empress                  | nan                     | nan                  |
+|  9 | 1996–1997 | UK                 | Endsleigh Insurance      | nan                     | nan                  |
+| 10 | 1997–1999 | Errea              | Endsleigh Insurance      | nan                     | nan                  |
+| 11 | 1999–2004 | Errea              | Towergate Insurance      | nan                     | nan                  |
+| 12 | 2004–2008 | Errea              | Bence Building Merchants | nan                     | nan                  |
+| 13 | 2008–     | Errea              | Mira Showers             | nan                     | nan                  |
+| 14 | 2009–2011 | Errea              | Mira Showers             | PSU Technology Group    | nan                  |
+| 15 | 2011–2013 | Errea              | Mira Showers             | Barr Stadia             | Gloucestershire Echo |
+| 16 | 2013–     | Errea              | Mira Showers             | Gloucestershire College | Gloucestershire Echo |
+===================Question===================
+during what time period was there no shirt sponsers?
+===================Text===================
+<think>
+Okay, so I need to figure out during which time periods Cheltenham Town F.C. didn't have a shirt sponsor based on the provided table. Let me go through each row step by step.
+
+Starting from the top, the first entry is 1977–1978. The Shirt Sponsor column says "National Express," so that's not a period without a sponsor.
+
+Next, for 1982–1985 and 1985–1986, the Shirt Sponsor is "nan." I'm assuming "nan" stands for "not available" or "no data," which might mean there was no sponsor then. So those years could be when they didn't have one.
+
+Looking further down, from 1988 onward, each entry has a Shirt Sponsor listed except in some later rows where it's explicitly mentioned as "nan." Wait, actually, looking back at the table:
+
+- Row 0 (1977–78): National Express
+- Rows 1 and 2 (82–85, 85–86): nan for Shirt Sponsor. So these are periods without a shirt sponsor.
+- Then from row 3 onwards, up to row 16, Shirt Sponsor is filled except in rows where it's "nan." But wait, let me double-check the table.
+
+Wait no, looking again:
+
+Row 0: National Express
+Rows 1 and 2: nan (so no sponsor)
+Then Rows 3–6 have sponsors.
+Wait, no. Let me list all rows:
+
+- Year 1977–78: Shirt Sponsor is National Express
+- Then 1982–85: Umbro kit manufacturer but Shirt Sponsor is nan → So no shirt sponsor here
+- 1985–86: Umbro again, Shirt Sponsor is Whitbread → Wait no, in row 1 (82–85), the Shirt Sponsor is 'nan', and then in row 2 (85–86) it's 'Whitbread'
+
+Wait, so row 0: 77–78 has sponsor
+Row 1: 82–85 has no shirt sponsor
+Row 2: 85–86 has Whitbread as sponsor
+Then rows 3 to 16 have various sponsors listed except where Shirt Sponsor is 'nan'.
+
+Wait, looking at the table:
+
+Row 4 (88–89) has Gulf Oil as Shirt Sponsor. So that's not a period without.
+
+Actually, I think only Rows 1 and maybe some others have "nan" in Shirt Sponsor.
+
+Looking again:
+
+- Row 0: National Express → sponsor
+- Row 1: nan → no sponsor
+- Row 2: Whitbread → yes
+- Rows beyond that all seem to have sponsors except perhaps none. Wait, are there any other 'nan's for Shirt Sponsor?
+
+No, seems like only rows 1 and maybe row 1988–89? No, in the table provided, row 4 is 88–89 with Gulf Oil as shirt sponsor.
+
+Wait, looking at each row:
+
+0: National Express → has
+1: nan → no
+2: Whitbread → yes
+3: Duraflex → yes
+4: Gulf Oil → yes
+5: Gulf Oil → yes
+6: Gulf Oil → yes
+7: Empress → yes
+8: Empress → yes
+9: Endsleigh Insurance → yes
+10: Endsleigh → yes
+11: Towergate → yes
+12: Bence → yes
+13: Mira Showers → yes
+14: Mira Showers → yes
+15: Mira Showers → yes
+16: Mira → yes
+
+So only row 1 (1982–1985) has nan in Shirt Sponsor, meaning no shirt sponsor. But wait, let me make sure I didn't miss any other rows.
+
+Wait, there's also row 4 (88–89), but it says Gulf Oil as Shirt Sponsor, so that's not a period without.
+Similarly, all other rows after have a sponsor except maybe none.
+So the only time with no shirt sponsor is from 1982–1985 and perhaps another? Wait, wait:
+
+Looking at the table again, row indices go from 0 to 16.
+
+Row 1 (index 1): Year 82–85 → Shirt Sponsor nan
+Row 4: 88–89 → Gulf Oil
+So only row 1 has no Shirt Sponsor. So the time period is 1982–1985.
+</think>
+
+Final Answer: 1982–1985
+===================Answer===================
+1982-1985

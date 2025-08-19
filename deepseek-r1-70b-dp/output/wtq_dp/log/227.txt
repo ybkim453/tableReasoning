@@ -1,0 +1,30 @@
+===================Title===================
+Škoda Auto
+===================Table===================
+|    | Model           | 1991    | 1995    | 1996    | 1997    | 1998    | 1999    | 2000    | 2001    | 2002    | 2003    | 2004    | 2005    | 2006    | 2007    | 2008    | 2009    | 2010    | 2011    | 2012    | 2013    |
+|---:|:----------------|:--------|:--------|:--------|:--------|:--------|:--------|:--------|:--------|:--------|:--------|:--------|:--------|:--------|:--------|:--------|:--------|:--------|:--------|:--------|:--------|
+|  0 | Škoda Felicia  | 172,000 | 210,000 | nan     | 288,458 | 261,127 | 241,256 | 148,028 | 44,963  | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       |
+|  1 | Škoda Octavia  | −       | −       | nan     | 47,876  | 102,373 | 143,251 | 158,503 | 164,134 | 164,017 | 165,635 | 181,683 | 233,322 | 270,274 | 309,951 | 344,857 | 317,335 | 349,746 | 387,200 | 409,360 | 359,600 |
+|  2 | Škoda Fabia    | −       | −       | −       | −       | −       | 823     | 128,872 | 250,978 | 264,641 | 260,988 | 247,600 | 236,698 | 243,982 | 232,890 | 246,561 | 264,173 | 229,045 | 266,800 | 255,025 | 202,000 |
+|  3 | Škoda Superb   | −       | −       | −       | −       | −       | −       | −       | 177     | 16,867  | 23,135  | 22,392  | 22,091  | 20,989  | 20,530  | 25,645  | 44,548  | 98,873  | 116,700 | 106,847 | 94,400  |
+|  4 | Škoda Roomster | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | 14,422  | 66,661  | 57,467  | 47,152  | 32,332  | 36,000  | 39,249  | 33,300  |
+|  5 | Škoda Yeti     | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | 11,018  | 52,604  | 70,300  | 90,952  | 82,400  |
+|  6 | Škoda Rapid    | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | 1,700   | 9,292   | 103,800 |
+|  7 | Škoda Citigo   | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | 509     | 36,687  | 45,200  |
+|  8 | Total           | 172,000 | 210,000 | 261,000 | 336,334 | 363,500 | 385,330 | 435,403 | 460,252 | 445,525 | 449,758 | 451,675 | 492,111 | 549,667 | 630,032 | 674,530 | 684,226 | 762,600 | 879,200 | 949,412 | 920,800 |
+===================Question===================
+is the number on skoda fabia for 1999 more or less than 1000?
+===================Text===================
+<think>
+Alright, I need to figure out whether the number for Škoda Fabia in 1999 is more or less than 1000 based on the provided table. Let me start by locating the correct row and column.
+
+Looking at the table headers, the years range from 1991 to 2013. The models are listed in rows, with each row corresponding to a different model. I'm interested in the Škoda Fabia, which is row 2 according to the index.
+
+Now, I'll scan across row 2 to find the data for 1999. The columns from 1991 onwards, so 1999 should be the sixth column (since 2000 is next after that). Checking row 2 and the 1999 column, the value listed is 823.
+
+The question asks if this number is more or less than 1000. Since 823 is below 1000, it's definitely less. I don't see any 'nan' values here for 1999 in Fabia's row, so that shouldn't be an issue.
+</think>
+
+Final Answer: Less
+===================Answer===================
+less

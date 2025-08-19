@@ -1,0 +1,96 @@
+===================Title===================
+Divya Prabandha
+===================Table===================
+|    |   Sl no | Name of the prabandham   |   Starting from |   Ending with |   Number of pasurams | Sung by               |
+|---:|--------:|:-------------------------|----------------:|--------------:|---------------------:|:----------------------|
+|  0 |       1 | Periazhvar Thirumozhi    |               1 |           473 |                  473 | Periyalvar            |
+|  1 |       2 | Thiruppavai              |             474 |           503 |                   30 | Aandaal               |
+|  2 |       3 | Nachiar Tirumozhi        |             504 |           646 |                  143 | Aandaal               |
+|  3 |       4 | Perumal Thirumozhi       |             647 |           751 |                  105 | Kulasekara alvar      |
+|  4 |       5 | Thiruchchanda Viruththam |             752 |           871 |                  120 | Thirumalisai alvar    |
+|  5 |       6 | Thirumalai               |             872 |           916 |                   45 | Thondaradippodi alvar |
+|  6 |       7 | Thiruppalliyezhuchchi    |             917 |           926 |                   10 | Thondaradippodi alvar |
+|  7 |       8 | Amalanadhi piran         |             927 |           936 |                   10 | Thiruppaan alvar      |
+|  8 |       9 | Kanni Nun Siruththambu   |             937 |           947 |                   11 | Madhurakavi Alvar     |
+|  9 |      10 | Peria Thirumozhi         |             948 |          2031 |                 1084 | Thirumangai alvar     |
+| 10 |      11 | Kurun Thandagam          |            2032 |          2051 |                   20 | Thirumangai alvar     |
+| 11 |      12 | Nedum Thandagam          |            2052 |          2081 |                   30 | Thirumangai alvar     |
+| 12 |      13 | Mudhal Thiruvandhadhi    |            2082 |          2181 |                  100 | Poigai Alvar          |
+| 13 |      14 | Irandam Thiruvandhadhi   |            2182 |          2281 |                  100 | Bhoothathalvar        |
+| 14 |      15 | Moonram Thiruvandhadhi   |            2282 |          2381 |                  100 | Peyalvar              |
+| 15 |      16 | Naanmugan Thiruvandhadhi |            2382 |          2477 |                   96 | Thirumalisai alvar    |
+| 16 |      17 | Thiruviruththam          |            2478 |          2577 |                  100 | Nammalvar             |
+| 17 |      18 | Thiruvasiriyam           |            2578 |          2584 |                    7 | Nammalvar             |
+| 18 |      19 | Peria Thiruvandhadhi     |            2585 |          2671 |                   87 | Nammalvar             |
+| 19 |      20 | Thiruvezhukkurrirukkai   |            2672 |          2672 |                    1 | Thirumangai alvar     |
+| 20 |      21 | Siriya Thirumadal        |            2673 |          2673 |                    1 | Thirumangai alvar     |
+| 21 |      22 | Peria Thirumadal         |            2674 |          2674 |                    1 | Thirumangai alvar     |
+| 22 |      23 | Thiruvay Mozhi           |            2674 |          3776 |                 1102 | Nammalvar             |
+| 23 |     nan | Total number of pasurams |             nan |           nan |                 3776 | nan                   |
+===================Question===================
+what is the total number of pasarams?
+===================Text===================
+<think>
+Alright, I need to determine the total number of pasurams in the Divya Prabandha based on the provided table. Let me go through this step by step.
+
+First, I'll look at each row of the table because it lists individual prabandhams along with their respective counts of pasurams. The goal is to sum up all these numbers to find the total.
+
+Starting from the top:
+1. Periazhvar Thirumozhi has 473 pasurams.
+2. Thiruppavai has 30.
+3. Nachiar Tirumozhi adds another 143.
+4. Perumal Thirumozhi contributes 105.
+5. Thiruchchanda Viruththam is next with 120.
+6. Thirumalai brings in 45.
+7. Thiruppalliyezhuchchi has 10.
+8. Amalanadhi piran also has 10.
+9. Kanni Nun Siruththambu adds 11 more.
+10. Peria Thirumozhi is a major one with 1084.
+11. Kurun Thandagam contributes 20.
+12. Nedum Thandagam has 30.
+13. Mudhal Thiruvandhadhi comes in with 100.
+14. Irandam Thiruvandhadhi also adds 100.
+15. Moonram Thiruvandhadhi is another 100.
+16. Naanmugan Thiruvandhadhi brings 96.
+17. Thiruviruththam contributes 100.
+18. Thiruvasiriyam has 7.
+19. Peria Thiruvandhadhi adds 87.
+20. Thiruvezhukkurrirukkai is a single one.
+21. Siriya Thirumadal is another single.
+22. Peria Thirumadal also just 1.
+23. Finally, Thiruvay Mozhi has 1102.
+
+Wait, I notice that in the table, the last row (row 23) has "Total number of pasurams" with a value of 3776 and mentions 'nan' for Sl no., which seems to be an error or placeholder. However, since it's part of the data provided, maybe it's correctly indicating the total.
+
+But just to make sure, I should verify by adding up all the individual counts from rows 0 to 22:
+
+Let me list them out:
+473 + 30 = 503
+503 + 143 = 646
+646 + 105 = 751
+751 + 120 = 871
+871 + 45 = 916
+916 + 10 = 926
+926 + 10 = 936
+936 + 11 = 947
+947 + 1084 = 2031
+2031 +20=2051
+2051+30=2081
+2081+100=2181
+2181+100=2281
+2281+100=2381
+2381+96=2477
+2477+100=2577
+2577+7=2584
+2584+87=2671
+2671 +1=2672
+2672 +1=2673
+2673 +1=2674
+2674 +1102=3776
+
+So the total adds up correctly to 3776. Therefore, the 'Total number of pasurams' in row 23 is accurate.
+</think>
+
+Final Answer: 3776
+===================Answer===================
+3776

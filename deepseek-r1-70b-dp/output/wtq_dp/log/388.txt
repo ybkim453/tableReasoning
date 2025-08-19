@@ -1,0 +1,41 @@
+===================Title===================
+Ralph Jones
+===================Table===================
+|    | School   | Season   | Record   | Conference Record   | Place   | Postseason         |
+|---:|:---------|:---------|:---------|:--------------------|:--------|:-------------------|
+|  0 | Illinois | 1912–13  | 10–6     | 7–6                 | 5th     | nan                |
+|  1 | Illinois | 1913–14  | 9–4      | 7–3                 | 3rd     | nan                |
+|  2 | Illinois | 1914–15  | 16–0     | 12–0                | T1st    | National Champions |
+|  3 | Illinois | 1915–16  | 13–3     | 9–3                 | T2nd    | nan                |
+|  4 | Illinois | 1916–17  | 13–3     | 10–2                | T1st    | Big Ten Champions  |
+|  5 | Illinois | 1917–18  | 9–6      | 6–6                 | T4th    | nan                |
+|  6 | Illinois | 1918–19  | 6–8      | 5–7                 | 5th     | nan                |
+|  7 | Illinois | 1919–20  | 9–4      | 8–4                 | 3rd     | nan                |
+|  8 | Illinois | 1912–20  | 85–34    | 64–31               | –       | nan                |
+===================Question===================
+which season ended in the same place as 1916-17?
+===================Text===================
+<think>
+Alright, I'm trying to figure out which season ended in the same place as 1916-17 based on Ralph Jones's table. Let me start by finding where 1916-17 stands. 
+
+Looking at the table, each row corresponds to a different season. The season from 1916–17 is listed in row 4 (index 4 if we count from 0). Under the "Place" column for that season, it says T1st, which I think means they were tied for first place.
+
+Now, I need to check each other season's "Place" to see if any of them also ended up T1st. Let's go through them one by one:
+
+- 1912–13 (row 0): Place is 5th.
+- 1913–14 (row 1): Place is 3rd.
+- 1914–15 (row 2): Place is T1st and they were National Champions. So this season also ended in first place, tied with someone else perhaps.
+- 1915–16 (row 3): Place is T2nd.
+- 1916–17 (row 4): As established, it's T1st.
+- 1917–18 (row 5): Place is T4th.
+- 1918–19 (row 6): Place is 5th.
+- 1919–20 (row 7): Place is 3rd.
+
+So the only other season with a T1st place finish was in 1914–15. Therefore, both the 1914–15 and 1916–17 seasons ended in first place, tied with others perhaps.
+
+Wait, but wait—the question asks for which season ended in the same place as 1916-17. Since 1916-17 is T1st, I need to find any other season that also has T1st. From my check, only 1914–15 matches that. So the answer would be 1914–15.
+</think>
+
+Final Answer: 1914–15
+===================Answer===================
+1914-15

@@ -1,0 +1,37 @@
+===================Title===================
+Princess Disneymania
+===================Table===================
+|    |   # | Title                                | Performer(s)           | Film                            | Length   |
+|---:|----:|:-------------------------------------|:-----------------------|:--------------------------------|:---------|
+|  0 |   1 | "Once Upon a Dream"                  | Emily Osment           | Sleeping Beauty                 | 3:32     |
+|  1 |   2 | "That's How You Know"                | Demi Lovato            | Enchanted                       | 3:12     |
+|  2 |   3 | "Some Day My Prince Will Come"       | Ashley Tisdale         | Snow White and the Seven Dwarfs | 3:30     |
+|  3 |   4 | "Colors of the Wind"                 | Vanessa Hudgens        | Pocahontas                      | 3:58     |
+|  4 |   5 | "Reflection"                         | Christina Aguilera     | Mulan                           | 3:33     |
+|  5 |   6 | "So This Is Love"                    | The Cheetah Girls      | Cinderella                      | 3:40     |
+|  6 |   7 | "Kiss the Girl"                      | Colbie Caillat         | The Little Mermaid              | 3:16     |
+|  7 |   8 | "It's Not Just Make Believe"         | Kari Kimmel            | Ella Enchanted                  | 3:06     |
+|  8 |   9 | "Under the Sea"                      | Raven-Symoné          | The Little Mermaid              | 3:15     |
+|  9 |  10 | "Ever Ever After"                    | Jordan Pruitt          | Enchanted                       | 3:12     |
+| 10 |  11 | "True to Your Heart"                 | Keke Palmer            | Mulan                           | 3:22     |
+| 11 |  12 | "Happy Working Song"                 | Amy Adams              | Enchanted                       | 2:09     |
+| 12 |  13 | "Part of Your World"                 | Original Broadway Cast | The Little Mermaid              | 3:23     |
+| 13 |  14 | "A Dream Is a Wish Your Heart Makes" | Disney Channel Stars   | Cinderella                      | 3:46     |
+===================Question===================
+what song is listed last on the chart?
+===================Text===================
+<think>
+Okay, so I'm looking at this table about Princess Disneymania and I need to figure out what song is listed last on the chart. Let me start by understanding how the table is structured. The first column seems to be an index starting from 0 up to 13. Then there's a # column which goes from 1 to 14, so that must be the track number or position in the chart. Each row has a title of the song, the performer(s), the film it's associated with, and its length.
+
+The question is asking for the last song on the chart. Since the # column goes up to 14, but looking at the rows, there are entries from index 0 (which is "#1") to index 13 ("#14"). So the highest track number here is 14, which would be the last one.
+
+Looking at the row where # is 14. The index for that is 13 because it starts counting from 0. In that row, the Title is "A Dream Is a Wish Your Heart Makes". Performer(s) are Disney Channel Stars and the Film is Cinderella with a Length of 3:46.
+
+So the last song on the chart should be "A Dream Is a Wish Your Heart Makes" performed by Disney Channel Stars.
+</think>
+
+The last song listed on the chart is "A Dream Is a Wish Your Heart Makes".
+
+Final Answer: A Dream Is a Wish Your Heart Makes
+===================Answer===================
+"A Dream Is a Wish Your Heart Makes"

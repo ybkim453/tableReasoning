@@ -1,0 +1,46 @@
+===================Title===================
+Tommy Moe
+===================Table===================
+|    |   Season | Date        | Location             | Discipline   | Place   |
+|---:|---------:|:------------|:---------------------|:-------------|:--------|
+|  0 |     1993 | 27 Feb 1993 | Whistler, BC, Canada | Downhill     | 2nd     |
+|  1 |     1994 | 12 Dec 1993 | Val-d'Isère, France | Super G      | 3rd     |
+|  2 |     1994 | 29 Dec 1993 | Bormio, Italy        | Downhill     | 3rd     |
+|  3 |     1994 | 12 Mar 1994 | Whistler, BC, Canada | Downhill     | 3rd     |
+|  4 |     1994 | 13 Mar 1994 | Whistler, BC, Canada | Super G      | 1st     |
+|  5 |     1994 | 16 Mar 1994 | Vail, CO, USA        | Downhill     | 3rd     |
+|  6 |     1995 | 11 Dec 1994 | Tignes, France       | Super G      | 2nd     |
+===================Question===================
+which season had the most dates?
+===================Text===================
+<think>
+Alright, let's tackle this problem step by step. So, I have a table about Tommy Moe with details like Season, Date, Location, Discipline, and Place. The question is asking which season had the most dates.
+
+First, I need to understand what "dates" refer to in this context. Looking at the table, each row represents an event on a specific date within a particular season. So, the number of dates per season would be the count of rows for each season.
+
+I should start by identifying all unique seasons present in the table. Scanning through the Season column:
+
+- 1993 appears once.
+- 1994 appears five times.
+- 1995 appears once.
+
+Wait, let me check again to avoid missing any. Rows 0 is 1993, then rows 1 to 6 are from 1994 except for row 6 which is 1995. So that's:
+
+- Season 1993: 1 date
+- Season 1994: Let's count the entries. Rows 1,2,3,4,5 are all 1994. That's five dates.
+- Season 1995: Row 6, so one date.
+
+So, clearly, season 1994 has the most dates with five events listed. Therefore, the answer should be that season 1994 had the most dates.
+</think>
+
+The table lists events for Tommy Moe across different seasons. Counting the entries:
+
+- Season 1993: 1 entry
+- Season 1994: 5 entries (rows 1 to 5)
+- Season 1995: 1 entry
+
+Season 1994 has the most dates with five events.
+
+Final Answer: 1994
+===================Answer===================
+1994

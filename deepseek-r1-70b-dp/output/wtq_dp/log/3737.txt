@@ -1,0 +1,83 @@
+===================Title===================
+2008–09 Sacramento Kings season
+===================Table===================
+|    |   Game | Date       | Team           | Score           | High points                     | High rebounds                                      | High assists                                 | Location\nAttendance               | Record   |
+|---:|-------:|:-----------|:---------------|:----------------|:--------------------------------|:---------------------------------------------------|:---------------------------------------------|:-----------------------------------|:---------|
+|  0 |     33 | January 2  | @ Detroit      | L 92–98         | Brad Miller (25)                | Brad Miller (16)                                   | John Salmons (4)                             | The Palace of Auburn Hills\n22,076 | 8–25     |
+|  1 |     34 | January 3  | @ Indiana      | L 117–122       | Kevin Martin (45)               | Bobby Jackson (10)                                 | Kevin Martin, Brad Miller (6)                | Conseco Fieldhouse\n12,765         | 8–26     |
+|  2 |     35 | January 5  | @ New Jersey   | L 90–98         | Kevin Martin (36)               | Kenny Thomas (8)                                   | Brad Miller (8)                              | Izod Center\n12,314                | 8–27     |
+|  3 |     36 | January 6  | @ Chicago      | L 94–99         | Kevin Martin (29)               | Brad Miller (12)                                   | Beno Udrih (5)                               | United Center\n18,060              | 8–28     |
+|  4 |     37 | January 9  | Miami          | L 115–119 (OT)  | John Salmons (29)               | Brad Miller (16)                                   | John Salmons, Brad Miller, Bobby Jackson (4) | ARCO Arena\n12,587                 | 8–29     |
+|  5 |     38 | January 11 | Dallas         | W 102–95        | Kevin Martin (21)               | Spencer Hawes (8)                                  | Beno Udrih (6)                               | ARCO Arena\n12,294                 | 9–29     |
+|  6 |     39 | January 13 | Orlando        | L 107–139       | Kevin Martin (30)               | Francisco García (5)                              | Francisco García (5)                        | ARCO Arena\n11,168                 | 9–30     |
+|  7 |     40 | January 14 | @ Golden State | W 135–133 (3OT) | Brad Miller (30)                | Brad Miller (22)                                   | John Salmons, Beno Udrih (7)                 | Oracle Arena\n19,122               | 10–30    |
+|  8 |     41 | January 16 | Milwaukee      | L 122–129       | John Salmons, Kevin Martin (24) | Jason Thompson (11)                                | John Salmons (6)                             | ARCO Arena\n11,663                 | 10–31    |
+|  9 |     42 | January 20 | @ Denver       | L 99–118        | Kevin Martin (25)               | Jason Thompson (11)                                | John Salmons, Beno Udrih (5)                 | Pepsi Center\n15,164               | 10–32    |
+| 10 |     43 | January 21 | Washington     | L 107–110       | John Salmons, Beno Udrih (24)   | John Salmons, Shelden Williams, Jason Thompson (5) | John Salmons (5)                             | ARCO Arena\n10,821                 | 10–33    |
+| 11 |     44 | January 24 | @ Milwaukee    | L 104–106       | Kevin Martin (20)               | Brad Miller (13)                                   | Brad Miller (9)                              | Bradley Center\n15,379             | 10–34    |
+| 12 |     45 | January 25 | @ Toronto      | L 97–113        | John Salmons (21)               | John Salmons (7)                                   | Beno Udrih (5)                               | Air Canada Centre\n18,127          | 10–35    |
+| 13 |     46 | January 27 | @ Cleveland    | L 110–117       | Kevin Martin (35)               | Kevin Martin (7)                                   | Kevin Martin (7)                             | Quicken Loans Arena\n20,562        | 10–36    |
+| 14 |     47 | January 28 | @ Boston       | L 100–119       | John Salmons (22)               | Jason Thompson (11)                                | John Salmons (5)                             | TD Banknorth Garden\n18,624        | 10–37    |
+| 15 |     48 | January 30 | Chicago        | L 88–109        | Kevin Martin (27)               | Jason Thompson (12)                                | Spencer Hawes, Kevin Martin (3)              | ARCO Arena\n13,356                 | 10–38    |
+===================Question===================
+how many consecutive games were played in the arco arena from january 2nd to january 24th?
+===================Text===================
+<think>
+Alright, so I need to figure out how many consecutive games were played in ARCO Arena from January 2nd to January 24th based on the provided table. Let me go through this step by step.
+
+First, I'll look at each game entry and check if it was played at ARCO Arena within that date range. The dates range from January 2nd to January 24th. 
+
+Looking at the table:
+
+- Game 33: January 2 @ Detroit → not ARCO
+- Game 34: January 3 @ Indiana → not ARCO
+- Game 35: January 5 @ New Jersey → not ARCO
+- Game 36: January 6 @ Chicago → not ARCO
+- Game 37: January 9 vs Miami at ARCO Arena
+- Game 38: January 11 vs Dallas at ARCO Arena
+- Game 39: January 13 vs Orlando at ARCO Arena
+- Game 40: January 14 @ Golden State → not ARCO
+- Game 41: January 16 vs Milwaukee at ARCO Arena
+- Game 42: January 20 @ Denver → not ARCO
+- Game 43: January 21 vs Washington at ARCO Arena
+- Game 44: January 24 @ Milwaukee → not ARCO
+
+Wait, the user is asking for games played from January 2nd to January 24th. So I need to include all games within that period.
+
+Looking again:
+
+From January 9 (Game 37) to January 21 (Game 43), the team played several home games at ARCO Arena. But not every game in this range is at ARCO; some are away games.
+
+So, let's list the dates and locations:
+
+- Jan 2: Away
+- Jan3: Away
+- Jan5: Away
+- Jan6: Away
+- Jan9: Home (ARCO)
+- Jan11: Home
+- Jan13: Home
+- Jan14: Away
+- Jan16: Home
+- Jan20: Away
+- Jan21: Home
+- Jan24: Away
+
+Now, the question is about consecutive games. So I need to find a streak where they played multiple home games in a row without any away games interrupting.
+
+Looking at the dates:
+
+From January 9 to January 13, there are three consecutive home games (Jan9, Jan11, Jan13). Then on Jan14, an away game breaks the streak. Then another home game on Jan16, but it's not consecutive after that because of the away game in between.
+
+So the longest stretch of consecutive home games is from Jan9 to Jan13: 3 games.
+
+But wait, perhaps I'm misunderstanding the question. It might be asking how many total home games were played during that period, regardless of being consecutive. But looking again, the user asked for "consecutive" games at ARCO Arena within those dates.
+
+So in this case, from Jan9 to Jan13, they played three home games without any away games in between. Then after an away game on Jan14, they had another home game on Jan16 and then another on Jan21, but each time separated by away games, so no longer consecutive.
+
+Therefore, the maximum number of consecutive games at ARCO Arena during that period is 3.
+</think>
+
+Final Answer: 3
+===================Answer===================
+3

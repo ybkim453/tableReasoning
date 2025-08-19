@@ -1,0 +1,97 @@
+===================Title===================
+Canadian National class N-4 2-8-0
+===================Table===================
+|    | Builder   | Works numbers            |   Dates | CN numbers                                 | GT numbers                       | Notes                        |
+|---:|:----------|:-------------------------|--------:|:-------------------------------------------|:---------------------------------|:-----------------------------|
+|  0 | MLW       | 39548-39562\n40583-40622 |    1906 | 2525-2566\n2663                            | 651-705                          | nan                          |
+|  1 | MLW       | 42331-42345\n43150-43164 |    1907 | 2577-2605\n2661-2662\n2685                 | 721-750                          | nan                          |
+|  2 | ALCO      | 42046-42060\n43540-43554 |    1907 | 2567-2576\n2606-2615\n2664-2665\n2669-2676 | 706-720\n752\n755\n758\n761\n763 | nan                          |
+|  3 | MLW       | 45163-45182              |    1908 | 2627-2646                                  | 631-650                          | nan                          |
+|  4 | MLW       | 46880-46894              |    1910 | 2647-2660\n2686                            | 616-630                          | nan                          |
+|  5 | ALCO      | 49663-49674              |    1911 | 2616-2625\n2677-2678                       | 766-777                          | built at ALCO's Brooks Works |
+|  6 | ALCO      | 50472-50481              |    1911 | 2626\n2666-2668\n2679-2684                 | 779-780\n784\n786-787            | nan                          |
+===================Question===================
+who had more works numbers, alco or mlw?
+===================Text===================
+<think>
+Okay, so I need to figure out whether ALCO or MLW had more works numbers based on this table. Let me start by understanding what "works numbers" mean here. It looks like each row represents a different batch of locomotives built, and the "Works numbers" column lists ranges of numbers assigned by the builders.
+
+First, I'll go through each row and note down the Works numbers for both ALCO and MLW.
+
+Looking at the table:
+
+- Row 0: Builder is MLW. Works numbers are from 39548 to 39562 and 40583 to 40622. So that's two ranges.
+- Row 1: MLW again, with works numbers 42331-42345 and 43150-43164. Another two ranges.
+- Row 2: ALCO. Their Works numbers are 42046-42060 and 43540-43554. Also two ranges.
+- Row 3: MLW with a single range, 45163-45182.
+- Row 4: MLW again, works numbers 46880-46894. That's one range.
+- Row 5: ALCO, works numbers 49663-49674. One range.
+- Row 6: ALCO with another set of works numbers: 50472-50481. One range.
+
+Wait, so to count the number of works numbers ranges per builder, I can list them out:
+
+MLW:
+- 39548-39562 (15 numbers)
+- 40583-40622 (40 numbers)
+- 42331-42345 (15 numbers)
+- 43150-43164 (15 numbers)
+- 45163-45182 (20 numbers)
+- 46880-46894 (15 numbers)
+
+ALCO:
+- 42046-42060 (15 numbers)
+- 43540-43554 (15 numbers)
+- 49663-49674 (12 numbers)
+- 50472-50481 (10 numbers)
+
+Wait, but each range's length isn't the same. For example, from 39548 to 39562: that's 39562 - 39548 +1 = 15 numbers. Similarly, 40583-40622 is 40 numbers because 40622 - 40583 +1 equals 40.
+
+But actually, maybe each works number is a unique identifier for each locomotive unit, so the count would be the total number of units built by each builder as per their works numbers ranges.
+
+So perhaps I should calculate how many works numbers are there in total for MLW and ALCO.
+
+For MLW:
+Row 0: 39548-39562 is 15 (since 39562 - 39548 =14, +1=15)
+Plus 40583-40622 which is 40 (40622-40583=39; +1=40). So total for row 0: 55.
+
+Row 1: 42331-42345: 15
+43150-43164: another 15. Total here:30
+
+Row3:45163-45182:20 numbers.
+
+Row4:46880-46894:15 numbers.
+
+So MLW total:
+55 (row0) +30 (row1) +20 (row3) +15 (row4) = 120.
+
+For ALCO:
+
+Row2:42046-42060:15
+43540-43554:15. So row2:30
+
+Row5:49663-49674:12 numbers
+
+Row6:50472-50481:10 numbers.
+
+So ALCO total:
+30 (row2) +12 (row5) +10 (row6)=52.
+
+Wait, is that correct? Let me add again:
+
+MLW:
+Row0:15+40=55
+Row1:15+15=30 → Total so far 85
+Row3:20 → 105
+Row4:15 →120
+
+ALCO:
+Row2:15+15=30
+Row5:12 →42
+Row6:10→52.
+
+So MLW has 120 works numbers, ALCO has 52. Therefore, MLW had more works numbers than ALCO.
+</think>
+
+Final Answer: MLW
+===================Answer===================
+MLW

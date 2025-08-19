@@ -1,0 +1,95 @@
+===================Title===================
+Ballon d'Or 1965
+===================Table===================
+|    |   Rank | Name                    | Club              | Nationality    |   Points |
+|---:|-------:|:------------------------|:------------------|:---------------|---------:|
+|  0 |      1 | Eusébio                | Benfica           | Portugal       |       67 |
+|  1 |      2 | Giacinto Facchetti      | Internazionale    | Italy          |       59 |
+|  2 |      3 | Luis Suárez            | Internazionale    | Spain          |       45 |
+|  3 |      4 | Paul Van Himst          | Anderlecht        | Belgium        |       25 |
+|  4 |      5 | Bobby Charlton          | Manchester United | England        |       19 |
+|  5 |      6 | Flórián Albert        | Ferencvárosi     | Hungary        |       14 |
+|  6 |      7 | Gianni Rivera           | Milan             | Italy          |       10 |
+|  7 |      8 | Georgi Asparuhov        | Levski Sofia      | Bulgaria       |        9 |
+|  8 |      8 | Alessandro Mazzola      | Internazionale    | Italy          |        9 |
+|  9 |      8 | Valery Voronin          | Torpedo Moskva    | Soviet Union   |        9 |
+| 10 |     11 | Denis Law               | Manchester United | Scotland       |        8 |
+| 11 |     12 | Karl-Heinz Schnellinger | Milan             | West Germany   |        6 |
+| 12 |     13 | Ferenc Puskás          | Real Madrid       | Spain          |        5 |
+| 13 |     13 | Jim Baxter              | Sunderland        | Scotland       |        5 |
+| 14 |     15 | Mario Corso             | Internazionale    | Italy          |        3 |
+| 15 |     15 | Lev Yashin              | Dynamo Moscow     | Soviet Union   |        3 |
+| 16 |     17 | Mário Coluna           | Benfica           | Portugal       |        2 |
+| 17 |     17 | Amancio Amaro           | Real Madrid       | Spain          |        2 |
+| 18 |     17 | Franz Beckenbauer       | Bayern Munich     | West Germany   |        2 |
+| 19 |     17 | Milan Galić            | Partizan Beograd  | Yugoslavia     |        2 |
+| 20 |     17 | Philippe Gondet         | Nantes            | France         |        2 |
+| 21 |     17 | Andrej Kvašňák       | Sparta Praha      | Czechoslovakia |        2 |
+| 22 |     17 | Ferenc Bene             | Ujpest Dozsa      | Hungary        |        2 |
+| 23 |     17 | Slava Metreveli         | Dinamo Tbilisi    | Soviet Union   |        2 |
+| 24 |     25 | Ivor Allchurch          | Cardiff City      | Wales          |        1 |
+| 25 |     25 | Jakob Kühn             | Zürich           | Switzerland    |        1 |
+| 26 |     25 | Sigfried Held           | Borussia Dortmund | West Germany   |        1 |
+===================Question===================
+which nationality scored more points, spain or italy?
+===================Text===================
+<think>
+Okay, so I need to figure out whether Spain or Italy scored more points in the Ballon d'Or 1965 based on this table. Let me look through each player's nationality and sum up their points.
+
+First, let's go through each row one by one:
+
+1. Rank 0: Eusébio from Portugal with 67 points.
+2. Rank 1: Giacinto Facchetti from Italy with 59 points.
+3. Rank 2: Luis Suárez from Spain with 45 points.
+4. Rank 3: Paul Van Himst from Belgium with 25 points.
+5. Rank 4: Bobby Charlton from England with 19 points.
+6. Rank 5: Flórián Albert from Hungary with 14 points.
+7. Rank 6: Gianni Rivera from Italy with 10 points.
+8. Rank 7: Georgi Asparuhov from Bulgaria with 9 points.
+9. Rank 8: Alessandro Mazzola from Italy with 9 points.
+10. Rank 8: Valery Voronin from Soviet Union with 9 points.
+11. Rank 11: Denis Law from Scotland with 8 points.
+12. Rank 12: Karl-Heinz Schnellinger from West Germany with 6 points.
+13. Rank 13: Ferenc Puskás from Spain with 5 points.
+14. Rank 13: Jim Baxter from Scotland with 5 points.
+15. Rank 15: Mario Corso from Italy with 3 points.
+16. Rank 15: Lev Yashin from Soviet Union with 3 points.
+17. Rank 17: Mário Coluna from Portugal with 2 points.
+18. Rank 17: Amancio Amaro from Spain with 2 points.
+19. Rank 17: Franz Beckenbauer from West Germany with 2 points.
+20. Rank 17: Milan Galić from Yugoslavia with 2 points.
+21. Rank 17: Philippe Gondet from France with 2 points.
+22. Rank 17: Andrej Kvašňák from Czechoslovakia with 2 points.
+23. Rank 17: Ferenc Bene from Hungary with 2 points.
+24. Rank 17: Slava Metreveli from Soviet Union with 2 points.
+25. Rank 25: Ivor Allchurch from Wales with 1 point.
+26. Rank 25: Jakob Kühn from Switzerland with 1 point.
+27. Rank 25: Sigfried Held from West Germany with 1 point.
+
+Now, I need to collect the points for Spain and Italy separately.
+
+Starting with Spain:
+- Luis Suárez has 45 points.
+- Ferenc Puskás has 5 points.
+- Amancio Amaro has 2 points.
+
+So adding those up: 45 + 5 = 50, plus 2 is 52 points total for Spain.
+
+Now for Italy:
+- Giacinto Facchetti with 59 points.
+- Gianni Rivera with 10 points.
+- Alessandro Mazzola with 9 points.
+- Mario Corso with 3 points.
+
+Adding those: 59 + 10 = 69, plus 9 is 78, then plus 3 makes 81 points total for Italy.
+
+So comparing both totals:
+Spain has 52 points.
+Italy has 81 points.
+
+Therefore, Italy scored more points than Spain in the Ballon d'Or 1965.
+</think>
+
+Final Answer: Italy
+===================Answer===================
+Italy

@@ -1,0 +1,36 @@
+===================Title===================
+AFL Cairns
+===================Table===================
+|    |   Year | Premiers                        | Score       | Runners Up                      | Score .1   |
+|---:|-------:|:--------------------------------|:------------|:--------------------------------|:-----------|
+|  0 |   2003 | Centrals Trinity Beach Bulldogs | 14.11 (95)  | North Cairns                    | 6.7 (43)   |
+|  1 |   2004 | Port Douglas Crocs              | 17.13 (115) | North Cairns Tigers             | 8.9 (57)   |
+|  2 |   2005 | Port Douglas Crocs              | 19.14 (128) | Cairns Saints                   | 4.11 (35)  |
+|  3 |   2006 | Manunda Hawks                   | 11.11 (77)  | Centrals Trinity Beach Bulldogs | 10.9 (69)  |
+|  4 |   2007 | Centrals Trinity Beach Bulldogs | 14.16 (100) | Cairns Saints                   | 11.2 (68)  |
+|  5 |   2008 | Cairns Saints                   | 12.15 (87)  | North Cairns Tigers             | 2.9 (21)   |
+|  6 |   2009 | South Cairns Cutters            | 9.11 (65)   | Cairns Saints                   | 9.4 (58)   |
+|  7 |   2010 | North Cairns Tigers             | 8.10 (58)   | Port Douglas Crocs              | 8.5 (53)   |
+|  8 |   2011 | Manunda Hawks                   | 11.8 (74)   | Port Douglas Crocs              | 6.9 (45)   |
+|  9 |   2012 | Cairns Saints                   | 17.6 (108)  | North Cairns Tigers             | 11.12 (78) |
+| 10 |   2013 | North Cairns Tigers             | 14.14 (98)  | Port Douglas Crocs              | 13.6 (84)  |
+===================Question===================
+who was runner up in the year previous to 2004?
+===================Text===================
+<think>
+Okay, so I need to figure out who was the runner-up in the year before 2004 based on the given table. Let's see, first, I should understand what each column represents. The table has columns for Year, Premiers, Score, Runners Up, and another Score.1. So each row corresponds to a particular year, showing which team won (Premiers), their score, which was second (Runners Up), and their score.
+
+The question is asking for the runner-up in the year previous to 2004. That would be the year 2003. So I need to look at the row where Year is 2003 and find the Runners Up in that row.
+
+Looking at the table, each row is indexed from 0 to 10. The first row (index 0) has the Year as 2003. Under Runners Up for that year, it says "North Cairns". So the runner-up in 2003 was North Cairns.
+
+Wait, but let me double-check to make sure I didn't misread anything. In the table:
+
+- For 2003 (index 0), Premiers are Centrals Trinity Beach Bulldogs with a score of 14.11 (95), and Runners Up is North Cairns with 6.7 (43). 
+
+That seems correct. So yes, the runner-up in 2003 was North Cairns.
+</think>
+
+Final Answer: North Cairns
+===================Answer===================
+North Cairns

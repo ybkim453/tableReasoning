@@ -1,0 +1,35 @@
+===================Title===================
+Quebec lieutenant
+===================Table===================
+|    | Political lieutenant   | District\n(Area)                                              |   Took Office |   Left Office | Party leader                |
+|---:|:-----------------------|:--------------------------------------------------------------|--------------:|--------------:|:----------------------------|
+|  0 | Georges-Henri Héon    | Argenteuil\n(Laurentides)                                     |          1949 |          1949 | George A. Drew              |
+|  1 | Léon Balcer           | Trois-Rivières\n(Mauricie)                                   |          1957 |          1965 | John George Diefenbaker     |
+|  2 | Marcel Faribault       | none                                                          |          1967 |          1968 | Robert Stanfield            |
+|  3 | Claude Wagner          | Saint-Hyacinthe\n(Montérégie)                               |          1972 |          1978 | Robert Stanfield\nJoe Clark |
+|  4 | Lucien Bouchard        | Lac-Saint-Jean\n(Saguenay-Lac-Saint-Jean)                     |          1988 |          1990 | Brian Mulroney              |
+|  5 | Benoît Bouchard       | Roberval\n(Saguenay-Lac-Saint-Jean)                           |          1990 |          1993 | Brian Mulroney              |
+|  6 | Monique Landry         | Blainville—Deux-Montagnes\n(Laurentides)                      |          1993 |          1993 | Kim Campbell                |
+|  7 | André Bachand         | Richmond—Arthabaska\n(Centre-du-Québec &\nEastern Townships) |          1998 |          2004 | Joe Clark\nPeter MacKay     |
+===================Question===================
+how many lieutenants served in 1949?
+===================Text===================
+<think>
+Alright, I need to figure out how many lieutenants served in 1949 based on the given table. Let me look at each row and check the "Took Office" column for the year 1949.
+
+Starting with row 0: Georges-Henri Héon took office in 1949 and left the same year. That's one lieutenant in 1949.
+
+I go through the rest of the rows, checking if any other lieutenants started their terms in 1949. Row 1 shows León Balcer taking office in 1957, which is after 1949. Rows 2 and beyond have later years as well—1967, 1972, etc.—so none of them match 1949.
+
+Therefore, only one lieutenant served in 1949.
+</think>
+
+The table lists individuals who served as Quebec lieutenants along with their terms. To determine how many served in 1949, we examine the "Took Office" column:
+
+- Row 0: Georges-Henri Héon took office in 1949 and left in 1949.
+
+No other rows have a "Took Office" year of 1949. Thus, only one lieutenant served in that year.
+
+Final Answer: 1
+===================Answer===================
+1

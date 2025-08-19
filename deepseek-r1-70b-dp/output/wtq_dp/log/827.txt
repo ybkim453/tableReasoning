@@ -1,0 +1,101 @@
+===================Title===================
+GameStorm.org
+===================Table===================
+|    | Iteration    | Dates             | Location                 | Attendance   | Notes                                                                                   |
+|---:|:-------------|:------------------|:-------------------------|:-------------|:----------------------------------------------------------------------------------------|
+|  0 | GameStorm 10 | March 2008        | Red Lion - Vancouver, WA | 750          | -                                                                                       |
+|  1 | GameStorm 11 | March 26–29, 2009 | Hilton - Vancouver, WA   | 736          | debut of Video games, first-ever Artist Guest of Honor, Rob Alexander                   |
+|  2 | GameStorm 12 | March 25–28, 2010 | Hilton - Vancouver, WA   | 802          | Board games Guest of Honor: Tom Lehmann                                                 |
+|  3 | GameStorm 13 | March 24–27, 2011 | Hilton - Vancouver, WA   | 984          | Guests: Lisa Steenson, Michael A. Stackpole                                             |
+|  4 | GameStorm 14 | March 22–25, 2012 | Hilton - Vancouver, WA   | 1072         | Boardgame:Andrew Hackard and Sam Mitschke of Steve Jackson Games - RPG: Jason Bulmahn   |
+|  5 | GameStorm 15 | March 21–24, 2013 | Hilton - Vancouver, WA   | 1188         | nan                                                                                     |
+|  6 | GameStorm 16 | March 20–23, 2014 | Hilton - Vancouver, WA   | tba          | Guests: Mike Selinker, Shane Lacy Hensley, Lisa Steenson, Zev Shlasinger of Z-Man Games |
+===================Question===================
+what is the average of gamestorm 10-15 attendance?
+===================Text===================
+<think>
+Okay, I need to find the average attendance for GameStorm events from 10 to 15. Let me look at the table provided.
+
+GameStorm 10 had 750 attendees in March 2008. Then GameStorm 11 was attended by 736 people. Moving on, GameStorm 12 saw an increase to 802 attendees. The next one, GameStorm 13, jumped up to 984. After that, GameStorm 14 went even higher with 1,072 attendees. Finally, GameStorm 15 had a slight dip compared to the previous year but still a good number at 1,188.
+
+Wait, no, I think I misread that. Let me check again. Oh right, each row represents a different iteration. So from GameStorm 10 (iteration 0) up to GameStorm 15 (iteration 5). That's six events: 10 through 15. But the question is asking for the average of GameStorm 10-15, which should be all these six years.
+
+So I need to list out each attendance number:
+
+- GameStorm 10: 750
+- GameStorm 11: 736
+- GameStorm 12: 802
+- GameStorm 13: 984
+- GameStorm 14: 1,072
+- GameStorm 15: 1,188
+
+Now I need to add these up. Let me do the math step by step:
+
+First, 750 + 736 is 1,486.
+
+Then, adding 802 makes it 1,486 + 802 = 2,288.
+
+Next, adding 984 brings it to 2,288 + 984 = 3,272.
+
+After that, add 1,072: 3,272 + 1,072 is 4,344.
+
+Finally, add 1,188: 4,344 + 1,188 equals 5,532.
+
+Wait, let me double-check the addition to make sure I didn't make a mistake:
+
+750 + 736 = 1,486. Correct.
+1,486 + 802 = 2,288. Right.
+2,288 + 984: Let's see, 2,288 + 900 is 3,188, then +84 gets us to 3,272.
+Yes, that's correct.
+3,272 + 1,072: Adding step by step, 3,000 + 1,000 = 4,000. Then 272 +72=344. So total 4,344.
+Then adding 1,188: 4,344 + 1,000 is 5,344, plus 188 makes 5,532.
+
+So the total attendance over these six events is 5,532.
+
+To find the average, I divide this total by the number of years, which is 6.
+
+So 5,532 divided by 6. Let's compute that:
+
+Divide 5,532 by 6 step by step. 
+
+6 goes into 53 (from 553) eight times because 8*6=48. Subtract 48 from 53 gives 5. Bring down the 2 to make 52.
+
+6 goes into 52 eight times again (8*6=48). Subtract 48, remainder is 4. Bring down the next digit, which is 0 (but wait, it's 5,532) so after bringing down the 2, we had 52.
+
+Wait, let me write it out numerically:
+
+6 | 5532
+- First, 6 into 5 is 0, but considering 55: 6*9=54, which is too much. So 8 times (6*8=48). 
+
+So the division would be 922 with a remainder of 12? Wait, let me do it again.
+
+Wait, maybe using another approach:
+
+6 * 900 = 5,400
+
+Subtract that from 5,532: 5,532 - 5,400 = 132.
+
+Now, how many times does 6 go into 132? Exactly 22 times because 6*20=120 and 6*2=12; so total 22.
+
+So the average is 900 + 22 = 922. Wait, that seems off. Let me do it again.
+
+Wait, 6 * 925 would be 5,550 which is more than 5,532. So perhaps 924?
+
+Let's try 6*920=5,520. Then 5,532-5,520=12, so the average is 922 with a remainder of 12. Therefore, 922 and 2/6, but we can write it as approximately 922.
+
+Alternatively, 5,532 ÷ 6: 
+
+6*900 = 5400
+
+5532 - 5400 = 132
+
+132 ÷6=22
+
+So total is 900 +22=922.
+
+Yes, so the average attendance is 922.
+</think>
+
+Final Answer: 922
+===================Answer===================
+922

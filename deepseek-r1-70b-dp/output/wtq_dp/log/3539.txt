@@ -1,0 +1,102 @@
+===================Title===================
+Charles Henderson High School
+===================Table===================
+|    |   Year |   Team Record\nW |   Team Record\nL | Playoffs                |
+|---:|-------:|-----------------:|-----------------:|:------------------------|
+|  0 |   2001 |                7 |                2 | 3rd Qualifier, Region 2 |
+|  1 |   2002 |                8 |                1 | 2nd Qualifier, Region 2 |
+|  2 |   2003 |                8 |                1 | 2nd Qualifier, Region 2 |
+|  3 |   2004 |                7 |                2 | 2nd Qualifier, Region 2 |
+|  4 |   2005 |                3 |                5 | Did Not Make Playoffs   |
+|  5 |   2006 |                5 |                4 | 4th Qualifier, Region 2 |
+|  6 |   2007 |               13 |                1 | 1st Qualifier, Region 2 |
+|  7 |   2008 |                7 |                4 | 2nd Qualifier, Region 2 |
+|  8 |   2009 |                5 |                5 | Did Not Make Playoffs   |
+|  9 |   2010 |                5 |                5 | Did Not Make Playoffs   |
+===================Question===================
+for how many consecutive years did the team have a winning record?
+===================Text===================
+<think>
+Okay, so I need to figure out for how many consecutive years Charles Henderson High School's team had a winning record based on the table provided. Let me start by understanding what a "winning record" means. Generally, a team has a winning record if they have more wins than losses in a season.
+
+Looking at the table, each row represents a year from 2001 to 2010. The columns are Year, Team Record W (wins), Team Record L (losses), and Playoffs. So for each year, I can compare the number of Wins and Losses.
+
+Starting with the first entry in 2001:
+- Wins: 7
+- Losses: 2
+Since 7 > 2, this is a winning record.
+
+Next, 2002:
+- Wins:8
+- Losses:1
+Again, 8 > 1, so another winning year.
+
+2003:
+- Wins:8
+- Losses:1
+Still more wins than losses.
+
+2004:
+- Wins:7
+- Losses:2
+7 > 2, so also a winning record.
+
+Now, moving to 2005:
+- Wins:3
+- Losses:5
+Here, 3 < 5. This is not a winning year; they had more losses than wins.
+
+So up until 2004, the team had four consecutive years (2001-2004) with a winning record. Then in 2005, it broke since they didn't have a winning record that year.
+
+But wait, I should check if there are any other streaks after 2005. Let's continue:
+
+2006:
+- Wins:5
+- Losses:4
+5 > 4, so this is a winning record.
+
+2007:
+- Wins:13
+- Losses:1
+Definitely a winning year.
+
+2008:
+- Wins:7
+- Losses:4
+Still more wins than losses.
+
+So from 2006 to 2008, that's three consecutive years with winning records. But wait, what about the next year?
+
+2009 and 2010 both have:
+- Wins:5
+- Losses:5
+
+In these cases, since the number of wins equals the number of losses, it's a .500 record, which is not considered a winning record because they didn't have more wins than losses. So those two years (2009-2010) don't count as winning seasons.
+
+So now I need to see if any other consecutive streaks exist. Let me list out each year and whether they were winning:
+
+2001: Win
+2002: Win
+2003: Win
+2004: Win
+2005: Loss
+2006: Win
+2007: Win
+2008: Win
+2009: Neutral (not a win)
+2010: Neutral
+
+So the first streak is 2001-2004, which is four years. Then after 2005, there's another streak from 2006-2008, which is three years.
+
+Wait, but I need to find consecutive years without any breaks. So the longest streak is four years (2001-2004). The next streak of three comes later but doesn't exceed the first one in length.
+
+So the question asks for how many consecutive years they had a winning record. It's possible that there are two separate streaks, but maybe I'm supposed to find the total number or the longest streak. From the way the question is phrased, it seems like they're asking for the maximum number of consecutive years with a winning record.
+
+Therefore, the answer should be four consecutive years.
+</think>
+
+The team had a winning record for 4 consecutive years from 2001 to 2004.
+
+Final Answer: 4
+===================Answer===================
+4

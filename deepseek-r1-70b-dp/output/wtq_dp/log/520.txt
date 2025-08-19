@@ -1,0 +1,55 @@
+===================Title===================
+1978 Trans-Am season
+===================Table===================
+|    |   Round | Date        | Circuit        | Winning driver (TA2)          | Winning vehicle (TA2)   | Winning driver (TA1)           | Winning vehicle (TA1)   |
+|---:|--------:|:------------|:---------------|:------------------------------|:------------------------|:-------------------------------|:------------------------|
+|  0 |       1 | May 21      | Sears Point    | Greg Pickett                  | Chevrolet Corvette      | Gene Bothello                  | Chevrolet Corvette      |
+|  1 |       2 | June 4      | Westwood       | Ludwig Heimrath               | Porsche 935             | Nick Engels                    | Chevrolet Corvette      |
+|  2 |       3 | June 11     | Portland       | Tuck Thomas                   | Chevrolet Monza         | Bob Matkowitch                 | Chevrolet Corvette      |
+|  3 |       4 | June 25     | Mont-Tremblant | Monte Sheldon                 | Porsche 935             | Bob Tullius                    | Jaguar XJS              |
+|  4 |       5 | July 8      | Watkins Glen‡  | Hal Shaw, Jr.\n Monte Shelton | Porsche 935             | Brian Fuerstenau\n Bob Tullius | Jaguar XJS              |
+|  5 |       6 | August 13   | Brainerd       | Jerry Hansen                  | Chevrolet Monza         | Bob Tullius                    | Jaguar XJS              |
+|  6 |       7 | August 19   | Mosport        | Greg Pickett                  | Chevrolet Corvette      | Bob Tullius                    | Jaguar XJS              |
+|  7 |       8 | September 4 | Road America   | Greg Pickett                  | Chevrolet Corvette      | Bob Tullius                    | Jaguar XJS              |
+|  8 |       9 | October 8   | Laguna Seca    | Greg Pickett                  | Chevrolet Corvette      | Bob Tullius                    | Jaguar XJS              |
+|  9 |      10 | November 5  | Mexico City    | Ludwig Heimrath               | Porsche 935             | Bob Tullius                    | Jaguar XJS              |
+===================Question===================
+how many circuits are there total?
+===================Text===================
+<think>
+Alright, I'm trying to figure out how many circuits there are in total for the 1978 Trans-Am season based on the provided table. Let's break it down step by step.
+
+First, I'll look at the table structure. It has several columns: Round number, Date, Circuit, and then details about the winning drivers and vehicles in TA2 and TA1 categories. The key information for my question is under the "Circuit" column.
+
+I need to count each unique circuit listed because sometimes circuits might repeat across different rounds. Let's list them out one by one:
+
+- Round 1: Sears Point
+- Round 2: Westwood
+- Round 3: Portland
+- Round 4: Mont-Tremblant
+- Round 5: Watkins Glen‡
+- Round 6: Brainerd
+- Round 7: Mosport
+- Round 8: Road America
+- Round 9: Laguna Seca
+- Round 10: Mexico City
+
+Now, I'll count each unique entry in the Circuit column. Each of these seems to be a different location without any repeats:
+
+1. Sears Point
+2. Westwood
+3. Portland
+4. Mont-Tremblant
+5. Watkins Glen
+6. Brainerd
+7. Mosport
+8. Road America
+9. Laguna Seca
+10. Mexico City
+
+That makes a total of 10 different circuits for the season.
+</think>
+
+Final Answer: 10
+===================Answer===================
+10

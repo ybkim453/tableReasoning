@@ -1,0 +1,40 @@
+===================Title===================
+Brickyard 400
+===================Table===================
+|    |   Year | Network   | NASCAR\nCountdown                                           | Lap-by-lap     | Color commentator(s)       | Pit reporters                                          | Ratings         | Viewers       |
+|---:|-------:|:----------|:------------------------------------------------------------|:---------------|:---------------------------|:-------------------------------------------------------|:----------------|:--------------|
+|  0 |   2007 | ESPN      | Brent Musburger\nSuzy Kolber\nBrad Daugherty                | Jerry Punch    | Rusty Wallace\nAndy Petree | Dave Burns\nJamie Little\nAllen Bestwick\nMike Massaro | 4.2 (4.9 cable) | 6.574 million |
+|  1 |   2008 | ESPN      | Allen Bestwick\nRusty Wallace\nBrad Daugherty               | Jerry Punch    | Dale Jarrett\nAndy Petree  | Dave Burns\nJamie Little\nShannon Spake\nMike Massaro  | 4.3 (5.1 cable) | 6.668 million |
+|  2 |   2009 | ESPN      | Allen Bestwick\nRusty Wallace\nBrad Daugherty\nRay Evernham | Jerry Punch    | Dale Jarrett\nAndy Petree  | Dave Burns\nJamie Little\nShannon Spake\nVince Welch   | 4.1 (4.8 cable) | 6.487 million |
+|  3 |   2010 | ESPN      | Allen Bestwick\nRusty Wallace\nBrad Daugherty\nRay Evernham | Marty Reid     | Dale Jarrett\nAndy Petree  | Dave Burns\nJamie Little\nJerry Punch\nVince Welch     | 3.6 (4.2 cable) | 5.709 million |
+|  4 |   2011 | ESPN      | Nicole Briscoe\nRusty Wallace\nBrad Daugherty               | Allen Bestwick | Dale Jarrett\nAndy Petree  | Dave Burns\nJamie Little\nJerry Punch\nVince Welch     | 4.0 (4.6 cable) | 6.337 million |
+|  5 |   2012 | ESPN      | Nicole Briscoe\nRusty Wallace\nBrad Daugherty\nRay Evernham | Allen Bestwick | Dale Jarrett\nAndy Petree  | Dave Burns\nJamie Little\nJerry Punch\nVince Welch     | 3.3             | 5.1 million   |
+|  6 |   2013 | ESPN      | Nicole Briscoe\nRusty Wallace\nBrad Daugherty\nRay Evernham | Allen Bestwick | Dale Jarrett\nAndy Petree  | Dave Burns\nJamie Little\nJerry Punch\nVince Welch     | 3.6             | 5.5 million   |
+|  7 |   2014 | ESPN      | nan                                                         | nan            | nan                        | nan                                                    | nan             | nan           |
+===================Question===================
+what year had the least amount of viewers?
+===================Text===================
+<think>
+Okay, so I need to figure out which year had the least amount of viewers for the Brickyard 400 based on the table provided. Let me start by looking at the "Year" and "Viewers" columns.
+
+Looking through each row:
+
+- 2007: Viewers = 6.574 million
+- 2008: Viewers = 6.668 million
+- 2009: Viewers = 6.487 million
+- 2010: Viewers = 5.709 million
+- 2011: Viewers = 6.337 million
+- 2012: Viewers = 5.1 million
+- 2013: Viewers = 5.5 million
+- 2014: No data (it's "nan", so I can't consider this year)
+
+Now, comparing these numbers:
+
+The lowest number here is 5.1 million viewers in 2012. The next lowest after that seems to be 5.5 million in 2013 and 5.709 million in 2010.
+
+So, the year with the least amount of viewers is 2012.
+</think>
+
+Final Answer: 2012
+===================Answer===================
+2012

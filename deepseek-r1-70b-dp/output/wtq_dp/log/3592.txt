@@ -1,0 +1,33 @@
+===================Title===================
+Lic. Adolfo López Mateos International Airport
+===================Table===================
+|    |   Rank | City                           | Passengers   |   Ranking | Airline                                |
+|---:|-------:|:-------------------------------|:-------------|----------:|:---------------------------------------|
+|  0 |      1 | Quintana Roo, Cancún          | 132,046      |       nan | Aeroméxico Connect, Interjet, Volaris |
+|  1 |      2 | Nuevo León, Monterrey         | 106,513      |       nan | Aeroméxico Connect, Interjet          |
+|  2 |      3 | Guerrero, Acapulco             | 56,069       |       nan | Aeroméxico Connect, Interjet          |
+|  3 |      4 | Jalisco, Guadalajara           | 52,584       |       nan | Aeroméxico Connect, Volaris           |
+|  4 |      5 | Jalisco, Puerto Vallarta       | 43,419       |         1 | Interjet                               |
+|  5 |      6 | Baja California Sur, Los Cabos | 37,526       |         1 | Interjet                               |
+|  6 |      7 | Guerrero, Ixtapa/Zihuatanejo   | 35,507       |       nan | Interjet                               |
+|  7 |      8 | Baja California, Tijuana       | 14,906       |       nan | Interjet                               |
+|  8 |      9 | Tabasco, Villahermosa          | 6,928        |         1 | VivaAerobus                            |
+|  9 |     10 | Tamaulipas, Tampico            | 3,619        |         1 | VivaAerobus                            |
+===================Question===================
+how many passengers flew to quintana roo, cancun?
+===================Text===================
+<think>
+Okay, I need to figure out how many passengers flew to Quintana Roo, Cancun based on the provided table. Let me look at the table again.
+
+The table has several columns: Rank, City, Passengers, Ranking, and Airline. Each row represents a different city and its corresponding data.
+
+I see that the first row (index 0) is about Quintana Roo, Cancún. The passenger number listed there is 132,046. So, that should be the number of passengers who flew to Cancun in Quintana Roo.
+
+Wait, let me double-check. Sometimes tables can have headers or footers that might confuse the data rows. But here, it seems straightforward. Each row is labeled with a Rank starting from 1, so the first one is Rank 1 for Quintana Roo, Cancún, and Passengers is clearly 132,046.
+
+I don't think I need to consider any other columns like Ranking or Airline because the question only asks about the number of passengers. So, the answer should be the value in the Passengers column for that specific row.
+</think>
+
+Final Answer: 132046
+===================Answer===================
+132,046

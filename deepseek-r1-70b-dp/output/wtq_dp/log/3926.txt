@@ -1,0 +1,49 @@
+===================Title===================
+Karin Knapp
+===================Table===================
+|    | Outcome   |   No. | Date             | Tournament                | Surface   | Opponent                        | Score         |
+|---:|:----------|------:|:-----------------|:--------------------------|:----------|:--------------------------------|:--------------|
+|  0 | Runner-up |     1 | 6 October 2003   | Bari, Italy               | Clay      | Bettina Pirker                  | 6–2, 7–5      |
+|  1 | Runner-up |     2 | 14 June 2005     | Lenzerheide, Switzerland  | Clay      | Danica Krstajić                | 6–2, 7–5      |
+|  2 | Runner-up |     3 | 1 May 2006       | Catania, Italy            | Clay      | María José Martínez Sánchez | 6–3, 4–6, 6–4 |
+|  3 | Winner    |     1 | 25 July 2006     | Monteroni D'Arbia, Italy  | Clay      | Edina Gallovits-Hall            | 6–2, 6–1      |
+|  4 | Runner-up |     4 | 31 July 2006     | Martina Franca, Italy     | Clay      | Margalita Chakhnashvili         | 6–3, 7–5      |
+|  5 | Runner-up |     5 | 13 March 2007    | Orange, USA               | Hard      | Naomi Cavaday                   | 6–1, 6–1      |
+|  6 | Runner-up |     6 | 3 April 2007     | Dinan, France             | Clay (i)  | Maša Zec Peškirič            | 6–4, 6–2      |
+|  7 | Runner-up |     7 | 9 April 2007     | Civitavecchia, Italy      | Clay      | Darya Kustova                   | 3–6, 6–4, 6–4 |
+|  8 | Runner-up |     8 | 9 July 2007      | Biella, Italy             | Clay      | Agnieszka Radwańska            | 6–3, 6–3      |
+|  9 | Runner-up |     9 | 11 October 2010  | Settimo San Pietro, Italy | Clay      | Anastasia Grymalska             | 4–6, 6–2, 7–5 |
+| 10 | Winner    |     2 | 18 October 2010  | Seville, Spain            | Clay      | Andrea Gámiz                   | 6–0, 6–1      |
+| 11 | Runner-up |    10 | 16 November 2010 | Mallorca, Spain           | Clay      | Diana Enache                    | 6–4, 6–2      |
+| 12 | Winner    |     3 | 7 June 2011      | Campobasso, Italy         | Clay      | Alizé Lim                      | 6–2, 6–4      |
+| 13 | Runner-up |    11 | 14 June 2011     | Padova, Italy             | Clay      | Kristina Mladenovic             | 3–6, 6–4, 6–0 |
+| 14 | Winner    |     4 | 20 June 2011     | Rome, Italy               | Clay      | Laura Thorpe                    | 6–3, 6–0      |
+| 15 | Runner-up |    12 | 27 August 2012   | Bagnatica, Italy          | Clay      | Maria-Elena Camerin             | 7–6(5), 6–4   |
+| 16 | Winner    |     5 | 4 September 2012 | Mestre, Italy             | Clay      | Estrella Cabeza Candela         | 6–1, 3–6, 6–1 |
+| 17 | Runner-up |    13 | 12 May 2013      | Trnava, Slovakia          | Clay      | Barbora Záhlavová-Strýcová  | 6–2, 6–4      |
+===================Question===================
+how long does the table cover in years?
+===================Text===================
+<think>
+Alright, I need to figure out how many years are covered in this table of Karin Knapp's matches. Let me start by looking at the dates provided.
+
+First, I'll scan through each row and note the earliest and latest dates. The first entry is on October 6, 2003, which is pretty early. Then, looking further down, the last date I see is May 12, 2013. 
+
+Wait, let me double-check to make sure there isn't a later date that I missed. Scanning through all the dates: July 2003, then June 2005, moving forward each year up until 2012 and ending in May 2013. So the earliest is October 2003 and the latest is May 2013.
+
+Now, to calculate the span of years, I can subtract the start year from the end year. So 2013 minus 2003 gives me 10 years. But wait, I should consider whether it's exactly a decade or just under. From October 2003 to May 2013 is almost 10 years but not quite a full decade because it ends in mid-2013.
+
+However, when counting the number of years covered, we typically include each year the events took place in, even if they don't cover the entire year. So from 2003 through 2013 inclusive, that's 11 years (2003 to 2013). But let me count: 2003 is 1, then 2004, 2005, ..., up to 2013. That's actually 11 years in total.
+
+Wait, no. If the first event is in 2003 and the last in 2013, the number of years between them including both would be 2013 - 2003 +1 = 11 years. So that makes sense.
+
+But perhaps I miscounted because sometimes when subtracting end year minus start year it's just the difference. Let me recalculate: 2013 - 2003 equals 10, but since the events span into the next year, we add 1 to include both the starting and ending years fully. So yes, that would make it 11 years in total.
+
+I think that's correct.
+</think>
+
+The table covers from October 2003 to May 2013, which is a span of 10 years when considering the difference between end and start years. However, including both the first and last year brings the total to 11 years (2003 through 2013 inclusive).
+
+Final Answer: 11
+===================Answer===================
+10

@@ -1,0 +1,35 @@
+===================Title===================
+2011 European Team Championships Super League
+===================Table===================
+|    |   Rank | Name                 | Nationality    | Time    | Notes   |   Points |
+|---:|-------:|:---------------------|:---------------|:--------|:--------|---------:|
+|  0 |      1 | Adam Kszczot         | Poland         | 1:46.50 | nan     |       12 |
+|  1 |      2 | Jeff Lastennet       | France         | 1:46.70 | nan     |       11 |
+|  2 |      3 | Gareth Warburton     | Great Britain  | 1:46.95 | SB      |       10 |
+|  3 |      4 | Mario Scapini        | Italy          | 1:47.20 | PB      |        9 |
+|  4 |      5 | Anis Ananenka        | Belarus        | 1:47.29 | nan     |        8 |
+|  5 |      6 | Oleh Kayafa          | Ukraine        | 1:47.42 | nan     |        7 |
+|  6 |      7 | Joni Jaako           | Sweden         | 1:47.61 | SB      |        6 |
+|  7 |      8 | Robin Schembera      | Germany        | 1:47.79 | nan     |        5 |
+|  8 |      9 | Ivan Tukhtachev      | Russia         | 1:48.27 | SB      |        4 |
+|  9 |     10 | Antonio Manuel Reina | Spain          | 1:48.56 | nan     |        3 |
+| 10 |     11 | António Rodrigues   | Portugal       | 1:50.45 | nan     |        2 |
+| 11 |     12 | Milan Kocourek       | Czech Republic | 1:59.28 | nan     |        1 |
+===================Question===================
+what country's athlete finished in first?
+===================Text===================
+<think>
+Okay, I need to figure out which country's athlete finished in first place according to the table provided. Let me start by looking at the structure of the table. The columns are Rank, Name, Nationality, Time, Notes, and Points. 
+
+First, I'll focus on the Rank column since that will tell me who came in first. Scanning through the ranks, I see that the first entry has a rank of 1. That must be the winner.
+
+Now, looking at the row where Rank is 1, I check the Nationality column to determine which country's athlete it was. The Nationality listed there is Poland, and the name is Adam Kszczot with a time of 1:46.50. 
+
+I should double-check to make sure I'm reading the table correctly. Sometimes tables can have headers that are misleading or data that's confusing, but in this case, it seems straightforward. The Rank starts at 0 for the first position, which is a bit unusual since ranks typically start at 1, but here Rank 0 corresponds to first place.
+
+So, putting it all together: the athlete who finished first is from Poland.
+</think>
+
+Final Answer: Poland
+===================Answer===================
+Poland

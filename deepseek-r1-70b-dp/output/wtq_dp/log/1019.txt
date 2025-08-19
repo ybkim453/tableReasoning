@@ -1,0 +1,30 @@
+===================Title===================
+World Golf Championships
+===================Table===================
+|    | Golfer         | Country          |   Wins | Match Play          | Championship                                 | Invitational                                       | Champions   |
+|---:|:---------------|:-----------------|-------:|:--------------------|:---------------------------------------------|:---------------------------------------------------|:------------|
+|  0 | Tiger Woods    | United States    |     18 | 3: 2003, 2004, 2008 | 7: 1999, 2002, 2003,\n2005, 2006, 2007, 2013 | 8: 1999, 2000, 2001, 2005,\n2006, 2007, 2009, 2013 | —           |
+|  1 | Geoff Ogilvy   | Australia        |      3 | 2: 2006, 2009       | 1: 2008                                      | —                                                  | —           |
+|  2 | Darren Clarke  | Northern Ireland |      2 | 1: 2000             | —                                            | 1: 2003                                            | —           |
+|  3 | Ernie Els      | South Africa     |      2 | —                   | 2: 2004, 2010                                | —                                                  | —           |
+|  4 | Hunter Mahan   | United States    |      2 | 1: 2012             | —                                            | 1: 2010                                            | —           |
+|  5 | Phil Mickelson | United States    |      2 | —                   | 1: 2009                                      | —                                                  | 1: 2009     |
+|  6 | Ian Poulter    | England          |      2 | 1: 2010             | —                                            | —                                                  | 1: 2012     |
+===================Question===================
+which golfer had more wins, ernie els or geoff ogilvy?
+===================Text===================
+<think>
+Alright, I need to figure out whether Ernie Els or Geoff Ogilvy has more wins based on the provided table. Let's start by locating both golfers in the table.
+
+Looking at the table, each row represents a different golfer with their respective statistics. The columns include Golfer, Country, Wins, Match Play, Championship, Invitational, and Champions. 
+
+First, I'll find Ernie Els. Scanning down the list, he's listed as entry number 3. His "Wins" column shows a value of 2.
+
+Next, I'll look for Geoff Ogilvy. He is entry number 1. Checking his "Wins" column, it also shows a value of 3.
+
+So, comparing both, Ernie Els has 2 wins while Geoff Ogilvy has 3 wins. Therefore, Geoff Ogilvy has more wins than Ernie Els.
+</think>
+
+Final Answer: Geoff Ogilvy
+===================Answer===================
+Geoff Ogilvy

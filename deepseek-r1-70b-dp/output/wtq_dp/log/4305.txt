@@ -1,0 +1,69 @@
+===================Title===================
+The Farm Spain (season 1)
+===================Table===================
+|    | Celebrity                    | Residence         | Famous for.../Occupation                    |   Age | Status             |
+|---:|:-----------------------------|:------------------|:--------------------------------------------|------:|:-------------------|
+|  0 | Nagore Robles                | Bilbao            | Gran Hermano 11 Housemate                   |    28 | Winner             |
+|  1 | Raquel Bollo                 | Seville           | TV Host & ex-wife of Chiquetete             |    43 | Runner-Up          |
+|  2 | Blanca de Borbón            | Oviedo, Asturias  | Alfonso XIII's illegitimate granddaughter   |    55 | 3rd Finalist       |
+|  3 | Regina Do Santos             | Brazil            | Singer & Dancer                             |    58 | 1st / 14th Evicted |
+|  4 | Liberto López de la Franca  | Madrid            | Good manner teacher                         |    40 | 13th Evicted       |
+|  5 | Ma Ángeles Delgado          | Valladolid        | Mother of Reality-show star Aída Nízar    |    57 | 8th / 12th Evicted |
+|  6 | Úrsula Aguilar              | Málaga           | Miss Málaga 2011                           |    24 | 11th Evicted       |
+|  7 | Álvaro Muñoz-Escassi       | Seville           | Horse rider & ex-boyfriend of Lara Dibildos |    42 | 10th Evicted       |
+|  8 | Pedro Reche, "Reche"         | Langreo, Asturias | Reality show star                           |    27 | 9th Evicted        |
+|  9 | Dionisio Rodríguez, "Dioni" | Madrid            | Ex Security Guard, robbed a security van    |    62 | Ejected            |
+| 10 | Antonio David Flores         | Madrid            | Ex-son-in-law of Rocío Jurado              |    36 | 7th Evicted        |
+| 11 | Raúl Hidalgo                | Valladolid        | Reality show star                           |    29 | 6th Evicted        |
+| 12 | Leticia Sabater              | Barcelona         | TV Host                                     |    45 | 5th Evicted        |
+| 13 | Brenda Cerdá                | Valencia          | Reality show star                           |    19 | 4th Evicted        |
+| 14 | Sonia Baby                   | Elche, Valencia   | Porn Actress                                |    30 | 3rd Evicted        |
+| 15 | Bárbara Rey                 | Totana, Murcia    | Actress, Vedette, TV Host                   |    61 | 2nd Evicted        |
+===================Question===================
+how many contestants come from madrid?
+===================Text===================
+<think>
+Alright, so I need to figure out how many contestants come from Madrid based on the provided table for "The Farm Spain (season 1)". Let me go through this step by step.
+
+First, I'll look at each row in the table and check the "Residence" column to see if it's listed as Madrid. The "Celebrity" and their corresponding details are listed from index 0 to 15.
+
+Starting with index 0: Nagore Robles is from Bilbao, so that's not Madrid.
+
+Index 1: Raquel Bollo is from Seville, which isn't Madrid either.
+
+Index 2: Blanca de Borbón is from Oviedo, Asturias. Not Madrid.
+
+Index 3: Regina Do Santos is from Brazil, so no.
+
+Index 4: Liberto López de la Franca resides in Madrid. That's one contestant.
+
+Moving on to index 5: Ma Ángeles Delgado is from Valladolid. Nope.
+
+Index 6: Úrsula Aguilar is from Málaga. Not Madrid.
+
+Index 7: Álvaro Muñoz-Escassi is from Seville again. Still no.
+
+Index 8: Pedro Reche, "Reche", is from Langreo, Asturias. Not our target location.
+
+Index 9: Dionisio Rodríguez, "Dioni", is listed as being from Madrid. That's the second contestant.
+
+Index 10: Antonio David Flores is also from Madrid. Now we're at three.
+
+Checking the rest to make sure I didn't miss any:
+
+Index 11: Raúl Hidalgo is from Valladolid. Not relevant.
+
+Index 12: Leticia Sabater is from Barcelona. No.
+
+Index 13: Brenda Cerda is from Valencia. Nope.
+
+Index 14: Sonia Baby is from Elche, Valencia. Still no.
+
+Index 15: Bárbara Rey is from Totana, Murcia. That's it for the last one.
+
+So, adding up the Madrid contestants: Liberto López de la Franca (4), Dionisio Rodríguez (9), and Antonio David Flores (10). That makes three people from Madrid.
+</think>
+
+Final Answer: 3
+===================Answer===================
+3

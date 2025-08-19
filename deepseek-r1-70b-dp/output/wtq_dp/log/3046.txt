@@ -1,0 +1,41 @@
+===================Title===================
+2004 Summer Paralympics
+===================Table===================
+|    |   Rank | Nation        |   Gold |   Silver |   Bronze |   Total |
+|---:|-------:|:--------------|-------:|---------:|---------:|--------:|
+|  0 |      1 | China         |     63 |       46 |       32 |     141 |
+|  1 |      2 | Great Britain |     35 |       30 |       29 |      94 |
+|  2 |      3 | Canada        |     28 |       19 |       25 |      72 |
+|  3 |      4 | United States |     27 |       22 |       39 |      88 |
+|  4 |      5 | Australia     |     26 |       38 |       36 |     100 |
+|  5 |      6 | Ukraine       |     24 |       12 |       19 |      55 |
+|  6 |      7 | Spain         |     20 |       27 |       24 |      71 |
+|  7 |      8 | Germany       |     19 |       28 |       31 |      78 |
+|  8 |      9 | France        |     18 |       26 |       30 |      74 |
+|  9 |     10 | Japan         |     17 |       16 |       20 |      53 |
+===================Question===================
+which nations do not have more than twenty gold medals?
+===================Text===================
+<think>
+Okay, so I need to figure out which nations in the given table have twenty or fewer gold medals at the 2004 Summer Paralympics. Let me start by looking at each row and checking the Gold column.
+
+First, China is at the top with 63 golds, which is way more than twenty. Then Great Britain has 35, also above twenty. Canada is next with 28, still over twenty. The United States also has 27, so that's just below twenty? Wait no, 27 is actually above twenty as well because twenty would be the cutoff. Australia has 26, which is also above twenty.
+
+Moving down, Ukraine has 24 gold medals. That’s still more than twenty. Spain follows with 20 exactly. Since the question is about "not more than twenty," that means Spain is included because it's exactly twenty. Then Germany has 19, France has 18, and Japan has 17. All of these are below or equal to twenty.
+
+So, counting from Ukraine onwards: Ukraine (24) is above twenty? Wait no, the cutoff is twenty, so Ukraine with 24 is above, so they don't qualify. Spain has exactly 20, which does meet "not more than twenty." So Spain and all below them in the table are the ones we're looking for.
+
+Wait, let me clarify: The question is asking for nations that do NOT have more than twenty gold medals. So any nation with Gold ≤20 should be included. Looking again:
+
+- Ukraine has 24, which is above twenty, so they don't qualify.
+- Spain: 20, qualifies.
+- Germany:19, yes.
+- France:18, yes.
+- Japan:17, yes.
+
+So the nations are Spain, Germany, France, and Japan.
+</think>
+
+Final Answer: Spain, Germany, France, Japan
+===================Answer===================
+Germany,France,Japan

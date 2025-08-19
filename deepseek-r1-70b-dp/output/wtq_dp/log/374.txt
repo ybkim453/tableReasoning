@@ -1,0 +1,43 @@
+===================Title===================
+Salvatore Bettiol
+===================Table===================
+|    |   Year | Competition            | Venue                  | Position   | Event    | Notes   |
+|---:|-------:|:-----------------------|:-----------------------|:-----------|:---------|:--------|
+|  0 |   1986 | Venice Marathon        | Venice, Italy          | 1st        | Marathon | 2:18:44 |
+|  1 |   1987 | World Championships    | Rome, Italy            | 13th       | Marathon | 2:17:45 |
+|  2 |   1987 | Venice Marathon        | Venice, Italy          | 1st        | Marathon | 2:10:01 |
+|  3 |   1990 | European Championships | Split, FR Yugoslavia   | 4th        | Marathon | 2:17:45 |
+|  4 |   1991 | World Championships    | Tokyo, Japan           | 6th        | Marathon | 2:15:58 |
+|  5 |   1992 | Olympic Games          | Barcelona, Spain       | 5th        | Marathon | 2:14:15 |
+|  6 |   1993 | World Championships    | Stuttgart, Germany     | —          | Marathon | DNF     |
+|  7 |   1996 | Olympic Games          | Atlanta, United States | 20th       | Marathon | 2:17:27 |
+===================Question===================
+how many times was 1st place listed as the position?
+===================Text===================
+<think>
+Okay, so I need to figure out how many times Salvatore Bettiol was listed in 1st place according to the table provided. Let me look at each row one by one.
+
+The table has eight entries, from year 1986 to 1996. Each row lists his position in various competitions. My task is to count how many times his Position column shows "1st".
+
+Starting with the first row: 1986 Venice Marathon. His position was 1st. That's one.
+
+Next, 1987 World Championships in Rome: he got 13th place. Not a 1st here.
+
+Then, 1987 Venice Marathon again: another 1st place. So that's two now.
+
+In 1990 at the European Championships, he placed 4th. Not 1st.
+
+1991 World Championships in Tokyo: 6th position. Nope.
+
+1992 Olympic Games in Barcelona: 5th. Still no 1st.
+
+1993 World Championships: he didn't finish (DNF), so that's not a position.
+
+Finally, 1996 Olympic Games: 20th place. Not first.
+
+Looking through all these, the only times he was 1st were in 1986 and 1987 Venice Marathons. So, that makes it two instances where he took first place.
+</think>
+
+Final Answer: 2
+===================Answer===================
+2

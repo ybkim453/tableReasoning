@@ -1,0 +1,48 @@
+===================Title===================
+Governor of New Mexico
+===================Table===================
+|    |   # | Office                                   | Current Officer         |
+|---:|----:|:-----------------------------------------|:------------------------|
+|  0 | nan | May succeed to Governorship              | nan                     |
+|  1 | nan | Governor of New Mexico                   | Susana Martinez         |
+|  2 |   1 | Lieutenant Governor of New Mexico        | John Sanchez            |
+|  3 |   2 | Secretary of State of New Mexico         | Dianna Duran            |
+|  4 |   3 | President Pro Tempore of the Senate      | Mary Kay Papen          |
+|  5 |   4 | Speaker of the House of Representatives  | W. Ken Martinez         |
+|  6 | nan | May serve as Emergency Interim Successor | nan                     |
+|  7 |   4 | Attorney General of New Mexico           | Gary King               |
+|  8 |   5 | State Auditor                            | Hector Balderas         |
+|  9 |   6 | State Treasurer                          | James B. Lewis          |
+| 10 |   7 | Commissioner of Public Lands             | Ray Powell              |
+| 11 |   8 | Public Regulation Commission, Chair      | Patrick Lyons           |
+| 12 |   9 | Public Regulation Commissioner           | Karen Montoya           |
+| 13 |  10 | Public Regulation Commissioner           | Valerie Espinoza        |
+| 14 |  11 | Public Regulation Commissioner           | Theresa Becenti–Aguilar |
+| 15 |  12 | Public Regulation Commissioner           | Ben Hall                |
+===================Question===================
+who is the attorney general of new mexico currently?
+===================Text===================
+<think>
+Okay, so I need to figure out who the current Attorney General of New Mexico is based on the provided table. Let me start by carefully examining the table and understanding its structure.
+
+First, looking at the columns: there's an index column (which doesn't seem to be relevant here as it starts with 0 and has some 'nan' values), an Office column which describes each position, a Current Officer column with the names of the people holding those offices, and another column labeled # that seems to represent the order or hierarchy.
+
+I'm looking for the Attorney General. So I'll go through each row one by one, focusing on the "Office" column until I find the relevant entry.
+
+Row 0: Office is "May succeed to Governorship" – not relevant.
+Row 1: Office is "Governor of New Mexico", current officer is Susana Martinez. Not the AG, but good to note.
+Row 2: Lieutenant Governor – John Sanchez. Still not.
+Row 3: Secretary of State – Dianna Duran. Nope.
+Row 4: President Pro Tempore of the Senate – Mary Kay Papen. Not relevant here.
+Row 5: Speaker of the House – W. Ken Martinez. Not the AG.
+Row 6: "May serve as Emergency Interim Successor" – not an office title.
+Row 7: Office is "Attorney General of New Mexico". Finally! The current officer here is Gary King.
+
+I should double-check if there are any other entries related to Attorney General, but looking through the remaining rows (8-15), they list other positions like State Auditor, Treasurer, Commissioner of Public Lands, and various Public Regulation Commissioners. None of these pertain to the Attorney General role.
+
+So, the only row with "Attorney General" is row 7, where Gary King is listed as the current officer.
+</think>
+
+Final Answer: Gary King
+===================Answer===================
+Gary King

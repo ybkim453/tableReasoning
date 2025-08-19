@@ -1,0 +1,41 @@
+===================Title===================
+1996 All-Ireland Senior Hurling Championship
+===================Table===================
+|    |   Rank | Player           | County    | Tally   |   Total | Opposition   |
+|---:|-------:|:-----------------|:----------|:--------|--------:|:-------------|
+|  0 |      1 | Francis Forde    | Galway    | 2–8     |      14 | Roscommon    |
+|  1 |      2 | Niall English    | Carlow    | 1–9     |      12 | Westmeath    |
+|  2 |      3 | Kevin Broderick  | Galway    | 3–1     |      10 | New York     |
+|  3 |      3 | Gary Kirby       | Limerick  | 1–7     |      10 | Tipperary    |
+|  4 |      3 | Gary Kirby       | Limerick  | 0–10    |      10 | Tipperary    |
+|  5 |      6 | Seán McLoughlin | Westmeath | 1–6     |       9 | Carlow       |
+|  6 |      6 | David Martin     | Meath     | 1–6     |       9 | Offaly       |
+|  7 |      6 | Gary Kirby       | Limerick  | 0–9     |       9 | Antrim       |
+|  8 |      9 | John Byrne       | Carlow    | 2–2     |       8 | Westmeath    |
+|  9 |      9 | John Troy        | Offaly    | 2–2     |       8 | Laois        |
+| 10 |      9 | John Leahy       | Tipperary | 2–2     |       8 | Kerry        |
+| 11 |      9 | Tom Dempsey      | Wexford   | 1–5     |       8 | Offaly       |
+| 12 |      9 | Paul Flynn       | Waterford | 1–5     |       8 | Tipperary    |
+| 13 |      9 | Francis Forde    | Galway    | 1–5     |       8 | New York     |
+===================Question===================
+who is the top ranking player?
+===================Text===================
+<think>
+Alright, so I need to figure out who the top-ranking player is from this table about the 1996 All-Ireland Senior Hurling Championship. Let's start by looking at how the table is structured.
+
+The table has several columns: Rank, Player, County, Tally, Total, and Opposition. From what I can see, each row represents a player's performance against a specific opposition. The key here is to determine which player holds the highest rank, meaning they are at the top of the list.
+
+Looking at the "Rank" column, the numbers start from 0 and go up. Since it's a ranking, lower numbers indicate higher positions. So Rank 1 would be higher than Rank 2, and so on. Wait, actually, looking closer, the first row has Rank 1 with Player Francis Forde, and then next rows have Rank 2, followed by multiple players at Rank 3, then several at Rank 6, and more at Rank 9.
+
+Wait, that seems a bit off because usually rankings go from 1 upwards. But in this table, the first row is labeled as Rank 0 with value 1. Hmm, maybe it's zero-indexed, which means the top rank is actually at position 0. So, the very first entry would be the highest.
+
+Looking again, row 0 (the first one) has Rank 1 assigned to Francis Forde from Galway. His tally is 2–8, and his total points are 14 against Roscommon. Since he's in the first position with the highest total of 14, which seems like the top score compared to others.
+
+The next row has Rank 2, Niall English, with a total of 12. Then there are multiple players at Rank 3 with totals of 10 each. Lower ranks go down from there.
+
+So, putting it all together, Francis Forde is in the first position with the highest points (14) and is ranked number 1. Therefore, he must be the top-ranking player in this table.
+</think>
+
+Final Answer: Francis Forde
+===================Answer===================
+Francis Forde

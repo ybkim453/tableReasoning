@@ -1,0 +1,78 @@
+===================Title===================
+JumpStart Adventures 3rd Grade: Mystery Mountain
+===================Table===================
+|    | Subject      | Robot's Name                  | Who?                    | When?                  | Where?                 | Occupation            |
+|---:|:-------------|:------------------------------|:------------------------|:-----------------------|:-----------------------|:----------------------|
+|  0 | Solar System | Cosmo-Bot                     | Copernicus              | 1531                   | Poland                 | Cosmonaut             |
+|  1 | Olympics     | Rhonda Robot                  | Greeks                  | 776 B.C.               | Greece                 | Beauty queen          |
+|  2 | Basketball   | Danny Defrost-Bot             | James Naismith          | 1891                   | United States          | Snowman               |
+|  3 | Nursing      | Dr. Bug-Bot                   | Florence Nightengale    | 1860                   | England                | Doctor                |
+|  4 | Scuba Gear   | Flip the High-Diving Robot    | Jacques Cousteau        | 1946                   | France                 | Diver                 |
+|  5 | Helicopter   | Amelia Air-Bot                | Leonardo da Vinci       | 1483                   | Italy                  | Pilot                 |
+|  6 | Corn Flakes  | Chef Boy-Robot                | William Kellogg         | 1894                   | Battle Creek, Michigan | Cook                  |
+|  7 | Radium       | Miss Battery-Bot              | Marie Curie             | 1898                   | France                 | Battery Lady          |
+|  8 | Chewing Gum  | Bubble-Bot                    | Mayans                  | 400                    | Mexico                 | Bubble Man            |
+|  9 | Painting     | Pierro-Bot                    | Stone-Age Humans        | 35,000 B.C.            | Europe                 | Clown/Artist          |
+| 10 | Phonograph   | Slide the Heavy-Metal Robot   | Thomas Edison           | 1877                   | New Jersey             | Rock Star             |
+| 11 | Paper        | Noshi Origami                 | Ts'ai Lun               | 105                    | China                  | Origami Maker         |
+| 12 | Round Earth  | Vasco da Robot                | Ferdinand Magellan      | 1522                   | Spain                  | Early Sailor          |
+| 13 | Dynamite     | Robby Robot                   | Alfred Nobel            | 1866                   | Sweden                 | Prankster             |
+| 14 | Microscope   | Slobot                        | Antonie van Leeuwenhoek | 1674                   | The Netherlands        | Dirty Person          |
+| 15 | Writing      | Eraser-Bot                    | Sumerians               | 3,500 B.C.             | Middle East            | Pencil Man            |
+| 16 | Sausage      | Sock-Bot                      | Babylonians             | 3,000 B.C.             | Middle East            | Sock Man              |
+| 17 | Bicycle      | Booster-Bot                   | Karl von Drais          | 1816                   | Germany                | Rocket Man            |
+| 18 | Wheel        | Rollin' Road-Bot              | Sumerians               | 3,000 B.C.             | Middle East            | Race Starter          |
+| 19 | Germs        | Roast-Bot                     | Louis Pasteur           | 1865                   | France                 | Firefighter           |
+| 20 | Boomerang    | Oswald the Mailman Robot      | Aborigines              | 40,000 years ago       | Australia              | Mailman               |
+| 21 | Coins        | Verna the Vend-Bot            | Lydians                 | 600 B.C.               | Turkey                 | Vending Machine       |
+| 22 | Tools        | Hank the Handyman Robot       | Stone-Age Humans        | 21⁄2 million years ago | Africa                 | Mechanic              |
+| 23 | Saxophone    | Bongo-Bot the Six-Armed Robot | Antoine-Joseph Sax      | 1846                   | France                 | Six-Armed Drum Player |
+| 24 | Toilet       | Brunwella the Bombshell       | Minoans                 | 2000 B.C.              | Crete                  | Demolisher            |
+===================Question===================
+what is the total amount of robots before 1500?
+===================Text===================
+<think>
+Alright, let's tackle this problem step by step. The question is asking for the total amount of robots before 1500 based on the given table. To find this, I'll need to go through each entry and count how many robots were created before the year 1500.
+
+First, I'll look at the "When?" column in each row. If the year listed there is earlier than 1500, then that robot counts towards our total. I'll check each row one by one.
+
+Starting from row 0:
+- Row 0: 1531 (after 1500) → doesn't count.
+- Row 1: 776 B.C. → before 1500 → count = 1.
+- Row 2: 1891 → after → no count.
+- Row 3: 1860 → after → no count.
+- Row 4: 1946 → after → no count.
+- Row 5: 1483 (before) → count = 2.
+- Row 6: 1894 → after → no count.
+- Row 7: 1898 → after → no count.
+- Row 8: 400 B.C. → before → count = 3.
+- Row 9: 35,000 B.C. → before → count = 4.
+- Rows 10 to 14: All years are in 1800s or later → don't count.
+- Row 15: 3,500 B.C. → before → count =5.
+- Row 16: 3,000 B.C. → before → count=6.
+- Row 17: 1816 → after → no count.
+- Row 18: 3,000 B.C. → before → count=7.
+- Rows 19 to 24: Check each:
+   - Row 19: 1865 → after
+   - Row20:40k years ago → before → count=8
+   - Row21:600 B.C.→ before→count=9
+   - Row22:2.5M years ago→before→count=10
+   - Rows23:1846→after; 24:2000B.C.→before→ so row24 counts, making it count=11.
+
+Wait a second, I think I might have missed some rows after 18. Let me recount carefully:
+
+After row 18 (count=7), moving on:
+
+Row19: 1865 → no
+Row20:40k years ago → yes, count=8
+Row21:600 B.C.→ yes→9
+Row22:2.5M years ago→yes→10
+Row23:1846→no
+Row24:2000 B.C.→yes→11.
+
+So in total, 11 robots were created before 1500.
+</think>
+
+Final Answer: 11
+===================Answer===================
+12

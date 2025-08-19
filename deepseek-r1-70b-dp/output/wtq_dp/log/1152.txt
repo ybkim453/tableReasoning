@@ -1,0 +1,60 @@
+===================Title===================
+Windows Server 2012
+===================Table===================
+|    | Specifications                                  | Foundation                                 | Essentials                                                        | Standard                      | Datacenter               |
+|---:|:------------------------------------------------|:-------------------------------------------|:------------------------------------------------------------------|:------------------------------|:-------------------------|
+|  0 | Distribution                                    | OEM only                                   | Retail, volume licensing, OEM                                     | Retail, volume licensing, OEM | Volume licensing and OEM |
+|  1 | Licensing model                                 | Per server                                 | Per server                                                        | Per CPU pair + CAL            | Per CPU pair + CAL       |
+|  2 | Processor chip limit                            | 1                                          | 2                                                                 | 64                            | 64                       |
+|  3 | Memory limit                                    | 32 GB                                      | 64 GB                                                             | 4 TB                          | 4 TB                     |
+|  4 | User limit                                      | 15                                         | 25                                                                | Unlimited                     | Unlimited                |
+|  5 | File Services limits                            | 1 standalone DFS root                      | 1 standalone DFS root                                             | Unlimited                     | Unlimited                |
+|  6 | Network Policy and Access Services limits       | 50 RRAS connections and 10 IAS connections | 250 RRAS connections, 50 IAS connections, and 2 IAS Server Groups | Unlimited                     | Unlimited                |
+|  7 | Remote Desktop Services limits                  | 50 Remote Desktop Services connections     | Gateway only                                                      | Unlimited                     | Unlimited                |
+|  8 | Virtualization rights                           | N/A                                        | Either in 1 VM or 1 physical server, but not both at once         | 2 VMs                         | Unlimited                |
+|  9 | DHCP role                                       | Yes                                        | Yes                                                               | Yes                           | Yes                      |
+| 10 | DNS server role                                 | Yes                                        | Yes                                                               | Yes                           | Yes                      |
+| 11 | Fax server role                                 | Yes                                        | Yes                                                               | Yes                           | Yes                      |
+| 12 | UDDI Services                                   | Yes                                        | Yes                                                               | Yes                           | Yes                      |
+| 13 | Print and Document Services                     | Yes                                        | Yes                                                               | Yes                           | Yes                      |
+| 14 | Web Services (Internet Information Services)    | Yes                                        | Yes                                                               | Yes                           | Yes                      |
+| 15 | Windows Deployment Services                     | Yes                                        | Yes                                                               | Yes                           | Yes                      |
+| 16 | Windows Server Update Services                  | No                                         | Yes                                                               | Yes                           | Yes                      |
+| 17 | Active Directory Lightweight Directory Services | Yes                                        | Yes                                                               | Yes                           | Yes                      |
+| 18 | Active Directory Rights Management Services     | Yes                                        | Yes                                                               | Yes                           | Yes                      |
+| 19 | Application server role                         | Yes                                        | Yes                                                               | Yes                           | Yes                      |
+| 20 | Server Manager                                  | Yes                                        | Yes                                                               | Yes                           | Yes                      |
+| 21 | Windows Powershell                              | Yes                                        | Yes                                                               | Yes                           | Yes                      |
+| 22 | Active Directory Domain Services                | Must be root of forest and domain          | Must be root of forest and domain                                 | Yes                           | Yes                      |
+| 23 | Active Directory Certificate Services           | Certificate Authorities only               | Certificate Authorities only                                      | Yes                           | Yes                      |
+| 24 | Active Directory Federation Services            | Yes                                        | No                                                                | Yes                           | Yes                      |
+| 25 | Server Core mode                                | No                                         | No                                                                | Yes                           | Yes                      |
+| 26 | Hyper-V                                         | No                                         | No                                                                | Yes                           | Yes                      |
+===================Question===================
+how many processor chips can the datacenter specification support?
+===================Text===================
+<think>
+Alright, so I need to figure out how many processor chips the Datacenter specification of Windows Server 2012 can support. Let me start by looking at the table provided and understanding what each part means.
+
+First, I'll scan through the specifications categories to find the one related to processors or chip limits. Looking at the rows, row 2 is labeled "Processor chip limit". That's exactly what I'm looking for.
+
+Now, I need to check under each edition of Windows Server 2012 and see their processor chip limits. The columns are Foundation, Essentials, Standard, and Datacenter. 
+
+Row 2 gives the processor chip limit for each:
+- Foundation: 1
+- Essentials: 2
+- Standard: 64
+- Datacenter: 64
+
+Wait, so both Standard and Datacenter have a limit of 64 processor chips? That seems high, but I guess it's because they're higher-tier editions meant for more powerful servers.
+
+So the question is asking about Datacenter specifically. According to row 2 under Datacenter, it's 64. 
+
+I should double-check to make sure I didn't misread anything. Yes, row 2 is definitely Processor chip limit, and the Datacenter column says 64. I don't see any other rows that might affect this number. The other specifications like memory or user limits don't impact processor chips directly.
+
+Therefore, the answer should be 64.
+</think>
+
+Final Answer: 64
+===================Answer===================
+64

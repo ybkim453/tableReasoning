@@ -1,0 +1,64 @@
+===================Title===================
+AFL Cairns
+===================Table===================
+|    |   Year | Premiers                        | Score       | Runners Up                      | Score .1   |
+|---:|-------:|:--------------------------------|:------------|:--------------------------------|:-----------|
+|  0 |   2003 | Centrals Trinity Beach Bulldogs | 14.11 (95)  | North Cairns                    | 6.7 (43)   |
+|  1 |   2004 | Port Douglas Crocs              | 17.13 (115) | North Cairns Tigers             | 8.9 (57)   |
+|  2 |   2005 | Port Douglas Crocs              | 19.14 (128) | Cairns Saints                   | 4.11 (35)  |
+|  3 |   2006 | Manunda Hawks                   | 11.11 (77)  | Centrals Trinity Beach Bulldogs | 10.9 (69)  |
+|  4 |   2007 | Centrals Trinity Beach Bulldogs | 14.16 (100) | Cairns Saints                   | 11.2 (68)  |
+|  5 |   2008 | Cairns Saints                   | 12.15 (87)  | North Cairns Tigers             | 2.9 (21)   |
+|  6 |   2009 | South Cairns Cutters            | 9.11 (65)   | Cairns Saints                   | 9.4 (58)   |
+|  7 |   2010 | North Cairns Tigers             | 8.10 (58)   | Port Douglas Crocs              | 8.5 (53)   |
+|  8 |   2011 | Manunda Hawks                   | 11.8 (74)   | Port Douglas Crocs              | 6.9 (45)   |
+|  9 |   2012 | Cairns Saints                   | 17.6 (108)  | North Cairns Tigers             | 11.12 (78) |
+| 10 |   2013 | North Cairns Tigers             | 14.14 (98)  | Port Douglas Crocs              | 13.6 (84)  |
+===================Question===================
+what is the total number of years for port douglas crocs?
+===================Text===================
+<think>
+Okay, so I need to figure out how many years the Port Douglas Crocs were involved in based on this table. Let me start by understanding what each column represents. The table has Year, Premiers (the team that won), their score, Runners Up (the second place team), and their score as well.
+
+First, I'll go through each row one by one and note when Port Douglas Crocs appear in either the Premiers or Runners Up columns. 
+
+Starting with 2003: The premiers are Centrals Trinity Beach Bulldogs, runners up are North Cairns. No mention of Port Douglas here.
+
+In 2004: The premiers are Port Douglas Crocs with a score of 17.13 (115), and the runners up are North Cairns Tigers. So that's one year as premiers.
+
+2005: Again, premiers are Port Douglas Crocs with a higher score than last time. Runners up are Cairns Saints. That's their second year as premiers.
+
+2006: Premiers are Manunda Hawks and runners up are Centrals Trinity Beach Bulldogs. No Port Douglas here.
+
+In 2007: The premiers are back to Centrals, runners up are Cairns Saints. Still no Port Douglas.
+
+2008: Now the premiers are Cairns Saints, and runners up are North Cairns Tigers. So Port Douglas isn't in this row either.
+
+Looking at 2009: South Cairns Cutters are premiers, Cairns Saints as runners up. No sign of Port Douglas here.
+
+In 2010: Premiers are North Cairns Tigers with a score of 8.10 (58), and the runners up are none other than Port Douglas Crocs. So this is their first appearance as runners up in 2010.
+
+Moving to 2011: The premiers are Manunda Hawks, and the runners up are again Port Douglas Crocs. That's another year as runners up, making it two times now.
+
+In 2012: Premiers are Cairns Saints, runners up are North Cairns Tigers. No Port Douglas this time.
+
+2013: The premiers are North Cairns Tigers, runners up are Port Douglas Crocs once again. So that's a third time they're in the runners up spot.
+
+Wait, so I need to count each year they appeared either as premiers or runners up. So let me list them out:
+
+- 2004: Premiers
+- 2005: Premiers
+- 2010: Runners Up
+- 2011: Runners Up
+- 2013: Runners Up
+
+That's a total of five years where they were either premiers or runners up. So the Port Douglas Crocs have been involved in five different years according to this table.
+
+I think that's all, as I went through each year from 2003 to 2013 and checked both columns each time.
+</think>
+
+The Port Douglas Crocs appeared in 5 different years either as premiers or runners up.
+
+Final Answer: 5
+===================Answer===================
+2

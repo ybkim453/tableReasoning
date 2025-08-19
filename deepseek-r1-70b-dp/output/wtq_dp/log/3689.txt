@@ -1,0 +1,59 @@
+===================Title===================
+Commemorative coins of Estonia
+===================Table===================
+|    |   Year | Model                                                      | Denomination   | Metal composition   | Dimensions                                |
+|---:|-------:|:-----------------------------------------------------------|:---------------|:--------------------|:------------------------------------------|
+|  0 |   1992 | Re-establishment of kroon, 28 August 1992                  | 100 krooni     | .900 silver         | 23 grams (0.81 oz)36 millimetres (1.4 in) |
+|  1 |   1996 | Atlanta Olympics, 100th anniversary of Modern Olympiad     | 100 krooni     | .925 silver         | 25 grams (0.88 oz)38 millimetres (1.5 in) |
+|  2 |   1998 | 80th anniversary of declaration of Independence, 1918–1998 | 100 krooni     | .925 silver         | 25 grams (0.88 oz)38 millimetres (1.5 in) |
+|  3 |   1992 | Re-establishment of Krooni currency                        | 10 krooni      | .925 silver         | 25 grams (0.88 oz)38 millimetres (1.5 in) |
+|  4 |   1992 | Barcelona Olympics                                         | 10 krooni      | .925 silver         | 25 grams (0.88 oz)38 millimetres (1.5 in) |
+|  5 |   1998 | 80th anniversary of declaration of Independence, 1918–1998 | 10 krooni      | .925 silver         | 25 grams (0.88 oz)38 millimetres (1.5 in) |
+|  6 |   2002 | 370th anniversary of the founding of Tartu University      | 10 krooni      | .925 silver         | 25 grams (0.88 oz)38 millimetres (1.5 in) |
+|  7 |   2004 | The Flag of Estonia – 2004                                 | 10 krooni      | .925 silver         | 25 grams (0.88 oz)38 millimetres (1.5 in) |
+===================Question===================
+which is the first model listed with 10 krooni as the denomination?
+===================Text===================
+<think>
+Okay, so I need to figure out which is the first model listed with 10 krooni as the denomination from the given table of Estonian commemorative coins. Let me look at the table again.
+
+The table has several entries, each with a Year, Model, Denomination, Metal composition, and Dimensions. The Denomination column is what I'm focusing on here because the question asks for 10 krooni coins. 
+
+Looking through the rows:
+
+- Row 0: 100 krooni
+- Row 1: 100 krooni
+- Row 2: 100 krooni
+- Row 3: 10 krooni
+- Row 4: 10 krooni
+- Row 5: 10 krooni
+- Row 6: 10 krooni
+- Row 7: 10 krooni
+
+So the first occurrence of a 10 krooni denomination is in row 3. The Model for that row is "Re-establishment of Krooni currency." Wait, no, actually, looking at the Year column:
+
+Row 0 is from 1992, which is about the Re-establishment of kroon on August 28, but it's a 100 krooni coin.
+
+Then rows 3 to 7 are all 10 krooni coins. Row 3 is also from 1992, same as row 0, but with a lower denomination. Since the table seems to be ordered by year and then perhaps by model or event, I should check if there's any earlier entry with 10 krooni.
+
+Wait, rows are ordered from 0 to 7. So row 3 is the first one in the list that has 10 krooni as the denomination. The Model for row 3 is "Re-establishment of Krooni currency." No, wait, no, in the table, let me check again:
+
+Row 0: "Re-establishment of kroon" (100 krooni)
+Row 1: Atlanta Olympics (100 krooni)
+Row 2: 80th anniversary Independence (100 krooni)
+Row 3: Re-establishment (10 krooni)
+Row 4: Barcelona Olympics (10 krooni)
+So the first model with 10 krooni is row 3, "Re-establishment of Krooni currency." Wait, no, looking at the Model description for row 3:
+
+In the table provided, row 3's Model is "Re-establishment of Krooni currency" and Denomination is 10 krooni. So that's the first occurrence in the list.
+
+But wait, let me check if any earlier rows have 10 krooni. Rows 0-2 are all 100 krooni. Then starting from row 3, it changes to 10 krooni. Therefore, the first model listed with 10 krooni is the one at index 3, which is "Re-establishment of Krooni currency."
+
+Wait no, looking again: Row 0's Model is "Re-establishment of kroon", row 3's Model is also "Re-establishment of Krooni currency." So they're both about re-establishment but different denominations. Therefore, the first model with 10 krooni is indeed row 3.
+</think>
+
+The first model listed with a denomination of 10 krooni is the one from 1992 related to the Re-establishment of Krooni currency.
+
+Final Answer: Re-establishment of Krooni currency
+===================Answer===================
+Re-establishment of Krooni currency

@@ -1,0 +1,65 @@
+===================Title===================
+Saigon (rapper)
+===================Table===================
+|    | Title                                                     |   Year | Peak chart positions\nUS   | Peak chart positions\nUS R&B   | Peak chart positions\nUS Rap   | Album                                                                         |
+|---:|:----------------------------------------------------------|-------:|:---------------------------|:-------------------------------|:-------------------------------|:------------------------------------------------------------------------------|
+|  0 | "Say Yes"                                                 |   2001 | —                          | —                              | —                              | N/A                                                                           |
+|  1 | "Do You Know"                                             |   2002 | —                          | —                              | —                              | N/A                                                                           |
+|  2 | "Favorite Things"                                         |   2004 | —                          | —                              | —                              | N/A                                                                           |
+|  3 | "Pain In My Life"\n(featuring Trey Songz)                 |   2006 | —                          | —                              | —                              | N/A                                                                           |
+|  4 | "C'mon Baby"\n(featuring Swizz Beatz)                     |   2007 | —                          | —                              | —                              | N/A                                                                           |
+|  5 | "Gotta Believe It"\n(featuring Just Blaze)                |   2009 | —                          | —                              | —                              | Warning Shots 2                                                               |
+|  6 | "Bring Me Down"                                           |   2010 | —                          | —                              | —                              | N/A                                                                           |
+|  7 | "The Greatest Story Never Told"                           |   2011 | —                          | —                              | —                              | The Greatest Story Never Told                                                 |
+|  8 | "Clap"\n(featuring Faith Evans)                           |   2011 | —                          | —                              | —                              | The Greatest Story Never Told                                                 |
+|  9 | "Not Like Them"\n(featuring Styles P)                     |   2012 | —                          | —                              | —                              | The Greatest Story Never Told Chapter 2: Bread and Circuses                   |
+| 10 | "Best Thing That I Found"\n(featuring Lecrae and Corbett) |   2012 | —                          | —                              | —                              | The Greatest Story Never Told Chapter 2: Bread and Circuses                   |
+| 11 | "Best Mistake"\n(featuring G. Martin)                     |   2013 | —                          | —                              | —                              | The Greatest Story Never Told Chapter 3: The Troubled Times of Brian Carenard |
+===================Question===================
+what were the number of albums released?
+===================Text===================
+<think>
+Okay, so I need to figure out how many albums Saigon (the rapper) has released based on the given table. Let's start by looking at the table structure and content.
+
+The table lists several songs with their release years and peak chart positions, along with the album each song belongs to. My task is to count the number of unique albums mentioned in the 'Album' column.
+
+Looking through each row:
+
+Row 0: "Say Yes" (2001) - Album listed as N/A.
+Row 1: "Do You Know" (2002) - N/A again.
+Row 2: "Favorite Things" (2004) - Still N/A.
+Rows 3 and 4: Both list N/A for the album.
+Row 5: "Gotta Believe It" (2009) - Album is "Warning Shots 2".
+Row 6: "Bring Me Down" (2010) - N/A.
+Row 7: "The Greatest Story Never Told" (2011) - The album with the same name, "The Greatest Story Never Told".
+Row 8: "Clap" (2011) - Same as above, so that's one album.
+Row 9: "Not Like Them" (2012) - Album is "The Greatest Story Never Told Chapter 2: Bread and Circuses".
+Row 10: "Best Thing That I Found" (2012) - Same as the previous, so no new album here.
+Row 11: "Best Mistake" (2013) - Album listed as "The Greatest Story Never Told Chapter 3: The Troubled Times of Brian Carenard".
+
+Now, let me list out all the unique albums:
+
+1. Warning Shots 2
+2. The Greatest Story Never Told
+3. The Greatest Story Never Told Chapter 2: Bread and Circuses
+4. The Greatest Story Never Told Chapter 3: The Troubled Times of Brian Carenard
+
+Wait, but I'm noticing that the titles "The Greatest Story Never Told" is the main album, and then there are chapters 2 and 3. Are these considered separate albums or part of a series?
+
+In music, each chapter usually denotes a different release, so Chapter 1 would be the original, Chapter 2 another album, and Chapter 3 the third one. So that's three distinct albums. Plus "Warning Shots 2" is another one.
+
+So in total, that makes four unique album entries in the table. However, I should check if any of these are the same or if some might not be full studio albums.
+
+Wait, but looking again:
+
+- "Warning Shots 2" seems to be its own entity.
+- Then there's "The Greatest Story Never Told", and two more chapters: Chapter 2 and Chapter 3. Each is a separate album release.
+
+Therefore, the total number of albums listed in the table is four. But wait, let me double-check if any entries are missing or if some are part of the same album series but considered as one.
+
+Nope, each chapter is a different album. So that's four distinct albums.
+</think>
+
+Final Answer: 4
+===================Answer===================
+4

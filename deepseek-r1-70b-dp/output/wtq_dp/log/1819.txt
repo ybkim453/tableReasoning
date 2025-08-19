@@ -1,0 +1,115 @@
+===================Title===================
+List of awards and nominations received by Charlie Sheen
+===================Table===================
+|    |   Year | Result    | Award                                                                                      | Film                 |
+|---:|-------:|:----------|:-------------------------------------------------------------------------------------------|:---------------------|
+|  0 |   1989 | Won       | Bronze Wrangler Theatrical Motion Picture                                                  | Young Guns           |
+|  1 |   1999 | Nominated | SAG Award Outstanding Performance by a Cast in a Theatrical Motion Picture                 | Being John Malkovich |
+|  2 |   1999 | Nominated | Online Film Critics Society Award for Best Cast                                            | Being John Malkovich |
+|  3 |   2001 | Nominated | ALMA Award Outstanding Actor in a Television Series                                        | Spin City            |
+|  4 |   2002 | Nominated | ALMA Award Outstanding Actor in a Television Series                                        | Spin City            |
+|  5 |   2002 | Won       | Golden Globe Award Best Performance by an Actor in a Television Series - Musical or Comedy | Spin City            |
+|  6 |   2002 | Nominated | Kids' Choice Awards Favorite Television Actor                                              | Two and a Half Men   |
+|  7 |   2005 | Nominated | SAG Award Outstanding Performance by a Male Actor in a Comedy Series                       | Two and a Half Men   |
+|  8 |   2005 | Nominated | Golden Globe Award for Best Actor – Television Series Musical or Comedy                    | Two and a Half Men   |
+|  9 |   2006 | Won       | Golden Icon Award Best Actor - Comedy Series                                               | Two and a Half Men   |
+| 10 |   2006 | Nominated | Emmy Award for Outstanding Lead Actor - Comedy Series                                      | Two and a Half Men   |
+| 11 |   2006 | Nominated | Golden Globe Award for Best Actor – Television Series Musical or Comedy                    | Two and a Half Men   |
+| 12 |   2007 | Nominated | People's Choice Award Favorite Male TV Star                                                | nan                  |
+| 13 |   2007 | Nominated | Teen Choice Award Choice TV Actor: Comedy                                                  | Two and a Half Men   |
+| 14 |   2007 | Nominated | Emmy Award for Outstanding Lead Actor - Comedy Series                                      | Two and a Half Men   |
+| 15 |   2008 | Nominated | People's Choice Award Favorite Male TV Star                                                | nan                  |
+| 16 |   2008 | Nominated | Teen Choice Awards Choice TV Actor: Comedy                                                 | Two and a Half Men   |
+| 17 |   2008 | Nominated | Outstanding Lead Actor - Comedy Series                                                     | Two and a Half Men   |
+| 18 |   2008 | Won       | ALMA Award Outstanding Actor in a Comedy Television Series                                 | Two and a Half Men   |
+| 19 |   2010 | Nominated | SAG Award Outstanding Performance by a Male Actor in a Comedy Series                       | Two and a Half Men   |
+| 20 |   2012 | Won       | WWE Slammy Award Top Social Media Ambassador                                               | WWE Raw              |
+===================Question===================
+what show won/was nominated for the most awards?
+===================Text===================
+<think>
+Okay, so I need to figure out which show won or was nominated for the most awards based on the table provided about Charlie Sheen's awards and nominations. Let me start by understanding the structure of the table.
+
+The table has five columns: an index, Year, Result (whether he Won or was Nominated), Award, and Film/Show. Each row represents a different award event related to a specific show or film that Charlie Sheen was involved in.
+
+My goal is to count how many times each show was either won or nominated for awards. Then, determine which show has the highest count of mentions (both wins and nominations).
+
+First, I'll list out all the shows mentioned in the table along with their corresponding results.
+
+Looking at the Film column:
+
+- Young Guns (index 0)
+- Being John Malkovich (indices 1 and 2)
+- Spin City (indices 3, 4, 5)
+- Two and a Half Men appears multiple times: indices 6, 7, 8, 9,10,11,13,14,16,17,18,19
+- WWE Raw (index 20)
+
+Wait, index 12 and 15 have 'nan', which I think stands for 'not a number' or missing data. So those two rows might be about a show that isn't specified, but since the rest are filled, maybe it's an error, so I'll exclude them from counting.
+
+Now, let's count each show's mentions:
+
+1. Young Guns: 1 (index 0)
+2. Being John Malkovich: 2 nominations
+3. Spin City: 3 entries (indices 3,4,5), with one win and two nominations.
+   - Wait, index 3: Nominated
+   - Index 4: Nominated
+   - Index 5: Won
+   So that's 1 win and 2 nominations, total of 3.
+
+4. Two and a Half Men: Let's go through the indices:
+
+Index 6: Nominated
+7: Nominated
+8: Nominated
+9: Won
+10: Nominated
+11: Nominated
+13: Nominated
+14: Nominated
+16: Nominated
+17: Nominated
+18: Won
+19: Nominated
+
+Let me count how many times Two and a Half Men appears:
+
+From index 6 to 19, excluding 12 and 15. So that's indices 6,7,8,9,10,11,13,14,16,17,18,19.
+
+That's 12 entries for Two and a Half Men.
+
+Now checking each of these 12 entries:
+
+- Result column: I'll count how many are Won or Nominated.
+   - Index 6: Nominated
+   - 7: Nominated
+   -8:Nominated
+   -9:Won
+   -10:Nominated
+   -11:Nominated
+   -13:Nominated
+   -14:Nominated
+   -16:Nominated
+   -17:Nominated
+   -18:Won
+   -19:Nominated
+
+So in total, 12 mentions for Two and a Half Men. Out of these, two were wins (indices 9 and 18) and the rest are nominations.
+
+5. WWE Raw: index 20, which is a win.
+
+Now, let's sum up:
+
+- Young Guns: 1
+- Being John Malkovich:2
+- Spin City:3
+- Two and a Half Men:12
+- WWE Raw:1
+
+So clearly, Two and a Half Men has the most mentions with 12 entries in total (10 nominations and 2 wins). The next is Spin City with 3, then Being John Malkovich with 2.
+
+Therefore, the show that won or was nominated for the most awards is Two and a Half Men.
+</think>
+
+Final Answer: Two and a Half Men
+===================Answer===================
+Two and a Half Men

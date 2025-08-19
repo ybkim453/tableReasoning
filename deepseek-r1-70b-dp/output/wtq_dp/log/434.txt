@@ -1,0 +1,35 @@
+===================Title===================
+Nadia Fanchini
+===================Table===================
+|    |   Season |   Age | Overall                  | Slalom                   | Giant\nSlalom            | Super G                  | Downhill                 | Combined                 |
+|---:|---------:|------:|:-------------------------|:-------------------------|:-------------------------|:-------------------------|:-------------------------|:-------------------------|
+|  0 |     2004 |    17 | 112                      | –                        | –                        | 51                       | –                        | —                        |
+|  1 |     2005 |    18 | 37                       | –                        | 27                       | 18                       | 49                       | —                        |
+|  2 |     2006 |    19 | 22                       | –                        | 18                       | 37                       | 15                       | —                        |
+|  3 |     2007 |    20 | 33                       | –                        | 50                       | 15                       | 23                       | —                        |
+|  4 |     2008 |    21 | 38                       | –                        | –                        | 35                       | 13                       | —                        |
+|  5 |     2009 |    22 | 9                        | –                        | 40                       | 2                        | 5                        | 50                       |
+|  6 |     2010 |    23 | 28                       | –                        | –                        | 13                       | 23                       | —                        |
+|  7 |     2011 |    24 | Injured, did not compete | Injured, did not compete | Injured, did not compete | Injured, did not compete | Injured, did not compete | Injured, did not compete |
+|  8 |     2012 |    25 | 75                       | –                        | 28                       | –                        | –                        | —                        |
+|  9 |     2013 |    26 | 37                       | –                        | 17                       | 28                       | 30                       | —                        |
+===================Question===================
+what was the difference between her overall standing in 2004 and 2009?
+===================Text===================
+<think>
+Okay, so I need to figure out the difference between Nadia Fanchini's overall standings in 2004 and 2009 based on the table provided. Let me start by looking at the table columns: Season, Age, Overall, Slalom, Giant Slalom, Super G, Downhill, and Combined.
+
+First, I should locate the rows for 2004 and 2009. In the table, each row is indexed from 0 to 9, with Season numbers going from 2004 to 2013. So, the first row (index 0) corresponds to 2004, and row index 5 would be 2009 because 2004 + 5 = 2009.
+
+Looking at the 2004 row, under the 'Overall' column, it's 112. That means in her first season, she was ranked 112th overall. Now, moving to the 2009 row (index 5), the 'Overall' ranking is 9. So in 2009, she improved significantly and was ranked 9th overall.
+
+To find the difference between these two rankings, I subtract the earlier year's ranking from the later one. Wait, no, actually, since we're looking for how much her position changed, it's about how many places she moved up. So, 112 minus 9 would give the improvement. Let me check that math: 112 - 9 equals 103. So she improved by 103 positions.
+
+Wait a second, does this mean her ranking got better or worse? Oh right, in sports rankings, a lower number means a better position. So moving from 112 to 9 means she moved up 103 places. That's a huge jump!
+
+I should make sure I didn't mix up the years. Yes, 2004 is higher (worse) than 2009's 9th place. So the difference in overall standings is indeed 112 - 9 = 103.
+</think>
+
+Final Answer: 103
+===================Answer===================
+103

@@ -1,0 +1,48 @@
+===================Title===================
+List of storms on the Great Lakes
+===================Table===================
+|    | Ship             | Type of Vessel   | Lake          | Location                         | Lives lost   |
+|---:|:-----------------|:-----------------|:--------------|:---------------------------------|:-------------|
+|  0 | Argus            | Steamer          | Lake Huron    | 25 miles off Kincardine, Ontario | 25 lost      |
+|  1 | James Carruthers | Steamer          | Lake Huron    | near Kincardine                  | 18 lost      |
+|  2 | Hydrus           | Steamer          | Lake Huron    | near Lexington, Michigan         | 28 lost      |
+|  3 | Leafield         | Steamer          | Lake Superior | nan                              | all hands    |
+|  4 | John A. McGean   | Steamer          | Lake Huron    | near Goderich, Ontario           | 28 lost      |
+|  5 | Plymouth         | Barge            | Lake Michigan | nan                              | 7 lost       |
+|  6 | Charles S. Price | Steamer          | Lake Huron    | near Port Huron, Michigan        | 28 lost      |
+|  7 | Regina           | Steamer          | Lake Huron    | near Harbor Beach, Michigan      | nan          |
+|  8 | Issac M. Scott   | Steamer          | Lake Huron    | near Port Elgin, Ontario         | 28 lost      |
+|  9 | Henry B. Smith   | Steamer          | Lake Superior | nan                              | all hands    |
+| 10 | Wexford          | Steamer          | Lake Huron    | north of Grand Bend, Ontario     | all hands    |
+| 11 | Lightship No. 82 | Lightship        | Lake Erie     | Point Albino (near Buffalo)      | 6 lost       |
+===================Question===================
+how many steamer vessels are listed?
+===================Text===================
+<think>
+Okay, so I need to figure out how many steamer vessels are listed in this table about storms on the Great Lakes. Let me start by looking at each row and identifying which ones have "Steamer" in the Type of Vessel column.
+
+Looking at the first entry: Ship name Argus, type Steamer. That's one. Next is James Carruthers, also a Steamer, so that's two. Hydrus is another Steamer, making it three. Leafield is a Steamer too, four now. John A. McGean is five. Then the Plymouth, which is a Barge, so I'll skip that one. Next up is Charles S. Price, Steamer number six. Regina is also a Steamer, seven. Issac M. Scott is eight. Henry B. Smith is another Steamer, nine. Wexford is ten. The last entry, Lightship No. 82, is a Lightship, so it's not a steamer.
+
+Wait, let me double-check to make sure I didn't miss any or count incorrectly. Starting from the top:
+
+0: Argus - yes
+1: James Carruthers - yes
+2: Hydrus - yes
+3: Leafield - yes
+4: John A. McGean - yes
+5: Plymouth - no (Barge)
+6: Charles S. Price - yes
+7: Regina - yes
+8: Issac M. Scott - yes
+9: Henry B. Smith - yes
+10: Wexford - yes
+11: Lightship No. 82 - no
+
+So that's 10 Steamers in total. I think that's correct.
+</think>
+
+The table lists 10 steamer vessels.
+
+Final Answer: 10
+===================Answer===================
+10

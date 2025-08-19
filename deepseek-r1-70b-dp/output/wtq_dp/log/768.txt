@@ -1,0 +1,49 @@
+===================Title===================
+Toy safety
+===================Table===================
+|    |   Year | Injuries (US $000)   |   Deaths (age <15) | CPSC toy safety funding\n(US$ Millions)   |   Toy sales\n(US $ Billions) |
+|---:|-------:|:---------------------|-------------------:|:------------------------------------------|-----------------------------:|
+|  0 |   1994 | 154                  |                nan | nan                                       |                        nan   |
+|  1 |   1995 | 139                  |                nan | nan                                       |                        nan   |
+|  2 |   1996 | 130                  |                nan | nan                                       |                        nan   |
+|  3 |   1997 | 141                  |                nan | nan                                       |                        nan   |
+|  4 |   1998 | 153                  |                 14 | nan                                       |                        nan   |
+|  5 |   1999 | 152                  |                 16 | 13.6                                      |                        nan   |
+|  6 |   2000 | 191                  |                 17 | 12.0                                      |                        nan   |
+|  7 |   2001 | 255                  |                 25 | 12.4                                      |                        nan   |
+|  8 |   2002 | 212                  |                 13 | 12.2                                      |                         21.3 |
+|  9 |   2003 | 206                  |                 11 | 12.8                                      |                         20.7 |
+| 10 |   2004 | 210                  |                 16 | 11.5                                      |                         22.4 |
+| 11 |   2005 | 202 (estimate)       |                 20 | 11.0                                      |                         22.2 |
+| 12 |   2006 | no data              |                 22 | no data†                                  |                         22.3 |
+| 13 |   2007 | no data              |                 22 | no data                                   |                        nan   |
+| 14 |   2008 | no data              |                 19 | no data                                   |                        nan   |
+| 15 |   2009 | no data              |                 12 | no data                                   |                        nan   |
+===================Question===================
+what was the number of injuries reported in 2002?
+===================Text===================
+<think>
+Alright, so I'm trying to figure out the number of injuries reported in 2002 based on the provided table. Let me start by understanding how the table is structured.
+
+Looking at the columns, they include Year, Injuries (US $000), Deaths (age <15), CPSC toy safety funding, and Toy sales. Each row corresponds to a specific year from 1994 up to 2009.
+
+First, I need to locate the year 2002 in the table. Scanning through the 'Year' column, I see that each entry is listed sequentially: 1994, 1995, ..., up to 2009. The rows are numbered from 0 to 15, so row 8 should correspond to 2002 because 1994 is row 0, adding 8 years would bring us to 2002.
+
+Now, checking the 'Injuries (US $000)' column for row 8, which is the year 2002. The entry here is 212. This number is in thousands of US dollars. However, wait a second, I should clarify whether this represents the count of injuries or monetary value. But considering the context and the other entries, it's more likely that "Injuries (US $000)" refers to the number of injuries counted in thousands. So 212 would mean 212,000 injuries.
+
+But let me double-check if there's any ambiguity. The term "US $000" usually denotes a multiplier, so yes, it would be 212 multiplied by 1,000. However, sometimes in data tables, especially about safety incidents, the numbers are presented as raw counts without needing multipliers unless specified. I might need to confirm this, but given the context of injuries and deaths being countable events, it's plausible that "US $000" is just a unit placeholder, not a monetary value.
+
+Wait, no, that doesn't make sense because injuries aren't typically expressed in dollars; they're counts. So perhaps there was a formatting error or confusion in the table headers. Alternatively, maybe "Injuries (US $000)" refers to the cost associated with injuries in thousands of dollars, but that seems less likely since the question specifically asks for the number of injuries.
+
+Looking at other entries, like 1994 showing 154, which is presumably 154,000 injuries if following the same logic. But again, without more context, it's a bit unclear. However, given the phrasing of the question, the user is asking for the count, not monetary loss. Therefore, I think "212" refers to the number of injuries in thousands, making it 212,000.
+
+Wait another thought: Maybe the numbers are just raw counts without any multiplier. So if 2001 shows 255 injuries, does that mean 255 or 255,000? That's unclear. It depends on how the table is set up. If other years have numbers in similar ranges, like 130 to 300, it's possible these are actual counts, not thousands.
+
+Wait, looking at the data: For example, in 1994, injuries were 154. That seems low if it's 154,000 but reasonable as a raw count for injuries across the US in a year. Similarly, in later years like 2002 with 212 injuries, that seems plausible without needing to multiply by thousands.
+
+So I think I was mistaken earlier; "US $000" might just be a mistake or perhaps intended to denote something else, but given the context, it's more likely that these are raw numbers. Therefore, in 2002, the number of injuries reported would simply be 212.
+</think>
+
+Final Answer: 212
+===================Answer===================
+212

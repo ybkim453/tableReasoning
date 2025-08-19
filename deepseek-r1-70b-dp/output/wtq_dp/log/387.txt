@@ -1,0 +1,59 @@
+===================Title===================
+Ralph Jones
+===================Table===================
+|    | School   | Season   | Record   | Conference Record   | Place   | Postseason         |
+|---:|:---------|:---------|:---------|:--------------------|:--------|:-------------------|
+|  0 | Illinois | 1912–13  | 10–6     | 7–6                 | 5th     | nan                |
+|  1 | Illinois | 1913–14  | 9–4      | 7–3                 | 3rd     | nan                |
+|  2 | Illinois | 1914–15  | 16–0     | 12–0                | T1st    | National Champions |
+|  3 | Illinois | 1915–16  | 13–3     | 9–3                 | T2nd    | nan                |
+|  4 | Illinois | 1916–17  | 13–3     | 10–2                | T1st    | Big Ten Champions  |
+|  5 | Illinois | 1917–18  | 9–6      | 6–6                 | T4th    | nan                |
+|  6 | Illinois | 1918–19  | 6–8      | 5–7                 | 5th     | nan                |
+|  7 | Illinois | 1919–20  | 9–4      | 8–4                 | 3rd     | nan                |
+|  8 | Illinois | 1912–20  | 85–34    | 64–31               | –       | nan                |
+===================Question===================
+how many consecutive years did he tie for a place?
+===================Text===================
+<think>
+Okay, so I need to figure out how many consecutive years Ralph Jones tied for a place based on the given table. Let me start by looking at each season and checking if there was a tie in his placing.
+
+Looking at the table:
+
+- 1912–13: Place is 5th, no tie mentioned.
+- 1913–14: Place is 3rd, no tie.
+- 1914–15: T1st, so that's a tie for first place.
+- 1915–16: T2nd, another tie, this time for second.
+- 1916–17: T1st again, tied for first.
+- 1917–18: T4th, tied for fourth.
+- 1918–19: 5th, no tie.
+- 1919–20: 3rd, no tie.
+
+Wait a minute, so I need to check if any of these ties happened in consecutive years. Let's list out the seasons where there was a tie:
+
+1. 1914–15: T1st
+2. 1915–16: T2nd
+3. 1916–17: T1st
+4. 1917–18: T4th
+
+Now, checking for consecutive years with ties. Let's see the order:
+
+- Between 1914–15 and 1915–16: Yes, these are back-to-back seasons.
+- 1915–16 to 1916–17: Also consecutive.
+- 1916–17 to 1917–18: Consecutive as well.
+
+So from 1914–15 through 1917–18, there are four consecutive seasons where he tied for a place each year. That would mean that in four consecutive years, he had at least one tie each season.
+
+Wait, but actually, the way the question is phrased is "how many consecutive years did he tie for a place?" So it's asking how long was his streak of consecutive years with ties. Let me check:
+
+- 1914–15: T1st (year 1)
+- 1915–16: T2nd (year 2) → consecutive
+- 1916–17: T1st (year 3) → still consecutive
+- 1917–18: T4th (year 4) → four in a row
+
+So the streak is four years long. Therefore, he tied for a place in four consecutive seasons.
+</think>
+
+Final Answer: 4
+===================Answer===================
+4

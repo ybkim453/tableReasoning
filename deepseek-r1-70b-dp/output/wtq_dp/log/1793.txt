@@ -1,0 +1,62 @@
+===================Title===================
+Mountain peaks of Central America
+===================Table===================
+|    |   Rank | Mountain Peak                        | Nation      | Province                     | Elevation         | Prominence        | Isolation      |
+|---:|-------:|:-------------------------------------|:------------|:-----------------------------|:------------------|:------------------|:---------------|
+|  0 |      1 | Volcán Tajumulco PB                 | Guatemala   | San Marcos                   | 4220 m\n13,845 ft | 3980 m\n13,058 ft | 722 km\n448 mi |
+|  1 |      2 | Chirripó Grande PB                  | Costa Rica  | Cartago\nLimón\nSan José   | 3819 m\n12,530 ft | 3726 m\n12,224 ft | 864 km\n537 mi |
+|  2 |      3 | Montaña de Santa Bárbara PB        | Honduras    | Santa Bárbara               | 2744 m\n9,003 ft  | 2084 m\n6,837 ft  | 74 km\n46 mi   |
+|  3 |      4 | Cerro las Minas PB                   | Honduras    | Lempira                      | 2849 m\n9,347 ft  | 2069 m\n6,788 ft  | 130 km\n81 mi  |
+|  4 |      5 | Volcán de Agua PB                   | Guatemala   | Escuintla\nSacatepéquez     | 3761 m\n12,339 ft | 1981 m\n6,499 ft  | 16 km\n10 mi   |
+|  5 |      6 | Alto Cuchumatanes PB                 | Guatemala   | Huehuetenango                | 3837 m\n12,589 ft | 1877 m\n6,158 ft  | 65 km\n40 mi   |
+|  6 |      7 | Volcán Irazú PB                    | Costa Rica  | Cartago\nSan José           | 3402 m\n11,161 ft | 1872 m\n6,142 ft  | 48 km\n30 mi   |
+|  7 |      8 | Montañas Peña Blanca High Point PB | Guatemala   | Huehuetenango                | 3518 m\n11,542 ft | 1858 m\n6,096 ft  | 42 km\n26 mi   |
+|  8 |      9 | Volcán Acatenango PB                | Guatemala   | Chimaltenango\nSacatepéquez | 3975 m\n13,041 ft | 1835 m\n6,020 ft  | 126 km\n78 mi  |
+|  9 |     10 | Volcán San Miguel PB                | El Salvador | San Miguel                   | 2131 m\n6,991 ft  | 1831 m\n6,007 ft  | 64 km\n40 mi   |
+| 10 |     11 | Cerro Tacarcuna PB                   | Panama      | Darién                      | 1875 m\n6,152 ft  | 1770 m\n5,807 ft  | 99 km\n61 mi   |
+| 11 |     12 | Volcán Atitlán PB                  | Guatemala   | Sololá                      | 3537 m\n11,604 ft | 1754 m\n5,755 ft  | 35 km\n21 mi   |
+| 12 |     13 | Pico Bonito PB                       | Honduras    | Atlántida                   | 2450 m\n8,038 ft  | 1710 m\n5,610 ft  | 152 km\n95 mi  |
+| 13 |     14 | Montaña San Ildefonso PB            | Honduras    | Cortés                      | 2242 m\n7,356 ft  | 1702 m\n5,584 ft  | 68 km\n42 mi   |
+| 14 |     15 | Volcán San Cristóbal PB            | Nicaragua   | Chinandega                   | 1745 m\n5,725 ft  | 1665 m\n5,463 ft  | 134 km\n83 mi  |
+===================Question===================
+how many top 15 mountain in guatemala?
+===================Text===================
+<think>
+Okay, so I need to figure out how many of the top 15 mountain peaks in Central America are located in Guatemala based on the provided table. Let me start by looking at each row and checking which ones have "Guatemala" listed under the Nation column.
+
+Starting from Rank 1: Volcán Tajumulco PB is in Guatemala. That's one.
+
+Rank 2: Chirripó Grande PB is in Costa Rica, so not Guatemala.
+
+Rank 3: Montaña de Santa Bárbara PB is in Honduras, so no.
+
+Rank 4: Cerro las Minas PB is also in Honduras, so that's another no.
+
+Rank 5: Volcán de Agua PB is in Guatemala. That's the second one.
+
+Rank 6: Alto Cuchumatanes PB is again in Guatemala. Third now.
+
+Rank 7: Volcán Irazú PB is in Costa Rica, so skip.
+
+Rank 8: Montañas Peña Blanca High Point PB is in Guatemala. Fourth mountain.
+
+Rank 9: Volcán Acatenango PB is also in Guatemala. Fifth one here.
+
+Rank 10: Volcán San Miguel PB is in El Salvador, not Guatemala.
+
+Rank 11: Cerro Tacarcuna PB is in Panama, so nope.
+
+Rank 12: Volcán Atitlán PB is back to Guatemala. That makes six.
+
+Then Rank 13: Pico Bonito PB is in Honduras, so skip.
+
+Rank 14: Montaña San Ildefonso PB is also in Honduras, another no.
+
+Lastly, Rank 15: Volcán San Cristóbal PB is in Nicaragua, not Guatemala.
+
+So counting all the ones I noted down: ranks 1,5,6,8,9,12. That's a total of six mountain peaks in Guatemala within the top 15.
+</think>
+
+Final Answer: 6
+===================Answer===================
+6

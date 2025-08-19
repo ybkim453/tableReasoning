@@ -1,0 +1,40 @@
+===================Title===================
+Melissa Morrison-Howard
+===================Table===================
+|    |   Year | Competition                | Venue                       | Position   | Event         |
+|---:|-------:|:---------------------------|:----------------------------|:-----------|:--------------|
+|  0 |   1997 | World Indoor Championships | Paris, France               | 5th        | 60 m hurdles  |
+|  1 |   1997 | USA Outdoor Championships  | Indianapolis, United States | 1st        | 100 m hurdles |
+|  2 |   1998 | Grand Prix Final           | Moscow, Russia              | 2nd        | 100 m hurdles |
+|  3 |   1998 | USA Indoor Championships   | nan                         | 1st        | 60 m hurdles  |
+|  4 |   1999 | World Indoor Championships | Maebashi, Japan             | 6th        | 60 m hurdles  |
+|  5 |   2000 | Olympic Games              | Sydney, Australia           | 3rd        | 100 m hurdles |
+|  6 |   2000 | Grand Prix Final           | Doha, Qatar                 | 4th        | 100 m hurdles |
+|  7 |   2002 | Grand Prix Final           | Paris, France               | 7th        | 100 m hurdles |
+|  8 |   2002 | USA Indoor Championships   | nan                         | 1st        | 60 m hurdles  |
+|  9 |   2003 | World Indoor Championships | Birmingham, England         | 3rd        | 60 m hurdles  |
+| 10 |   2003 | World Athletics Final      | Monaco                      | 6th        | 100 m hurdles |
+| 11 |   2004 | Olympic Games              | Athens, Greece              | 3rd        | 100 m hurdles |
+===================Question===================
+where did the only 100 m hurdle take place in 1997?
+===================Text===================
+<think>
+Alright, so I need to figure out where the only 100 m hurdle took place in 1997 based on the given table about Melissa Morrison-Howard.
+
+First, I'll look through each row of the table and check which ones are from 1997. Scanning the Year column:
+
+Row 0: 1997 - Event is 60 m hurdles at World Indoor Championships in Paris.
+Row 1: 1997 - Event is 100 m hurdles at USA Outdoor Championships in Indianapolis.
+
+So there are two events in 1997, but only one of them is a 100 m hurdle. That's row 1. The venue for that event was Indianapolis, United States.
+
+Wait, the question says "the only 100 m hurdle take place", so it must be the USA Outdoor Championships in Indianapolis. So the answer should be Indianapolis, or maybe just the venue name without the country since it might be redundant?
+
+Looking back at the table, the Venue column for row 1 lists "Indianapolis, United States". But I think the question expects just the city and country if needed, but perhaps only the city is sufficient. However, to match the format from the answer example given (Paris, France; Indianapolis, United States), maybe it's better to include both.
+
+So the final answer should be Indianapolis, United States.
+</think>
+
+Final Answer: Indianapolis, United States
+===================Answer===================
+Indianapolis, United States

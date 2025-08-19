@@ -1,0 +1,87 @@
+===================Title===================
+JumpStart Adventures 3rd Grade: Mystery Mountain
+===================Table===================
+|    | Subject      | Robot's Name                  | Who?                    | When?                  | Where?                 | Occupation            |
+|---:|:-------------|:------------------------------|:------------------------|:-----------------------|:-----------------------|:----------------------|
+|  0 | Solar System | Cosmo-Bot                     | Copernicus              | 1531                   | Poland                 | Cosmonaut             |
+|  1 | Olympics     | Rhonda Robot                  | Greeks                  | 776 B.C.               | Greece                 | Beauty queen          |
+|  2 | Basketball   | Danny Defrost-Bot             | James Naismith          | 1891                   | United States          | Snowman               |
+|  3 | Nursing      | Dr. Bug-Bot                   | Florence Nightengale    | 1860                   | England                | Doctor                |
+|  4 | Scuba Gear   | Flip the High-Diving Robot    | Jacques Cousteau        | 1946                   | France                 | Diver                 |
+|  5 | Helicopter   | Amelia Air-Bot                | Leonardo da Vinci       | 1483                   | Italy                  | Pilot                 |
+|  6 | Corn Flakes  | Chef Boy-Robot                | William Kellogg         | 1894                   | Battle Creek, Michigan | Cook                  |
+|  7 | Radium       | Miss Battery-Bot              | Marie Curie             | 1898                   | France                 | Battery Lady          |
+|  8 | Chewing Gum  | Bubble-Bot                    | Mayans                  | 400                    | Mexico                 | Bubble Man            |
+|  9 | Painting     | Pierro-Bot                    | Stone-Age Humans        | 35,000 B.C.            | Europe                 | Clown/Artist          |
+| 10 | Phonograph   | Slide the Heavy-Metal Robot   | Thomas Edison           | 1877                   | New Jersey             | Rock Star             |
+| 11 | Paper        | Noshi Origami                 | Ts'ai Lun               | 105                    | China                  | Origami Maker         |
+| 12 | Round Earth  | Vasco da Robot                | Ferdinand Magellan      | 1522                   | Spain                  | Early Sailor          |
+| 13 | Dynamite     | Robby Robot                   | Alfred Nobel            | 1866                   | Sweden                 | Prankster             |
+| 14 | Microscope   | Slobot                        | Antonie van Leeuwenhoek | 1674                   | The Netherlands        | Dirty Person          |
+| 15 | Writing      | Eraser-Bot                    | Sumerians               | 3,500 B.C.             | Middle East            | Pencil Man            |
+| 16 | Sausage      | Sock-Bot                      | Babylonians             | 3,000 B.C.             | Middle East            | Sock Man              |
+| 17 | Bicycle      | Booster-Bot                   | Karl von Drais          | 1816                   | Germany                | Rocket Man            |
+| 18 | Wheel        | Rollin' Road-Bot              | Sumerians               | 3,000 B.C.             | Middle East            | Race Starter          |
+| 19 | Germs        | Roast-Bot                     | Louis Pasteur           | 1865                   | France                 | Firefighter           |
+| 20 | Boomerang    | Oswald the Mailman Robot      | Aborigines              | 40,000 years ago       | Australia              | Mailman               |
+| 21 | Coins        | Verna the Vend-Bot            | Lydians                 | 600 B.C.               | Turkey                 | Vending Machine       |
+| 22 | Tools        | Hank the Handyman Robot       | Stone-Age Humans        | 21⁄2 million years ago | Africa                 | Mechanic              |
+| 23 | Saxophone    | Bongo-Bot the Six-Armed Robot | Antoine-Joseph Sax      | 1846                   | France                 | Six-Armed Drum Player |
+| 24 | Toilet       | Brunwella the Bombshell       | Minoans                 | 2000 B.C.              | Crete                  | Demolisher            |
+===================Question===================
+what are the number of robots that are after located after the year 1800?
+===================Text===================
+<think>
+Alright, let's tackle this problem step by step. The question is asking for the number of robots in the table that are located after the year 1800. So, first, I need to understand exactly what each part of the question means.
+
+Looking at the table provided, it has several columns: Subject, Robot's Name, Who?, When?, Where?, and Occupation. Each row represents a different robot with corresponding details. The key here is to focus on the "When?" column because that's where the year is indicated.
+
+I need to go through each row and check if the year listed in the "When?" column is after 1800. If it is, then I count that robot towards my total.
+
+Starting from the top:
+
+- Row 0: Year is 1531. That's before 1800.
+- Row 1: 776 B.C. Definitely way before.
+- Row 2: 1891. This is after 1800, so count this one.
+- Row 3: 1860. After 1800, count it.
+- Row 4: 1946. Also after 1800, count.
+- Row 5: 1483. Before.
+- Row 6: 1894. After, count.
+- Row 7: 1898. After, count.
+- Row 8: 400 B.C. Way before.
+- Row 9: 35,000 B.C. No.
+- Row 10: 1877. Yes, after.
+- Row 11: 105 A.D., I think. So no.
+- Row 12: 1522. Before.
+- Row 13: 1866. After.
+- Row 14: 1674. Before.
+- Row 15: 3,500 B.C. No.
+- Row 16: 3,000 B.C. No.
+- Row 17: 1816. Yes.
+- Row 18: 3,000 B.C. No.
+- Row 19: 1865. After.
+- Row 20: 40,000 years ago. No.
+- Row 21: 600 B.C. No.
+- Row 22: 2.5 million years ago. No.
+- Row 23: 1846. Yes.
+- Row 24: 2000 B.C. No.
+
+Now, let's list out the robots that meet the criteria:
+
+- Danny Defrost-Bot (Row 2)
+- Dr. Bug-Bot (Row 3)
+- Flip the High-Diving Robot (Row 4)
+- Chef Boy-Robot (Row 6)
+- Miss Battery-Bot (Row 7)
+- Slide the Heavy-Metal Robot (Row 10)
+- Robby Robot (Row 13)
+- Booster-Bot (Row 17)
+- Roast-Bot (Row 19)
+- Bongo-Bot the Six-Armed Robot (Row 23)
+
+That's a total of 10 robots. So, the number of robots located after the year 1800 is 10.
+</think>
+
+Final Answer: 10
+===================Answer===================
+10

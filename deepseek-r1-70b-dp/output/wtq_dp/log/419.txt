@@ -1,0 +1,34 @@
+===================Title===================
+United States House of Representatives elections in Colorado, 2008
+===================Table===================
+|    |   District | Incumbent        | 2008 Status   | Democratic    | Republican       |
+|---:|-----------:|:-----------------|:--------------|:--------------|:-----------------|
+|  0 |          1 | Diana DeGette    | Re-election   | Diana DeGette | George Lilly     |
+|  1 |          2 | Mark Udall       | Open          | Jared Polis   | Scott Starin     |
+|  2 |          3 | John Salazar     | Re-election   | John Salazar  | Wayne Wolf       |
+|  3 |          4 | Marilyn Musgrave | Re-election   | Betsy Markey  | Marilyn Musgrave |
+|  4 |          5 | Doug Lamborn     | Re-election   | Hal Bidlack   | Doug Lamborn     |
+|  5 |          6 | Tom Tancredo     | Open          | Hank Eng      | Mike Coffman     |
+|  6 |          7 | Ed Perlmutter    | Re-election   | Ed Perlmutter | John W. Lerew    |
+===================Question===================
+the incumbent at the top of the data
+===================Text===================
+<think>
+Okay, I need to figure out who the incumbent at the top of the data is in this table about the 2008 Colorado House elections. Let's look at the table structure.
+
+The columns are: District, Incumbent, 2008 Status, Democratic candidate, Republican candidate.
+
+I see that each row represents a district from 0 to 6. So, looking at the first row (District 1), I check the 'Incumbent' column and it says Diana DeGette. Her status is 'Re-election', so she was running again in 2008.
+
+Wait, but sometimes when an incumbent's status is 'Open', that means they aren't seeking re-election, right? But here, District 1 shows Re-election, so Diana DeGette is the sitting member and running again.
+
+So the question is asking for the incumbent at the top of the data. The table starts with District 0 or maybe it's just ordered by district number. Wait, the first row has District labeled as 1, since in the header it says "District" and then the numbers go from 1 onwards? Or does the index start at 0?
+
+Wait, looking closely, the first column is numbered 0 to 6, but those are just row indices, not district numbers. The 'District' column starts at 1 for the first data row. So District 1's incumbent is Diana DeGette.
+
+So the top of the data refers to the first row, which is District 1's representative, Diana DeGette.
+</think>
+
+Final Answer: Diana DeGette
+===================Answer===================
+Diana DeGette

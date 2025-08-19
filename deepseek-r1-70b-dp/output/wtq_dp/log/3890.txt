@@ -1,0 +1,100 @@
+===================Title===================
+Narkhed
+===================Table===================
+|    |   Sr. No. |   Train No. | Name of the Train                  | Arrival   | Departure   | Day          |
+|---:|----------:|------------:|:-----------------------------------|:----------|:------------|:-------------|
+|  0 |         1 |       18238 | Chhatisgarh Express                | 01:23     | 01:25       | Daily        |
+|  1 |         2 |       12160 | Jabalpur-Amravati SF               | 04:51     | 04:53       | Daily        |
+|  2 |         3 |       51294 | Amla-Nagpur Pass                   | 06:39     | 06:40       | Daily        |
+|  3 |         4 |       12913 | Indore-Nag Tri. Exp                | 06:49     | 06:51       | M            |
+|  4 |         5 |       19301 | Indore-Yashwantpur Exp             | 07:20     | 07:25       | M            |
+|  5 |         6 |       12406 | Nizamuddin-Bhusaval Gondwana Exp   | 07:25     | 07:27       | M,St         |
+|  6 |         7 |       12410 | Nizamuddin-Raigarh Gondwana Exp    | 07:25     | 07:27       | S,M,Tu,W,T,F |
+|  7 |         8 |       51151 | New Amravati-Narkhed Pass          | 08:30     | N/a         | Daily        |
+|  8 |         9 |       22112 | Nagpur-Bhusaval SF                 | 08:37     | 08:39       | M,T,St       |
+|  9 |        10 |       11045 | Dikshsabhoomi Exp                  | 08:53     | 08:55       | St           |
+| 10 |        11 |       16359 | Ernakulam-Patna Exp                | 08:53     | 08:55       | M            |
+| 11 |        12 |       51829 | Nagpur-Agra Pass                   | 09:41     | 09:42       | Daily        |
+| 12 |        13 |       12861 | Visakapatnam-Nizamuddin            | 10:43     | 10:44       | Daily        |
+| 13 |        14 |       12721 | Dakshin Express                    | 10:43     | 10:44       | Daily        |
+| 14 |        15 |       12616 | Grand Trunk(GT) Exp                | 10:49     | 10:51       | Daily        |
+| 15 |        16 |       19714 | Sec-Jaipur Exp                     | 11:58     | 12:00       | Tu           |
+| 16 |        17 |       11203 | Nagpur-Jaipur Weekly Express       | 13:03     | 13:05       | T            |
+| 17 |        18 |       12615 | Grand Trunk(GT) Exp                | 13:30     | 13:32       | Daily        |
+| 18 |        19 |       12405 | Bhusaval-H.Nizamuddin Gondwana Exp | 14:08     | 14:10       | S,Tu,        |
+| 19 |        20 |       12409 | Raigarh-H.Nizamuddin- Gondwana Exp | 14:08     | 14:10       | M,W,T,F,St   |
+| 20 |        21 |       16360 | Patna-Ernakulam Exp                | 14:08     | 14:10       | W            |
+| 21 |        22 |       11046 | Dikshsabhoomi Exp                  | 14:09     | 14:10       | Tu           |
+| 22 |        23 |       22111 | Bhusaval_Nagpur SF                 | 14:36     | 14:38       | S,W,F        |
+| 23 |        24 |       19713 | Jaipur-Sec Exp                     | 15:48     | 15:50       | Tu           |
+| 24 |        25 |       12722 | Dakshin Express                    | 16:00     | 16:02       | Daily        |
+| 25 |        26 |       51183 | Bhusaval-Narkhed Pass              | 16:00     | N/a         | Daily        |
+| 26 |        27 |       11204 | Jaipur-Nagpur Exp                  | 17:24     | 17:25       | St           |
+| 27 |        28 |       19302 | Yashwantpur-Indore Exp             | 17:35     | 17:40       | W            |
+| 28 |        29 |       51830 | Agra-Nagpur Pass                   | 18:04     | 18:05       | Daily        |
+| 29 |        30 |       51293 | Nagpur-Amla Pass                   | 19:55     | 20:00       | Daily        |
+| 30 |        31 |       12914 | Nagpur-Indore Tri. Exp             | 20:08     | 20:10       | M            |
+| 31 |        32 |       12159 | Amravati-Jabalpur SF               | 22:30     | 22:32       | Daily        |
+| 32 |        33 |       18237 | Chhatisgarh Express                | 23:09     | 23:10       | Daily        |
+| 33 |        34 |       51152 | Narkhed-New Amravati Pass          | N/a       | 18:00       | Daily        |
+| 34 |        35 |       51184 | Bhusaval-Narkhed Pass              | N/a       | 09:00       | Daily        |
+===================Question===================
+how many trains depart after 20:00 daily?
+===================Text===================
+<think>
+Okay, so I need to figure out how many trains depart after 20:00 daily from Narkhed based on the given table. Let me start by understanding what's in the table.
+
+The table has several columns: Sr. No., Train No., Name of the Train, Arrival time, Departure time, and Day. The key here is to look for rows where the departure time is after 20:00 (which is 8 PM) and the day includes 'Daily', meaning they operate every day.
+
+I'll go through each row one by one. I'm particularly interested in the "Departure" column and the "Day" column. If the departure time is later than 20:00, and the train runs daily, then it counts towards our answer.
+
+Starting from the top:
+
+1. Sr.No.0: Train No.18238 departs at 01:25. That's way before 20:00.
+2. Sr.No.1: Train No.12160 departs at 04:53. Still early morning, so no.
+3. Sr.No.2: Train No.51294 departs at 06:40. Morning again, not relevant.
+4. Sr.No.3: Train No.12913 departs at 06:51, but only on Monday (M). Not daily and before 20:00.
+5. Sr.No.4: Train No.19301 departs at 07:25 on Monday. Still too early.
+6. Sr.No.5: Train No.12406 departs at 07:27 on Monday and Saturday. Too early.
+7. Sr.No.6: Train No.12410 departs at 07:27 from Sunday to Friday, except Saturday. Again, too early.
+8. Sr.No.7: Train No.51151 arrives at 08:30 but departure is N/a. Not relevant.
+9. Sr.No.8: Train No.22112 departs at 08:39 on Monday, Tuesday, and Saturday. Too early.
+10. Sr.No.9: Train No.11045 departs at 08:55 only on Saturday. Still too early.
+11. Sr.No.10: Train No.16359 departs at 08:55 on Monday. Early again.
+12. Sr.No.11: Train No.51829 departs at 09:42 daily, but that's morning.
+13. Sr.No.12: Both trains depart at 10:43 and 10:44 respectively, so still early.
+14. Sr.No.13: Another train departing at 10:49 daily, too early.
+15. Sr.No.14: Train departs at 17:24 on Saturday. That's 5:24 PM, which is before 20:00, but only on Saturday, not daily. Wait, wait—no, 17:24 is 5:24 PM, so that's after 16:00 but before 20:00. So it doesn't count because we need after 20:00.
+Wait, no, I think I might have miscalculated. Let me check the time again. 17:24 is 5:24 PM, which is earlier than 8 PM.
+
+Continuing:
+
+16. Sr.No.15: Train No.19302 departs at 17:35 only on Wednesday. That's still before 20:00.
+17. Sr.No.16: Train No.51830 departs at 18:04 daily. Wait, that's 6:04 PM, which is still before 8 PM.
+18. Sr.No.17: Train No.51293 departs at 19:55 daily. That's 7:55 PM, which is just before 8 PM but not after. So doesn't count.
+19. Sr.No.18: Train No.12914 departs at 20:08 on Monday. Now, 20:08 is after 20:00, so this one counts as daily? Wait no, it's only on Monday (M). So since the question asks for trains that depart daily, this doesn't qualify because it only runs on Monday.
+
+Wait, perhaps I missed some? Let me check further:
+
+20. Sr.No.19: Train No.12159 departs at 22:30 daily. That's 10:30 PM, which is way after 20:00 and operates every day. So this counts.
+21. Sr.No.20: Train No.18237 departs at 23:09 daily. That's 11:09 PM, definitely after 20:00 and operates daily.
+22. Sr.No.21: Train No.51152 departs at N/a arrival time but departure is 18:00. Wait, no—the arrival is N/a, and the departure is 18:00 (6 PM) which is before 20:00. So it doesn't count.
+23. Sr.No.22: Train No.51184 has an arrival of N/a and departs at 09:00 (9 AM), so definitely not.
+
+Wait a second—let me go back to the earlier ones I might have missed:
+
+Looking again, after checking all rows, only two trains depart after 20:00 daily:
+
+- Sr.No.19: Train No.12159 departing at 22:30.
+- Sr.No.20: Train No.18237 departing at 23:09.
+
+Wait, but earlier when I looked at Sr.No.17, the departure was at 19:55 (7:55 PM) which is before 8 PM, so doesn't count.
+
+Wait another thing—Sr.No.18 has a departure time of 20:08 on Mondays only, not daily, so it's excluded from the 'daily' criterion.
+
+So total number is two trains.
+</think>
+
+Final Answer: 2
+===================Answer===================
+3

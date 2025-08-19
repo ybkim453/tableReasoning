@@ -1,0 +1,47 @@
+===================Title===================
+Lic. Adolfo López Mateos International Airport
+===================Table===================
+|    |   Rank | City                           | Passengers   |   Ranking | Airline                                |
+|---:|-------:|:-------------------------------|:-------------|----------:|:---------------------------------------|
+|  0 |      1 | Quintana Roo, Cancún          | 132,046      |       nan | Aeroméxico Connect, Interjet, Volaris |
+|  1 |      2 | Nuevo León, Monterrey         | 106,513      |       nan | Aeroméxico Connect, Interjet          |
+|  2 |      3 | Guerrero, Acapulco             | 56,069       |       nan | Aeroméxico Connect, Interjet          |
+|  3 |      4 | Jalisco, Guadalajara           | 52,584       |       nan | Aeroméxico Connect, Volaris           |
+|  4 |      5 | Jalisco, Puerto Vallarta       | 43,419       |         1 | Interjet                               |
+|  5 |      6 | Baja California Sur, Los Cabos | 37,526       |         1 | Interjet                               |
+|  6 |      7 | Guerrero, Ixtapa/Zihuatanejo   | 35,507       |       nan | Interjet                               |
+|  7 |      8 | Baja California, Tijuana       | 14,906       |       nan | Interjet                               |
+|  8 |      9 | Tabasco, Villahermosa          | 6,928        |         1 | VivaAerobus                            |
+|  9 |     10 | Tamaulipas, Tampico            | 3,619        |         1 | VivaAerobus                            |
+===================Question===================
+what were the total number of routes that used interjet?
+===================Text===================
+<think>
+Alright, so I need to figure out how many routes used Interjet based on the given table. Let me start by looking at each row carefully.
+
+First, the table has several columns: Rank, City, Passengers, Ranking, and Airline. The key here is to focus on the "Airline" column because that's where it mentions which airlines operate in each city.
+
+Looking at each row:
+
+1. **Row 0**: The airline listed is Aeroméxico Connect, Interjet, Volaris. So Interjet is one of them.
+2. **Row 1**: Again, the airline includes Aeroméxico Connect and Interjet. So that's another route for Interjet.
+3. **Row 2**: Similar to Row 1, Interjet is listed alongside Aeroméxico Connect.
+4. **Row 3**: Here, it's Aeroméxico Connect and Volaris. No mention of Interjet here.
+5. **Row 4**: The airline is just Interjet. So that's another route using them.
+6. **Row 5**: Again, only Interjet is listed here as the airline.
+7. **Row 6**: It says Interjet once more.
+8. **Row 7**: This row also mentions Interjet.
+9. **Row 8 and 9**: The airlines are VivaAerobus in both cases, so no Interjet there.
+
+Wait, let me count how many times Interjet appears across the rows. Starting from Row 0 to Row 9:
+
+- Rows 0,1,2: Each includes Interjet among other airlines.
+- Rows 4,5,6,7: Only Interjet is listed in these rows.
+- Rows 8 and 9: No Interjet.
+
+So that's a total of 7 routes where Interjet operates. I should make sure I'm not double-counting any. Each row represents a different city route, so if Interjet is present in the airline list for that city, it counts as one route.
+</think>
+
+Final Answer: 7
+===================Answer===================
+7

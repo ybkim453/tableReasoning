@@ -1,0 +1,86 @@
+===================Title===================
+1981 NHL Entry Draft
+===================Table===================
+|    |   Pick # | Player          | Position   | Nationality   | NHL team              | College/junior/club team                    |
+|---:|---------:|:----------------|:-----------|:--------------|:----------------------|:--------------------------------------------|
+|  0 |      148 | Dan McFall      | Defence    | United States | Winnipeg Jets         | Buffalo Jr. Sabres (NAJHL)                  |
+|  1 |      149 | Rick Zombo      | Defence    | United States | Detroit Red Wings     | Austin Mavericks (USHL)                     |
+|  2 |      150 | Tony Arima      | Left Wing  | Finland       | Colorado Rockies      | Jokerit (Finland)                           |
+|  3 |      151 | Denis Dore      | Right Wing | Canada        | Hartford Whalers      | Chicoutimi Saguenéens (QMJHL)              |
+|  4 |      152 | Gaetan Duchesne | Left Wing  | Canada        | Washington Capitals   | Quebec Remparts (QMJHL)                     |
+|  5 |      153 | Richard Turmel  | Defence    | Canada        | Toronto Maple Leafs   | Shawinigan Cataractes (QMJHL)               |
+|  6 |      154 | Mitch Lamoureux | Centre     | Canada        | Pittsburgh Penguins   | Oshawa Generals (OMJHL)                     |
+|  7 |      155 | Mike Sturgeon   | Defence    | Canada        | Edmonton Oilers       | Kelowna Buckaroos (BCJHL)                   |
+|  8 |      156 | Ari Lahteenmaki | Right Wing | Finland       | New York Rangers      | HIFK (Finland)                              |
+|  9 |      157 | Petri Skriko    | Right Wing | Finland       | Vancouver Canucks     | Saipa (Finland)                             |
+| 10 |      158 | Andre Cote      | Right Wing | Canada        | Quebec Nordiques      | Quebec Remparts (QMJHL)                     |
+| 11 |      159 | Johan Mellstrom | Left Wing  | Sweden        | Chicago Black Hawks   | Falun (Sweden)                              |
+| 12 |      160 | Kari Kanervo    | Centre     | Finland       | Minnesota North Stars | TPS (Finland)                               |
+| 13 |      161 | Armel Parisee   | Defence    | Canada        | Boston Bruins         | Chicoutimi Saguenéens (QMJHL)              |
+| 14 |      162 | Dale DeGray     | Defence    | Canada        | Calgary Flames        | Oshawa Generals (OMJHL)                     |
+| 15 |      163 | Steve Taylor    | Left Wing  | United States | Philadelphia Flyers   | Providence College (ECAC)                   |
+| 16 |      164 | Gates Orlando   | Centre     | Canada        | Buffalo Sabres        | Providence College (ECAC)                   |
+| 17 |      165 | Dan Brennan     | Left Wing  | Canada        | Los Angeles Kings     | University of North Dakota (WCHA)           |
+| 18 |      166 | Paul Gess       | Left Wing  | United States | Montreal Canadiens    | Bloomington Jefferson High School (USHS-MN) |
+| 19 |      167 | Alain Vigneault | Defence    | Canada        | St. Louis Blues       | Trois-Rivières Draveurs (QMJHL)            |
+| 20 |      168 | Bill Dowd       | Defence    | Canada        | New York Islanders    | Ottawa 67's (OMJHL)                         |
+===================Question===================
+how many times is canada listed in the nationality column?
+===================Text===================
+<think>
+Alright, I need to figure out how many times Canada is listed in the Nationality column of the given table. Let's start by looking at each row and checking the Nationality.
+
+Looking through each entry:
+
+- Row 0: Nationality is United States.
+- Row 1: United States again.
+- Row 2: Finland.
+- Row 3: Canada – that's one.
+- Row 4: Canada – two now.
+- Row 5: Canada – three.
+- Row 6: Canada – four.
+- Row 7: Canada – five.
+- Row 8: Finland.
+- Row 9: Finland.
+- Row 10: Canada – six.
+- Row 11: Sweden.
+- Row 12: Finland.
+- Row 13: Canada – seven.
+- Row 14: Canada – eight.
+- Row 15: United States.
+- Row 16: Canada – nine.
+- Row 17: Canada – ten.
+- Row 18: United States.
+- Row 19: Canada – eleven.
+- Row 20: Canada – twelve.
+
+Wait, let me recount to make sure I didn't miss any. Starting from the top:
+
+1. Dan McFall - USA
+2. Rick Zombo - USA
+3. Tony Arima - Finland
+4. Denis Dore - Canada (1)
+5. Gaetan Duchesne - Canada (2)
+6. Richard Turmel - Canada (3)
+7. Mitch Lamoureux - Canada (4)
+8. Mike Sturgeon - Canada (5)
+9. Ari Lahteenmaki - Finland
+10. Petri Skriko - Finland
+11. Andre Cote - Canada (6)
+12. Johan Mellstrom - Sweden
+13. Kari Kanervo - Finland
+14. Armel Parisee - Canada (7)
+15. Dale DeGray - Canada (8)
+16. Steve Taylor - USA
+17. Gates Orlando - Canada (9)
+18. Dan Brennan - Canada (10)
+19. Paul Gess - USA
+20. Alain Vigneault - Canada (11)
+21. Bill Dowd - Canada (12)
+
+Wait, actually, the table has 21 entries from index 0 to 20, so that's correct. Each time I see Canada in Nationality, I count it. So total is 12 times.
+</think>
+
+Final Answer: 12
+===================Answer===================
+12

@@ -1,0 +1,72 @@
+===================Title===================
+1990 IndyCar season
+===================Table===================
+|    | Date   | Rnd          | Race Name                              | Circuit                           | City/Location               | Pole position      | Winning driver     | Winning team         | Report   |
+|---:|:-------|:-------------|:---------------------------------------|:----------------------------------|:----------------------------|:-------------------|:-------------------|:---------------------|:---------|
+|  0 | 1      | April 8      | Autoworks 200                          | Phoenix International Raceway     | Phoenix, Arizona            | Rick Mears         | Rick Mears         | Team Penske          | Report   |
+|  1 | 2      | April 22     | Toyota Long Beach Grand Prix           | Streets of Long Beach             | Long Beach, California      | Al Unser, Jr.      | Al Unser, Jr.      | Galles-Kraco Racing  | Report   |
+|  2 | 3      | May 27       | 74th Indianapolis 500                  | Indianapolis Motor Speedway       | Speedway, Indiana           | Emerson Fittipaldi | Arie Luyendyk      | Doug Shierson Racing | Report   |
+|  3 | 4      | June 3       | Miller Genuine Draft 200               | Milwaukee Mile                    | West Allis, Wisconsin       | Rick Mears         | Al Unser, Jr.      | Galles-Kraco Racing  | Report   |
+|  4 | 5      | June 17      | Valvoline Grand Prix of Detroit        | Streets of Detroit                | Detroit, Michigan           | Michael Andretti   | Michael Andretti   | Newman/Haas Racing   | Report   |
+|  5 | 6      | June 24      | Budweiser/G.I.Joe's 200                | Portland International Raceway    | Portland, Oregon            | Danny Sullivan     | Michael Andretti   | Newman/Haas Racing   | Report   |
+|  6 | 7      | July 8       | Budweiser Grand Prix of Cleveland      | Cleveland Burke Lakefront Airport | Cleveland, Ohio             | Rick Mears         | Danny Sullivan     | Team Penske          | Report   |
+|  7 | 8      | July 15      | Marlboro Grand Prix at the Meadowlands | Meadowlands Sports Complex        | East Rutherford, New Jersey | Michael Andretti   | Michael Andretti   | Newman/Haas Racing   | Report   |
+|  8 | 9      | July 22      | Molson Indy Toronto                    | Exhibition Place                  | Toronto, Ontario            | Danny Sullivan     | Al Unser, Jr.      | Galles-Kraco Racing  | Report   |
+|  9 | 10     | August 5     | Marlboro 500                           | Michigan International Speedway   | Brooklyn, Michigan          | Emerson Fittipaldi | Al Unser, Jr.      | Galles-Kraco Racing  | Report   |
+| 10 | 11     | August 26    | Texaco/Havoline Grand Prix of Denver   | Streets of Denver                 | Denver, Colorado            | Teo Fabi           | Al Unser, Jr.      | Galles-Kraco Racing  | Report   |
+| 11 | 12     | September 2  | Molson Indy Vancouver                  | Streets of Vancouver              | Vancouver, British Columbia | Michael Andretti   | Al Unser, Jr.      | Galles-Kraco Racing  | Report   |
+| 12 | 13     | September 16 | Red Roof Inns 200                      | Mid-Ohio Sports Car Course        | Lexington, Ohio             | Michael Andretti   | Michael Andretti   | Newman/Haas Racing   | Report   |
+| 13 | 14     | September 23 | Texaco/Havoline 200                    | Road America                      | Elkhart Lake, Wisconsin     | Danny Sullivan     | Michael Andretti   | Newman/Haas Racing   | Report   |
+| 14 | NC     | October 6    | Marlboro Challenge                     | Nazareth Speedway                 | Nazareth, Pennsylvania      | Michael Andretti   | Rick Mears         | Team Penske          | Report   |
+| 15 | 15     | October 7    | Bosch Spark Plug Grand Prix            | Nazareth Speedway                 | Nazareth, Pennsylvania      | Bobby Rahal        | Emerson Fittipaldi | Team Penske          | Report   |
+| 16 | 16     | October 21   | Champion Spark Plug 300K               | Laguna Seca Raceway               | Monterey, California        | Danny Sullivan     | Danny Sullivan     | Team Penske          | Report   |
+===================Question===================
+which team(s)did not win more than once?
+===================Text===================
+<think>
+Okay, so I need to figure out which teams didn't win more than once in the 1990 IndyCar season based on this table. Let me start by looking at each race and noting down the winning team.
+
+First, I'll go through each row of the table:
+
+1. Race 0: Winning team is Team Penske.
+2. Race 1: Galles-Kraco Racing wins.
+3. Race 2: Doug Shierson Racing gets the win.
+4. Race 3: Again, Galles-Kraco Racing wins.
+5. Race 4: Newman/Haas Racing takes this one.
+6. Race 5: Another win for Newman/Haas Racing.
+7. Race 6: Team Penske wins here as well.
+8. Race 7: Newman/Haas Racing gets another victory.
+9. Race 8: Galles-Kraco Racing wins once more.
+10. Race 9: They take the Marlboro 500 too, so that's Galles-Kraco again.
+11. Race 10: Yet another win for Galles-Kraco Racing.
+12. Race 11: Again, Galles-Kraco Racing on top.
+13. Race 12: Newman/Haas Racing wins this race.
+14. Race 13: Another win for Newman/Haas Racing.
+15. Race 14: This is a non-championship (NC) race, but Team Penske still takes the win here.
+16. Race 15: Team Penske wins again.
+17. Race 16: Finally, Team Penske gets another victory.
+
+Now, let me list out all the winning teams and count their number of wins:
+
+- Team Penske: Races 0, 6, 14, 15, 16 → That's 5 wins.
+- Galles-Kraco Racing: Races 1,3,8,9,10,11 → 6 wins.
+- Doug Shierson Racing: Race 2 only → 1 win.
+- Newman/Haas Racing: Races 4,5,7,12,13 → 5 wins.
+
+So the teams that won are:
+
+- Team Penske
+- Galles-Kraco Racing
+- Doug Shierson Racing
+- Newman/Haas Racing
+
+Now, the question is which team didn't win more than once. Looking at the counts:
+
+Doug Shierson Racing only has 1 win, while the others have multiple wins each.
+
+So the answer should be Doug Shierson Racing.
+</think>
+
+Final Answer: Doug Shierson Racing
+===================Answer===================
+Doug Shierson Racing

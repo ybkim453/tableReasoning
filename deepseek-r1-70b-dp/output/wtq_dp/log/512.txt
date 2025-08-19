@@ -1,0 +1,102 @@
+===================Title===================
+AC Transit
+===================Table===================
+|    |   Year | Manufacturer   | Model               | Length (feet)    |   Quantity | Fleet Series          | Fuel Propulsion        | Powertrain                                |
+|---:|-------:|:---------------|:--------------------|:-----------------|-----------:|:----------------------|:-----------------------|:------------------------------------------|
+|  0 |   1996 | New Flyer      | D60                 | 60 (articulated) |         30 | 1901-1930*            | Diesel                 | Detroit Diesel Series 50\nAllison B400R   |
+|  1 |   1998 | NABI           | 416                 | 40               |        133 | 3001-3067, 3101-3166* | Diesel                 | Cummins M11E\nAllison B400R               |
+|  2 |   1999 | NABI           | 40-LFW              | 40               |         44 | 4001-4044             | Diesel                 | nan                                       |
+|  3 |   2000 | NABI           | 40-LFW              | 40               |         23 | 7201-7223             | Diesel                 | Cummins ISM\nAllison B400R                |
+|  4 |   2000 | MCI            | D4500               | 45               |         30 | 6001-6030             | Diesel                 | nan                                       |
+|  5 |   2001 | MCI            | D4500               | 45               |         10 | 6031-6040             | Diesel                 | nan                                       |
+|  6 |   2003 | MCI            | D4500               | 45               |         39 | 6041-6079             | Diesel                 | nan                                       |
+|  7 |   2003 | NABI           | 40-LFW              | 40               |         46 | 4051-4090             | Diesel                 | Cummins ISL\nAllison B400R                |
+|  8 |   2003 | Van Hool       | A330                | 40               |        110 | 1001-1110             | Diesel                 | Cummins ISM\nVoith D864.3E                |
+|  9 |   2003 | Van Hool       | AG300               | 60               |         57 | 2001-2057             | Diesel                 | Cummins ISM\nVoith D864.3E                |
+| 10 |   2005 | Van Hool       | A300FC              | 40               |          3 | FC1-FC3               | Hydrogen               | nan                                       |
+| 11 |   2006 | Van Hool       | A300K               | 30               |         50 | 5001-5050             | Diesel                 | Cummins ISB\nVoith D864.3E                |
+| 12 |   2007 | Van Hool       | AG300               | 60               |         10 | 2101-2110             | Diesel                 | Cummins ISL\nVoith D864.3E                |
+| 13 |   2007 | Van Hool       | AG300               | 60               |         15 | 2151-2165             | Diesel                 | Cummins ISM\nVoith D864.3E                |
+| 14 |   2008 | Van Hool       | A300L               | 40               |         27 | 1201-1227             | Diesel                 | Cummins ISL\nVoith D864.5                 |
+| 15 |   2008 | Van Hool       | A300K               | 30               |          1 | 5099                  | Diesel-electric hybrid | nan                                       |
+| 16 |   2008 | Van Hool       | A300K               | 30               |         39 | 5101-5139             | Diesel                 | Cummins ISB\nVoith D854.5                 |
+| 17 |   2010 | Van Hool       | AG300               | 60               |          9 | 2191-2199             | Diesel                 | Cummins ISL\nVoith D864.5                 |
+| 18 |   2010 | Van Hool       | A300L FC            | 40               |         12 | FC4-FC16              | Hydrogen               | nan                                       |
+| 19 |   2013 | Gillig         | Low-floor Advantage | 40               |         65 | 1301-1365             | Diesel                 | Cummins ISL 280 HP \nAllison B400 6-speed |
+| 20 |   2013 | New Flyer      | Xcelsior D60        | 60               |         23 | 2201-2223             | Diesel                 | Cummins ISL 330 HP\nAllison B400 6-speed  |
+| 21 |   2013 | Gillig         | Low-floor Advantage | 40               |         55 | 6101-6155             | Diesel                 | Cummins ISL 280 HP\nAllison B400 6-speed  |
+===================Question===================
+which manufacturer(s) is/are listed the least on this chart?
+===================Text===================
+<think>
+Okay, so I need to figure out which manufacturer(s) are listed the least on this AC Transit table. Let me start by looking at all the manufacturers mentioned and count how many times each appears.
+
+Looking at the table, there's a column labeled "Manufacturer" with several entries: New Flyer, NABI, MCI, Van Hool, Gillig. I'll go through each row one by one to tally them up.
+
+Starting from the top:
+- Row 0: Manufacturer is New Flyer.
+- Row 1: NABI
+- Row 2: NABI again.
+- Row 3: Another NABI.
+- Row 4: MCI
+- Row 5: MCI again.
+- Row 6: MCI once more.
+- Row 7: NABI appears here too.
+- Row 8: Van Hool
+- Row 9: Another Van Hool.
+- Rows 10 to 19 are all Van Hool except where I note otherwise. Wait, let me check each:
+
+Rows 10-13: All Van Hool entries.
+
+Row 14: Van Hool
+
+Row 15: Van Hool again.
+
+Row 16: Van Hool
+
+Row 17: Van Hool
+
+Row 18: Van Hool
+
+Row 19: Now it's Gillig.
+
+Row 20: New Flyer again.
+
+Row 21: Gillig once more.
+
+Now, let's count each manufacturer:
+
+- New Flyer appears in rows 0 and 20. That's a total of 2 entries.
+- NABI is in rows 1,2,3,7. So that's 4 times.
+- MCI is in rows 4,5,6. Three entries.
+- Van Hool starts from row 8 to 18, which is multiple rows. Let me count: rows 8,9,10,11,12,13,14,15,16,17,18. That's 11 rows.
+- Gillig appears in rows 19 and 21—so that's 2 entries.
+
+Wait, no. Wait, row 19 is the first Gillig, then row 21 is another. So that's two entries for Gillig. But looking back, let me recount:
+
+Van Hool starts at row 8 (2003), rows 8-18 are all Van Hool. Let's see: each row from 8 to 18 is one entry per year. From row 8 (year 2003) up to row 18 (2010). So that's 11 entries for Van Hool.
+
+Now, the counts:
+
+New Flyer: 2
+NABI: 4
+MCI: 3
+Van Hool: 11
+Gillig: 2
+
+So the manufacturers with the least number of listings are New Flyer and Gillig, each appearing twice. However, looking back again to make sure I didn't miscount any.
+
+Wait, MCI is at rows 4,5,6—so that's three entries for MCI.
+
+Van Hool has 11, which is the most by far. So the least are New Flyer and Gillig with two each.
+
+But wait, looking back again: row 20 is New Flyer (2013) and row 0 is also New Flyer (1996), so that's correct—two entries for New Flyer.
+
+Gillig is at rows 19 and 21, both in 2013, so two entries as well. So yes, both have the least count.
+</think>
+
+The manufacturers listed the least are New Flyer and Gillig, each appearing twice on the table.
+
+Final Answer: New Flyer, Gillig
+===================Answer===================
+New Flyer,Gillig

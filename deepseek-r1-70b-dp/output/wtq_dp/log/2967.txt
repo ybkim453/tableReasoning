@@ -1,0 +1,47 @@
+===================Title===================
+David Cleevely
+===================Table===================
+|    | Title                                                                                  |   Year | Authors                                          | Publisher                               | Pages   |
+|---:|:---------------------------------------------------------------------------------------|-------:|:-------------------------------------------------|:----------------------------------------|:--------|
+|  0 | Rural Telecoms Handbook: Equipment and Manufacturers                                   |   1992 | Tim Hills, David Cleevely                        | Analysys Publications                   | -       |
+|  1 | Regional Structure and Telecommunications Demand: A Case Study of Kenya (Ph.D. thesis) |   1982 | D. D. Cleevely                                   | University of Cambridge                 | -       |
+|  2 | The Route to Advanced Communications                                                   |   1991 | David Cleevely, Stefan Stanislawski, Ade Ajibulu | Analysys Publications                   | 178     |
+|  3 | Global Turf Wars: Re-Inventing the Telecoms Operator for the Age of Global Competition |   1999 | Tim Hills, David Cleevely, Andrea Smith          | Analysis Publications                   | 218     |
+|  4 | ATM Vendor & Operator Strategies                                                       |   1993 | David Cleevely, Peter Aknai, Ian Leslie          | Analysis Publications                   | 180     |
+|  5 | The Far Reaching Effects of Broadband                                                  |   2002 | David Cleevely                                   | Institution of Engineering & Technology | 415     |
+|  6 | Regulating the Telecoms Market: Competition and Innovation in the Broadband Economy    |   2003 | Tim Hills, David Cleevely, Ross Pow              | Analysis Publications                   | 35      |
+===================Question===================
+how many pages were published after 1993?
+===================Text===================
+<think>
+Alright, so I need to figure out how many pages were published after 1993 based on the table provided about David Cleevely's works. Let me go through this step by step.
+
+First, I'll look at each row in the table and note down the year, number of pages, and whether it was published after 1993. The question is asking for the total number of pages from books published after 1993, not about the count of books themselves.
+
+Looking at the table:
+
+- Row 0: Year 1992, Pages -. So this is before 1993 and doesn't contribute to our count.
+- Row 1: Year 1982, so definitely before. Also, pages are -, so no contribution.
+- Row 2: Year 1991, again before '93. Pages 178, but since it's before, we can ignore this.
+- Row 3: Year 1999. That's after 1993. The number of pages here is 218.
+- Row 4: Year 1993. Hmm, the question says "after 1993." So does 1993 count as after or not? Well, if it's strictly after, then 1993 wouldn't be included. But sometimes people consider the year itself as part of 'after' in some contexts. Wait, in programming terms, 'after 1993' usually means years greater than 1993. So 1993 would not count. Let me check that assumption.
+
+Wait, actually, I think the user is looking for publications after 1993, meaning any year after, so 1994 onwards. Therefore, 1993 wouldn't be included. So Row 4 has 180 pages but from 1993, which we're excluding.
+
+Row 5: Year 2002. That's definitely after 1993. Pages are 415.
+- Row 6: Year 2003. Also after '93. Pages are 35.
+
+So the relevant rows are Rows 3, 5, and 6.
+
+Now adding up their pages:
+
+218 (Row3) + 415 (Row5) = 633; then plus 35 (Row6) gives a total of 668 pages.
+
+Wait, let me double-check. Row3 is 1999 with 218 pages, correct. Row5:2002, 415. Row6:2003,35. So 218+415=633, +35 makes 668.
+
+So the answer should be 668.
+</think>
+
+Final Answer: 668
+===================Answer===================
+450

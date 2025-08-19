@@ -1,0 +1,52 @@
+===================Title===================
+Boldklubben Frem
+===================Table===================
+|    | Name                    | Nationality   | From            | To               | Honours                           | Comments                                  |
+|---:|:------------------------|:--------------|:----------------|:-----------------|:----------------------------------|:------------------------------------------|
+|  0 | Henrik Jensen           | Denmark       | 1 July 2012     | Present          | nan                               | nan                                       |
+|  1 | John 'Tune' Kristiansen | Denmark       | 18 June 2012    | 23 June 2012     | nan                               | Caretaker for one league match            |
+|  2 | Peer F. Hansen          | Denmark       | 1 January 2012  | 18 June 2012     | won promotion to the third tier   | nan                                       |
+|  3 | John 'Tune' Kristiansen | Denmark       | 27 July 2010    | 30 December 2011 | won promotion to the fourth tier  | Originally had contract until summer 2012 |
+|  4 | René Heitmann          | Denmark       | 17 July 2010    | 27 July 2010     | nan                               | Never coached the team in a match         |
+|  5 | Christian Andersen      | Denmark       | 11 July 2009    | 19 June 2010     | Team was relegated to third tier  | Club went bankrupt after the season       |
+|  6 | Anders Theil            | Denmark       | 7 November 2005 | 7 July 2009      | nan                               | Originally had contract until summer 2011 |
+|  7 | Ebbe Skovdahl           | Denmark       | 11 October 2003 | 6 November 2005  | Team was relegated to second tier | Originally had contract until summer 2007 |
+|  8 | Ole Mørk                | Denmark       | 15 October 2001 | 10 October 2003  | Won promotion to first tier       | Originally had contract until end of 2004 |
+|  9 | Johnny Petersen         | Denmark       | 5 May 1998      | 14 October 2001  | nan                               | Originally had contract until end of 2001 |
+| 10 | John 'Tune' Kristiansen | Denmark       | 1996            | 4 May 1998       | Won promotion to second tier      | nan                                       |
+===================Question===================
+what is the number of coaches who did not end on the date stated by their contract?
+===================Text===================
+<think>
+Alright, let me try to figure out how many coaches from Boldklubben Frem didn't finish their contracts on the dates originally stated. I'm going to go through each coach in the table and check if they ended their tenure before or after the contract was supposed to end.
+
+Starting with Henrik Jensen (row 0). The "To" date is listed as Present, so he's still coaching there. His contract doesn't have an end date yet, so I guess this one doesn't count since it's ongoing.
+
+Next up is John 'Tune' Kristiansen in row 1. He was a caretaker from June 18 to June 23, 2012. The "Comments" say he was caretaker for just one league match, but the contract was until summer 2012. It looks like his actual tenure ended before the contract's stated end because it mentions he only coached one match and then left.
+
+Moving on to Peer F. Hansen (row 2). His contract went from January 1, 2012, to June 18, 2012. The "Comments" don't mention anything about the contract being extended or shortened, so I think he served his full term as per the original contract date.
+
+Row 3 is another instance of John 'Tune' Kristiansen, this time from July 27, 2010, to December 30, 2011. His original contract was until summer 2012, but he ended on December 30, 2011. So he left before the contract was supposed to end.
+
+René Heitmann in row 4 coached from July 17, 2010, to July 27, 2010. The "Comments" say he never coached a match, so it seems like his tenure ended earlier than the contract's stated date, which I assume was longer than those 10 days.
+
+Christian Andersen (row 5) had his contract from July 11, 2009, to June 19, 2010. The team got relegated, and the club went bankrupt after that season. It doesn't explicitly say if he left before or after his contract date, but since it ended in June 2010, I think that's when his contract was meant to end, so no extension or early termination here.
+
+Anders Theil (row 6) started on November 7, 2005, and ended on July 7, 2009. His original contract was until summer 2011, but he left in 2009, which is before the stated end date.
+
+Ebbe Skovdahl (row 7) coached from October 11, 2003, to November 6, 2005. His contract was supposed to last until summer 2007, so he ended his tenure two years early.
+
+Ole Mørk in row 8 had a contract until the end of 2004 but left on October 10, 2003, which is before that date.
+
+Johnny Petersen (row 9) started on May 5, 1998, and his contract was until the end of 2001. However, he left on October 14, 2001, which is earlier than the stated end date.
+
+Lastly, John 'Tune' Kristiansen again in row 10 coached from 1996 to May 4, 1998. There's no mention of his contract being extended or shortened, so I assume he served until his contract ended as planned.
+
+Now, counting all the coaches who didn't finish their contracts on time: René Heitmann left early, Anders Theil did too, Ebbe Skovdahl as well, Ole Mørk, Johnny Petersen, and both instances of John 'Tune' Kristiansen in rows 1 and 3. That makes a total of six coaches.
+</think>
+
+The number of coaches who did not end their contracts on the stated dates is 6.
+
+Final Answer: 6
+===================Answer===================
+5

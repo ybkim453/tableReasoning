@@ -1,0 +1,86 @@
+===================Title===================
+Anne Hobbs
+===================Table===================
+|    | Result    | Date             | Category   | Tournament                   | Surface   | Partnering      | Opponents                                | Score                |
+|---:|:----------|:-----------------|:-----------|:-----------------------------|:----------|:----------------|:-----------------------------------------|:---------------------|
+|  0 | Runner-up | 10 December 1978 | $75,000    | Sydney, Australia            | Grass     | Judy Chaloner   | Kerry Reid\n Wendy Turnbull              | 2–6, 6–4, 2–6        |
+|  1 | Runner-up | 8 November 1981  | $50,000    | Hong Kong                    | Clay      | Susan Leo       | Ann Kiyomura\n Sharon Walsh              | 3–6, 4–6             |
+|  2 | Winner    | 13 June 1982     | $100,000   | Birmingham, Great Britain    | Grass     | Jo Durie        | Rosie Casals\n Wendy Turnbull            | 6–3, 6–2             |
+|  3 | Winner    | 23 May 1983      | $150,000   | Berlin, Germany              | Carpet    | Jo Durie        | Claudia Kohde-Kilsch\n Eva Pfaff         | 6–4, 7–6(7–2)        |
+|  4 | Runner-up | 19 June 1983     | $150,000   | Eastbourne, Great Britain    | Grass     | Jo Durie        | Martina Navrátilová\n Pam Shriver      | 1–6, 0–6             |
+|  5 | Winner    | 21 August 1983   | $200,000   | Toronto, Canada              | Hard      | Andrea Jaeger   | Rosalyn Fairbank\n Candy Reynolds        | 6–4, 5–7, 7–5        |
+|  6 | Winner    | 20 November 1983 | $150,000   | Brisbane, Australia          | Grass     | Wendy Turnbull  | Pam Shriver\n Sharon Walsh               | 6–3, 6–4             |
+|  7 | Winner    | 27 November 1983 | $150,000   | Sydney, Australia            | Grass     | Wendy Turnbull  | Hana Mandlíková\n Helena Suková       | 6–4, 6–3             |
+|  8 | Runner-up | 12 December 1983 | Grand Slam | Australian Open, Australia   | Grass     | Wendy Turnbull  | Martina Navrátilová\n Pam Shriver      | 4–6, 7–6, 2–6        |
+|  9 | Winner    | 23 January 1984  | $50,000    | Denver, United States        | Hard      | Marcella Mesker | Sherry Acker\n Candy Reynolds            | 6–2, 6–3             |
+| 10 | Runner-up | 29 January 1984  | $100,000   | Marco Island, United States  | Clay      | Andrea Jaeger   | Hana Mandlíková\n Helena Suková       | 6–3, 2–6, 2–6        |
+| 11 | Runner-up | 16 April 1984    | $200,000   | Hilton Head, United States   | Clay      | Sharon Walsh    | Claudia Kohde-Kilsch\n Hana Mandlíková | 5–7, 2–6             |
+| 12 | Runner-up | 22 April 1984    | $250,000   | Amelia Island, United States | Clay      | Mima Jaušovec  | Kathy Jordan\n Anne Smith                | 4–6, 6–3, 4–6        |
+| 13 | Runner-up | 23 April 1984    | $200,000   | Orlando, United States       | Clay      | Wendy Turnbull  | Claudia Kohde-Kilsch\n Hana Mandlíková | 0–6, 6–1, 3–6        |
+| 14 | Winner    | 20 May 1984      | $150,000   | Berlin, Germany              | Clay      | Candy Reynolds  | Kathy Horvath\n Virginia Ruzici          | 6–3, 4–6, 7–6(13–11) |
+| 15 | Runner-up | 9 September 1984 | Grand Slam | US Open, United States       | Hard      | Wendy Turnbull  | Martina Navrátilová\n Pam Shriver      | 2–6, 4–6             |
+| 16 | Runner-up | 20 May 1985      | $75,000    | Melbourne, Australia         | Carpet    | Kathy Jordan    | Pam Shriver\n Liz Smylie                 | 2–6, 7–5, 1–6        |
+| 17 | Winner    | 15 December 1985 | $50,000    | Auckland, New Zealand        | Grass     | Candy Reynolds  | Lea Antonoplis\n Adriana Villagrán      | 6–1, 6–3             |
+| 18 | Runner-up | 19 July 1987     | $150,000   | Newport, United States       | Grass     | Kathy Jordan    | Gigi Fernández\n Lori McNeil            | 6–7(5–7), 5–7        |
+| 19 | Runner-up | 30 August 1987   | $150,000   | Mahwah, United States        | Hard      | Liz Smylie      | Gigi Fernández\n Lori McNeil            | 3–6, 2–6             |
+===================Question===================
+which country hosted the most tournaments?
+===================Text===================
+<think>
+Alright, so I need to figure out which country hosted the most tournaments based on Anne Hobbs's table. Let me go through each row and list the tournament locations.
+
+Looking at the "Tournament" column:
+
+1. Sydney, Australia
+2. Hong Kong (Assuming it's the country)
+3. Birmingham, Great Britain
+4. Berlin, Germany
+5. Eastbourne, Great Britain
+6. Toronto, Canada
+7. Brisbane, Australia
+8. Australian Open, Australia
+9. Denver, United States
+10. Marco Island, United States
+11. Hilton Head, United States
+12. Amelia Island, United States
+13. Orlando, United States
+14. Berlin, Germany again
+15. US Open, United States
+16. Melbourne, Australia
+17. Auckland, New Zealand
+18. Newport, United States
+19. Mahwah, United States
+
+Now, let's count the countries:
+
+- Australia: Entries 1,7,8,16 → 4 times
+- Great Britain: Entries 3,5 → 2 times
+- Germany: Entries 4,14 → 2 times
+- Canada: Entry 6 → once
+- Hong Kong: Entry 2 → once (assuming it's a separate country here)
+- New Zealand: Entry17 → once
+- United States: Entries9,10,11,12,13,15,18,19 → that's 8 tournaments
+
+Wait, let me recount the US entries:
+
+Entry9: Denver, US
+Entry10: Marco Island, US
+Entry11: Hilton Head, US
+Entry12: Amelia Island, US
+Entry13: Orlando, US
+Entry15: US Open
+Entry18: Newport, US
+Entry19: Mahwah, US
+
+That's 8 tournaments in the US.
+
+So comparing all countries:
+
+US has 8, Australia has 4, Great Britain and Germany have 2 each, others less. So the country with the most is United States.
+</think>
+
+The country that hosted the most tournaments was the United States.
+
+Final Answer: United States
+===================Answer===================
+United States

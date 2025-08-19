@@ -1,0 +1,63 @@
+===================Title===================
+Toy safety
+===================Table===================
+|    |   Year | Injuries (US $000)   |   Deaths (age <15) | CPSC toy safety funding\n(US$ Millions)   |   Toy sales\n(US $ Billions) |
+|---:|-------:|:---------------------|-------------------:|:------------------------------------------|-----------------------------:|
+|  0 |   1994 | 154                  |                nan | nan                                       |                        nan   |
+|  1 |   1995 | 139                  |                nan | nan                                       |                        nan   |
+|  2 |   1996 | 130                  |                nan | nan                                       |                        nan   |
+|  3 |   1997 | 141                  |                nan | nan                                       |                        nan   |
+|  4 |   1998 | 153                  |                 14 | nan                                       |                        nan   |
+|  5 |   1999 | 152                  |                 16 | 13.6                                      |                        nan   |
+|  6 |   2000 | 191                  |                 17 | 12.0                                      |                        nan   |
+|  7 |   2001 | 255                  |                 25 | 12.4                                      |                        nan   |
+|  8 |   2002 | 212                  |                 13 | 12.2                                      |                         21.3 |
+|  9 |   2003 | 206                  |                 11 | 12.8                                      |                         20.7 |
+| 10 |   2004 | 210                  |                 16 | 11.5                                      |                         22.4 |
+| 11 |   2005 | 202 (estimate)       |                 20 | 11.0                                      |                         22.2 |
+| 12 |   2006 | no data              |                 22 | no data†                                  |                         22.3 |
+| 13 |   2007 | no data              |                 22 | no data                                   |                        nan   |
+| 14 |   2008 | no data              |                 19 | no data                                   |                        nan   |
+| 15 |   2009 | no data              |                 12 | no data                                   |                        nan   |
+===================Question===================
+what year had the largest number of deaths reported?
+===================Text===================
+<think>
+Okay, so I need to figure out which year had the largest number of deaths reported based on this table about toy safety. Let me start by looking at the columns provided: Year, Injuries (in thousands), Deaths for those under 15, CPSC funding in millions, and Toy sales in billions.
+
+The key here is focusing on the "Deaths (age <15)" column because that's what the question is asking about. I should go through each year one by one and note down the number of deaths.
+
+Starting from 1994: It shows 'nan', which probably stands for not available, so no data there.
+
+1995: Also nan, same as above.
+
+1996: Still nan, so no death data.
+
+1997: Again nan. So up until here, we don't have any numbers.
+
+In 1998: The first actual number appears, which is 14 deaths.
+
+Then 1999 shows 16 deaths.
+
+2000: 17 deaths, a slight increase from '99.
+
+2001 jumps to 25 deaths, that's a significant rise. So far, this is the highest I've seen.
+
+2002 drops back down to 13 deaths.
+
+2003 is lower again with 11.
+
+2004 goes up a bit to 16 but still less than 2001.
+
+2005 shows an estimated 20 deaths. That's higher than the surrounding years but still below 25.
+
+2006 and onwards have either 'no data' or nan, so we can't consider those for actual numbers.
+
+So looking at all these numbers, the highest death count is in 2001 with 25 reported deaths.
+</think>
+
+The year 2001 had the largest number of deaths reported under the age of 15. 
+
+Final Answer: 2001
+===================Answer===================
+2001

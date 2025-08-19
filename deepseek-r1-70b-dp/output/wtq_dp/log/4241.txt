@@ -1,0 +1,50 @@
+===================Title===================
+Glasgow Airport
+===================Table===================
+|    |   Rank | Airport               | Passengers handled   | Change\n2011/12   |
+|---:|-------:|:----------------------|:---------------------|:------------------|
+|  0 |      1 | London Heathrow       | 828,531              | 0%                |
+|  1 |      2 | London Gatwick        | 607,417              | 7%                |
+|  2 |      3 | London Stansted       | 331,607              | 3%                |
+|  3 |      4 | London Luton          | 276,488              | 0%                |
+|  4 |      5 | Belfast International | 266,987              | 8%                |
+|  5 |      6 | Bristol               | 239,666              | 8%                |
+|  6 |      7 | Birmingham            | 208,123              | 2%                |
+|  7 |      8 | Southampton           | 173,576              | 24%               |
+|  8 |      9 | London City           | 158,239              | 6%                |
+|  9 |     10 | Belfast City          | 100,003              | 4%                |
+===================Question===================
+how many more passengers did london heathrow have than bristol?
+===================Text===================
+<think>
+Okay, so I need to figure out how many more passengers London Heathrow handled compared to Bristol based on the provided table. Let me start by understanding the table structure.
+
+First, looking at the columns: Rank, Airport, Passengers handled, and Change 2011/12. The airports are listed from rank 1 to 10. I need to find the number of passengers for both London Heathrow and Bristol and then subtract Bristol's number from Heathrow's to get the difference.
+
+Looking through the table:
+- London Heathrow is at Rank 1 with 828,531 passengers.
+- Bristol is at Rank 6 with 239,666 passengers.
+
+Now, I'll calculate the difference by subtracting Bristol's passenger count from Heathrow's: 828,531 minus 239,666. Let me do that subtraction step by step to make sure I get it right.
+
+828,531
+-239,666
+----------
+588,865
+
+Wait, let me double-check my math in case I made a mistake. Starting from the units place:
+1 - 6: Can't do that, so borrow one from the tens place. But the tens place is 3, which becomes 2 after borrowing. Now, 11-6=5.
+Next, the tens place after borrowing: 2 - 6 again, can't do it, so borrow from the hundreds place. The hundreds digit (5) becomes 4, and the tens become 12. 12-6=6.
+Moving to the hundreds place: After borrowing earlier, it's now 4. So 4 - 6? Again, need to borrow. Borrow from thousands place, so thousands digit (8) becomes 7, and hundreds become 14. 14 - 6 = 8.
+Thousands place: 7 - 3 (since Bristol has 239,666, which is effectively 3 in the thousands place) equals 4? Wait, no, wait. Actually, I think my initial subtraction was a bit off because of how the numbers are structured.
+
+Wait, maybe it's better to break it down differently:
+828,531 minus 200,000 is 628,531.
+Then subtract another 39,666: 628,531 - 39,666 equals 588,865. That seems correct.
+
+So the difference should be 588,865 passengers.
+</think>
+
+Final Answer: 588865
+===================Answer===================
+588,865

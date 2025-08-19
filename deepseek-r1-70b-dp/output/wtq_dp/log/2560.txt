@@ -1,0 +1,43 @@
+===================Title===================
+List of Kentucky Derby broadcasters
+===================Table===================
+|    |   Year | Network   | Race caller    | Color commentator               | Reporters        | Trophy Presentation   |
+|---:|-------:|:----------|:---------------|:--------------------------------|:-----------------|:----------------------|
+|  0 |   1959 | CBS       | Fred Capossela | Bryan Field and Chris Schenkel  | nan              | Chris Schenkel        |
+|  1 |   1958 | CBS       | Fred Capossela | Bryan Field                     | nan              | nan                   |
+|  2 |   1957 | CBS       | Fred Capossela | Bryan Field                     | nan              | nan                   |
+|  3 |   1956 | CBS       | Fred Capossela | Bryan Field                     | nan              | nan                   |
+|  4 |   1955 | CBS       | Fred Capossela | Phil Sutterfield and Win Elliot | nan              | nan                   |
+|  5 |   1954 | CBS       | Bryan Field    | Mel Allen                       | nan              | Bill Corum            |
+|  6 |   1953 | CBS       | Bryan Field    | Mel Allen                       | Phil Sutterfield | Phil Sutterfield      |
+|  7 |   1952 | CBS       | Bryan Field    | Sam Renick                      | nan              | nan                   |
+===================Question===================
+how many times did fred capossela call the race?
+===================Text===================
+<think>
+Alright, let's tackle this question step by step. The user is asking how many times Fred Capossela called the race based on the provided table. 
+
+First, I'll look at the table structure. It has columns for Year, Network, Race caller, Color commentator, Reporters, and Trophy Presentation. My focus here is on the "Race caller" column.
+
+I need to go through each row and count how many times Fred Capossela is listed as the race caller. Starting from the top:
+
+- In 1959 (row 0), the race caller is Fred Capossela.
+- 1958 (row 1) also has Fred Capossela.
+- 1957 (row 2) continues with him.
+- 1956 (row 3) again lists Fred.
+- 1955 (row 4) shows Fred as well.
+
+Now, moving further down:
+
+- In 1954 (row 5), the race caller changes to Bryan Field.
+- 1953 (row 6) is also Bryan Field.
+- 1952 (row 7) remains with Bryan Field.
+
+So from years 1959 down to 1955, that's five consecutive years where Fred Capossela was the race caller. Beyond that, it's Bryan Field. Therefore, Fred called the race five times as per the table provided.
+</think>
+
+Fred Capossela called the race in the years: 1959, 1958, 1957, 1956, and 1955.
+
+Final Answer: 5
+===================Answer===================
+5

@@ -1,0 +1,37 @@
+===================Title===================
+Toy safety
+===================Table===================
+|    |   Year | Injuries (US $000)   |   Deaths (age <15) | CPSC toy safety funding\n(US$ Millions)   |   Toy sales\n(US $ Billions) |
+|---:|-------:|:---------------------|-------------------:|:------------------------------------------|-----------------------------:|
+|  0 |   1994 | 154                  |                nan | nan                                       |                        nan   |
+|  1 |   1995 | 139                  |                nan | nan                                       |                        nan   |
+|  2 |   1996 | 130                  |                nan | nan                                       |                        nan   |
+|  3 |   1997 | 141                  |                nan | nan                                       |                        nan   |
+|  4 |   1998 | 153                  |                 14 | nan                                       |                        nan   |
+|  5 |   1999 | 152                  |                 16 | 13.6                                      |                        nan   |
+|  6 |   2000 | 191                  |                 17 | 12.0                                      |                        nan   |
+|  7 |   2001 | 255                  |                 25 | 12.4                                      |                        nan   |
+|  8 |   2002 | 212                  |                 13 | 12.2                                      |                         21.3 |
+|  9 |   2003 | 206                  |                 11 | 12.8                                      |                         20.7 |
+| 10 |   2004 | 210                  |                 16 | 11.5                                      |                         22.4 |
+| 11 |   2005 | 202 (estimate)       |                 20 | 11.0                                      |                         22.2 |
+| 12 |   2006 | no data              |                 22 | no data†                                  |                         22.3 |
+| 13 |   2007 | no data              |                 22 | no data                                   |                        nan   |
+| 14 |   2008 | no data              |                 19 | no data                                   |                        nan   |
+| 15 |   2009 | no data              |                 12 | no data                                   |                        nan   |
+===================Question===================
+what was the total toy sales in 2003?
+===================Text===================
+<think>
+Okay, I need to figure out the total toy sales in 2003 based on this table. Let me look at the table again. The columns are Year, Injuries (in thousands), Deaths for those under 15, CPSC toy safety funding in millions, and Toy sales in billions.
+
+I'm looking for the year 2003. Scanning down the Year column... 1994, 95, 96, up to 2009. So row 9 corresponds to 2003 because 1994 is row 0, so adding 9 years gets me to 2003. 
+
+Now, checking the "Toy sales" column for that year. The numbers are in billions. Let's see: for row 8 (2002), it's 21.3 billion. Then row 9 (2003) shows 20.7 billion. So toy sales in 2003 were 20.7 billion dollars.
+
+I should make sure I'm reading the correct column and row. The columns are clearly labeled, so "Toy sales" is the last one. The value for 2003 under that is indeed 20.7.
+</think>
+
+Final Answer: 20.7
+===================Answer===================
+20.7

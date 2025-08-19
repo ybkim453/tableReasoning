@@ -1,0 +1,120 @@
+===================Title===================
+2009 Honda 200
+===================Table===================
+|    |   Pos |   No. | Driver              | Team                       |   Laps | Time/Retired   |   Grid |   Laps Led |   Points |
+|---:|------:|------:|:--------------------|:---------------------------|-------:|:---------------|-------:|-----------:|---------:|
+|  0 |     1 |     9 | Scott Dixon         | Chip Ganassi Racing        |     85 | 1:46:05.7985   |      3 |         51 |       52 |
+|  1 |     2 |     6 | Ryan Briscoe        | Penske Racing              |     85 | + 29.7803      |      1 |          6 |       41 |
+|  2 |     3 |    10 | Dario Franchitti    | Chip Ganassi Racing        |     85 | + 30.0551      |      6 |          0 |       35 |
+|  3 |     4 |    14 | Ryan Hunter-Reay    | A. J. Foyt Enterprises     |     85 | + 33.7307      |      7 |          0 |       32 |
+|  4 |     5 |    27 | Hideki Mutoh        | Andretti Green Racing      |     85 | + 34.1839      |     11 |          0 |       30 |
+|  5 |     6 |    26 | Marco Andretti      | Andretti Green Racing      |     85 | + 46.7669      |     13 |          0 |       28 |
+|  6 |     7 |     5 | Paul Tracy          | KV Racing Technology       |     85 | + 49.7020      |     10 |          0 |       26 |
+|  7 |     8 |     2 | Graham Rahal        | Newman/Haas/Lanigan Racing |     85 | + 50.4517      |      4 |          0 |       24 |
+|  8 |     9 |     2 | Raphael Matos (R)   | Luczo-Dragon Racing        |     85 | + 51.2286      |     15 |          0 |       22 |
+|  9 |    10 |    11 | Tony Kanaan         | Andretti Green Racing      |     85 | + 52.0810      |      8 |          0 |       20 |
+| 10 |    11 |     6 | Oriol Servià       | Newman/Haas/Lanigan Racing |     85 | + 52.6215      |     14 |          0 |       19 |
+| 11 |    12 |     3 | Hélio Castroneves  | Penske Racing              |     85 | + 53.2362      |      5 |          0 |       18 |
+| 12 |    13 |    18 | Justin Wilson       | Dale Coyne Racing          |     85 | + 53.5768      |      2 |         28 |       17 |
+| 13 |    14 |    33 | Robert Doornbos (R) | HVM Racing                 |     85 | + 1:10.0812    |     18 |          0 |       16 |
+| 14 |    15 |    13 | E. J. Viso          | HVM Racing                 |     84 | + 1 Lap        |      9 |          0 |       15 |
+| 15 |    16 |     4 | Dan Wheldon         | Panther Racing             |     84 | + 1 Lap        |     17 |          0 |       14 |
+| 16 |    17 |    20 | Ed Carpenter        | Vision Racing              |     84 | + 1 Lap        |     21 |          0 |       13 |
+| 17 |    18 |    98 | Richard Antinucci   | Team 3G                    |     83 | + 2 Laps       |     19 |          0 |       12 |
+| 18 |    19 |     7 | Danica Patrick      | Andretti Green Racing      |     83 | + 2 Laps       |     12 |          0 |       12 |
+| 19 |    20 |    24 | Mike Conway (R)     | Dreyer & Reinbold Racing   |     69 | Mechanical     |     16 |          0 |       12 |
+| 20 |    21 |    23 | Milka Duno          | Dreyer & Reinbold Racing   |     56 | Handling       |     20 |          0 |       12 |
+===================Question===================
+how many drivers have no laps led?
+===================Text===================
+<think>
+Alright, I need to figure out how many drivers have zero laps led in the 2009 Honda 200 race based on the provided table. Let me start by understanding what each column represents. 
+
+The table has several columns: Pos (Position), No. (Driver Number), Driver (Name), Team, Laps, Time/Retired, Grid, Laps Led, and Points. I'm interested in the "Laps Led" column because that's where I can see how many laps each driver led during the race.
+
+Looking at each row, I'll check the value under "Laps Led". If it's zero, that means the driver didn't lead any laps. Let's go through them one by one:
+
+1. **Scott Dixon**: 51 laps led. So he led some laps.
+2. **Ryan Briscoe**: 6 laps led. He also led some.
+3. **Dario Franchitti**: 0 laps led.
+4. **Ryan Hunter-Reay**: 0 laps led.
+5. **Hideki Mutoh**: 0 laps led.
+6. **Marco Andretti**: 0 laps led.
+7. **Paul Tracy**: 0 laps led.
+8. **Graham Rahal**: 0 laps led.
+9. **Raphael Matos (R)**: 0 laps led.
+10. **Tony Kanaan**: 0 laps led.
+11. **Oriol Servià**: 0 laps led.
+12. **Hélio Castroneves**: 0 laps led.
+13. **Justin Wilson**: 28 laps led.
+14. **Robert Doornbos (R)**: 0 laps led.
+15. **E. J. Viso**: 0 laps led.
+16. **Dan Wheldon**: 0 laps led.
+17. **Ed Carpenter**: 0 laps led.
+18. **Richard Antinucci**: 0 laps led.
+19. **Danica Patrick**: 0 laps led.
+20. **Mike Conway (R)**: 0 laps led.
+21. **Milka Duno**: 0 laps led.
+
+Wait, I think I might have miscounted the rows because sometimes it's easy to miss a number or two when manually checking each. Let me recount more carefully:
+
+Starting from row 0 to row 20 (since there are 21 entries):
+
+- Row 0: Scott Dixon - 51 (not zero)
+- Row 1: Ryan Briscoe - 6 (not zero)
+- Row 2: Dario Franchitti - 0
+- Row 3: Ryan Hunter-Reay - 0
+- Row 4: Hideki Mutoh - 0
+- Row 5: Marco Andretti - 0
+- Row 6: Paul Tracy - 0
+- Row 7: Graham Rahal - 0
+- Row 8: Raphael Matos (R) - 0
+- Row 9: Tony Kanaan - 0
+- Row 10: Oriol Servià - 0
+- Row 11: Hélio Castroneves - 0
+- Row 12: Justin Wilson - 28 (not zero)
+- Row 13: Robert Doornbos (R) - 0
+- Row 14: E. J. Viso - 0
+- Row 15: Dan Wheldon - 0
+- Row 16: Ed Carpenter - 0
+- Row 17: Richard Antinucci - 0
+- Row 18: Danica Patrick - 0
+- Row 19: Mike Conway (R) - 0
+- Row 20: Milka Duno - 0
+
+So, excluding Scott Dixon and Ryan Briscoe who led laps, the rest from row 2 onwards have zero. Let's count how many that is:
+
+From row 2 to row 20: rows 2 to 20 inclusive is 19 rows. But wait, in the table, each driver is a unique entry, so each "Laps Led" value corresponds to one driver. So, starting from row 0 (1st driver) to row 20 (21st driver), there are 21 total drivers.
+
+Now, how many of these have zero laps led? Let's see:
+
+- Scott Dixon and Ryan Briscoe led laps, so that's 2 drivers.
+- The rest (21 - 2 = 19) did not lead any laps. So, 19 drivers have zero laps led.
+
+Wait, but let me double-check because sometimes I might make a mistake in counting. Let me list the names with zero laps led:
+
+3. Dario Franchitti
+4. Ryan Hunter-Reay
+5. Hideki Mutoh
+6. Marco Andretti
+7. Paul Tracy
+8. Graham Rahal
+9. Raphael Matos (R)
+10. Tony Kanaan
+11. Oriol Servià
+12. Hélio Castroneves
+13. Robert Doornbos (R)
+14. E. J. Viso
+15. Dan Wheldon
+16. Ed Carpenter
+17. Richard Antinucci
+18. Danica Patrick
+19. Mike Conway (R)
+20. Milka Duno
+
+That's 19 names. So yes, 19 drivers have zero laps led.
+</think>
+
+Final Answer: 19
+===================Answer===================
+18

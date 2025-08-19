@@ -1,0 +1,60 @@
+===================Title===================
+2012 World Single Distance Speed Skating Championships – Men's team pursuit
+===================Table===================
+|    |   Rank |   Pair | Country       | Athletes                                                          | Time    |   Deficit |
+|---:|-------:|-------:|:--------------|:------------------------------------------------------------------|:--------|----------:|
+|  0 |    nan |      3 | Netherlands   | Sven Kramer\nKoen Verweij\nJan Blokhuijsen                        | 3:41.43 |    nan    |
+|  1 |    nan |      4 | United States | Shani Davis\nBrian Hansen\nJonathan Kuck                          | 3:43.42 |      1.99 |
+|  2 |    nan |      2 | Russia        | Ivan Skobrev\nDenis Yuskov\nYevgeny Lalenkov                      | 3:43.62 |      2.19 |
+|  3 |      4 |      1 | Canada        | Denny Morrison\nMathieu Giroux\nLucas Makowsky                    | 3:44.38 |      2.95 |
+|  4 |      5 |      1 | Norway        | Sverre Lunde Pedersen\nHåvard Bøkko\nKristian Reistad Fredriksen | 3:46.33 |      4.9  |
+|  5 |      6 |      3 | Germany       | Patrick Beckert\nMarco Weber\nRobert Lehmann                      | 3:46.48 |      5.05 |
+|  6 |      7 |      4 | South Korea   | Lee Seung-hoon\nJoo Hyong-jun\nKo Byung-wook                      | 3:47.18 |      5.75 |
+|  7 |      8 |      2 | Poland        | Zbigniew Bródka\nKonrad Niedźwiedzki\nJan Szymański            | 3:47.72 |      6.29 |
+===================Question===================
+how many finished in less than 3:47?
+===================Text===================
+<think>
+Okay, so I need to figure out how many teams finished in less than 3:47 based on the given table. Let me start by looking at each row and checking their times.
+
+First, I'll go through each country one by one:
+
+1. Netherlands - Their time is 3:41.43. That's definitely less than 3:47.
+2. United States - Time is 3:43.42. Also under 3:47.
+3. Russia - They have a time of 3:43.62, which is still below 3:47.
+4. Canada - Their time is 3:44.38, so that's under as well.
+5. Norway - Time is 3:46.33. Still less than 3:47.
+6. Germany - They finished at 3:46.48, which is also below 3:47.
+7. South Korea - Their time is 3:47.18. Hmm, that's just over 3:47 because it's 3 minutes and 47.18 seconds.
+8. Poland - They have a time of 3:47.72, which is definitely over.
+
+So counting the teams under 3:47: Netherlands, USA, Russia, Canada, Norway, Germany. That makes six teams. Wait, no, I think I miscounted. Let me check again:
+
+1. Netherlands
+2. USA
+3. Russia
+4. Canada
+5. Norway
+6. Germany
+
+Yes, that's six teams. South Korea and Poland are over 3:47, so they don't count.
+
+Wait a second, the times are in minutes and seconds? So 3:41.43 is 3 minutes and 41.43 seconds. Therefore, 3:47 would be 3 minutes and 47 seconds. So any time where the seconds part is less than 47 would be under 3:47, right?
+
+Looking again:
+
+- Netherlands: 41.43 < 47 → yes.
+- USA: 43.42 < 47 → yes.
+- Russia: 43.62 < 47 → yes.
+- Canada: 44.38 < 47 → yes.
+- Norway: 46.33 < 47 → yes.
+- Germany: 46.48 < 47 → yes.
+- South Korea: 47.18 > 47 → no.
+- Poland: 47.72 > 47 → no.
+
+So that's six teams in total who finished under 3:47.
+</think>
+
+Final Answer: 6
+===================Answer===================
+6

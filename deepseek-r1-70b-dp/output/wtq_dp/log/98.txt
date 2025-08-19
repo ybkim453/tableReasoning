@@ -1,0 +1,43 @@
+===================Title===================
+2013–14 Toros Mexico season
+===================Table===================
+|    |   Game | Day      | Date         | Kickoff   | Opponent             | Results\nScore   | Results\nRecord   | Location                     | Attendance   |
+|---:|-------:|:---------|:-------------|:----------|:---------------------|:-----------------|:------------------|:-----------------------------|:-------------|
+|  0 |      1 | Sunday   | November 10  | 3:05pm    | at Las Vegas Legends | L 3–7            | 0–1               | Orleans Arena                | 1,836        |
+|  1 |      2 | Sunday   | November 17  | 1:05pm    | Monterrey Flash      | L 6–10           | 0–2               | UniSantos Park               | 363          |
+|  2 |      3 | Saturday | November 23  | 7:05pm    | at Bay Area Rosal    | W 10–7           | 1–2               | Cabernet Indoor Sports       | 652          |
+|  3 |      4 | Sunday   | December 1   | 1:05pm    | Ontario Fury         | W 18–4           | 2–2               | UniSantos Park               | 207          |
+|  4 |      5 | Saturday | December 14  | 7:05pm    | at Sacramento Surge  | W 7–6 (OT)       | 3–2               | Estadio Azteca Soccer Arena  | 215          |
+|  5 |      6 | Sunday   | December 15  | 6:00pm    | at Bay Area Rosal    | L 8–9 (OT)       | 3–3               | Cabernet Indoor Sports       | 480          |
+|  6 |      7 | Sunday   | December 22  | 1:05pm    | Turlock Express      | W 16–8           | 4–3               | UniSantos Park               | 218          |
+|  7 |      8 | Saturday | January 4    | 7:05pm    | at Ontario Fury      | L 5–12           | 4–4               | Citizens Business Bank Arena | 2,653        |
+|  8 |      9 | Sunday   | January 5    | 1:05pm    | San Diego Sockers    | L 7–12           | 4–5               | UniSantos Park               | 388          |
+|  9 |     10 | Sunday   | January 12   | 1:05pm    | Las Vegas Legends    | W 10–7           | 5–5               | UniSantos Park               | 343          |
+| 10 |     11 | Sunday   | January 19   | 1:05pm    | Bay Area Rosal       | W 17–7           | 6–5               | UniSantos Park               | 219          |
+| 11 |     12 | Sunday   | January 26   | 1:05pm    | Sacramento Surge     | W 20–6           | 7–5               | UniSantos Park               | 224          |
+| 12 |     13 | Saturday | February 1   | 7:05pm    | at San Diego Sockers | L 5–6            | 7–6               | Valley View Casino Center    | 4,954        |
+| 13 |     14 | Friday   | February 7   | 7:05pm    | at Turlock Express   | L 6–9            | 7–7               | Turlock Soccer Complex       | 673          |
+| 14 |     15 | Saturday | February 8   | 7:05pm    | at Sacramento Surge  | W 10–6           | 8–7               | Estadio Azteca Soccer Arena  | 323          |
+| 15 |     16 | Saturday | February 15♥ | 5:05pm    | Bay Area Rosal       | W 27–2           | 9–7               | UniSantos Park               | 118          |
+===================Question===================
+which opponent did this team play against after playing the ontario fury on december 1 of this season?
+===================Text===================
+<think>
+Okay, so I need to figure out which opponent Toros Mexico played against after they faced Ontario Fury on December 1 in this season. Let me look at the table step by step.
+
+First, I'll scan through the table to find the game where the opponent was Ontario Fury and the date is December 1. Looking at each row:
+
+- Game 3 (row with index 3) shows the opponent as Ontario Fury on Sunday, December 1 at UniSantos Park. The result was a win for Toros Mexico with a score of 18–4, bringing their record to 2–2.
+
+The next question is: what's the next game after this one? So I need to look at the following games in chronological order. Since each row represents a game, the next row after Game 3 (index 3) would be Game 4 (index 4).
+
+Looking at Game 4 (row index 4), it's on Saturday, December 14 against Sacramento Surge at Estadio Azteca Soccer Arena, which resulted in a win with a score of 7–6 in overtime, making their record 3–2.
+
+Therefore, the opponent they played after Ontario Fury on December 1 was Sacramento Surge.
+</think>
+
+The team played Sacramento Surge after facing Ontario Fury on December 1. 
+
+Final Answer: Sacramento Surge
+===================Answer===================
+Sacramento Surge

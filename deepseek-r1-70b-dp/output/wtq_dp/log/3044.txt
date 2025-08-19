@@ -1,0 +1,37 @@
+===================Title===================
+2004 Summer Paralympics
+===================Table===================
+|    |   Rank | Nation        |   Gold |   Silver |   Bronze |   Total |
+|---:|-------:|:--------------|-------:|---------:|---------:|--------:|
+|  0 |      1 | China         |     63 |       46 |       32 |     141 |
+|  1 |      2 | Great Britain |     35 |       30 |       29 |      94 |
+|  2 |      3 | Canada        |     28 |       19 |       25 |      72 |
+|  3 |      4 | United States |     27 |       22 |       39 |      88 |
+|  4 |      5 | Australia     |     26 |       38 |       36 |     100 |
+|  5 |      6 | Ukraine       |     24 |       12 |       19 |      55 |
+|  6 |      7 | Spain         |     20 |       27 |       24 |      71 |
+|  7 |      8 | Germany       |     19 |       28 |       31 |      78 |
+|  8 |      9 | France        |     18 |       26 |       30 |      74 |
+|  9 |     10 | Japan         |     17 |       16 |       20 |      53 |
+===================Question===================
+name only the countries where all three medal counts are under 30.
+===================Text===================
+<think>
+Okay, I need to figure out which countries in the 2004 Summer Paralympics had all three medal counts—Gold, Silver, and Bronze—each under 30. Let me go through each country one by one.
+
+Starting with China: Gold is 63, which is way over 30, so that's out. Great Britain has Gold at 35, also over 30. Canada's Gold is 28, which is under 30. Now check Silver for Canada—it's 19, under 30. Bronze is 25, also under 30. So Canada qualifies.
+
+Next, United States: Gold is 27 (under), Silver 22 (under), but Bronze is 39, which is over 30. So the US doesn't make it. Australia has Gold at 26, Silver at 38 (over), so immediately disqualified. Ukraine's Gold is 24, Silver 12, Bronze 19—all under 30? Wait, 24, 12, and 19 are all below 30. So Ukraine qualifies.
+
+Spain: Gold is 20, Silver 27 (over), so no need to check further. Germany has Silver at 28 (over). France's Silver is 26, which is under, but their Bronze is 30—wait, the question says "under 30," so 30 wouldn't qualify. So France is out because Bronze is exactly 30? Or does "under" include equal to? I think it's strictly less than, so 30 doesn't count.
+
+Japan: Gold is 17, Silver 16, Bronze 20—all under 30. So Japan also qualifies.
+
+Wait, let me double-check Ukraine and Canada again. Canada's all medals are under 30—28,19,25. Ukraine's are 24,12,19. Yes. Japan has 17,16,20—all good.
+
+So the countries that meet the criteria are Canada, Ukraine, and Japan.
+</think>
+
+Final Answer: Canada, Ukraine, Japan
+===================Answer===================
+Canada,Ukraine,Spain,Japan

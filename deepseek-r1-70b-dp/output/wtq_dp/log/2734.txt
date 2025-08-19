@@ -1,0 +1,55 @@
+===================Title===================
+2007 Bavaria Champ Car Grand Prix
+===================Table===================
+|    |   Pos | Name                | Team                      |   Laps | Time/Retired   |   Grid |   Points |
+|---:|------:|:--------------------|:--------------------------|-------:|:---------------|-------:|---------:|
+|  0 |     1 | Justin Wilson       | RuSPORT                   |     69 | 1:46:02.236    |      2 |       32 |
+|  1 |     2 | Jan Heylen          | Conquest Racing           |     69 | +7.227         |      7 |       27 |
+|  2 |     3 | Bruno Junqueira     | Dale Coyne Racing         |     69 | +8.419         |     11 |       26 |
+|  3 |     4 | Tristan Gommendy    | PKV Racing                |     69 | +9.037         |      3 |       23 |
+|  4 |     5 | Neel Jani           | PKV Racing                |     69 | +22.262        |      4 |       21 |
+|  5 |     6 | Simon Pagenaud      | Team Australia            |     69 | +22.698        |      5 |       19 |
+|  6 |     7 | Sébastien Bourdais | N/H/L Racing              |     69 | +22.955        |      1 |       18 |
+|  7 |     8 | Oriol Servià       | Forsythe Racing           |     69 | +23.406        |     13 |       15 |
+|  8 |     9 | Graham Rahal        | N/H/L Racing              |     69 | +23.949        |      6 |       13 |
+|  9 |    10 | Ryan Dalziel        | Pacific Coast Motorsports |     69 | +29.554        |     15 |       11 |
+| 10 |    11 | Dan Clarke          | Minardi Team USA          |     69 | +38.903        |     10 |       11 |
+| 11 |    12 | Katherine Legge     | Dale Coyne Racing         |     69 | +44.860        |     14 |        9 |
+| 12 |    13 | Robert Doornbos     | Minardi Team USA          |     69 | +1:00.638      |      9 |        8 |
+| 13 |    14 | Will Power          | Team Australia            |     69 | +1:01.204      |      8 |        7 |
+| 14 |    15 | Alex Tagliani       | Rocketsports              |     68 | + 1 Lap        |     12 |        6 |
+| 15 |    16 | Alex Figge          | Pacific Coast Motorsports |     68 | + 1 Lap        |     16 |        5 |
+| 16 |    17 | Paul Tracy          | Forsythe Racing           |     14 | Mechanical     |     17 |        4 |
+===================Question===================
+who finished directly before servia?
+===================Text===================
+<think>
+Alright, so I need to figure out who finished directly before Oriol Servià in the 2007 Bavaria Champ Car Grand Prix based on the provided table. Let me start by understanding the structure of the table.
+
+First, I see that each row represents a driver's performance in the race. The columns are: Position (Pos), Name, Team, Laps, Time/Retired, Grid, and Points.
+
+The key here is to find out who was right ahead of Servià, meaning the driver who finished one position before him. So I should look at the Pos column to determine the order of finishers.
+
+Looking through the table, I'll scan down until I find Oriol Servià. Let's go row by row:
+
+- Row 0: Justin Wilson, Position 1
+- Row 1: Jan Heylen, Position 2
+- Row 2: Bruno Junqueira, Position 3
+- Row 3: Tristan Gommendy, Position 4
+- Row 4: Neel Jani, Position 5
+- Row 5: Simon Pagenaud, Position 6
+- Row 6: Sébastien Bourdais, Position 7
+- Row 7: Oriol Servià, Position 8
+
+Wait a second, that's interesting. The positions are numbered from 0 to 16, but the actual finishing positions in the Pos column start at 1 and go up. So row 6 (index 6) is Sébastien Bourdais with Pos=7, and row 7 is Oriol Servià with Pos=8.
+
+So, to find who finished directly before Servià, I need the driver with Pos=7, which is Sébastien Bourdais. That makes sense because in racing, the lower the position number, the higher the rank. So Position 1 is first place, and each subsequent number is the next rank.
+
+I should double-check to make sure there are no ties or unusual circumstances, but from the table, it seems straightforward. Each row increments by one position, so the driver in Pos=7 would be just ahead of Pos=8.
+
+Therefore, Sébastien Bourdais finished directly before Oriol Servià.
+</think>
+
+Final Answer: Sébastien Bourdais
+===================Answer===================
+Sébastien Bourdais

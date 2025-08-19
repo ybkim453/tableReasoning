@@ -1,0 +1,43 @@
+===================Title===================
+Melissa Morrison-Howard
+===================Table===================
+|    |   Year | Competition                | Venue                       | Position   | Event         |
+|---:|-------:|:---------------------------|:----------------------------|:-----------|:--------------|
+|  0 |   1997 | World Indoor Championships | Paris, France               | 5th        | 60 m hurdles  |
+|  1 |   1997 | USA Outdoor Championships  | Indianapolis, United States | 1st        | 100 m hurdles |
+|  2 |   1998 | Grand Prix Final           | Moscow, Russia              | 2nd        | 100 m hurdles |
+|  3 |   1998 | USA Indoor Championships   | nan                         | 1st        | 60 m hurdles  |
+|  4 |   1999 | World Indoor Championships | Maebashi, Japan             | 6th        | 60 m hurdles  |
+|  5 |   2000 | Olympic Games              | Sydney, Australia           | 3rd        | 100 m hurdles |
+|  6 |   2000 | Grand Prix Final           | Doha, Qatar                 | 4th        | 100 m hurdles |
+|  7 |   2002 | Grand Prix Final           | Paris, France               | 7th        | 100 m hurdles |
+|  8 |   2002 | USA Indoor Championships   | nan                         | 1st        | 60 m hurdles  |
+|  9 |   2003 | World Indoor Championships | Birmingham, England         | 3rd        | 60 m hurdles  |
+| 10 |   2003 | World Athletics Final      | Monaco                      | 6th        | 100 m hurdles |
+| 11 |   2004 | Olympic Games              | Athens, Greece              | 3rd        | 100 m hurdles |
+===================Question===================
+how many times has melissa morrison-howard place in the grand prix final?
+===================Text===================
+<think>
+Okay, so I need to figure out how many times Melissa Morrison-Howard has placed in the Grand Prix Final based on the table provided. Let me start by looking through each row of the table carefully.
+
+First, I'll scan the "Competition" column because that's where it mentions the Grand Prix Final events. Each time I see "Grand Prix Final," I should note down the year and her position to count how many times she participated and placed in those finals.
+
+Looking at the rows:
+
+- In 1998, at Moscow, Russia, she was 2nd in the 100 m hurdles at the Grand Prix Final.
+- Then again, in 2000, in Doha, Qatar, she placed 4th in the 100 m hurdles during the Grand Prix Final.
+- The next occurrence is in 2002, in Paris, France, where she finished 7th in the same event.
+
+I should make sure there are no other entries for the Grand Prix Final beyond these three. Let me double-check the entire table:
+
+Rows 0 to 11 cover years from 1997 to 2004. Besides rows 2 (1998), 6 (2000), and 7 (2002), there are no other mentions of "Grand Prix Final." So that's a total of three times she placed in the Grand Prix Final.
+
+Wait, but sometimes athletes might compete multiple times in separate years within the same competition. Since each year is a unique event, I need to count each occurrence separately. Therefore, each time she participated and placed in the Grand Prix Final counts as one instance.
+
+So, adding them up: 1998 (1), 2000 (2), and 2002 (3). That makes three times in total.
+</think>
+
+Final Answer: 3
+===================Answer===================
+3

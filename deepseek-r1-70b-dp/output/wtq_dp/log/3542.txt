@@ -1,0 +1,46 @@
+===================Title===================
+Charles Henderson High School
+===================Table===================
+|    |   Year |   Team Record\nW |   Team Record\nL | Playoffs                |
+|---:|-------:|-----------------:|-----------------:|:------------------------|
+|  0 |   2001 |                7 |                2 | 3rd Qualifier, Region 2 |
+|  1 |   2002 |                8 |                1 | 2nd Qualifier, Region 2 |
+|  2 |   2003 |                8 |                1 | 2nd Qualifier, Region 2 |
+|  3 |   2004 |                7 |                2 | 2nd Qualifier, Region 2 |
+|  4 |   2005 |                3 |                5 | Did Not Make Playoffs   |
+|  5 |   2006 |                5 |                4 | 4th Qualifier, Region 2 |
+|  6 |   2007 |               13 |                1 | 1st Qualifier, Region 2 |
+|  7 |   2008 |                7 |                4 | 2nd Qualifier, Region 2 |
+|  8 |   2009 |                5 |                5 | Did Not Make Playoffs   |
+|  9 |   2010 |                5 |                5 | Did Not Make Playoffs   |
+===================Question===================
+in which year did they have the most playoff wins?
+===================Text===================
+<think>
+Okay, I need to figure out in which year Charles Henderson High School had the most playoff wins based on the provided table. Let me start by examining the data closely.
+
+First, I notice that each row represents a different year from 2001 to 2010. The columns show the team's record with wins (W) and losses (L), as well as their playoff status. My goal is to determine which year had the most playoff wins.
+
+I should clarify what counts as a playoff win here. In sports, especially at the high school level, making the playoffs usually means qualifying for a postseason tournament beyond the regular season. The number of playoff wins would refer to how many games or rounds they won in those playoffs, not necessarily their regular-season record. However, the table doesn't explicitly list playoff wins; it only shows whether they made the playoffs and their qualifier status.
+
+Looking at the "Playoffs" column, I see entries like "3rd Qualifier, Region 2", "Did Not Make Playoffs", etc. The qualifiers indicate how far they advanced in the playoffs. For example, a 1st Qualifier likely means they won the regional championship or went the furthest, while lower qualifiers mean they lost earlier.
+
+So, to find the year with the most playoff wins, I should look for when they were the highest qualifier, as that would typically mean more playoff victories in that season. The higher the qualifier number (like 1st being better than 3rd), the further they advanced, implying more wins.
+
+Let's go through each year:
+
+- **2001**: They were the 3rd Qualifier in Region 2.
+- **2002 and 2003**: Both years they were 2nd Qualifiers.
+- **2004**: Again a 2nd Qualifier.
+- **2005**: Did Not Make Playoffs, so no wins.
+- **2006**: 4th Qualifier.
+- **2007**: They were the 1st Qualifier, which is the highest. This suggests they had the most playoff success this year.
+- **2008**: Back to 2nd Qualifier.
+- **2009 and 2010**: Both years did not make playoffs.
+
+So, in 2007, with a 13-1 regular season record, they were the top qualifier, indicating their best playoff performance. Therefore, 2007 is the year with the most playoff wins.
+</think>
+
+Final Answer: 2007
+===================Answer===================
+2007

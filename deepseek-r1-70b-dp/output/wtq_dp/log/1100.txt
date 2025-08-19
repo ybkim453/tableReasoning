@@ -1,0 +1,79 @@
+===================Title===================
+Immigration to France
+===================Table===================
+|    | Naturalisations by origin   | 2000    | 2005    | 2009    |   % Total 2009 |
+|---:|:----------------------------|:--------|:--------|:--------|---------------:|
+|  0 | Africa                      | 84 182  | 98 453  | 85 144  |           62.7 |
+|  1 | Maghreb                     | 68 185  | 75 224  | 56 024  |           41.2 |
+|  2 | Sub-Saharan Africa          | 10 622  | 15 624  | 22 214  |           16.4 |
+|  3 | Other Africa                | 5 375   | 7 605   | 6 906   |            5.1 |
+|  4 | Asia                        | 27 941  | 26 286  | 19 494  |           14.4 |
+|  5 | South-East Asia             | 7 265   | 4 069   | 2 475   |            1.8 |
+|  6 | East Asia                   | 1 139   | 1 280   | 1 622   |            1.2 |
+|  7 | South Asia                  | 4 246   | 4 436   | 3 660   |            2.7 |
+|  8 | Other Asia                  | 15 291  | 16 501  | 11 737  |            8.6 |
+|  9 | Europe (not including CIS ) | 22 085  | 18 072  | 14 753  |           10.9 |
+| 10 | CIS                         | 1 181   | 2 108   | 4 704   |            3.5 |
+| 11 | CIS (Europe)                | 1 000   | 1 535   | 4 454   |            3.3 |
+| 12 | CIS (Asia)                  | 181     | 573     | 250     |            0.2 |
+| 13 | America                     | 5 668   | 6 352   | 6 677   |            4.9 |
+| 14 | North America               | 1 048   | 854     | 747     |            0.5 |
+| 15 | South and Central America   | 4 620   | 5 498   | 5 930   |            4.4 |
+| 16 | Oceania                     | 87      | 127     | 108     |            0.1 |
+| 17 | Others                      | 8 882   | 3 245   | 4 962   |            3.7 |
+| 18 | Total                       | 150 026 | 154 643 | 135 842 |          100   |
+===================Question===================
+does any area have the same percentage listed as south asia?
+===================Text===================
+<think>
+Alright, so I need to figure out if any area in the table has the same percentage as South Asia. Let me start by looking at where South Asia is located in the table.
+
+Looking at the table, each row represents different regions. The percentages are listed under the "% Total 2009" column. So first, I should find what percentage South Asia has.
+
+Scrolling down, South Asia is on row 7. The percentage there is 2.7%. Okay, so now I need to check all other percentage values in that column to see if any match 2.7%.
+
+Going through each row:
+
+- Africa: 62.7%
+- Maghreb: 41.2%
+- Sub-Saharan Africa: 16.4%
+- Other Africa: 5.1%
+- Asia: 14.4%
+- South-East Asia: 1.8%
+- East Asia: 1.2%
+- South Asia: 2.7% (this is the one we're comparing)
+- Other Asia: 8.6%
+- Europe: 10.9%
+- CIS: 3.5%
+- CIS (Europe): 3.3%
+- CIS (Asia): 0.2%
+- America: 4.9%
+- North America: 0.5%
+- South and Central America: 4.4%
+- Oceania: 0.1%
+- Others: 3.7%
+
+Now, scanning through these percentages, I see that South Asia has 2.7%. Checking each one:
+
+- 62.7% - No
+- 41.2% - No
+- 16.4% - No
+- 5.1% - No
+- 14.4% - No
+- 1.8% - No
+- 1.2% - No
+- (Skipping South Asia)
+- 8.6% - No
+- 10.9% - No
+- 3.5% - Hmm, that's higher than 2.7%. Close but not the same.
+- 3.3% - Also higher.
+- 0.2% - Too low.
+- 4.9%, 0.5%, 4.4%, 0.1% - All different from 2.7%
+- Others: 3.7% - No.
+
+So, none of the other areas have exactly 2.7%. Therefore, there's no area with the same percentage as South Asia.
+</think>
+
+Final Answer: None
+===================Answer===================
+no

@@ -1,0 +1,73 @@
+===================Title===================
+JumpStart Adventures 3rd Grade: Mystery Mountain
+===================Table===================
+|    | Subject      | Robot's Name                  | Who?                    | When?                  | Where?                 | Occupation            |
+|---:|:-------------|:------------------------------|:------------------------|:-----------------------|:-----------------------|:----------------------|
+|  0 | Solar System | Cosmo-Bot                     | Copernicus              | 1531                   | Poland                 | Cosmonaut             |
+|  1 | Olympics     | Rhonda Robot                  | Greeks                  | 776 B.C.               | Greece                 | Beauty queen          |
+|  2 | Basketball   | Danny Defrost-Bot             | James Naismith          | 1891                   | United States          | Snowman               |
+|  3 | Nursing      | Dr. Bug-Bot                   | Florence Nightengale    | 1860                   | England                | Doctor                |
+|  4 | Scuba Gear   | Flip the High-Diving Robot    | Jacques Cousteau        | 1946                   | France                 | Diver                 |
+|  5 | Helicopter   | Amelia Air-Bot                | Leonardo da Vinci       | 1483                   | Italy                  | Pilot                 |
+|  6 | Corn Flakes  | Chef Boy-Robot                | William Kellogg         | 1894                   | Battle Creek, Michigan | Cook                  |
+|  7 | Radium       | Miss Battery-Bot              | Marie Curie             | 1898                   | France                 | Battery Lady          |
+|  8 | Chewing Gum  | Bubble-Bot                    | Mayans                  | 400                    | Mexico                 | Bubble Man            |
+|  9 | Painting     | Pierro-Bot                    | Stone-Age Humans        | 35,000 B.C.            | Europe                 | Clown/Artist          |
+| 10 | Phonograph   | Slide the Heavy-Metal Robot   | Thomas Edison           | 1877                   | New Jersey             | Rock Star             |
+| 11 | Paper        | Noshi Origami                 | Ts'ai Lun               | 105                    | China                  | Origami Maker         |
+| 12 | Round Earth  | Vasco da Robot                | Ferdinand Magellan      | 1522                   | Spain                  | Early Sailor          |
+| 13 | Dynamite     | Robby Robot                   | Alfred Nobel            | 1866                   | Sweden                 | Prankster             |
+| 14 | Microscope   | Slobot                        | Antonie van Leeuwenhoek | 1674                   | The Netherlands        | Dirty Person          |
+| 15 | Writing      | Eraser-Bot                    | Sumerians               | 3,500 B.C.             | Middle East            | Pencil Man            |
+| 16 | Sausage      | Sock-Bot                      | Babylonians             | 3,000 B.C.             | Middle East            | Sock Man              |
+| 17 | Bicycle      | Booster-Bot                   | Karl von Drais          | 1816                   | Germany                | Rocket Man            |
+| 18 | Wheel        | Rollin' Road-Bot              | Sumerians               | 3,000 B.C.             | Middle East            | Race Starter          |
+| 19 | Germs        | Roast-Bot                     | Louis Pasteur           | 1865                   | France                 | Firefighter           |
+| 20 | Boomerang    | Oswald the Mailman Robot      | Aborigines              | 40,000 years ago       | Australia              | Mailman               |
+| 21 | Coins        | Verna the Vend-Bot            | Lydians                 | 600 B.C.               | Turkey                 | Vending Machine       |
+| 22 | Tools        | Hank the Handyman Robot       | Stone-Age Humans        | 21⁄2 million years ago | Africa                 | Mechanic              |
+| 23 | Saxophone    | Bongo-Bot the Six-Armed Robot | Antoine-Joseph Sax      | 1846                   | France                 | Six-Armed Drum Player |
+| 24 | Toilet       | Brunwella the Bombshell       | Minoans                 | 2000 B.C.              | Crete                  | Demolisher            |
+===================Question===================
+list each of the robots from mexico.
+===================Text===================
+<think>
+Alright, so I need to figure out which robots are from Mexico based on the table provided. Let me go through each row one by one and check the "Where?" column for Mexico.
+
+Starting from the top:
+
+0: Poland - not Mexico.
+1: Greece - nope.
+2: United States - no.
+3: England - not.
+4: France - still no.
+5: Italy - no way.
+6: Battle Creek, Michigan - that's in the US, so no.
+7: France again.
+8: Here we go. The "Where?" is Mexico for this one. So the robot at index 8 is Bubble-Bot.
+
+I'll continue checking the rest to make sure I didn't miss any others:
+
+9: Europe - not Mexico.
+10: New Jersey, US - nope.
+11: China - different country.
+12: Spain - no.
+13: Sweden - no.
+14: The Netherlands - no.
+15: Middle East - not Mexico.
+16: Also Middle East - same as above.
+17: Germany - no.
+18: Again, Middle East.
+19: France - nope.
+20: Australia - far from Mexico.
+21: Turkey - different region.
+22: Africa - not Mexico.
+23: France again.
+24: Crete - which is in Greece.
+
+So only index 8 has "Where?" as Mexico. Therefore, the robot's name there is Bubble-Bot.
+</think>
+
+Final Answer: Bubble-Bot
+===================Answer===================
+Bubble-Bot

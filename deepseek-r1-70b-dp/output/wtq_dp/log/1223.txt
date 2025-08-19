@@ -1,0 +1,50 @@
+===================Title===================
+Athletics at the 1959 Mediterranean Games
+===================Table===================
+|    | Rank   | Nation     |   Gold |   Silver |   Bronze |   Total |
+|---:|:-------|:-----------|-------:|---------:|---------:|--------:|
+|  0 | 1      | France     |     11 |        5 |        3 |      19 |
+|  1 | 2      | Greece     |      6 |        7 |        6 |      19 |
+|  2 | 3      | Yugoslavia |      3 |        2 |        1 |       6 |
+|  3 | 4      | Spain      |      1 |        5 |        5 |      11 |
+|  4 | 5      | Morocco    |      1 |        1 |        0 |       2 |
+|  5 | 5      | Turkey     |      1 |        1 |        0 |       2 |
+|  6 | 7      | Egypt      |      0 |        1 |        7 |       8 |
+|  7 | 8      | Tunisia    |      0 |        1 |        0 |       1 |
+|  8 | Totaal | Totaal     |     23 |       23 |       22 |      68 |
+===================Question===================
+name a country that has the same medal record as turkey.
+===================Text===================
+<think>
+Okay, so I need to figure out which country has the same medal record as Turkey according to the given table from the 1959 Mediterranean Games. Let me start by looking at the data provided.
+
+First, I see that each row in the table represents a nation and its medal counts: Gold, Silver, Bronze, and Total. The ranks are also listed, but they might not be directly relevant here unless there's a tie in rank which affects the answer.
+
+Looking specifically for Turkey, it's located at index 5 in the table. According to the data:
+
+- Turkey has 1 Gold medal.
+- They have 1 Silver medal.
+- They have 0 Bronze medals.
+- The Total is 2 medals.
+
+So, Turkey's record is 1 Gold, 1 Silver, and 0 Bronze, totaling 2 medals. Now, I need to scan through the other countries to see if any of them match this exact count in each category.
+
+Starting from the top:
+
+1. France: 11 Gold, 5 Silver, 3 Bronze – Total 19. That's way more than Turkey.
+2. Greece: 6 G, 7 S, 6 B – Total 19. Also much higher.
+3. Yugoslavia: 3 G, 2 S, 1 B – Total 6. Not matching Turkey's count.
+4. Spain: 1 G, 5 S, 5 B – Total 11. The counts are higher in Silver and Bronze but Gold is the same as Turkey. So not a match overall.
+5. Morocco: 1 G, 1 S, 0 B – Total 2. Wait, that's exactly what Turkey has! Both have 1 Gold, 1 Silver, 0 Bronze, totaling 2 medals each.
+
+Continuing just to be thorough:
+
+6. Egypt: 0 Gold, 1 Silver, 7 Bronze – Total 8. Doesn't match.
+7. Tunisia: 0 G, 1 S, 0 B – Total 1. So only one medal; not the same as Turkey's two medals.
+
+So, looking at this, Morocco has exactly the same medal count as Turkey. Therefore, the answer is Morocco.
+</think>
+
+Final Answer: Morocco
+===================Answer===================
+Morocco

@@ -1,0 +1,79 @@
+===================Title===================
+Diving at the 1984 Summer Olympics – Women's 3 metre springboard
+===================Table===================
+|    |   Rank | Diver                          |   Preliminary\nPoints |   Preliminary\nRank |   Final\nPoints |
+|---:|-------:|:-------------------------------|----------------------:|--------------------:|----------------:|
+|  0 |    nan | Sylvie Bernier (CAN)           |                489.51 |                   3 |          530.7  |
+|  1 |    nan | Kelly McCormick (USA)          |                516.75 |                   2 |          527.46 |
+|  2 |    nan | Christina Seufert (USA)        |                481.41 |                   5 |          517.62 |
+|  3 |      4 | Li Yihua (CHN)                 |                517.92 |                   1 |          506.52 |
+|  4 |      5 | Li Qiaoxian (CHN)              |                466.83 |                   6 |          487.68 |
+|  5 |      6 | Elsa Tenorio (MEX)             |                460.56 |                   8 |          463.56 |
+|  6 |      7 | Lesley Smith (ZIM)             |                438.72 |                  10 |          451.89 |
+|  7 |      8 | Debbie Fuller (CAN)            |                437.04 |                  11 |          450.99 |
+|  8 |      9 | Jennifer Donnet (AUS)          |                432.78 |                  12 |          443.13 |
+|  9 |     10 | Daphne Jongejans (NED)         |                487.95 |                   4 |          437.4  |
+| 10 |     11 | Anita Rossing (SWE)            |                464.58 |                   7 |          424.98 |
+| 11 |     12 | Verónica Ribot (ARG)          |                443.25 |                   9 |          422.52 |
+| 12 |     13 | Ann Fargher (NZL)              |                421.65 |                  13 |          nan    |
+| 13 |     14 | Tine Tollan (NOR)              |                419.55 |                  14 |          nan    |
+| 14 |     15 | Antonette Wilken (ZIM)         |                414.66 |                  15 |          nan    |
+| 15 |     16 | Guadalupe Canseco (MEX)        |                411.96 |                  16 |          nan    |
+| 16 |     17 | Claire Izacard (FRA)           |                403.17 |                  17 |          nan    |
+| 17 |     18 | Valerie McFarland-Beddoe (AUS) |                401.13 |                  18 |          nan    |
+| 18 |     19 | Alison Childs (GBR)            |                400.68 |                  19 |          nan    |
+| 19 |     20 | Kerstin Finke (FRG)            |                393.93 |                  20 |          nan    |
+| 20 |     21 | Nicole Kreil (AUT)             |                382.68 |                  21 |          nan    |
+| 21 |     22 | Joana Figueiredo (POR)         |                374.07 |                  22 |          nan    |
+| 22 |     23 | Angela Ribeiro (BRA)           |                370.68 |                  23 |          nan    |
+| 23 |     24 | Rim Hassan (EGY)               |                258.63 |                  24 |          nan    |
+===================Question===================
+which athlete had the least final points?
+===================Text===================
+<think>
+Alright, I need to figure out which athlete had the least final points in the given table for the Women's 3 metre springboard event at the 1984 Summer Olympics. Let me start by understanding the structure of the table.
+
+Looking at the headers, there are columns for Rank, Diver, Preliminary Points, Preliminary Rank, and Final Points. My focus is on the "Final Points" column to determine who has the lowest score.
+
+First, I'll scan through each row's final points. It seems like some entries have 'nan', which probably stands for 'not a number' or missing data. That might mean those athletes didn't make it to the finals, so their final points aren't applicable. Therefore, I should focus only on the rows where "Final Points" are numerical values.
+
+Let me list out the divers and their corresponding final points:
+
+1. Sylvie Bernier (CAN) - 530.7
+2. Kelly McCormick (USA) - 527.46
+3. Christina Seufert (USA) - 517.62
+4. Li Yihua (CHN) - 506.52
+5. Li Qiaoxian (CHN) - 487.68
+6. Elsa Tenorio (MEX) - 463.56
+7. Lesley Smith (ZIM) - 451.89
+8. Debbie Fuller (CAN) - 450.99
+9. Jennifer Donnet (AUS) - 443.13
+10. Daphne Jongejans (NED) - 437.4
+11. Anita Rossing (SWE) - 424.98
+12. Verónica Ribot (ARG) - 422.52
+
+Wait, that's 12 divers, but the table goes up to 24 entries. Looking back, from row 13 onwards, the "Final Points" column has 'nan', meaning those divers didn't have final points recorded—they probably didn't qualify for the finals.
+
+So, among the first 12, I need to find who has the lowest number in the Final Points. Let me go through each one:
+
+1. Sylvie Bernier: 530.7 → high
+2. Kelly McCormick: 527.46 → also high
+3. Christina Seufert: 517.62 → lower than first two but still high
+4. Li Yihua: 506.52 → lower again
+5. Li Qiaoxian: 487.68
+6. Elsa Tenorio: 463.56
+7. Lesley Smith: 451.89
+8. Debbie Fuller: 450.99
+9. Jennifer Donnet: 443.13
+10. Daphne Jongejans: 437.4
+11. Anita Rossing: 424.98
+12. Verónica Ribot: 422.52
+
+From this list, the numbers keep getting lower as I go down. So the smallest number is 422.52 by Verónica Ribot from Argentina.
+
+Wait, but let me make sure I didn't miss anyone. After row 12, all have 'nan' in Final Points, so they aren't in the finals. Therefore, among those who did compete in the finals, Verónica Ribot has the least final points.
+</think>
+
+Final Answer: Verónica Ribot
+===================Answer===================
+Verónica Ribot (ARG)

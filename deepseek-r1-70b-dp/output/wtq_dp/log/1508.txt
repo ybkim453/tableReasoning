@@ -1,0 +1,65 @@
+===================Title===================
+Cypriot presidential election, 2013
+===================Table===================
+|    | Polling Firm               | Source          | Date Published    | N.Anastasiades   | G.Lillikas   | S.Malas   | Others   |
+|---:|:---------------------------|:----------------|:------------------|:-----------------|:-------------|:----------|:---------|
+|  0 | RAI Consultants            | [1][dead link]  | 16 September 2012 | 37.2%            | 14.2%        | 21.9%     | 1.5%     |
+|  1 | Evresis                    | [2]             | 18 September 2012 | 35.2%            | 17.5%        | 19.7%     | 1.7%     |
+|  2 | Noverna                    | [3]             | 23 September 2012 | 35.02%           | 15.81%       | 17.78%    | nan      |
+|  3 | Prime Consulting Ltd       | [4]             | 7 October 2012    | 34.7%            | 17.4%        | 18.5%     | nan      |
+|  4 | CMR Cypronetwork / Cybc    | [5][dead link]  | 18 October 2012   | 36.9%            | 17%          | 23.8%     | 1.2%     |
+|  5 | Evresis                    | [6]             | 2 November 2012   | 36.9%            | 17.7%        | 20.6%     | 1.4%     |
+|  6 | RAI Consultants            | [7]             | 4 November 2012   | 38.8%            | 19.8%        | 21.1%     | 2.3%     |
+|  7 | CMR Cypronetwork / Cybc    | [8]             | 15 November 2012  | 36.8%            | 18.9%        | 22.8%     | 1.6%     |
+|  8 | Prime Consulting Ltd       | [9]             | 18 November 2012  | 35.9%            | 18.7%        | 19.6%     | 0.6%     |
+|  9 | Evresis                    | [10]            | 27 November 2012  | 37.1%            | 19.6%        | 20.8%     | 0.6%     |
+| 10 | Noverna                    | [11]            | 2 December 2012   | 35.6%            | 17.2%        | 18.1%     | 4.1%     |
+| 11 | Prime Consulting Ltd       | [12]            | 3 December 2012   | 35%              | 19.1%        | 18.6%     | 1.4%     |
+| 12 | CMR Cypronetwork / Cybc    | [13][dead link] | 17 December 2012  | 37.1%            | 20.4%        | 23.1%     | 3.1%     |
+| 13 | Evresis                    | [14]            | 22 December 2012  | 37.4%            | 19.8%        | 21.8%     | 0.5%     |
+| 14 | RAI Consultants Ltd        | [15][dead link] | 13 January 2013   | 40.3%            | 17.9%        | 20.5%     | 6.1%     |
+| 15 | CMR Cypronetwork / Cybc    | [16]            | 17 January 2013   | 38%              | 19.7%        | 23.7%     | 2.7%     |
+| 16 | Prime Consulting Ltd       | [17]            | 27 January 2013   | 39.2%            | 18.8%        | 19.8%     | 4%       |
+| 17 | Evresis                    | [18]            | 1 February 2013   | 40.8%            | 19.9%        | 22.2%     | 2.5%     |
+| 18 | Prime Consulting Ltd       | [19]            | 4 February 2013   | 39.8%            | 19.3%        | 20%       | 3%       |
+| 19 | Prime Consulting Ltd       | [20]            | 9 February 2013   | 40.6%            | 19.6%        | 20.4%     | 2.9%     |
+| 20 | RAI Consultants Ltd        | [21]            | 9 February 2013   | 42.1%            | 19.4%        | 21.1%     | 4.4%     |
+| 21 | CMR Cypronetwork / Cybc    | [22]            | 9 February 2013   | 39.9%            | 20.2%        | 24.2%     | 3%       |
+| 22 | Average (only valid votes) | –               | –                 | 48.4%            | 22.52%       | 25.29%    | 3.79%    |
+===================Question===================
+which poll did anastasiades win by a larger margin, feb 1 2013 or dec 3 2012?
+===================Text===================
+<think>
+Okay, so I need to figure out which poll Anastasiades won by a larger margin between February 1, 2013, and December 3, 2012. Let me start by understanding what the table provides.
+
+Looking at the table columns: Polling Firm, Date Published, N.Anastasiades, G.Lillikas, S.Malas, Others. Each row represents a different poll conducted on various dates, showing the percentages each candidate got.
+
+First, I need to identify which rows correspond to February 1, 2013, and December 3, 2012. Scanning through the Date Published column:
+
+- For December 3, 2012, that's row 11, because it says "Prime Consulting Ltd" on Dec 3.
+- For February 1, 2013, that's row 17, since Evresis conducted a poll on Feb 1.
+
+Now, I need to look at Anastasiades' percentages in these two polls.
+
+In row 11 (Dec 3), Anastasiades has 35%, and his main competitor is S. Malas with 18.6%. Wait, no, actually looking again: N.Anastasiades is 35%, G.Lillikas is 19.1%, and S.Malas is 18.6%. Others are 1.4%. So the total for others isn't too high.
+
+In row 17 (Feb 1), Anastasiades has 40.8%, G.Lillikas at 19.9%, Malas at 22.2%, and others 2.5%.
+
+Wait, but to find the margin by which Anastasiades won, I think it's about his lead over the next closest competitor.
+
+So in Dec 3 poll (row11), Anastasiades is at 35%. The second place would be G.Lillikas with 19.1%, so the margin is 35 - 19.1 = 15.9%.
+
+In Feb 1 poll (row17), Anastasiades has 40.8%, and next is S.Malas with 22.2%. So the margin here is 40.8 - 22.2 = 18.6%.
+
+Comparing both margins: Dec 3 margin is 15.9%, Feb 1 is 18.6%. Therefore, Anastasiades won by a larger margin in the Feb 1 poll.
+
+Alternatively, maybe some people consider the margin from all other candidates combined, but typically it's the lead over the runner-up.
+
+So yes, the February 1 poll shows a bigger margin.
+</think>
+
+Anastasiades had a larger margin of victory in the February 1, 2013 poll compared to December 3, 2012. 
+
+Final Answer: Feb 1 2013
+===================Answer===================
+1 February 2013

@@ -1,0 +1,68 @@
+===================Title===================
+List of awards and nominations received by Charlie Sheen
+===================Table===================
+|    |   Year | Result    | Award                                                                                      | Film                 |
+|---:|-------:|:----------|:-------------------------------------------------------------------------------------------|:---------------------|
+|  0 |   1989 | Won       | Bronze Wrangler Theatrical Motion Picture                                                  | Young Guns           |
+|  1 |   1999 | Nominated | SAG Award Outstanding Performance by a Cast in a Theatrical Motion Picture                 | Being John Malkovich |
+|  2 |   1999 | Nominated | Online Film Critics Society Award for Best Cast                                            | Being John Malkovich |
+|  3 |   2001 | Nominated | ALMA Award Outstanding Actor in a Television Series                                        | Spin City            |
+|  4 |   2002 | Nominated | ALMA Award Outstanding Actor in a Television Series                                        | Spin City            |
+|  5 |   2002 | Won       | Golden Globe Award Best Performance by an Actor in a Television Series - Musical or Comedy | Spin City            |
+|  6 |   2002 | Nominated | Kids' Choice Awards Favorite Television Actor                                              | Two and a Half Men   |
+|  7 |   2005 | Nominated | SAG Award Outstanding Performance by a Male Actor in a Comedy Series                       | Two and a Half Men   |
+|  8 |   2005 | Nominated | Golden Globe Award for Best Actor – Television Series Musical or Comedy                    | Two and a Half Men   |
+|  9 |   2006 | Won       | Golden Icon Award Best Actor - Comedy Series                                               | Two and a Half Men   |
+| 10 |   2006 | Nominated | Emmy Award for Outstanding Lead Actor - Comedy Series                                      | Two and a Half Men   |
+| 11 |   2006 | Nominated | Golden Globe Award for Best Actor – Television Series Musical or Comedy                    | Two and a Half Men   |
+| 12 |   2007 | Nominated | People's Choice Award Favorite Male TV Star                                                | nan                  |
+| 13 |   2007 | Nominated | Teen Choice Award Choice TV Actor: Comedy                                                  | Two and a Half Men   |
+| 14 |   2007 | Nominated | Emmy Award for Outstanding Lead Actor - Comedy Series                                      | Two and a Half Men   |
+| 15 |   2008 | Nominated | People's Choice Award Favorite Male TV Star                                                | nan                  |
+| 16 |   2008 | Nominated | Teen Choice Awards Choice TV Actor: Comedy                                                 | Two and a Half Men   |
+| 17 |   2008 | Nominated | Outstanding Lead Actor - Comedy Series                                                     | Two and a Half Men   |
+| 18 |   2008 | Won       | ALMA Award Outstanding Actor in a Comedy Television Series                                 | Two and a Half Men   |
+| 19 |   2010 | Nominated | SAG Award Outstanding Performance by a Male Actor in a Comedy Series                       | Two and a Half Men   |
+| 20 |   2012 | Won       | WWE Slammy Award Top Social Media Ambassador                                               | WWE Raw              |
+===================Question===================
+how many times was a nomination awarded?
+===================Text===================
+<think>
+Alright, I'm trying to figure out how many times a nomination was awarded based on Charlie Sheen's awards and nominations table.
+
+First, I need to understand what the question is asking. It says, "how many times was a nomination awarded?" Hmm, that wording is a bit confusing because typically, a nomination doesn't get awarded; instead, you can either be nominated or win an award. So maybe it's asking how many times Charlie Sheen won after being nominated?
+
+Looking at the table, each row represents either a win or a nomination. The columns are Year, Result, Award, and Film.
+
+I notice that in the "Result" column, some entries say "Won" and others say "Nominated." So I need to count how many times Charlie Sheen actually won an award because that would be when he was awarded after being nominated.
+
+Let's go through each row:
+
+- Row 0: Result is "Won" → That's a win.
+- Row 1: "Nominated"
+- Row 2: "Nominated"
+- Row 3: "Nominated"
+- Row 4: "Nominated"
+- Row 5: "Won" → Another win.
+- Rows 6 to 20: I'll check each one. It seems that after row 0 and row 5, there are a few more wins.
+
+Wait, let me list them out properly:
+
+Looking at all the rows from 0 to 20:
+
+Row 0: Won
+Row 5: Won
+Row 9: Won (Golden Icon Award)
+Row 18: Won (ALMA Award)
+Row 20: Won (WWE Slammy Award)
+
+So that's a total of 5 wins. Each win means he was awarded, so the number of times a nomination resulted in an award is 5.
+
+Wait, but I should make sure if all these "Won" entries are after being nominated. Since each entry is either won or nominated, and there's no separate nomination count per award, each "Won" would imply that he was first nominated and then awarded. So yes, the number of times he was awarded from nominations is equal to the number of "Won" results.
+
+So counting all the "Won" entries: Rows 0, 5,9,18,20 → That's 5 wins.
+</think>
+
+Final Answer: 5
+===================Answer===================
+5

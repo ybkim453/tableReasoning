@@ -1,0 +1,42 @@
+===================Title===================
+2006 IAAF World Indoor Championships – Men's high jump
+===================Table===================
+|    |   Rank | Athlete            | Nationality    | 2.15   | 2.20   | 2.24   | 2.27   |   Result | Notes   |
+|---:|-------:|:-------------------|:---------------|:-------|:-------|:-------|:-------|---------:|:--------|
+|  0 |      1 | Yaroslav Rybakov   | Russia         | o      | o      | o      | o      |     2.27 | q       |
+|  1 |      1 | Andriy Sokolovskyy | Ukraine        | o      | o      | o      | o      |     2.27 | q       |
+|  2 |      1 | Stefan Holm        | Sweden         | o      | o      | o      | o      |     2.27 | q       |
+|  3 |      1 | Andrey Tereshin    | Russia         | o      | o      | o      | o      |     2.27 | q       |
+|  4 |      1 | Víctor Moya       | Cuba           | o      | o      | o      | o      |     2.27 | q, PB   |
+|  5 |      1 | Linus Thörnblad   | Sweden         | o      | o      | o      | o      |     2.27 | q       |
+|  6 |      7 | Giulio Ciotti      | Italy          | o      | o      | o      | xxx    |     2.24 | q       |
+|  7 |      8 | Robert Wolski      | Poland         | xo     | o      | o      | xxx    |     2.24 | q       |
+|  8 |      9 | Ramsay Carelse     | South Africa   | xo     | xo     | o      | xxx    |     2.24 | nan     |
+|  9 |     10 | Tora Harris        | United States  | o      | o      | xo     | xxx    |     2.24 | nan     |
+| 10 |     10 | Nicola Ciotti      | Italy          | o      | o      | xo     | xxx    |     2.24 | nan     |
+| 11 |     10 | Wojciech Theiner   | Poland         | o      | o      | xo     | xxx    |     2.24 | nan     |
+| 12 |     13 | Tomáš Janku      | Czech Republic | o      | o      | xxo    | xxx    |     2.24 | nan     |
+| 13 |     13 | Mustapha Raifak    | France         | o      | o      | xxo    | xxx    |     2.24 | nan     |
+| 14 |     15 | Svatoslav Ton      | Czech Republic | o      | xo     | xxx    | nan    |     2.2  | nan     |
+| 15 |     16 | Adam Shunk         | United States  | o      | xxx    | nan    | 2.15   |   nan    | nan     |
+| 16 |     16 | Roman Fricke       | Germany        | o      | xxx    | nan    | 2.15   |   nan    | nan     |
+===================Question===================
+how many russian competitors qualified?
+===================Text===================
+<think>
+Alright, so I need to figure out how many Russian competitors qualified based on the provided table for the 2006 IAAF World Indoor Championships – Men's high jump.
+
+First, I'll look through each row of the table and identify which athletes are from Russia. The Nationality column should help with that. 
+
+Looking at the first row, Rank 1 is Yaroslav Rybakov from Russia. He cleared all the heights up to 2.27 with 'o', which means he successfully cleared them on his first attempt. His result is 2.27 and he has a note 'q', which I think stands for qualified.
+
+Next, at Row 3 (Rank 1), there's Andrey Tereshin also from Russia. He too jumped up to 2.27 with all successful attempts marked as 'o' and his note says 'q'. So that's another Russian qualifier.
+
+I'll continue scanning the rest of the table just to make sure I don't miss any other Russians. Rows 4 is Victor Moya from Cuba, so not Russia. Row 5 is Linus Thornblad from Sweden. Then looking through rows 6 to 16, I see competitors from Italy, Poland, South Africa, USA, Czech Republic, France, and Germany. None of these are from Russia.
+
+So that's it. Only two athletes: Yaroslav Rybakov and Andrey Tereshin. Both cleared the same height with 'o' at each attempt and have the 'q' note, which indicates they qualified.
+</think>
+
+Final Answer: 2
+===================Answer===================
+2

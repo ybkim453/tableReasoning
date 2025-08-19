@@ -1,0 +1,80 @@
+===================Title===================
+Divya Prabandha
+===================Table===================
+|    |   Sl no | Name of the prabandham   |   Starting from |   Ending with |   Number of pasurams | Sung by               |
+|---:|--------:|:-------------------------|----------------:|--------------:|---------------------:|:----------------------|
+|  0 |       1 | Periazhvar Thirumozhi    |               1 |           473 |                  473 | Periyalvar            |
+|  1 |       2 | Thiruppavai              |             474 |           503 |                   30 | Aandaal               |
+|  2 |       3 | Nachiar Tirumozhi        |             504 |           646 |                  143 | Aandaal               |
+|  3 |       4 | Perumal Thirumozhi       |             647 |           751 |                  105 | Kulasekara alvar      |
+|  4 |       5 | Thiruchchanda Viruththam |             752 |           871 |                  120 | Thirumalisai alvar    |
+|  5 |       6 | Thirumalai               |             872 |           916 |                   45 | Thondaradippodi alvar |
+|  6 |       7 | Thiruppalliyezhuchchi    |             917 |           926 |                   10 | Thondaradippodi alvar |
+|  7 |       8 | Amalanadhi piran         |             927 |           936 |                   10 | Thiruppaan alvar      |
+|  8 |       9 | Kanni Nun Siruththambu   |             937 |           947 |                   11 | Madhurakavi Alvar     |
+|  9 |      10 | Peria Thirumozhi         |             948 |          2031 |                 1084 | Thirumangai alvar     |
+| 10 |      11 | Kurun Thandagam          |            2032 |          2051 |                   20 | Thirumangai alvar     |
+| 11 |      12 | Nedum Thandagam          |            2052 |          2081 |                   30 | Thirumangai alvar     |
+| 12 |      13 | Mudhal Thiruvandhadhi    |            2082 |          2181 |                  100 | Poigai Alvar          |
+| 13 |      14 | Irandam Thiruvandhadhi   |            2182 |          2281 |                  100 | Bhoothathalvar        |
+| 14 |      15 | Moonram Thiruvandhadhi   |            2282 |          2381 |                  100 | Peyalvar              |
+| 15 |      16 | Naanmugan Thiruvandhadhi |            2382 |          2477 |                   96 | Thirumalisai alvar    |
+| 16 |      17 | Thiruviruththam          |            2478 |          2577 |                  100 | Nammalvar             |
+| 17 |      18 | Thiruvasiriyam           |            2578 |          2584 |                    7 | Nammalvar             |
+| 18 |      19 | Peria Thiruvandhadhi     |            2585 |          2671 |                   87 | Nammalvar             |
+| 19 |      20 | Thiruvezhukkurrirukkai   |            2672 |          2672 |                    1 | Thirumangai alvar     |
+| 20 |      21 | Siriya Thirumadal        |            2673 |          2673 |                    1 | Thirumangai alvar     |
+| 21 |      22 | Peria Thirumadal         |            2674 |          2674 |                    1 | Thirumangai alvar     |
+| 22 |      23 | Thiruvay Mozhi           |            2674 |          3776 |                 1102 | Nammalvar             |
+| 23 |     nan | Total number of pasurams |             nan |           nan |                 3776 | nan                   |
+===================Question===================
+name the prabandham with the most number of pasurams
+===================Text===================
+<think>
+Alright, I need to figure out which prabandham has the most number of pasurams from the given table. Let's start by understanding what each column represents.
+
+The table lists various prabandhams with their starting and ending numbers, along with the number of pasurams each has. My task is to find the one with the highest count of pasurams.
+
+Looking at the columns:
+
+- "Name of the prabandham": This tells me the name of each work.
+- "Number of pasurams": This is the key column I need to focus on because it directly gives the count for each prabandham.
+
+I should go through each row and note down the number of pasurams for comparison. Let's list them out:
+
+1. Periazhvar Thirumozhi: 473
+2. Thiruppavai: 30
+3. Nachiar Tirumozhi: 143
+4. Perumal Thirumozhi: 105
+5. Thiruchchanda Viruththam: 120
+6. Thirumalai: 45
+7. Thiruppalliyezhuchchi: 10
+8. Amalanadhi piran: 10
+9. Kanni Nun Siruththambu: 11
+10. Peria Thirumozhi: 1084
+11. Kurun Thandagam: 20
+12. Nedum Thandagam: 30
+13. Mudhal Thiruvandhadhi: 100
+14. Irandam Thiruvandhadhi: 100
+15. Moonram Thiruvandhadhi: 100
+16. Naanmugan Thiruvandhadhi: 96
+17. Thiruviruththam: 100
+18. Thiruvasiriyam: 7
+19. Peria Thiruvandhadhi: 87
+20. Thiruvezhukkurrirukkai: 1
+21. Siriya Thirumadal: 1
+22. Peria Thirumadal: 1
+23. Thiruvay Mozhi: 1102
+
+Now, I'll identify the highest number here. Looking through the list:
+
+- The first one has 473.
+- Then there's a jump to 1084 at number 10.
+- Finally, at number 23, it goes up to 1102.
+
+So, Thiruvay Mozhi with 1102 pasurams is higher than Peria Thirumozhi's 1084. Therefore, the prabandham with the most pasurams is Thiruvay Mozhi.
+</think>
+
+Final Answer: Thiruvay Mozhi
+===================Answer===================
+Thiruvay Mozhi

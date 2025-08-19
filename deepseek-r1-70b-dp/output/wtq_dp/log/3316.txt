@@ -1,0 +1,53 @@
+===================Title===================
+1987 Kansas City Chiefs season
+===================Table===================
+|    | Week   | Date               | Opponent               | Result   | Attendance   |
+|---:|:-------|:-------------------|:-----------------------|:---------|:-------------|
+|  0 | 1      | September 13, 1987 | San Diego Chargers     | W 20–13  | 56,940       |
+|  1 | 2      | September 20, 1987 | at Seattle Seahawks    | L 43–14  | 61,667       |
+|  2 | –      | September 27, 1987 | Minnesota Vikings      | canceled | nan          |
+|  3 | 3      | October 4, 1987    | at Los Angeles Raiders | L 35–17  | 10,708       |
+|  4 | 4      | October 11, 1987   | at Miami Dolphins      | L 42–0   | 25,867       |
+|  5 | 5      | October 18, 1987   | Denver Broncos         | L 26–17  | 20,296       |
+|  6 | 6      | October 25, 1987   | at San Diego Chargers  | L 42–21  | 47,972       |
+|  7 | 7      | November 1, 1987   | at Chicago Bears       | L 31–28  | 63,498       |
+|  8 | 8      | November 8, 1987   | Pittsburgh Steelers    | L 17–16  | 45,249       |
+|  9 | 9      | November 15, 1987  | New York Jets          | L 16–9   | 40,718       |
+| 10 | 10     | November 22, 1987  | Green Bay Packers      | L 23–3   | 34,611       |
+| 11 | 11     | November 26, 1987  | at Detroit Lions       | W 27–20  | 43,820       |
+| 12 | 12     | December 6, 1987   | at Cincinnati Bengals  | L 30–27  | 46,489       |
+| 13 | 13     | December 13, 1987  | Los Angeles Raiders    | W 16–10  | 63,834       |
+| 14 | 14     | December 19, 1987  | at Denver Broncos      | L 20–17  | 75,053       |
+| 15 | 15     | December 27, 1987  | Seattle Seahawks       | W 41–20  | 20,370       |
+===================Question===================
+what is the total number wins for the season ?
+===================Text===================
+<think>
+Okay, so I need to figure out how many wins the Kansas City Chiefs had in their 1987 season based on this table. Let me see... The table lists each week with the date, opponent, result, and attendance. My task is to count the number of times they won a game.
+
+Looking at each row:
+
+- Week 1: Result is W 20–13, so that's a win.
+- Week 2: L 43–14, so a loss.
+- Week 3: It says "canceled", not sure how to handle that. Maybe it doesn't count as a win or loss.
+- Week 4: L 35–17, another loss.
+- Week 5: L 26–17, loss again.
+- Week 6: L 42–21, still a loss.
+- Week 7: L 31–28, close game but another loss.
+- Week 8: L 17–16, very close, yet another loss.
+- Week 9: L 16–9, loss number nine I think so far.
+- Week 10: L 23–3, that's a big loss.
+- Week 11: W 27–20, win again. So two wins now.
+- Week 12: L 30–27, another loss.
+- Week 13: W 16–10, third win.
+- Week 14: L 20–17, close but a loss.
+- Week 15: W 41–20, that's the fourth win.
+
+Wait, let me recount. So weeks 1, 11, 13, and 15 are wins. That makes four total wins. Also, week 3 was canceled because of the players' strike in 1987, so it shouldn't be counted either way.
+
+I think I'm confident now that they had four wins that season.
+</think>
+
+Final Answer: 4
+===================Answer===================
+4

@@ -1,0 +1,55 @@
+===================Title===================
+Swimming at the 2005 Mediterranean Games
+===================Table===================
+|    | Rank   | Nation   |   Gold |   Silver |   Bronze |   Total |
+|---:|:-------|:---------|-------:|---------:|---------:|--------:|
+|  0 | 1      | France   |     14 |        7 |        7 |      28 |
+|  1 | 2      | Italy    |     12 |        8 |       10 |      30 |
+|  2 | 3      | Slovenia |      5 |        4 |        3 |      12 |
+|  3 | 4      | Spain    |      4 |       14 |        6 |      24 |
+|  4 | 5      | Greece   |      3 |        4 |        9 |      16 |
+|  5 | 6      | Tunisia  |      3 |        0 |        0 |       3 |
+|  6 | 7      | Algeria  |      2 |        0 |        2 |       4 |
+|  7 | 8      | Croatia  |      0 |        3 |        3 |       6 |
+|  8 | 9      | Egypt    |      0 |        1 |        2 |       3 |
+|  9 | Total  | Total    |     43 |       41 |       42 |     126 |
+===================Question===================
+croatia and what other country did not receive any gold medals?
+===================Text===================
+<think>
+Alright, so I need to figure out which countries besides Croatia didn't receive any gold medals in swimming at the 2005 Mediterranean Games based on the provided table. Let me break this down step by step.
+
+First, let's look at the table structure:
+
+- Each row represents a country and their medal counts: Gold, Silver, Bronze, and Total.
+- The countries listed are France, Italy, Slovenia, Spain, Greece, Tunisia, Algeria, Croatia, Egypt, and then there's a total row.
+
+The question is specifically about which countries did not get any gold medals besides Croatia. So I need to find all the countries in this table that have zero gold medals.
+
+Looking at each country:
+
+1. France: 14 Gold
+2. Italy: 12 Gold
+3. Slovenia: 5 Gold
+4. Spain: 4 Gold
+5. Greece: 3 Gold
+6. Tunisia: 3 Gold
+7. Algeria: 2 Gold
+8. Croatia: 0 Gold
+9. Egypt: 0 Gold
+10. Total: 43 Gold (but this is just the sum, not a country)
+
+So focusing on each country's Gold column:
+
+- France has 14, so they have golds.
+- Italy with 12, definitely has them.
+- Slovenia has 5, Spain with 4, Greece and Tunisia both at 3, Algeria with 2. All these countries have some gold medals.
+
+Now, looking at Croatia and Egypt: both have 0 in the Gold column. So that means neither of them won any gold medals.
+
+The question is asking for "Croatia and what other country..." so I need to identify the other country besides Croatia without any golds. From the table, it's clear that Egypt is the other one with zero golds.
+</think>
+
+Final Answer: Croatia, Egypt
+===================Answer===================
+Egypt

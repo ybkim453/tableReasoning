@@ -1,0 +1,42 @@
+===================Title===================
+Imparja Cup
+===================Table===================
+|    |   Year | State/Territory Men's Division   | State/Territory Women's Division   | Major Centres Division   | Community Division   | Women's Division   |
+|---:|-------:|:---------------------------------|:-----------------------------------|:-------------------------|:---------------------|:-------------------|
+|  0 |   2012 | Queensland                       | New South Wales                    | nan                      | nan                  | nan                |
+|  1 |   2012 | New South Wales                  | New South Wales                    | Darwin                   | Brothers in Arms     | Bush Potatoes      |
+|  2 |   2011 | New South Wales                  | New South Wales                    | Maranoa Murris           | Gap Angels           | Bush Potatoes      |
+|  3 |   2010 | Western Australia                | nan                                | nan                      | nan                  | nan                |
+|  4 |   2009 | Queensland                       | nan                                | Alkupitja                | Tangentyere          | New South Wales    |
+|  5 |   2008 | Queensland                       | nan                                | Katherine                | Cooktown             | New South Wales    |
+|  6 |   2007 | New South Wales                  | nan                                | Alkupitja                | Cat Tigers           | CGA Cougars        |
+|  7 |   2006 | Queensland                       | nan                                | Alice Springs            | Melville Island      | Darwin             |
+|  8 |   2005 | Queensland                       | nan                                | Alice Springs            | Alkupitja            | Darwin             |
+|  9 |   2004 | Queensland                       | nan                                | Alice Springs            | Normanton            | Tennant Creek      |
+| 10 |   2003 | New South Wales                  | nan                                | Darwin                   | nan                  | nan                |
+| 11 |   2002 | Northern Territory               | nan                                | Darwin                   | nan                  | nan                |
+| 12 |   2001 | Tasmania                         | nan                                | nan                      | nan                  | nan                |
+===================Question===================
+are the years listed in consecutive order or are they not?
+===================Text===================
+<think>
+Alright, I'm trying to figure out if the years in the Imparja Cup table are listed in consecutive order or not. Let me start by looking at the data provided.
+
+First, I'll list all the years from the table to see their sequence:
+
+2012, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001.
+
+Wait a minute, I notice that the first two entries are both for the year 2012. That's a bit odd because it skips from 2012 to 2012 again before going back to 2011 and then proceeding backward each year until 2001. So the years aren't in a straightforward ascending or descending order.
+
+Let me check if there are any missing years between 2001 and 2012. The years present are: 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001. So from 2001 to 2012, all the years are covered except for some duplicates.
+
+Wait, but looking at it again, the first two entries are both 2012, which isn't consecutive order because they repeat before moving on to 2011. Then from 2011 onward, each subsequent year decreases by one, so that part is consecutive in reverse. But since the initial years aren't sequential and there's a repetition, it disrupts the overall consecutiveness.
+
+Therefore, the years are not listed in consecutive order because they start with two 2012s before going back to 2011, which breaks the sequence.
+</think>
+
+The years listed are not in consecutive order due to repetition at the beginning and then continuing backward without maintaining a strict sequential pattern each year after that.
+
+Final Answer: No
+===================Answer===================
+Yes

@@ -1,0 +1,37 @@
+===================Title===================
+2011 European Team Championships Super League
+===================Table===================
+|    |   Rank | Name                 | Nationality    | Time    | Notes   |   Points |
+|---:|-------:|:---------------------|:---------------|:--------|:--------|---------:|
+|  0 |      1 | Adam Kszczot         | Poland         | 1:46.50 | nan     |       12 |
+|  1 |      2 | Jeff Lastennet       | France         | 1:46.70 | nan     |       11 |
+|  2 |      3 | Gareth Warburton     | Great Britain  | 1:46.95 | SB      |       10 |
+|  3 |      4 | Mario Scapini        | Italy          | 1:47.20 | PB      |        9 |
+|  4 |      5 | Anis Ananenka        | Belarus        | 1:47.29 | nan     |        8 |
+|  5 |      6 | Oleh Kayafa          | Ukraine        | 1:47.42 | nan     |        7 |
+|  6 |      7 | Joni Jaako           | Sweden         | 1:47.61 | SB      |        6 |
+|  7 |      8 | Robin Schembera      | Germany        | 1:47.79 | nan     |        5 |
+|  8 |      9 | Ivan Tukhtachev      | Russia         | 1:48.27 | SB      |        4 |
+|  9 |     10 | Antonio Manuel Reina | Spain          | 1:48.56 | nan     |        3 |
+| 10 |     11 | António Rodrigues   | Portugal       | 1:50.45 | nan     |        2 |
+| 11 |     12 | Milan Kocourek       | Czech Republic | 1:59.28 | nan     |        1 |
+===================Question===================
+whose name is listed after joni jaako?
+===================Text===================
+<think>
+Okay, so I need to figure out whose name comes after Joni Jaako in this table. Let me start by looking at the structure of the table provided.
+
+The table has several columns: Rank, Name, Nationality, Time, Notes, and Points. Each row represents an athlete's performance. The first step is to locate Joni Jaako within this table.
+
+Looking through the "Name" column, I spot Joni Jaako in row 6. His rank is 7th place, which makes sense since the ranks start at 1 and go up to 12. Now, the question is asking who is listed after him. That means I need to check the next row after his.
+
+So, moving down from row 6, the next one would be row 7. Let me see what's there. Row 7 has Robin Schembera from Germany with rank 8. Wait, but wait, actually, looking at the "Rank" column, I notice that the ranks go from 1 to 12, and each name is listed in order of their performance, which seems to be based on their times.
+
+But I just need to look at the order as presented in the table. So after Joni Jaako (row 6), row 7 comes next. The Name there is Robin Schembera. Therefore, his name is right after Joni's.
+
+Alternatively, maybe I should consider that sometimes tables might be sorted differently, but in this case, it seems to be ordered by rank from 1 to 12 with each subsequent name following the previous one. So yes, after Joni Jaako comes Robin Schembera.
+</think>
+
+Final Answer: Robin Schembera
+===================Answer===================
+Robin Schembera

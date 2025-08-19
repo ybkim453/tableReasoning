@@ -1,0 +1,87 @@
+===================Title===================
+List of international cricket centuries at Eden Gardens
+===================Table===================
+|    |   No. | Score   | Player             | Team         |   Balls |   Inns. | Opposing team   | Date             | Result   |
+|---:|------:|:--------|:-------------------|:-------------|--------:|--------:|:----------------|:-----------------|:---------|
+|  0 |     1 | 123     | Kris Srikkanth     | India        |     103 |       1 | Pakistan        | 18 February 1987 | Lost     |
+|  1 |     2 | 107*    | Desmond Haynes     | West Indies  |     137 |       1 | Pakistan        | 1 November 1989  | Lost     |
+|  2 |     3 | 100*    | Sachin Tendulkar   | India        |     103 |       2 | Kenya           | 31 May 1998      | Won      |
+|  3 |     4 | 121     | Marcus Trescothick | England      |     109 |       2 | India           | 19 January 2002  | Lost     |
+|  4 |     5 | 108*    | Salman Butt        | Pakistan     |     130 |       2 | India           | 13 November 2004 | Won      |
+|  5 |     6 | 134*    | Graeme Smith       | South Africa |     124 |       2 | India           | 25 November 2005 | Won      |
+|  6 |     7 | 118     | Upul Tharanga      | Sri Lanka    |     128 |       1 | India           | 24 December 2009 | Lost     |
+|  7 |     8 | 150*    | Gautam Gambhir     | India        |     137 |       2 | Sri Lanka       | 24 December 2009 | Won      |
+|  8 |     9 | 107     | Virat Kohli        | India        |     114 |       2 | Sri Lanka       | 24 December 2009 | Won      |
+|  9 |    10 | 106     | Ryan ten Doeschate | Netherlands  |     108 |       1 | Ireland         | 18 March 2011    | Lost     |
+| 10 |    11 | 101     | Paul Stirling      | Ireland      |      72 |       2 | Netherlands     | 18 March 2011    | Won      |
+| 11 |    12 | 106     | Nasir Jamshed      | Pakistan     |     124 |       1 | India           | 3 January 2013   | Won      |
+===================Question===================
+which opponent shows up the most consecutive times?
+===================Text===================
+<think>
+Okay, I need to figure out which opponent appears the most consecutive times in the given table of cricket centuries at Eden Gardens. Let's start by understanding the problem.
+
+First, looking at the table, each row represents a century scored by different players against various opposing teams. The key here is to look at the "Opposing team" column and see how many times each opponent appears consecutively in the list.
+
+I'll go through each entry one by one:
+
+1. **Row 0**: Opponent is Pakistan.
+2. **Row 1**: Opponent is Pakistan again.
+3. **Row 2**: Now, it's Kenya. So, Pakistan appeared twice consecutively (rows 0 and 1), then switched to Kenya in row 2.
+4. **Row 3**: Opponent is India.
+5. **Row 4**: Opponent is back to India again. So, India has two consecutive entries here (rows 3 and 4).
+6. **Row 5**: Opponent remains India once more. Now, that's three times in a row for India (rows 3,4,5).
+7. **Row 6**: Opponent switches to India as well? Wait no, looking back: Row 6 is against India, so it's the fourth time in a row.
+8. **Row 7**: Opponent is Sri Lanka now. So, the consecutive run for India stops at four after row 6.
+9. **Row 8**: Sri Lanka again, making two consecutive entries (rows 7 and 8).
+10. **Row 9**: Opponent changes to Ireland.
+11. **Row 10**: Back to Netherlands? Wait, no, in row 10, the opposing team is Netherlands, but wait, let me check: No, row 10 shows that Netherlands was playing against Ireland, so the opponent for row 10 is Ireland when Paul Stirling (Ireland) played against Netherlands. So, the opponents are switching each time now.
+12. **Row 11**: Opponent is India again.
+
+Wait, I might be mixing up teams here. Let me parse it correctly:
+
+Looking at "Opposing team" entries in order:
+- Row 0: Pakistan
+- Row 1: Pakistan (so two consecutive)
+- Row 2: Kenya (change)
+- Row 3: India
+- Row 4: India
+- Row 5: India (three times)
+- Row 6: India again? Wait, row 6's Opposing team is India. So, that's four in a row.
+- Then, row 7: Sri Lanka
+- Row 8: Sri Lanka (so two consecutive)
+- Row 9: Ireland
+- Row 10: Netherlands? No, the opposing team for row 10 would be Ireland because Paul Stirling is from Ireland and the opposing team is Netherlands. Or wait, no: the "Opposing team" column refers to who they played against, so in row 9, the opposing team when Ryan ten Doeschate (Netherlands) played was Ireland. Then in row 10, Paul Stirling (Ireland) played against Netherlands. So, for row 9, opponent is Ireland; row 10, opponent is Netherlands.
+
+So, after row 8, which was Sri Lanka, rows 9 and 10 have Ireland and then Netherlands, so no consecutive there.
+
+Row 11: Opponent is India again.
+
+Wait, I think I might be making a mistake here. Let me list out the "Opposing team" in order:
+
+0: Pakistan  
+1: Pakistan → 2 consecutive  
+2: Kenya  
+3: India  
+4: India → 2  
+5: India → 3  
+6: India → 4  
+7: Sri Lanka  
+8: Sri Lanka → 2  
+9: Ireland  
+10: Netherlands  
+11: India  
+
+So, looking at this list:
+
+- Pakistan appears in rows 0 and 1 (twice)
+- India appears from row 3 to 6 (four times)
+- Sri Lanka appears twice in rows 7 and 8
+- Others appear once or non-consecutive.
+
+The longest consecutive appearances by an opponent are four times for India, from row 3 to 6. So the answer is India appearing four times consecutively.
+</think>
+
+Final Answer: India
+===================Answer===================
+India

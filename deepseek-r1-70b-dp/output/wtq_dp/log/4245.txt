@@ -1,0 +1,56 @@
+===================Title===================
+James Brooks (American football)
+===================Table===================
+|    | Year          | Team                 |   GP | Att   | Yds   |   Avg |   Long |   Rush TD |   Rec | Yds .1   |   Avg .1 |   Long .1 |   Rec TD |
+|---:|:--------------|:---------------------|-----:|:------|:------|------:|-------:|----------:|------:|:---------|---------:|----------:|---------:|
+|  0 | 1981          | San Diego Chargers   |   14 | 109   | 525   |   4.8 |     28 |         3 |    46 | 329      |      7.2 |        29 |        3 |
+|  1 | 1982          | San Digeo Chargers   |    9 | 87    | 430   |   4.9 |     48 |         6 |    13 | 66       |      5.1 |        12 |        0 |
+|  2 | 1983          | San Diego Chargers   |   15 | 127   | 516   |   4.1 |     61 |         3 |    25 | 215      |      8.6 |        36 |        0 |
+|  3 | 1984          | Cincinnati Bengals   |   15 | 103   | 396   |   3.8 |     33 |         2 |    34 | 268      |      7.9 |        27 |        2 |
+|  4 | 1985          | Cincinnati Bengals   |   16 | 192   | 929   |   4.8 |     39 |         7 |    55 | 576      |     10.5 |        57 |        5 |
+|  5 | 1986          | Cincinnati Bengals   |   16 | 205   | 1,087 |   5.3 |     56 |         5 |    54 | 686      |     12.7 |        54 |        4 |
+|  6 | 1987          | Cincinnati Bengals   |    9 | 94    | 280   |   3.1 |     18 |         1 |    22 | 272      |     12.4 |        46 |        2 |
+|  7 | 1988          | Cincinnati Bengals   |   15 | 182   | 931   |   5.1 |     51 |         8 |    29 | 287      |      9.9 |        28 |        6 |
+|  8 | 1989          | Cincinnati Bengals   |   16 | 221   | 1,239 |   5.6 |     65 |         7 |    37 | 306      |      8.3 |        25 |        2 |
+|  9 | 1990          | Cincinnati Bengals   |   16 | 195   | 1,004 |   5.1 |     56 |         5 |    26 | 269      |     10.3 |        35 |        4 |
+| 10 | 1991          | Cincinnati Bengals   |   15 | 152   | 571   |   3.8 |     25 |         2 |    40 | 348      |      8.7 |        40 |        2 |
+| 11 | 1992          | Tampa Bay Buccaneers |    2 | 5     | 6     |   1.2 |      4 |         0 |     0 | 0        |      0   |         0 |        0 |
+| 12 | 1992          | Cleveland Browns     |    4 | 13    | 38    |   2.9 |     13 |         0 |     2 | -1       |     -0.5 |         4 |        0 |
+| 13 | Career Totals | nan                  |  162 | 1,685 | 7,962 |   4.7 |     65 |        49 |   383 | 3,621    |      9.5 |        57 |       30 |
+===================Question===================
+which team had the best rushing attempts?
+===================Text===================
+<think>
+Okay, so I need to figure out which team had the best rushing attempts based on James Brooks' stats. Let me look at the table again.
+
+First, I see that each row represents a year and the team he played for that season. The columns include GP (games played), Att (rush attempts), Yds (rushing yards), Avg (average per carry), Long (longest rush), Rush TD (rushing touchdowns), and then some receiving stats which aren't relevant here.
+
+The question is about rushing attempts, so I need to focus on the "Att" column. The goal is to find out which team he had the highest number of rushing attempts with.
+
+Looking through each year:
+
+- 1981: San Diego Chargers - 109 attempts
+- 1982: San Diego again - 87 attempts (this seems lower than '81)
+- 1983: San Diego - 127 attempts, higher than previous two years.
+- Then he moves to Cincinnati Bengals from 1984 onwards.
+
+Cincinnati:
+- 1984: 103 attempts
+- 1985: 192 attempts – that's a jump
+- 1986: 205 attempts, even higher
+- 1987: 94 attempts (maybe an injury?)
+- 1988: 182 attempts
+- 1989: 221 attempts – this is the highest so far in his career
+- 1990: 195 attempts
+- 1991: 152 attempts
+
+Then in 1992, he played for Tampa Bay and Cleveland Browns with very low attempts (5 and 13 respectively).
+
+So looking at these numbers, the Cincinnati Bengals had the seasons where Brooks had the highest rushing attempts, especially peaking in 1989 with 221 attempts. San Diego's peak was 127 in 1983.
+
+Therefore, the team with the best rushing attempts by Brooks is the Cincinnati Bengals.
+</think>
+
+Final Answer: Cincinnati Bengals
+===================Answer===================
+Cincinnati Bengals

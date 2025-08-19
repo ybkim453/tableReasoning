@@ -1,0 +1,93 @@
+===================Title===================
+Olympic Oath
+===================Table===================
+|    | Olympics             | Athlete                                             | Judge (Official)       | Coach              | Language                             |
+|---:|:---------------------|:----------------------------------------------------|:-----------------------|:-------------------|:-------------------------------------|
+|  0 | 1920 Summer Olympics | Victor Boin                                         | -                      | -                  | -                                    |
+|  1 | 1924 Winter Olympics | Camille Mandrillon                                  | -                      | -                  | -                                    |
+|  2 | 1924 Summer Olympics | Géo André                                         | -                      | -                  | French.                              |
+|  3 | 1928 Winter Olympics | Hans Eidenbenz                                      | -                      | -                  | -                                    |
+|  4 | 1928 Summer Olympics | Harry Dénis                                        | -                      | -                  | -                                    |
+|  5 | 1932 Winter Olympics | Jack Shea                                           | -                      | -                  | -                                    |
+|  6 | 1932 Summer Olympics | George Calnan                                       | -                      | -                  | English                              |
+|  7 | 1936 Winter Olympics | Willy Bogner, Sr.                                   | -                      | -                  | -                                    |
+|  8 | 1936 Summer Olympics | Rudolf Ismayr                                       | -                      | -                  | -                                    |
+|  9 | 1948 Winter Olympics | Bibi Torriani                                       | -                      | -                  | -                                    |
+| 10 | 1948 Summer Olympics | Donald Finlay                                       | -                      | -                  | English                              |
+| 11 | 1952 Winter Olympics | Torbjørn Falkanger                                  | -                      | -                  | -                                    |
+| 12 | 1952 Summer Olympics | Heikki Savolainen                                   | -                      | -                  | -                                    |
+| 13 | 1956 Winter Olympics | Giuliana Minuzzo                                    | -                      | -                  | -                                    |
+| 14 | 1956 Summer Olympics | John Landy (Melbourne)\nHenri Saint Cyr (Stockholm) | -                      | -                  | English/Swedish                      |
+| 15 | 1960 Winter Olympics | Carol Heiss                                         | -                      | -                  | -                                    |
+| 16 | 1960 Summer Olympics | Adolfo Consolini                                    | -                      | -                  | -                                    |
+| 17 | 1964 Winter Olympics | Paul Aste                                           | -                      | -                  | German                               |
+| 18 | 1964 Summer Olympics | Takashi Ono                                         | -                      | -                  | Japanese                             |
+| 19 | 1968 Winter Olympics | Léo Lacroix                                        | -                      | -                  | French                               |
+| 20 | 1968 Summer Olympics | Pablo Garrido                                       | -                      | -                  | Spanish                              |
+| 21 | 1972 Winter Olympics | Keiichi Suzuki                                      | Fumio Asaki            | -                  | Japanese                             |
+| 22 | 1972 Summer Olympics | Heidi Schüller                                     | Heinz Pollay           | -                  | German                               |
+| 23 | 1976 Winter Olympics | Werner Delle Karth                                  | Willy Köstinger       | -                  | German                               |
+| 24 | 1976 Summer Olympics | Pierre St.-Jean                                     | Maurice Fauget         | -                  | French (St.-Jean)/English (Fauget)   |
+| 25 | 1980 Winter Olympics | Eric Heiden                                         | Terry McDermott        | -                  | English                              |
+| 26 | 1980 Summer Olympics | Nikolai Andrianov                                   | Alexander Medved       | -                  | Russian                              |
+| 27 | 1984 Winter Olympics | Bojan Križaj                                       | Dragan Perovic         | -                  | Serbo-Croatian                       |
+| 28 | 1984 Summer Olympics | Edwin Moses                                         | Sharon Weber           | -                  | English                              |
+| 29 | 1988 Winter Olympics | Pierre Harvey                                       | Suzanna Morrow-Francis | -                  | English                              |
+| 30 | 1988 Summer Olympics | Hur Jae\nShon Mi-Na                                 | Lee Hak-Rae            | -                  | Korean                               |
+| 31 | 1992 Winter Olympics | Surya Bonaly                                        | Pierre Bornat          | -                  | French                               |
+| 32 | 1992 Summer Olympics | Luis Doreste Blanco                                 | Eugeni Asensio         | -                  | Spanish/Catalan                      |
+| 33 | 1994 Winter Olympics | Vegard Ulvang                                       | Kari Kåring           | -                  | English (Ulvang)/Norwegian (Kåring) |
+| 34 | 1996 Summer Olympics | Teresa Edwards                                      | Hobie Billingsley      | -                  | English                              |
+| 35 | 1998 Winter Olympics | Kenji Ogiwara                                       | Junko Hiramatsu        | -                  | Japanese                             |
+| 36 | 2000 Summer Olympics | Rechelle Hawkes                                     | Peter Kerr             | -                  | English                              |
+| 37 | 2002 Winter Olympics | Jimmy Shea                                          | Allen Church           | -                  | English                              |
+| 38 | 2004 Summer Olympics | Zoi Dimoschaki                                      | Lazaros Voreadis       | -                  | Greek                                |
+| 39 | 2006 Winter Olympics | Giorgio Rocca                                       | Fabio Bianchetti       | -                  | Italian                              |
+| 40 | 2008 Summer Olympics | Zhang Yining                                        | Huang Liping           | -                  | Chinese                              |
+| 41 | 2010 Winter Olympics | Hayley Wickenheiser                                 | Michel Verrault        | -                  | English/French                       |
+| 42 | 2012 Summer Olympics | Sarah Stevenson                                     | Mik Basi               | Eric Farrell       | English                              |
+| 43 | 2014 Winter Olympics | Ruslan Zakharov                                     | Vyacheslav Vedenin, Jr | Anastassia Popkova | Russian                              |
+===================Question===================
+how many times was french used before the year 1980?
+===================Text===================
+<think>
+Alright, I need to figure out how many times French was used before 1980 in the Olympic Oath based on the provided table. Let me go through this step by step.
+
+First, I'll look at each row and check two things: whether the Olympics occurred before 1980 and if the Language column mentions French. The table has entries from 1920 up to 2014, so I need to focus only on those rows where the year is less than 1980.
+
+Starting from the top:
+
+Row 0: 1920 Summer Olympics - No mention of French.
+Row 1: 1924 Winter Olympics - No French mentioned.
+Row 2: 1924 Summer Olympics - Language is 'French.' So that's one instance.
+Row 3: 1928 Winter Olympics - No French.
+Row 4: 1928 Summer Olympics - No French.
+Row 5: 1932 Winter Olympics - No French.
+Row 6: 1932 Summer Olympics - English, so no.
+Row 7: 1936 Winter Olympics - No French.
+Row 8: 1936 Summer Olympics - No French.
+Row 9: 1948 Winter Olympics - No French.
+Row 10: 1948 Summer Olympics - English again.
+Row 11: 1952 Winter Olympics - No French.
+Row 12: 1952 Summer Olympics - No French.
+Row 13: 1956 Winter Olympics - No French.
+Row 14: 1956 Summer Olympics - 'English/Swedish' so no French here.
+Row 15: 1960 Winter Olympics - No French.
+Row 16: 1960 Summer Olympics - No French.
+Row 17: 1964 Winter Olympics - German, not French.
+Row 18: 1964 Summer Olympics - Japanese.
+Row 19: 1968 Winter Olympics - French. That's the second instance.
+Row 20: 1968 Summer Olympics - Spanish.
+Row 21: 1972 Winter Olympics - Japanese.
+Row 22: 1972 Summer Olympics - German.
+Row 23: 1976 Winter Olympics - German.
+Row 24: 1976 Summer Olympics - 'French (St.-Jean)/English (Fauget)'. Since French is mentioned here, that's a third instance.
+
+Now, I need to make sure I don't go beyond 1980. Rows after 1976 would be 1980 and later, so I can stop here because the next rows are for Winter and Summer 1980 Olympics, which are exactly in 1980. The question is asking before 1980, so up to 1976.
+
+So, counting them again: Row 2 (1924), Row 19 (1968), and Row 24 (1976). That makes three times.
+</think>
+
+Final Answer: 3
+===================Answer===================
+3

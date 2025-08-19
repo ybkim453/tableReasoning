@@ -1,0 +1,39 @@
+===================Title===================
+Super League XVIV
+===================Table===================
+|    | Team                                     | Stadium                         | Capacity   | City/Area                                    |
+|---:|:-----------------------------------------|:--------------------------------|:-----------|:---------------------------------------------|
+|  0 | Bradford Bulls (2014 season)             | Provident Stadium               | 27,000     | Bradford, West Yorkshire                     |
+|  1 | Castleford Tigers (2014 season)          | The Wish Communications Stadium | 11,750     | Castleford, West Yorkshire                   |
+|  2 | Catalans Dragons (2014 season)           | Stade Gilbert Brutus            | 14,000     | Perpignan, Pyrénées-Orientales, France     |
+|  3 | Huddersfield Giants (2014 season)        | John Smith's Stadium            | 24,544     | Huddersfield, West Yorkshire                 |
+|  4 | Hull (2014 season)                       | Kingston Communications Stadium | 25,404     | Kingston upon Hull, East Riding of Yorkshire |
+|  5 | Hull Kingston Rovers (2014 season)       | MS3 Craven Park                 | 9,471      | Kingston upon Hull, East Riding of Yorkshire |
+|  6 | Leeds Rhinos (2014 season)               | Headingley Carnegie Stadium     | 22,250     | Leeds, West Yorkshire                        |
+|  7 | London Broncos (2014 season)             | Twickenham Stoop                | 12,700     | Twickenham, London                           |
+|  8 | Salford City Reds (2014 season)          | Salford City Stadium            | 12,000     | Salford, Greater Manchester                  |
+|  9 | St Helens RLFC (2014 season)             | Langtree Park                   | 18,000     | St Helens, Merseyside                        |
+| 10 | Wakefield Trinity Wildcats (2014 season) | Rapid Solicitors Stadium        | 11,000     | Wakefield, West Yorkshire                    |
+| 11 | Warrington Wolves (2014 season)          | Halliwell Jones Stadium         | 15,500     | Warrington, Cheshire                         |
+| 12 | Widnes Vikings (2014 season)             | The Select Security Stadium     | 13,500     | Widnes, Cheshire, England                    |
+| 13 | Wigan Warriors (2014 season)             | DW Stadium                      | 25,138     | Wigan, Greater Manchester                    |
+===================Question===================
+which stadium has the top capacity?
+===================Text===================
+<think>
+Okay, I need to figure out which stadium has the top capacity from the given table. Let me start by looking at each row and noting down the capacities.
+
+Looking at the first entry, Bradford Bulls play at Provident Stadium with a capacity of 27,000. That seems pretty high. Next is Castleford Tigers with 11,750, which isn't as big. Catalans Dragons have 14,000, still lower than Bradford's. Huddersfield Giants are next with 24,544 – that's close to 25k but not over.
+
+Then there's Hull at Kingston Communications Stadium with 25,404. That's higher than the previous ones except for Bradford. Next is Hull Kingston Rovers with only 9,471, which is much lower. Leeds Rhinos have a capacity of 22,250, so that's behind both Bradford and Hull.
+
+London Broncos are at 12,700, which isn't top tier. Salford City Reds have 12,000 – again, not the highest. St Helens RLFC has 18,000. Wakefield Trinity Wildcats with 11,000, Warrington Wolves at 15,500, and Widnes Vikings with 13,500.
+
+Finally, Wigan Warriors are at DW Stadium with a capacity of 25,138. Comparing all the numbers: Bradford's 27k is the highest, followed by Hull's 25,404 and Wigan's 25,138. So the top capacity is Provident Stadium at 27,000.
+</think>
+
+The stadium with the top capacity is Provident Stadium.
+
+Final Answer: Provident Stadium
+===================Answer===================
+Provident Stadium

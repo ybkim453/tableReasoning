@@ -1,0 +1,50 @@
+===================Title===================
+Athletics at the 1959 Mediterranean Games
+===================Table===================
+|    | Rank   | Nation     |   Gold |   Silver |   Bronze |   Total |
+|---:|:-------|:-----------|-------:|---------:|---------:|--------:|
+|  0 | 1      | France     |     11 |        5 |        3 |      19 |
+|  1 | 2      | Greece     |      6 |        7 |        6 |      19 |
+|  2 | 3      | Yugoslavia |      3 |        2 |        1 |       6 |
+|  3 | 4      | Spain      |      1 |        5 |        5 |      11 |
+|  4 | 5      | Morocco    |      1 |        1 |        0 |       2 |
+|  5 | 5      | Turkey     |      1 |        1 |        0 |       2 |
+|  6 | 7      | Egypt      |      0 |        1 |        7 |       8 |
+|  7 | 8      | Tunisia    |      0 |        1 |        0 |       1 |
+|  8 | Totaal | Totaal     |     23 |       23 |       22 |      68 |
+===================Question===================
+number of gold medals won
+===================Text===================
+<think>
+Okay, so I need to figure out how many gold medals were won in total at the 1959 Mediterranean Games based on the table provided. Let me look at the table again.
+
+The table lists several nations along with their medal counts—Gold, Silver, Bronze, and Total. There's also a row labeled "Totaal" which I think is Dutch for "Total." That probably sums up all the medals from each category across all countries.
+
+Let me check each country's Gold column to see if adding them up gives me the total number of gold medals won overall. So starting from the top:
+
+- France: 11 Gold
+- Greece: 6 Gold
+- Yugoslavia: 3 Gold
+- Spain: 1 Gold
+- Morocco: 1 Gold
+- Turkey: 1 Gold
+- Egypt: 0 Gold
+- Tunisia: 0 Gold
+
+Adding those up: 11 + 6 is 17, plus 3 makes 20, then adding the next four which are each 1 (so 2 more) gives a total of 22 gold medals. Wait, but in the "Totaal" row, it shows 23 under Gold. Hmm, that doesn't match my sum.
+
+Let me recount to make sure I didn't miss anything:
+
+11 (France) + 6 (Greece) = 17
+17 + 3 (Yugoslavia) = 20
+20 +1 (Spain) =21
+21 +1 (Morocco)=22
+22 +1 (Turkey)=23
+Egypt and Tunisia have 0, so no addition there.
+
+Ah, okay, so when I add all the individual gold medals from each country, it actually sums up to 23. That matches the total in the "Totaal" row. So that means the total number of gold medals won across all nations is 23.
+</think>
+
+Final Answer: 23
+===================Answer===================
+23

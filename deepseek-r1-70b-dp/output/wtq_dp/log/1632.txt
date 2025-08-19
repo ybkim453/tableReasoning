@@ -1,0 +1,38 @@
+===================Title===================
+Olga Tereshkova
+===================Table===================
+|    |   Year | Competition               | Venue                | Position   | Event         | Notes   |
+|---:|-------:|:--------------------------|:---------------------|:-----------|:--------------|:--------|
+|  0 |   2001 | World Youth Championships | Debrecen, Hungary    | 4th        | 400 m         | nan     |
+|  1 |   2002 | Asian Games               | Busan, South Korea   | 2nd        | 4x400 m relay | nan     |
+|  2 |   2005 | Asian Championships       | Incheon, South Korea | 2nd        | 4x400 m relay | nan     |
+|  3 |   2005 | Universiade               | Izmir, Turkey        | 6th        | 4x400 m relay | nan     |
+|  4 |   2006 | Asian Games               | Doha, Qatar          | 2nd        | 4x400 m relay | nan     |
+|  5 |   2006 | Asian Games               | Doha, Qatar          | 1st        | 400 m         | nan     |
+|  6 |   2006 | World Cup                 | Athens, Greece       | 7th        | 400 m         | nan     |
+|  7 |   2007 | Universiade               | Bangkok, Thailand    | 1st        | 400 m         | nan     |
+|  8 |   2011 | Universiade               | Shenzhen, China      | –          | 400 m         | DQ      |
+===================Question===================
+how many events was olga tereshkova disqualified from?
+===================Text===================
+<think>
+Alright, let's tackle this problem step by step. The question is asking how many events Olga Tereshkova was disqualified from, based on the provided table.
+
+First, I'll examine each row of the table to identify if there's a disqualification mentioned. Each entry represents a different competition she participated in, with details about the year, event, position, and notes.
+
+Looking at the "Notes" column for each row:
+
+- In 2001 (row 0), the note is "nan," which likely stands for 'not available' or 'not applicable,' meaning no specific note.
+- 2002 (row 1) also has "nan."
+- The same applies to rows 2, 3, and 4 in 2005 and 2006—they all have "nan" as notes.
+- Row 5 from 2006 shows a first position with "nan," so no disqualification there.
+- In row 6 (2006), she placed 7th and the note is "nan."
+- Moving to row 7 in 2007, it's a win with "nan" again.
+- Finally, row 8 from 2011 has a dash "-" in the position column, but more importantly, the notes say "DQ," which stands for disqualified.
+
+So, out of all these entries, only one event (in 2011) shows a disqualification. The rest either have no relevant notes or don't indicate any disqualifications.
+</think>
+
+Final Answer: 1
+===================Answer===================
+1

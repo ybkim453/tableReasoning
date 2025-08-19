@@ -1,0 +1,30 @@
+===================Title===================
+Nothingface
+===================Table===================
+|    |   Year | Song          | US Hot 100   | U.S. Modern Rock   | U.S. Mainstream Rock   | Album                               |
+|---:|-------:|:--------------|:-------------|:-------------------|:-----------------------|:------------------------------------|
+|  0 |   1997 | "Pacifier"    | -            | -                  | -                      | Pacifier                            |
+|  1 |   1997 | "One Thing"   | -            | -                  | -                      | Pacifier                            |
+|  2 |   1997 | "Defaced"     | -            | -                  | -                      | Pacifier                            |
+|  3 |   1998 | "Breathe Out" | -            | -                  | -                      | An Audio Guide To Everyday Atrocity |
+|  4 |   1998 | "The Sick"    | -            | -                  | -                      | An Audio Guide To Everyday Atrocity |
+|  5 |   2001 | "Bleeder"     | -            | -                  | 32                     | Violence                            |
+|  6 |   2003 | "Ether"       | -            | -                  | -                      | Skeletons                           |
+===================Question===================
+what was the total number of singles?
+===================Text===================
+<think>
+Okay, so I need to figure out how many singles Nothingface released based on this table. Let me look at the information provided.
+
+The table has several columns: Year, Song, US Hot 100, U.S. Modern Rock, U.S. Mainstream Rock, and Album. Each row represents a different song by the band. I see that there are entries from 1997 to 2003. 
+
+Each entry lists a song, the year it was released, and some chart information, though most of the chart columns have a "-" which probably means they didn't chart in those categories or the data isn't available. The key here is that each row is a different song, so I can count the number of rows to determine how many singles there are.
+
+Looking at the table, it starts from index 0 (1997) up to index 6 (2003). So, counting them all: "Pacifier", "One Thing", "Defaced", "Breathe Out", "The Sick", "Bleeder", and "Ether". That makes a total of seven songs listed in the table.
+
+I should double-check if any of these are maybe not singles, but since they're all separate entries with different song names and release years, it's safe to assume each is a single from their respective albums. Therefore, the total number of singles would be 7.
+</think>
+
+Final Answer: 7
+===================Answer===================
+7

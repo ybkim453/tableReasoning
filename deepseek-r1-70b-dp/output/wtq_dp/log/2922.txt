@@ -1,0 +1,38 @@
+===================Title===================
+Tommy Moe
+===================Table===================
+|    |   Season | Date        | Location             | Discipline   | Place   |
+|---:|---------:|:------------|:---------------------|:-------------|:--------|
+|  0 |     1993 | 27 Feb 1993 | Whistler, BC, Canada | Downhill     | 2nd     |
+|  1 |     1994 | 12 Dec 1993 | Val-d'Isère, France | Super G      | 3rd     |
+|  2 |     1994 | 29 Dec 1993 | Bormio, Italy        | Downhill     | 3rd     |
+|  3 |     1994 | 12 Mar 1994 | Whistler, BC, Canada | Downhill     | 3rd     |
+|  4 |     1994 | 13 Mar 1994 | Whistler, BC, Canada | Super G      | 1st     |
+|  5 |     1994 | 16 Mar 1994 | Vail, CO, USA        | Downhill     | 3rd     |
+|  6 |     1995 | 11 Dec 1994 | Tignes, France       | Super G      | 2nd     |
+===================Question===================
+how many of the discipline races were downhill?
+===================Text===================
+<think>
+Okay, so I need to figure out how many of Tommy Moe's discipline races were downhill based on the table provided. Let me start by looking at each row in the table and noting down the Discipline column.
+
+Looking at the first entry, it's from Season 1993, and the Discipline is Downhill. So that's one downhill race. Then moving to Season 1994, there are multiple entries. The second row has Super G as the discipline, so that's not a downhill. The third row again is Downhill, which adds another one. The fourth entry in Season 1994 is also Downhill, making it three now. Then there's a Super G race where he came first, so that doesn't count for downhill. Next, the sixth row of Season 1994 shows another Downhill race. So that brings the total to four downhill races.
+
+Wait, I think I miscounted. Let me go through each entry one by one again to make sure.
+
+Row 0: Downhill
+Row 1: Super G
+Row 2: Downhill
+Row 3: Downhill
+Row 4: Super G
+Row 5: Downhill
+Row 6: Super G
+
+So that's rows 0,2,3,5 as Downhill. That makes four downhill races in total.
+
+I think that's correct. So the answer should be 4.
+</think>
+
+Final Answer: 4
+===================Answer===================
+4

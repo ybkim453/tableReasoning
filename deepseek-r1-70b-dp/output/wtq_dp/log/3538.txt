@@ -1,0 +1,48 @@
+===================Title===================
+Charles Henderson High School
+===================Table===================
+|    |   Year |   Team Record\nW |   Team Record\nL | Playoffs                |
+|---:|-------:|-----------------:|-----------------:|:------------------------|
+|  0 |   2001 |                7 |                2 | 3rd Qualifier, Region 2 |
+|  1 |   2002 |                8 |                1 | 2nd Qualifier, Region 2 |
+|  2 |   2003 |                8 |                1 | 2nd Qualifier, Region 2 |
+|  3 |   2004 |                7 |                2 | 2nd Qualifier, Region 2 |
+|  4 |   2005 |                3 |                5 | Did Not Make Playoffs   |
+|  5 |   2006 |                5 |                4 | 4th Qualifier, Region 2 |
+|  6 |   2007 |               13 |                1 | 1st Qualifier, Region 2 |
+|  7 |   2008 |                7 |                4 | 2nd Qualifier, Region 2 |
+|  8 |   2009 |                5 |                5 | Did Not Make Playoffs   |
+|  9 |   2010 |                5 |                5 | Did Not Make Playoffs   |
+===================Question===================
+what year is the least amount of wins recoreded?
+===================Text===================
+<think>
+Alright, so I need to figure out which year had the least amount of wins for Charles Henderson High School based on the table provided. Let me walk through this step by step.
+
+First, looking at the table, the years range from 2001 to 2010. Each row shows the Team Record with W (Wins) and L (Losses), along with playoff information. My focus is on the Wins column because I need to find the year with the least number of wins.
+
+I'll start by listing out each year along with its corresponding number of wins:
+
+- 2001: 7 wins
+- 2002: 8 wins
+- 2003: 8 wins
+- 2004: 7 wins
+- 2005: 3 wins
+- 2006: 5 wins
+- 2007: 13 wins (that's a lot, so probably the highest)
+- 2008: 7 wins
+- 2009: 5 wins
+- 2010: 5 wins
+
+Now, I'm looking for the smallest number in the Wins column. Scanning through them:
+
+- The lowest number I see is 3 wins in 2005.
+- Other years like 2006, 2009, and 2010 have 5 wins each, which is more than 3.
+- Years before that (like 2001, 2004, 2008) have 7 or 8 wins.
+
+So, it seems pretty clear that 2005 had the least number of wins with only 3 victories. I don't see any other year with fewer than 3 wins in this table.
+</think>
+
+Final Answer: 2005
+===================Answer===================
+2005

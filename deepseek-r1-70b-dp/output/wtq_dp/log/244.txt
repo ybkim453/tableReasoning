@@ -1,0 +1,103 @@
+===================Title===================
+Todd Martin
+===================Table===================
+|    | Outcome   |   No. | Date               | Championship                          | Surface   | Opponent in the final   | Score in the final                |
+|---:|:----------|------:|:-------------------|:--------------------------------------|:----------|:------------------------|:----------------------------------|
+|  0 | Runner-up |     1 | February 15, 1993  | Memphis, Tennessee, USA               | Hard (i)  | Jim Courier             | 7–5, 6–7(4–7), 6–7(4–7)           |
+|  1 | Winner    |     1 | May 17, 1993       | Coral Springs, Florida, USA           | Clay      | David Wheaton           | 6–3, 6–4                          |
+|  2 | Runner-up |     2 | July 26, 1993      | Washington D.C., USA                  | Hard      | Amos Mansdorf           | 6–7(3–7), 5–7                     |
+|  3 | Runner-up |     3 | August 2, 1993     | Montreal, Canada                      | Hard      | Mikael Pernfors         | 6–2, 2–6, 5–7                     |
+|  4 | Runner-up |     4 | October 18, 1993   | Tokyo, Japan                          | Carpet    | Ivan Lendl              | 4–6, 4–6                          |
+|  5 | Runner-up |     5 | January 31, 1994   | Australian Open, Melbourne, Australia | Hard      | Pete Sampras            | 6–7(4–7), 4–6, 4–6                |
+|  6 | Winner    |     2 | February 14, 1994  | Memphis, Tennessee, USA               | Hard      | Brad Gilbert            | 6–4, 7–5                          |
+|  7 | Runner-up |     6 | May 2, 1994        | Atlanta, Georgia, USA                 | Clay      | Michael Chang           | 7–6(7–4), 6–7(4–7), 0–6           |
+|  8 | Runner-up |     7 | May 9, 1994        | Pinehurst, USA                        | Clay      | Jared Palmer            | 4–6, 6–7(5–7)                     |
+|  9 | Winner    |     3 | June 13, 1994      | London (Queen's Club), UK             | Grass     | Pete Sampras            | 7–6(7–4), 7–6(7–4)                |
+| 10 | Winner    |     4 | February 20, 1995  | Memphis, Tennessee, USA               | Hard      | Paul Haarhuis           | 7–6(7–2), 6–4                     |
+| 11 | Runner-up |     8 | December 18, 1995  | Grand Slam Cup, Munich, Germany       | Carpet    | Goran Ivanišević      | 6–7(4–7), 3–6, 4–6                |
+| 12 | Winner    |     5 | January 15, 1996   | Sydney, Australia                     | Hard      | Goran Ivanišević      | 5–7, 6–3, 6–4                     |
+| 13 | Runner-up |     9 | February 26, 1996  | Memphis, Tennessee, USA               | Hard (i)  | Pete Sampras            | 4–6, 6–7(2–7)                     |
+| 14 | Runner-up |    10 | August 22, 1996    | Stockholm, Sweden                     | Hard (i)  | Thomas Enqvist          | 5–7, 4–6, 6–7(0–7)                |
+| 15 | Winner    |     6 | April 20, 1998     | Barcelona, Spain                      | Clay      | Alberto Berasategui     | 6–2, 1–6, 6–3, 6–2                |
+| 16 | Winner    |     7 | November 16, 1998  | Stockholm, Sweden                     | Hard      | Thomas Johansson        | 6–3, 6–4, 6–4                     |
+| 17 | Winner    |     8 | January 18, 1999   | Sydney, Australia                     | Hard      | Àlex Corretja          | 6–3, 7–6(7–5)                     |
+| 18 | Runner-up |    11 | April 12, 1999     | Estoril, Portugal                     | Clay      | Albert Costa            | 6–7(4–7), 6–2, 3–6                |
+| 19 | Runner-up |    12 | September 12, 1999 | US Open, New York City, USA           | Hard      | Andre Agassi            | 4–6, 7–6(7–5), 7–6(7–2), 3–6, 2–6 |
+===================Question===================
+how many courts are hard surface?
+===================Text===================
+<think>
+Alright, I need to figure out how many courts are hard surface based on the table provided about Todd Martin's matches. Let me go through each row one by one and check the "Surface" column.
+
+Looking at the first row, the surface is "Hard (i)". I'm assuming the "(i)" stands for indoor, so it's still a hard court. That's count 1.
+
+Row 2: Surface is Clay, so that doesn't count. Not hard.
+
+Row 3: Surface is Hard again. Count goes to 2.
+
+Row 4: Surface is Hard once more. Now at 3.
+
+Row 5: It's also Hard. So now we're at 4.
+
+Row 6: Memphis again with Hard surface, so that's 5.
+
+Row 7: Clay here, no count.
+
+Row 8: Another Clay, still no.
+
+Row 9: Grass surface, not hard.
+
+Row 10: Back to Hard in Memphis, so count increases to 6.
+
+Row 11: Carpet surface in Munich, doesn't add to the hard count.
+
+Row 12: Sydney has a Hard surface. Now we're at 7.
+
+Row 13: Memphis again with Hard (i), so that's 8.
+
+Row 14: Stockholm on Hard (i) as well, making it 9.
+
+Row 15: Clay court in Barcelona, nope.
+
+Row 16: Stockholm again but now Hard without the "(i)", so count becomes 10.
+
+Row 17: Sydney with Hard surface, up to 11.
+
+Row 18: Estoril's clay, not hard.
+
+Row 19: US Open on Hard, so that's 12.
+
+Wait a second, let me recount to make sure I didn't double-count any. Rows 0-5: 4 hard courts (rows 0,3,4,5). Then row 6 is another Memphis which is hard, so 5. Row 10 is Memphis again, that's 6. Row 12 Sydney adds one more, 7. Row 13 Memphis, now 8. Row14 Stockholm as hard, 9. Row16 Stockholm again, 10. Row17 Sydney again, 11. And finally row19 US Open on hard, making it 12.
+
+Wait, no, I think I might have miscounted earlier. Let's list them all:
+
+Row 0: Hard (i) → count=1
+
+Row3: Hard →2
+
+Row4: Hard→3
+
+Row5: Hard→4
+
+Row6: Hard→5
+
+Row10: Hard→6
+
+Row12: Hard→7
+
+Row13: Hard(i)→8
+
+Row14: Hard(i)→9
+
+Row16: Hard→10
+
+Row17: Hard→11
+
+Row19: Hard→12
+
+Yes, that's 12 hard surface courts.
+</think>
+
+Final Answer: 12
+===================Answer===================
+12

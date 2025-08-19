@@ -1,0 +1,35 @@
+===================Title===================
+United States House of Representatives elections, 2002
+===================Table===================
+|    | District   | Incumbent       | Party      |   First\nelected | Result                                       | Candidates                                                                         |
+|---:|:-----------|:----------------|:-----------|-----------------:|:---------------------------------------------|:-----------------------------------------------------------------------------------|
+|  0 | Maryland 1 | Wayne Gilchrest | Republican |             1990 | Re-elected                                   | Wayne Gilchrest (R) 76.67%\nAnn Tamlyn (D) 23.16%                                  |
+|  1 | Maryland 2 | Robert Ehrlich  | Republican |             1994 | Retired to run for Governor\nDemocratic gain | Dutch Ruppersberger (D) 54.16%\nHelen Bentley (R) 45.57%                           |
+|  2 | Maryland 3 | Ben Cardin      | Democratic |             1986 | Re-elected                                   | Ben Cardin (D) 65.72%\nScott Conwell (R) 34.18%                                    |
+|  3 | Maryland 4 | Albert Wynn     | Democratic |             1992 | Re-elected                                   | Albert Wynn (D) 78.57%\nJohn Kimble (R) 20.82%                                     |
+|  4 | Maryland 5 | Steny Hoyer     | Democratic |             1981 | Re-elected                                   | Steny Hoyer (D) 69.27%\nJoseph Crawford (R) 30.52%                                 |
+|  5 | Maryland 6 | Roscoe Bartlett | Republican |             1992 | Re-elected                                   | Roscoe Bartlett (R) 66.11%\nDonald DeArmon (D) 33.80%                              |
+|  6 | Maryland 7 | Elijah Cummings | Democratic |             1996 | Re-elected                                   | Elijah Cummings (D) 73.53%\nJoseph Ward (R) 26.38%                                 |
+|  7 | Maryland 8 | Connie Morella  | Republican |             1986 | Lost re-election\nDemocratic gain            | Chris Van Hollen (D) 51.71%\nConnie Morella (R) 47.49%\nStephen Bassett (UN) 0.73% |
+===================Question===================
+connie morella was last elected in which year?
+===================Text===================
+<think>
+Alright, so I need to figure out when Connie Morella was last re-elected based on the provided table about the 2002 United States House of Representatives elections in Maryland.
+
+First, let's look at the table structure. Each row represents a district in Maryland and includes details like incumbent name, party, first elected year, result, and candidates with their percentages.
+
+I'm looking for Connie Morella specifically. Scanning through the incumbents, I spot her in the last row (Maryland 8). The "First elected" column shows 1986, which tells me she was first elected in that year.
+
+Next, under the "Result" column, it says she lost re-election and there was a Democratic gain. That means in this particular election cycle (2002), Connie Morella did not win; instead, Chris Van Hollen did.
+
+Now, the question is about her last re-election. Since she lost in 2002, her previous successful election would have been before that. Typically, House representatives are elected every two years. So if she was first elected in 1986 and served until losing in 2002, we need to find her last victory.
+
+Looking at the "First elected" year as 1986, her subsequent re-elections would be every even year: 1988, 1990, 1992, etc. Since she lost in 2002, her last successful election was two years prior, which would be 2000.
+
+Therefore, Connie Morella's last re-election was in the year 2000.
+</think>
+
+Final Answer: 2000
+===================Answer===================
+1986

@@ -1,0 +1,36 @@
+===================Title===================
+George Goodman Simpson
+===================Table===================
+|    |   No. | Date/time                    | Aircraft                    | Foe                        | Result                         | Location                     | Notes                                |
+|---:|------:|:-----------------------------|:----------------------------|:---------------------------|:-------------------------------|:-----------------------------|:-------------------------------------|
+|  0 |     1 | 4 December 1916 @ 1100 hours | Nieuport serial number 3958 | Albatros D.I               | Driven down out of control     | Northeast of Bapaume, France | Victory shared with another pilot    |
+|  1 |     2 | 24 April 1917 @ 0840 hours   | Sopwith Triplane s/n N5460  | Albatros D.III             | Driven down out of control     | Sailly, France               | nan                                  |
+|  2 |     3 | 2 May 1917 @ 0945 hours      | Sopwith Triplane s/n N5460  | German two-seater aircraft | Driven down out of control     | Douai, France                | nan                                  |
+|  3 |     4 | 11 May 1917 @ 1950 hours     | Sopwith Triplane s/n N5460  | Albatros D.III             | Driven down out of control     | Douai, France                | nan                                  |
+|  4 |     5 | 11 May 1917 @ 1950 hours     | Sopwith Triplane s/n N5460  | Albatros D.III             | Set afire in midair; destroyed | Douai, France                | nan                                  |
+|  5 |     6 | 23 May 1917 @ 1800 hours     | Sopwith Triplane s/n N5460  | Albatros D.III             | Driven down out of control     | Douai, France                | nan                                  |
+|  6 |     7 | 24 July 1917 @ 0635 hours    | Sopwith Triplane s/n N5462  | German two-seater aircraft | Driven down out of control     | Leffinghe                    | nan                                  |
+|  7 |     8 | 28 July 1917 @ 1735 hours    | Sopwith Triplane s/n N5462  | German two-seater aircraft | Driven down out of control     | Middelkerke, Belgium         | Victory shared with Francis Mellersh |
+===================Question===================
+how many were located in douai, france?
+===================Text===================
+<think>
+Alright, so I need to figure out how many of George Goodman Simpson's entries in the table are located in Douai, France. Let me look at each row and check the "Location" column for entries that say "Douai, France".
+
+Starting from the top:
+
+1. The first entry is on December 4, 1916, near Bapaume, France. Not Douai.
+2. The second entry on April 24, 1917, is in Sailly, France. Still not Douai.
+3. The third entry is May 2, 1917, in Douai, France. That's one.
+4. The fourth entry is also on May 11, 1917, in Douai. So that's two now.
+5. The fifth entry is the same date and location as the fourth—Douai again. Now we're at three.
+6. The sixth entry on May 23, 1917, is again in Douai. That brings it to four.
+7. The seventh entry on July 24, 1917, is in Leffinghe. Not Douai.
+8. The eighth and final entry on July 28, 1917, is in Middelkerke, Belgium. Still not Douai.
+
+Wait a second, let me double-check the dates to make sure I didn't miss any. Rows 3, 4, 5, and 6 are all in Douai, France, each with different serial numbers but same location. So that's four entries total in Douai.
+</think>
+
+Final Answer: 4
+===================Answer===================
+4

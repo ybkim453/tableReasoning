@@ -1,0 +1,105 @@
+===================Title===================
+Opinion polling by state for the United States presidential election, 2008 (Iowa)
+===================Table===================
+|    | Poll Source       |   Sample Size |   Margin of Error | Date            | Democrat        |   % | Republican    |   % .1 |
+|---:|:------------------|--------------:|------------------:|:----------------|:----------------|----:|:--------------|-------:|
+|  0 | Rasmussen Reports |           500 |               4.5 | Mar 31, 2008    | Hillary Clinton |  36 | John McCain   |     51 |
+|  1 | Rasmussen Reports |           500 |               4.5 | Mar 31, 2008    | Barack Obama    |  46 | John McCain   |     42 |
+|  2 | Survey USA        |           517 |               4.4 | Mar 14-16, 2008 | Hillary Clinton |  44 | John McCain   |     48 |
+|  3 | Survey USA        |           517 |               4.4 | Mar 14-16, 2008 | Barack Obama    |  50 | John McCain   |     44 |
+|  4 | Rasmussen Reports |           500 |             nan   | Feb 18, 2008    | Hillary Clinton |  37 | John McCain   |     47 |
+|  5 | Rasmussen Reports |           500 |             nan   | Feb 18, 2008    | Barack Obama    |  44 | John McCain   |     41 |
+|  6 | Survey USA        |           563 |               4.2 | Feb 15-17, 2008 | Hillary Clinton |  41 | John McCain   |     52 |
+|  7 | Survey USA        |           563 |               4.2 | Feb 15-17, 2008 | Barack Obama    |  51 | John McCain   |     41 |
+|  8 | Survey USA        |           543 |               4.3 | Jan 4-6, 2008   | Hillary Clinton |  51 | Rudy Giuliani |     35 |
+|  9 | Survey USA        |           543 |               4.3 | Jan 4-6, 2008   | Hillary Clinton |  47 | Mike Huckabee |     45 |
+| 10 | Survey USA        |           543 |               4.3 | Jan 4-6, 2008   | Hillary Clinton |  44 | John McCain   |     48 |
+| 11 | Survey USA        |           543 |               4.3 | Jan 4-6, 2008   | Hillary Clinton |  48 | Mitt Romney   |     40 |
+| 12 | Survey USA        |           543 |               4.3 | Jan 4-6, 2008   | Barack Obama    |  66 | Rudy Giuliani |     26 |
+| 13 | Survey USA        |           543 |               4.3 | Jan 4-6, 2008   | Barack Obama    |  58 | Mike Huckabee |     35 |
+| 14 | Survey USA        |           543 |               4.3 | Jan 4-6, 2008   | Barack Obama    |  55 | John McCain   |     38 |
+| 15 | Survey USA        |           543 |               4.3 | Jan 4-6, 2008   | Barack Obama    |  59 | Mitt Romney   |     33 |
+| 16 | Survey USA        |           nan |             nan   | Dec. 17, 2007   | Hillary Clinton |  46 | Mike Huckabee |     45 |
+| 17 | Survey USA        |           546 |               4.3 | Nov 9-11, 2007  | Hillary Clinton |  47 | Rudy Giuliani |     43 |
+| 18 | Survey USA        |           546 |               4.3 | Nov 9-11, 2007  | Hillary Clinton |  49 | Mike Huckabee |     43 |
+| 19 | Survey USA        |           546 |               4.3 | Nov 9-11, 2007  | Hillary Clinton |  44 | John McCain   |     48 |
+| 20 | Survey USA        |           546 |               4.3 | Nov 9-11, 2007  | Hillary Clinton |  49 | Mitt Romney   |     43 |
+| 21 | Survey USA        |           546 |               4.3 | Nov 9-11, 2007  | Barack Obama    |  52 | Rudy Giuliani |     39 |
+| 22 | Survey USA        |           546 |               4.3 | Nov 9-11, 2007  | Barack Obama    |  56 | Mike Huckabee |     35 |
+| 23 | Survey USA        |           546 |               4.3 | Nov 9-11, 2007  | Barack Obama    |  50 | John McCain   |     42 |
+| 24 | Survey USA        |           546 |               4.3 | Nov 9-11, 2007  | Barack Obama    |  53 | Mitt Romney   |     39 |
+| 25 | Survey USA        |           513 |               4.4 | Oct 12-14, 2007 | Hillary Clinton |  48 | Rudy Giuliani |     43 |
+| 26 | Survey USA        |           506 |               4.3 | Oct 12-14, 2007 | Hillary Clinton |  51 | Mike Huckabee |     41 |
+| 27 | Survey USA        |           502 |               4.5 | Oct 12-14, 2007 | Hillary Clinton |  49 | John McCain   |     44 |
+| 28 | Survey USA        |           498 |               4.5 | Oct 12-14, 2007 | Hillary Clinton |  52 | Ron Paul      |     36 |
+| 29 | Survey USA        |           506 |               4.4 | Oct 12-14, 2007 | Hillary Clinton |  50 | Mitt Romney   |     42 |
+| 30 | Survey USA        |           509 |               4.4 | Oct 12-14, 2007 | Hillary Clinton |  50 | Fred Thompson |     42 |
+===================Question===================
+what poll source was used the most?
+===================Text===================
+<think>
+Alright, let's try to figure out which poll source was used the most based on the provided table. 
+
+First, I'll look through each row and note down the "Poll Source" for every entry. The table has 31 rows, from index 0 to 30.
+
+Looking at each row:
+
+- Rows 0 and 1: Rasmussen Reports
+- Rows 2 and 3: Survey USA
+- Rows 4 and 5: Rasmussen Reports
+- Rows 6 and 7: Survey USA
+- Rows 8 to 15: All are Survey USA (that's 8 rows)
+- Row 16: Survey USA (but sample size is NaN, so maybe invalid, but source is still Survey USA)
+- Rows 17 to 24: All are Survey USA (another 8 rows)
+- Rows 25 to 30: Also Survey USA
+
+Now, counting the occurrences:
+
+Rasmussen Reports appears in rows 0,1,4,5. That's a total of 4 times.
+
+Survey USA appears from row 2 onwards, and looking through each entry, it seems every other row is Survey USA except for the first four Rasmussen entries. Let me count them:
+
+From rows 2 to 30, there are 29 rows (since 31 total minus the first two). But wait, actually each poll source is listed per row regardless of the candidate. So let's go through each row:
+
+Row 0: Rasmussen
+Row 1: Rasmussen
+Row 2: Survey USA
+Row 3: Survey USA
+Row 4: Rasmussen
+Row 5: Rasmussen
+Row 6: Survey USA
+Row 7: Survey USA
+Rows 8-15: Each is Survey USA (that's 8 rows)
+Row 16: Survey USA
+Rows 17-24: Each is Survey USA (another 8 rows)
+Rows 25-30: Each is Survey USA (6 more rows)
+
+Adding up for Survey USA:
+From row 2 to row 3: 2
+Then rows 6-7: 2, so total 4
+Rows 8-15: 8, making it 12
+Row16:1 →13
+Rows17-24:8→21
+Rows25-30:6→27
+
+Wait, but let me recount more carefully:
+
+Total rows with Survey USA:
+From row 2 to row3: 2
+Row6-7: +2 =4
+Then rows8-15: that's 8 rows (rows8,9,…,15) → total 12
+Row16:1→13
+Rows17-24: 8 more→21
+Rows25-30:6→27
+
+So Survey USA is used in 27 rows.
+
+Rasmussen Reports:
+Row0,1,4,5 →4 times.
+
+Therefore, the poll source used the most is Survey USA.
+</think>
+
+Final Answer: Survey USA
+===================Answer===================
+Survey USA

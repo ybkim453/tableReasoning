@@ -1,0 +1,41 @@
+===================Title===================
+2005 East Asian Games
+===================Table===================
+|    | Rank   | Nation               |   Gold |   Silver |   Bronze |   Total |
+|---:|:-------|:---------------------|-------:|---------:|---------:|--------:|
+|  0 | 1      | China (CHN)          |    127 |       63 |       33 |     223 |
+|  1 | 2      | Japan (JPN)          |     46 |       56 |       77 |     179 |
+|  2 | 3      | South Korea (KOR)    |     32 |       48 |       65 |     145 |
+|  3 | 4      | Chinese Taipei (TPE) |     12 |       34 |       26 |      72 |
+|  4 | 5      | Macau (MAC)          |     11 |       16 |       17 |      44 |
+|  5 | 6      | North Korea (PRK)    |      6 |       10 |       20 |      36 |
+|  6 | 7      | Hong Kong (HKG)      |      2 |        2 |        9 |      13 |
+|  7 | 8      | Mongolia (MGL)       |      1 |        1 |        6 |       8 |
+|  8 | 9      | Guam (GUM)           |      0 |        0 |        1 |       1 |
+|  9 | Total  | Total                |    237 |      230 |      254 |     721 |
+===================Question===================
+which nation is the only one to earn no gold medals?
+===================Text===================
+<think>
+Okay, so I need to figure out which nation earned no gold medals in the 2005 East Asian Games based on this table. Let me look at each row carefully.
+
+Starting from the top, China has 127 golds, clearly the most. Japan follows with 46, South Korea with 32, Chinese Taipei with 12, Macau with 11, North Korea with 6, Hong Kong with 2, Mongolia with 1, and then Guam at the bottom. 
+
+I'm looking for a country that has zero in the Gold column. Scanning through each row:
+
+- China: 127 → not zero
+- Japan:46→nope
+- South Korea:32→still no
+- Chinese Taipei:12→not
+- Macau:11→no
+- North Korea:6→nope
+- Hong Kong:2→still has some gold
+- Mongolia:1→has one gold
+- Guam:0 in Gold, Silver is also 0, Bronze is 1. 
+
+So the only nation with zero gold medals is Guam.
+</think>
+
+Final Answer: Guam
+===================Answer===================
+Guam

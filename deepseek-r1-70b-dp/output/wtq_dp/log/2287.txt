@@ -1,0 +1,128 @@
+===================Title===================
+Boeing 929
+===================Table===================
+|    | Hull   | Type    | Original Name    | Original Operator      | Delivery   | Disposition (2012)   | 2nd name      | 2nd operator           | 3rd Name   | 3rd operator       |
+|---:|:-------|:--------|:-----------------|:-----------------------|:-----------|:---------------------|:--------------|:-----------------------|:-----------|:-------------------|
+|  0 | No 1   | 929-117 | Tsubasa          | Sado Kisen             | Mar 1998   | Active               | nan           | nan                    | nan        | nan                |
+|  1 | No 2   | 929-117 | Pegasus          | Kyusyu Shosen Co. Ltd. | Jun 1989   | Active               | Toppy 1       | Tane Yaku Jetfoils     | nan        | nan                |
+|  2 | No 3   | 929-117 | Toppy 1          | Tane Yaku Jetfoils     | Sep 1989   | Active               | Beetle 3      | JR Kyushu Jet Ferries  | nan        | nan                |
+|  3 | No 4   | 929-117 | Princess Dacil   | Trasmediterranea       | Mar 1990   | Active               | Pegasus       | Kyusyu Shosen Co. Ltd. | nan        | nan                |
+|  4 | No 5   | 929-117 | Nagasaki         | JR Kyushu Jet Ferries  | Apr 1990   | Active               | Beetle 1      | JR Kyushu Jet Ferries  | nan        | nan                |
+|  5 | No 6   | 929-117 | Beetle           | JR Kyushu Jet Ferries  | Jul 1990   | Active               | Rocket        | Cosmo Line             | Rocket 3   | Tane Yaku Jetfoils |
+|  6 | No 7   | 929-117 | Unicorn          | Kyusyu Shosen Co. Ltd. | Oct 1990   | Active               | Pegasus 2     | Kyusyu Shosen Co. Ltd. | nan        | nan                |
+|  7 | No 8   | 929-117 | Beetle 2         | JR Kyushu Jet Ferries  | Feb 1991   | Active               | nan           | nan                    | nan        | nan                |
+|  8 | No 9   | 929-117 | Venus            | Kyushu Yusen           | Mar 1991   | Active               | nan           | nan                    | nan        | nan                |
+|  9 | No 10  | 929-117 | Suisei           | Sado Kisen             | Apr 1991   | Active               | nan           | nan                    | nan        | nan                |
+| 10 | No 11  | 929-117 | Princess Teguise | Trasmediterranea       | Jun 1991   | Active               | 2007 Toppy 5  | Tane Yaku Jetfoils     | nan        | nan                |
+| 11 | No 12  | 929-117 | Toppy 2          | Tane Yaku Jetfoils     | Apr 1992   | Active               | nan           | nan                    | nan        | nan                |
+| 12 | No 13  | 929-117 | Toppy 3          | Tane Yaku Jetfoils     | Mar 1995   | Active               | nan           | nan                    | nan        | nan                |
+| 13 | No 14  | 929-117 | Crystal Wing     | Kaijo Access Co.       | Jun 1994   | Active               | 2002 Beetle 5 | JR Kyushu Jet Ferries  | nan        | nan                |
+| 14 | No 15  | 929-117 | Emerald Wing     | Kaijo Access Co.       | Jun 1994   | Active               | 2004 Rocket 1 | Cosmo Line             | -          | Tane Yaku Jetfoil  |
+===================Question===================
+how boats do tane yaku jetfoils operate in total?
+===================Text===================
+<think>
+Okay, so I need to figure out how many boats Tane Yaku Jetfoils operate in total based on this table. Let me start by understanding the data presented.
+
+Looking at the table, each row represents a different boat with various details like Hull number, Type, Original Name, Operator, Delivery date, and Disposition as of 2012. Also, there are columns for second and third names and operators, but in many cases, those are marked as "nan," which I assume means not applicable or no data.
+
+The question is specifically about Tane Yaku Jetfoils. So, I should focus on the "Original Operator" and see where it's listed as Tane Yaku Jetfoils. Additionally, I should check the 2nd operator column because sometimes an operator might change, but since the table shows the status up to 2012, I need to consider if any second operators are also Tane Yaku Jetfoils.
+
+Let me go through each row one by one:
+
+1. Row 0: Original Operator is Sado Kisen. Not relevant.
+2. Row 1: Original Operator is Kyusyu Shosen Co. Ltd. The 2nd operator is Tane Yaku Jetfoils, so this counts as one boat operated by them.
+3. Row 2: Original Operator is Tane Yaku Jetfoils. That's another one.
+4. Row 3: Original Operator is Trasmediterranea. Not relevant. The second operator here is Kyusyu Shosen Co. Ltd., but that doesn't involve Tane Yaku.
+5. Row 4: Original Operator is JR Kyushu Jet Ferries. Second operator isn't listed, so no.
+6. Row 5: Original Operator is JR Kyushu Jet Ferries again. The second operator is Cosmo Line, and the third name's operator is Tane Yaku Jetfoils. So that's another one, making it three now because in row 2 they were original operators, here they are third.
+7. Row 6: Original Operator is Kyusyu Shosen Co. Ltd., so not relevant for Tane Yaku directly.
+8. Row 7: Original Operator is JR Kyushu Jet Ferries, no second operator listed.
+9. Rows 8 and 9: Operators are Kyushu Yusen and Sado Kisen respectively, not related.
+10. Row 10: Trasmediterranea originally, but the second operator is Tane Yaku. That's another one, total four now.
+11. Rows 11 and 12: Original Operator is Tane Yaku Jetfoils for both, so that adds two more, making it six.
+12. Row 13: Original Operator is Kaijo Access Co., but the second operator is JR Kyushu, not Tane Yaku.
+13. Row 14: Original Operator is also Kaijo Access Co., and the second operator is Cosmo Line, with a third entry where operator is Tane Yaku Jetfoil (singular). So that's another one, bringing total to seven.
+
+Wait, let me recount because I might have gotten confused:
+
+- Row1: Second operator is Tane Yaku. 1
+- Row2: Original operator is Tane Yaku. 2
+- Row5: Third operator is Tane Yaku. 3
+- Row10: Second operator is Tane Yaku. 4
+- Row11: Original operator is Tane Yaku. 5
+- Row12: Original operator is Tane Yaku. 6
+- Row14: Third operator is Tane Yaku Jetfoil. 7
+
+But wait, looking again at row14, the third operator is "-". Wait no, the table shows:
+
+For row14:
+Third Name: -
+Third Operator: Tane Yaku Jetfoil.
+
+Wait, actually, looking back, in row14 (index 14), under "3rd operator" it's listed as "Tane Yaku Jetfoil." So that's another one. But wait, I thought the third name was "-", so maybe it's not a separate boat but an alternate name? Or does Tane Yaku operate this as their third instance? Hmm.
+
+Wait, perhaps I should consider all instances where either Original Operator or second operator is Tane Yaku Jetfoils. So:
+
+Row1: 2nd op = Tane Yaku
+Row2: original
+Row5: 3rd op = Tane Yaku
+Row10: 2nd op = Tane Yaku
+Row11: original
+Row12: original
+Row14: 3rd op = Tane Yaku
+
+So that's 7 instances. But wait, the way the table is structured, each row represents a single boat with multiple names over time. So for example, in Row1, the same hull is operated by Kyusyu Shosen as Pegasus, then later by Tane Yaku as Toppy 1. Similarly, some boats are operated by multiple operators at different times.
+
+But since the question is about how many distinct boats does Tane Yaku operate in total, considering both original and any subsequent operations.
+
+So for each row where either Original Operator or Second Operator (or Third) is Tane Yaku Jetfoils:
+
+Row1: Counts as one boat
+Row2: another
+Row5: another
+Row10: another
+Row11: another
+Row12: another
+Row14: another
+
+That totals 7 boats.
+
+But wait, looking at the data again. Let me check each row's operators more carefully.
+
+Starting from top:
+
+1. **Hull 0**: Original Operator is Sado Kisen; second operator is empty. Doesn't count.
+2. **Hull 1**: Original Operator is Kyusyu Shosen Co., Ltd.; Second Operator is Tane Yaku Jetfoils (as Toppy 1). So counts as one.
+3. **Hull 2**: Original Operator is Tane Yaku Jetfoils; so that's another one, making it two.
+4. **Hull 3**: Trasmediterranea originally, then Kyusyu Shosen. Doesn't count.
+5. **Hull 4**: JR Kyushu Jet Ferries; no second operator listed.
+6. **Hull 5**: Original Operator is JR Kyushu. Second operator is Cosmo Line as "Cosmo", third name's operator is Tane Yaku (as "-"). So counts, making it three.
+7. **Hull 6**: Kyusyu Shosen; no second op related to Tane Yaku.
+8. **Hull 7**: JR Kyushu Jet Ferries again.
+9. **Hull 8**: Original Operator is Kyushu Yusen.
+10. **Hull9**: Sado Kisen.
+11. **Hull10**: Trasmediterranea originally, second operator is Tane Yaku (name: "Tane"), so that's four.
+12. **Hull11**: Original Operator is Tane Yaku, fifth.
+13. **Hull12**: Original Operator is Tane Yaku, sixth.
+14. **Hull13**: Kaijo Access Co., second operator JR Kyushu; third op: Cosmo Line? Wait no. Let me recheck:
+
+Wait, row14 has:
+
+- Original Name: None specified
+- Original Operator: Kaijo Access Co.
+- 2nd Name: "Cosmo"
+- 2nd Operator: Cosmo Line
+- 3rd Name: "-"
+- 3rd Operator: Tane Yaku Jetfoil.
+
+So for this hull (Hull14), the original operator is Kaijo, then second operator is Cosmo Line, third operator is Tane Yaku. So even though it's the same physical boat, if it was operated by Tane Yaku at some point before 2012, does that count? Since the disposition as of 2012 might still have Tane Yaku operating it. But in this case, Hull14's third operator is Tane Yaku, which suggests they were operating it, perhaps from the latest change.
+
+So including this would add a seventh boat operated by Tane Yaku Jetfoils.
+
+Therefore, in total, I count 7 boats where either original or subsequent operators include Tane Yaku Jetfoils. Thus, the answer should be 7.
+</think>
+
+Tane Yaku Jetfoils operates a total of **7 boats** based on the provided data.
+===================Answer===================
+3

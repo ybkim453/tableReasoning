@@ -1,0 +1,49 @@
+===================Title===================
+Toy safety
+===================Table===================
+|    |   Year | Injuries (US $000)   |   Deaths (age <15) | CPSC toy safety funding\n(US$ Millions)   |   Toy sales\n(US $ Billions) |
+|---:|-------:|:---------------------|-------------------:|:------------------------------------------|-----------------------------:|
+|  0 |   1994 | 154                  |                nan | nan                                       |                        nan   |
+|  1 |   1995 | 139                  |                nan | nan                                       |                        nan   |
+|  2 |   1996 | 130                  |                nan | nan                                       |                        nan   |
+|  3 |   1997 | 141                  |                nan | nan                                       |                        nan   |
+|  4 |   1998 | 153                  |                 14 | nan                                       |                        nan   |
+|  5 |   1999 | 152                  |                 16 | 13.6                                      |                        nan   |
+|  6 |   2000 | 191                  |                 17 | 12.0                                      |                        nan   |
+|  7 |   2001 | 255                  |                 25 | 12.4                                      |                        nan   |
+|  8 |   2002 | 212                  |                 13 | 12.2                                      |                         21.3 |
+|  9 |   2003 | 206                  |                 11 | 12.8                                      |                         20.7 |
+| 10 |   2004 | 210                  |                 16 | 11.5                                      |                         22.4 |
+| 11 |   2005 | 202 (estimate)       |                 20 | 11.0                                      |                         22.2 |
+| 12 |   2006 | no data              |                 22 | no data†                                  |                         22.3 |
+| 13 |   2007 | no data              |                 22 | no data                                   |                        nan   |
+| 14 |   2008 | no data              |                 19 | no data                                   |                        nan   |
+| 15 |   2009 | no data              |                 12 | no data                                   |                        nan   |
+===================Question===================
+how many injuries occurred in 2004?
+===================Text===================
+<think>
+Alright, so I need to figure out how many injuries occurred in 2004 based on this table about toy safety. Let me start by looking at the structure of the table provided.
+
+The table has several columns: Year, Injuries (US $000), Deaths (age <15), CPSC toy safety funding (US$ Millions), and Toy sales (US $ Billions). Each row corresponds to a specific year from 1994 up to 2009. 
+
+First, I'll scan through the years listed in the table to find the row for 2004. Let's see... The years go from 1994 at index 0, then each subsequent row increments by one year. So, 1995 is index 1, 1996 is index 2, and so on. To get to 2004, I need to figure out how many rows that would be. 
+
+From 1994 (year 0) up to 2004, that's 10 years later because 1994 + 10 = 2004. Wait, no, actually, from 1994 to 2004 is 11 years including both endpoints. But looking at the table, index 0 is 1994, so each index increases by one each year. Therefore, 2004 would be at index 10 because 1994 is 0, 1995 is 1, ..., up to 2004 being 10.
+
+Now, I'll look at row 10 in the Injuries column. The entry there says "210". But wait, the column header mentions that injuries are in thousands of US dollars, so does this mean the number is 210 thousand? Or maybe it's just a raw count represented as 210,000? 
+
+Looking back at the data, I see that for other years like 1998, the Injuries column has values like 153, which must represent the number of injuries in thousands because otherwise, having 153 injuries seems low. So, if 210 is in the same unit, it would mean 210,000 injuries.
+
+But wait, let me double-check to make sure I'm interpreting this correctly. The header says "Injuries (US $000)", which might be a bit confusing. Does that mean the number of injuries is expressed in thousands, or is it the cost associated with injuries in thousands of dollars? That could change everything.
+
+If "Injuries" are counted as numbers, then having 210 would mean 210 injuries. But if it's in US$000, perhaps it refers to the cost of injuries in thousands of dollars. However, the context of the question is about how many injuries occurred, so I think it's more likely that the number represents the count, and the "US $000" might be a typo or mislabeling.
+
+Alternatively, maybe the "(US $000)" refers to another column, but looking at the table, each column seems to have its own header. So Injuries are under their own header without the "$000", so perhaps that part is just a mistake in formatting. Therefore, taking "210" as the number of injuries would make sense.
+
+So, focusing on row 10 (which is year 2004), the Injuries column has the value 210. That should be the answer.
+</think>
+
+Final Answer: 210
+===================Answer===================
+210

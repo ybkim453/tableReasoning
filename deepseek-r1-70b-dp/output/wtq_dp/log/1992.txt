@@ -1,0 +1,71 @@
+===================Title===================
+Leander-class cruiser (1931)
+===================Table===================
+|    | Name                 |   Pennant | Namesake                | Builder                 | Ordered          | Laid down         | Launched          | Commissioned      | Fate                                                                                                      |
+|---:|:---------------------|----------:|:------------------------|:------------------------|:-----------------|:------------------|:------------------|:------------------|:----------------------------------------------------------------------------------------------------------|
+|  0 | Leander              |        75 | Leander of Abydos       | HM Dockyard, Devonport  | 18 February 1928 | 1 August 1928     | 13 July 1929      | 23 July 1931      | Transferred to Royal New Zealand Navy as HMNZS Leander 1941-1945\nBroken up at Blyth 1950                 |
+|  1 | Orion                |        85 | Orion the Hunter        | HM Dockyard, Devonport  | 24 March 1931    | 26 September 1931 | 24 November 1932  | 18 January 1934   | Broken up at Dalmuir, 1949                                                                                |
+|  2 | Neptune              |        20 | Neptune, God of the Sea | HM Dockyard, Portsmouth | 2 March 1931     | 24 September 1931 | 31 January 1933   | 23 February 1934  | Sunk in minefield off Tripoli, 19 December 1941                                                           |
+|  3 | Ajax                 |        22 | Ajax the Great          | Vickers Armstrong       | 1 October 1932   | 7 February 1933   | 1 March 1934      | 12 April 1935     | Broken up at Newport, 1949                                                                                |
+|  4 | Achilles             |        70 | Achilles                | Cammell Laird           | 16 February 1931 | 11 June 1931      | 1 September 1932  | 24 March 1936     | Transferred to Royal New Zealand Navy as HMNZS Achilles 1941-1946\nSold to Indian Navy as HIMS Delhi 1948 |
+|  5 | Amphion              |        29 | Amphion of Thebes       | HM Dockyard, Portsmouth | 1 December 1932  | 22 June 1933      | 27 July 1934      | 15 June 1936      | Sold to Royal Australian Navy as HMAS Perth, 1939\nSunk in torpedo attack, 1 March 1942                   |
+|  6 | Apollo               |        63 | Apollo, God of Light    | HM Dockyard, Devonport  | 1 March 1933     | 15 August 1933    | 9 October 1934    | 13 January 1936   | Sold to Royal Australian Navy as HMAS Hobart, 1938\nBroken up at Osaka, 1962                              |
+|  7 | Sydney\n(ex-Phaeton) |        48 | City of Sydney          | Swan Hunter             | 10 February 1933 | 8 July 1933       | 22 September 1934 | 24 September 1935 | Sunk in surface action, 19 November 1941                                                                  |
+===================Question===================
+what is the total number of builder?
+===================Text===================
+<think>
+Okay, so I need to figure out how many different builders there are for the Leander-class cruisers listed in this table. Let me start by looking at each row and noting down the builder for each ship.
+
+Looking at the first entry, the builder is HM Dockyard, Devonport. Next is also HM Dockyard, Devonport. The third one is HM Dockyard, Portsmouth. Then another HM Dockyard, Portsmouth again. Moving on, the fifth entry lists Vickers Armstrong as the builder. Sixth entry goes back to Cammell Laird. Then we have HM Dockyard, Portsmouth once more. Following that is HM Dockyard, Devonport again. The next one is Swan Hunter.
+
+Wait, let me list them out:
+
+1. HM Dockyard, Devonport
+2. HM Dockyard, Devonport
+3. HM Dockyard, Portsmouth
+4. HM Dockyard, Portsmouth
+5. Vickers Armstrong
+6. Cammell Laird
+7. HM Dockyard, Portsmouth
+8. HM Dockyard, Devonport
+9. Swan Hunter
+
+Now, I need to identify the unique builders. Let's see:
+
+- HM Dockyard, Devonport: appears multiple times.
+- HM Dockyard, Portsmouth: also appears multiple times.
+- Vickers Armstrong: once.
+- Cammell Laird: once.
+- Swan Hunter: once.
+
+So each of these is a separate builder except for the HM Dockyards which are just different locations but under the same parent organization. Wait, no—the question is about the number of builders. Each ship's builder is listed as either a specific dockyard or a company like Vickers Armstrong. So even though HM Dockyard has two locations (Devonport and Portsmouth), they're both part of HM Dockyards but different ones.
+
+But wait, the question asks for the total number of builders. So each unique name in the "Builder" column counts as one builder. Let me check each entry:
+
+Row 0: HM Dockyard, Devonport
+Row 1: HM Dockyard, Devonport
+Row 2: HM Dockyard, Portsmouth
+Row 3: HM Dockyard, Portsmouth
+Row 4: Vickers Armstrong
+Row 5: Cammell Laird
+Row 6: HM Dockyard, Portsmouth
+Row 7: HM Dockyard, Devonport
+Row 8: Swan Hunter
+
+So the unique builders are:
+
+1. HM Dockyard, Devonport
+2. HM Dockyard, Portsmouth
+3. Vickers Armstrong
+4. Cammell Laird
+5. Swan Hunter
+
+That makes a total of 5 different builders.
+</think>
+
+The table lists ships built by five distinct builders: HM Dockyard at two locations (Devonport and Portsmouth), Vickers Armstrong, Cammell Laird, and Swan Hunter.
+
+Final Answer: 5
+===================Answer===================
+5

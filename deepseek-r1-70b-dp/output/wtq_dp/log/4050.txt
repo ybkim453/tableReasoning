@@ -1,0 +1,29 @@
+===================Title===================
+Shree 420
+===================Table===================
+|    |   # | Title                       | Singer(s)                              | Lyricist       | Length   |
+|---:|----:|:----------------------------|:---------------------------------------|:---------------|:---------|
+|  0 |   1 | "Dil Ka Haal Sune Dilwaala" | Manna Dey                              | Shailendra     | 5:36     |
+|  1 |   2 | "Ichak Dana Beechak Dana"   | Mukesh, Lata Mangeshkar                | Hasrat Jaipuri | 5:08     |
+|  2 |   3 | "Mera Juta Hai Japani"      | Mukesh                                 | Shailendra     | 4:33     |
+|  3 |   4 | "Mudh Mudh Ke Na Dekh"      | Lata Mangeshkar, Manna Dey             | Shailendra     | 6:34     |
+|  4 |   5 | "O Janewale"                | Lata Mangeshkar                        | Hasrat Jaipuri | 2:20     |
+|  5 |   6 | "Pyar Hua Iqrar Hua"        | Lata Mangeshkar, Manna Dey             | Shailendra     | 4:22     |
+|  6 |   7 | "Ramaiya Vastavaiya"        | Mohammed Rafi, Lata Mangeshkar, Mukesh | Shailendra     | 6:10     |
+|  7 |   8 | "Sham Gayi Raat Aayi"       | Lata Mangeshkar                        | Hasrat Jaipuri | 4:00     |
+===================Question===================
+how many times is the lyricist shailendra listed?
+===================Text===================
+<think>
+Alright, so I need to figure out how many times Shailendra is listed as the lyricist in the given table for "Shree 420". Let me start by looking at each row of the table and checking the Lyricist column.
+
+The first entry (row 0) has Lyricist Shailendra. That's one instance. Moving on to row 1, the lyricist is Hasrat Jaipuri, so that doesn't count. Row 2 again lists Shailendra as the lyricist, bringing the count up to two. Next, row 3 shows Shailendra once more, making it three now.
+
+Row 4 has Hasrat Jaipuri again, which we skip. Then, in row 5, Shailendra is listed for a fourth time. Row 6 also mentions Shailendra, so that's the fifth instance. The last row (row 7) lists Hasrat Jaipuri once more, so we don't count that.
+
+Adding them up: rows 0, 2, 3, 5, and 6 all have Shailendra as the lyricist. That makes a total of five times.
+</think>
+
+Final Answer: 5
+===================Answer===================
+5

@@ -1,0 +1,36 @@
+===================Title===================
+Kipkurui Misoi
+===================Table===================
+|    |   Year | Competition                       | Venue                      | Position   | Event      |
+|---:|-------:|:----------------------------------|:---------------------------|:-----------|:-----------|
+|  0 |   1996 | World Junior Championships        | Sydney, Australia          | 2nd        | 3000 m st. |
+|  1 |   1998 | World Cross Country Championships | Marrakech, Morocco         | 8th        | Short race |
+|  2 |    nan | Commonwealth Games                | Kuala Lumpur, Malaysia     | 3rd        | 3000 m st. |
+|  3 |   1999 | All-Africa Games                  | Johannesburg, South Africa | 1st        | 3000 m st. |
+|  4 |    nan | IAAF Grand Prix Final             | Munich, Germany            | 4th        | 3000 m st. |
+|  5 |   2001 | IAAF Grand Prix Final             | Melbourne, Australia       | 4th        | 3000 m st. |
+|  6 |   2004 | World Athletics Final             | Monte Carlo, Monaco        | 4th        | 3000 m st. |
+|  7 |   2005 | World Athletics Final             | Monte Carlo, Monaco        | 8th        | 3000 m st. |
+===================Question===================
+what was the competition in his only race in malaysia?
+===================Text===================
+<think>
+Alright, let's figure out what competition Kipkurui Misoi participated in during his only race in Malaysia. I'll start by looking at each row of the table provided to find where the venue was in Malaysia.
+
+Looking through the venues:
+- Sydney, Australia (1996)
+- Marrakech, Morocco (1998)
+- Kuala Lumpur, Malaysia (with a 'nan' year, but it's definitely Malaysia)
+- Johannesburg, South Africa (1999)
+- Munich, Germany (with another 'nan' year)
+- Melbourne, Australia (2001)
+- Monte Carlo, Monaco (2004 and 2005)
+
+So, the only row with a venue in Malaysia is index 2. The competition listed there is the "Commonwealth Games." I should make sure that this is indeed his only race in Malaysia by checking all other venues, which I did, and none others are in Malaysia.
+
+Therefore, the answer should be the name of that competition.
+</think>
+
+Final Answer: Commonwealth Games
+===================Answer===================
+Commonwealth Games

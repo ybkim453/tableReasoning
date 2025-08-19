@@ -1,0 +1,119 @@
+===================Title===================
+Imparja Cup
+===================Table===================
+|    |   Year | State/Territory Men's Division   | State/Territory Women's Division   | Major Centres Division   | Community Division   | Women's Division   |
+|---:|-------:|:---------------------------------|:-----------------------------------|:-------------------------|:---------------------|:-------------------|
+|  0 |   2012 | Queensland                       | New South Wales                    | nan                      | nan                  | nan                |
+|  1 |   2012 | New South Wales                  | New South Wales                    | Darwin                   | Brothers in Arms     | Bush Potatoes      |
+|  2 |   2011 | New South Wales                  | New South Wales                    | Maranoa Murris           | Gap Angels           | Bush Potatoes      |
+|  3 |   2010 | Western Australia                | nan                                | nan                      | nan                  | nan                |
+|  4 |   2009 | Queensland                       | nan                                | Alkupitja                | Tangentyere          | New South Wales    |
+|  5 |   2008 | Queensland                       | nan                                | Katherine                | Cooktown             | New South Wales    |
+|  6 |   2007 | New South Wales                  | nan                                | Alkupitja                | Cat Tigers           | CGA Cougars        |
+|  7 |   2006 | Queensland                       | nan                                | Alice Springs            | Melville Island      | Darwin             |
+|  8 |   2005 | Queensland                       | nan                                | Alice Springs            | Alkupitja            | Darwin             |
+|  9 |   2004 | Queensland                       | nan                                | Alice Springs            | Normanton            | Tennant Creek      |
+| 10 |   2003 | New South Wales                  | nan                                | Darwin                   | nan                  | nan                |
+| 11 |   2002 | Northern Territory               | nan                                | Darwin                   | nan                  | nan                |
+| 12 |   2001 | Tasmania                         | nan                                | nan                      | nan                  | nan                |
+===================Question===================
+what is the number of winners in the community division?
+===================Text===================
+<think>
+Okay, so I've got this table about the Imparja Cup, and I'm supposed to figure out how many winners there are in the Community Division. Let me look at the table carefully.
+
+First, I see that each row represents a different year, from 2001 to 2012. Each column seems to represent different divisions: State/Territory Men's, Women's, Major Centres, Community, and another Women's Division. My focus is on the Community Division column.
+
+I need to count the number of unique winners in that specific column. So I'll go row by row and note down each winner, making sure not to double-count any names that repeat.
+
+Starting from 2012 (the first two entries for 2012), I see "Brothers in Arms" and then "Gap Angels." Those are two different winners. Moving on to the next rows:
+
+- 2011: "Gap Angels" again.
+- 2010: No entry, it's 'nan', so I skip that.
+- 2009: "Tangentyere."
+- 2008: "Cooktown."
+- 2007: "Cat Tigers."
+- 2006: "Melville Island."
+- 2005: "Alkupitja."
+- 2004: "Normanton" and "Tennant Creek." Wait, no, the Community Division for 2004 is just "Normanton," I think. Let me check again. Oh, wait, no—that's in a different column. The Community Division for 2004 is "Normanton."
+- Then, going back up:
+- 2003: 'nan', so nothing.
+- 2002: 'nan' as well.
+- 2001: Also 'nan'.
+
+Wait, maybe I should list them all out to be sure.
+
+From the table:
+
+Row | Year | Community Division
+---:|-----:|:-------------------
+0 |2012| nan
+1 |2012| Brothers in Arms
+2 |2011| Gap Angels
+3 |2010| nan
+4 |2009| Tangentyere
+5 |2008| Cooktown
+6 |2007| Cat Tigers
+7 |2006| Melville Island
+8 |2005| Alkupitja
+9 |2004| Normanton
+10|2003| nan
+11|2002| nan
+12|2001| nan
+
+Wait, actually looking at the data:
+
+Looking back, for each row from 0 to 12:
+
+Row 0: Community Division is 'nan'.
+Row 1: "Brothers in Arms"
+Row 2: "Gap Angels"
+Row3: 'nan'
+Row4: "Tangentyere"
+Row5: "Cooktown"
+Row6: "Cat Tigers"
+Row7: "Melville Island"
+Row8: "Alkupitja"
+Row9: "Normanton"
+Rows10-12: all 'nan'.
+
+So, the winners in Community Division are:
+
+Brothers in Arms,
+Gap Angels,
+Tangentyere,
+Cooktown,
+Cat Tigers,
+Melville Island,
+Alkupitja,
+Normanton.
+
+Let me count them: that's 8 unique winners. But wait, did I miss any? Let me check each row again to make sure.
+
+Alternatively, perhaps some of these names repeat in different years. Looking at the list: Brothers in Arms only once, Gap Angels twice, but no, looking back:
+
+Row1: Brothers in Arms
+Row2: Gap Angels (so that's a unique one)
+Rows4-9 have Tangentyere, Cooktown, Cat Tigers, Melville Island, Alkupitja, Normanton—each appears once.
+
+Wait, does "Gap Angels" appear twice? Let me check row 1 and row2:
+
+No, in row1 it's Brothers in Arms, then in row2, Gap Angels. So each name is unique except for Gap Angels appearing once. Wait no, only one entry per winner. So total unique winners are 8.
+
+Wait, I thought earlier it might be 8, but let me recount the list:
+
+Brothers in Arms,
+Gap Angels,
+Tangentyere,
+Cooktown,
+Cat Tigers,
+Melville Island,
+Alkupitja,
+Normanton.
+
+That's 8 distinct names.
+</think>
+
+Final Answer: Brothers in Arms, Gap Angels, Tangentyere, Cooktown, Cat Tigers, Melville Island, Alkupitja, Normanton
+===================Answer===================
+8

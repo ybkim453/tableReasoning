@@ -1,0 +1,43 @@
+===================Title===================
+Vitaliy Denisov
+===================Table===================
+|    | Season   | Team                    | Country   |   Division |   Apps |   Goals |
+|---:|:---------|:------------------------|:----------|-----------:|-------:|--------:|
+|  0 | 2004     | CSKA Moscow             | Russia    |          1 |      0 |       0 |
+|  1 | 2005     | CSKA Moscow             | Russia    |          1 |      0 |       0 |
+|  2 | 2006     | Spartak Nizhny Novgorod | Russia    |          2 |     36 |       1 |
+|  3 | 2006/07  | Dnipro Dnipropetrovsk   | Ukraine   |          1 |     12 |       0 |
+|  4 | 2007/08  | Dnipro Dnipropetrovsk   | Ukraine   |          1 |     24 |       0 |
+|  5 | 2008/09  | Dnipro Dnipropetrovsk   | Ukraine   |          1 |     22 |       1 |
+|  6 | 2009/10  | Dnipro Dnipropetrovsk   | Ukraine   |          1 |     28 |       0 |
+|  7 | 2010/11  | Dnipro Dnipropetrovsk   | Ukraine   |          1 |     23 |       0 |
+|  8 | 2011/12  | Dnipro Dnipropetrovsk   | Ukraine   |          1 |     16 |       0 |
+|  9 | 2012/13  | Dnipro Dnipropetrovsk   | Ukraine   |          1 |     10 |       1 |
+| 10 | 2012/13  | Lokomotiv Moscow        | Russia    |          1 |      8 |       0 |
+| 11 | 2013/14  | Lokomotiv Moscow        | Russia    |          1 |     14 |       1 |
+===================Question===================
+how many goals were made by this individual?
+===================Text===================
+<think>
+Alright, so I need to figure out how many goals Vitaliy Denisov made based on the table provided. Let me look through each row and add up all the goals he scored.
+
+Starting from Season 2004 with CSKA Moscow, he didn't score any goals in that season. The same goes for 2005; still zero goals there. Then in 2006, he moved to Spartak Nizhny Novgorod and scored 1 goal.
+
+Next, looking at the seasons from 2006/07 to 2012/13 with Dnipro Dnipropetrovsk, I check each season's goals:
+
+- 2006/07: 0
+- 2007/08: 0
+- 2008/09: 1
+- 2009/10: 0
+- 2010/11: 0
+- 2011/12: 0
+- 2012/13 (first part): 1
+
+Then, in the same season (2012/13), he moved to Lokomotiv Moscow and scored 0 goals. The following season, 2013/14 with Lokomotiv Moscow, he scored 1 goal.
+
+Adding them all up: 1 + 1 + 1 = 3 goals in total.
+</think>
+
+Final Answer: 3
+===================Answer===================
+2

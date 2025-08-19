@@ -1,0 +1,50 @@
+===================Title===================
+Great Officer of State
+===================Table===================
+|    |   Position | Officer                       | current officers                   | superseded by       | Royal Household     |
+|---:|-----------:|:------------------------------|:-----------------------------------|:--------------------|:--------------------|
+|  0 |          1 | Lord High Steward             | vacant                             | Justiciar           | Lord Steward        |
+|  1 |          2 | Lord High Chancellor          | The Rt Hon Chris Grayling, MP      | nan                 | nan                 |
+|  2 |          3 | Lord High Treasurer           | in commission                      | nan                 | nan                 |
+|  3 |          4 | Lord President of the Council | The Rt Hon Nick Clegg, MP          | nan                 | nan                 |
+|  4 |          5 | Lord Privy Seal               | The Rt Hon Andrew Lansley, CBE, MP | nan                 | nan                 |
+|  5 |          6 | Lord Great Chamberlain        | The Marquess of Cholmondeley       | Lord High Treasurer | Lord Chamberlain    |
+|  6 |          7 | Lord High Constable           | vacant                             | Earl Marshal        | Master of the Horse |
+|  7 |          8 | Earl Marshal                  | The Duke of Norfolk                | nan                 | Master of the Horse |
+|  8 |          9 | Lord High Admiral             | HRH The Duke of Edinburgh          | nan                 | nan                 |
+===================Question===================
+besides lord high steward, what other position is vacant?
+===================Text===================
+<think>
+Okay, let me try to figure this out. So, the question is asking, besides Lord High Steward, what other position is vacant in the given table.
+
+First, I'll look at the table provided. The table has several columns: Position number, Position name, Officer, current officers, superseded by, and Royal Household. 
+
+I need to find which positions have their "current officers" listed as "vacant". From the first row, position 1 is Lord High Steward, and it's vacant. So that's one.
+
+Now, I'll go through each row one by one to see if any others are vacant.
+
+Row 0: Position 1 - Lord High Steward, vacant. That's already known.
+
+Row 1: Position 2 - Lord High Chancellor, current officer is The Rt Hon Chris Grayling, MP. Not vacant.
+
+Row 2: Position 3 - Lord High Treasurer, current officers are "in commission". So that's occupied by a commission, not vacant.
+
+Row 3: Position 4 - Lord President of the Council, held by Nick Clegg. Occupied.
+
+Row 4: Position 5 - Lord Privy Seal, held by Andrew Lansley. Also occupied.
+
+Row 5: Position 6 - Lord Great Chamberlain, held by The Marquess of Cholmondeley. Not vacant.
+
+Row 6: Position 7 - Lord High Constable. Here, the current officer is listed as "vacant". So that's another position besides Lord High Steward that's vacant.
+
+Rows 7 and beyond don't seem to have any vacancies mentioned. 
+
+So, the two positions that are vacant are Lord High Steward (Position 1) and Lord High Constable (Position 7). But since the question is asking for other positions besides Lord High Steward, the answer should be just Lord High Constable.
+
+Wait, let me double-check to make sure I didn't miss anything. Scanning through each row again quickly: only Positions 0 (Lord High Steward) and 6 (Lord High Constable) are marked as vacant. So yes, that's it.
+</think>
+
+Final Answer: Lord High Constable
+===================Answer===================
+Lord High Constable

@@ -1,0 +1,38 @@
+===================Title===================
+Canadian National class N-4 2-8-0
+===================Table===================
+|    | Builder   | Works numbers            |   Dates | CN numbers                                 | GT numbers                       | Notes                        |
+|---:|:----------|:-------------------------|--------:|:-------------------------------------------|:---------------------------------|:-----------------------------|
+|  0 | MLW       | 39548-39562\n40583-40622 |    1906 | 2525-2566\n2663                            | 651-705                          | nan                          |
+|  1 | MLW       | 42331-42345\n43150-43164 |    1907 | 2577-2605\n2661-2662\n2685                 | 721-750                          | nan                          |
+|  2 | ALCO      | 42046-42060\n43540-43554 |    1907 | 2567-2576\n2606-2615\n2664-2665\n2669-2676 | 706-720\n752\n755\n758\n761\n763 | nan                          |
+|  3 | MLW       | 45163-45182              |    1908 | 2627-2646                                  | 631-650                          | nan                          |
+|  4 | MLW       | 46880-46894              |    1910 | 2647-2660\n2686                            | 616-630                          | nan                          |
+|  5 | ALCO      | 49663-49674              |    1911 | 2616-2625\n2677-2678                       | 766-777                          | built at ALCO's Brooks Works |
+|  6 | ALCO      | 50472-50481              |    1911 | 2626\n2666-2668\n2679-2684                 | 779-780\n784\n786-787            | nan                          |
+===================Question===================
+what is the last date given on the chart?
+===================Text===================
+<think>
+Okay, so I'm trying to figure out what the last date given in this table is. Let me look at the table again. Each row represents different locomotives with various details like Builder, Works numbers, Dates, CN numbers, GT numbers, and Notes.
+
+The "Dates" column probably shows when each of these locomotives were built or delivered. I need to find the latest date among all these entries. Let me go through each row one by one.
+
+Row 0: The date is 1906.
+Row 1: Date is 1907.
+Row 2: Also 1907, same as Row 1.
+Row 3: Here, it's 1908.
+Row 4: This one is 1910.
+Row 5: 1911.
+Row 6: Also 1911.
+
+Looking at these dates, the earliest is 1906 and the latest I see are both in Rows 5 and 6, which are from 1911. So the last date given in the chart should be 1911.
+
+Wait, just to make sure I didn't miss any dates beyond that. Scanning through all the rows again: 1906, 1907 (twice), 1908, 1910, and two entries for 1911. Yep, no higher years than 1911 here.
+</think>
+
+The last date in the chart is 1911.
+
+Final Answer: 1911
+===================Answer===================
+1911

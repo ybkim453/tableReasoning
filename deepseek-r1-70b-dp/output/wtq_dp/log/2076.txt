@@ -1,0 +1,56 @@
+===================Title===================
+List of defunct National Basketball Association teams
+===================Table===================
+|    | Team                    | City                     | Years active   |   Seasons played | Win–loss record   | Win%   |   Playoffs appearances |
+|---:|:------------------------|:-------------------------|:---------------|-----------------:|:------------------|:-------|-----------------------:|
+|  0 | Anderson Packers        | Anderson, Indiana        | 1949–1950      |                1 | 37–27             | .578   |                      1 |
+|  1 | BAA Buffalo             | Buffalo, New York        | Never Played   |                0 | 0–0               | N/A    |                      0 |
+|  2 | BAA Indianapolis        | Indianapolis, Indiana    | Never Played   |                0 | 0–0               | N/A    |                      0 |
+|  3 | Baltimore Bullets*      | Baltimore, Maryland      | 1947–1954      |                8 | 158–292           | .351   |                      3 |
+|  4 | Chicago Stags           | Chicago, Illinois        | 1946–1950      |                4 | 145–92            | .612   |                      4 |
+|  5 | Cleveland Rebels        | Cleveland, Ohio          | 1946–1947      |                1 | 30–30             | .500   |                      1 |
+|  6 | Denver Nuggets          | Denver, Colorado         | 1949–1950      |                1 | 11–51             | .177   |                      0 |
+|  7 | Detroit Falcons         | Detroit, Michigan        | 1946–1947      |                1 | 20–40             | .333   |                      0 |
+|  8 | Indianapolis Jets       | Indianapolis, Indiana    | 1948–1949      |                1 | 18–42             | .300   |                      0 |
+|  9 | Indianapolis Olympians  | Indianapolis, Indiana    | 1949–1953      |                4 | 132–137           | .491   |                      4 |
+| 10 | Pittsburgh Ironmen      | Pittsburgh, Pennsylvania | 1946–1947      |                1 | 15–45             | .250   |                      0 |
+| 11 | Providence Steamrollers | Providence, Rhode Island | 1946–1949      |                3 | 46–122            | .274   |                      0 |
+| 12 | Sheboygan Red Skins     | Sheboygan, Wisconsin     | 1949–1950      |                1 | 22–40             | .355   |                      1 |
+| 13 | St. Louis Bombers       | St. Louis, Missouri      | 1946–1950      |                4 | 122–115           | .515   |                      3 |
+| 14 | Toronto Huskies         | Toronto, Ontario         | 1946–1947      |                1 | 22–38             | .367   |                      0 |
+| 15 | Washington Capitols     | Washington, D.C.         | 1946–1951      |                5 | 157–114           | .579   |                      4 |
+| 16 | Waterloo Hawks          | Waterloo, Iowa           | 1949–1950      |                1 | 19–43             | .306   |                      0 |
+===================Question===================
+how many teams were defunct before their first season?
+===================Text===================
+<think>
+Okay, so I need to figure out how many teams were defunct before their first season based on this table. Let me look through each row carefully.
+
+First, let's understand the "Years active" column because that should give me an idea when each team was operating. A team being defunct before its first season probably means it never actually played any games, right? So I'm looking for teams where the "Years active" say "Never Played."
+
+Looking at row 1: BAA Buffalo's years are listed as "Never Played." That suggests they were supposed to play but didn't. Similarly, row 2 is BAA Indianapolis with the same note, so that's another team that never played.
+
+Now, I need to check if there are any other teams in the table that might fit this criteria. Let me go through each one:
+
+Row 0: Anderson Packers played from 1949–1950, so they did have a season.
+Row 3: Baltimore Bullets were active from 1947–1954, definitely played multiple seasons.
+Row 4: Chicago Stags from 1946–1950, active for several years.
+Row 5: Cleveland Rebels had one season in 1946–47.
+Row 6: Denver Nuggets were around 1949–50.
+Row 7: Detroit Falcons only in 46-47.
+Row 8: Indianapolis Jets played 48-49.
+Row 9: Indianapolis Olympians from 49-53.
+Row10: Pittsburgh Ironmen in 46-47.
+Row11: Providence Steamrollers until 1949.
+Row12: Sheboygan Red Skins in 49-50.
+Row13: St. Louis Bombers active through 1950.
+Row14: Toronto Huskies 46-47.
+Row15: Washington Capitols up to 1951.
+Row16: Waterloo Hawks only during 49-50.
+
+So the only two teams with "Never Played" are BAA Buffalo and BAA Indianapolis. Therefore, they were defunct before their first season because they never actually played any games.
+</think>
+
+Final Answer: 2
+===================Answer===================
+2

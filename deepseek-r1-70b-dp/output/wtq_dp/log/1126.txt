@@ -1,0 +1,394 @@
+===================Title===================
+Tommy Robredo career statistics
+===================Table===================
+|    | Outcome   |   No. | Date              | Tournament                                  | Surface   | Opponent           | Score                   |
+|---:|:----------|------:|:------------------|:--------------------------------------------|:----------|:-------------------|:------------------------|
+|  0 | Runner-up |     1 | 15 April 2001     | Grand Prix Hassan II, Casablanca, Morocco   | Clay      | Guillermo Cañas   | 5–7, 2–6                |
+|  1 | Winner    |     1 | 29 July 2001      | Orange Warsaw Open, Sopot, Poland           | Clay      | Albert Portas      | 1–6, 7–5, 7–6(7–2)      |
+|  2 | Runner-up |     2 | 20 July 2003      | Mercedes Cup, Stuttgart, Germany            | Clay      | Guillermo Coria    | 2–6, 2–6, 1–6           |
+|  3 | Winner    |     2 | 2 May 2004        | Torneo Godó, Barcelona, Spain              | Clay      | Gastón Gaudio     | 6–3, 4–6, 6–2, 3–6, 6–3 |
+|  4 | Runner-up |     3 | 1 May 2005        | Estoril Open, Estoril, Portugal             | Clay      | Gastón Gaudio     | 1–6, 6–2, 1–6           |
+|  5 | Runner-up |     4 | 30 April 2006     | Torneo Godó, Barcelona, Spain              | Clay      | Rafael Nadal       | 4–6, 4–6, 0–6           |
+|  6 | Winner    |     3 | 21 May 2006       | Hamburg Masters, Hamburg, Germany           | Clay      | Radek Štěpánek  | 6–1, 6–3, 6–3           |
+|  7 | Winner    |     4 | 16 July 2006      | Swedish Open, Båstad, Sweden               | Clay      | Nikolay Davydenko  | 6–2, 6–1                |
+|  8 | Runner-up |     5 | 14 January 2007   | Heineken Open, Auckland, New Zealand        | Hard      | David Ferrer       | 4–6, 2–6                |
+|  9 | Winner    |     5 | 5 August 2007     | Orange Warsaw Open, Sopot, Poland (2)       | Clay      | José Acasuso      | 7–5, 6–0                |
+| 10 | Runner-up |     6 | 16 September 2007 | China Open, Beijing, China                  | Hard (i)  | Fernando González | 1–6, 6–3, 1–6           |
+| 11 | Winner    |     6 | 7 October 2007    | Open de Moselle, Metz, France               | Hard (i)  | Andy Murray        | 0–6, 6–2, 6–3           |
+| 12 | Runner-up |     7 | 15 June 2008      | Orange Warsaw Open, Warsaw, Poland          | Clay      | Nikolay Davydenko  | 3–6, 3–6                |
+| 13 | Winner    |     7 | 13 July 2008      | Swedish Open, Båstad, Sweden (2)           | Clay      | Tomáš Berdych    | 6–4, 6–1                |
+| 14 | Winner    |     8 | 14 February 2009  | Brasil Open, Costa do Sauípe, Brazil       | Clay      | Thomaz Bellucci    | 6–3, 3–6, 6–4           |
+| 15 | Winner    |     9 | 22 February 2009  | Copa Telmex, Buenos Aires, Argentina        | Clay      | Juan Mónaco       | 7–5, 2–6, 7–6(7–5)      |
+| 16 | Winner    |    10 | 6 February 2011   | Chile Open, Santiago, Chile                 | Clay      | Santiago Giraldo   | 6–2, 2–6, 7–6(7–5)      |
+| 17 | Winner    |    11 | 14 April 2013     | Grand Prix Hassan II, Casablanca, Morocco   | Clay      | Kevin Anderson     | 7–6(8–6), 4–6, 6–3      |
+| 18 | Winner    |    12 | 28 July 2013      | ATP Vegeta Croatia Open Umag, Umag, Croatia | Clay      | Fabio Fognini      | 6–0, 6–3                |
+===================Question===================
+what is the largest number of consecutive tournaments won by tommy robredo?
+===================Text===================
+<think>
+Okay, so I need to figure out the largest number of consecutive tournaments that Tommy Robredo won based on this table. Let me start by looking at each entry and noting whether he was a winner or runner-up.
+
+Looking through the table row by row:
+
+1. Runner-up in 2001.
+2. Winner in 2001.
+3. Runner-up in 2003.
+4. Winner in 2004.
+5. Runner-up in 2005.
+6. Runner-up in 2006.
+7. Winner in 2006.
+8. Winner in 2006.
+9. Runner-up in 2007.
+10. Winner in 2007.
+11. Winner in 2007.
+12. Runner-up in 2008.
+13. Winner in 2008.
+14. Winner in 2009.
+15. Winner in 2009.
+16. Winner in 2011.
+17. Winner in 2013.
+18. Winner in 2013.
+
+Now, I need to track when he had consecutive wins without any losses in between. Let's list the outcomes in order:
+
+- Runner-up
+- Winner (1)
+- Runner-up
+- Winner (2)
+- Runner-up
+- Runner-up
+- Winner (3)
+- Winner (4)
+- Runner-up
+- Winner (5)
+- Winner (6)
+- Runner-up
+- Winner (7)
+- Winner (8)
+- Winner (9)
+- Winner (10)
+- Runner-up
+- Winner (11)
+- Runner-up
+- Winner (12)
+
+Wait, maybe it's better to list the sequence of outcomes as W or R:
+
+Each row outcome is either Winner (W) or Runner-up (R).
+
+So the sequence from 0 to 18 is:
+
+Row 0: R
+
+1: W
+
+2: R
+
+3: W
+
+4: R
+
+5: R
+
+6: W
+
+7: W
+
+8: R
+
+9: W
+
+10: W
+
+11: R
+
+12: W
+
+13: W
+
+14: W
+
+15: W
+
+16: R (row 8? Wait, let me check the actual table rows.
+
+Wait, the table is from row 0 to 18. Let's reindex correctly:
+
+Row 0: Runner-up (R)
+
+1: Winner (W)
+
+2: Runner-up (R)
+
+3: Winner (W)
+
+4: Runner-up (R)
+
+5: Runner-up (R)
+
+6: Winner (W)
+
+7: Winner (W)
+
+8: Runner-up (R)
+
+9: Winner (W)
+
+10: Runner-up (R)
+
+11: Winner (W)
+
+12: Runner-up (R)
+
+13: Winner (W)
+
+14: Winner (W)
+
+15: Winner (W)
+
+16: Winner (W) - Wait, row 16 is "Winner", yes.
+
+Wait no, looking back:
+
+Row numbers from 0 to 18. So each row's outcome:
+
+0: R
+
+1: W
+
+2: R
+
+3: W
+
+4: R
+
+5: R
+
+6: W
+
+7: W
+
+8: R
+
+9: W
+
+10: R (row 10 is Runner-up)
+
+11: W (row 11, Outcome Winner)
+
+12: R (row 12, Runner-up)
+
+13: W (row 13, Winner)
+
+14: W (row 14, Winner)
+
+15: W (row 15, Winner)
+
+16: W (row 16, Winner)
+
+17: W (row 17, Winner)
+
+18: W (row 18, Winner)
+
+So the sequence is:
+
+R, W, R, W, R, R, W, W, R, W, R, W, R, W, W, W, W, W.
+
+Wait, let me list each row's outcome:
+
+Row 0: Runner-up (R)
+
+1: Winner (W)
+
+2: Runner-up (R)
+
+3: Winner (W)
+
+4: Runner-up (R)
+
+5: Runner-up (R)
+
+6: Winner (W)
+
+7: Winner (W)
+
+8: Runner-up (R)
+
+9: Winner (W)
+
+10: Runner-up (R)
+
+11: Winner (W)
+
+12: Runner-up (R)
+
+13: Winner (W)
+
+14: Winner (W)
+
+15: Winner (W)
+
+16: Winner (W)
+
+17: Winner (W) [Wait, row 17 is Outcome Winner]
+
+18: Winner (W) [row 18 is also Winner]
+
+So the sequence of outcomes from 0 to 18:
+
+R, W, R, W, R, R, W, W, R, W, R, W, R, W, W, W, W, W, W.
+
+Wait, no. Let me recheck each row's outcome:
+
+- Row 0: Outcome is Runner-up (R)
+- Row 1: Winner
+- Row 2: Runner-up
+- Row3: Winner
+- Row4: Runner-up
+- Row5: Runner-up
+- Row6: Winner
+- Row7: Winner
+- Row8: Runner-up
+- Row9: Winner
+- Row10: Runner-up
+- Row11: Winner
+- Row12: Runner-up
+- Row13: Winner
+- Row14: Winner
+- Row15: Winner
+- Row16: Winner
+- Row17: Winner
+- Row18: Winner
+
+So the sequence is:
+
+R, W, R, W, R, R, W, W, R, W, R, W, R, W, W, W, W.
+
+Wait no, from row 0 to row 18, that's 19 entries. Let me list each outcome step by step:
+
+Row 0: Outcome - Runner-up (R)
+
+Row1: Winner (W)
+
+Row2: Runner-up (R)
+
+Row3: Winner (W)
+
+Row4: Runner-up (R)
+
+Row5: Runner-up (R)
+
+Row6: Winner (W)
+
+Row7: Winner (W)
+
+Row8: Runner-up (R)
+
+Row9: Winner (W)
+
+Row10: Runner-up (R)
+
+Row11: Winner (W)
+
+Row12: Runner-up (R)
+
+Row13: Winner (W)
+
+Row14: Winner (W)
+
+Row15: Winner (W)
+
+Row16: Winner (W)
+
+Row17: Winner (W)
+
+Row18: Winner (W)
+
+So the sequence is:
+
+1. R
+
+2. W
+
+3. R
+
+4. W
+
+5. R
+
+6. R
+
+7. W
+
+8. W
+
+9. R
+
+10. W
+
+11. R
+
+12. W
+
+13. R
+
+14. W
+
+15. W
+
+16. W
+
+17. W
+
+18. W
+
+So now, looking for the longest consecutive Ws.
+
+Let's go through each point:
+
+- After row0: R → 0
+- Row1: W → streak=1
+- Row2: R → reset to 0
+- Row3: W → 1
+- Row4: R → 0
+- Row5: R → still 0
+- Row6: W → 1
+- Row7: W → 2
+- Row8: R → 0
+- Row9: W →1
+- Row10: R→0
+- Row11:W→1
+- Row12:R→0
+- Row13:W→1
+- Row14:W→2
+- Row15:W→3
+- Row16:W→4
+- Row17:W→5
+- Row18:W→6
+
+So the longest streak is 6 consecutive wins at the end, from row13 to row18.
+
+Wait, let me check rows13 to 18:
+
+Row13: W (14th in the list)
+
+Rows14,15,16,17,18 are all W. So that's a total of 6 consecutive Ws.
+
+Is there any longer streak? Let's see earlier parts:
+
+- At row6 and7: two Ws
+
+After that, at rows14-18: six Ws in a row.
+
+Wait, but looking at the actual dates might matter because consecutive tournaments don't necessarily mean back-to-back in time. But since we're given the table in order of events, the assumption is that each subsequent row is the next tournament.
+
+So from row13 to row18, all are Wins without any Runner-ups in between. So 6 in a row.
+
+Therefore, the largest number is 6.
+</think>
+
+The largest number of consecutive tournaments won by Tommy Robredo is six.
+
+Final Answer: 6
+===================Answer===================
+6

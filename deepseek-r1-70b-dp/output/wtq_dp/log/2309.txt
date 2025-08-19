@@ -1,0 +1,58 @@
+===================Title===================
+2008–09 Iran Pro League
+===================Table===================
+|    | Team         | City      | Venue          | Capacity   | Head Coach               | Team Captain            | Past Season   |
+|---:|:-------------|:----------|:---------------|:-----------|:-------------------------|:------------------------|:--------------|
+|  0 | Aboomoslem   | Mashhad   | Samen          | 35,000     | Ali Hanteh               | Saeed Khani             | 4th           |
+|  1 | Bargh Shiraz | Shiraz    | Hafezieh       | 20,000     | Rasoul Korbekandi        | Sattar Zare             | 7th           |
+|  2 | Damash Gilan | Rasht     | Sardar Jangal  | 15,000     | Stanko Poklepović       | Mohammad Reza Mahdavi   | 15th          |
+|  3 | Est. Ahvaz   | Ahvaz     | Takhti Ahvaz   | 30,000     | Khodadad Azizi           | Afshin Komaei           | 8th           |
+|  4 | Esteghlal    | Tehran    | Azadi          | 90,000     | Amir Ghalenoei           | Farhad Majidi           | 13th          |
+|  5 | Foolad       | Ahvaz     | Takhti Ahvaz   | 15,000     | Majid Jalali             | Ali Badavi              | Qualifier     |
+|  6 | Malavan      | Anzali    | Takhti Anzali  | 8,000      | Mohammad Ahmadzadeh      | Masoud Gholamalizad     | 16th          |
+|  7 | Mes Kerman   | Kerman    | Shahid Bahonar | 15,000     | Parviz Mazloomi          | Farzad Hosseinkhani     | 10th          |
+|  8 | Moghavemat   | Shiraz    | Hafezieh       | 20,000     | Gholam Hossein Peyrovani | Mostafa Sabri           | 14th          |
+|  9 | Pas Hamedan  | Hamedan   | Ghods          | 5,000      | Vinko Begovic            | Omid Khouraj            | 5th           |
+| 10 | Paykan       | Qazvin    | Shahid Rajaei  | 5,000      | Ali Asghar Modir Roosta  | Mohammad Reza Tahmasebi | 9th           |
+| 11 | Payam        | Mashhad   | Samen          | 35,000     | Kazem Ghiyasiyan         | Mehdi Hasheminasab      | Qualifier     |
+| 12 | Persepolis   | Tehran    | Azadi          | 90,000     | Nelo Vingada             | Karim Bagheri           | Champion      |
+| 13 | Rah Ahan     | Rey, Iran | Rah Ahan       | 15,000     | Mehdi Tartar             | Ahmad Taghavi           | 12th          |
+| 14 | Saba Qom     | Qom       | Yadegar Emam   | 15,000     | Firouz Karimi            | Yahya Golmohammadi      | 3rd           |
+| 15 | Saipa        | Karaj     | Enghelab Karaj | 15,000     | Mohammad Mayeli Kohan    | Ebrahim Sadeghi         | 11th          |
+| 16 | Sepahan      | Esfahan   | Foolad Shahr   | 25,000     | Farhad Kazemi            | Moharram Navidkia       | 2nd           |
+| 17 | Zob Ahan     | Esfahan   | Foolad Shahr   | 25,000     | Mansour Ebrahimzadeh     | Mohammad Salsali        | 6th           |
+===================Question===================
+how many teams played in a venue that had a capacity of 15,000?
+===================Text===================
+<think>
+Okay, so I'm trying to figure out how many teams played in a venue that had a capacity of 15,000 based on the provided table. Let me go through this step by step.
+
+First, I'll look at each row of the table and check the "Capacity" column for each team. The goal is to count how many teams have exactly 15,000 as their venue's capacity.
+
+Starting from the top:
+
+- Row 0: Aboomoslem - Capacity is 35,000. That's higher than 15k, so not this one.
+- Row 1: Bargh Shiraz - Capacity is 20,000. Still higher, nope.
+- Row 2: Damash Gilan - Here the capacity is 15,000. So that's our first team.
+- Row 3: Est. Ahvaz - 30,000. Higher than needed.
+- Row 4: Esteghlal - Capacity of 90,000. Way higher.
+- Row 5: Foolad - Their venue has a capacity of 15,000. That's the second team.
+- Row 6: Malavan - Only 8,000 capacity. Too low.
+- Row 7: Mes Kerman - 15,000 again. Third team.
+- Row 8: Moghavemat - Capacity is 20,000. Not matching.
+- Row 9: Pas Hamedan - Only 5,000, so no.
+- Row 10: Paykan - Also 5,000 capacity. Doesn't fit.
+- Row 11: Payam - They have a venue with 35,000. Nope.
+- Row 12: Persepolis - 90,000 capacity. Way too big.
+- Row 13: Rah Ahan - Their capacity is exactly 15,000. Fourth team.
+- Row 14: Saba Qom - Capacity of 15,000. Fifth team.
+- Row 15: Saipa - Also 15,000. Sixth team.
+- Row 16: Sepahan - They are at 25,000. Close but not matching.
+- Row 17: Zob Ahan - Same as Sepahan, 25k capacity.
+
+So adding them up: Damash Gilan (2nd row), Foolad (5th), Mes Kerman (7th), Rah Ahan (13th), Saba Qom (14th), and Saipa (15th) all have venues with a 15,000 capacity. That makes six teams in total.
+</think>
+
+Final Answer: 6
+===================Answer===================
+6

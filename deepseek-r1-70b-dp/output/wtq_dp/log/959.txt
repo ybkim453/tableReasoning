@@ -1,0 +1,80 @@
+===================Title===================
+Janko Tipsarević
+===================Table===================
+|    | Outcome   |   No. | Date             | Tournament                                        | Surface   | Opponent               | Score                        |
+|---:|:----------|------:|:-----------------|:--------------------------------------------------|:----------|:-----------------------|:-----------------------------|
+|  0 | Runner-up |     1 | 25 October 2009  | Kremlin Cup, Russia                               | Hard (i)  | Mikhail Youzhny        | 7–6(7–5), 0–6, 4–6           |
+|  1 | Runner-up |     2 | 19 June 2010     | UNICEF Open, Netherlands                          | Grass     | Sergiy Stakhovsky      | 3–6, 0–6                     |
+|  2 | Runner-up |     3 | 27 February 2011 | International Tennis Championships, United States | Hard      | Juan Martín del Potro | 4–6, 4–6                     |
+|  3 | Runner-up |     4 | 18 June 2011     | Aegon International, United Kingdom               | Grass     | Andreas Seppi          | 6–7(5–7), 6–3, 3–5 ret.      |
+|  4 | Winner    |     1 | 2 October 2011   | Malaysian Open, Malaysia                          | Hard (i)  | Marcos Baghdatis       | 6–4, 7–5                     |
+|  5 | Winner    |     2 | 23 October 2011  | Kremlin Cup, Russia                               | Hard (i)  | Viktor Troicki         | 6–4, 6–2                     |
+|  6 | Runner-up |     5 | 30 October 2011  | St. Petersburg Open, Russia                       | Hard (i)  | Marin Čilić          | 3–6, 6–3, 2–6                |
+|  7 | Runner-up |     6 | 8 January 2012   | Chennai Open, India                               | Hard      | Milos Raonic           | 7–6(7–4), 6–7(4–7), 6–7(4–7) |
+|  8 | Winner    |     3 | 15 July 2012     | Stuttgart Open, Germany                           | Clay      | Juan Mónaco           | 6–4, 5–7, 6–3                |
+|  9 | Runner-up |     7 | 22 July 2012     | Swiss Open, Switzerland                           | Clay      | Thomaz Bellucci        | 7–6(8–6), 4–6, 2–6           |
+| 10 | Winner    |     4 | 6 January 2013   | Chennai Open, India                               | Hard      | Roberto Bautista-Agut  | 3–6, 6–1, 6–3                |
+===================Question===================
+how many of these tournaments occurred after the year 2011?
+===================Text===================
+<think>
+Okay, so I need to figure out how many of Janko Tipsarević's tournaments in the table occurred after the year 2011. Let me look at the table and go through each entry one by one.
+
+Starting with the first row: it happened on October 25, 2009, which is before 2011, so that doesn't count. The second row is June 19, 2010—also before 2011. The third row is February 27, 2011, still within 2011 but not after. The fourth row is June 18, 2011—again, same year but not after.
+
+Now, the fifth row is October 2, 2011—that's exactly in 2011, so I'm not sure if this counts as "after" or not. Wait, the question says "after," which probably means strictly beyond December 31, 2011. So maybe tournaments that happened in 2011 don't count unless they're after that date? Hmm, but October is before the end of the year, so it's still within 2011.
+
+The sixth row is October 23, 2011—still in 2011. The seventh is October 30, 2011—same thing. Moving on to the eighth entry—it's January 8, 2012, which is after 2011. That counts as one tournament after 2011.
+
+The ninth row is July 15, 2012—that's another one after 2011. Then the tenth row is July 22, 2012—another post-2011 tournament. Finally, the eleventh entry is January 6, 2013—definitely after 2011.
+
+Wait, counting that: entries 8 (Jan 2012), 9 (July 2012), 10 (July 2012 again?), wait no, let me check the numbers. Wait, looking back at the table:
+
+Looking at each row's date:
+
+0: Oct 25, 2009 - No
+
+1: Jun 19, 2010 - No
+
+2: Feb 27, 2011 - No
+
+3: Jun 18, 2011 - No
+
+4: Oct 2, 2011 - Still in 2011
+
+5: Oct 23, 2011 - Same
+
+6: Oct 30, 2011 - Same
+
+7: Jan 8, 2012 - Yes (after 2011)
+
+8: Jul 15, 2012 - Yes
+
+9: Jul 22, 2012 - Yes
+
+10: Jan 6, 2013 - Yes
+
+Wait, how many rows are there? From 0 to 10, that's 11 tournaments. So, the dates after 2011 would be entries 7,8,9,10—so four tournaments.
+
+Wait, no, let me recount:
+
+Row 7: Jan 8, 2012 - Yes
+
+Row 8: Jul 15, 2012 - Yes
+
+Row 9: Jul 22, 2012 - Yes
+
+Row 10: Jan 6, 2013 - Yes
+
+So that's four tournaments after 2011.
+
+Wait, wait—rows are numbered from 0 to 10, which is 11 entries. So in total, the ones with dates after 2011 are rows 7 (Date: Jan 8, 2012), 8 (Jul 15, 2012), 9 (Jul 22, 2012), and 10 (Jan 6, 2013). That's four tournaments.
+
+So the answer should be 4.
+</think>
+
+The number of tournaments that occurred after 2011 is 4.
+
+Final Answer: 4
+===================Answer===================
+4

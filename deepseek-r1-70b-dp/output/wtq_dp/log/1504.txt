@@ -1,0 +1,64 @@
+===================Title===================
+2005 Australia national football team season
+===================Table===================
+|    | Player       | Friendlies   | FIFA Confederations Cup   | FIFA World Cup Qual.   |   Total Goals |
+|---:|:-------------|:-------------|:--------------------------|:-----------------------|--------------:|
+|  0 | Aloisi       | 1            | 4                         | -                      |             5 |
+|  1 | Bresciano    | 2            | -                         | 1                      |             3 |
+|  2 | Thompson     | 1            | -                         | 2                      |             3 |
+|  3 | Viduka       | 1            | -                         | 2                      |             3 |
+|  4 | Chipperfield | 1            | -                         | 1                      |             2 |
+|  5 | Emerton      | -            | -                         | 2                      |             2 |
+|  6 | Milicic      | 2            | -                         | -                      |             2 |
+|  7 | Cahill       | -            | -                         | 1                      |             1 |
+|  8 | Colosimo     | 1            | -                         | -                      |             1 |
+|  9 | Culina       | -            | -                         | 1                      |             1 |
+| 10 | Elrich       | 1            | -                         | -                      |             1 |
+| 11 | Griffiths    | 1            | -                         | -                      |             1 |
+| 12 | Skoko        | -            | 1                         | -                      |             1 |
+| 13 | Zdrilic      | 1            | -                         | -                      |             1 |
+===================Question===================
+how many players scored at least 2 goals?
+===================Text===================
+<think>
+Okay, so I need to figure out how many players from the 2005 Australia national football team scored at least 2 goals in total. Let me break this down step by step. 
+
+First, looking at the table provided, each row represents a player and their goal contributions across different competitions: Friendlies, FIFA Confederations Cup, FIFA World Cup Qualifiers, and the Total Goals. The question is about the "Total Goals" column.
+
+I should go through each player's total goals and count how many have 2 or more goals. Let me list them out:
+
+1. Aloisi - 5 goals
+2. Bresciano - 3 goals
+3. Thompson - 3 goals
+4. Viduka - 3 goals
+5. Chipperfield - 2 goals
+6. Emerton - 2 goals
+7. Milicic - 2 goals
+8. Cahill - 1 goal
+9. Colosimo - 1 goal
+10. Culina - 1 goal
+11. Elrich - 1 goal
+12. Griffiths - 1 goal
+13. Skoko - 1 goal
+14. Zdrilic - 1 goal
+
+Wait, actually, the table has indexes from 0 to 13, so that's 14 players in total. 
+
+Now, I need to identify each player with Total Goals ≥2:
+
+- Aloisi: 5 → yes
+- Bresciano:3→yes
+- Thompson:3→yes
+- Viduka:3→yes
+- Chipperfield:2→yes
+- Emerton:2→yes
+- Milicic:2→yes
+
+The rest (Cahill, Colosimo, Culina, Elrich, Griffiths, Skoko, Zdrilic) each have 1 goal, which doesn't meet the "at least 2 goals" criteria.
+
+So counting these up: 1. Aloisi, 2. Bresciano, 3. Thompson, 4. Viduka, 5. Chipperfield, 6. Emerton, 7. Milicic. That makes a total of 7 players.
+</think>
+
+Final Answer: 7
+===================Answer===================
+7

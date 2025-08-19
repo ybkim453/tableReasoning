@@ -1,0 +1,77 @@
+===================Title===================
+List of schools in Saginaw, Michigan
+===================Table===================
+|    | School Name                           | Low grade   | High grade   |   Students (K-12) |   FTE Teachers |   Student/teacher ratio |
+|---:|:--------------------------------------|:------------|:-------------|------------------:|---------------:|------------------------:|
+|  0 | Bethany Lutheran School               | PK          | 8            |                28 |            3.6 |                    7.78 |
+|  1 | Bethlehem Lutheran School             | PK          | 8            |               182 |           10   |                   18.2  |
+|  2 | Christ Lutheran School                | K           | 8            |                12 |            2   |                    6    |
+|  3 | Community Baptist Christian School    | PK          | 12           |               120 |            9.8 |                   12.24 |
+|  4 | Good Shepherd Early Childhood         | PK          | K            |                20 |            1   |                   20    |
+|  5 | Grace Christian School                | PK          | 12           |               117 |           13   |                    9    |
+|  6 | Holy Cross Lutheran School            | PK          | 8            |               135 |            7.9 |                   17.09 |
+|  7 | Immanuel Lutheran School              | PK          | 8            |                82 |            5.6 |                   14.64 |
+|  8 | Michigan Lutheran Seminary            | 9           | 12           |               313 |           31   |                   10.1  |
+|  9 | Nouvel Catholic Central High School   | 9           | 12           |               505 |           37   |                   13.65 |
+| 10 | Peace Lutheran School                 | PK          | 8            |               229 |          nan   |                  nan    |
+| 11 | Sheridan Road Christian School        | K           | 12           |                42 |            5.9 |                    7.12 |
+| 12 | St Helen Elementary School            | K           | 8            |               182 |           10.9 |                   16.7  |
+| 13 | St John's Evangelical Lutheran School | K           | 8            |                32 |            3   |                   10.67 |
+| 14 | St Pauls Lutheran School              | PK          | 8            |               155 |            9.6 |                   16.15 |
+| 15 | St Stephen Elementary School          | PK          | 8            |               364 |           23.1 |                   15.76 |
+| 16 | St Thomas Aquinas Elementary School   | K           | 8            |               403 |           25   |                   16.12 |
+| 17 | Tri-City Seventh-Day Adventist School | 1           | 8            |                18 |            2.1 |                    8.57 |
+| 18 | Valley Lutheran High School           | 9           | 12           |               344 |           21   |                   16.38 |
+| 19 | Notes                                 | nan         | nan          |               nan |          nan   |                  nan    |
+===================Question===================
+which private school has the largest number of high school students enrolled?
+===================Text===================
+<think>
+Okay, so I need to figure out which private school in Saginaw, Michigan has the largest number of high school students enrolled based on this table. Let's break it down step by step.
+
+First, looking at the table, each row represents a different school with various details like low grade, high grade, number of K-12 students, FTE teachers, and student/teacher ratio. My focus here is on the number of high school students, so I need to identify which schools have high grades that include 9th through 12th grades.
+
+I'll go through each school one by one:
+
+1. **Bethany Lutheran School**: High grade is 8, so no high school.
+2. **Bethlehem Lutheran School**: High grade 8 again, no high school.
+3. **Christ Lutheran School**: High grade 8, same as above.
+4. **Community Baptist Christian School**: High grade 12, which includes 9-12. Students: 120.
+5. **Good Shepherd Early Childhood**: Only up to K, so no high school here.
+6. **Grace Christian School**: High grade 12, students: 117.
+7. **Holy Cross Lutheran School**: High grade 8, no high school.
+8. **Immanuel Lutheran School**: High grade 8, same.
+9. **Michigan Lutheran Seminary**: High grades are from 9 to 12. Students here are 313. That's a significant number.
+10. **Nouvel Catholic Central High School**: High grades 9-12 with 505 students. This is quite high.
+11. **Peace Lutheran School**: High grade 8, no high school.
+12. **Sheridan Road Christian School**: Goes up to 12th, so includes high school. Students: 42.
+13. **St Helen Elementary School**: Up to 8th grade.
+14. **St John's Evangelical Lutheran School**: Up to 8th.
+15. **St Pauls Lutheran School**: Also up to 8th.
+16. **St Stephen Elementary School**: Same, up to 8th.
+17. **St Thomas Aquinas Elementary School**: High grade is 8.
+18. **Tri-City Seventh-Day Adventist School**: Starts at 1st and goes up to 8th.
+19. **Valley Lutheran High School**: 9-12, students: 344.
+
+So the schools that have high school grades (9-12) are:
+- Community Baptist Christian School (120)
+- Grace Christian School (117)
+- Michigan Lutheran Seminary (313)
+- Nouvel Catholic Central High School (505)
+- Sheridan Road Christian School (42)
+- Valley Lutheran High School (344)
+
+Looking at the numbers, Nouvel has 505 students, which is the highest among these. Next is Valley with 344 and Michigan Lutheran with 313.
+
+Wait, but I should make sure I'm counting only high school students. The table lists "Students (K-12)", so for schools that go beyond K-12 into high school, we can assume all their students are in K-12 including high school. However, since the question is about high school enrollment, perhaps we need to focus on 9th to 12th graders only.
+
+But the problem is the table doesn't break down the number of students by grade; it just gives total K-12 for each school. So I have to assume that any school with high grades up to 12 includes their high school students in that count. Therefore, the school with the highest total K-12 students and high grades including 9-12 would be the one with the largest number of high school students.
+
+In that case, Nouvel Catholic Central High School has 505 students, which is more than Valley's 344. So Nouvel must have the largest number of high school students enrolled.
+
+I think that's the answer.
+</think>
+
+Final Answer: Nouvel Catholic Central High School
+===================Answer===================
+Nouvel Catholic Central High School

@@ -1,0 +1,55 @@
+===================Title===================
+Brickyard 400
+===================Table===================
+|    |   Year | Network   | NASCAR\nCountdown                                           | Lap-by-lap     | Color commentator(s)       | Pit reporters                                          | Ratings         | Viewers       |
+|---:|-------:|:----------|:------------------------------------------------------------|:---------------|:---------------------------|:-------------------------------------------------------|:----------------|:--------------|
+|  0 |   2007 | ESPN      | Brent Musburger\nSuzy Kolber\nBrad Daugherty                | Jerry Punch    | Rusty Wallace\nAndy Petree | Dave Burns\nJamie Little\nAllen Bestwick\nMike Massaro | 4.2 (4.9 cable) | 6.574 million |
+|  1 |   2008 | ESPN      | Allen Bestwick\nRusty Wallace\nBrad Daugherty               | Jerry Punch    | Dale Jarrett\nAndy Petree  | Dave Burns\nJamie Little\nShannon Spake\nMike Massaro  | 4.3 (5.1 cable) | 6.668 million |
+|  2 |   2009 | ESPN      | Allen Bestwick\nRusty Wallace\nBrad Daugherty\nRay Evernham | Jerry Punch    | Dale Jarrett\nAndy Petree  | Dave Burns\nJamie Little\nShannon Spake\nVince Welch   | 4.1 (4.8 cable) | 6.487 million |
+|  3 |   2010 | ESPN      | Allen Bestwick\nRusty Wallace\nBrad Daugherty\nRay Evernham | Marty Reid     | Dale Jarrett\nAndy Petree  | Dave Burns\nJamie Little\nJerry Punch\nVince Welch     | 3.6 (4.2 cable) | 5.709 million |
+|  4 |   2011 | ESPN      | Nicole Briscoe\nRusty Wallace\nBrad Daugherty               | Allen Bestwick | Dale Jarrett\nAndy Petree  | Dave Burns\nJamie Little\nJerry Punch\nVince Welch     | 4.0 (4.6 cable) | 6.337 million |
+|  5 |   2012 | ESPN      | Nicole Briscoe\nRusty Wallace\nBrad Daugherty\nRay Evernham | Allen Bestwick | Dale Jarrett\nAndy Petree  | Dave Burns\nJamie Little\nJerry Punch\nVince Welch     | 3.3             | 5.1 million   |
+|  6 |   2013 | ESPN      | Nicole Briscoe\nRusty Wallace\nBrad Daugherty\nRay Evernham | Allen Bestwick | Dale Jarrett\nAndy Petree  | Dave Burns\nJamie Little\nJerry Punch\nVince Welch     | 3.6             | 5.5 million   |
+|  7 |   2014 | ESPN      | nan                                                         | nan            | nan                        | nan                                                    | nan             | nan           |
+===================Question===================
+which year had the most viewers?
+===================Text===================
+<think>
+Okay, so I need to figure out which year had the most viewers for the Brickyard 400 based on the provided table. Let me start by looking at the table columns: Year, Network, NASCAR Countdown announcers, Lap-by-lap commentator, Color commentators, Pit reporters, Ratings, and Viewers.
+
+The question is specifically about the number of viewers each year, so I should focus on the "Viewers" column. Let's go through each row one by one to identify the viewer numbers.
+
+Starting with 2007: The viewers are listed as 6.574 million.
+
+In 2008, it's a bit higher at 6.668 million.
+
+Moving to 2009, the number slightly drops to 6.487 million.
+
+2010 shows a more significant drop to 5.709 million.
+
+Then in 2011, there's an increase again to 6.337 million.
+
+For 2012, it goes down to 5.1 million.
+
+In 2013, it's up a bit at 5.5 million.
+
+2014 is marked as 'nan', which I assume means the data isn't available or not applicable for that year, so we can ignore that one.
+
+Now, comparing all these numbers: 
+
+- 2007: 6.574M
+- 2008: 6.668M (higher than 2007)
+- 2009: 6.487M (lower than 2008)
+- 2010: 5.709M (much lower)
+- 2011: 6.337M (still lower than 2008)
+- 2012: 5.1M
+- 2013: 5.5M
+
+So the highest number is in 2008 with 6.668 million viewers. That seems to be the peak year based on the data provided.
+
+I should make sure I didn't miss any larger numbers elsewhere, but from this table, each subsequent year after 2008 either stays around similar lower numbers or continues to drop. So yes, 2008 is the clear winner here for having the most viewers.
+</think>
+
+Final Answer: 2008
+===================Answer===================
+2008

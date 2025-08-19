@@ -1,0 +1,34 @@
+===================Title===================
+Speed skating at the 1972 Winter Olympics
+===================Table===================
+|    |   Rank | Nation              |   Gold |   Silver |   Bronze |   Total |
+|---:|-------:|:--------------------|-------:|---------:|---------:|--------:|
+|  0 |      1 | Netherlands (NED)   |      4 |        3 |        2 |       9 |
+|  1 |      2 | United States (USA) |      2 |        1 |        1 |       4 |
+|  2 |      3 | West Germany (FRG)  |      2 |        0 |        0 |       2 |
+|  3 |      4 | Norway (NOR)        |      0 |        2 |        2 |       4 |
+|  4 |      5 | Soviet Union (URS)  |      0 |        1 |        2 |       3 |
+|  5 |      6 | Sweden (SWE)        |      0 |        1 |        1 |       2 |
+|  6 |    nan | Total               |      8 |        8 |        8 |      24 |
+===================Question===================
+what is the total number of medals that the united states had?
+===================Text===================
+<think>
+Okay, so I need to figure out how many medals the United States won in speed skating at the 1972 Winter Olympics. Let's see, I have this table here that lists various nations and their medal counts.
+
+First, I'll look through each row of the table until I find the one for the United States. Let me scan down... Netherlands is first with a total of 9 medals, then West Germany comes next. Ah, here it is: at rank 2, the United States (USA) has Gold, Silver, and Bronze counts.
+
+Looking specifically at their row:
+
+- Gold: 2
+- Silver: 1
+- Bronze: 1
+
+To find the total number of medals, I should add these three numbers together. So that's 2 plus 1 plus another 1. Let me do the math: 2 + 1 equals 3, and then adding 1 more makes it 4.
+
+So, the United States had a total of 4 medals in speed skating at those games.
+</think>
+
+Final Answer: 4
+===================Answer===================
+4

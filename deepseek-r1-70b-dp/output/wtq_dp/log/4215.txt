@@ -1,0 +1,63 @@
+===================Title===================
+Men's 200 metres world record progression
+===================Table===================
+|    | Time   | Wind   | Auto   | Athlete        | Nationality    | Location of race              | Date              |
+|---:|:-------|:-------|:-------|:---------------|:---------------|:------------------------------|:------------------|
+|  0 | 20.6y  | nan    | nan    | Andy Stanfield | United States  | Philadelphia, United States   | May 26, 1951      |
+|  1 | 20.6   | nan    | nan    | Andy Stanfield | United States  | Los Angeles, United States    | June 28, 1952     |
+|  2 | 20.6   | 0.0    | nan    | Thane Baker    | United States  | Bakersfield, United States    | June 23, 1956     |
+|  3 | 20.6   | nan    | 20.75  | Bobby Morrow   | United States  | Melbourne, Australia          | November 27, 1956 |
+|  4 | 20.6   | nan    | nan    | Manfred Germar | West Germany   | Wuppertal, Germany            | October 1, 1958   |
+|  5 | 20.6y  | −1.6   | nan    | Ray Norton     | United States  | Berkeley, United States       | March 19, 1960    |
+|  6 | 20.6   | nan    | nan    | Ray Norton     | United States  | Philadelphia, United States   | April 30, 1960    |
+|  7 | 20.5y  | nan    | nan    | Peter Radford  | United Kingdom | Wolverhampton, United Kingdom | May 28, 1960      |
+|  8 | 20.5   | 0.0    | 20.75  | Stone Johnson  | United States  | Stanford, United States       | July 2, 1960      |
+|  9 | 20.5   | 0.0    | nan    | Ray Norton     | United States  | Stanford, United States       | July 2, 1960      |
+| 10 | 20.5   | nan    | 20.65  | Livio Berruti  | Italy          | Rome, Italy                   | September 3, 1960 |
+| 11 | 20.5   | nan    | 20.62  | Livio Berruti  | Italy          | Rome, Italy                   | September 3, 1960 |
+| 12 | 20.5y  | −1.1   | 20.67  | Paul Drayton   | United States  | Walnut, United States         | June 23, 1962     |
+| 13 | 20.3y  | −0.1   | nan    | Henry Carr     | United States  | Tempe, United States          | March 23, 1963    |
+| 14 | 20.2y  | 0.5    | nan    | Henry Carr     | United States  | Tempe, United States          | April 4, 1964     |
+| 15 | 20.0y  | 0.0    | nan    | Tommie Smith   | United States  | Sacramento, United States     | June 11, 1968     |
+| 16 | 19.8A  | 0.9    | 19.83A | Tommie Smith   | United States  | Mexico City, Mexico           | October 16, 1968  |
+| 17 | 19.8A  | 0.9    | 19.86A | Donald Quarrie | Jamaica        | Cali, Colombia                | August 3, 1971    |
+| 18 | 19.8+  | 1.3    | nan    | Donald Quarrie | Jamaica        | Eugene, Oregon, United States | June 7, 1975      |
+===================Question===================
+who set records only in philadelphia and los angeles, but no records in sacramento?
+===================Text===================
+<think>
+Alright, I need to figure out who set records only in Philadelphia and Los Angeles but not in Sacramento based on the provided table. Let me go through each step carefully.
+
+First, I'll look at the table columns: Time, Wind, Auto, Athlete, Nationality, Location of race, Date. The key here is the "Location of race" for each record set by an athlete.
+
+I need to identify athletes who have records in Philadelphia and Los Angeles but none in Sacramento. So, let me scan through each row and note down where each athlete set their records.
+
+Looking at the rows:
+
+- Row 0: Andy Stanfield - Philadelphia
+- Row 1: Andy Stanfield - Los Angeles
+So, Andy has records in both Philly and LA.
+
+Continuing:
+
+- Rows 2,3,4: Thane Baker, Bobby Morrow, Manfred Germar set their records elsewhere.
+- Row5: Ray Norton - Berkeley
+- Row6: Ray Norton - Philadelphia again. So he's set a record in Philadelphia but also elsewhere.
+- Then multiple others until row15: Tommie Smith sets a record in Sacramento.
+
+So, focusing on Andy Stanfield and Ray Norton because they have records in Philly or LA. But wait, I need athletes who only have records in both those cities and nowhere else, especially not Sacramento.
+
+From the table:
+
+Andy Stanfield has two entries: one in Philadelphia (Row0) and another in Los Angeles (Row1). No other locations for him. So he meets the criteria of having records in Philly and LA but not in Sacramento.
+
+Now, checking if there's anyone else. Ray Norton appears twice: once in Berkeley (Row5) and then again in Philadelphia (Row6). Since he set a record in Berkeley as well, which is outside of just Philly and LA, he doesn't fit because the question asks for those who set records ONLY in Philly and LA.
+
+Other athletes like Bobby Morrow set their records elsewhere, so they don't qualify. Tommie Smith has a record in Sacramento (Row15), so he's out.
+
+Therefore, only Andy Stanfield fits the criteria of setting records exclusively in Philadelphia and Los Angeles without any records in Sacramento.
+</think>
+
+Final Answer: Andy Stanfield
+===================Answer===================
+Andy Stanfield

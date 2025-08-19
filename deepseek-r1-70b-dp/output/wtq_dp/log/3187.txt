@@ -1,0 +1,58 @@
+===================Title===================
+International Lottery in Liechtenstein Foundation
+===================Table===================
+|    | Divisions   | Prize (EUR)   | Odds of winning (1 in)   |   Number of winning tickets | In order to win                  |
+|---:|:------------|:--------------|:-------------------------|----------------------------:|:---------------------------------|
+|  0 | All         | 45,000.00     | 3.54                     |                         565 | Any Prize                        |
+|  1 | 1st         | 18,000.00     | 2,000                    |                           1 | Match all 5 in order             |
+|  2 | 2nd         | 750.00        | 2,000                    |                           1 | Match all 5 in order             |
+|  3 | 3rd         | 600.00        | 2,000                    |                           1 | Match all 5 in order             |
+|  4 | 4th         | 450.00        | 2,000                    |                           1 | Match all 5 in order             |
+|  5 | 5th         | 300.00        | 2,000                    |                           1 | Match all 5 in order             |
+|  6 | 6th         | 135.00        | 2,000                    |                           1 | Match all 5 in order             |
+|  7 | Sub         | 180.00        | 2,000                    |                           2 | Nearest number to 1st prize      |
+|  8 | Sub         | 180.00        | 2,000                    |                           2 | Nearest number to 2nd prize      |
+|  9 | Sub         | 180.00        | 2,000                    |                           2 | Nearest number to 3rd prize      |
+| 10 | Sub         | 17,820.00     | 20.2                     |                         297 | First 3 Digits of 1st, 2nd & 3rd |
+| 11 | Sub         | 3,420.00      | 105.3                    |                          57 | Last 2 Digits of 1st, 2nd & 3rd  |
+| 12 | Sub         | 2,985.00      | 10.1                     |                         199 | Last 1 Digit of 1st              |
+===================Question===================
+how many divisions only had one winning ticket?
+===================Text===================
+<think>
+Okay, so I'm trying to figure out how many divisions in this lottery table only had one winning ticket. Let me start by looking at the table provided.
+
+The table has several columns: Divisions, Prize (EUR), Odds of winning, Number of winning tickets, and In order to win. Each row represents a different division with its specific details.
+
+I need to focus on the "Number of winning tickets" column because that's where I'll find out how many tickets won in each division. The question is asking for divisions that only had one winning ticket. So, I should look through this column and count how many times the number 1 appears.
+
+Starting from Division 0: It has 565 winning tickets. That's way more than 1, so I can skip this one.
+
+Division 1 shows 1 winning ticket. Okay, that's our first division with only one winner.
+
+Division 2 also has 1 winning ticket. So that's the second one.
+
+Moving on to Division 3: Again, it's 1. Now we're at three divisions.
+
+Division 4: Still 1. That makes four.
+
+Division 5: 1 as well. Now five divisions.
+
+Division 6: Also 1. So six divisions so far.
+
+Looking at the Sub divisions now. Divisions 7 and 8 both have 2 winning tickets each, which is more than one, so they don't count.
+
+Division 9 has 2 winning tickets too, so that's out.
+
+Division 10: The number here is 297, definitely more than one.
+
+Division 11 shows 57 winners. Again, way more than one.
+
+Lastly, Division 12: It has 199 winning tickets. So no luck there either.
+
+So compiling this, the divisions where only one ticket won are Divisions 1 through 6. That totals six divisions.
+</think>
+
+Final Answer: 6
+===================Answer===================
+6

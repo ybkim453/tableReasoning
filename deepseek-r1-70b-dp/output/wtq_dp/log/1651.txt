@@ -1,0 +1,62 @@
+===================Title===================
+Opinion polling by state for the United States presidential election, 2008 (Iowa)
+===================Table===================
+|    | Poll Source       |   Sample Size |   Margin of Error | Date            | Democrat        |   % | Republican    |   % .1 |
+|---:|:------------------|--------------:|------------------:|:----------------|:----------------|----:|:--------------|-------:|
+|  0 | Rasmussen Reports |           500 |               4.5 | Mar 31, 2008    | Hillary Clinton |  36 | John McCain   |     51 |
+|  1 | Rasmussen Reports |           500 |               4.5 | Mar 31, 2008    | Barack Obama    |  46 | John McCain   |     42 |
+|  2 | Survey USA        |           517 |               4.4 | Mar 14-16, 2008 | Hillary Clinton |  44 | John McCain   |     48 |
+|  3 | Survey USA        |           517 |               4.4 | Mar 14-16, 2008 | Barack Obama    |  50 | John McCain   |     44 |
+|  4 | Rasmussen Reports |           500 |             nan   | Feb 18, 2008    | Hillary Clinton |  37 | John McCain   |     47 |
+|  5 | Rasmussen Reports |           500 |             nan   | Feb 18, 2008    | Barack Obama    |  44 | John McCain   |     41 |
+|  6 | Survey USA        |           563 |               4.2 | Feb 15-17, 2008 | Hillary Clinton |  41 | John McCain   |     52 |
+|  7 | Survey USA        |           563 |               4.2 | Feb 15-17, 2008 | Barack Obama    |  51 | John McCain   |     41 |
+|  8 | Survey USA        |           543 |               4.3 | Jan 4-6, 2008   | Hillary Clinton |  51 | Rudy Giuliani |     35 |
+|  9 | Survey USA        |           543 |               4.3 | Jan 4-6, 2008   | Hillary Clinton |  47 | Mike Huckabee |     45 |
+| 10 | Survey USA        |           543 |               4.3 | Jan 4-6, 2008   | Hillary Clinton |  44 | John McCain   |     48 |
+| 11 | Survey USA        |           543 |               4.3 | Jan 4-6, 2008   | Hillary Clinton |  48 | Mitt Romney   |     40 |
+| 12 | Survey USA        |           543 |               4.3 | Jan 4-6, 2008   | Barack Obama    |  66 | Rudy Giuliani |     26 |
+| 13 | Survey USA        |           543 |               4.3 | Jan 4-6, 2008   | Barack Obama    |  58 | Mike Huckabee |     35 |
+| 14 | Survey USA        |           543 |               4.3 | Jan 4-6, 2008   | Barack Obama    |  55 | John McCain   |     38 |
+| 15 | Survey USA        |           543 |               4.3 | Jan 4-6, 2008   | Barack Obama    |  59 | Mitt Romney   |     33 |
+| 16 | Survey USA        |           nan |             nan   | Dec. 17, 2007   | Hillary Clinton |  46 | Mike Huckabee |     45 |
+| 17 | Survey USA        |           546 |               4.3 | Nov 9-11, 2007  | Hillary Clinton |  47 | Rudy Giuliani |     43 |
+| 18 | Survey USA        |           546 |               4.3 | Nov 9-11, 2007  | Hillary Clinton |  49 | Mike Huckabee |     43 |
+| 19 | Survey USA        |           546 |               4.3 | Nov 9-11, 2007  | Hillary Clinton |  44 | John McCain   |     48 |
+| 20 | Survey USA        |           546 |               4.3 | Nov 9-11, 2007  | Hillary Clinton |  49 | Mitt Romney   |     43 |
+| 21 | Survey USA        |           546 |               4.3 | Nov 9-11, 2007  | Barack Obama    |  52 | Rudy Giuliani |     39 |
+| 22 | Survey USA        |           546 |               4.3 | Nov 9-11, 2007  | Barack Obama    |  56 | Mike Huckabee |     35 |
+| 23 | Survey USA        |           546 |               4.3 | Nov 9-11, 2007  | Barack Obama    |  50 | John McCain   |     42 |
+| 24 | Survey USA        |           546 |               4.3 | Nov 9-11, 2007  | Barack Obama    |  53 | Mitt Romney   |     39 |
+| 25 | Survey USA        |           513 |               4.4 | Oct 12-14, 2007 | Hillary Clinton |  48 | Rudy Giuliani |     43 |
+| 26 | Survey USA        |           506 |               4.3 | Oct 12-14, 2007 | Hillary Clinton |  51 | Mike Huckabee |     41 |
+| 27 | Survey USA        |           502 |               4.5 | Oct 12-14, 2007 | Hillary Clinton |  49 | John McCain   |     44 |
+| 28 | Survey USA        |           498 |               4.5 | Oct 12-14, 2007 | Hillary Clinton |  52 | Ron Paul      |     36 |
+| 29 | Survey USA        |           506 |               4.4 | Oct 12-14, 2007 | Hillary Clinton |  50 | Mitt Romney   |     42 |
+| 30 | Survey USA        |           509 |               4.4 | Oct 12-14, 2007 | Hillary Clinton |  50 | Fred Thompson |     42 |
+===================Question===================
+did hillary clinton or john mccain win 51% of the vote in the march 31, 2008 rasmussen reports poll?
+===================Text===================
+<think>
+Alright, I'm trying to figure out whether Hillary Clinton or John McCain won 51% of the vote in the March 31, 2008 Rasmussen Reports poll. Let me start by looking at the table provided.
+
+First, I need to identify all the rows related to the "Rasmussen Reports" polls conducted on March 31, 2008. Scanning through the table, there are two such entries: row 0 and row 1.
+
+In row 0, Hillary Clinton is listed as a Democrat with 36%, and John McCain is listed as Republican with 51%. So in this case, McCain has 51%.
+
+Row 1 also from Rasmussen Reports on March 31 shows Barack Obama (a Democrat) with 46% against John McCain's 42%. That means in the Obama vs. McCain matchup, Obama got 46%, and McCain got 42%. 
+
+But the question is specifically about Hillary Clinton versus McCain. So looking back at row 0, it's clear that McCain had 51% there.
+
+Wait, but let me make sure I'm interpreting this correctly. The table has two separate polls on March 31—each comparing different Democratic candidates against John McCain. One poll pits Hillary Clinton against McCain, resulting in McCain getting 51%. The other poll is Obama vs. McCain, where Obama gets 46% and McCain 42%.
+
+So the question is about whether Hillary or McCain had 51%, not necessarily which one won overall but specifically if either reached 51%. From row 0, it's clear that John McCain did reach 51% when polled against Hillary Clinton.
+
+Therefore, in the March 31 Rasmussen poll involving Hillary Clinton, John McCain was at 51%.
+</think>
+
+According to the table, in the March 31, 2008 Rasmussen Reports poll comparing Hillary Clinton and John McCain, John McCain received 51% of the vote.
+
+Final Answer: John McCain
+===================Answer===================
+John McCain

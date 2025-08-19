@@ -1,0 +1,42 @@
+===================Title===================
+World Golf Championships
+===================Table===================
+|    | Golfer         | Country          |   Wins | Match Play          | Championship                                 | Invitational                                       | Champions   |
+|---:|:---------------|:-----------------|-------:|:--------------------|:---------------------------------------------|:---------------------------------------------------|:------------|
+|  0 | Tiger Woods    | United States    |     18 | 3: 2003, 2004, 2008 | 7: 1999, 2002, 2003,\n2005, 2006, 2007, 2013 | 8: 1999, 2000, 2001, 2005,\n2006, 2007, 2009, 2013 | —           |
+|  1 | Geoff Ogilvy   | Australia        |      3 | 2: 2006, 2009       | 1: 2008                                      | —                                                  | —           |
+|  2 | Darren Clarke  | Northern Ireland |      2 | 1: 2000             | —                                            | 1: 2003                                            | —           |
+|  3 | Ernie Els      | South Africa     |      2 | —                   | 2: 2004, 2010                                | —                                                  | —           |
+|  4 | Hunter Mahan   | United States    |      2 | 1: 2012             | —                                            | 1: 2010                                            | —           |
+|  5 | Phil Mickelson | United States    |      2 | —                   | 1: 2009                                      | —                                                  | 1: 2009     |
+|  6 | Ian Poulter    | England          |      2 | 1: 2010             | —                                            | —                                                  | 1: 2012     |
+===================Question===================
+what other country, besides united states, is listed as having more than 2 wins for a single golfer?
+===================Text===================
+<think>
+Okay, so I need to figure out which country, besides the United States, has a golfer with more than 2 wins according to this table. Let's start by looking at each row and see what data we have.
+
+The table lists several golfers along with their countries and the number of wins they've had in different categories. The key here is to focus on the "Wins" column because that's where the total number of wins for each golfer is indicated. But wait, actually, looking at the columns: there are "Match Play", "Championship", "Invitational", and "Champions" as separate categories. So maybe "Wins" refers to their overall WGC (World Golf Championships) wins.
+
+Let me confirm that. The first column after Golfer is Country, then Wins, so the number under "Wins" should be the total WGC wins for each golfer.
+
+Looking at Tiger Woods: he has 18 wins. That's definitely more than 2. His country is the United States, but we need another country besides that.
+
+Next, Geoff Ogilvy from Australia has 3 wins. That's also more than 2, so that fits our criteria.
+
+Then Darren Clarke from Northern Ireland with 2 wins—exactly 2, so that doesn't count since we're looking for more than 2.
+
+Ernie Els from South Africa: he has 2 wins as well. Again, exactly 2, not over.
+
+Hunter Mahan, USA: 2 wins again.
+
+Phil Mickelson, USA: 2 wins.
+
+Ian Poulter from England has 2 wins. So only Tiger Woods and Geoff Ogilvy have more than 2 wins in the Wins column.
+
+So the other country besides the United States is Australia because Geoff Ogilvy has 3 wins.
+</think>
+
+Final Answer: Australia
+===================Answer===================
+Australia

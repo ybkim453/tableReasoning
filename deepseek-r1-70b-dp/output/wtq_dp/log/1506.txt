@@ -1,0 +1,48 @@
+===================Title===================
+2005 Australia national football team season
+===================Table===================
+|    | Player       | Friendlies   | FIFA Confederations Cup   | FIFA World Cup Qual.   |   Total Goals |
+|---:|:-------------|:-------------|:--------------------------|:-----------------------|--------------:|
+|  0 | Aloisi       | 1            | 4                         | -                      |             5 |
+|  1 | Bresciano    | 2            | -                         | 1                      |             3 |
+|  2 | Thompson     | 1            | -                         | 2                      |             3 |
+|  3 | Viduka       | 1            | -                         | 2                      |             3 |
+|  4 | Chipperfield | 1            | -                         | 1                      |             2 |
+|  5 | Emerton      | -            | -                         | 2                      |             2 |
+|  6 | Milicic      | 2            | -                         | -                      |             2 |
+|  7 | Cahill       | -            | -                         | 1                      |             1 |
+|  8 | Colosimo     | 1            | -                         | -                      |             1 |
+|  9 | Culina       | -            | -                         | 1                      |             1 |
+| 10 | Elrich       | 1            | -                         | -                      |             1 |
+| 11 | Griffiths    | 1            | -                         | -                      |             1 |
+| 12 | Skoko        | -            | 1                         | -                      |             1 |
+| 13 | Zdrilic      | 1            | -                         | -                      |             1 |
+===================Question===================
+what player comes after cahill?
+===================Text===================
+<think>
+Okay, so I have this table about Australian football players from 2005. The question is asking which player comes after Cahill. Let me look at how the table is organized.
+
+First, I see that each row is numbered starting from 0 to 13. So there are 14 rows of data here. Each row represents a different player along with their goal statistics in various competitions.
+
+I need to find where Cahill is positioned because the question is about who comes after him. Scanning through the Player column, I see Aloisi at index 0, Bresciano at 1, and so on until I reach Cahill. Let me count: 
+
+- Index 0: Aloisi
+- 1: Bresciano
+- 2: Thompson
+- 3: Viduka
+- 4: Chipperfield
+- 5: Emerton
+- 6: Milicic
+- 7: Cahill
+
+Okay, so Cahill is at index 7. The next player after him would be the one in the row immediately following. So that's index 8.
+
+Looking at index 8, the player listed there is Colosimo. Let me double-check to make sure I didn't skip any rows or miscount. After Cahill, the next number is indeed 8, and the player is Colosimo.
+
+So the answer should be Colosimo.
+</think>
+
+Final Answer: Colosimo
+===================Answer===================
+Colosimo

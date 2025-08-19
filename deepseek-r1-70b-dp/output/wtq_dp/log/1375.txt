@@ -1,0 +1,73 @@
+===================Title===================
+Diving at the 1984 Summer Olympics – Women's 3 metre springboard
+===================Table===================
+|    |   Rank | Diver                          |   Preliminary\nPoints |   Preliminary\nRank |   Final\nPoints |
+|---:|-------:|:-------------------------------|----------------------:|--------------------:|----------------:|
+|  0 |    nan | Sylvie Bernier (CAN)           |                489.51 |                   3 |          530.7  |
+|  1 |    nan | Kelly McCormick (USA)          |                516.75 |                   2 |          527.46 |
+|  2 |    nan | Christina Seufert (USA)        |                481.41 |                   5 |          517.62 |
+|  3 |      4 | Li Yihua (CHN)                 |                517.92 |                   1 |          506.52 |
+|  4 |      5 | Li Qiaoxian (CHN)              |                466.83 |                   6 |          487.68 |
+|  5 |      6 | Elsa Tenorio (MEX)             |                460.56 |                   8 |          463.56 |
+|  6 |      7 | Lesley Smith (ZIM)             |                438.72 |                  10 |          451.89 |
+|  7 |      8 | Debbie Fuller (CAN)            |                437.04 |                  11 |          450.99 |
+|  8 |      9 | Jennifer Donnet (AUS)          |                432.78 |                  12 |          443.13 |
+|  9 |     10 | Daphne Jongejans (NED)         |                487.95 |                   4 |          437.4  |
+| 10 |     11 | Anita Rossing (SWE)            |                464.58 |                   7 |          424.98 |
+| 11 |     12 | Verónica Ribot (ARG)          |                443.25 |                   9 |          422.52 |
+| 12 |     13 | Ann Fargher (NZL)              |                421.65 |                  13 |          nan    |
+| 13 |     14 | Tine Tollan (NOR)              |                419.55 |                  14 |          nan    |
+| 14 |     15 | Antonette Wilken (ZIM)         |                414.66 |                  15 |          nan    |
+| 15 |     16 | Guadalupe Canseco (MEX)        |                411.96 |                  16 |          nan    |
+| 16 |     17 | Claire Izacard (FRA)           |                403.17 |                  17 |          nan    |
+| 17 |     18 | Valerie McFarland-Beddoe (AUS) |                401.13 |                  18 |          nan    |
+| 18 |     19 | Alison Childs (GBR)            |                400.68 |                  19 |          nan    |
+| 19 |     20 | Kerstin Finke (FRG)            |                393.93 |                  20 |          nan    |
+| 20 |     21 | Nicole Kreil (AUT)             |                382.68 |                  21 |          nan    |
+| 21 |     22 | Joana Figueiredo (POR)         |                374.07 |                  22 |          nan    |
+| 22 |     23 | Angela Ribeiro (BRA)           |                370.68 |                  23 |          nan    |
+| 23 |     24 | Rim Hassan (EGY)               |                258.63 |                  24 |          nan    |
+===================Question===================
+what are is the total number of points earned by kelly mcormick?
+===================Text===================
+<think>
+Alright, I need to figure out the total points earned by Kelly McCormick based on the provided table. Let me start by understanding what each column represents.
+
+Looking at the headers: Rank, Diver, Preliminary Points, Preliminary Rank, and Final Points. So, for each diver, we have their preliminary scores, their rank after preliminaries, and then their final points.
+
+Kelly McCormick is listed as diver number 1 in the table. Her preliminary points are 516.75, which was the second-highest in the prelims, giving her a Preliminary Rank of 2. Then, her Final Points are listed as 527.46.
+
+The question asks for the total points she earned. Since diving competitions typically combine both preliminary and final scores to determine the total, I should add these two numbers together.
+
+So, let me calculate: Preliminary Points (516.75) + Final Points (527.46). Let's do that addition:
+
+516.75
++527.46
+=?
+
+Adding the whole numbers first: 516 + 527 = 1043
+
+Now the decimals: 0.75 + 0.46 = 1.21
+
+So total is 1043 + 1.21 = 1044.21.
+
+Wait, but in diving, sometimes only the final score is considered as the total, depending on how the competition is structured. However, the term "total number of points earned" might imply summing all points she earned throughout the competition. But I'm not entirely sure. In some cases, the preliminary and final are separate rounds where the final round includes a subset of divers, but the scoring can vary.
+
+Alternatively, perhaps in this context, the Final Points already represent her total score after the finals, and Preliminary Points are just for qualifying. So maybe the question is simply asking for the points she earned in both stages.
+
+But to be thorough, if "total number of points" includes all points from prelims and finals, then it's 516.75 + 527.46 = 1044.21.
+
+However, looking back at the table, I notice that some divers don't have Final Points listed—they're marked as 'nan'. That suggests that only a certain number made it to the finals. So for Kelly, since she has both Preliminary and Final points, her total would be the sum of both.
+
+Wait another thought: in some diving competitions, the final points might already include the preliminary scores, meaning they aren't separate. But I'm not certain about that. Alternatively, perhaps only the final points are considered as her overall score after the competition, with preliminaries determining who advances but not adding to the total.
+
+To confirm, looking at the divers: Sylvie Bernier (CAN) has Preliminary 489.51 and Final 530.7, so if I add hers, it would be around 1020.21. But without knowing the exact competition rules, it's a bit unclear. However, the question specifically asks for the total points earned by Kelly McCormick.
+
+Since she has both scores listed, adding them makes sense as her total earned points throughout the event.
+</think>
+
+The total points earned by Kelly McCormick is the sum of her Preliminary and Final Points: 516.75 + 527.46 = 1044.21.
+
+Final Answer: 1044.21
+===================Answer===================
+527.46

@@ -1,0 +1,52 @@
+===================Title===================
+List of world records in rowing
+===================Table===================
+|    | Boat                            | Time    | Crew                                                                                                                                                     | Nation        |   Date | Meet            | Location                    |
+|---:|:--------------------------------|:--------|:---------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------|-------:|:----------------|:----------------------------|
+|  0 | M1x\nSingle sculls              | 6:33.35 | Mahé Drysdale                                                                                                                                           | New Zealand   |   2009 | nan             | Poznań, Poland             |
+|  1 | M2-\nCoxless pairs              | 6:08.50 | Hamish Bond\nEric Murray                                                                                                                                 | New Zealand   |   2012 | Summer Olympics | Eton Dorney, England        |
+|  2 | M2+\nCoxed pairs                | 6:42.16 | Igor Boraska\nTihomir Franković\nMilan Razov (coxswain)                                                                                                 | Croatia       |   1994 | nan             | Indianapolis, United States |
+|  3 | M2x\nDouble sculls              | 6:03.25 | Adrien Hardy\nJean-Baptiste Macquet                                                                                                                      | France        |   2006 | nan             | Poznań, Poland             |
+|  4 | M4-\nCoxless four               | 5:37.86 | Andrew Triggs-Hodge\nTom James\nPete Reed\nAlex Gregory                                                                                                  | Great Britain |   2012 | nan             | Lucerne, Switzerland        |
+|  5 | M4+\nCoxed four                 | 5:58.96 | Matthias Ungemach\nArmin Eichholz\nArmin Weyrauch\nBahne Rabe\nJoerg Dederding (coxswain)                                                                | Germany       |   1991 | nan             | Vienna, Austria             |
+|  6 | M4x\nQuad sculls                | 5:33.15 | Vladislav Ryabcev\nAlexey Svirin\nNikita Morgachev\nSergei Fedorovtsev                                                                                   | Russia        |   2012 | nan             | Lucerne,Switzerland         |
+|  7 | M8+\nEight                      | 5:19.35 | Gabriel Bergen\nDouglas Csima\nRobert Gibson\nConlin McCabe\nMalcolm Howard\nAndrew Byrnes\nJeremiah Brown\nWill Crothers\nBrian Price (coxswain)        | Canada        |   2012 | nan             | Lucerne, Switzerland        |
+|  8 | LM1x\nLightweight single sculls | 6:46.93 | Jeremie Azou                                                                                                                                             | France        |   2011 | nan             | Amsterdam, Netherlands      |
+|  9 | LM2-\nLightweight coxless pairs | 6:26.21 | Tony O'Connor\nNeville Maxwell                                                                                                                           | Ireland       |   1994 | nan             | Paris, France               |
+| 10 | LM2x\nLightweight double sculls | 6:10.02 | Mads Rasmussen\nRasmus Quist                                                                                                                             | Denmark       |   2007 | nan             | Amsterdam, Netherlands      |
+| 11 | LM4-\nLightweight coxless four  | 5:45.60 | Thomas Poulsen\nThomas Ebert\nEskild Ebbesen\nVictor Feddersen                                                                                           | Denmark       |   1999 | nan             | Lucerne, Switzerland        |
+| 12 | LM4x\nLightweight quad sculls   | 5:45.18 | Francesco Esposito\nMassimo Lana\nMichelangelo Crispi\nMassimo Guglielmi                                                                                 | Italy         |   1992 | nan             | Montreal, Canada            |
+| 13 | LM8+\nLightweight eight         | 5:30.24 | Klaus Altena\nChristian Dahlke\nThomas Melges\nBernhard Stomporowski\nMichael Kobor\nUwe Maerz\nMichael Buchheit\nKai von Warburg\nOlaf Kaska (coxswain) | Germany       |   1992 | nan             | Montreal, Canada            |
+===================Question===================
+what is the fastest rowing time in the world for a lm2x lightweight double scull boat?
+===================Text===================
+<think>
+Alright, I'm trying to figure out what the fastest rowing time is for a LM2x Lightweight Double Scull boat based on the given table. Let me go through each step methodically.
+
+First, I need to understand the structure of the table. It has several columns: Boat, Time, Crew, Nation, Date, Meet, and Location. Each row represents a different boat class and its corresponding world record details.
+
+The question specifically asks about the LM2x Lightweight Double Sculls. So I should look through each row to find where the Boat column matches "LM2x Lightweight double sculls".
+
+Looking at the rows one by one:
+
+- Row 0: M1x Single sculls – not relevant.
+- Row 1: M2- Coxless pairs – nope.
+- Row 2: M2+ Coxed pairs – still not it.
+- Row 3: M2x Double sculls – getting closer, but this is the heavyweight category, not lightweight.
+- Row 4: M4- Coxless four – different boat class.
+- Row 5: M4+ Coxed four – also a different class.
+- Row 6: M4x Quad sculls – another class.
+- Row 7: M8+ Eight – nope.
+- Row 8: LM1x Lightweight single sculls – not the double scull, so skip this.
+- Row 9: Wait, row 10 is LM2x Lightweight double sculls. Let me check that.
+
+Looking at row index 10 (since rows are zero-indexed, it's the 11th row in display). The Boat column says "LM2x Lightweight double sculls", which matches what we're looking for. The Time listed there is 6:10.02.
+
+I should verify if this is indeed the fastest time among all LM2x entries. Scanning through the rest of the table, I don't see any other rows with Boat as "LM2x Lightweight double sculls", so row 10 must be the only one and hence holds the record.
+
+Therefore, the fastest time for a LM2x Lightweight Double Scull boat is 6:10.02.
+</think>
+
+Final Answer: 6:10.02
+===================Answer===================
+6:10.02

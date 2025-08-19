@@ -1,0 +1,122 @@
+===================Title===================
+2003 Houston Comets season
+===================Table===================
+|    | Date                              | Opponent      | Score      | Result   | Record   |
+|---:|:----------------------------------|:--------------|:-----------|:---------|:---------|
+|  0 | May 22                            | Seattle       | 75-64      | Win      | 1-0      |
+|  1 | May 24                            | @ Phoenix     | 69-62      | Win      | 2-0      |
+|  2 | May 30                            | Connecticut   | 83-91      | Loss     | 2-1      |
+|  3 | June 1                            | @ Minnesota   | 64-68 (OT) | Loss     | 2-2      |
+|  4 | June 3                            | Phoenix       | 66-51      | Win      | 3-2      |
+|  5 | June 6                            | @ Charlotte   | 58-69      | Loss     | 3-3      |
+|  6 | June 7                            | @ Connecticut | 58-65      | Loss     | 3-4      |
+|  7 | June 10                           | Sacramento    | 71-66      | Win      | 4-4      |
+|  8 | June 14                           | @ Phoenix     | 61-76      | Loss     | 4-5      |
+|  9 | June 17                           | @ Minnesota   | 77-68      | Win      | 5-5      |
+| 10 | June 20                           | @ San Antonio | 69-76      | Loss     | 5-6      |
+| 11 | June 21                           | Cleveland     | 63-62      | Win      | 6-6      |
+| 12 | June 24                           | Los Angeles   | 62-71      | Loss     | 6-7      |
+| 13 | June 28                           | San Antonio   | 64-49      | Win      | 7-7      |
+| 14 | July 1                            | Minnesota     | 71-69      | Win      | 8-7      |
+| 15 | July 5                            | Washington    | 76-54      | Win      | 9-7      |
+| 16 | July 8                            | Indiana       | 60-56      | Win      | 10-7     |
+| 17 | July 15                           | @ Seattle     | 55-69      | Loss     | 10-8     |
+| 18 | July 18                           | @ Los Angeles | 79-74      | Win      | 11-8     |
+| 19 | July 19                           | @ Sacramento  | 74-71      | Win      | 12-8     |
+| 20 | July 26                           | New York      | 61-53      | Win      | 13-8     |
+| 21 | July 29                           | Minnesota     | 73-58      | Win      | 14-8     |
+| 22 | August 1                          | @ San Antonio | 53-63      | Loss     | 14-9     |
+| 23 | August 2                          | San Antonio   | 64-55      | Win      | 15-9     |
+| 24 | August 5                          | Sacramento    | 74-47      | Win      | 16-9     |
+| 25 | August 7                          | @ Indiana     | 68-55      | Win      | 17-9     |
+| 26 | August 8                          | @ Detroit     | 66-56      | Win      | 18-9     |
+| 27 | August 10                         | Phoenix       | 69-46      | Win      | 19-9     |
+| 28 | August 16                         | Los Angeles   | 63-64      | Loss     | 19-10    |
+| 29 | August 18                         | @ New York    | 64-67      | Loss     | 19-11    |
+| 30 | August 19                         | Seattle       | 52-47      | Win      | 20-11    |
+| 31 | August 21                         | @ Sacramento  | 52-64      | Loss     | 20-12    |
+| 32 | August 23                         | @ Seattle     | 64-71      | Loss     | 20-13    |
+| 33 | August 25                         | @ Los Angeles | 64-67      | Loss     | 20-14    |
+| 34 | August 29 (First Round, Game 1)   | @ Sacramento  | 59-65      | Loss     | 0-1      |
+| 35 | August 31 (First Round, Game 2)   | Sacramento    | 69-48      | Win      | 1-1      |
+| 36 | September 2 (First Round, Game 3) | Sacramento    | 68-70      | Loss     | 1-2      |
+===================Question===================
+how many games did the team score more than 70 points?
+===================Text===================
+<think>
+Alright, so I need to figure out how many games the Houston Comets scored more than 70 points in the 2003 season based on the provided table. Let's break this down step by step.
+
+First, I'll go through each game listed and check the 'Score' column for the Comets' points. The team's score is the first number before the hyphen. If that number is greater than 70, then it counts towards our total.
+
+Starting from Game 0 to Game 36:
+
+- Game 0: Score 75 vs Seattle → 75 >70 → Count
+- Game 1: 69 @ Phoenix → 69 <70 → No count
+- Game 2:83 vs Connecticut→83>70→Count
+- Game3:64 @ Minnesota→64<70→No
+- Game4:66 vs Phoenix→66<70→No
+- Game5:58 @ Charlotte→58<70→No
+- Game6:58 @ Connecticut→58<70→No
+- Game7:71 vs Sacramento→71>70→Count
+- Game8:61 @ Phoenix→61<70→No
+- Game9:77 @ Minnesota→77>70→Count
+- Game10:69 @ San Antonio→69<70→No
+- Game11:63 vs Cleveland→63<70→No
+- Game12:62 vs LA→62<70→No
+- Game13:64 vs San Antonio→64<70→No
+- Game14:71 vs Minnesota→71>70→Count
+- Game15:76 vs Washington→76>70→Count
+- Game16:60 vs Indiana→60<70→No
+- Game17:55 @ Seattle→55<70→No
+- Game18:79 @ LA→79>70→Count
+- Game19:74 @ Sacramento→74>70→Count
+- Game20:61 vs New York→61<70→No
+- Game21:73 vs Minnesota→73>70→Count
+- Game22:53 @ San Antonio→53<70→No
+- Game23:64 vs San Antonio→64<70→No
+- Game24:74 vs Sacramento→74>70→Count
+- Game25:68 @ Indiana→68<70→No
+- Game26:66 @ Detroit→66<70→No
+- Game27:69 vs Phoenix→69<70→No
+- Game28:63 vs LA→63<70→No
+- Game29:64 @ New York→64<70→No
+- Game30:52 vs Seattle→52<70→No
+- Game31:52 @ Sacramento→52<70→No
+- Game32:64 @ Seattle→64<70→No
+- Game33:64 @ LA→64<70→No
+- Games 34,35,36 are playoff games but I don't think we're excluding them. 
+
+Wait, the user didn't specify whether to include all games or just regular season. The table includes both regular and playoff, so I should count all.
+
+Now checking the playoff games:
+
+Game34:59 @ Sacramento→59<70
+Game35:69 vs Sacramento→69<70
+Game36:68 vs Sacramento→68<70
+
+So no counts in playoffs beyond 70.
+
+Let me recount the counted games:
+
+Games where points >70:
+0,2,7,9,14,15,18,19,21,24. Wait, that's 10 games? Let me count again.
+
+Looking through each game:
+
+1. Game 0: Yes
+2. Game 2: Yes (2)
+3. Game7: Yes (3)
+4. Game9: Yes (4)
+5. Game14: Yes (5)
+6. Game15: Yes (6)
+7. Game18: Yes (7)
+8. Game19: Yes (8)
+9. Game21: Yes (9)
+10. Game24: Yes (10)
+
+So that's a total of 10 games.
+</think>
+
+Final Answer: 10
+===================Answer===================
+10

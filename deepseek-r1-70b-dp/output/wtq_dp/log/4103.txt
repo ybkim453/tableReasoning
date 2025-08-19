@@ -1,0 +1,52 @@
+===================Title===================
+Swimming at the 2005 Mediterranean Games
+===================Table===================
+|    | Rank   | Nation   |   Gold |   Silver |   Bronze |   Total |
+|---:|:-------|:---------|-------:|---------:|---------:|--------:|
+|  0 | 1      | France   |     14 |        7 |        7 |      28 |
+|  1 | 2      | Italy    |     12 |        8 |       10 |      30 |
+|  2 | 3      | Slovenia |      5 |        4 |        3 |      12 |
+|  3 | 4      | Spain    |      4 |       14 |        6 |      24 |
+|  4 | 5      | Greece   |      3 |        4 |        9 |      16 |
+|  5 | 6      | Tunisia  |      3 |        0 |        0 |       3 |
+|  6 | 7      | Algeria  |      2 |        0 |        2 |       4 |
+|  7 | 8      | Croatia  |      0 |        3 |        3 |       6 |
+|  8 | 9      | Egypt    |      0 |        1 |        2 |       3 |
+|  9 | Total  | Total    |     43 |       41 |       42 |     126 |
+===================Question===================
+who had the same number of gold medals as greece?
+===================Text===================
+<think>
+Okay, so I need to figure out which nation had the same number of gold medals as Greece based on the table provided. Let me start by understanding the table structure.
+
+Looking at the table, each row represents a country's performance in swimming at the 2005 Mediterranean Games. The columns show their rank, nation name, and the number of gold, silver, bronze medals, plus the total medals won.
+
+First, I should locate Greece in the table to find out how many gold medals they won. Scanning through the "Nation" column, I see that Greece is listed at Rank 5 with 3 gold medals. So, Greece has 3 gold medals.
+
+Now, my task is to identify any other country or countries that also have exactly 3 gold medals. Let me go through each row one by one:
+
+1. France: 14 gold medals – way more than 3.
+2. Italy: 12 golds – still higher.
+3. Slovenia: 5 golds – more than 3.
+4. Spain: 4 golds – also more than 3.
+5. Greece: 3 golds (as we already noted).
+6. Tunisia: 3 golds. Oh, that's another country with exactly 3 gold medals.
+7. Algeria: 2 golds – less than 3.
+8. Croatia: 0 golds.
+9. Egypt: 0 golds.
+10. Total row: Not applicable since it's the sum of all.
+
+Wait, so both Greece and Tunisia have 3 gold medals each. That means they share the same number of gold medals.
+
+I should double-check to make sure I didn't miss any other countries with 3 golds. Looking again... France (14), Italy (12), Slovenia (5), Spain (4), then Greece (3) and Tunisia (3). No others have exactly 3. So, the two nations that had the same number of gold medals as Greece are Greece itself and Tunisia.
+
+But wait, in the context of the question, it's asking for who else besides Greece? Or does it include Greece? The question is "who had the same number of gold medals as Greece?" So it could be implying other countries besides Greece. However, since Greece also has 3, but we're looking for others with the same count. But in this case, Tunisia is the only other one.
+
+Wait no, the table shows that both Greece and Tunisia have exactly 3 each. So when the question asks who had the same number as Greece, it includes Tunisia because they tie at 3 golds.
+
+So the answer should include Greece along with Tunisia? Or just list all countries with 3 gold medals, which are Greece and Tunisia.
+</think>
+
+Final Answer: Greece, Tunisia
+===================Answer===================
+Tunisia

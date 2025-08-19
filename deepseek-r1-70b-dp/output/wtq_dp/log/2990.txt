@@ -1,0 +1,112 @@
+===================Title===================
+Hawaii Islanders
+===================Table===================
+|    |   Year | Record   | Finish   | Manager                                        | Playoffs           |
+|---:|-------:|:---------|:---------|:-----------------------------------------------|:-------------------|
+|  0 |   1961 | 68-86    | 6th      | Tommy Heath / Bill Werle                       | none               |
+|  1 |   1962 | 77-76    | 5th      | Irv Noren                                      | none               |
+|  2 |   1963 | 81-77    | 4th      | Irv Noren                                      | nan                |
+|  3 |   1964 | 60-98    | 10th     | Bob Lemon                                      | nan                |
+|  4 |   1965 | 75-72    | 6th (t)  | George Case                                    | nan                |
+|  5 |   1966 | 63-84    | 10th     | George Case                                    | nan                |
+|  6 |   1967 | 60-87    | 12th     | Wayne Terwilliger                              | nan                |
+|  7 |   1968 | 78-69    | 3rd      | Bill Adair                                     | nan                |
+|  8 |   1969 | 74-72    | 4th      | Chuck Tanner                                   | nan                |
+|  9 |   1970 | 98-48    | 1st      | Chuck Tanner                                   | Lost League Finals |
+| 10 |   1971 | 73-73    | 4th (t)  | Bill Adair                                     | nan                |
+| 11 |   1972 | 74-74    | 5th      | Rocky Bridges                                  | nan                |
+| 12 |   1973 | 70-74    | 5th      | Rocky Bridges / Warren Hacker / Roy Hartsfield | nan                |
+| 13 |   1974 | 67-77    | 6th      | Roy Hartsfield                                 | nan                |
+| 14 |   1975 | 88-56    | 1st      | Roy Hartsfield                                 | League Champs      |
+| 15 |   1976 | 77-68    | 2nd      | Roy Hartsfield                                 | League Champs      |
+| 16 |   1977 | 79-67    | 2nd      | Dick Phillips                                  | Lost League Finals |
+| 17 |   1978 | 56-82    | 8th      | Dick Phillips                                  | nan                |
+| 18 |   1979 | 72-76    | 8th      | Dick Phillips                                  | Lost League Finals |
+| 19 |   1980 | 76-65    | 5th      | Doug Rader                                     | Lost League Finals |
+| 20 |   1981 | 72-65    | 3rd (t)  | Doug Rader                                     | Lost in 1st round  |
+| 21 |   1982 | 73-71    | 5th      | Doug Rader                                     | nan                |
+| 22 |   1983 | 72-71    | 5th      | Tom Trebelhorn                                 | nan                |
+| 23 |   1984 | 87-53    | 1st      | Tommy Sandt                                    | Lost League Finals |
+| 24 |   1985 | 84-59    | 1st      | Tommy Sandt                                    | Lost in 1st round  |
+| 25 |   1986 | 65-79    | 9th      | Tommy Sandt                                    | nan                |
+| 26 |   1987 | 65-75    | 9th      | Bob Bailey                                     | nan                |
+===================Question===================
+which managers name is listed the most on this chart?
+===================Text===================
+<think>
+Okay, so I need to figure out which manager's name appears most frequently in this table about the Hawaii Islanders. Let me start by looking at each year and noting down the managers.
+
+Starting from 1961:
+
+- 1961: Tommy Heath / Bill Werle – two managers here.
+- 1962: Irv Noren
+- 1963: Irv Noren again, so that's his second time.
+- 1964: Bob Lemon
+- 1965: George Case
+- 1966: George Case again, so two times now.
+- 1967: Wayne Terwilliger
+- 1968: Bill Adair
+- 1969: Chuck Tanner
+- 1970: Chuck Tanner for the second time.
+- 1971: Bill Adair again, that's his second year.
+- 1972: Rocky Bridges
+- 1973: Rocky Bridges / Warren Hacker / Roy Hartsfield – three managers here. So Rocky Bridges now has two mentions (1972 and part of 1973).
+- 1974: Roy Hartsfield, so that would be his second mention (part of 1973 and 1974).
+- 1975: Roy Hartsfield again, third time.
+- 1976: Roy Hartsfield for the fourth time.
+- 1977: Dick Phillips
+- 1978: Dick Phillips again, two times.
+- 1979: Dick Phillips three times.
+- 1980: Doug Rader
+- 1981: Doug Rader again, so two times.
+- 1982: Doug Rader third time.
+- 1983: Tom Trebelhorn
+- 1984: Tommy Sandt
+- 1985: Tommy Sandt again, two times.
+- 1986: Tommy Sandt three times.
+- 1987: Bob Bailey
+
+Now I need to count how many times each manager appears:
+
+Tommy Heath: 1
+Bill Werle: 1
+Irv Noren: 2
+Bob Lemon: 1
+George Case: 2
+Wayne Terwilliger: 1
+Bill Adair: 2
+Chuck Tanner: 2
+Rocky Bridges: 2 (from 1972 and part of 1973)
+Warren Hacker: 1
+Roy Hartsfield: 4 (part of 1973, 74,75,76)
+Dick Phillips: 3 (77,78,79)
+Doug Rader: 3 (80,81,82)
+Tom Trebelhorn: 1
+Tommy Sandt: 3 (84,85,86)
+Bob Bailey:1
+
+So the counts are:
+
+Roy Hartsfield: 4 years
+Dick Phillips: 3
+Doug Rader: 3
+Tommy Sandt: 3
+Others have two or fewer.
+
+Wait, but looking back at 1973, it's Rocky Bridges / Warren Hacker / Roy Hartsfield. So each of them is counted once for that year? Or does that mean they were managers during the same season, so each gets a mention. So perhaps Rocky Bridges gets another count there, making his total 2 (from 72 and 73), but I think in my initial counting I only gave him 2.
+
+But let's check again:
+
+1973: Rocky Bridges, Warren Hacker, Roy Hartsfield – that's one year with three managers, so each is counted once. So for each of them, their count increases by 1.
+
+So Rocky Bridges was in 72 and part of 73, making it two times.
+Roy Hartsfield was in part of 73, then 74,75,76, totaling four mentions.
+
+Wait, but in my earlier tally, I counted Roy Hartsfield as appearing in 1973 (part), 74,75,76. So that's four years. Dick Phillips is in 77,78,79 – three years. Doug Rader: 80,81,82 – three years. Tommy Sandt:84,85,86 – three years.
+
+So the highest count is Roy Hartsfield with four mentions.
+</think>
+
+Final Answer: Roy Hartsfield
+===================Answer===================
+Roy Hartsfield

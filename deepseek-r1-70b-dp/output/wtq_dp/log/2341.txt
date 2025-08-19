@@ -1,0 +1,43 @@
+===================Title===================
+2007 Weber Cup
+===================Table===================
+|    |   Match no. | Match Type   | Team Europe       | Score     | Team USA     | Progressive Total   |
+|---:|------------:|:-------------|:------------------|:----------|:-------------|:--------------------|
+|  0 |          25 | Singles      | Mika Koivuniemi   | 217 - 279 | Chris Barnes | 14 - 11             |
+|  1 |          26 | Singles      | Osku Palermaa     | 217 - 244 | Tommy Jones  | 14 - 12             |
+|  2 |          27 | Singles      | Paul Moor         | 210 - 199 | Tim Mack     | 15 - 12             |
+|  3 |          28 | Singles      | Tore Torgersen    | 206 - 275 | Doug Kent    | 15 - 13             |
+|  4 |          29 | Singles      | Tomas Leandersson | 176 - 258 | Bill Hoffman | 15 - 14             |
+|  5 |          30 | Baker        | Team Europe       | 202 - 203 | Team USA     | 15 - 15             |
+|  6 |          31 | Singles      | Tore Torgersen    | 202 - 264 | Chris Barnes | 15 - 16             |
+|  7 |          32 | Singles      | Osku Palermaa     | 196 - 235 | Tommy Jones  | 15 - 17             |
+===================Question===================
+was chris barnes is more matches than doug kent?
+===================Text===================
+<think>
+Okay, so I need to figure out if Chris Barnes played more matches than Doug Kent in the 2007 Weber Cup based on the provided table. Let's start by examining each row of the table carefully.
+
+First, I'll look at each match and note who played for Team Europe and Team USA. The key is to count how many times each bowler's name appears because that will indicate how many matches they participated in.
+
+Looking through the table:
+
+1. Match 25: Chris Barnes (USA) vs Mika Koivuniemi (Europe). So, Chris Barnes played here.
+2. Match 26: Tommy Jones (USA) vs Osku Palermaa (Europe). Doug Kent isn't here.
+3. Match 27: Tim Mack (USA) vs Paul Moor (Europe). Not relevant to either Barnes or Kent.
+4. Match 28: Doug Kent (USA) vs Tore Torgersen (Europe). So, Doug Kent played this match.
+5. Match 29: Bill Hoffman (USA) vs Tomas Leandersson (Europe). Neither Barnes nor Kent here.
+6. Match 30: Baker format where both teams compete, so all members might be involved, but the table doesn't list individuals for this one. It just says Team Europe and Team USA. Since it's a team match, I'm not sure if individual counts should be considered here because we don't have specific players listed. So probably shouldn't count this towards either Barnes or Kent unless they were specifically part of that Baker game, but the table doesn't specify.
+7. Match 31: Chris Barnes (USA) vs Tore Torgersen (Europe). Another match for Barnes.
+8. Match 32: Tommy Jones (USA) vs Osku Palermaa (Europe). No Doug Kent here.
+
+So, counting the matches:
+
+- Chris Barnes played in Match 25 and Match 31. That's two matches.
+- Doug Kent only played in Match 28. So that's one match.
+
+Therefore, Chris Barnes participated in more matches than Doug Kent in this series.
+</think>
+
+Final Answer: Chris Barnes
+===================Answer===================
+yes

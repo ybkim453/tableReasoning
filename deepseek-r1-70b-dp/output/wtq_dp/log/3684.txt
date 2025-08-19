@@ -1,0 +1,44 @@
+===================Title===================
+Commemorative coins of Estonia
+===================Table===================
+|    |   Year | Model                                                      | Denomination   | Metal composition   | Dimensions                                |
+|---:|-------:|:-----------------------------------------------------------|:---------------|:--------------------|:------------------------------------------|
+|  0 |   1992 | Re-establishment of kroon, 28 August 1992                  | 100 krooni     | .900 silver         | 23 grams (0.81 oz)36 millimetres (1.4 in) |
+|  1 |   1996 | Atlanta Olympics, 100th anniversary of Modern Olympiad     | 100 krooni     | .925 silver         | 25 grams (0.88 oz)38 millimetres (1.5 in) |
+|  2 |   1998 | 80th anniversary of declaration of Independence, 1918–1998 | 100 krooni     | .925 silver         | 25 grams (0.88 oz)38 millimetres (1.5 in) |
+|  3 |   1992 | Re-establishment of Krooni currency                        | 10 krooni      | .925 silver         | 25 grams (0.88 oz)38 millimetres (1.5 in) |
+|  4 |   1992 | Barcelona Olympics                                         | 10 krooni      | .925 silver         | 25 grams (0.88 oz)38 millimetres (1.5 in) |
+|  5 |   1998 | 80th anniversary of declaration of Independence, 1918–1998 | 10 krooni      | .925 silver         | 25 grams (0.88 oz)38 millimetres (1.5 in) |
+|  6 |   2002 | 370th anniversary of the founding of Tartu University      | 10 krooni      | .925 silver         | 25 grams (0.88 oz)38 millimetres (1.5 in) |
+|  7 |   2004 | The Flag of Estonia – 2004                                 | 10 krooni      | .925 silver         | 25 grams (0.88 oz)38 millimetres (1.5 in) |
+===================Question===================
+which metal composition has the least dimension?
+===================Text===================
+<think>
+Okay, so I need to figure out which metal composition has the least dimension based on the provided table about Estonia's commemorative coins. Let me start by understanding what each column represents.
+
+Looking at the columns: Year, Model (which describes the event or reason for the coin), Denomination (the value of the coin in krooni), Metal composition, and Dimensions which includes both weight and size.
+
+The question is asking for the metal composition that has the least dimension. I think "least dimension" refers to the smallest physical size of the coin. So I need to look at the dimensions column for each entry.
+
+Let me list out all the entries with their details:
+
+0: 1992, Re-establishment of kroon, 100 krooni, .900 silver, 23g (0.81 oz), 36mm (1.4 in)
+1: 1996, Atlanta Olympics, 100 krooni, .925 silver, 25g, 38mm
+2: 1998, Independence anniversary, 100 krooni, .925 silver, same as above
+3: 1992, Krooni currency, 10 krooni, .925 silver, 25g, 38mm
+4: 1992, Barcelona Olympics, 10 krooni, .925 silver, same as above
+5: 1998, Independence anniversary, 10 krooni, .925 silver, same
+6: 2002, Tartu University, 10 krooni, .925 silver, same
+7: 2004, Estonia Flag, 10 krooni, .925 silver, same
+
+So from this, the dimensions vary between two sizes. The first entry (ID 0) is smaller: 36mm and 23 grams. All others are larger: 38mm and 25 grams.
+
+Now looking at metal compositions: The first coin is .900 silver, while all others are .925 silver.
+
+So the question is which metal composition has the least dimension. Since only ID 0 uses .900 silver and it's smaller in both weight and size compared to the rest, that must be the answer.
+</think>
+
+Final Answer: .900 silver
+===================Answer===================
+.900 silver

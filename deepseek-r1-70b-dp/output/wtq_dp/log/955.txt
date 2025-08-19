@@ -1,0 +1,102 @@
+===================Title===================
+Janko Tipsarević
+===================Table===================
+|    | Outcome   |   No. | Date             | Tournament                                        | Surface   | Opponent               | Score                        |
+|---:|:----------|------:|:-----------------|:--------------------------------------------------|:----------|:-----------------------|:-----------------------------|
+|  0 | Runner-up |     1 | 25 October 2009  | Kremlin Cup, Russia                               | Hard (i)  | Mikhail Youzhny        | 7–6(7–5), 0–6, 4–6           |
+|  1 | Runner-up |     2 | 19 June 2010     | UNICEF Open, Netherlands                          | Grass     | Sergiy Stakhovsky      | 3–6, 0–6                     |
+|  2 | Runner-up |     3 | 27 February 2011 | International Tennis Championships, United States | Hard      | Juan Martín del Potro | 4–6, 4–6                     |
+|  3 | Runner-up |     4 | 18 June 2011     | Aegon International, United Kingdom               | Grass     | Andreas Seppi          | 6–7(5–7), 6–3, 3–5 ret.      |
+|  4 | Winner    |     1 | 2 October 2011   | Malaysian Open, Malaysia                          | Hard (i)  | Marcos Baghdatis       | 6–4, 7–5                     |
+|  5 | Winner    |     2 | 23 October 2011  | Kremlin Cup, Russia                               | Hard (i)  | Viktor Troicki         | 6–4, 6–2                     |
+|  6 | Runner-up |     5 | 30 October 2011  | St. Petersburg Open, Russia                       | Hard (i)  | Marin Čilić          | 3–6, 6–3, 2–6                |
+|  7 | Runner-up |     6 | 8 January 2012   | Chennai Open, India                               | Hard      | Milos Raonic           | 7–6(7–4), 6–7(4–7), 6–7(4–7) |
+|  8 | Winner    |     3 | 15 July 2012     | Stuttgart Open, Germany                           | Clay      | Juan Mónaco           | 6–4, 5–7, 6–3                |
+|  9 | Runner-up |     7 | 22 July 2012     | Swiss Open, Switzerland                           | Clay      | Thomaz Bellucci        | 7–6(8–6), 4–6, 2–6           |
+| 10 | Winner    |     4 | 6 January 2013   | Chennai Open, India                               | Hard      | Roberto Bautista-Agut  | 3–6, 6–1, 6–3                |
+===================Question===================
+how many runner-ups are listed?
+===================Text===================
+<think>
+Okay, let's see. I need to figure out how many runner-ups are listed in Janko Tipsarević's table based on the provided data.
+
+First, I'll look through each row of the table and check the "Outcome" column. Each row represents a different tournament outcome for him. The possible outcomes here are either "Runner-up" or "Winner".
+
+I'll go through them one by one:
+
+1. The first entry is from 2009, Outcome: Runner-up.
+2. Second entry, 2010, Outcome: Runner-up.
+3. Third, 2011, Outcome: Runner-up.
+4. Fourth, same year 2011, Outcome: Runner-up again.
+5. Fifth row, Outcome: Winner this time.
+6. Sixth, Outcome: Winner once more.
+7. Seventh entry, Outcome: Runner-up.
+8. Eighth, Outcome: Runner-up in early 2012.
+9. Ninth row, Outcome: Winner.
+10. Tenth entry, Outcome: Runner-up.
+
+Wait, no, let me correct that. I think I miscounted some entries.
+
+Looking again:
+
+- Rows 0 to 3 (Oct 2009 to June 2011): All four are Runner-ups.
+- Then in October 2011, row 4: Winner.
+- Row 5: Winner again.
+- Row 6: Back to Runner-up.
+- Row 7: Runner-up in January 2012.
+- Row 8: Winner in July 2012.
+- Row 9: Runner-up again same month.
+- Row 10: Winner at the start of 2013.
+
+Wait, no. Let me list each row's outcome clearly:
+
+Row 0: Runner-up
+Row 1: Runner-up
+Row 2: Runner-up
+Row 3: Runner-up
+Row 4: Winner
+Row 5: Winner
+Row 6: Runner-up
+Row 7: Runner-up
+Row 8: Winner
+Row 9: Runner-up
+Row 10: Winner
+
+So let's count the Runner-ups:
+
+Rows 0,1,2,3 are Runner-ups (4 so far).
+Then row 6 is Runner-up (5),
+row 7: Runner-up (6),
+row 9: Runner-up (7).
+
+Wait a second, that would make it 7 Runner-ups. Let me recount.
+
+Let's number the rows from 0 to 10:
+
+Row 0: Runner-up
+Row 1: Runner-up
+Row 2: Runner-up
+Row 3: Runner-up → 4
+
+Row 6: Runner-up →5
+
+Row 7: Runner-up →6
+
+Row 9: Runner-up →7
+
+So that's 7 times he was a runner-up.
+
+Wait, but looking again at the table:
+
+Total rows: 11 entries (from 0 to 10). Out of these, how many have Outcome as Runner-up?
+
+Let me count:
+
+Rows where Outcome is Runner-up are rows 0,1,2,3,6,7,9. That's 7 in total.
+
+Yes, so the answer should be 7.
+</think>
+
+Final Answer: 7
+===================Answer===================
+7

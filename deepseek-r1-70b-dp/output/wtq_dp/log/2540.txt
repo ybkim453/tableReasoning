@@ -1,0 +1,38 @@
+===================Title===================
+Bexar County, Texas
+===================Table===================
+|    | Representative        | Party   | Home Town/City   |   District |
+|---:|:----------------------|:--------|:-----------------|-----------:|
+|  0 | Trey Martinez Fischer | D       | San Antonio      |        116 |
+|  1 | Philip Cortez         | D       | San Antonio      |        117 |
+|  2 | Joe Farias            | D       | San Antonio      |        118 |
+|  3 | Roland Gutierrez      | D       | San Antonio      |        119 |
+|  4 | Ruth McClendon        | D       | San Antonio      |        120 |
+|  5 | Joe Straus            | R       | San Antonio      |        121 |
+|  6 | Lyle Larson           | R       | San Antonio      |        122 |
+|  7 | Mike Villarreal       | D       | San Antonio      |        123 |
+|  8 | Jose Menendez         | D       | San Antonio      |        124 |
+|  9 | Justin Rodriguez      | D       | San Antonio      |        125 |
+===================Question===================
+what are the only two republican party representatives?
+===================Text===================
+<think>
+Alright, I need to figure out which representatives from Bexar County, Texas are from the Republican Party based on the provided table.
+
+First, I'll look at each row and check the "Party" column for an 'R' since that stands for Republican.
+
+- Row 0: Trey Martinez Fischer is a Democrat (D).
+- Row 1: Philip Cortez is a Democrat (D).
+- Row 2: Joe Farias is a Democrat (D).
+- Row 3: Roland Gutierrez is a Democrat (D).
+- Row 4: Ruth McClendon is a Democrat (D).
+- Row 5: Joe Straus is Republican (R). That's one.
+- Row 6: Lyle Larson is also Republican (R). That's the second one.
+- Rows 7 to 9 are all Democrats.
+
+So, the only two Republican representatives listed are Joe Straus and Lyle Larson.
+</think>
+
+Final Answer: Joe Straus, Lyle Larson
+===================Answer===================
+Joe Straus,Lyle Larson

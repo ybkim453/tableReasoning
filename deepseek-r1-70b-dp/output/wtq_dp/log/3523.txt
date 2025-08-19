@@ -1,0 +1,36 @@
+===================Title===================
+Dino (singer)
+===================Table===================
+|    |   Year | Song                | Album        | Position   | Chart                 |
+|---:|-------:|:--------------------|:-------------|:-----------|:----------------------|
+|  0 |   1987 | "Summergirls"       | 24/7         | 50         | Billboard Hot 100     |
+|  1 |   1989 | "24/7"              | 24/7         | 42         | Billboard Hot 100     |
+|  2 |   1989 | "24/7"              | 24/7         | 12         | Hot R&B/Hip-Hop Songs |
+|  3 |   1989 | "I Like It"         | 24/7         | 7          | Billboard Hot 100     |
+|  4 |   1989 | "I Like It"         | 24/7         | 3          | Hot Dance Club Play   |
+|  5 |   1989 | "Sunshine"          | 24/7         | 23         | Billboard Hot 100     |
+|  6 |   1990 | "Never 2 Much of U" | 24/7         | 61         | Billboard Hot 100     |
+|  7 |   1990 | "Romeo"             | Swingin'     | 6          | Billboard Hot 100     |
+|  8 |   1991 | "Gentle"            | Swingin'     | 31         | Billboard Hot 100     |
+|  9 |   1993 | "Ooh Child"         | The Way I Am | 27         | Billboard Hot 100     |
+| 10 |   1993 | "Endlessly"         | The Way I Am | --         | Billboard Hot 100     |
+===================Question===================
+is the song summergirls on the album 24/7 or swingin'?
+===================Text===================
+<think>
+Okay, so I need to figure out whether the song "Summergirls" by Dino is on the album 24/7 or Swingin'. Let me look at the table provided.
+
+Looking at the table, each row lists songs along with their respective years, albums they belong to, positions in charts, and which chart. The first column seems to be just an index from 0 to 10. 
+
+I'm specifically interested in the song "Summergirls". Scanning through the rows:
+
+- Row 0: Year 1987, Song "Summergirls", Album is "24/7", Position 50 on Billboard Hot 100.
+  
+Other rows mention different songs and their respective albums. For example, row 7 has a song called "Romeo" from the album "Swingin'". But since I'm looking for "Summergirls", I see that it's clearly listed under the album "24/7".
+
+So, based on this information, "Summergirls" is part of the album "24/7".
+</think>
+
+Final Answer: 24/7
+===================Answer===================
+24/7

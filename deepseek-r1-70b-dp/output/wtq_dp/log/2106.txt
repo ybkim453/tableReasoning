@@ -1,0 +1,62 @@
+===================Title===================
+List of London's Burning episodes (series 10)
+===================Table===================
+|    |   # | Directed By       | Written By       | Original Air Date   |
+|---:|----:|:------------------|:-----------------|:--------------------|
+|  0 |   1 | Frank W. Smith    | Simon J. Sharkey | September 14, 1997  |
+|  1 |   2 | Frank W. Smith    | Simon J. Sharkey | September 28, 1997  |
+|  2 |   3 | Gerry Poulson     | David Humphries  | October 5, 1997     |
+|  3 |   4 | Gerry Poulson     | David Humphries  | October 12, 1997    |
+|  4 |   5 | John Reardon      | Neil McKay       | October 26, 1997    |
+|  5 |   6 | John Reardon      | Neil McKay       | November 2, 1997    |
+|  6 |   7 | Frank W. Smith    | Fran Carroll     | November 9, 1997    |
+|  7 |   8 | Douglas Mackinnon | Neil McKay       | November 16, 1997   |
+|  8 |   9 | Douglas Mackinnon | Neil McKay       | November 23, 1997   |
+|  9 |  10 | John Reardon      | Simon J. Sharkey | November 30, 1997   |
+| 10 |  11 | John Reardon      | Simon J. Sharkey | January 4, 1998     |
+| 11 |  12 | Ken Horn          | David Humphries  | January 11, 1998    |
+| 12 |  13 | John Reardon      | Simon J. Sharkey | January 18, 1998    |
+| 13 |  14 | Ken Horn          | Neil McKay       | January 25, 1998    |
+| 14 |  15 | Frank W. Smith    | Dave Humphries   | February 1, 1998    |
+| 15 |  16 | Douglas MacKinnon | Neil McKay       | February 8, 1998    |
+| 16 |  17 | Graham Moore      | Simon J. Sharkey | February 15, 1998   |
+| 17 |  18 | John Reardon      | Simon J. Sharkey | February 22, 1998   |
+===================Question===================
+how many episodes aired before the one on november 9, 1997?
+===================Text===================
+<think>
+Okay, so I need to figure out how many episodes of London's Burning aired before November 9, 1997. Let me start by looking at the table provided.
+
+First, I see that the table lists episodes from Series 10. Each row has an index starting from 0 to 17, which corresponds to episodes 1 through 18. The columns include Directed By, Written By, and Original Air Date.
+
+I need to focus on the Original Air Dates. Specifically, I'm looking for the episode that aired on November 9, 1997, and then count how many episodes were before that date.
+
+Looking through the dates:
+
+- September 14, 1997 (Episode 1)
+- September 28, 1997 (Episode 2)
+- October 5, 1997 (Episode 3)
+- October 12, 1997 (Episode 4)
+- October 26, 1997 (Episode 5)
+- November 2, 1997 (Episode 6)
+
+Then on November 9, 1997, Episode 7 aired. So I need to count all the episodes before this one.
+
+Episodes 1 through 6 aired before November 9, which is a total of 6 episodes. Wait, but let me double-check. Each row in the table represents an episode, starting from 0 as the first episode. The rows are numbered 0-17, so Episode 7 is at index 6. That means up to Episode 6 (index 5), which aired on November 2, there were 6 episodes before November 9.
+
+Wait, no, the indexes might be off. Let me recount:
+
+- Index 0: Episode 1 - Sep 14
+- Index 1: Episode 2 - Sep 28
+- Index 2: Episode 3 - Oct 5
+- Index 3: Episode 4 - Oct 12
+- Index 4: Episode 5 - Oct 26
+- Index 5: Episode 6 - Nov 2
+- Index 6: Episode 7 - Nov 9
+
+So, up to and before November 9, the episodes that aired were from Episode 1 (Sep14) to Episode 6 (Nov2). That's 6 episodes in total. Therefore, there are 6 episodes that aired before November 9, 1997.
+</think>
+
+Final Answer: 6
+===================Answer===================
+6

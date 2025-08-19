@@ -1,0 +1,82 @@
+===================Title===================
+John B. England
+===================Table===================
+|    | Date              | Location                                 | Air/Ground   |   Number | Type   | Status    |
+|---:|:------------------|:-----------------------------------------|:-------------|---------:|:-------|:----------|
+|  0 | 8 March 1944      | Near Steinhuder Meer (Lake), Germany     | Air          |      1   | Me-109 | Destroyed |
+|  1 | 16 March 1944     | 20 miles south of Stuttgart, Germany     | Air          |      1   | Me-110 | Destroyed |
+|  2 | 11 April 1944     | 20 miles northeast of Magdeburg, Germany | Air          |      0.5 | Me-109 | Destroyed |
+|  3 | 13 April 1944     | West of Mannheim, Germany                | Air          |      1   | FW-190 | Destroyed |
+|  4 | 24 April 1944     | South of Munich, Germany                 | Air          |      3   | Me-110 | Destroyed |
+|  5 | 27 May 1944       | North of Strasbourg, France              | Air          |      1   | Me-109 | Damaged   |
+|  6 | 18 August 1944    | 20 miles northeast of Paris, France      | Air          |      0.5 | Me-109 | Destroyed |
+|  7 | 13 September 1944 | South of Nordhausen, Germany             | Air          |      2.5 | Me-109 | Destroyed |
+|  8 | 6 October 1944    | 20 miles northwest of Berlin, Germany    | Air          |      1   | Me-109 | Damaged   |
+|  9 | 6 October 1944    | 20 miles northwest of Berlin, Germany    | Air          |      2   | Me-109 | Destroyed |
+| 10 | 27 November 1944  | South of Magdeburg, Germany              | Air          |      4   | FW-190 | Destroyed |
+| 11 | 14 January 1945   | 20 miles northwest of Berlin, Germany    | Air          |      1   | Me-109 | Destroyed |
+| 12 | 25 January 1952   | Korea                                    | Air          |      1   | Mig-15 | Damaged   |
+===================Question===================
+how many total aircrafts were only damaged, not destroyed?
+===================Text===================
+<think>
+Okay, so I need to figure out how many aircrafts were only damaged and not destroyed based on the provided table about John B. England. Let's start by understanding what each column represents.
+
+The table has several columns: Date, Location, Air/Ground, Number, Type, and Status. The Status column is crucial here because it tells me whether the aircraft was Destroyed or Damaged. I'm interested in counting only those with a status of 'Damaged'.
+
+Looking at each row one by one:
+
+- Row 0: Status is Destroyed
+- Row 1: Destroyed
+- Row 2: Destroyed
+- Row 3: Destroyed
+- Row 4: Destroyed
+- Row 5: Damaged (so that's one)
+- Row 6: Destroyed
+- Row 7: Destroyed
+- Row 8: Damaged (that's two now)
+- Row 9: Destroyed
+- Row 10: Destroyed
+- Row 11: Destroyed
+- Row 12: Damaged (third one)
+
+Wait, let me recount to make sure I didn't miss any. Going through each row:
+
+Row 0: Destroyed → no
+
+Row 1: Destroyed → no
+
+Row 2: Destroyed → no
+
+Row 3: Destroyed → no
+
+Row 4: Destroyed → no
+
+Row 5: Damaged → count = 1
+
+Row 6: Destroyed → no
+
+Row 7: Destroyed → no
+
+Row 8: Damaged → count = 2
+
+Row 9: Destroyed → no
+
+Row 10: Destroyed → no
+
+Row 11: Destroyed → no
+
+Row 12: Damaged → count = 3
+
+So, I found three instances where the status was 'Damaged'. Each time, it's a separate entry, so that should be the total number of damaged aircrafts.
+
+Wait, but looking back at row 8 and row 9, both are from the same date and location but different numbers. Row 8 has Number 1 and Status Damaged, while row 9 is Destroyed. So each row represents a separate incident or action. Therefore, each 'Damaged' status in separate rows counts individually.
+
+So that's three damaged aircrafts: row 5, 8, and 12.
+</think>
+
+The total number of aircraft damaged but not destroyed is 3.
+
+Final Answer: 3
+===================Answer===================
+3

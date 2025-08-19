@@ -1,0 +1,97 @@
+===================Title===================
+1971 Trans-AMA motocross series
+===================Table===================
+|    |   Place | Rider             | Country        | Team      |   Points |   Wins |
+|---:|--------:|:------------------|:---------------|:----------|---------:|-------:|
+|  0 |       1 | Sylvain Geboers   | Belgium        | Suzuki    |     3066 |      3 |
+|  1 |       2 | Adolf Weil        | Germany        | Maico     |     2331 |      2 |
+|  2 |       3 | Torlief Hansen    | Sweden         | Husqvarna |     2052 |      0 |
+|  3 |       4 | Roger De Coster   | Belgium        | Suzuki    |     1865 |      3 |
+|  4 |       5 | Joel Robert       | Belgium        | Suzuki    |     1730 |      1 |
+|  5 |       6 | Heikki Mikkola    | Finland        | Husqvarna |     1680 |      2 |
+|  6 |       7 | Willy Bauer       | Germany        | Maico     |     1276 |      0 |
+|  7 |       8 | Gaston Rahier     | Belgium        | ČZ       |     1112 |      0 |
+|  8 |       9 | Pierre Karsmakers | Netherlands    | Husqvarna |     1110 |      0 |
+|  9 |      10 | Dave Bickers      | United Kingdom | ČZ       |     1076 |      0 |
+| 10 |      11 | John Banks        | United Kingdom | ČZ       |      971 |      0 |
+| 11 |      12 | Andy Roberton     | United Kingdom | Husqvarna |      810 |      0 |
+| 12 |      13 | Vlastimil Valek   | Czechoslovakia | ČZ       |      709 |      0 |
+| 13 |      14 | Mark Blackwell    | United States  | Husqvarna |      604 |      0 |
+| 14 |      15 | Brad Lackey       | United States  | ČZ       |      603 |      0 |
+| 15 |      16 | Gary Jones        | United States  | Yamaha    |      439 |      0 |
+| 16 |      17 | John DeSoto       | United States  | Suzuki    |      425 |      0 |
+| 17 |      18 | Chris Horsefield  | United Kingdom | ČZ       |      416 |      0 |
+| 18 |      19 | Uno Palm          | Sweden         | Husqvarna |      324 |      0 |
+| 19 |      20 | Peter Lamppu      | United States  | Montesa   |      309 |      0 |
+===================Question===================
+how many teams scored at least 1,500 points or more?
+===================Text===================
+<think>
+Alright, so I need to figure out how many teams scored at least 1,500 points or more in the 1971 Trans-AMA motocross series based on the provided table. Let me start by understanding what's being asked.
+
+First, looking at the table, each row represents a rider with their corresponding points and other details like country and team. The key here is to group these riders by their teams and sum up the total points each team has accumulated. Once I have that, I can determine which teams meet or exceed the 1,500-point threshold.
+
+Let me list out all the unique teams present in the table: Suzuki, Maico, Husqvarna, ČZ, Yamaha, Montesa. Now, I'll go through each rider and add their points to their respective team's total.
+
+Starting with Suzuki:
+- Sylvain Geboers: 3066
+- Roger De Coster: 1865
+- Joel Robert: 1730
+- John DeSoto: 425
+
+Adding these up: 3066 + 1865 = 4931, plus 1730 is 6661, plus 425 gives a total of 7086 points for Suzuki.
+
+Next, Maico:
+- Adolf Weil: 2331
+- Willy Bauer: 1276
+
+Total: 2331 + 1276 = 3607 points.
+
+Husqvarna has several riders:
+- Torlief Hansen: 2052
+- Heikki Mikkola: 1680
+- Pierre Karsmakers: 1110
+- Andy Roberton: 810
+- Mark Blackwell: 604
+- Uno Palm: 324
+
+Calculating each addition step by step:
+2052 + 1680 = 3732
+3732 + 1110 = 4842
+4842 + 810 = 5652
+5652 + 604 = 6256
+6256 + 324 = 6580 points.
+
+ČZ team riders:
+- Gaston Rahier: 1112
+- Dave Bickers: 1076
+- John Banks: 971
+- Vlastimil Valek: 709
+- Brad Lackey: 603
+- Chris Horsefield: 416
+
+Adding them up:
+1112 + 1076 = 2188
+2188 + 971 = 3159
+3159 + 709 = 3868
+3868 + 603 = 4471
+4471 + 416 = 4887 points.
+
+Yamaha only has one rider, Gary Jones with 439 points. Since that's below 1500, it doesn't count.
+
+Montesa also has one rider, Peter Lamppu with 309 points, which is well under the threshold.
+
+Now, let me check each team's total:
+- Suzuki: 7086 (≥1500)
+- Maico: 3607 (≥1500)
+- Husqvarna: 6580 (≥1500)
+- ČZ: 4887 (≥1500)
+- Yamaha: 439 (<1500)
+- Montesa: 309 (<1500)
+
+So, the teams that scored at least 1,500 points or more are Suzuki, Maico, Husqvarna, and ČZ. That makes a total of four teams.
+</think>
+
+Final Answer: 4
+===================Answer===================
+6

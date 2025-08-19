@@ -1,0 +1,52 @@
+===================Title===================
+List of Places of Scenic Beauty of Japan (Hiroshima)
+===================Table===================
+|    | Site                                                                                      | Municipality           | Comments                                                                                       | Coordinates                                               | Type    | Ref.   |
+|---:|:------------------------------------------------------------------------------------------|:-----------------------|:-----------------------------------------------------------------------------------------------|:----------------------------------------------------------|:--------|:-------|
+|  0 | Kikkawa Motoharu Fortified Residence Gardens\n吉川元春館跡庭園\nKikkawa Motoharu yakata ato teien | Kitahiroshima          | nan                                                                                            | 34°43′01′′N 132°27′58′′E﻿ / ﻿34.71697004°N 132.46599393°E | 1       | [1]    |
+|  1 | Former Mantoku-in Gardens\n旧万徳院庭園\nkyū-Mantokuin teien                                   | Kitahiroshima          | nan                                                                                            | 34°43′27′′N 132°28′22′′E﻿ / ﻿34.72423174°N 132.47265069°E | 1       | [2]    |
+|  2 | *Itsukushima\n厳島\nItsukushima                                                             | Hatsukaichi            | also a Special Historic Site; Itsukushima Jinja is inscribed on the UNESCO World Heritage List | 34°16′16′′N 132°18′22′′E﻿ / ﻿34.27116774°N 132.30612348°E | 8       | [3]    |
+|  3 | *Sandan-kyō\n三段峡\nSandan-kyō                                                            | Akiōta/Kitahiroshima  | nan                                                                                            | 34°36′57′′N 132°11′44′′E﻿ / ﻿34.61573328°N 132.19561853°E | 3, 5, 6 | [4]    |
+|  4 | Shukkei-en\n縮景園\nShukukei-en                                                              | Hiroshima              | nan                                                                                            | 34°24′02′′N 132°28′04′′E﻿ / ﻿34.40050182°N 132.46770735°E | 1       | [5]    |
+|  5 | Jōdo-ji Gardens\n浄土寺庭園\nJōdoji teien                                                    | Onomichi               | nan                                                                                            | 34°24′44′′N 133°12′36′′E﻿ / ﻿34.41222952°N 133.21012266°E | 1       | [6]    |
+|  6 | Taishaku-kyō\n帝釈川の谷 (帝釈峡)\nTaishaku-gawa no tani (Taishaku-kyō)                         | Shōbara/Jinsekikōgen | nan                                                                                            | 34°50′58′′N 133°13′23′′E﻿ / ﻿34.8493628°N 133.2231609°E   | 5, 6    | [7]    |
+|  7 | Peace Memorial Park\n平和記念公園\nHeiwa kinen kōen                                            | Hiroshima              | the Hiroshima Peace Memorial (Genbaku Dome) is inscribed on the UNESCO World Heritage List     | 34°23′34′′N 132°27′09′′E﻿ / ﻿34.39284707°N 132.45251203°E | 1       | [8]    |
+|  8 | Tomo Park\n鞆公園\nTomo kōen                                                                | Fukuyama               | nan                                                                                            | 34°23′01′′N 133°23′48′′E﻿ / ﻿34.3835209°N 133.39662133°E  | 1, 8    | [9]    |
+===================Question===================
+how many places of scenic beauty does hiroshima have?
+===================Text===================
+<think>
+Okay, so I need to figure out how many places of scenic beauty Hiroshima has based on this table. Let me look at the data carefully.
+
+The table lists each site with details like Site name, Municipality, Comments, Coordinates, Type, and Ref. The question is about the number of places in Hiroshima. So first, I should identify which entries are within Hiroshima prefecture or city.
+
+Looking at the "Municipality" column:
+
+- Kitahiroshima appears a few times.
+- Hatsukaichi is another municipality.
+- Akiōta/Kitahiroshima: so that's overlapping between two municipalities, but still part of Hiroshima.
+- Hiroshima itself is listed for Shukkei-en and Peace Memorial Park.
+- Onomichi is another area in Hiroshima prefecture.
+- Shōbara/Jinsekikōgen is also within Hiroshima prefecture.
+- Fukuyama is a city in Hiroshima.
+
+So each row represents one place of scenic beauty. Now, let me count the rows:
+
+1. Kikkawa Motoharu Fortified Residence Gardens - Kitahiroshima
+2. Former Mantoku-in Gardens - Kitahiroshima
+3. *Itsukushima - Hatsukaichi
+4. *Sandan-kyō - Akiōta/Kitahiroshima (both part of Hiroshima)
+5. Shukkei-en - Hiroshima city
+6. Jōdo-ji Gardens - Onomichi
+7. Taishaku-kyō - Shōbara/Jinsekikōgen (Hiroshima)
+8. Peace Memorial Park - Hiroshima city
+9. Tomo Park - Fukuyama
+
+That's 9 entries in total, each corresponding to a different place of scenic beauty in Hiroshima prefecture or its municipalities. Wait, but I need to make sure all these are within Hiroshima and not outside. For instance, Itsukushima is part of Hatsukaichi, which is in Hiroshima. Similarly, Tomo Park in Fukuyama is also within the prefecture.
+
+So yes, each row represents one place, totaling 9.
+</think>
+
+Final Answer: 9
+===================Answer===================
+2

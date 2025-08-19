@@ -1,0 +1,50 @@
+===================Title===================
+Dino (singer)
+===================Table===================
+|    |   Year | Song                | Album        | Position   | Chart                 |
+|---:|-------:|:--------------------|:-------------|:-----------|:----------------------|
+|  0 |   1987 | "Summergirls"       | 24/7         | 50         | Billboard Hot 100     |
+|  1 |   1989 | "24/7"              | 24/7         | 42         | Billboard Hot 100     |
+|  2 |   1989 | "24/7"              | 24/7         | 12         | Hot R&B/Hip-Hop Songs |
+|  3 |   1989 | "I Like It"         | 24/7         | 7          | Billboard Hot 100     |
+|  4 |   1989 | "I Like It"         | 24/7         | 3          | Hot Dance Club Play   |
+|  5 |   1989 | "Sunshine"          | 24/7         | 23         | Billboard Hot 100     |
+|  6 |   1990 | "Never 2 Much of U" | 24/7         | 61         | Billboard Hot 100     |
+|  7 |   1990 | "Romeo"             | Swingin'     | 6          | Billboard Hot 100     |
+|  8 |   1991 | "Gentle"            | Swingin'     | 31         | Billboard Hot 100     |
+|  9 |   1993 | "Ooh Child"         | The Way I Am | 27         | Billboard Hot 100     |
+| 10 |   1993 | "Endlessly"         | The Way I Am | --         | Billboard Hot 100     |
+===================Question===================
+in total, how many songs did dino have on the billboard hot 100 between 1987 and 1993?
+===================Text===================
+<think>
+Okay, so I need to figure out how many songs Dino had on the Billboard Hot 100 between 1987 and 1993 based on this table. Let me look at the table carefully.
+
+First, each row represents a song's performance on different charts in specific years. The columns are Year, Song, Album, Position, and Chart. I'm only interested in songs that charted on the Billboard Hot 100 between those years.
+
+Starting from the top:
+
+Row 0: "Summergirls" in 1987 reached position 50 on the Billboard Hot 100. That counts as one song.
+
+Row 1: "24/7" in 1989 at position 42, so that's another song. Wait, but I see another entry for "24/7" in row 2, but that's on a different chart (Hot R&B/Hip-Hop Songs), so I can ignore that one since it's not Billboard Hot 100.
+
+Row 3: "I Like It" from the same album, position 7 on Hot 100. That's another song, making it three now.
+
+Row 4: This is also "I Like It," but on a different chart (Hot Dance Club Play), so I don't count this one for the Hot 100.
+
+Row 5: "Sunshine" in 1989 at position 23 on Hot 100. That's four songs.
+
+Row 6: "Never 2 Much of U" in 1990 at position 61, so that's five.
+
+Row 7: "Romeo" from a different album (Swingin') in 1990, reached number 6. Six songs now.
+
+Row 8: "Gentle" again on Swingin' in 1991, position 31. Seven songs.
+
+Rows 9 and 10 are both from 1993's The Way I Am. Row 9 is "Ooh Child" at 27, which is eight. Row 10 is "Endlessly," but the Position column says "--", so maybe it didn't chart or data isn't available. Since it's "--", perhaps it didn't make it onto the Hot 100. So I won't count that one.
+
+So adding up: Summergirls, 24/7, I Like It, Sunshine, Never 2 Much of U, Romeo, Gentle, Ooh Child. That's eight songs in total on the Billboard Hot 100 between those years.
+</think>
+
+Final Answer: 8
+===================Answer===================
+9

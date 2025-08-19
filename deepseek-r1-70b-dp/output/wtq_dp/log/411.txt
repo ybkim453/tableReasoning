@@ -1,0 +1,50 @@
+===================Title===================
+United States House of Representatives elections in Colorado, 2008
+===================Table===================
+|    |   District | Incumbent        | 2008 Status   | Democratic    | Republican       |
+|---:|-----------:|:-----------------|:--------------|:--------------|:-----------------|
+|  0 |          1 | Diana DeGette    | Re-election   | Diana DeGette | George Lilly     |
+|  1 |          2 | Mark Udall       | Open          | Jared Polis   | Scott Starin     |
+|  2 |          3 | John Salazar     | Re-election   | John Salazar  | Wayne Wolf       |
+|  3 |          4 | Marilyn Musgrave | Re-election   | Betsy Markey  | Marilyn Musgrave |
+|  4 |          5 | Doug Lamborn     | Re-election   | Hal Bidlack   | Doug Lamborn     |
+|  5 |          6 | Tom Tancredo     | Open          | Hank Eng      | Mike Coffman     |
+|  6 |          7 | Ed Perlmutter    | Re-election   | Ed Perlmutter | John W. Lerew    |
+===================Question===================
+the person that is listed last of the democrats
+===================Text===================
+<think>
+Okay, I need to figure out who the last Democrat listed in the table is. Let me look at each row and note down the Democratic candidates.
+
+First, the table has 7 districts. Each row corresponds to a district. The columns are District number, Incumbent, Status for 2008, Democratic candidate, Republican candidate.
+
+I'll go through each row one by one:
+
+1. District 1: Diana DeGette (Democrat)
+2. District 2: Jared Polis (Democrat)
+3. District 3: John Salazar (Democrat)
+4. District 4: Betsy Markey (Democrat)
+5. District 5: Hal Bidlack (Democrat)
+6. District 6: Hank Eng (Democrat)
+7. District 7: Ed Perlmutter (Democrat)
+
+Wait, wait. Let me check that again because the table might have some different information.
+
+Looking closely:
+
+- For each district, under Democratic, these are the names in order. So I need to list them as they appear row by row and find out who is last in this sequence.
+
+So the Democrats listed are Diana DeGette (district 1), Jared Polis (2), John Salazar (3), Betsy Markey (4), Hal Bidlack (5), Hank Eng (6), Ed Perlmutter (7).
+
+So the order from first to last row is district 1 to 7. The last person listed in the Democratic column would be in the 7th district, which is Ed Perlmutter.
+
+Wait, but let me confirm: sometimes tables can have different orders or may not list all districts numerically without skipping numbers, but here it's from 1 to 7 sequentially.
+
+Yes, so the last Democrat in the table is Ed Perlmutter.
+</think>
+
+The last Democrat listed in the table is Hank Eng. Wait, no—Ed Perlmutter is in district 7, which is the last row. So that must be the answer.
+
+Final Answer: Ed Perlmutter
+===================Answer===================
+Ed Perlmutter

@@ -1,0 +1,47 @@
+===================Title===================
+2008–09 Iran Pro League
+===================Table===================
+|    | Team         | City      | Venue          | Capacity   | Head Coach               | Team Captain            | Past Season   |
+|---:|:-------------|:----------|:---------------|:-----------|:-------------------------|:------------------------|:--------------|
+|  0 | Aboomoslem   | Mashhad   | Samen          | 35,000     | Ali Hanteh               | Saeed Khani             | 4th           |
+|  1 | Bargh Shiraz | Shiraz    | Hafezieh       | 20,000     | Rasoul Korbekandi        | Sattar Zare             | 7th           |
+|  2 | Damash Gilan | Rasht     | Sardar Jangal  | 15,000     | Stanko Poklepović       | Mohammad Reza Mahdavi   | 15th          |
+|  3 | Est. Ahvaz   | Ahvaz     | Takhti Ahvaz   | 30,000     | Khodadad Azizi           | Afshin Komaei           | 8th           |
+|  4 | Esteghlal    | Tehran    | Azadi          | 90,000     | Amir Ghalenoei           | Farhad Majidi           | 13th          |
+|  5 | Foolad       | Ahvaz     | Takhti Ahvaz   | 15,000     | Majid Jalali             | Ali Badavi              | Qualifier     |
+|  6 | Malavan      | Anzali    | Takhti Anzali  | 8,000      | Mohammad Ahmadzadeh      | Masoud Gholamalizad     | 16th          |
+|  7 | Mes Kerman   | Kerman    | Shahid Bahonar | 15,000     | Parviz Mazloomi          | Farzad Hosseinkhani     | 10th          |
+|  8 | Moghavemat   | Shiraz    | Hafezieh       | 20,000     | Gholam Hossein Peyrovani | Mostafa Sabri           | 14th          |
+|  9 | Pas Hamedan  | Hamedan   | Ghods          | 5,000      | Vinko Begovic            | Omid Khouraj            | 5th           |
+| 10 | Paykan       | Qazvin    | Shahid Rajaei  | 5,000      | Ali Asghar Modir Roosta  | Mohammad Reza Tahmasebi | 9th           |
+| 11 | Payam        | Mashhad   | Samen          | 35,000     | Kazem Ghiyasiyan         | Mehdi Hasheminasab      | Qualifier     |
+| 12 | Persepolis   | Tehran    | Azadi          | 90,000     | Nelo Vingada             | Karim Bagheri           | Champion      |
+| 13 | Rah Ahan     | Rey, Iran | Rah Ahan       | 15,000     | Mehdi Tartar             | Ahmad Taghavi           | 12th          |
+| 14 | Saba Qom     | Qom       | Yadegar Emam   | 15,000     | Firouz Karimi            | Yahya Golmohammadi      | 3rd           |
+| 15 | Saipa        | Karaj     | Enghelab Karaj | 15,000     | Mohammad Mayeli Kohan    | Ebrahim Sadeghi         | 11th          |
+| 16 | Sepahan      | Esfahan   | Foolad Shahr   | 25,000     | Farhad Kazemi            | Moharram Navidkia       | 2nd           |
+| 17 | Zob Ahan     | Esfahan   | Foolad Shahr   | 25,000     | Mansour Ebrahimzadeh     | Mohammad Salsali        | 6th           |
+===================Question===================
+which team finished first?
+===================Text===================
+<think>
+Alright, I'm trying to figure out which team finished first in the 2008–09 Iran Pro League based on the provided table. Let's break this down step by step.
+
+First, I need to understand what the table represents. It lists various teams with details like their city, venue, capacity, head coach, captain, and importantly, their "Past Season" performance. The key here is interpreting the "Past Season" column correctly.
+
+I see that each row has a number under the " Past Season" heading. For example, Aboomoslem has 4th, Bargh Shiraz has 7th, and so on. However, I notice two teams have different entries: Foolad and Payam both have "Qualifier" as their past season result, while Persepolis has "Champion."
+
+Now, the question is about which team finished first in that season. Typically, the champion would be the team that finished first. So looking at the table, Persepolis is listed under index 12 with "Past Season" as Champion. This suggests they were the top team.
+
+To confirm, I'll check other teams' positions. Teams like Sepahan have 2nd place, Saba Qom 3rd, Aboomoslem 4th, Pas Hamedan 5th, Zob Ahan 6th, Bargh Shiraz 7th, Esteghlal Ahvaz 8th, Paykan 9th, Mes Kerman 10th, Saipa 11th, Rah Ahan 12th, Damash Gilan 15th, Malavan 16th. 
+
+Wait, some positions seem off because the numbering goes from 0 to 17, but that's just their index in the table. The "Past Season" column shows their actual league standing.
+
+So Persepolis is indeed listed as Champion under Past Season, which would mean they finished first. No other team has a higher position indicated—since Champion is typically the top spot.
+
+Therefore, the team that finished first is Persepolis.
+</think>
+
+Final Answer: Persepolis
+===================Answer===================
+Persepolis

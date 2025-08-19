@@ -1,0 +1,58 @@
+===================Title===================
+Lic. Adolfo López Mateos International Airport
+===================Table===================
+|    |   Rank | City                           | Passengers   |   Ranking | Airline                                |
+|---:|-------:|:-------------------------------|:-------------|----------:|:---------------------------------------|
+|  0 |      1 | Quintana Roo, Cancún          | 132,046      |       nan | Aeroméxico Connect, Interjet, Volaris |
+|  1 |      2 | Nuevo León, Monterrey         | 106,513      |       nan | Aeroméxico Connect, Interjet          |
+|  2 |      3 | Guerrero, Acapulco             | 56,069       |       nan | Aeroméxico Connect, Interjet          |
+|  3 |      4 | Jalisco, Guadalajara           | 52,584       |       nan | Aeroméxico Connect, Volaris           |
+|  4 |      5 | Jalisco, Puerto Vallarta       | 43,419       |         1 | Interjet                               |
+|  5 |      6 | Baja California Sur, Los Cabos | 37,526       |         1 | Interjet                               |
+|  6 |      7 | Guerrero, Ixtapa/Zihuatanejo   | 35,507       |       nan | Interjet                               |
+|  7 |      8 | Baja California, Tijuana       | 14,906       |       nan | Interjet                               |
+|  8 |      9 | Tabasco, Villahermosa          | 6,928        |         1 | VivaAerobus                            |
+|  9 |     10 | Tamaulipas, Tampico            | 3,619        |         1 | VivaAerobus                            |
+===================Question===================
+which interjet airline has the highest number of passenders?
+===================Text===================
+<think>
+Okay, so I need to figure out which Interjet airline has the highest number of passengers based on this table provided about Lic. Adolfo López Mateos International Airport. Let me take it step by step.
+
+First, let's understand the structure of the table. The columns are Rank, City, Passengers, Ranking, and Airline. Each row represents a different city served by various airlines, with the number of passengers listed.
+
+The question is asking specifically about Interjet Airlines and which one among them has the highest number of passengers. So I need to focus on rows where Interjet is mentioned in the Airline column.
+
+Looking through each row:
+
+- Rank 0: Quintana Roo, Cancún. Passengers = 132,046. Airlines include Aeroméxico Connect, Interjet, Volaris.
+- Rank 1: Nuevo León, Monterrey. Passengers = 106,513. Airlines are Aeroméxico Connect and Interjet.
+- Rank 2: Guerrero, Acapulco. Passengers = 56,069. Again, Aeroméxico Connect and Interjet.
+- Rank 3: Jalisco, Guadalajara. Passengers = 52,584. Here it's Aeroméxico Connect and Volaris.
+- Rank 4: Jalisco, Puerto Vallarta. Passengers = 43,419. Only Interjet is listed here, with a ranking of 1.
+- Rank 5: Baja California Sur, Los Cabos. Passengers = 37,526. Again, only Interjet, ranked 1.
+- Rank 6: Guerrero, Ixtapa/Zihuatanejo. Passengers = 35,507. Interjet is the airline here.
+- Rank 7: Baja California, Tijuana. Passengers = 14,906. Interjet is mentioned.
+- Rank 8: Tabasco, Villahermosa. Passengers = 6,928. VivaAerobus is listed here, so not relevant for Interjet.
+- Rank 9: Tamaulipas, Tampico. Passengers = 3,619. Again, VivaAerobus.
+
+Now, focusing only on the rows where Interjet appears as one of the airlines:
+
+1. Quintana Roo, Cancún: 132,046 passengers.
+2. Nuevo León, Monterrey: 106,513 passengers.
+3. Guerrero, Acapulco: 56,069 passengers.
+4. Jalisco, Puerto Vallarta: 43,419 passengers.
+5. Baja California Sur, Los Cabos: 37,526 passengers.
+6. Guerrero, Ixtapa/Zihuatanejo: 35,507 passengers.
+7. Baja California, Tijuana: 14,906 passengers.
+
+Wait a second, in the first row, Interjet is one of three airlines (along with Aeroméxico Connect and Volaris) serving Cancún, which has the highest passenger count at 132,046. Then, Monterrey is next with 106k, then Acapulco with 56k, etc.
+
+So if I'm considering each instance where Interjet operates, whether alone or alongside other airlines, the Cancún route has by far the most passengers. Even though there are multiple airlines serving that city, Interjet's presence there means it contributes to that passenger count.
+
+Therefore, the highest number of passengers for Interjet would be in Quintana Roo, Cancún, with 132,046 passengers.
+</think>
+
+Final Answer: 132046
+===================Answer===================
+Aeroméxico Connect, Interjet, Volaris

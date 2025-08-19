@@ -1,0 +1,38 @@
+===================Title===================
+Lukáš Lacko
+===================Table===================
+|    | Tournament       | 2007   | 2008   | 2009   | 2010   | 2011   | 2012   | 2013   | 2014   | W–L   |
+|---:|:-----------------|:-------|:-------|:-------|:-------|:-------|:-------|:-------|:-------|:------|
+|  0 | Australian Open  | 1R     | 1R     | A      | 2R     | 1R     | 3R     | 2R     | 1R     | 4–7   |
+|  1 | French Open      | Q1     | Q1     | A      | 2R     | Q1     | 1R     | 1R     | nan    | 1–3   |
+|  2 | Wimbledon        | Q1     | A      | 1R     | 2R     | 1R     | 3R     | 1R     | nan    | 3–5   |
+|  3 | US Open          | Q3     | Q2     | Q3     | 1R     | 1R     | 1R     | 1R     | nan    | 0–4   |
+|  4 | Win–Loss         | 0–1    | 0–1    | 0–1    | 3–4    | 0–3    | 4–4    | 1–4    | 0–1    | 8–19  |
+|  5 | Titles–Finals    | 0–0    | 0–0    | 0–0    | 0–0    | 0–0    | 0–1    | 0–0    | nan    | 0–1   |
+|  6 | Year-End Ranking | 139    | 325    | 82     | 89     | 112    | 51     | 81     | nan    | nan   |
+===================Question===================
+what is the total number of wins between 2012 and 2014?
+===================Text===================
+<think>
+Okay, so I need to figure out the total number of wins Lukáš Lacko had between 2012 and 2014 based on the table provided. Let me look at each part step by step.
+
+First, looking at the table headers: it's organized by tournament, with years from 2007 to 2014 and some additional stats like Win-Loss and Year-End Ranking. The question specifically asks for wins between 2012 and 2014, so I need to focus on those three years.
+
+I notice each row represents a different aspect of his performance: Australian Open, French Open, Wimbledon, US Open, then overall Win–Loss, Titles–Finals, and Year-End Ranking. The last column is W–L, which seems to be the total win-loss record for each tournament or category.
+
+Wait, actually, looking closer, the "Win–Loss" row (row 4) seems to show his performance in each year. So, for each year from 2007 to 2014, there's a Win-Loss record. The last column under that is "8–19", which might be the overall W-L across those years.
+
+But I think each cell in row 4 corresponds to the respective year. For example, in 2012, his Win-Loss was 4-4, in 2013 it's 1-4, and in 2014 it's 0-1. So, to get the total wins from 2012 to 2014, I should add up the wins (the first number in each of those W-L records) for those three years.
+
+So:
+
+2012: 4 wins
+2013: 1 win
+2014: 0 wins
+
+Adding them together: 4 + 1 + 0 = 5 wins total between 2012 and 2014.
+</think>
+
+Final Answer: 5
+===================Answer===================
+5

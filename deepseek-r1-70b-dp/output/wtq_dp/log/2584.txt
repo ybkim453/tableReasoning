@@ -1,0 +1,67 @@
+===================Title===================
+United States House of Representatives elections, 2002
+===================Table===================
+|    | District   | Incumbent       | Party      |   First\nelected | Result                                       | Candidates                                                                         |
+|---:|:-----------|:----------------|:-----------|-----------------:|:---------------------------------------------|:-----------------------------------------------------------------------------------|
+|  0 | Maryland 1 | Wayne Gilchrest | Republican |             1990 | Re-elected                                   | Wayne Gilchrest (R) 76.67%\nAnn Tamlyn (D) 23.16%                                  |
+|  1 | Maryland 2 | Robert Ehrlich  | Republican |             1994 | Retired to run for Governor\nDemocratic gain | Dutch Ruppersberger (D) 54.16%\nHelen Bentley (R) 45.57%                           |
+|  2 | Maryland 3 | Ben Cardin      | Democratic |             1986 | Re-elected                                   | Ben Cardin (D) 65.72%\nScott Conwell (R) 34.18%                                    |
+|  3 | Maryland 4 | Albert Wynn     | Democratic |             1992 | Re-elected                                   | Albert Wynn (D) 78.57%\nJohn Kimble (R) 20.82%                                     |
+|  4 | Maryland 5 | Steny Hoyer     | Democratic |             1981 | Re-elected                                   | Steny Hoyer (D) 69.27%\nJoseph Crawford (R) 30.52%                                 |
+|  5 | Maryland 6 | Roscoe Bartlett | Republican |             1992 | Re-elected                                   | Roscoe Bartlett (R) 66.11%\nDonald DeArmon (D) 33.80%                              |
+|  6 | Maryland 7 | Elijah Cummings | Democratic |             1996 | Re-elected                                   | Elijah Cummings (D) 73.53%\nJoseph Ward (R) 26.38%                                 |
+|  7 | Maryland 8 | Connie Morella  | Republican |             1986 | Lost re-election\nDemocratic gain            | Chris Van Hollen (D) 51.71%\nConnie Morella (R) 47.49%\nStephen Bassett (UN) 0.73% |
+===================Question===================
+congressmen re-elected with at least 60% of the vote
+===================Text===================
+<think>
+Alright, let me try to figure this out step by step. So, I need to find which congressmen were re-elected with at least 60% of the vote in the Maryland districts based on the provided table.
+
+First, I'll go through each row and check two things: whether the incumbent was re-elected and what percentage they received. If both conditions are met (re-elected and >=60%), then I'll note their names.
+
+Starting with the first district:
+- Wayne Gilchrest is Republican, first elected in 1990. He was re-elected with 76.67%. That's above 60%, so he qualifies.
+
+Next, Maryland 2:
+- Robert Ehrlich retired, so it's a Democratic gain. Not relevant since he wasn't re-elected here.
+
+Maryland 3:
+- Ben Cardin is Democrat, first elected in 1986. He was re-elected with 65.72%. That's above 60%, so he makes the list.
+
+Maryland 4:
+- Albert Wynn, Democrat, re-elected with 78.57%. Well over 60%, so he's included.
+
+Maryland 5:
+- Steny Hoyer, Democrat, re-elected with 69.27%. Above 60%, so yes.
+
+Maryland 6:
+- Roscoe Bartlett, Republican, re-elected with 66.11%. That's just above 60%, so he counts.
+
+Maryland 7:
+- Elijah Cummings, Democrat, re-elected with 73.53%. Definitely over 60%.
+
+Maryland 8:
+- Connie Morella lost, so she doesn't count as re-elected here.
+
+Wait, in District MD 6: Bartlett got exactly 66.11%, which is above 60. So he should be included.
+
+So compiling all the names where they were re-elected and got at least 60%:
+
+From MD1: Wayne Gilchrest
+
+MD3: Ben Cardin
+
+MD4: Albert Wynn
+
+MD5: Steny Hoyer
+
+MD6: Roscoe Bartlett
+
+MD7: Elijah Cummings
+
+That's six congressmen in total.
+</think>
+
+Final Answer: Wayne Gilchrest, Ben Cardin, Albert Wynn, Steny Hoyer, Roscoe Bartlett, Elijah Cummings
+===================Answer===================
+Wayne Gilchrest,Ben Cardin,Albert Wynn,Steny Hoyer,Roscoe Bartlett,Elijah Cummings

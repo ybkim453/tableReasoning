@@ -1,0 +1,43 @@
+===================Title===================
+Ralph Jones
+===================Table===================
+|    | School   | Season   | Record   | Conference Record   | Place   | Postseason         |
+|---:|:---------|:---------|:---------|:--------------------|:--------|:-------------------|
+|  0 | Illinois | 1912–13  | 10–6     | 7–6                 | 5th     | nan                |
+|  1 | Illinois | 1913–14  | 9–4      | 7–3                 | 3rd     | nan                |
+|  2 | Illinois | 1914–15  | 16–0     | 12–0                | T1st    | National Champions |
+|  3 | Illinois | 1915–16  | 13–3     | 9–3                 | T2nd    | nan                |
+|  4 | Illinois | 1916–17  | 13–3     | 10–2                | T1st    | Big Ten Champions  |
+|  5 | Illinois | 1917–18  | 9–6      | 6–6                 | T4th    | nan                |
+|  6 | Illinois | 1918–19  | 6–8      | 5–7                 | 5th     | nan                |
+|  7 | Illinois | 1919–20  | 9–4      | 8–4                 | 3rd     | nan                |
+|  8 | Illinois | 1912–20  | 85–34    | 64–31               | –       | nan                |
+===================Question===================
+how many seasons did this coach lead the team to postseason championships?
+===================Text===================
+<think>
+Okay, so I need to figure out how many seasons Ralph Jones led his team to postseason championships based on this table. Let me look at the table again.
+
+The table has several rows corresponding to different seasons from 1912–13 up through 1919–20. Each row includes data like School, Season, Record, Conference Record, Place, and Postseason info.
+
+I'm interested in the "Postseason" column because that's where any championships would be noted. I'll scan each season's postseason result to see if there were any championships.
+
+Starting from the top:
+- In 1912–13, Postseason is 'nan' which probably means no postseason or not applicable.
+- 1913–14: Also 'nan'.
+- 1914–15: Here it says "National Champions". That's one championship season.
+- 1915–16: 'nan', so nothing here.
+- 1916–17: It mentions "Big Ten Champions". I'm not sure if Big Ten is considered a postseason championship. Sometimes conference championships are separate from national ones. Since the question specifies "postseason championships", maybe it's referring to tournaments after the regular season, like NCAA tournaments or similar. But in that era, the NCAA tournament didn't exist yet. The Helms Athletic Foundation retroactively named champions, but I'm not sure if that counts as a formal postseason championship.
+
+Wait, in 1914–15, they have "National Champions", which is clear. Then in 1916–17, "Big Ten Champions" might be the regular season conference title or a tournament. Since it's under Postseason, perhaps that's a postseason conference tournament win. So maybe that counts as another championship.
+
+However, I'm not entirely sure if Big Ten Championships in that era were considered official postseason titles, especially since the NCAA tournament started much later (1939). Back then, teams might have been named champions based on conference records or other criteria rather than through a tournament.
+
+Looking back at the 1916–17 season: "Big Ten Champions" is listed under Postseason. So perhaps that's considered a postseason championship by the table's standards.
+
+So if I count both 1914–15 (National) and 1916–17 (Big Ten), that would be two seasons where they won championships in the postseason.
+</think>
+
+Final Answer: 2
+===================Answer===================
+2

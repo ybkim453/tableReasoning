@@ -1,0 +1,71 @@
+===================Title===================
+1989 NHL Entry Draft
+===================Table===================
+|    |   Pick # | Player          | Position   | Nationality    | NHL team              | College/junior/club team                 |
+|---:|---------:|:----------------|:-----------|:---------------|:----------------------|:-----------------------------------------|
+|  0 |      148 | Paul Krake      | Goalie     | Canada         | Quebec Nordiques      | University of Alaska Anchorage (NCAA)    |
+|  1 |      149 | Phil Huber      | Center     | Canada         | New York Islanders    | Kamloops Blazers (WHL)                   |
+|  2 |      150 | Derek Langille  | Defense    | Canada         | Toronto Maple Leafs   | North Bay Centennials (OHL)              |
+|  3 |      151 | Jim Solly       | Left Wing  | Canada         | Winnipeg Jets         | Bowling Green State University (NCAA)    |
+|  4 |      152 | Sergei Starikov | Defense    | Soviet Union   | New Jersey Devils     | CSKA Moscow (USSR)                       |
+|  5 |      153 | Milan Tichy     | Defense    | Czechoslovakia | Chicago Blackhawks    | Prince Albert Raiders (WHL)              |
+|  6 |      154 | Jon Pratt       | Left Wing  | United States  | Minnesota North Stars | Pingree High School (USHS-MA)            |
+|  7 |      155 | Rob Sangster    | Left Wing  | Canada         | Vancouver Canucks     | Kitchener Rangers (OHL)                  |
+|  8 |      156 | Kevin Plager    | Right Wing | United States  | St. Louis Blues       | Parkway North High School (USHS-MO)      |
+|  9 |      157 | Raymond Saumier | Right Wing | Canada         | Hartford Whalers      | Trois Rivieres Draveurs (QMJHL)          |
+| 10 |      158 | Andy Suhy       | Defense    | United States  | Detroit Red Wings     | Western Michigan University (NCAA)       |
+| 11 |      159 | Sverre Sears    | Defense    | United States  | Philadelphia Flyers   | Princeton University (NCAA)              |
+| 12 |      160 | Greg Spenrath   | Defense    | Canada         | New York Rangers      | Tri-City Americans (WHL)                 |
+| 13 |      161 | Derek Plante    | Center     | United States  | Buffalo Sabres        | Cloquet High School (USHS-MN)            |
+| 14 |      162 | Darcy Martini   | Defense    | Canada         | Edmonton Oilers       | Michigan Technological University (NCAA) |
+| 15 |      163 | David Shute     | Left Wing  | United States  | Pittsburgh Penguins   | Victoria Cougars (WHL)                   |
+| 16 |      164 | Rick Allain     | Defense    | Canada         | Boston Bruins         | Kitchener Rangers (OHL)                  |
+| 17 |      165 | Sean Whyte      | Right Wing | Canada         | Los Angeles Kings     | Guelph Platers (OHL)                     |
+| 18 |      166 | Dean Holoien    | Right Wing | Canada         | Washington Capitals   | Saskatoon Blades (WHL)                   |
+| 19 |      167 | Patrick Lebeau  | Left Wing  | Canada         | Montreal Canadiens    | St-Jean Lynx (QMJHL)                     |
+| 20 |      168 | Kevin Wortman   | Defense    | United States  | Calgary Flames        | American International College (NCAA)    |
+===================Question===================
+what is the total amount of right wings drafted?
+===================Text===================
+<think>
+Okay, let's see. I need to find out how many right wings were drafted in total based on this table. Hmm, the table has 21 entries, each with different positions. So first, I'll go through each row and look for players whose position is "Right Wing."
+
+Starting from the top:
+
+Row 0: Paul Krake - Goalie, not Right Wing.
+Row 1: Phil Huber - Center, nope.
+Row 2: Derek Langille - Defense, no.
+Row 3: Jim Solly - Left Wing, not what we're looking for.
+Row 4: Sergei Starikov - Defense, still not.
+Row 5: Milan Tichy - Defense again.
+Row 6: Jon Pratt - Left Wing, no good.
+Row 7: Rob Sangster - Left Wing, same here.
+Row 8: Kevin Plager - Right Wing! That's one. I'll keep track with a counter. So count =1 now.
+
+Moving on:
+Row 9: Raymond Saumier - Right Wing. Count increases to 2.
+
+Then skipping some until I find the next ones:
+
+Row 17: Sean Whyte - Right Wing. Now, count is 3.
+Row 18: Dean Holoien - Right Wing. That brings it up to 4.
+
+Wait, let me make sure I didn't miss any. Let's go through them again quickly in case:
+
+Looking at each position column again:
+
+- Row 8: RW
+- Row9: RW
+- Row17: RW
+- Row18: RW
+
+That seems to be four players with "Right Wing" as their position.
+
+I think that's all of them. So the total number should be 4.
+</think>
+
+The table lists four right wings drafted in 1989. 
+
+Final Answer: 4
+===================Answer===================
+4

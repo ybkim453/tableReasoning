@@ -1,0 +1,82 @@
+===================Title===================
+1955 NFL Draft
+===================Table===================
+|    |   Pick # | NFL Team                             | Player            | Position    | College      |
+|---:|---------:|:-------------------------------------|:------------------|:------------|:-------------|
+|  0 |        1 | Baltimore Colts (Lottery bonus pick) | George Shaw       | Quarterback | Oregon       |
+|  1 |        2 | Chicago Cardinals                    | Max Boydston      | End         | Oklahoma     |
+|  2 |        3 | Baltimore Colts                      | Alan Ameche       | Fullback    | Wisconsin    |
+|  3 |        4 | Washington Redskins                  | Ralph Guglielmi   | Quarterback | Notre Dame   |
+|  4 |        5 | Green Bay Packers                    | Tom Bettis        | Guard       | Purdue       |
+|  5 |        6 | Pittsburgh Steelers                  | Frank Varrichione | Tackle      | Notre Dame   |
+|  6 |        7 | Los Angeles Rams                     | Larry Morris      | Center      | Georgia Tech |
+|  7 |        8 | New York Giants                      | Joe Heap          | Halfback    | Notre Dame   |
+|  8 |        9 | Philadelphia Eagles                  | Dick Bielski      | Fullback    | Maryland     |
+|  9 |       10 | San Francisco 49ers                  | Dickey Moegle     | Halfback    | Rice         |
+| 10 |       11 | Chicago Bears                        | Ron Drzewiecki    | Halfback    | Marquette    |
+| 11 |       12 | Detroit Lions                        | Dave Middleton    | Halfback    | Auburn       |
+| 12 |       13 | Cleveland Browns                     | Kurt Burris       | Center      | Oklahoma     |
+===================Question===================
+which position was drafted most often in the first round?
+===================Text===================
+<think>
+Alright, so I've got this table about the 1955 NFL Draft first round picks, and the question is asking which position was drafted most often in that round. Let me try to figure this out step by step.
+
+First, I need to look at each row of the table and note down the positions of each player selected. The table has 13 entries since it starts from Pick #1 up to Pick #13. Wait, actually looking closer, the first pick is labeled as number 0 in the index column but it's Pick #1, so there are 13 picks in total here.
+
+Let me list out all the positions:
+
+1. George Shaw - Quarterback
+2. Max Boydston - End
+3. Alan Ameche - Fullback
+4. Ralph Guglielmi - Quarterback
+5. Tom Bettis - Guard
+6. Frank Varrichione - Tackle
+7. Larry Morris - Center
+8. Joe Heap - Halfback
+9. Dick Bielski - Fullback
+10. Dickey Moegle - Halfback
+11. Ron Drzewiecki - Halfback
+12. Dave Middleton - Halfback
+13. Kurt Burris - Center
+
+Now, I'll count how many times each position appears.
+
+- Quarterback: George Shaw and Ralph Guglielmi, that's 2.
+- End: Max Boydston, only 1.
+- Fullback: Alan Ameche and Dick Bielski, so 2.
+- Guard: Tom Bettis, just 1.
+- Tackle: Frank Varrichione, also 1.
+- Center: Larry Morris and Kurt Burris, that's 2.
+- Halfback: Joe Heap, Dickey Moegle, Ron Drzewiecki, Dave Middleton. That makes 4.
+
+Wait, let me double-check the Halfbacks because it seems like there are quite a few. Yes, picks 8, 10, 11, and 12 are all Halfbacks. So that's four players at that position.
+
+So comparing the counts:
+
+- Quarterback: 2
+- End:1
+- Fullback:2
+- Guard:1
+- Tackle:1
+- Center:2
+- Halfback:4
+
+Halfback is clearly the most drafted position with 4 picks. So the answer should be Halfback.
+</think>
+
+The table lists the first-round draft picks of the 1955 NFL Draft, including positions such as Quarterback, End, Fullback, Guard, Tackle, Center, and Halfback. By counting each occurrence:
+
+- **Quarterback**: 2  
+- **End**: 1  
+- **Fullback**: 2  
+- **Guard**: 1  
+- **Tackle**: 1  
+- **Center**: 2  
+- **Halfback**: 4  
+
+The position drafted most often is Halfback, with four selections.
+
+Final Answer: Halfback
+===================Answer===================
+Halfback

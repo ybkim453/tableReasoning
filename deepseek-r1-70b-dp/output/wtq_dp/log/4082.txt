@@ -1,0 +1,49 @@
+===================Title===================
+1939 Masters Tournament
+===================Table===================
+|    | Place   | Player        | Country       | Score           | To par   | Money ($)   |
+|---:|:--------|:--------------|:--------------|:----------------|:---------|:------------|
+|  0 | 1       | Ralph Guldahl | United States | 72-68-70-69=279 | –9       | 1,500       |
+|  1 | 2       | Sam Snead     | United States | 70-70-72-68=280 | –8       | 800         |
+|  2 | T3      | Billy Burke   | United States | 69-72-71-70=282 | –6       | 550         |
+|  3 | T3      | Lawson Little | United States | 72-72-68-70=282 | –6       | 550         |
+|  4 | 5       | Gene Sarazen  | United States | 73-66-72-72=283 | –5       | 400         |
+|  5 | 6       | Craig Wood    | United States | 72-73-71-68=284 | –4       | 300         |
+|  6 | 7       | Byron Nelson  | United States | 71-69-72-75=287 | –1       | 250         |
+|  7 | 8       | Henry Picard  | United States | 71-71-76-71=289 | +1       | 175         |
+|  8 | 9       | Ben Hogan     | United States | 75-71-72-72=290 | +2       | 125         |
+|  9 | T10     | Ed Dudley     | United States | 75-75-69-72=291 | +3       | 100         |
+| 10 | T10     | Toney Penna   | United States | 72-75-72-72=291 | +3       | 100         |
+===================Question===================
+other player who earned less than $200 but more than $100 besides ben hogan
+===================Text===================
+<think>
+Alright, so I'm trying to figure out which players besides Ben Hogan earned between $100 and $200 from the 1939 Masters Tournament. Let me start by looking at the table provided.
+
+First, I'll scan through each row of the table and note down the players along with their corresponding Money ($) values. 
+
+Starting from the top:
+- Ralph Guldahl won $1,500
+- Sam Snead earned $800
+- Billy Burke and Lawson Little both got $550 each
+- Gene Sarazen received $400
+- Craig Wood took home $300
+- Byron Nelson earned $250
+- Henry Picard made $175
+- Ben Hogan, who we're excluding, won $125
+- Ed Dudley and Toney Penna each got $100
+
+Now, the question is asking for other players besides Ben Hogan who earned less than $200 but more than $100. So, I need to find players whose earnings are between $101 and $199.
+
+Looking at the list:
+- Henry Picard made $175, which falls within the range.
+- Ed Dudley and Toney Penna each made exactly $100, so they don't qualify since it's less than or equal to $100. 
+
+Wait a minute, Ben Hogan earned $125, but we're supposed to exclude him. So the only other player is Henry Picard with $175.
+
+So the answer should be just Henry Picard.
+</think>
+
+Final Answer: Henry Picard
+===================Answer===================
+Henry Picard

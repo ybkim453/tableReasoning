@@ -1,0 +1,59 @@
+===================Title===================
+1978 Trans-Am season
+===================Table===================
+|    |   Round | Date        | Circuit        | Winning driver (TA2)          | Winning vehicle (TA2)   | Winning driver (TA1)           | Winning vehicle (TA1)   |
+|---:|--------:|:------------|:---------------|:------------------------------|:------------------------|:-------------------------------|:------------------------|
+|  0 |       1 | May 21      | Sears Point    | Greg Pickett                  | Chevrolet Corvette      | Gene Bothello                  | Chevrolet Corvette      |
+|  1 |       2 | June 4      | Westwood       | Ludwig Heimrath               | Porsche 935             | Nick Engels                    | Chevrolet Corvette      |
+|  2 |       3 | June 11     | Portland       | Tuck Thomas                   | Chevrolet Monza         | Bob Matkowitch                 | Chevrolet Corvette      |
+|  3 |       4 | June 25     | Mont-Tremblant | Monte Sheldon                 | Porsche 935             | Bob Tullius                    | Jaguar XJS              |
+|  4 |       5 | July 8      | Watkins Glen‡  | Hal Shaw, Jr.\n Monte Shelton | Porsche 935             | Brian Fuerstenau\n Bob Tullius | Jaguar XJS              |
+|  5 |       6 | August 13   | Brainerd       | Jerry Hansen                  | Chevrolet Monza         | Bob Tullius                    | Jaguar XJS              |
+|  6 |       7 | August 19   | Mosport        | Greg Pickett                  | Chevrolet Corvette      | Bob Tullius                    | Jaguar XJS              |
+|  7 |       8 | September 4 | Road America   | Greg Pickett                  | Chevrolet Corvette      | Bob Tullius                    | Jaguar XJS              |
+|  8 |       9 | October 8   | Laguna Seca    | Greg Pickett                  | Chevrolet Corvette      | Bob Tullius                    | Jaguar XJS              |
+|  9 |      10 | November 5  | Mexico City    | Ludwig Heimrath               | Porsche 935             | Bob Tullius                    | Jaguar XJS              |
+===================Question===================
+on average how many times was chevrolet corvette listed as the winning vehicle(ta2).
+===================Text===================
+<think>
+Okay, so I need to figure out how many times the Chevrolet Corvette was listed as the winning vehicle in the TA2 category on average during the 1978 Trans-Am season based on the given table.
+
+First, let me understand the structure of the table. It has columns for Round number, Date, Circuit, Winning driver (TA2), Winning vehicle (TA2), and similar for TA1. I'm focusing only on the TA2 category and specifically looking at the "Winning vehicle (TA2)" column.
+
+So, I'll go through each row of the table and count how many times Chevrolet Corvette appears in that column.
+
+Looking at Round 1: The winning vehicle is Chevrolet Corvette.
+Round 2: It's Porsche 935.
+Round 3: Chevrolet Monza.
+Round 4: Porsche 935 again.
+Round 5: Porsche 935 once more.
+Round 6: Chevrolet Monza.
+Round 7: Back to Chevrolet Corvette.
+Round 8: Again, Chevrolet Corvette.
+Round 9: Chevrolet Corvette.
+Round 10: Porsche 935.
+
+Wait, let me recount that. From Round 1 to Round 10:
+
+- Round 1: Corvette
+- Round 2: 935
+- Round 3: Monza
+- Round 4: 935
+- Round 5: 935 (since the driver is Hal Shaw, Jr. and Monte Shelton, but vehicle is still Porsche 935)
+- Round 6: Monza
+- Round 7: Corvette
+- Round 8: Corvette
+- Round 9: Corvette
+- Round 10: 935
+
+So that's Rounds 1, 7, 8, 9 with Corvette in TA2. That's four times.
+
+Now, to find the average number of times per round, I need to divide the total occurrences by the number of rounds. There are 10 rounds in total.
+
+So, 4 instances divided by 10 rounds gives an average of 0.4 times per round.
+</think>
+
+Final Answer: 0.4
+===================Answer===================
+4

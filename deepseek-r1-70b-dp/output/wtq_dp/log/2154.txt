@@ -1,0 +1,53 @@
+===================Title===================
+Kingston Transit
+===================Table===================
+|    | Route   | Destinations                                          | Via                                                | Frequency\n(minutes)   | Peak Hours Only   | Former                      |
+|---:|:--------|:------------------------------------------------------|:---------------------------------------------------|:-----------------------|:------------------|:----------------------------|
+|  0 | 1       | Montreal Street\nSt. Lawrence College                 | Downtown                                           | 30                     | nan               | Cataraqui Town Centre-Woods |
+|  1 | 2       | Kingston Centre\nDivision Street                      | St. Lawrence College\nDowntown                     | 30                     | nan               | nan                         |
+|  2 | 3       | Kingston Centre\nDowntown                             | Queen Mary Road\nSt. Lawrence College\nKing Street | 30                     | nan               | nan                         |
+|  3 | 4       | Princess Street                                       | Cataraqui Town Centre\nDowntown                    | 30                     | nan               | nan                         |
+|  4 | 6       | Cataraqui Town Centre\nSt. Lawrence College           | Gardiners Town Centre                              | 30                     | nan               | Downtown                    |
+|  5 | 7       | Dalton/Division\nMidland/Gardiners                    | Cataraqui Town Centre\nTrain Station\nBus Terminal | 30                     | nan               | nan                         |
+|  6 | 9       | Downtown\nCataraqui Town Centre                       | Brock St. / Barrie St.\nGardiners Town Centre      | 20                     | nan               | nan                         |
+|  7 | 10      | Amherstview\nCataraqui Town Centre                    | Collins Bay Road                                   | 30                     | nan               | Kingston Centre             |
+|  8 | 11      | Kingston Centre\nCataraqui Town Centre                | Bath Road\nGardiners Town Centre                   | 30                     | nan               | (formerly Route 71)         |
+|  9 | 12      | Kingston Centre\nHighway 15                           | Downtown\nCFB Kingston (off-peak only)             | 30                     | nan               | -                           |
+| 10 | 12A     | CFB Kingston\nDowntown                                | nan                                                | 30                     | X                 | nan                         |
+| 11 | 18      | Train Station\nBus Terminal                           | Downtown\nQueen's University\nSt. Lawrence College | *                      | nan               | Student Circuit             |
+| 12 | 19      | Montreal Street\nQueen's University                   | Downtown                                           | 30                     | X                 | nan                         |
+| 13 | 14      | Train Station\nCataraqui Town Centre / Midland Avenue | Waterloo-Davis\nMultiplex                          | 30                     | nan               | (formerly Route A)          |
+| 14 | 15      | Reddendale\nCataraqui Town Centre - Woods             | Gardiners Town Centre                              | 30                     | nan               | (formerly Route B)          |
+| 15 | 16      | Train Station\nBus Terminal                           | Kingston Centre                                    | 30                     | nan               | (formerly Route C)          |
+===================Question===================
+where does the bus stop after kingston centre on route 11?
+===================Text===================
+<think>
+Alright, so I need to figure out where the bus stops after Kingston Centre on Route 11 according to the provided table. Let me start by carefully reviewing the table to find all the relevant information.
+
+First, I'll look for Route 11 in the "Route" column. Scanning through each row:
+
+- Row 0: Route 1
+- Row 1: Route 2
+- ...
+- Row 8: Route 11
+
+Okay, so Route 11 is in row 8, which is the ninth entry since it starts at 0.
+
+Looking at the details of Route 11:
+- Destinations: Kingston Centre and Cataraqui Town Centre.
+- Via: Bath Road and Gardiners Town Centre.
+- Frequency: 30 minutes.
+- Peak Hours Only: nan (so probably not peak hours only).
+- Former: (formerly Route 71).
+
+Now, the question is about where the bus stops after Kingston Centre. The "Destinations" column for Route 11 lists Kingston Centre first, followed by Cataraqui Town Centre. Since it's moving from Kingston Centre to another destination, the next stop should be in the direction towards Cataraqi Town Centre.
+
+The "Via" column mentions Bath Road and Gardiners Town Centre as the routes it takes. So after leaving Kingston Centre, the bus would go via Bath Road towards Gardiners Town Centre, which is likely a stop or an area it passes through on its way to Cataraqui Town Centre.
+
+So putting this together, after Kingston Centre on Route 11, the next significant point mentioned in the "Via" column is Bath Road. Therefore, the bus stops at Bath Road after leaving Kingston Centre.
+</think>
+
+Final Answer: Bath Road
+===================Answer===================
+Cataraqui Town Centre

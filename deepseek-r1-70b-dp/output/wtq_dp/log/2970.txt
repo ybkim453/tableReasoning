@@ -1,0 +1,40 @@
+===================Title===================
+David Cleevely
+===================Table===================
+|    | Title                                                                                  |   Year | Authors                                          | Publisher                               | Pages   |
+|---:|:---------------------------------------------------------------------------------------|-------:|:-------------------------------------------------|:----------------------------------------|:--------|
+|  0 | Rural Telecoms Handbook: Equipment and Manufacturers                                   |   1992 | Tim Hills, David Cleevely                        | Analysys Publications                   | -       |
+|  1 | Regional Structure and Telecommunications Demand: A Case Study of Kenya (Ph.D. thesis) |   1982 | D. D. Cleevely                                   | University of Cambridge                 | -       |
+|  2 | The Route to Advanced Communications                                                   |   1991 | David Cleevely, Stefan Stanislawski, Ade Ajibulu | Analysys Publications                   | 178     |
+|  3 | Global Turf Wars: Re-Inventing the Telecoms Operator for the Age of Global Competition |   1999 | Tim Hills, David Cleevely, Andrea Smith          | Analysis Publications                   | 218     |
+|  4 | ATM Vendor & Operator Strategies                                                       |   1993 | David Cleevely, Peter Aknai, Ian Leslie          | Analysis Publications                   | 180     |
+|  5 | The Far Reaching Effects of Broadband                                                  |   2002 | David Cleevely                                   | Institution of Engineering & Technology | 415     |
+|  6 | Regulating the Telecoms Market: Competition and Innovation in the Broadband Economy    |   2003 | Tim Hills, David Cleevely, Ross Pow              | Analysis Publications                   | 35      |
+===================Question===================
+how many titles were published before the year 2000?
+===================Text===================
+<think>
+Okay, let's tackle this problem step by step. So, I need to find out how many titles were published before the year 2000 based on the table provided about David Cleevely.
+
+First, I'll look at each row of the table and check the "Year" column for each title. The goal is to count how many entries have a year less than 2000.
+
+Starting with the first entry: Title 0 has a Year of 1992, which is before 2000. So that's one.
+
+Next, Title 1 was published in 1982, definitely before 2000. That brings the count to two.
+
+Title 2 is from 1991, also before 2000. Now we're at three.
+
+Moving on to Title 3, it's from 1999, which is still before 2000. So that's four.
+
+Title 4 was published in 1993, so again before 2000. Now the count is five.
+
+Title 5 has a Year of 2002, which is after 2000, so we skip this one.
+
+Finally, Title 6 is from 2003, also after 2000, so it doesn't count either.
+
+Adding them up: Titles 0,1,2,3,4 are before 2000. That makes a total of five titles published before the year 2000.
+</think>
+
+Final Answer: 5
+===================Answer===================
+5

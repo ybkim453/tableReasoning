@@ -1,0 +1,34 @@
+===================Title===================
+Speed skating at the 1972 Winter Olympics
+===================Table===================
+|    |   Rank | Nation              |   Gold |   Silver |   Bronze |   Total |
+|---:|-------:|:--------------------|-------:|---------:|---------:|--------:|
+|  0 |      1 | Netherlands (NED)   |      4 |        3 |        2 |       9 |
+|  1 |      2 | United States (USA) |      2 |        1 |        1 |       4 |
+|  2 |      3 | West Germany (FRG)  |      2 |        0 |        0 |       2 |
+|  3 |      4 | Norway (NOR)        |      0 |        2 |        2 |       4 |
+|  4 |      5 | Soviet Union (URS)  |      0 |        1 |        2 |       3 |
+|  5 |      6 | Sweden (SWE)        |      0 |        1 |        1 |       2 |
+|  6 |    nan | Total               |      8 |        8 |        8 |      24 |
+===================Question===================
+other than the netherlands which country won more than one silver medal?
+===================Text===================
+<think>
+Alright, so I need to figure out which country, other than the Netherlands, won more than one silver medal in speed skating at the 1972 Winter Olympics based on this table. Let me break it down step by step.
+
+First, looking at the table, each row represents a nation and their medal counts—gold, silver, bronze, and total. The Netherlands (NED) is ranked first with 4 gold, 3 silver, and 2 bronze medals totaling 9. Since the question specifies other than the Netherlands, I'll focus on the rest of the countries.
+
+Next, I need to identify which countries have more than one silver medal. Let's go through each country one by one:
+
+1. United States (USA) has 2 gold, 1 silver, and 1 bronze. So they only won 1 silver medal.
+2. West Germany (FRG) has 2 gold medals but no silvers or bronzes, so that's out.
+3. Norway (NOR) has 0 gold, 2 silvers, and 2 bronzes. That means they have more than one silver medal—specifically two.
+4. Soviet Union (URS) won 1 silver and 2 bronzes, which is only one silver.
+5. Sweden (SWE) also has 1 silver, so that's not enough.
+
+From this breakdown, Norway stands out as the country with more than one silver medal besides the Netherlands. The United States only had one silver, West Germany none, Soviet Union and Sweden each had one as well. So, Norway is the answer here.
+</think>
+
+Final Answer: Norway
+===================Answer===================
+Norway

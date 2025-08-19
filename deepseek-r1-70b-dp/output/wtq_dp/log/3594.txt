@@ -1,0 +1,37 @@
+===================Title===================
+Lic. Adolfo López Mateos International Airport
+===================Table===================
+|    |   Rank | City                           | Passengers   |   Ranking | Airline                                |
+|---:|-------:|:-------------------------------|:-------------|----------:|:---------------------------------------|
+|  0 |      1 | Quintana Roo, Cancún          | 132,046      |       nan | Aeroméxico Connect, Interjet, Volaris |
+|  1 |      2 | Nuevo León, Monterrey         | 106,513      |       nan | Aeroméxico Connect, Interjet          |
+|  2 |      3 | Guerrero, Acapulco             | 56,069       |       nan | Aeroméxico Connect, Interjet          |
+|  3 |      4 | Jalisco, Guadalajara           | 52,584       |       nan | Aeroméxico Connect, Volaris           |
+|  4 |      5 | Jalisco, Puerto Vallarta       | 43,419       |         1 | Interjet                               |
+|  5 |      6 | Baja California Sur, Los Cabos | 37,526       |         1 | Interjet                               |
+|  6 |      7 | Guerrero, Ixtapa/Zihuatanejo   | 35,507       |       nan | Interjet                               |
+|  7 |      8 | Baja California, Tijuana       | 14,906       |       nan | Interjet                               |
+|  8 |      9 | Tabasco, Villahermosa          | 6,928        |         1 | VivaAerobus                            |
+|  9 |     10 | Tamaulipas, Tampico            | 3,619        |         1 | VivaAerobus                            |
+===================Question===================
+what is the only route with over 120,000 passengers?
+===================Text===================
+<think>
+Alright, so I need to figure out which route has over 120,000 passengers from the given table about Lic. Adolfo López Mateos International Airport.
+
+First, I'll look at each row of the table to check the "Passengers" column. The question is asking for the only route with more than 120,000 passengers.
+
+Looking through the data:
+
+- Rank 1: Quintana Roo, Cancún has 132,046 passengers. That's over 120k.
+- Rank 2: Nuevo León, Monterrey has 106,513, which is below 120k.
+- The rest of the ranks have fewer passengers as we go down.
+
+So, the only route that exceeds 120k is Quintana Roo, Cancún with 132,046 passengers. That must be the answer.
+</think>
+
+The only route with over 120,000 passengers is Quintana Roo, Cancún.
+
+Final Answer: Quintana Roo, Cancún
+===================Answer===================
+Quintana Roo, Cancún

@@ -1,0 +1,42 @@
+===================Title===================
+Škoda Auto
+===================Table===================
+|    | Model           | 1991    | 1995    | 1996    | 1997    | 1998    | 1999    | 2000    | 2001    | 2002    | 2003    | 2004    | 2005    | 2006    | 2007    | 2008    | 2009    | 2010    | 2011    | 2012    | 2013    |
+|---:|:----------------|:--------|:--------|:--------|:--------|:--------|:--------|:--------|:--------|:--------|:--------|:--------|:--------|:--------|:--------|:--------|:--------|:--------|:--------|:--------|:--------|
+|  0 | Škoda Felicia  | 172,000 | 210,000 | nan     | 288,458 | 261,127 | 241,256 | 148,028 | 44,963  | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       |
+|  1 | Škoda Octavia  | −       | −       | nan     | 47,876  | 102,373 | 143,251 | 158,503 | 164,134 | 164,017 | 165,635 | 181,683 | 233,322 | 270,274 | 309,951 | 344,857 | 317,335 | 349,746 | 387,200 | 409,360 | 359,600 |
+|  2 | Škoda Fabia    | −       | −       | −       | −       | −       | 823     | 128,872 | 250,978 | 264,641 | 260,988 | 247,600 | 236,698 | 243,982 | 232,890 | 246,561 | 264,173 | 229,045 | 266,800 | 255,025 | 202,000 |
+|  3 | Škoda Superb   | −       | −       | −       | −       | −       | −       | −       | 177     | 16,867  | 23,135  | 22,392  | 22,091  | 20,989  | 20,530  | 25,645  | 44,548  | 98,873  | 116,700 | 106,847 | 94,400  |
+|  4 | Škoda Roomster | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | 14,422  | 66,661  | 57,467  | 47,152  | 32,332  | 36,000  | 39,249  | 33,300  |
+|  5 | Škoda Yeti     | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | 11,018  | 52,604  | 70,300  | 90,952  | 82,400  |
+|  6 | Škoda Rapid    | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | 1,700   | 9,292   | 103,800 |
+|  7 | Škoda Citigo   | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | 509     | 36,687  | 45,200  |
+|  8 | Total           | 172,000 | 210,000 | 261,000 | 336,334 | 363,500 | 385,330 | 435,403 | 460,252 | 445,525 | 449,758 | 451,675 | 492,111 | 549,667 | 630,032 | 674,530 | 684,226 | 762,600 | 879,200 | 949,412 | 920,800 |
+===================Question===================
+what is the number of sales made during 1991?
+===================Text===================
+<think>
+Alright, so I need to figure out how many cars Škoda sold in 1991 based on this table. Let me start by looking at the structure of the table provided.
+
+The table has multiple models listed: Felicia, Octavia, Fabia, Superb, Roomster, Yeti, Rapid, Citigo, and Total. Each model has sales numbers from 1991 to 2013. 
+
+First, I notice that for each model, there are entries under different years, with some marked as "−" or "nan". From what I understand, "−" probably means that the model wasn't available or didn't have any sales in that year, and "nan" might indicate missing data.
+
+Since the question is about 1991, I'll focus on the columns for that year. Looking at each model:
+
+- Škoda Felicia: It shows 172,000 sales.
+- Škoda Octavia: It's marked with a "−", so no sales in 1991.
+- Škoda Fabia: Also "−".
+- Škoda Superb: "−" as well.
+- The rest of the models (Roomster, Yeti, Rapid, Citigo) also have "−" for 1991.
+
+So, only Felicia had sales in 1991. Therefore, the total sales should be just the number from Felicia in that year.
+
+Wait a minute, there's a Total row at the bottom. Let me check that. For 1991, the Total is listed as 172,000. That matches exactly with the Felicia's 1991 figure. So it seems consistent.
+
+Therefore, putting it all together, Škoda sold 172,000 cars in 1991.
+</think>
+
+Final Answer: 172,000
+===================Answer===================
+172,000

@@ -1,0 +1,117 @@
+===================Title===================
+Marcos Pizzelli
+===================Table===================
+|    |   Goal | Date       | Venue                                                | Opponent   | Score   | Result   | Competition    |
+|---:|-------:|:-----------|:-----------------------------------------------------|:-----------|:--------|:---------|:---------------|
+|  0 |      1 | 2008-5-28  | Sheriff Stadium, Tiraspol, Moldova                   | Moldova    | 0-1     | 2–2      | Friendly match |
+|  1 |      2 | 2010-10-12 | Hanrapetakan Stadium, Yerevan, Armenia               | Andorra    | 4–0     | 4–0      | Euro 2012 Q    |
+|  2 |      3 | 2011-6-4   | Petrovsky Stadium, Saint Petersburg, Russia          | Russia     | 0-1     | 3–1      | Euro 2012 Q    |
+|  3 |      4 | 2011-9-2   | Estadi Comunal d'Aixovall, Andorra la Vella, Andorra | Andorra    | 0-1     | 0-3      | Euro 2012 Q    |
+|  4 |      5 | 2011-10-7  | Hanrapetakan Stadium, Yerevan, Armenia               | Macedonia  | 1-0     | 4-1      | Euro 2012 Q    |
+|  5 |      6 | 2012-2-29  | Tsirion Stadium, Limassol, Cyprus                    | Canada     | 1-1     | 1-3      | Friendly match |
+|  6 |      7 | 2012-2-29  | Tsirion Stadium, Limassol, Cyprus                    | Canada     | 1-2     | 1-3      | Friendly match |
+===================Question===================
+in how many games were at least three goals scored?
+===================Text===================
+<think>
+Okay, so I need to figure out how many games in Marcos Pizzelli's table had at least three goals scored. Let me start by understanding what the table represents.
+
+Looking at each row, it seems like each entry corresponds to a game where Marcos scored a goal. The columns include Goal number, Date, Venue, Opponent, Score, Result, and Competition. 
+
+The question is asking about games where "at least three goals were scored." So I think that means the total number of goals in the game (both teams combined) should be 3 or more.
+
+I'll go through each row one by one to check this.
+
+1. **First Game**: Date 2008-5-28, Opponent Moldova.
+   - Score is 0-1, but the Result is 2–2. Wait, that seems a bit confusing. The Score column shows the score at the time of Pizzelli's goal, and the Result is the final score. So in this case, the game ended with both teams scoring 2 goals each. Total goals are 4. That definitely meets the criteria (at least 3). So count =1.
+
+2. **Second Game**: Date 2010-10-12 vs Andorra.
+   - Score is 4–0, Result is also 4–0. Total goals here are 4. Again, more than 3. Count=2.
+
+3. **Third Game**: 2011-6-4 against Russia.
+   - Score when he scored was 0-1, but the final result is 3–1 (Russia won). So total goals are 4. That's over 3. Count=3.
+
+4. **Fourth Game**: 2011-9-2 vs Andorra again.
+   - Score at his goal was 0-1, and Result is 0-3. Total goals: 3 exactly. Since it's at least three, this counts. Count=4.
+
+5. **Fifth Game**: 2011-10-7 against Macedonia.
+   - Score when he scored was 1-0, but the final result was 4–1. Total goals: 5, which is more than 3. Count=5.
+
+6. **Sixth Game**: 2012-2-29 vs Canada.
+   - Score is 1-1 at his goal, and Result is 1–3. So total goals are 4. That's good. Count=6.
+
+7. **Seventh Game**: Same date as the sixth game but another entry (Maybe two goals in the same game?).
+   - Score here was 1-2, and the final result is still 1–3. Total goals: again 4. So this would count as well. But wait, is this a separate game or the same one? They have the same date and venue but different opponents? No, opponent is Canada both times. Wait, no—looking back, the sixth and seventh rows are both against Canada on the same day at the same place, but with different scores. That seems odd. Maybe it's two goals in the same game, so the total goals would still be 4 in that single game.
+
+Wait, maybe I should clarify whether these are separate games or just multiple goals in one game. The table has two entries on the same date against Canada. So perhaps Marcos scored twice in the same game. Therefore, it's one game where at least three goals were scored (1-3). So counting this as 1 game.
+
+Wait, but earlier I thought each row was a separate game, but now I'm confused because two rows have the same date and opponent but different scores. So perhaps each row is an individual goal, not necessarily a unique game. But no, looking at the other entries, each has a unique Goal number, which likely corresponds to each of his goals in different games.
+
+Wait no, that's not possible because he can't score multiple goals in one game and have each counted as separate rows here. So perhaps each row is a different game where he scored a goal. Therefore, the two entries on 2012-02-29 are actually two separate games against Canada on the same day? That seems unlikely because teams don't usually play twice on the same day. Alternatively, it's one game where Marcos scored twice, and thus there are two entries for that single game.
+
+But in any case, regardless of how many goals he scored, we're looking at each game. So let me recount:
+
+Looking back:
+
+- Game 0: Moldova (2-2) total goals 4.
+- Game1: Andorra (4-0): 4
+- Game2: Russia (3-1): 4
+- Game3: Andorra (0-3): 3
+- Game4: Macedonia (4-1):5
+- Games5 and6: Canada on same date. But in the table, each row is a different goal, but it's the same match. So the result for that game is 1–3, total goals 4.
+
+So how many games? Let me list them:
+
+1. Game0: yes (total 4)
+2. Game1: yes (4)
+3. Game2: yes (4)
+4. Game3: yes (3)
+5. Game4: yes (5)
+6. Games5 and6: same game, so count as one with total goals 4.
+
+So that's 6 games in total where at least three goals were scored.
+Wait, but looking again:
+
+Row0: total 2-2=4
+Row1:4-0=4
+Row2:3-1=4
+Row3:0-3=3
+Row4:4-1=5
+Rows5 and6: same game, so the result is 1-3=4.
+
+So each of these rows except maybe none? No, all games have at least 3 goals. Because:
+
+- Row0:4
+- row1:4
+- row2:4
+- row3:3
+- row4:5
+- rows5&6: same game with total 4.
+
+So that's six entries, but the last two are one game. So counting each unique game, how many had at least three goals?
+
+Wait, maybe I'm making this more complicated than needed. The question is about how many games (matches) were there where at least three goals were scored in total, considering all Marcos Pizzelli's goal games.
+
+So the approach should be: for each match he played in, as listed here, count how many had a total of 3 or more goals.
+
+Looking again:
+
+Each row represents his individual goals, so I need to group by unique matches. So same date and opponent are the same game.
+
+So let me list all unique games:
+
+1. 2008-5-28 vs Moldova: Result 2–2 (4 total)
+2. 2010-10-12 vs Andorra: 4–0 (4)
+3. 2011-6-4 vs Russia:3–1 (4)
+4. 2011-9-2 vs Andorra: 0–3 (3)
+5. 2011-10-7 vs Macedonia:4–1 (5)
+6. 2012-2-29 vs Canada:1–3 (4)
+
+So that's six unique games, all of which have total goals >=3.
+
+Therefore, the answer is 6.
+</think>
+
+The number of matches where at least three goals were scored in total is **6**.
+===================Answer===================
+2

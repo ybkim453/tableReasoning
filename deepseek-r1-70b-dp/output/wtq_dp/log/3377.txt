@@ -1,0 +1,80 @@
+===================Title===================
+1930 Rome Grand Prix
+===================Table===================
+|    | No   | Driver                      | Entrant                    | Constructor   | Chassis              | Engine   |
+|---:|:-----|:----------------------------|:---------------------------|:--------------|:---------------------|:---------|
+|  0 | 2    | Luigi Arcangeli             | Officine Alfieri Maserati  | Maserati      | Maserati 26M         | 2.5 L8   |
+|  1 | 4    | Louis Chiron                | Automobiles Ettore Bugatti | Bugatti       | Bugatti T35B         | 2.3 L8   |
+|  2 | 6    | Clemente Biondetti          | Scuderia Materassi         | Talbot        | Talbot 700           | 1.5 L8   |
+|  3 | 8    | Pietro Nicolotti            | Private entry              | Alfa Romeo    | Alfa Romeo 6C 1500   | 1.5 L6   |
+|  4 | 10   | Cleto Nenzioni              | Private entry              | Maserati      | Maserati 26B         | 2.1 L8   |
+|  5 | 12   | Luigi Fagioli               | Officine Alfieri Maserati  | Maserati      | Maserati 26          | 1.7 L8   |
+|  6 | 14   | Fritz Caflisch              | Private entry              | Mercedes-Benz | Mercedes-Benz SS     | 7.1 L6   |
+|  7 | 16   | Achille Varzi               | SA Alfa Romeo              | Alfa Romeo    | Alfa Romeo P2        | 2.0 L8   |
+|  8 | 18   | Giuseppe Campari            | Scuderia Ferrari           | Alfa Romeo    | Alfa Romeo 6C 1750GS | 1.8 L6   |
+|  9 | 20   | Arrigo Sartorio             | Private entry              | Maserati      | Maserati 26          | 1.5 L8   |
+| 10 | 22   | Mario Tadini                | Scuderia Ferrari           | Alfa Romeo    | Alfa Romeo 6C 1750GS | 1.8 L6   |
+| 11 | 24   | Heinrich Joachim von Morgen | Private entry              | Bugatti       | Bugatti T35B         | 2.3 L8   |
+| 12 | 26   | Emil Frankl                 | Private entry              | Steyr         | Steyr 4.5 Liter      | 4.5 L6   |
+| 13 | 28   | Tazio Nuvolari              | SA Alfa Romeo              | Alfa Romeo    | Alfa Romeo P2        | 2.0 L8   |
+| 14 | 30   | Guy Bouriat                 | Automobiles Ettore Bugatti | Bugatti       | Bugatti T35B         | 2.3 L8   |
+| 15 | 32   | Cesare Renzi                | Private entry              | Bugatti       | Bugatti T37A         | 1.5 L8   |
+| 16 | 34   | Cesare Pastore              | Private entry              | Maserati      | Maserati 26B         | 2.1 L8   |
+| 17 | 36   | Colonna de Stigliano        | Private entry              | Alfa Romeo    | Alfa Romeo 6C 1750   | 1.8 L6   |
+| 18 | ?    | Filippo Sartorio            | Enrico or F. Sartorio      | Alfa Romeo    | Alfa Romeo 6C 1750   | 1.5 L6   |
+| 19 | ?    | Arrigo Nenzioni             | A. or E. Nenzioni          | Maserati      | Maserati 26          | 1.5 L8   |
+| 20 | ?    | William Grover-Williams     | Automobiles Ettore Bugatti | Bugatti       | Bugatti T35B         | 2.3 L8   |
+| 21 | ?    | ?                           | Scuderia Ferrari           | Alfa Romeo    | Alfa Romeo P2        | 2.0 L8   |
+| 22 | ?    | ?                           | Scuderia Ferrari           | Alfa Romeo    | Alfa Romeo 6C 1500   | 1.5 L6   |
+===================Question===================
+how many entrants in the 1930 rome grand prix had the same chassis as cleto nenzioni?
+===================Text===================
+<think>
+Alright, so I need to figure out how many entrants in the 1930 Rome Grand Prix had the same chassis as Cleto Nenzioni based on the given table. Let me start by understanding the table structure.
+
+First, I'll locate Cleto Nenzioni's entry. Scanning through the Driver column, I see that Cleto Nenzioni is at row 4. His details are: No 10, Entrant is Private entry, Constructor is Maserati, Chassis is Maserati 26B, and Engine is 2.1 L8.
+
+So, his chassis is Maserati 26B. Now, I need to find how many other entrants had the same chassis as him.
+
+I'll go through each row one by one and check the 'Chassis' column for any occurrence of 'Maserati 26B'.
+
+Starting from the top:
+
+Row 0: Chassis Maserati 26M – different.
+Row 1: Bugatti T35B – different.
+Row 2: Talbot 700 – different.
+Row 3: Alfa Romeo 6C 1500 – different.
+Row 4: Maserati 26B – this is Cleto Nenzioni himself, so we don't count him again.
+Row 5: Maserati 26 – different from 26B.
+Row 6: Mercedes-Benz SS – different.
+Row 7: Alfa Romeo P2 – different.
+Row 8: Alfa Romeo 6C 1750GS – different.
+Row 9: Maserati 26 – again, not 26B.
+Row 10: Same as row 8 – different.
+Row 11: Bugatti T35B – different.
+Row 12: Steyr 4.5 Liter – different.
+Row 13: Alfa Romeo P2 – different.
+Row 14: Bugatti T35B – different.
+Row 15: Bugatti T37A – different.
+Row 16: Maserati 26B – same as Cleto's chassis. So that's one entrant.
+Row 17: Alfa Romeo 6C 1750 – different.
+Row 18: Alfa Romeo 6C 1750 – different, but also the driver here is Filippo Sartorio with a different number (?), so not relevant.
+Rows 19 to 22 are either Private entries or Scuderia Ferrari with Alfa Romeos, none matching Maserati 26B.
+
+Wait, row 16: Cesare Pastore, No 34, chassis Maserati 26B. So that's another entrant besides Cleto Nenzioni.
+
+Any others? Let me double-check.
+
+Looking again:
+
+Row 5 is Maserati 26, which is different from 26B.
+Rows 4 (Cleto) and 16 are the only ones with Maserati 26B.
+
+Wait, row 19: Arrigo Nenzioni has chassis Maserati 26. That's not 26B, so it doesn't count. So no others besides Cleto and Cesare Pastore.
+
+Therefore, there are two entrants with the same chassis as Cleto Nenzioni.
+</think>
+
+Final Answer: 2
+===================Answer===================
+1

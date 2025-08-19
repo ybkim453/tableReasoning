@@ -1,0 +1,52 @@
+===================Title===================
+Quebec lieutenant
+===================Table===================
+|    | Political lieutenant   | District\n(Area)                                              |   Took Office |   Left Office | Party leader                |
+|---:|:-----------------------|:--------------------------------------------------------------|--------------:|--------------:|:----------------------------|
+|  0 | Georges-Henri Héon    | Argenteuil\n(Laurentides)                                     |          1949 |          1949 | George A. Drew              |
+|  1 | Léon Balcer           | Trois-Rivières\n(Mauricie)                                   |          1957 |          1965 | John George Diefenbaker     |
+|  2 | Marcel Faribault       | none                                                          |          1967 |          1968 | Robert Stanfield            |
+|  3 | Claude Wagner          | Saint-Hyacinthe\n(Montérégie)                               |          1972 |          1978 | Robert Stanfield\nJoe Clark |
+|  4 | Lucien Bouchard        | Lac-Saint-Jean\n(Saguenay-Lac-Saint-Jean)                     |          1988 |          1990 | Brian Mulroney              |
+|  5 | Benoît Bouchard       | Roberval\n(Saguenay-Lac-Saint-Jean)                           |          1990 |          1993 | Brian Mulroney              |
+|  6 | Monique Landry         | Blainville—Deux-Montagnes\n(Laurentides)                      |          1993 |          1993 | Kim Campbell                |
+|  7 | André Bachand         | Richmond—Arthabaska\n(Centre-du-Québec &\nEastern Townships) |          1998 |          2004 | Joe Clark\nPeter MacKay     |
+===================Question===================
+which political lieutenant had their party leader as john george diefenbaker?
+===================Text===================
+<think>
+Okay, so I need to figure out which political lieutenant had John George Diefenbaker as their party leader based on the provided table. Let me start by understanding what the table contains.
+
+The table has several columns: Political lieutenant, District(Area), Took Office, Left Office, and Party leader. Each row represents a different lieutenant with corresponding details. My task is to identify which of these lieutenants had John George Diefenbaker as their party leader.
+
+Looking at the "Party leader" column:
+
+- The first entry (row 0) has George A. Drew.
+- The second entry (row 1) lists John George Diefenbaker.
+- Rows 2 and beyond have different leaders like Robert Stanfield, Joe Clark, Brian Mulroney, Kim Campbell, and Peter MacKay.
+
+So, I need to find all rows where the Party leader is John George Diefenbaker. Scanning through each row:
+
+Row 0: Party leader is George A. Drew – not him.
+Row 1: Party leader is John George Diefenbaker – that's a match.
+Rows 2-7: The leaders are different.
+
+Only Row 1 has the correct party leader. Therefore, the political lieutenant in this case is Léon Balcer from Trois-Rivières (Mauricie), who served from 1957 to 1965 under Diefenbaker.
+
+Wait, just making sure I didn't miss any other rows. Scanning again:
+
+Row 0: Drew
+Row1:Diefenbaker
+Row2:Stanfield
+Row3: Stanfield & Clark
+Row4:Mulroney
+Row5:Mulroney
+Row6:Campbell
+Row7:Clark and MacKay
+
+No, only Row 1 has Diefenbaker as the leader. So the answer should be Léon Balcer.
+</think>
+
+Final Answer: Léon Balcer
+===================Answer===================
+Léon Balcer

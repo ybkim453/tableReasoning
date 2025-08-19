@@ -1,0 +1,44 @@
+===================Title===================
+United States men's national soccer team
+===================Table===================
+|    | #   | Player           |   Goals |   Caps | Career       |
+|---:|:----|:-----------------|--------:|-------:|:-------------|
+|  0 | 1   | Landon Donovan   |      57 |    155 | 2000–present |
+|  1 | 2   | Clint Dempsey    |      36 |    103 | 2004–present |
+|  2 | 3   | Eric Wynalda     |      34 |    106 | 1990–2000    |
+|  3 | 4   | Brian McBride    |      30 |     95 | 1993–2006    |
+|  4 | 5   | Joe-Max Moore    |      24 |    100 | 1992–2002    |
+|  5 | 6T  | Jozy Altidore    |      21 |     67 | 2007–present |
+|  6 | 6T  | Bruce Murray     |      21 |     86 | 1985–1993    |
+|  7 | 8   | Eddie Johnson    |      19 |     62 | 2004–present |
+|  8 | 9T  | Earnie Stewart   |      17 |    101 | 1990–2004    |
+|  9 | 9T  | DaMarcus Beasley |      17 |    114 | 2001–present |
+===================Question===================
+what are the number of caps for jozy altidore?
+===================Text===================
+<think>
+Okay, so I need to figure out how many caps Jozy Altidore has based on the provided table. Let me start by understanding what "caps" mean in this context. From what I know, a cap in soccer refers to the number of times a player has been selected to play for their national team.
+
+Looking at the table, each row represents a different player with various statistics. The columns are labeled as follows: an index starting from 0, a ranking (like #1, #2), Player name, Goals, Caps, and Career span.
+
+I'm focusing on Jozy Altidore here. I need to find his number of caps. So, I'll go through each row until I find where the player's name is Jozy Altidore.
+
+Starting from the top:
+
+- The first row (index 0) is Landon Donovan with 155 caps.
+- Second row (index 1) is Clint Dempsey with 103 caps.
+- Third row (index 2) is Eric Wynalda, not him.
+- Fourth row (index 3) is Brian McBride.
+- Fifth row (index 4) is Joe-Max Moore.
+- Sixth row (index 5): Here the player's name is Jozy Altidore. Let me check his stats.
+
+In row 6 (since indexing starts at 0, index 5 would be the sixth row), under "Caps", it shows 67 for Jozy Altidore. So that should be the number of caps he has.
+
+Wait, I also notice that in the "# column, some players are tied with "T" next to their numbers. For example, at position 6T and 6T, Bruce Murray and Jozy Altidore both have 21 goals but different caps. However, since I'm only looking for caps, this doesn't affect my answer.
+
+So, confirming again: Jozy Altidore's row has "Caps" as 67.
+</think>
+
+Final Answer: 67
+===================Answer===================
+67

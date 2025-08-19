@@ -1,0 +1,84 @@
+===================Title===================
+Martina Hrašnová
+===================Table===================
+|    |   Year | Competition                   | Venue                | Position   | Notes   |
+|---:|-------:|:------------------------------|:---------------------|:-----------|:--------|
+|  0 |   1999 | World Youth Championships     | Bydgoszcz, Poland    | 12th       | nan     |
+|  1 |   2000 | World Junior Championships    | Santiago, Chile      | 5th        | nan     |
+|  2 |   2001 | European Junior Championships | Grosseto, Italy      | 2nd        | 61.97 m |
+|  3 |   2001 | World Championships           | Edmonton, Canada     | 23rd       | 61.26 m |
+|  4 |   2002 | World Junior Championships    | Kingston, Jamaica    | 2nd        | 63.91 m |
+|  5 |   2002 | European Championships        | Munich, Germany      | 26th       | 60.28 m |
+|  6 |   2006 | European Championships        | Gothenburg, Sweden   | 26th       | 62.39 m |
+|  7 |   2007 | World Student Games           | Bangkok, Thailand    | 5th        | 64.95 m |
+|  8 |   2007 | World Championships           | Osaka, Japan         | 13th       | 68.15 m |
+|  9 |   2008 | Olympic Games                 | Beijing, PR China    | 8th        | 71.00 m |
+| 10 |   2008 | World Athletics Final         | Stuttgart, Germany   | 2nd        | 71.40 m |
+| 11 |   2009 | World Student Games           | Belgrade, Serbia     | 2nd        | 72.85 m |
+| 12 |   2009 | World Championships           | Berlin, Germany      | 3rd        | 74.79 m |
+| 13 |   2009 | World Athletics Final         | Thessaloniki, Greece | 3rd        | 70.45 m |
+| 14 |   2012 | European Championships        | Helsinki, Finland    | 2nd        | 73.34 m |
+===================Question===================
+what is the least entry listed under notes?
+===================Text===================
+<think>
+Okay, so I'm trying to figure out what's the least entry under the Notes column in the table provided for Martina Hrašnová. Let me go through this step by step.
+
+First, I look at the table and see that each row has a Year, Competition, Venue, Position, and Notes. The Notes column sometimes has 'nan', which I assume stands for 'not a number' or missing data, but other times it has distances in meters, like "61.97 m" or "71.00 m".
+
+The question is asking for the least entry under Notes. Since some entries are 'nan' and others are numerical values, I need to determine whether 'nan' is considered as a possible answer. But typically, when looking for numerical least values, we ignore non-numeric entries because you can't compare them numerically.
+
+So, I should focus on the rows where Notes have actual numbers. Let's list those out:
+
+Looking through each row:
+
+0: nan
+1: nan
+2: 61.97 m
+3: 61.26 m
+4: 63.91 m
+5: 60.28 m
+6: 62.39 m
+7: 64.95 m
+8: 68.15 m
+9: 71.00 m
+10: 71.40 m
+11: 72.85 m
+12: 74.79 m
+13: 70.45 m
+14: 73.34 m
+
+Now, I need to extract just the numerical parts without the 'm' and compare them:
+
+Row 2: 61.97
+Row 3: 61.26
+Row 4: 63.91
+Row 5: 60.28
+Row 6: 62.39
+Row 7: 64.95
+Row 8: 68.15
+Row 9: 71.00
+Row 10: 71.40
+Row 11: 72.85
+Row 12: 74.79
+Row 13: 70.45
+Row 14: 73.34
+
+Now, looking for the smallest number here. The numbers are:
+
+60.28 is in row 5.
+
+61.26 is next in row3.
+
+Then 61.97 (row2), 62.39 (row6), 63.91(row4), and so on.
+
+So the smallest numerical value under Notes is 60.28 meters, which appears in row5 from the year 2002 European Championships where she placed 26th with a throw of 60.28m.
+
+Wait, but I should make sure that 'nan' isn't considered as the least. Since 'nan' isn't a number, in data terms, it's often excluded from such comparisons because it can't be evaluated numerically. So yes, the least numerical entry is 60.28 m.
+</think>
+
+The smallest value under Notes is 60.28 meters.
+
+Final Answer: 60.28 m
+===================Answer===================
+60.28 m

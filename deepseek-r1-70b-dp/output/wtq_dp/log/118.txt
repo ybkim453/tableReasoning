@@ -1,0 +1,41 @@
+===================Title===================
+Marek Plawgo
+===================Table===================
+|    |   Year | Competition                   | Venue                      | Position   | Event         | Notes          |
+|---:|-------:|:------------------------------|:---------------------------|:-----------|:--------------|:---------------|
+|  0 |   1999 | European Junior Championships | Riga, Latvia               | 4th        | 400 m hurdles | 52.17          |
+|  1 |   2000 | World Junior Championships    | Santiago, Chile            | 1st        | 400 m hurdles | 49.23          |
+|  2 |   2001 | World Championships           | Edmonton, Canada           | 18th (sf)  | 400 m hurdles | 49.80          |
+|  3 |   2001 | Universiade                   | Beijing, China             | 8th        | 400 m hurdles | 49.68          |
+|  4 |   2002 | European Indoor Championships | Vienna, Austria            | 1st        | 400 m         | 45.39 (CR, NR) |
+|  5 |   2002 | European Indoor Championships | Vienna, Austria            | 1st        | 4x400 m relay | 3:05.50 (CR)   |
+|  6 |   2002 | European Championships        | Munich, Germany            | 4th        | 400 m         | 45.40          |
+|  7 |   2002 | European Championships        | Munich, Germany            | 8th        | 4x400 m relay | DQ             |
+|  8 |   2003 | World Indoor Championships    | Birmingham, United Kingdom | 7th (sf)   | 400 m         | 46.82          |
+|  9 |   2003 | World Indoor Championships    | Birmingham, United Kingdom | 3rd        | 4x400 m relay | 3:06.61        |
+| 10 |   2003 | European U23 Championships    | Bydgoszcz, Poland          | 1st        | 400 m hurdles | 48.45          |
+| 11 |   2003 | European U23 Championships    | Bydgoszcz, Poland          | 1st        | 4x400 m relay | 3:03.32        |
+| 12 |   2004 | Olympic Games                 | Athens, Greece             | 6th        | 400 m hurdles | 49.00          |
+| 13 |   2004 | Olympic Games                 | Athens, Greece             | 10th (h)   | 4x400 m relay | 3:03.69        |
+| 14 |   2006 | European Championships        | Gothenburg, Sweden         | 2nd        | 400 m hurdles | 48.71          |
+| 15 |   2007 | World Championships           | Osaka, Japan               | 3rd        | 400 m hurdles | 48.12 (NR)     |
+| 16 |   2007 | World Championships           | Osaka, Japan               | 3rd        | 4x400 m relay | 3:00.05        |
+| 17 |   2008 | Olympic Games                 | Beijing, China             | 6th        | 400 m hurdles | 48.42          |
+| 18 |   2008 | Olympic Games                 | Beijing, China             | 7th        | 4x400 m relay | 3:00.32        |
+| 19 |   2012 | European Championships        | Helsinki, Finland          | 18th (sf)  | 400 m hurdles | 50.77          |
+===================Question===================
+when was his first competition?
+===================Text===================
+<think>
+Okay, so I need to find out when Marek Plawgo's first competition was based on the provided table. Let me look through each row carefully.
+
+Starting from the top, the first entry in the table is at index 0 with the year 1999. That seems pretty early. The competition listed there is the European Junior Championships in Riga, Latvia. He placed 4th in the 400m hurdles with a time of 52.17 seconds. 
+
+I should check if there are any entries before 1999 to make sure that's indeed his first. Scanning through the other years: 2000, 2001, and so on. No, all the subsequent competitions are after 1999. So it looks like the European Junior Championships in 1999 was his first competition.
+
+I don't see any earlier entries, so I can confidently say that his first competition was in 1999.
+</think>
+
+Final Answer: 1999
+===================Answer===================
+1999

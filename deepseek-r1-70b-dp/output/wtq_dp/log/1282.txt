@@ -1,0 +1,62 @@
+===================Title===================
+PSL Players' Player of the Season
+===================Table===================
+|    | Season   | Footballer         | Club              | Position   | Nationality   |
+|---:|:---------|:-------------------|:------------------|:-----------|:--------------|
+|  0 | 2012-13  | Itumeleng Khune    | Kaizer Chiefs     | GK         | South Africa  |
+|  1 | 2011-12  | Siyabonga Nomvethe | Moroka Swallows   | FW         | South Africa  |
+|  2 | 2010-11  | Thulani Serero     | Ajax Cape Town    | MF         | South Africa  |
+|  3 | 2009-10  | Katlego Mphela     | Mamelodi Sundowns | FW         | South Africa  |
+|  4 | 2008-09  | Teko Modise        | Orlando Pirates   | MF         | South Africa  |
+|  5 | 2007-08  | Itumeleng Khune    | Kaizer Chiefs     | GK         | South Africa  |
+|  6 | 2006-07  | Godfrey Sapula     | Mamelodi Sundowns | MF         | South Africa  |
+|  7 | 2005-06  | Surprise Moriri    | Mamelodi Sundowns | MF         | South Africa  |
+|  8 | 2004-05  | Sandile Ndlovu     | Dynamos           | FW         | South Africa  |
+|  9 | 2003-04  | Tinashe Nengomasha | Kaizer Chiefs     | MF         | Zimbabwe      |
+| 10 | 2002-03  | Moeneeb Josephs    | Ajax Cape Town    | GK         | South Africa  |
+| 11 | 2001-02  | Jabu Pule          | Kaizer Chiefs     | MF         | South Africa  |
+| 12 | 2000-01  | Benjani Mwaruwari  | Jomo Cosmos       | FW         | Zimbabwe      |
+| 13 | 1999-00  | Siyabonga Nomvethe | Kaizer Chiefs     | FW         | South Africa  |
+| 14 | 1998-99  | Roger Feutmba      | Mamelodi Sundowns | MF         | Cameroon      |
+| 15 | 1997-98  | Raphael Chukwu     | Mamelodi Sundowns | FW         | Nigeria       |
+| 16 | 1996-97  | Wilfred Mugeyi     | Bush Bucks        | FW         | Zimbabwe      |
+===================Question===================
+last year a mf won?
+===================Text===================
+<think>
+Okay, so I'm trying to figure out when was the last year that a midfielder (MF) won the PSL Players' Player of the Season award based on this table.
+
+First, I'll look at each row and note down the seasons where the Position is MF. Let me go through each season one by one:
+
+- 2012-13: Position is GK, so not MF.
+- 2011-12: FW, nope.
+- 2010-11: MF, yes. So that's Thulani Serero in 2010-11.
+- 2009-10: FW, skip.
+- 2008-09: MF, Teko Modise won here.
+- 2007-08: GK again, not relevant.
+- 2006-07: MF, Godfrey Sapula.
+- 2005-06: MF, Surprise Moriri.
+- 2004-05: FW, nope.
+- 2003-04: MF, Tinashe Nengomasha.
+- 2002-03: GK, skip.
+- 2001-02: MF, Jabu Pule.
+- 2000-01: FW, not needed.
+- 1999-00: FW again.
+- 1998-99: MF, Roger Feutmba.
+- 1997-98: FW.
+- 1996-97: FW.
+
+Now I need to find the most recent season where a midfielder won. Looking at the seasons in order, starting from the latest:
+
+2012-13 is the latest, but no MF that year. Next is 2011-12, not MF. Then 2010-11 has Thulani Serero as MF. So that's one.
+
+Wait, but I should check all of them to make sure there isn't a more recent season beyond what's listed here. But the table goes up to 2012-13. So the last season in the data is 2012-13, and the most recent MF win before that would be 2010-11.
+
+Is there any more recent than that? Let me scan again:
+
+After 2010-11 (which is row index 2), the next seasons are 2011-12 (FW) and 2012-13 (GK). So no, nothing after 2010-11. Therefore, 2010-11 is the last year a MF won.
+</think>
+
+Final Answer: 2010-11
+===================Answer===================
+2010-11

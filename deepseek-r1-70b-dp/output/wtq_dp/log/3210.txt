@@ -1,0 +1,88 @@
+===================Title===================
+Let's Get It On
+===================Table===================
+|    | Publication                                 | Country        | Accolade                                                    |   Year | Rank   |
+|---:|:--------------------------------------------|:---------------|:------------------------------------------------------------|-------:|:-------|
+|  0 | Bill Shapiro                                | United States  | The Top 100 Rock Compact Discs                              |   1991 | *      |
+|  1 | Blender                                     | United States  | The 100 Greatest American Albums of All time                |   2002 | 15     |
+|  2 | Dave Marsh & Kevin Stein                    | United States  | The 40 Best of Album Chartmakers by Year                    |   1981 | 6      |
+|  3 | Elvis Costello (Vanity Fair, Issue No. 483) | United States  | 500 Albums You Need                                         |   2005 | *      |
+|  4 | Infoplease.com                              | United States  | Must-Have Recordings                                        |   1998 | *      |
+|  5 | Jimmy Guterman                              | United States  | The 100 Best Rock and Roll Records of All Time              |   1992 | 27     |
+|  6 | Kitsap Sun                                  | United States  | Top 200 Albums of the Last 40 Years                         |   2005 | 67     |
+|  7 | Paul Gambaccini                             | United States  | The World Critics Best Albums of All Time                   |   1987 | 84     |
+|  8 | The Recording Academy                       | United States  | Grammy Hall of Fame Albums and Songs                        |   2004 | *      |
+|  9 | Robert Dimery                               | United States  | 1001 Albums You Must Hear Before You Die                    |   2005 | *      |
+| 10 | Rolling Stone (Steve Pond)                  | United States  | Steve Pond's 50 (+27) Essential Albums of the 70s           |   1990 | 39     |
+| 11 | Rolling Stone                               | United States  | The 500 Greatest Albums of All Time                         |   2003 | 165    |
+| 12 | Vibe                                        | United States  | 51 Albums representing a Generation, a Sound and a Movement |   2004 | *      |
+| 13 | Hot Press                                   | Ireland        | The 100 Best Albums of All Time                             |   1989 | 32     |
+| 14 | Mojo                                        | United Kingdom | Mojo 1000, the Ultimate CD Buyers Guide                     |   2001 | *      |
+| 15 | NME                                         | United Kingdom | All Times Top 100 Albums                                    |   1985 | 46     |
+| 16 | NME                                         | United Kingdom | All Times Top 100 Albums + Top 50 by Decade                 |   1993 | 145    |
+| 17 | The New Nation                              | United Kingdom | Top 100 Albums by Black Artists                             |   2005 | 27     |
+| 18 | Sounds                                      | United Kingdom | The 100 Best Albums of All Time                             |   1986 | 24     |
+| 19 | The Times                                   | United Kingdom | The 100 Best Albums of All Time                             |   1993 | 58     |
+| 20 | Time Out                                    | United Kingdom | The 100 Best Albums of All Time                             |   1989 | 3      |
+| 21 | The Wire                                    | United Kingdom | The 100 Most Important Records Ever Made                    |   1992 | *      |
+| 22 | Adresseavisen                               | Norway         | The 100 (+23) Best Albums of All Time                       |   1995 | 101    |
+| 23 | Pop                                         | Sweden         | The World's 100 Best Albums + 300 Complements               |   1994 | 101    |
+| 24 | OOR                                         | Netherlands    | Albums of the Year                                          |   1973 | 41     |
+| 25 | VPRO                                        | Netherlands    | 299 Nominations of the Best Album of All Time               |   2006 | *      |
+| 26 | Spex                                        | Germany        | The 100 Albums of the Century                               |   1999 | 93     |
+| 27 | Rock de Lux                                 | Spain          | The 100 Best Albums of the 1970s                            |   1988 | 39     |
+| 28 | Rock de Lux                                 | Spain          | The 200 Best Albums of All Time                             |   2002 | 53     |
+===================Question===================
+how many accolades ranked the album below 100th place?
+===================Text===================
+<think>
+Alright, so I need to figure out how many accolades from the table ranked the album below 100th place. Let me start by understanding what the question is asking.
+
+First, looking at the table provided, each row represents an accolade given to the album "Let's Get It On." The columns are Publication, Country, Accolade name, Year, and Rank. My focus is on the Rank column because I'm interested in knowing how many times the album was ranked below 100th place.
+
+Now, I'll go through each row one by one and check the Rank value. If the rank is greater than 100, that means it's below 100th place. 
+
+Starting from the top:
+- Row 0: The Top 100 Rock Compact Discs, Rank is *. Since there's no number, maybe it's within the top 100 but without a specific rank, so I can't count this as below 100.
+- Row 1: Ranked 15th, which is well above 100.
+- Row 2: Ranked 6th, also above 100.
+- Row 3: Rank is *, same reasoning as row 0; it's likely within the top 500 but no specific number given. Can't count this as below 100.
+- Row 4: Must-Have Recordings with Rank *. Again, no number provided, probably within a list without a specific rank beyond inclusion.
+- Row 5: Ranked 27th, above 100.
+- Row 6: Ranked 67th, still above 100.
+- Row 7: Ranked 84th, also above 100.
+- Row 8: Rank is *, same as before; part of the Grammy Hall of Fame but no specific number.
+- Row 9: Part of 1001 Albums You Must Hear Before You Die with Rank *. Included in the list without a specific rank below 100.
+- Row 10: Ranked 39th, above 100.
+- Row 11: Ranked 165th. Now, this is where it gets important because 165 is greater than 100. So this counts as one accolade below 100.
+- Row 12: Rank *, so not applicable for ranking below 100.
+- Row 13: Ranked 32nd, which is above 100.
+- Row 14: Rank *; no specific number provided.
+- Row 15: Ranked 46th, still above 100.
+- Row 16: Ranked 145th. This is another one below 100. So that's two so far.
+- Row 17: Ranked 27th, above 100.
+- Row 18: Ranked 24th, above 100.
+- Row 19: Ranked 58th, still above 100.
+- Row 20: Ranked 3rd, way above.
+- Row 21: Rank *, no specific number.
+- Row 22: Ranked 101st. This is just over 100, so counts as below. That's three now.
+- Row 23: Ranked 101st again, another one below 100. Now four.
+- Rows 24 to the end (Rows 24 to 28): Checking these,
+    - Row 24: 41st
+    - Row 25: *
+    - Row 26: 93rd
+    - Row 27: 39th
+    - Row 28: 53rd. All of these are above 100 except none beyond that.
+
+Wait, let me recount the ones below 100:
+- Row 11: 165
+- Row 16:145
+- Row 22:101
+- Row23:101
+
+That's four in total where the rank is above 100. So the number of accolades where the album was ranked below 100th place is 4.
+</think>
+
+Final Answer: 4
+===================Answer===================
+4

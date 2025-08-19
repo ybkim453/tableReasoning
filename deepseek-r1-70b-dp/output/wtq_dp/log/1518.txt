@@ -1,0 +1,55 @@
+===================Title===================
+2005 East Asian Games
+===================Table===================
+|    | Rank   | Nation               |   Gold |   Silver |   Bronze |   Total |
+|---:|:-------|:---------------------|-------:|---------:|---------:|--------:|
+|  0 | 1      | China (CHN)          |    127 |       63 |       33 |     223 |
+|  1 | 2      | Japan (JPN)          |     46 |       56 |       77 |     179 |
+|  2 | 3      | South Korea (KOR)    |     32 |       48 |       65 |     145 |
+|  3 | 4      | Chinese Taipei (TPE) |     12 |       34 |       26 |      72 |
+|  4 | 5      | Macau (MAC)          |     11 |       16 |       17 |      44 |
+|  5 | 6      | North Korea (PRK)    |      6 |       10 |       20 |      36 |
+|  6 | 7      | Hong Kong (HKG)      |      2 |        2 |        9 |      13 |
+|  7 | 8      | Mongolia (MGL)       |      1 |        1 |        6 |       8 |
+|  8 | 9      | Guam (GUM)           |      0 |        0 |        1 |       1 |
+|  9 | Total  | Total                |    237 |      230 |      254 |     721 |
+===================Question===================
+which nation won more bronze medals than china?
+===================Text===================
+<think>
+Okay, let's tackle this problem step by step. I'm trying to figure out which nation won more bronze medals than China based on the given table from the 2005 East Asian Games.
+
+First, I'll look at the table provided. It lists several nations along with their gold, silver, and bronze medal counts, as well as the total number of medals each won. The columns are Rank, Nation, Gold, Silver, Bronze, and Total. 
+
+So, the question is asking which nation had more bronze medals than China. I need to compare the number of bronze medals each country has with China's count.
+
+Looking at the table, China (CHN) is ranked 1st. The bronze medal count for China is 33. So any nation that has a higher number than 33 in the Bronze column would be the answer.
+
+Let me go through each row:
+
+- Rank 0: China (CHN) - Bronze = 33
+- Rank 1: Japan (JPN) - Bronze = 77
+- Rank 2: South Korea (KOR) - Bronze = 65
+- Rank 3: Chinese Taipei (TPE) - Bronze = 26
+- Rank 4: Macau (MAC) - Bronze = 17
+- Rank 5: North Korea (PRK) - Bronze = 20
+- Rank 6: Hong Kong (HKG) - Bronze = 9
+- Rank 7: Mongolia (MGL) - Bronze = 6
+- Rank 8: Guam (GUM) - Bronze = 1
+
+Now, comparing each of these to China's 33 bronze medals:
+
+- Japan has 77, which is more than 33.
+- South Korea has 65, also more than 33.
+- The rest have fewer.
+
+So, the nations that won more bronze medals than China are Japan and South Korea. I don't see any other country with a higher number than 33 except these two.
+
+Wait, just to make sure I didn't miss anything: let me double-check each entry again. 
+
+Yes, only Japan (77) and South Korea (65) have bronze counts exceeding China's 33. The rest are lower. So the answer should be those two nations.
+</think>
+
+Final Answer: Japan (JPN), South Korea (KOR)
+===================Answer===================
+Japan (JPN),South Korea (KOR)

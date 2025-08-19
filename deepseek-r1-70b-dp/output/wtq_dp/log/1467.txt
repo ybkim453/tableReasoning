@@ -1,0 +1,42 @@
+===================Title===================
+2000 Úrvalsdeild
+===================Table===================
+|    |   Pos | Team       |   Played |   Won |   Draw |   Lost |   Goals For |   Goals Against |   Goal Difference |   Points | Notes                 |
+|---:|------:|:-----------|---------:|------:|-------:|-------:|------------:|----------------:|------------------:|---------:|:----------------------|
+|  0 |     1 | KR         |       18 |    11 |      4 |      3 |          27 |              14 |                13 |       37 | UEFA Champions League |
+|  1 |     2 | Fylkir     |       18 |    10 |      5 |      3 |          39 |              16 |                23 |       35 | UEFA Cup              |
+|  2 |     3 | Grindavík |       18 |     8 |      6 |      4 |          25 |              18 |                 7 |       30 | UEFA Cup              |
+|  3 |     4 | ÍBV       |       18 |     8 |      5 |      5 |          29 |              17 |                12 |       29 | Inter-Toto Cup        |
+|  4 |     5 | ÍA        |       18 |     7 |      5 |      6 |          21 |              17 |                 4 |       26 | nan                   |
+|  5 |     6 | Keflavík  |       18 |     4 |      7 |      7 |          21 |              35 |               -14 |       19 | nan                   |
+|  6 |     7 | Breiðablik |       18 |     5 |      3 |     10 |          29 |              35 |                -6 |       18 | nan                   |
+|  7 |     8 | Fram       |       18 |     4 |      5 |      9 |          22 |              33 |               -11 |       17 | nan                   |
+|  8 |     9 | Stjarnan   |       18 |     4 |      5 |      9 |          18 |              31 |               -13 |       17 | Relegated             |
+|  9 |    10 | Leiftur    |       18 |     3 |      7 |      8 |          24 |              39 |               -15 |       16 | Relegated             |
+===================Question===================
+how many teams won at least half or more of their games?
+===================Text===================
+<think>
+Alright, so I'm trying to figure out how many teams in the 2000 Úrvalsdeild won at least half or more of their games. Let me break it down step by step.
+
+First, I need to understand what "won at least half or more" means. It means each team should have a number of wins equal to or greater than half of their total played games. Since all teams played 18 matches (as seen in the Played column), half of that is 9. So any team with 9 or more wins meets the criteria.
+
+Now, I'll look at each team's "Won" column:
+
+1. KR: They won 11 games out of 18. That's definitely more than half.
+2. Fylkir: They have 10 wins. That's also above half.
+3. Grindavík: 8 wins. Hmm, that's less than half because half is 9.
+4. ÍBV: Also 8 wins, which is below the threshold.
+5. ÍA: 7 wins, again under 9.
+6. Keflavík: Only 4 wins.
+7. Breiðablik: 5 wins.
+8. Fram: 4 wins.
+9. Stjarnan: 4 wins.
+10. Leiftur: 3 wins.
+
+So, only KR and Fylkir have won at least half or more of their games with 11 and 10 wins respectively. That means there are 2 teams that meet this criterion.
+</think>
+
+Final Answer: 2
+===================Answer===================
+2

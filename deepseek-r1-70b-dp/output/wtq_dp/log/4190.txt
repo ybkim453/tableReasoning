@@ -1,0 +1,38 @@
+===================Title===================
+Solar eclipse of May 20, 2012
+===================Table===================
+|    | May 20-21\n118   | March 9\n120   | December 25-26\n122   | October 13-14\n124   | August 1-2\n126   |
+|---:|:-----------------|:---------------|:----------------------|:---------------------|:------------------|
+|  0 | May 21, 1993     | March 9, 1997  | December 25, 2000     | October 14, 2004     | August 1, 2008    |
+|  1 | 128              | 130            | 132                   | 134                  | 136               |
+|  2 | May 20, 2012     | March 9, 2016  | December 26, 2019     | October 14, 2023     | August 2, 2027    |
+|  3 | 138              | 140            | 142                   | 144                  | 146               |
+|  4 | May 21, 2031     | March 9, 2035  | December 26, 2038     | October 14, 2042     | August 2, 2046    |
+|  5 | 148              | 150            | 152                   | 154                  | 156               |
+|  6 | May 20, 2050     | March 9, 2054  | December 26, 2057     | October 13, 2061     | August 2, 2065    |
+===================Question===================
+what is the year listed after 2012?
+===================Text===================
+<think>
+Okay, so I've got this table here about solar eclipses, and I need to figure out what year comes after 2012. Let me look at the table structure first.
+
+The table has columns that seem to list dates of solar eclipses across different years. The rows are labeled with numbers from 0 upwards, and each row seems to correspond to a series of eclipses spaced over time. 
+
+Looking at the column headers: they have dates like May 20-21\n118, March 9\n120, etc. It looks like each column represents a specific date range for eclipses in different years.
+
+Now, focusing on row 2, which has the year 2012 under "May 20, 2012". That's the starting point. The question is asking for the next year after 2012 listed in this table.
+
+Looking at row 4, I see "May 21, 2031" and others like March 9, 2035; December 26, 2038; etc. Wait a minute, that's way beyond 2012. Maybe there's an intermediate step I'm missing.
+
+Wait, perhaps each column represents a specific saros cycle or some periodicity in eclipses. Saros cycles are about 18 years apart, so after 2012, the next one would be around 2030.
+
+Looking again, row 4 has May 21, 2031. That's 19 years after 2012 (since 2012 +19=2031). Maybe that's the next occurrence in this specific series.
+
+Alternatively, perhaps I'm supposed to look for a year right after 2012 in a different column. Let me check other rows. For example, row 3 has 138, which seems like an index number, not directly helpful for years. Row 4 then lists May 21, 2031; March 9, 2035; etc.
+
+So the next year after 2012 in this table is 2031.
+</think>
+
+Final Answer: 2031
+===================Answer===================
+2016

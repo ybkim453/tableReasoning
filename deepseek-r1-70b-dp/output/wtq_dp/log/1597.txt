@@ -1,0 +1,44 @@
+===================Title===================
+2011 BWF World Junior Championships
+===================Table===================
+|    |   Rank | Nation         |   Gold |   Silver |   Bronze |   Total |
+|---:|-------:|:---------------|-------:|---------:|---------:|--------:|
+|  0 |      1 | Malaysia       |      3 |        0 |        1 |       4 |
+|  1 |      2 | Indonesia      |      1 |        3 |        2 |       6 |
+|  2 |      3 | Korea          |      1 |        1 |        2 |       4 |
+|  3 |      4 | Thailand       |      1 |        0 |        0 |       1 |
+|  4 |      5 | Chinese Taipei |      0 |        1 |        2 |       3 |
+|  5 |      6 | Denmark        |      0 |        1 |        0 |       1 |
+|  6 |      7 | Japan          |      0 |        0 |        2 |       2 |
+|  7 |      8 | India          |      0 |        0 |        1 |       1 |
+|  8 |      9 | Spain          |      0 |        0 |        1 |       1 |
+===================Question===================
+indonesia, korea and what other country have all won gold once?
+===================Text===================
+<think>
+Alright, so I've got this table about the 2011 BWF World Junior Championships, and I need to figure out which countries besides Indonesia and Korea have each won exactly one gold medal. Let me break it down step by step.
+
+First, looking at the table, I see that each row represents a country's performance in terms of medals. The columns are Rank, Nation, Gold, Silver, Bronze, and Total. My task is to find countries that have exactly 1 gold medal.
+
+I know Indonesia is one of them because the user mentioned it, so let's verify. In the table, Indonesia has 1 Gold, 3 Silvers, 2 Bronzes, totaling 6 medals. That checks out as having 1 gold.
+
+Next up is Korea, which also has 1 Gold, 1 Silver, and 2 Bronzes. So that's another country with exactly one gold medal. Good so far.
+
+Now I need to find the third country that fits this criterion. Let me scan through each row:
+
+- Malaysia: They have 3 Golds, so that's more than one.
+- Thailand: They have 1 Gold as well. Hmm, that's a possibility. Their Silver and Bronze are both zero, but they still have exactly 1 gold medal.
+- Chinese Taipei: They have 0 Golds, so no.
+- Denmark: Also 0 Golds.
+- Japan: 0 Golds again.
+- India: 0 Golds.
+- Spain: 0 Golds.
+
+Wait a minute, Thailand has exactly 1 Gold. So that's the third country we're looking for.
+
+So the three countries are Indonesia, Korea, and Thailand. Each of them won exactly one gold medal in this championship.
+</think>
+
+Final Answer: Indonesia, Korea, Thailand
+===================Answer===================
+Thailand

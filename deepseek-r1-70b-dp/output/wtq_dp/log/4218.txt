@@ -1,0 +1,92 @@
+===================Title===================
+Men's 200 metres world record progression
+===================Table===================
+|    | Time   | Wind   | Auto   | Athlete        | Nationality    | Location of race              | Date              |
+|---:|:-------|:-------|:-------|:---------------|:---------------|:------------------------------|:------------------|
+|  0 | 20.6y  | nan    | nan    | Andy Stanfield | United States  | Philadelphia, United States   | May 26, 1951      |
+|  1 | 20.6   | nan    | nan    | Andy Stanfield | United States  | Los Angeles, United States    | June 28, 1952     |
+|  2 | 20.6   | 0.0    | nan    | Thane Baker    | United States  | Bakersfield, United States    | June 23, 1956     |
+|  3 | 20.6   | nan    | 20.75  | Bobby Morrow   | United States  | Melbourne, Australia          | November 27, 1956 |
+|  4 | 20.6   | nan    | nan    | Manfred Germar | West Germany   | Wuppertal, Germany            | October 1, 1958   |
+|  5 | 20.6y  | −1.6   | nan    | Ray Norton     | United States  | Berkeley, United States       | March 19, 1960    |
+|  6 | 20.6   | nan    | nan    | Ray Norton     | United States  | Philadelphia, United States   | April 30, 1960    |
+|  7 | 20.5y  | nan    | nan    | Peter Radford  | United Kingdom | Wolverhampton, United Kingdom | May 28, 1960      |
+|  8 | 20.5   | 0.0    | 20.75  | Stone Johnson  | United States  | Stanford, United States       | July 2, 1960      |
+|  9 | 20.5   | 0.0    | nan    | Ray Norton     | United States  | Stanford, United States       | July 2, 1960      |
+| 10 | 20.5   | nan    | 20.65  | Livio Berruti  | Italy          | Rome, Italy                   | September 3, 1960 |
+| 11 | 20.5   | nan    | 20.62  | Livio Berruti  | Italy          | Rome, Italy                   | September 3, 1960 |
+| 12 | 20.5y  | −1.1   | 20.67  | Paul Drayton   | United States  | Walnut, United States         | June 23, 1962     |
+| 13 | 20.3y  | −0.1   | nan    | Henry Carr     | United States  | Tempe, United States          | March 23, 1963    |
+| 14 | 20.2y  | 0.5    | nan    | Henry Carr     | United States  | Tempe, United States          | April 4, 1964     |
+| 15 | 20.0y  | 0.0    | nan    | Tommie Smith   | United States  | Sacramento, United States     | June 11, 1968     |
+| 16 | 19.8A  | 0.9    | 19.83A | Tommie Smith   | United States  | Mexico City, Mexico           | October 16, 1968  |
+| 17 | 19.8A  | 0.9    | 19.86A | Donald Quarrie | Jamaica        | Cali, Colombia                | August 3, 1971    |
+| 18 | 19.8+  | 1.3    | nan    | Donald Quarrie | Jamaica        | Eugene, Oregon, United States | June 7, 1975      |
+===================Question===================
+who had the most world records from 1951-1976?
+===================Text===================
+<think>
+Alright, so I need to figure out who had the most world records in the men's 200 meters between 1951 and 1976 based on this table. Let me start by understanding what each column represents to make sure I'm interpreting it correctly.
+
+The columns are: an index number, Time, Wind, Auto, Athlete, Nationality, Location of race, and Date. Each row represents a progression in the world record for the men's 200 meters.
+
+Looking at the table, there are entries from 1951 to 1975, which falls within the range we're considering (1951-1976). My task is to count how many times each athlete set a new world record and determine who had the most records.
+
+Let me list out each row and note the athlete:
+
+0: Andy Stanfield
+1: Andy Stanfield
+2: Thane Baker
+3: Bobby Morrow
+4: Manfred Germar
+5: Ray Norton
+6: Ray Norton
+7: Peter Radford
+8: Stone Johnson
+9: Ray Norton
+10: Livio Berruti
+11: Livio Berruti
+12: Paul Drayton
+13: Henry Carr
+14: Henry Carr
+15: Tommie Smith
+16: Tommie Smith
+17: Donald Quarrie
+18: Donald Quarrie
+
+Now, let's count each athlete:
+
+Andy Stanfield - rows 0 and 1 → 2 records
+Thane Baker - row 2 → 1 record
+Bobby Morrow - row 3 → 1 record
+Manfred Germar - row4 →1 
+Ray Norton - rows5,6,9 →3
+Peter Radford -7→1
+Stone Johnson-8→1
+Livio Berruti-10 and11→2
+Paul Drayton-12→1
+Henry Carr-13 and14→2
+Tommie Smith-15 and16→2
+Donald Quarrie-17 and18→2
+
+Counting these:
+
+Andy: 2
+Thane:1
+Bobby:1
+Manfred:1
+Ray:3
+Peter:1
+Stone:1
+Livio:2
+Paul:1
+Henry:2
+Tommie:2
+Donald:2
+
+So, Ray Norton has the most with 3 records. That's more than any other athlete in this table within the time period.
+</think>
+
+Final Answer: Ray Norton
+===================Answer===================
+Ray Norton

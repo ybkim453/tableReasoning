@@ -1,0 +1,39 @@
+===================Title===================
+Sport in Australia
+===================Table===================
+|    | Competition                        | Total spectatorship   | Average match attendance   | Year      |
+|---:|:-----------------------------------|:----------------------|:---------------------------|:----------|
+|  0 | A-League                           | 1,772,133             | 12,707                     | 2012/2013 |
+|  1 | Australian Football League         | 6,931,085             | 33,484                     | 2013      |
+|  2 | Big Bash League                    | 550,262               | 17,750                     | 2011/2012 |
+|  3 | National Basketball League         | 547,021               | 4,031                      | 2010/2011 |
+|  4 | National Rugby League              | 3,345,248             | 16,643                     | 2013      |
+|  5 | Super Rugby                        | 773,940               | 19,348                     | 2012      |
+|  6 | Rugby Championship                 | 133,532               | 44,511                     | 2012      |
+|  7 | State of Origin series             | 186,607               | 62,202                     | 2011      |
+|  8 | Women's National Basketball League | 77,944                | nan                        | 2010/2011 |
+===================Question===================
+which had more spectators? rugby championship or state or origin series?
+===================Text===================
+<think>
+Okay, so I need to figure out which had more spectators between the Rugby Championship and the State of Origin series based on the provided table. Let me start by carefully looking at the table and identifying the relevant information.
+
+First, I'll scan through each row to find these two competitions. The table has a list of sports competitions with their total spectatorship numbers. Each row has a competition name, total spectators, average attendance, and the year.
+
+Looking for "Rugby Championship", I see it's at index 6. Its total spectatorship is listed as 133,532. Then, searching for "State of Origin series" which is at index 7 with a total spectatorship of 186,607.
+
+Now, to compare these two numbers: 133,532 versus 186,607. I can see that 186k is larger than 133k. So, the State of Origin series had more spectators.
+
+I should double-check to make sure I didn't mix up any numbers or misread a value. Let me confirm:
+
+- Rugby Championship: 133,532
+- State of Origin series: 186,607
+
+Yes, that's correct. The State of Origin series has a higher total spectatorship.
+</think>
+
+The State of Origin series had more spectators than the Rugby Championship.
+
+Final Answer: State of Origin series
+===================Answer===================
+State of Origin series

@@ -1,0 +1,72 @@
+===================Title===================
+1977 Dallas Cowboys season
+===================Table===================
+|    |   Week | Date         | Result   | Record   | Opponent               |   Points For |   Points Against |   First Downs | Attendance   |
+|---:|-------:|:-------------|:---------|:---------|:-----------------------|-------------:|-----------------:|--------------:|:-------------|
+|  0 |      1 | September 18 | Win      | 1–0      | at Minnesota Vikings   |           16 |               10 |            16 | 47,678       |
+|  1 |      2 | September 25 | Win      | 2–0      | New York Giants        |           41 |               21 |            25 | 64,215       |
+|  2 |      3 | October 2    | Win      | 3–0      | Tampa Bay Buccaneers   |           23 |                7 |            23 | 55,316       |
+|  3 |      4 | October 9    | Win      | 4–0      | at St. Louis Cardinals |           30 |               24 |            22 | 50,129       |
+|  4 |      5 | October 16   | Win      | 5–0      | Washington Redskins    |           34 |               16 |            23 | 62,115       |
+|  5 |      6 | October 23   | Win      | 6–0      | at Philadelphia Eagles |           16 |               10 |            17 | 65,507       |
+|  6 |      7 | October 30   | Win      | 7–0      | Detroit Lions          |           37 |                0 |            20 | 63,160       |
+|  7 |      8 | November 6   | Win      | 8–0      | at New York Giants     |           24 |               10 |            13 | 74,532       |
+|  8 |      9 | November 14  | Loss     | 8–1      | St. Louis Cardinals    |           17 |               24 |            16 | 64,038       |
+|  9 |     10 | November 20  | Loss     | 8–2      | at Pittsburgh Steelers |           13 |               28 |            20 | 49,761       |
+| 10 |     11 | November 27  | Win      | 9–2      | at Washington Redskins |           14 |                7 |            19 | 55,031       |
+| 11 |     12 | December 4   | Win      | 10–2     | Philadelphia Eagles    |           24 |               14 |            19 | 60,289       |
+| 12 |     13 | December 12  | Win      | 11–2     | at San Francisco 49ers |           42 |               35 |            24 | 55,851       |
+| 13 |     14 | December 18  | Win      | 12–2     | Denver Broncos         |           14 |                6 |            15 | 63,752       |
+===================Question===================
+how many times was attendance below 50,000?
+===================Text===================
+<think>
+Alright, let me try to figure this out. So, the question is asking how many times the attendance was below 50,000 during the 1977 Dallas Cowboys season based on the provided table.
+
+First, I need to look at the "Attendance" column for each week and count the number of games where the attendance was less than 50,000.
+
+Looking through each row:
+
+Week 1: Attendance is 47,678. That's below 50k.
+Week 2: 64,215 – above.
+Week 3: 55,316 – above.
+Week 4: 50,129 – just barely over.
+Week 5: 62,115 – way over.
+Week 6: 65,507 – also over.
+Week 7: 63,160 – still over.
+Week 8: 74,532 – well above.
+Week 9: 64,038 – over again.
+Week 10: 49,761 – oh, wait, that's below 50k because it's 49,761.
+Wait, no, 49,761 is actually just under 50k? Wait, but 50,000 is the threshold. So 49,761 is less than 50,000.
+
+Continuing:
+Week 11: 55,031 – over.
+Week 12: 60,289 – over.
+Week 13: 63,752 – way above.
+
+Wait, so in week 1 and week 10, the attendance was below 50k. So that's two times.
+
+Wait, but let me double-check each week:
+
+- Week 1: 47,678 (below)
+- Week 2: 64,215
+- Week 3:55,316
+- Week4:50,129 (exactly at 50,000? Or over? Wait, it's 50,129 which is above 50k.
+Wait, no. The question is whether attendance was below 50,000. So if it's exactly 50k or more, it doesn't count. So week4: 50,129 is just over, so not counted.
+
+Week5:62k
+Week6:65k
+Week7:63k
+Week8:74k
+Week9:64k
+Week10:49,761 – which is below.
+Then weeks11-13: all above.
+
+So total of two games where attendance was below 50k: week1 and week10.
+
+Wait, but I'm a bit confused because week4's attendance is 50,129. So that's just over 50k, so it doesn't count as below. Therefore, only two instances.
+</think>
+
+Final Answer: 2
+===================Answer===================
+2

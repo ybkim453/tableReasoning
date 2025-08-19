@@ -1,0 +1,113 @@
+===================Title===================
+2011 USL Pro season
+===================Table===================
+|    |   Rank | Player            | Nation   | Club                      |   Goals |
+|---:|-------:|:------------------|:---------|:--------------------------|--------:|
+|  0 |      1 | Jhonny Arteaga    | COL      | FC New York               |      13 |
+|  1 |      2 | Matthew Delicâte | ENG      | Richmond Kickers          |      10 |
+|  2 |      3 | José Angulo      | USA      | Harrisburg City Islanders |       9 |
+|  3 |      3 | Maxwell Griffin   | USA      | Orlando City              |       9 |
+|  4 |      3 | Luke Mulholland   | ENG      | Wilmington Hammerheads    |       9 |
+|  5 |      6 | Andriy Budnyy     | UKR      | Wilmington Hammerheads    |       8 |
+|  6 |      6 | Jamie Watson      | USA      | Orlando City              |       8 |
+|  7 |      6 | Andrew Welker     | USA      | Harrisburg City Islanders |       8 |
+|  8 |      9 | Chris Banks       | USA      | Wilmington Hammerheads    |       7 |
+|  9 |      9 | Sallieu Bundu     | SLE      | Charlotte Eagles          |       7 |
+| 10 |      9 | George Davis IV   | USA      | Dayton Dutch Lions        |       7 |
+| 11 |      9 | Sainey Touray     | GAM      | Harrisburg City Islanders |       7 |
+===================Question===================
+how many total goals were scored between all 12 players?
+===================Text===================
+<think>
+Okay, so I need to figure out how many total goals were scored by all 12 players in the 2011 USL Pro season based on the table provided. Let me start by looking at each player and their corresponding number of goals.
+
+First, I'll list out all the goal numbers:
+
+- Jhonny Arteaga: 13
+- Matthew Delicâte: 10
+- José Angulo: 9
+- Maxwell Griffin: 9
+- Luke Mulholland: 9
+- Andriy Budnyy: 8
+- Jamie Watson: 8
+- Andrew Welker: 8
+- Chris Banks: 7
+- Sallieu Bundu: 7
+- George Davis IV: 7
+- Sainey Touray: 7
+
+Now, I'll add these up one by one. Let me ensure I don't miss any or make a calculation error.
+
+Starting with the highest:
+
+13 (Jhonny) + 10 (Matthew) = 23
+
+Next, adding José's 9: 23 + 9 = 32
+
+Then Maxwell's 9: 32 + 9 = 41
+
+Luke's 9: 41 + 9 = 50
+
+Andriy's 8: 50 + 8 = 58
+
+Jamie's 8: 58 + 8 = 66
+
+Andrew's 8: 66 + 8 = 74
+
+Chris's 7: 74 + 7 = 81
+
+Sallieu's 7: 81 + 7 = 88
+
+George's 7: 88 + 7 = 95
+
+Finally, Sainey's 7: 95 + 7 = 102
+
+Wait, that seems off because when I add the numbers again, maybe I made a mistake. Let me recount.
+
+Let me list them numerically:
+
+13,10,9,9,9,8,8,8,7,7,7,7
+
+Adding step by step:
+
+Start at 0.
+
+Add 13: total is 13
+Add 10: 23
+Add 9 (José):32
+Add 9 (Maxwell):41
+Add 9 (Luke):50
+Add 8 (Andriy):58
+Add 8 (Jamie):66
+Add 8 (Andrew):74
+Add 7 (Chris):81
+Add 7 (Sallieu):88
+Add 7 (George):95
+Add 7 (Sainey):102
+
+Wait, that seems high. Alternatively, perhaps I should group them to make it easier.
+
+Grouping similar numbers:
+
+- There's one 13.
+- One 10.
+- Three players with 9 goals: 9*3 =27
+- Three players with 8 goals:8*3=24
+- Four players with 7 goals:7*4=28
+
+Now add them all together:
+
+13 +10 =23
+
+23 +27=50
+
+50 +24=74
+
+74 +28=102
+
+So the total is 102.
+</think>
+
+Final Answer: 102
+===================Answer===================
+102

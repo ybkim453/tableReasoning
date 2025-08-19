@@ -1,0 +1,83 @@
+===================Title===================
+1977 Dallas Cowboys season
+===================Table===================
+|    |   Week | Date         | Result   | Record   | Opponent               |   Points For |   Points Against |   First Downs | Attendance   |
+|---:|-------:|:-------------|:---------|:---------|:-----------------------|-------------:|-----------------:|--------------:|:-------------|
+|  0 |      1 | September 18 | Win      | 1–0      | at Minnesota Vikings   |           16 |               10 |            16 | 47,678       |
+|  1 |      2 | September 25 | Win      | 2–0      | New York Giants        |           41 |               21 |            25 | 64,215       |
+|  2 |      3 | October 2    | Win      | 3–0      | Tampa Bay Buccaneers   |           23 |                7 |            23 | 55,316       |
+|  3 |      4 | October 9    | Win      | 4–0      | at St. Louis Cardinals |           30 |               24 |            22 | 50,129       |
+|  4 |      5 | October 16   | Win      | 5–0      | Washington Redskins    |           34 |               16 |            23 | 62,115       |
+|  5 |      6 | October 23   | Win      | 6–0      | at Philadelphia Eagles |           16 |               10 |            17 | 65,507       |
+|  6 |      7 | October 30   | Win      | 7–0      | Detroit Lions          |           37 |                0 |            20 | 63,160       |
+|  7 |      8 | November 6   | Win      | 8–0      | at New York Giants     |           24 |               10 |            13 | 74,532       |
+|  8 |      9 | November 14  | Loss     | 8–1      | St. Louis Cardinals    |           17 |               24 |            16 | 64,038       |
+|  9 |     10 | November 20  | Loss     | 8–2      | at Pittsburgh Steelers |           13 |               28 |            20 | 49,761       |
+| 10 |     11 | November 27  | Win      | 9–2      | at Washington Redskins |           14 |                7 |            19 | 55,031       |
+| 11 |     12 | December 4   | Win      | 10–2     | Philadelphia Eagles    |           24 |               14 |            19 | 60,289       |
+| 12 |     13 | December 12  | Win      | 11–2     | at San Francisco 49ers |           42 |               35 |            24 | 55,851       |
+| 13 |     14 | December 18  | Win      | 12–2     | Denver Broncos         |           14 |                6 |            15 | 63,752       |
+===================Question===================
+the most wins in a row by the cowboys in their 1977 season
+===================Text===================
+<think>
+Alright, let's figure out the maximum number of consecutive wins the Dallas Cowboys had in their 1977 season based on the provided table.
+
+First, I'll look through each week and track the results to identify streaks of wins.
+
+Week 1: Win (1–0)
+Week 2: Win (2–0) → 2 wins in a row
+Week 3: Win (3–0) → 3 wins in a row
+Week 4: Win (4–0) → 4 wins in a row
+Week 5: Win (5–0) → 5 consecutive wins
+Week 6: Win (6–0) → Now at 6 straight wins
+
+At Week 7, they have another Win (7–0), so the streak continues to 7.
+
+Then in Week 8, it's a Win again (8–0). So now they're on an 8-game winning streak.
+
+In Week 9, they lose. That ends their streak. But before that loss, they had 8 wins in a row from Weeks 1 through 8.
+
+Wait, let me recount: From Week 1 to Week 8, all are wins except for Week 0. Wait no, looking back:
+
+Wait, the table starts with Week 0 as the first week? Or is it that the weeks start at 1?
+
+Looking again: The first row has Week 1 on September 18, so likely Weeks 1 through 14.
+
+So from Week 1 (September 18) to Week 8 (November 6), all are wins. That's 8 consecutive wins.
+
+But wait in the table:
+
+Row 0 is labeled as Week 1? Or maybe it's a header issue. Alternatively, perhaps the weeks are numbered correctly with Week 1 being September 18, so their first game is Week 1.
+
+So from Week 1 to Week 8, all are wins except for one loss in between?
+
+Wait no, looking at each row:
+
+Row 0: Week 1 → Win
+Row 1: Week 2 → Win
+...
+Up to Row 7: Week 8 → Win (so that's 8 straight wins from Week 1 to Week 8).
+
+Then Row 8 is Week 9: Loss. So the streak ends at 8.
+
+But wait, I need to make sure if there are any other winning streaks later in the season that might be longer than 8.
+
+Looking further:
+
+After Week 9 (Loss), they have Week 10: Win
+Week 11: Win
+Week 12: Win
+Week 13: Win
+Week 14: Win
+
+So from Week 10 to Week 14, that's 5 wins in a row. But that's less than the earlier streak of 8.
+
+Therefore, the longest consecutive win streak is 8 games.
+</think>
+
+The Dallas Cowboys had their longest winning streak of 8 consecutive games during the 1977 season.
+
+Final Answer: 8
+===================Answer===================
+8

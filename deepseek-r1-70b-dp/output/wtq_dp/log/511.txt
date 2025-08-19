@@ -1,0 +1,66 @@
+===================Title===================
+AC Transit
+===================Table===================
+|    |   Year | Manufacturer   | Model               | Length (feet)    |   Quantity | Fleet Series          | Fuel Propulsion        | Powertrain                                |
+|---:|-------:|:---------------|:--------------------|:-----------------|-----------:|:----------------------|:-----------------------|:------------------------------------------|
+|  0 |   1996 | New Flyer      | D60                 | 60 (articulated) |         30 | 1901-1930*            | Diesel                 | Detroit Diesel Series 50\nAllison B400R   |
+|  1 |   1998 | NABI           | 416                 | 40               |        133 | 3001-3067, 3101-3166* | Diesel                 | Cummins M11E\nAllison B400R               |
+|  2 |   1999 | NABI           | 40-LFW              | 40               |         44 | 4001-4044             | Diesel                 | nan                                       |
+|  3 |   2000 | NABI           | 40-LFW              | 40               |         23 | 7201-7223             | Diesel                 | Cummins ISM\nAllison B400R                |
+|  4 |   2000 | MCI            | D4500               | 45               |         30 | 6001-6030             | Diesel                 | nan                                       |
+|  5 |   2001 | MCI            | D4500               | 45               |         10 | 6031-6040             | Diesel                 | nan                                       |
+|  6 |   2003 | MCI            | D4500               | 45               |         39 | 6041-6079             | Diesel                 | nan                                       |
+|  7 |   2003 | NABI           | 40-LFW              | 40               |         46 | 4051-4090             | Diesel                 | Cummins ISL\nAllison B400R                |
+|  8 |   2003 | Van Hool       | A330                | 40               |        110 | 1001-1110             | Diesel                 | Cummins ISM\nVoith D864.3E                |
+|  9 |   2003 | Van Hool       | AG300               | 60               |         57 | 2001-2057             | Diesel                 | Cummins ISM\nVoith D864.3E                |
+| 10 |   2005 | Van Hool       | A300FC              | 40               |          3 | FC1-FC3               | Hydrogen               | nan                                       |
+| 11 |   2006 | Van Hool       | A300K               | 30               |         50 | 5001-5050             | Diesel                 | Cummins ISB\nVoith D864.3E                |
+| 12 |   2007 | Van Hool       | AG300               | 60               |         10 | 2101-2110             | Diesel                 | Cummins ISL\nVoith D864.3E                |
+| 13 |   2007 | Van Hool       | AG300               | 60               |         15 | 2151-2165             | Diesel                 | Cummins ISM\nVoith D864.3E                |
+| 14 |   2008 | Van Hool       | A300L               | 40               |         27 | 1201-1227             | Diesel                 | Cummins ISL\nVoith D864.5                 |
+| 15 |   2008 | Van Hool       | A300K               | 30               |          1 | 5099                  | Diesel-electric hybrid | nan                                       |
+| 16 |   2008 | Van Hool       | A300K               | 30               |         39 | 5101-5139             | Diesel                 | Cummins ISB\nVoith D854.5                 |
+| 17 |   2010 | Van Hool       | AG300               | 60               |          9 | 2191-2199             | Diesel                 | Cummins ISL\nVoith D864.5                 |
+| 18 |   2010 | Van Hool       | A300L FC            | 40               |         12 | FC4-FC16              | Hydrogen               | nan                                       |
+| 19 |   2013 | Gillig         | Low-floor Advantage | 40               |         65 | 1301-1365             | Diesel                 | Cummins ISL 280 HP \nAllison B400 6-speed |
+| 20 |   2013 | New Flyer      | Xcelsior D60        | 60               |         23 | 2201-2223             | Diesel                 | Cummins ISL 330 HP\nAllison B400 6-speed  |
+| 21 |   2013 | Gillig         | Low-floor Advantage | 40               |         55 | 6101-6155             | Diesel                 | Cummins ISL 280 HP\nAllison B400 6-speed  |
+===================Question===================
+what model has the same quantity as the new flyer d60?
+===================Text===================
+<think>
+Okay, so I need to figure out which models in the AC Transit table have the same quantity as the New Flyer D60. Let me start by locating where the New Flyer D60 is in the table. 
+
+Looking at the table, I see that the first row (index 0) has Manufacturer "New Flyer" and Model "D60". The Quantity for this model is 30. So now I'm looking for other models that also have a quantity of 30.
+
+I'll go through each row one by one to check the Quantity column:
+
+- Row 0: New Flyer D60, Quantity 30 (this is our reference)
+- Row 1: NABI 416, Quantity 133 → Not 30
+- Row 2: NABI 40-LFW, Quantity 44 → No
+- Row 3: NABI 40-LFW, Quantity 23 → No
+- Row 4: MCI D4500, Quantity 30 → Yes, that's another one with quantity 30.
+- Row 5: MCI D4500, Quantity 10 → No
+- Row 6: MCI D4500, Quantity 39 → No
+- Row 7: NABI 40-LFW, Quantity 46 → No
+- Row 8: Van Hool A330, Quantity 110 → No
+- Row 9: Van Hool AG300, Quantity 57 → No
+- Row 10: Van Hool A300FC, Quantity 3 → No
+- Row 11: Van Hool A300K, Quantity 50 → No
+- Row 12: Van Hool AG300, Quantity 10 → No
+- Row 13: Van Hool AG300, Quantity 15 → No
+- Row 14: Van Hool A300L, Quantity 27 → No
+- Row 15: Van Hool A300K, Quantity 1 → No
+- Row 16: Van Hool A300K, Quantity 39 → No
+- Row 17: Van Hool AG300, Quantity 9 → No
+- Row 18: Van Hool A300L FC, Quantity 12 → No
+- Row 19: Gillig Low-floor Advantage, Quantity 65 → No
+- Row 20: New Flyer Xcelsior D60, Quantity 23 → No
+- Row 21: Gillig Low-floor Advantage, Quantity 55 → No
+
+From this check, only row 4 has a quantity of 30. The model there is MCI D4500 with a quantity of 30.
+</think>
+
+Final Answer: MCI D4500
+===================Answer===================
+MCI D4500

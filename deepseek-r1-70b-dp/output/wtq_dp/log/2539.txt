@@ -1,0 +1,62 @@
+===================Title===================
+Bexar County, Texas
+===================Table===================
+|    | Representative        | Party   | Home Town/City   |   District |
+|---:|:----------------------|:--------|:-----------------|-----------:|
+|  0 | Trey Martinez Fischer | D       | San Antonio      |        116 |
+|  1 | Philip Cortez         | D       | San Antonio      |        117 |
+|  2 | Joe Farias            | D       | San Antonio      |        118 |
+|  3 | Roland Gutierrez      | D       | San Antonio      |        119 |
+|  4 | Ruth McClendon        | D       | San Antonio      |        120 |
+|  5 | Joe Straus            | R       | San Antonio      |        121 |
+|  6 | Lyle Larson           | R       | San Antonio      |        122 |
+|  7 | Mike Villarreal       | D       | San Antonio      |        123 |
+|  8 | Jose Menendez         | D       | San Antonio      |        124 |
+|  9 | Justin Rodriguez      | D       | San Antonio      |        125 |
+===================Question===================
+how many representatives are not republican?
+===================Text===================
+<think>
+Okay, so I need to figure out how many representatives in Bexar County, Texas are not Republican based on the provided table. Let me start by looking at each row and noting down the party affiliations.
+
+The table has 10 entries, from index 0 to 9. Each entry lists a representative's name, their party, home town, and district. My focus is on the "Party" column. 
+
+Starting with the first one: Trey Martinez Fischer. His party is listed as D, which I assume stands for Democrat. So that's one non-Republican.
+
+Next up is Philip Cortez, also a D. That adds to two non-Republicans so far.
+
+Joe Farias is next, and again it's D. Now we're at three.
+
+Roland Gutierrez has D as well. That makes four.
+
+Ruth McClendon is another D. So five non-Republican representatives now.
+
+Now the sixth entry: Joe Straus. His party is R, which stands for Republican. So that's one Republican. I'll make a note to exclude him from my count of non-Republicans.
+
+Lyle Larson is listed as R as well. That's two Republicans in total. Since I'm looking for non-Republicans, I won't include these two.
+
+Mike Villarreal is back to D. Adding to the count: six non-Republican representatives.
+
+Jose Menendez has D too. Now seven.
+
+Lastly, Justin Rodriguez is also a D. That brings the total to eight non-Republican representatives.
+
+Wait, let me double-check. From the list:
+
+1. Fischer - D
+2. Cortez - D
+3. Farias - D
+4. Gutierrez - D
+5. McClendon - D
+6. Straus - R (Republican)
+7. Larson - R (Republican)
+8. Villarreal - D
+9. Menendez - D
+10. Rodriguez - D
+
+So out of 10, two are Republicans and eight are Democrats. Therefore, the number of non-Republican representatives is eight.
+</think>
+
+Final Answer: 8
+===================Answer===================
+8

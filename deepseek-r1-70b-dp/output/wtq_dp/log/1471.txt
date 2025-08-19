@@ -1,0 +1,33 @@
+===================Title===================
+2000 Úrvalsdeild
+===================Table===================
+|    |   Pos | Team       |   Played |   Won |   Draw |   Lost |   Goals For |   Goals Against |   Goal Difference |   Points | Notes                 |
+|---:|------:|:-----------|---------:|------:|-------:|-------:|------------:|----------------:|------------------:|---------:|:----------------------|
+|  0 |     1 | KR         |       18 |    11 |      4 |      3 |          27 |              14 |                13 |       37 | UEFA Champions League |
+|  1 |     2 | Fylkir     |       18 |    10 |      5 |      3 |          39 |              16 |                23 |       35 | UEFA Cup              |
+|  2 |     3 | Grindavík |       18 |     8 |      6 |      4 |          25 |              18 |                 7 |       30 | UEFA Cup              |
+|  3 |     4 | ÍBV       |       18 |     8 |      5 |      5 |          29 |              17 |                12 |       29 | Inter-Toto Cup        |
+|  4 |     5 | ÍA        |       18 |     7 |      5 |      6 |          21 |              17 |                 4 |       26 | nan                   |
+|  5 |     6 | Keflavík  |       18 |     4 |      7 |      7 |          21 |              35 |               -14 |       19 | nan                   |
+|  6 |     7 | Breiðablik |       18 |     5 |      3 |     10 |          29 |              35 |                -6 |       18 | nan                   |
+|  7 |     8 | Fram       |       18 |     4 |      5 |      9 |          22 |              33 |               -11 |       17 | nan                   |
+|  8 |     9 | Stjarnan   |       18 |     4 |      5 |      9 |          18 |              31 |               -13 |       17 | Relegated             |
+|  9 |    10 | Leiftur    |       18 |     3 |      7 |      8 |          24 |              39 |               -15 |       16 | Relegated             |
+===================Question===================
+how many goals did kr score?
+===================Text===================
+<think>
+Okay, so I'm looking at this table about the 2000 Úrvalsdeild, which I think is an Icelandic football league. The question is asking how many goals KR scored. 
+
+First, I need to find the row for KR in the table. Scanning through the 'Team' column, I see that the first row has KR. So their data is right there.
+
+Now, looking at the columns, each team's stats are listed. The one we're interested in is "Goals For." That should directly tell us how many goals KR scored throughout the season.
+
+In KR's row, under the "Goals For" column, I see the number 27. So that must be the total goals they scored. Just to double-check, I'll make sure there are no other numbers that could be confused with this. The next columns are "Goals Against," which is 14 for KR, but that's not what we're looking for.
+
+So, putting it all together, KR scored 27 goals in the season.
+</think>
+
+Final Answer: 27
+===================Answer===================
+27

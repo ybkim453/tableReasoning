@@ -1,0 +1,82 @@
+===================Title===================
+2002–03 FA Cup
+===================Table===================
+|    | Tie no   | Home team               | Score   | Away team            | Date            | Attendance   |
+|---:|:---------|:------------------------|:--------|:---------------------|:----------------|:-------------|
+|  0 | 1        | Rochdale                | 2 – 0   | Coventry City        | 25 January 2003 | nan          |
+|  1 | 2        | Southampton             | 1 – 1   | Millwall             | 25 January 2003 | 23,809       |
+|  2 | Replay   | Millwall                | 1 – 2   | Southampton          | 5 February 2003 | 10,197       |
+|  3 | 3        | Watford                 | 1 – 0   | West Bromwich Albion | 25 January 2003 | 16,975       |
+|  4 | 4        | Walsall                 | 2 – 0   | Wimbledon            | 25 January 2003 | 6,693        |
+|  5 | 5        | Gillingham              | 1 – 1   | Leeds United         | 25 January 2003 | 11,093       |
+|  6 | Replay   | Leeds United            | 2 – 1   | Gillingham           | 4 February 2003 | 29,359       |
+|  7 | 6        | Blackburn Rovers        | 3 – 3   | Sunderland           | 25 January 2003 | 14,315       |
+|  8 | Replay   | Sunderland              | 2 – 2   | Blackburn Rovers     | 5 February 2003 | 15,745       |
+|  9 | 7        | Wolverhampton Wanderers | 4 – 1   | Leicester City       | 25 January 2003 | 28,164       |
+| 10 | 8        | Shrewsbury Town         | 0 – 4   | Chelsea              | 26 January 2003 | 7,950        |
+| 11 | 9        | Sheffield United        | 4 – 3   | Ipswich Town         | 25 January 2003 | 12,757       |
+| 12 | 10       | Fulham                  | 3 – 0   | Charlton Athletic    | 26 January 2003 | 12,203       |
+| 13 | 11       | Brentford               | 0 – 3   | Burnley              | 25 January 2003 | 9,563        |
+| 14 | 12       | Manchester United       | 6 – 0   | West Ham United      | 26 January 2003 | 67,181       |
+| 15 | 13       | Norwich City            | 1 – 0   | Dagenham & Redbridge | 25 January 2003 | 21,164       |
+| 16 | 14       | Crystal Palace          | 0 – 0   | Liverpool            | 26 January 2003 | 26,054       |
+| 17 | Replay   | Liverpool               | 0 – 2   | Crystal Palace       | 5 February 2003 | 35,109       |
+| 18 | 15       | Farnborough Town        | 1 – 5   | Arsenal              | 25 January 2003 | 35,108       |
+| 19 | 16       | Stoke City              | 3 – 0   | Bournemouth          | 26 January 2003 | 12,004       |
+===================Question===================
+how many replay games took place?
+===================Text===================
+<think>
+Okay, I need to figure out how many replay games took place in the 2002–03 FA Cup based on the provided table. Let's look at the table and see which entries indicate replays.
+
+First, I'll go through each row of the table one by one. The columns are Tie no, Home team, Score, Away team, Date, Attendance. Specifically, I'm interested in the "Tie no" column because that seems to indicate whether a game is a replay or not.
+
+Looking at Tie no:
+- Row 0: Tie no is '1' – this doesn't mention a replay.
+- Row 1: Tie no '2' – not a replay.
+- Row 2: Tie no 'Replay' – so this is definitely a replay game.
+- Row 3: Tie no '3' – normal tie, not a replay.
+- Row 4: Tie no '4' – not a replay.
+- Row 5: Tie no '5' – not a replay. But wait, I should check if the home and away teams are swapped compared to their first game because sometimes replays might list the same match from the other team's perspective.
+- Wait, maybe I'm overcomplicating it. The Tie no itself is labeled as 'Replay', so that's clear.
+
+Continuing:
+- Row 5: Tie no '5' – not a replay on this row, but looking ahead, there might be a replay later. Let me check further rows.
+- Row 6: Tie no 'Replay' again for Leeds United vs Gillingham. So that's another replay.
+- Then, Rows 7 and 8: Row 7 has Tie no '6', and Row 8 is 'Replay'. That's a third replay.
+- Rows beyond that don't have any more 'Replay' entries in the Tie no column.
+
+So counting each time 'Replay' appears as Tie no:
+1. Millwall vs Southampton (Row 2)
+2. Leeds United vs Gillingham (Row 6)
+3. Sunderland vs Blackburn Rovers (Row 8)
+4. Liverpool vs Crystal Palace (Row 17)
+
+Wait, Row 16 is Tie no '15', and then Row 17 is a Replay for that tie. So actually, I think I missed one earlier.
+
+Looking back:
+- After Row 14 (Manchester United), the next rows are 15: Norwich City, 16: Crystal Palace vs Liverpool, and then 17: Replay of that. So that's a fourth replay.
+
+Wait no, let me recount:
+
+Rows with 'Replay' in Tie no are:
+Row 2: Millwall vs Southampton
+Row 6: Leeds United vs Gillingham
+Row 8: Sunderland vs Blackburn Rovers
+Row 17: Liverpool vs Crystal Palace
+
+So that's four replays.
+
+But wait, looking at the table, Row numbers go from 0 to 19. Let me list all rows where Tie no is 'Replay':
+
+- Index 2 (3rd row): Replay between Millwall and Southampton.
+- Index 6 (7th row): Replay between Leeds United and Gillingham.
+- Index 8 (9th row): Replay between Sunderland and Blackburn Rovers.
+- Index 17 (18th row): Replay between Liverpool and Crystal Palace.
+
+So that's four replays in total. Each of these rows has 'Replay' as the Tie no, indicating they were replayed matches from earlier ties where the initial game was a draw, leading to a second match to determine the winner.
+</think>
+
+Final Answer: 4
+===================Answer===================
+4

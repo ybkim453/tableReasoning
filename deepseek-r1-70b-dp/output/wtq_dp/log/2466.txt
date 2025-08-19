@@ -1,0 +1,52 @@
+===================Title===================
+List of international cricket centuries at Eden Gardens
+===================Table===================
+|    |   No. | Score   | Player             | Team         |   Balls |   Inns. | Opposing team   | Date             | Result   |
+|---:|------:|:--------|:-------------------|:-------------|--------:|--------:|:----------------|:-----------------|:---------|
+|  0 |     1 | 123     | Kris Srikkanth     | India        |     103 |       1 | Pakistan        | 18 February 1987 | Lost     |
+|  1 |     2 | 107*    | Desmond Haynes     | West Indies  |     137 |       1 | Pakistan        | 1 November 1989  | Lost     |
+|  2 |     3 | 100*    | Sachin Tendulkar   | India        |     103 |       2 | Kenya           | 31 May 1998      | Won      |
+|  3 |     4 | 121     | Marcus Trescothick | England      |     109 |       2 | India           | 19 January 2002  | Lost     |
+|  4 |     5 | 108*    | Salman Butt        | Pakistan     |     130 |       2 | India           | 13 November 2004 | Won      |
+|  5 |     6 | 134*    | Graeme Smith       | South Africa |     124 |       2 | India           | 25 November 2005 | Won      |
+|  6 |     7 | 118     | Upul Tharanga      | Sri Lanka    |     128 |       1 | India           | 24 December 2009 | Lost     |
+|  7 |     8 | 150*    | Gautam Gambhir     | India        |     137 |       2 | Sri Lanka       | 24 December 2009 | Won      |
+|  8 |     9 | 107     | Virat Kohli        | India        |     114 |       2 | Sri Lanka       | 24 December 2009 | Won      |
+|  9 |    10 | 106     | Ryan ten Doeschate | Netherlands  |     108 |       1 | Ireland         | 18 March 2011    | Lost     |
+| 10 |    11 | 101     | Paul Stirling      | Ireland      |      72 |       2 | Netherlands     | 18 March 2011    | Won      |
+| 11 |    12 | 106     | Nasir Jamshed      | Pakistan     |     124 |       1 | India           | 3 January 2013   | Won      |
+===================Question===================
+during which day was the most points scored in a single match-up?
+===================Text===================
+<think>
+Okay, let's try to figure out during which day the most points were scored in a single match-up based on the given table. 
+
+First, I need to understand what each column represents. The "Score" column shows the runs made by each player, right? So, for each match, two teams play against each other, and both can have scores. But wait, this table seems to list individual centuries, so each row is a century scored by a player in a particular match.
+
+I think I need to group the data by the date of the match because the question is about the most points (runs) scored on a single day across all players in both teams for that match. So, let's go through each entry and sum up the runs for each date where multiple centuries were scored.
+
+Looking at the table:
+
+1. 18 February 1987: Only one century by Kris Srikkanth with 123 runs.
+2. 1 November 1989: Desmond Haynes made 107* (which I assume means not out), so only one century here, total 107.
+3. 31 May 1998: Sachin Tendulkar scored 100*, so just 100 here.
+4. 19 January 2002: Marcus Trescothick with 121 runs.
+5. 13 November 2004: Salman Butt made 108*.
+6. 25 November 2005: Graeme Smith scored 134*.
+7. 24 December 2009: Here, Upul Tharanga (118), Gautam Gambhir (150*), and Virat Kohli (107) all scored centuries. So total runs from centuries on this day would be 118 + 150 + 107 = 375.
+8. 18 March 2011: Ryan ten Doeschate with 106 and Paul Stirling with 101, so that's 106 + 101 = 207.
+9. 3 January 2013: Nasir Jamshed scored 106.
+
+Wait a minute, the date 24 December 2009 has three centuries adding up to 375 runs. That seems like the highest total I've found in this table. Let me double-check if any other dates have more than one century and sum them:
+
+- On 18 March 2011, two players scored centuries: 106 + 101 = 207.
+- The rest of the dates only have one century each.
+
+So, yes, 24 December 2009 has the highest total with 375 runs from three centuries. Therefore, that must be the day when the most points were scored in a single match-up.
+</think>
+
+The day during which the most points were scored in a single match-up is 24 December 2009.
+
+Final Answer: 24 December 2009
+===================Answer===================
+24 December 2009

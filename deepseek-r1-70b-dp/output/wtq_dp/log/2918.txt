@@ -1,0 +1,57 @@
+===================Title===================
+Tommy Moe
+===================Table===================
+|    |   Season | Date        | Location             | Discipline   | Place   |
+|---:|---------:|:------------|:---------------------|:-------------|:--------|
+|  0 |     1993 | 27 Feb 1993 | Whistler, BC, Canada | Downhill     | 2nd     |
+|  1 |     1994 | 12 Dec 1993 | Val-d'Isère, France | Super G      | 3rd     |
+|  2 |     1994 | 29 Dec 1993 | Bormio, Italy        | Downhill     | 3rd     |
+|  3 |     1994 | 12 Mar 1994 | Whistler, BC, Canada | Downhill     | 3rd     |
+|  4 |     1994 | 13 Mar 1994 | Whistler, BC, Canada | Super G      | 1st     |
+|  5 |     1994 | 16 Mar 1994 | Vail, CO, USA        | Downhill     | 3rd     |
+|  6 |     1995 | 11 Dec 1994 | Tignes, France       | Super G      | 2nd     |
+===================Question===================
+how many times does downhill appear as the discipline?
+===================Text===================
+<think>
+Okay, so I need to figure out how many times "Downhill" appears as the discipline in Tommy Moe's table. Let me look at each row one by one.
+
+Starting from the top:
+
+- The first row (Season 1993) has Downhill and Place is 2nd.
+- Next row (Season 1994, Dec 12) is Super G, so that's not it.
+- Then, Season 1994 again on Dec 29 with Downhill, place 3rd. That's the second time.
+- Next entry in March '94 at Whistler has Downhill again, placing 3rd. So third occurrence.
+- The following row is Super G, so skip that.
+- Then there's Vail, CO in Mar '94 with Downhill, placing 3rd. Fourth time.
+  
+Wait, I should double-check to make sure I didn't miss any.
+
+Looking through all the rows again:
+
+Row 0: Downhill
+Row 1: Super G
+Row 2: Downhill
+Row 3: Downhill
+Row 4: Super G
+Row 5: Downhill
+Row 6: Super G
+
+So that's five Downhills? Wait, no, because Rows 0,2,3,5 are Downhill. That makes four times.
+
+Wait a second, in my initial count I thought it was five, but now recounting shows four. Let me make sure:
+
+- Row 0: 1993 - Downhill
+- Row 1: 1994 Super G
+- Row 2: 1994 Downhill
+- Row 3: 1994 Downhill
+- Row 4: 1994 Super G
+- Row5:1994 Downhill (in Vail)
+- Row6:1995 Super G
+
+So total of four Downhills.
+</think>
+
+Final Answer: 4
+===================Answer===================
+4

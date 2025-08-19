@@ -1,0 +1,37 @@
+===================Title===================
+2005 East Asian Games
+===================Table===================
+|    | Rank   | Nation               |   Gold |   Silver |   Bronze |   Total |
+|---:|:-------|:---------------------|-------:|---------:|---------:|--------:|
+|  0 | 1      | China (CHN)          |    127 |       63 |       33 |     223 |
+|  1 | 2      | Japan (JPN)          |     46 |       56 |       77 |     179 |
+|  2 | 3      | South Korea (KOR)    |     32 |       48 |       65 |     145 |
+|  3 | 4      | Chinese Taipei (TPE) |     12 |       34 |       26 |      72 |
+|  4 | 5      | Macau (MAC)          |     11 |       16 |       17 |      44 |
+|  5 | 6      | North Korea (PRK)    |      6 |       10 |       20 |      36 |
+|  6 | 7      | Hong Kong (HKG)      |      2 |        2 |        9 |      13 |
+|  7 | 8      | Mongolia (MGL)       |      1 |        1 |        6 |       8 |
+|  8 | 9      | Guam (GUM)           |      0 |        0 |        1 |       1 |
+|  9 | Total  | Total                |    237 |      230 |      254 |     721 |
+===================Question===================
+what number of gold medals were won by south korea?
+===================Text===================
+<think>
+Alright, let's tackle this question step by step. The user has provided a table from the 2005 East Asian Games and is asking how many gold medals South Korea won.
+
+First, I need to understand the structure of the table. It lists various nations along with their medal counts: Gold, Silver, Bronze, and Total. Each row represents a different country, ranked based on their total medal count or perhaps their gold medals.
+
+Looking at the columns, the headers are Rank, Nation, Gold, Silver, Bronze, and Total. The rows start from 0 to 9, with each row representing a nation's performance.
+
+The user is specifically interested in South Korea (KOR) and wants to know how many gold medals they won. So, I should locate South Korea in the table.
+
+Scanning through the Nations column: China, Japan, South Korea... there it is on row 2. The third entry is South Korea (KOR). Now, looking at the Gold column for that row, it shows the number 32.
+
+Wait, let me double-check to make sure I'm reading the correct row. Row 0 is China with 127 golds, row1 Japan with 46, so row2 should be next. Yes, South Korea is third in rank but their gold count is 32.
+
+I think that's pretty straightforward. So the number of gold medals won by South Korea is 32.
+</think>
+
+Final Answer: 32
+===================Answer===================
+32

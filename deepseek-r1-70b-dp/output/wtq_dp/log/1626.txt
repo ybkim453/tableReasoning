@@ -1,0 +1,172 @@
+===================Title===================
+Olympic Oath
+===================Table===================
+|    | Olympics             | Athlete                                             | Judge (Official)       | Coach              | Language                             |
+|---:|:---------------------|:----------------------------------------------------|:-----------------------|:-------------------|:-------------------------------------|
+|  0 | 1920 Summer Olympics | Victor Boin                                         | -                      | -                  | -                                    |
+|  1 | 1924 Winter Olympics | Camille Mandrillon                                  | -                      | -                  | -                                    |
+|  2 | 1924 Summer Olympics | Géo André                                         | -                      | -                  | French.                              |
+|  3 | 1928 Winter Olympics | Hans Eidenbenz                                      | -                      | -                  | -                                    |
+|  4 | 1928 Summer Olympics | Harry Dénis                                        | -                      | -                  | -                                    |
+|  5 | 1932 Winter Olympics | Jack Shea                                           | -                      | -                  | -                                    |
+|  6 | 1932 Summer Olympics | George Calnan                                       | -                      | -                  | English                              |
+|  7 | 1936 Winter Olympics | Willy Bogner, Sr.                                   | -                      | -                  | -                                    |
+|  8 | 1936 Summer Olympics | Rudolf Ismayr                                       | -                      | -                  | -                                    |
+|  9 | 1948 Winter Olympics | Bibi Torriani                                       | -                      | -                  | -                                    |
+| 10 | 1948 Summer Olympics | Donald Finlay                                       | -                      | -                  | English                              |
+| 11 | 1952 Winter Olympics | Torbjørn Falkanger                                  | -                      | -                  | -                                    |
+| 12 | 1952 Summer Olympics | Heikki Savolainen                                   | -                      | -                  | -                                    |
+| 13 | 1956 Winter Olympics | Giuliana Minuzzo                                    | -                      | -                  | -                                    |
+| 14 | 1956 Summer Olympics | John Landy (Melbourne)\nHenri Saint Cyr (Stockholm) | -                      | -                  | English/Swedish                      |
+| 15 | 1960 Winter Olympics | Carol Heiss                                         | -                      | -                  | -                                    |
+| 16 | 1960 Summer Olympics | Adolfo Consolini                                    | -                      | -                  | -                                    |
+| 17 | 1964 Winter Olympics | Paul Aste                                           | -                      | -                  | German                               |
+| 18 | 1964 Summer Olympics | Takashi Ono                                         | -                      | -                  | Japanese                             |
+| 19 | 1968 Winter Olympics | Léo Lacroix                                        | -                      | -                  | French                               |
+| 20 | 1968 Summer Olympics | Pablo Garrido                                       | -                      | -                  | Spanish                              |
+| 21 | 1972 Winter Olympics | Keiichi Suzuki                                      | Fumio Asaki            | -                  | Japanese                             |
+| 22 | 1972 Summer Olympics | Heidi Schüller                                     | Heinz Pollay           | -                  | German                               |
+| 23 | 1976 Winter Olympics | Werner Delle Karth                                  | Willy Köstinger       | -                  | German                               |
+| 24 | 1976 Summer Olympics | Pierre St.-Jean                                     | Maurice Fauget         | -                  | French (St.-Jean)/English (Fauget)   |
+| 25 | 1980 Winter Olympics | Eric Heiden                                         | Terry McDermott        | -                  | English                              |
+| 26 | 1980 Summer Olympics | Nikolai Andrianov                                   | Alexander Medved       | -                  | Russian                              |
+| 27 | 1984 Winter Olympics | Bojan Križaj                                       | Dragan Perovic         | -                  | Serbo-Croatian                       |
+| 28 | 1984 Summer Olympics | Edwin Moses                                         | Sharon Weber           | -                  | English                              |
+| 29 | 1988 Winter Olympics | Pierre Harvey                                       | Suzanna Morrow-Francis | -                  | English                              |
+| 30 | 1988 Summer Olympics | Hur Jae\nShon Mi-Na                                 | Lee Hak-Rae            | -                  | Korean                               |
+| 31 | 1992 Winter Olympics | Surya Bonaly                                        | Pierre Bornat          | -                  | French                               |
+| 32 | 1992 Summer Olympics | Luis Doreste Blanco                                 | Eugeni Asensio         | -                  | Spanish/Catalan                      |
+| 33 | 1994 Winter Olympics | Vegard Ulvang                                       | Kari Kåring           | -                  | English (Ulvang)/Norwegian (Kåring) |
+| 34 | 1996 Summer Olympics | Teresa Edwards                                      | Hobie Billingsley      | -                  | English                              |
+| 35 | 1998 Winter Olympics | Kenji Ogiwara                                       | Junko Hiramatsu        | -                  | Japanese                             |
+| 36 | 2000 Summer Olympics | Rechelle Hawkes                                     | Peter Kerr             | -                  | English                              |
+| 37 | 2002 Winter Olympics | Jimmy Shea                                          | Allen Church           | -                  | English                              |
+| 38 | 2004 Summer Olympics | Zoi Dimoschaki                                      | Lazaros Voreadis       | -                  | Greek                                |
+| 39 | 2006 Winter Olympics | Giorgio Rocca                                       | Fabio Bianchetti       | -                  | Italian                              |
+| 40 | 2008 Summer Olympics | Zhang Yining                                        | Huang Liping           | -                  | Chinese                              |
+| 41 | 2010 Winter Olympics | Hayley Wickenheiser                                 | Michel Verrault        | -                  | English/French                       |
+| 42 | 2012 Summer Olympics | Sarah Stevenson                                     | Mik Basi               | Eric Farrell       | English                              |
+| 43 | 2014 Winter Olympics | Ruslan Zakharov                                     | Vyacheslav Vedenin, Jr | Anastassia Popkova | Russian                              |
+===================Question===================
+what is the total number of times that japanese was used as the language?
+===================Text===================
+<think>
+Okay, let me try to figure out how many times Japanese was used as the language in the Olympic Oath table provided. I'll start by scanning through each row of the table and looking at the "Language" column for mentions of Japanese.
+
+Starting from the top:
+
+- Row 0: Language is "-", so nothing here.
+- Row 1: Also "-".
+- Row 2: French.
+- Row 3: "-".
+- Row 4: "-".
+- Row 5: "-".
+- Row 6: English.
+- Rows 7 to 10: All have "-" or English.
+- Row 11 to 13: "-".
+- Row 14: English/Swedish.
+- Rows 15-16: "-".
+- Row 17: German.
+- Row 18: Japanese. That's one.
+- Then, rows 19 and 20 are French and Spanish respectively.
+- Rows 21: Japanese again, so that's two.
+- Row 22: German.
+- Rows 23-24: German and mixed languages.
+- Row 25: English.
+- Rows 26-27: Russian and Serbo-Croatian.
+- Rows 28-29: English.
+- Row 30: Korean. So not Japanese yet.
+- Rows 31-32: French, Spanish/Catalan.
+- Row 33: Mixed English/Norwegian.
+- Rows 34: English.
+- Row 35: Japanese again, that's three now.
+- Rows 36-37: English.
+- Row 38: Greek.
+- Row 39: Italian.
+- Row 40: Chinese. So four times.
+- Rows 41-43: Mixed languages but not Japanese.
+
+Wait, let me count each occurrence:
+
+Looking back:
+
+- Row 18 (1964 Summer): Japanese
+- Row 21 (1972 Winter): Japanese
+- Row 35 (1998 Winter): Japanese
+- Row 40 (2008 Summer): Chinese? Wait no, row 40's language is Chinese. Did I miscount earlier?
+
+Wait no, maybe I made a mistake in counting.
+
+Looking again:
+
+Row 18: Japanese
+Row 21: Japanese
+Row 35: Japanese
+Also, row 42 has English, so that's not it.
+
+Wait, let me list them all properly.
+
+Going through each row carefully:
+
+- Row 0 to 17: Only row 18 is Japanese.
+- Then rows 19-20: French and Spanish.
+- Rows 21: Japanese (second occurrence).
+- Rows 22-34: No Japanese mentioned except in row 35.
+- Row 35: Japanese (third occurrence).
+Wait, but looking at the table data, I think I might have missed some.
+
+Let me go through each row one by one:
+
+Row 0: Language "-"
+1: "-"
+2: French
+3: "-"
+4: "-"
+5: "-"
+6: English
+7: "-"
+8: "-"
+9: "-"
+10: English
+11: "-"
+12: "-"
+13: "-"
+14: English/Swedish
+15: "-"
+16: "-"
+17: German
+18: Japanese (1)
+19: French
+20: Spanish
+21: Japanese (2)
+22: German
+23: German
+24: Mixed
+25: English
+26: Russian
+27: Serbo-Croatian
+28: English
+29: English
+30: Korean
+31: French
+32: Spanish/Catalan
+33: Mixed
+34: English
+35: Japanese (3)
+36: English
+37: English
+38: Greek
+39: Italian
+40: Chinese
+41: English/French
+42: English
+43: Russian
+
+Wait, so rows 18,21,35 have Japanese. That's three times.
+
+But earlier I thought row 40 was Japanese but it's actually Chinese. So total is three instances where Japanese was used.
+</think>
+
+Final Answer: 3
+===================Answer===================
+3

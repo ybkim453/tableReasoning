@@ -1,0 +1,74 @@
+===================Title===================
+Charles Henderson High School
+===================Table===================
+|    |   Year |   Team Record\nW |   Team Record\nL | Playoffs                |
+|---:|-------:|-----------------:|-----------------:|:------------------------|
+|  0 |   2001 |                7 |                2 | 3rd Qualifier, Region 2 |
+|  1 |   2002 |                8 |                1 | 2nd Qualifier, Region 2 |
+|  2 |   2003 |                8 |                1 | 2nd Qualifier, Region 2 |
+|  3 |   2004 |                7 |                2 | 2nd Qualifier, Region 2 |
+|  4 |   2005 |                3 |                5 | Did Not Make Playoffs   |
+|  5 |   2006 |                5 |                4 | 4th Qualifier, Region 2 |
+|  6 |   2007 |               13 |                1 | 1st Qualifier, Region 2 |
+|  7 |   2008 |                7 |                4 | 2nd Qualifier, Region 2 |
+|  8 |   2009 |                5 |                5 | Did Not Make Playoffs   |
+|  9 |   2010 |                5 |                5 | Did Not Make Playoffs   |
+===================Question===================
+how many years did they make the playoffs?
+===================Text===================
+<think>
+Okay, so I need to figure out how many years Charles Henderson High School made the playoffs based on the provided table. Let me go through this step by step.
+
+First, looking at the table headers: Year, Team Record W, Team Record L, and Playoffs. The "Playoffs" column seems to indicate whether they made the playoffs each year and their qualifier status.
+
+I'll scan through each row from 2001 to 2010. For each year, I need to check if the Playoffs entry says something other than "Did Not Make Playoffs". If it does, that means they made the playoffs that year.
+
+Starting with 2001: They were the 3rd Qualifier in Region 2. So, yes, they made the playoffs.
+
+2002: 2nd Qualifier, same region. Made playoffs.
+
+2003: Also 2nd Qualifier. Playoffs again.
+
+2004: Same as previous years, 2nd Qualifier. They're in.
+
+2005: The entry says "Did Not Make Playoffs". So they didn't make it this year.
+
+2006: 4th Qualifier. That means they made the playoffs.
+
+2007: 1st Qualifier. Definitely made it.
+
+2008: Back to 2nd Qualifier. Playoffs.
+
+2009 and 2010 both say "Did Not Make Playoffs". So those two years they didn't qualify.
+
+Now, let me count the years they did make it:
+
+- 2001
+- 2002
+- 2003
+- 2004
+- 2006
+- 2007
+- 2008
+
+That's a total of 7 years. Wait, did I miss any? Let me double-check each row to ensure I didn't overlook anything.
+
+Looking again:
+
+Year 2001: Yes.
+2002: Yes.
+2003: Yes.
+2004: Yes.
+2005: No.
+2006: Yes.
+2007: Yes.
+2008: Yes.
+2009: No.
+2010: No.
+
+So that's indeed 7 years where they made the playoffs. I think that's correct.
+</think>
+
+Final Answer: 7
+===================Answer===================
+7

@@ -1,0 +1,43 @@
+===================Title===================
+Swimming at the 2005 Mediterranean Games
+===================Table===================
+|    | Rank   | Nation   |   Gold |   Silver |   Bronze |   Total |
+|---:|:-------|:---------|-------:|---------:|---------:|--------:|
+|  0 | 1      | France   |     14 |        7 |        7 |      28 |
+|  1 | 2      | Italy    |     12 |        8 |       10 |      30 |
+|  2 | 3      | Slovenia |      5 |        4 |        3 |      12 |
+|  3 | 4      | Spain    |      4 |       14 |        6 |      24 |
+|  4 | 5      | Greece   |      3 |        4 |        9 |      16 |
+|  5 | 6      | Tunisia  |      3 |        0 |        0 |       3 |
+|  6 | 7      | Algeria  |      2 |        0 |        2 |       4 |
+|  7 | 8      | Croatia  |      0 |        3 |        3 |       6 |
+|  8 | 9      | Egypt    |      0 |        1 |        2 |       3 |
+|  9 | Total  | Total    |     43 |       41 |       42 |     126 |
+===================Question===================
+what is the average number of gold medals won?
+===================Text===================
+<think>
+Okay, so I need to figure out the average number of gold medals won based on the given table about swimming at the 2005 Mediterranean Games. Let me start by understanding what's in the table.
+
+Looking at the table, there are multiple countries listed with their rankings and the number of gold, silver, and bronze medals they've won. The last row is for the total medals, which shows that overall, there were 43 gold medals awarded across all participating nations.
+
+Wait, the question is asking for the average number of gold medals per country. So first, I should determine how many countries are there in the table. Let me count the rows: France, Italy, Slovenia, Spain, Greece, Tunisia, Algeria, Croatia, Egypt, and then Total. That makes 9 countries plus the Total row. But since the Total row isn't a country, we have 9 countries in total.
+
+So each of these 9 countries has some number of gold medals. To find the average, I need to add up all their gold medals and then divide by the number of countries. Alternatively, since the Total row already gives me the overall number of gold medals (43), I can just divide that by the number of countries.
+
+Wait a second, but let's make sure. The total gold medals are 43, as per the last row under Gold. And there are 9 countries listed before the Total row. So if I take 43 and divide it by 9, that should give me the average number of gold medals won per country.
+
+Let me do the calculation: 43 divided by 9 equals approximately 4.777..., which is about 4.78 when rounded to two decimal places. But since we're dealing with whole medals, maybe I can represent it as a fraction or round it appropriately.
+
+Wait, but the question just asks for the average number, so I don't think it needs to be an integer necessarily. So the exact average would be 43/9, which is about 4.777...
+
+But let me double-check my approach. The total gold medals are indeed 43, and there are 9 countries. Yes, that's correct because each country's gold medals are listed with their respective counts, from France down to Egypt.
+
+So yes, the average would be 43 divided by 9, which is approximately 4.78. Since the question doesn't specify rounding, I can present it as a precise fraction or a decimal. But since averages often have decimals, I'll go with that.
+</think>
+
+The total number of gold medals is 43, and there are 9 countries. The average is calculated by dividing the total gold medals by the number of countries.
+
+Final Answer: 4.78
+===================Answer===================
+4.7

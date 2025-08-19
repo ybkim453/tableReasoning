@@ -1,0 +1,61 @@
+===================Title===================
+Omar Juma Al-Salfa
+===================Table===================
+|    |   Year | Competition                | Venue              | Position   | Event   | Notes      |
+|---:|-------:|:---------------------------|:-------------------|:-----------|:--------|:-----------|
+|  0 |   2007 | Pan Arab Games             | Cairo, Egypt       | 4th        | 200 m   | 20.94 (NR) |
+|  1 |   2008 | Asian Indoor Championships | Doha, Qatar        | 4th        | 60 m    | 6.81       |
+|  2 |   2008 | World Indoor Championships | Valencia, Spain    | 28th (h)   | 60 m    | 6.88       |
+|  3 |   2008 | World Junior Championships | Bydgoszcz, Poland  | 7th        | 200 m   | 21.10      |
+|  4 |   2008 | Olympic Games              | Beijing, China     | 40th (h)   | 200 m   | 21.00      |
+|  5 |   2009 | Asian Indoor Games         | Hanoi, Vietnam     | 4th        | 60 m    | 6.72 (NR)  |
+|  6 |   2009 | World Championships        | Berlin, Germany    | 25th (qf)  | 200 m   | 20.97      |
+|  7 |   2009 | Asian Championships        | Guangzhou, China   | 1st        | 200 m   | 21.07      |
+|  8 |   2010 | Asian Games                | Guangzhou, China   | 3rd        | 200 m   | 20.83      |
+|  9 |   2011 | Asian Championships        | Kobe, Jpan         | 3rd        | 200 m   | 20.97      |
+| 10 |   2011 | World Championships        | Daegu, South Korea | 48th (h)   | 200 m   | 21.45      |
+| 11 |   2011 | Pan Arab Games             | Doha, Qatar        | 5th        | 100 m   | 21.59      |
+| 12 |   2011 | Pan Arab Games             | Doha, Qatar        | 3rd        | 4x100 m | 40.15      |
+===================Question===================
+what is the total number of 4th place positions on the list?
+===================Text===================
+<think>
+Alright, let's tackle this problem step by step. The question is asking for the total number of 4th place positions in Omar Juma Al-Salfa's competition history based on the provided table.
+
+First, I'll look at each row to find where the Position column has a value of "4th". 
+
+Starting from the top:
+- Row 0: Position is 4th. That's one.
+- Row 1: Position is also 4th. Now we're up to two.
+- Rows 2 through 12: I'll check each one. None of these rows have a Position of 4th except for row 5, but wait, in row 5, the position is again 4th? Let me confirm.
+
+Wait, no. Looking back at row 5:
+- It shows Position as 4th. So that's actually three instances where he got 4th place.
+
+Hold on, I might have made a mistake earlier. Let me recount each row carefully:
+
+Row 0: 2007 Pan Arab Games - 4th. (1)
+Row 1: 2008 Asian Indoor Championships - 4th. (2)
+Row 5: 2009 Asian Indoor Games - 4th. (3)
+
+Wait, that's three times he placed 4th. But earlier I thought it was two. Did I miss something?
+
+Looking back again:
+- Row 0: 4th
+- Row 1: 4th
+- Row 5: 4th
+
+Yes, that makes three instances where Omar finished in 4th place. So the total number of 4th places is three.
+
+Wait a second, maybe I miscounted earlier. Let me list all positions:
+
+Row 0: 4th → 1
+Row 1: 4th → 2
+Row 5: 4th → 3
+
+No other rows have 4th place beyond these three. Therefore, the total is indeed three.
+</think>
+
+Final Answer: 3
+===================Answer===================
+3

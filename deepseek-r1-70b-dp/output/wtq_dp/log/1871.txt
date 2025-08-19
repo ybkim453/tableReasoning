@@ -1,0 +1,48 @@
+===================Title===================
+Imparja Cup
+===================Table===================
+|    |   Year | State/Territory Men's Division   | State/Territory Women's Division   | Major Centres Division   | Community Division   | Women's Division   |
+|---:|-------:|:---------------------------------|:-----------------------------------|:-------------------------|:---------------------|:-------------------|
+|  0 |   2012 | Queensland                       | New South Wales                    | nan                      | nan                  | nan                |
+|  1 |   2012 | New South Wales                  | New South Wales                    | Darwin                   | Brothers in Arms     | Bush Potatoes      |
+|  2 |   2011 | New South Wales                  | New South Wales                    | Maranoa Murris           | Gap Angels           | Bush Potatoes      |
+|  3 |   2010 | Western Australia                | nan                                | nan                      | nan                  | nan                |
+|  4 |   2009 | Queensland                       | nan                                | Alkupitja                | Tangentyere          | New South Wales    |
+|  5 |   2008 | Queensland                       | nan                                | Katherine                | Cooktown             | New South Wales    |
+|  6 |   2007 | New South Wales                  | nan                                | Alkupitja                | Cat Tigers           | CGA Cougars        |
+|  7 |   2006 | Queensland                       | nan                                | Alice Springs            | Melville Island      | Darwin             |
+|  8 |   2005 | Queensland                       | nan                                | Alice Springs            | Alkupitja            | Darwin             |
+|  9 |   2004 | Queensland                       | nan                                | Alice Springs            | Normanton            | Tennant Creek      |
+| 10 |   2003 | New South Wales                  | nan                                | Darwin                   | nan                  | nan                |
+| 11 |   2002 | Northern Territory               | nan                                | Darwin                   | nan                  | nan                |
+| 12 |   2001 | Tasmania                         | nan                                | nan                      | nan                  | nan                |
+===================Question===================
+how many times were the winner of the state/territory men's division and the winner of the state/territory women's division both from new south wales?
+===================Text===================
+<think>
+Okay, so I need to figure out how many times both the State/Territory Men's Division and Women's Division winners were from New South Wales based on this table. Let me break it down step by step.
+
+First, I should look through each row of the table and check two columns: "State/Territory Men's Division" and "State/Territory Women's Division". For each year, if both of these are "New South Wales", then that counts as one instance.
+
+I see there are 13 entries from 2001 to 2012. I'll go through each one:
+
+- Year 2012: row 0 shows Men's is Queensland and Women's is NSW. So no.
+- Year 2012 (row 1): Men's is NSW, Women's is NSW. That's a yes, count 1.
+- Year 2011: Men's is NSW, Women's is NSW. Count increases to 2.
+- Year 2010: Men's is WA, Women's is nan. So no.
+- Year 2009: Men's is Qld, Women's is nan. No.
+- Year 2008: Men's is Qld, Women's is nan. No.
+- Year 2007: Men's is NSW, Women's is nan. No.
+- Year 2006: Men's is Qld, Women's is nan. No.
+- Year 2005: Men's is Qld, Women's is nan. No.
+- Year 2004: Men's is Qld, Women's is nan. No.
+- Year 2003: Men's is NSW, Women's is nan. No.
+- Year 2002: Men's is NT, Women's is nan. No.
+- Year 2001: Men's is Tasmania, Women's is nan. No.
+
+So only rows 1 and 2 (years 2012 and 2011) have both divisions won by NSW. That makes a total of 2 times.
+</think>
+
+Final Answer: 2
+===================Answer===================
+2

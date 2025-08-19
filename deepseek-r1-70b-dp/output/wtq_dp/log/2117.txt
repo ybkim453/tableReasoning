@@ -1,0 +1,48 @@
+===================Title===================
+Catherine Deneuve
+===================Table===================
+|    |   Year | Award                   | Film                                | Result    |
+|---:|-------:|:------------------------|:------------------------------------|:----------|
+|  0 |   1976 | Best Actress            | Le Sauvage                          | Nominated |
+|  1 |   1981 | Best Actress            | Le Dernier métro                   | Won       |
+|  2 |   1982 | Best Actress            | Hôtel des Amériques               | Nominated |
+|  3 |   1988 | Best Actress            | Agent trouble                       | Nominated |
+|  4 |   1989 | Best Actress            | Drôle d'endroit pour une rencontre | Nominated |
+|  5 |   1993 | Best Actress            | Indochine                           | Won       |
+|  6 |   1994 | Best Actress            | Ma saison préférée               | Nominated |
+|  7 |   1997 | Best Actress            | Les Voleurs                         | Nominated |
+|  8 |   1999 | Best Actress            | Place Vendôme                      | Nominated |
+|  9 |   2006 | Best Supporting Actress | Palais Royal!                       | Nominated |
+| 10 |   2011 | Best Actress            | Potiche                             | Nominated |
+| 11 |   2014 | Best Actress            | On My Way                           | Pending   |
+===================Question===================
+what film was nominated for best supporting actress?
+===================Text===================
+<think>
+Alright, so I need to determine which film was nominated for Best Supporting Actress based on the provided table about Catherine Deneuve's awards and nominations.
+
+First, I'll look at each entry in the table, focusing specifically on the "Award" and "Film" columns. The key here is to find the row where the award category is "Best Supporting Actress."
+
+Looking through each row:
+
+0: Best Actress - Le Sauvage (Nominated)
+1: Best Actress - Le Dernier métro (Won)
+2: Best Actress - Hôtel des Amériques (Nominated)
+3: Best Actress - Agent trouble (Nominated)
+4: Best Actress - Drôle d'endroit pour une rencontre (Nominated)
+5: Best Actress - Indochine (Won)
+6: Best Actress - Ma saison préférée (Nominated)
+7: Best Actress - Les Voleurs (Nominated)
+8: Best Actress - Place Vendôme (Nominated)
+9: Best Supporting Actress - Palais Royal! (Nominated)
+10: Best Actress - Potiche (Nominated)
+11: Best Actress - On My Way (Pending)
+
+From this, the only entry where the award is for "Best Supporting Actress" is row 9. The film listed there is "Palais Royal!".
+
+So, the answer should be the name of that film.
+</think>
+
+Final Answer: Palais Royal!
+===================Answer===================
+Palais Royal!

@@ -1,0 +1,67 @@
+===================Title===================
+Cheltenham Town F.C.
+===================Table===================
+|    | Year      | Kit Manufacturer   | Shirt Sponsor            | Back of Shirt Sponsor   | Short Sponsor        |
+|---:|:----------|:-------------------|:-------------------------|:------------------------|:---------------------|
+|  0 | 1977–1978 | nan                | National Express         | nan                     | nan                  |
+|  1 | 1982–1985 | Umbro              | nan                      | nan                     | nan                  |
+|  2 | 1985–1986 | Umbro              | Whitbread                | nan                     | nan                  |
+|  3 | 1986–1988 | Henson             | Duraflex                 | nan                     | nan                  |
+|  4 | 1988–1989 | nan                | Gulf Oil                 | nan                     | nan                  |
+|  5 | 1991–1993 | Technik            | Gulf Oil                 | nan                     | nan                  |
+|  6 | 1993–1994 | Club Sport         | Gulf Oil                 | nan                     | nan                  |
+|  7 | 1994–1995 | Klūb Sport        | Empress                  | nan                     | nan                  |
+|  8 | 1995–1996 | Matchwinner        | Empress                  | nan                     | nan                  |
+|  9 | 1996–1997 | UK                 | Endsleigh Insurance      | nan                     | nan                  |
+| 10 | 1997–1999 | Errea              | Endsleigh Insurance      | nan                     | nan                  |
+| 11 | 1999–2004 | Errea              | Towergate Insurance      | nan                     | nan                  |
+| 12 | 2004–2008 | Errea              | Bence Building Merchants | nan                     | nan                  |
+| 13 | 2008–     | Errea              | Mira Showers             | nan                     | nan                  |
+| 14 | 2009–2011 | Errea              | Mira Showers             | PSU Technology Group    | nan                  |
+| 15 | 2011–2013 | Errea              | Mira Showers             | Barr Stadia             | Gloucestershire Echo |
+| 16 | 2013–     | Errea              | Mira Showers             | Gloucestershire College | Gloucestershire Echo |
+===================Question===================
+last year to not have a back sponsor?
+===================Text===================
+<think>
+Okay, so I'm looking at this table about Cheltenham Town F.C.'s sponsorship details over the years. The question is asking for the last year that didn't have a back sponsor. Let me break this down step by step.
+
+First, I need to understand what "back of shirt sponsor" means. It refers to a sponsor whose logo appears on the back of the team's shirts. In the table, the column "Back of Shirt Sponsor" is where this information is listed. If it says 'nan', that probably stands for 'not available' or 'no data', meaning there was no sponsor in that position.
+
+So my task is to go through each year and check when the back sponsor was last 'nan'. I'll start from the most recent years and work my way backward because once a sponsor exists, any years after might have one too. But since we're looking for the last year without a sponsor, it would be right before they started having one.
+
+Looking at the table:
+
+- The first entry is 1977–1978 with 'nan' in Back Sponsor.
+- Then from 1982–1985 and several other years, it's also 'nan'.
+- Starting to look for when it stops being 'nan'. 
+
+I see that in row 14 (2009–2011), the back sponsor is listed as "PSU Technology Group". So before that, up until then, were there any instances where Back Sponsor was not 'nan'? Let me check each row:
+
+- Row 0: nan
+- Row 1: nan
+- ...
+- Up to row 13 (2008–), the back sponsor is still 'nan'.
+- Then in row 14 (2009–2011) it's PSU Technology Group.
+- Rows 15 and 16 also have sponsors.
+
+So the last time the Back Sponsor was 'nan' would be right before row 14, which is row 13's year range: 2008–. Wait, but row 13 starts in 2008 and goes on, so does that mean from 2008 onwards they didn't have a back sponsor until 2009? Or perhaps the entry for 2008– is just missing data, but then in 2009 it's filled.
+
+Wait, let me clarify. Row 14 covers 2009–2011 and has a back sponsor. So before that, up to 2008, there was no back sponsor. Therefore, the last year without a back sponsor would be 2008. But wait, does the kit manufacturer change in 2008? No, Errea continues from 2004 onwards.
+
+Alternatively, perhaps the transition happened between 2008 and 2009. So the last season or year without a back sponsor would be up to 2008–2009. Wait, but the table's years are ranges; for example, row 13 is "2008–" which probably means from 2008 onwards until the next change.
+
+But looking again: Row 14 starts in 2009, so the period before that (2008) would have been without a back sponsor. So the last year without a back sponsor would be 2008. But wait, let's check if any of the entries after 2008 have 'nan' again.
+
+Wait no, from row 14 onwards, there's always a back sponsor. So the last time it was 'nan' is in row 13: 2008–, but that might mean that starting from 2008 and beyond until 2009 when they got a sponsor. Or perhaps 2008 is part of the period without.
+
+Alternatively, maybe I should look at the exact years. The entry for 2008– (row 13) has no back sponsor. Then in row 14, starting in 2009, the back sponsor begins. So the last year they didn't have a back sponsor would be the end of 2008 or during the 2008–2009 season.
+
+But since the table shows up to "2008–" as without a back sponsor and then from 2009 onwards with one, the last year without a back sponsor is 2008.
+</think>
+
+To determine the last year Cheltenham Town F.C. did not have a back shirt sponsor, we examine the "Back of Shirt Sponsor" column in the table. The value 'nan' indicates no sponsor. The first occurrence of a back sponsor is in 2009–2011 (row 14). Therefore, the last year without a back sponsor was 2008.
+
+Final Answer: 2008
+===================Answer===================
+2008

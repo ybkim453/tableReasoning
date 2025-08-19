@@ -1,0 +1,66 @@
+===================Title===================
+Montreal Impact (1992–2011)
+===================Table===================
+|    |   Year | MVP                 | Defensive Player of the Year   | Unsung Hero       | Newcomer of the Year               |
+|---:|-------:|:--------------------|:-------------------------------|:------------------|:-----------------------------------|
+|  0 |   1993 | Patrice Ferri       | –                              | –                 | –                                  |
+|  1 |   1994 | Jean Harbor         | –                              | –                 | –                                  |
+|  2 |   1995 | Lloyd Barker        | –                              | –                 | –                                  |
+|  3 |   1996 | Paolo Ceccarelli    | –                              | –                 | –                                  |
+|  4 |   1997 | Mauro Biello        | –                              | –                 | –                                  |
+|  5 |   1998 | Mauro Biello        | –                              | –                 | –                                  |
+|  6 |   1999 | N/A                 | –                              | –                 | –                                  |
+|  7 |   2000 | Jim Larkin          | –                              | –                 | –                                  |
+|  8 |   2001 | Mauro Biello        | –                              | –                 | –                                  |
+|  9 |   2002 | Eduardo Sebrango    | Gabriel Gervais                | Jason DiTullio    | Zé Roberto                        |
+| 10 |   2003 | Greg Sutton         | Gabriel Gervais                | David Fronimadis  | Martin Nash                        |
+| 11 |   2004 | Gabriel Gervais     | Greg Sutton                    | Zé Roberto       | Sandro Grande                      |
+| 12 |   2005 | Mauro Biello        | Nevio Pizzolitto               | Mauricio Vincello | Masahiro Fukazawa                  |
+| 13 |   2006 | Mauricio Vincello   | Gabriel Gervais                | Andrew Weber      | Leonardo Di Lorenzo                |
+| 14 |   2007 | Leonardo Di Lorenzo | Mauricio Vincello              | Simon Gatti       | Matt Jordan                        |
+| 15 |   2008 | Matt Jordan         | Nevio Pizzolitto               | Joey Gjertsen     | Stefano Pesoli                     |
+| 16 |   2009 | David Testo         | Nevio Pizzolitto               | Adam Braz         | Stephen deRoux                     |
+| 17 |   2010 | Philippe Billy      | Philippe Billy                 | Tony Donatelli    | Ali Gerba                          |
+| 18 |   2011 | Hassoun Camara      | Evan Bush                      | Simon Gatti       | Ian Westlake / Sinisa Ubiparipovic |
+===================Question===================
+how many players received the mvp title after earning the newcomer of the year award initially?
+===================Text===================
+<think>
+Alright, so I need to figure out how many players received the MVP title after first earning the Newcomer of the Year award from the given table about Montreal Impact from 1992–2011.
+
+First, let's understand what the question is asking. It wants to know if any player who was once named "Newcomer of the Year" later went on to win the MVP award in a subsequent year. So, I need to track each Newcomer and see if they became MVP in a later year.
+
+Looking at the table columns: each row represents a year from 1993 to 2011. The relevant columns are "MVP" and "Newcomer of the Year".
+
+I'll go through each year's Newcomer, note their name, then check in subsequent years if that player becomes MVP.
+
+Starting with 1993: No Newcomer listed (it's a dash), so nothing to track here.
+
+1994: Similarly, no Newcomer. 1995, same. 1996, same. 1997, same. 1998, same. 1999, "N/A", so skip. 2000, no Newcomer again.
+
+Now, looking at 2001: No Newcomer listed. Then in 2002: the Newcomer is Zé Roberto. Let's see if Ze Roberto ever becomes MVP in later years. Scanning the MVP column from 2003 onwards: 2003 is Greg Sutton, 2004 Gabriel Gervais, 2005 Mauro Biello, 2006 Mauricio Vincello, 2007 Leonardo Di Lorenzo, 2008 Matt Jordan, 2009 David Testo, 2010 Philippe Billy, 2011 Hassoun Camara. Doesn't look like Ze Roberto is MVP in any of those years.
+
+Next, 2003 Newcomer: Martin Nash. Check if he becomes MVP after 2003. MVPs after that are Gabriel Gervais (2004), Mauro Biello (2005), etc., no Martin Nash as MVP.
+
+2004 Newcomer: Sandro Grande. Checking later MVPs: No, so he didn't become MVP afterwards.
+
+2005 Newcomer: Masahiro Fukazawa. Check if he's MVP in 06 or beyond. 2006 is Mauricio Vincello, no.
+
+2006 Newcomer: Leonardo Di Lorenzo. He becomes MVP in 2007? Yes! Because in 2007, the MVP is Leonardo Di Lorenzo. So that's one player who was a Newcomer and then MVP.
+
+2007 Newcomer: Matt Jordan. Then in 2008, the MVP is Matt Jordan. So he also went from Newcomer to MVP the next year. That's two players so far.
+
+2008 Newcomer: Stefano Pesoli. Check if he becomes MVP. In 2009, David Testo; 2010 Philippe Billy; 2011 Hassoun Camara. No, so not MVP after being a newcomer.
+
+2009 Newcomer: Stephen deRoux. Checking later years: no MVP for him.
+
+2010 Newcomer: Ali Gerba. Next year, 2011, the MVP is Hassoun Camara, so no.
+
+2011 Newcomers: Ian Westlake and Sinisa Ubiparipovic. Since it's the last year in the table, we can't look beyond that, but they didn't win MVP in 2011 as MVP was Hassoun Camara.
+
+So, from this analysis, I found two players who were first Newcomer of the Year and then later MVP: Leonardo Di Lorenzo (2006 Newcomer, 2007 MVP) and Matt Jordan (2007 Newcomer, 2008 MVP).
+</think>
+
+Final Answer: Leonardo Di Lorenzo, Matt Jordan
+===================Answer===================
+2

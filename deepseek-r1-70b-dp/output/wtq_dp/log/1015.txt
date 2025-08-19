@@ -1,0 +1,40 @@
+===================Title===================
+World Golf Championships
+===================Table===================
+|    | Golfer         | Country          |   Wins | Match Play          | Championship                                 | Invitational                                       | Champions   |
+|---:|:---------------|:-----------------|-------:|:--------------------|:---------------------------------------------|:---------------------------------------------------|:------------|
+|  0 | Tiger Woods    | United States    |     18 | 3: 2003, 2004, 2008 | 7: 1999, 2002, 2003,\n2005, 2006, 2007, 2013 | 8: 1999, 2000, 2001, 2005,\n2006, 2007, 2009, 2013 | —           |
+|  1 | Geoff Ogilvy   | Australia        |      3 | 2: 2006, 2009       | 1: 2008                                      | —                                                  | —           |
+|  2 | Darren Clarke  | Northern Ireland |      2 | 1: 2000             | —                                            | 1: 2003                                            | —           |
+|  3 | Ernie Els      | South Africa     |      2 | —                   | 2: 2004, 2010                                | —                                                  | —           |
+|  4 | Hunter Mahan   | United States    |      2 | 1: 2012             | —                                            | 1: 2010                                            | —           |
+|  5 | Phil Mickelson | United States    |      2 | —                   | 1: 2009                                      | —                                                  | 1: 2009     |
+|  6 | Ian Poulter    | England          |      2 | 1: 2010             | —                                            | —                                                  | 1: 2012     |
+===================Question===================
+what is the total number of wins listed for the united states?
+===================Text===================
+<think>
+Alright, so I need to figure out the total number of wins listed for the United States based on the provided table about World Golf Championships. Let me break this down step by step.
+
+First, I'll look at each row in the table and identify which golfers are from the United States. Scanning through the "Country" column:
+
+- Tiger Woods is from the United States.
+- Geoff Ogilvy is from Australia.
+- Darren Clarke is from Northern Ireland.
+- Ernie Els is from South Africa.
+- Hunter Mahan is from the United States.
+- Phil Mickelson is from the United States.
+- Ian Poulter is from England.
+
+So, the golfers from the US are Tiger Woods, Hunter Mahan, and Phil Mickelson. Now, I'll look at their respective "Wins" column:
+
+- Tiger Woods has 18 wins.
+- Hunter Mahan has 2 wins.
+- Phil Mickelson has 2 wins.
+
+To find the total number of wins for the United States, I need to add these up: 18 (Tiger) + 2 (Hunter) + 2 (Phil) equals 22. So, the US golfers have a combined total of 22 wins listed in the table.
+</think>
+
+Final Answer: 22
+===================Answer===================
+22

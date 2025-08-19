@@ -1,0 +1,51 @@
+===================Title===================
+Bexar County, Texas
+===================Table===================
+|    | Representative        | Party   | Home Town/City   |   District |
+|---:|:----------------------|:--------|:-----------------|-----------:|
+|  0 | Trey Martinez Fischer | D       | San Antonio      |        116 |
+|  1 | Philip Cortez         | D       | San Antonio      |        117 |
+|  2 | Joe Farias            | D       | San Antonio      |        118 |
+|  3 | Roland Gutierrez      | D       | San Antonio      |        119 |
+|  4 | Ruth McClendon        | D       | San Antonio      |        120 |
+|  5 | Joe Straus            | R       | San Antonio      |        121 |
+|  6 | Lyle Larson           | R       | San Antonio      |        122 |
+|  7 | Mike Villarreal       | D       | San Antonio      |        123 |
+|  8 | Jose Menendez         | D       | San Antonio      |        124 |
+|  9 | Justin Rodriguez      | D       | San Antonio      |        125 |
+===================Question===================
+who is listed before lyle larson?
+===================Text===================
+<think>
+Okay, so I need to figure out who is listed before Lyle Larson in the given table about Bexar County, Texas representatives. Let me start by looking at the table structure.
+
+The table has several columns: an index starting from 0, Representative names, their Party affiliations, Home Town/City, and District numbers. I'm focusing on the Representative column since that's where Lyle Larson is mentioned.
+
+I'll go through each row one by one to find where Lyle Larson is located. Starting at the top:
+
+- Row 0: Trey Martinez Fischer (D)
+- Row 1: Philip Cortez (D)
+- Row 2: Joe Farias (D)
+- Row 3: Roland Gutierrez (D)
+- Row 4: Ruth McClendon (D)
+- Row 5: Joe Straus (R)
+- Row 6: Lyle Larson (R)
+- Then Rows 7,8,9: Mike Villarreal, Jose Menendez, Justin Rodriguez.
+
+So, Lyle Larson is in row 6. The question is asking who comes before him. That means I need to look at all the rows with an index less than 6.
+
+Looking at each representative before row 6:
+
+- Index 0: Trey Martinez Fischer
+- Index 1: Philip Cortez
+- Index 2: Joe Farias
+- Index 3: Roland Gutierrez
+- Index 4: Ruth McClendon
+- Index 5: Joe Straus
+
+All these representatives are listed before Lyle Larson. Therefore, the answer should include all their names in order from top to bottom.
+</think>
+
+Final Answer: Trey Martinez Fischer, Philip Cortez, Joe Farias, Roland Gutierrez, Ruth McClendon, Joe Straus
+===================Answer===================
+Joe Straus

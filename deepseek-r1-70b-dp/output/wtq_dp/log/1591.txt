@@ -1,0 +1,82 @@
+===================Title===================
+2011 BWF World Junior Championships
+===================Table===================
+|    |   Rank | Nation         |   Gold |   Silver |   Bronze |   Total |
+|---:|-------:|:---------------|-------:|---------:|---------:|--------:|
+|  0 |      1 | Malaysia       |      3 |        0 |        1 |       4 |
+|  1 |      2 | Indonesia      |      1 |        3 |        2 |       6 |
+|  2 |      3 | Korea          |      1 |        1 |        2 |       4 |
+|  3 |      4 | Thailand       |      1 |        0 |        0 |       1 |
+|  4 |      5 | Chinese Taipei |      0 |        1 |        2 |       3 |
+|  5 |      6 | Denmark        |      0 |        1 |        0 |       1 |
+|  6 |      7 | Japan          |      0 |        0 |        2 |       2 |
+|  7 |      8 | India          |      0 |        0 |        1 |       1 |
+|  8 |      9 | Spain          |      0 |        0 |        1 |       1 |
+===================Question===================
+how many times has bronze been won total?
+===================Text===================
+<think>
+Alright, so I need to figure out how many times bronze was won in total at the 2011 BWF World Junior Championships based on the table provided. Let's break this down step by step.
+
+First, I'll look at each row of the table because each row represents a different nation and their respective medal counts. The columns are Rank, Nation, Gold, Silver, Bronze, and Total. The key here is to focus on the Bronze column.
+
+Starting from the top:
+
+1. **Malaysia** (Rank 1) has 3 Gold, 0 Silver, and 1 Bronze.
+2. **Indonesia** (Rank 2) has 1 Gold, 3 Silver, and 2 Bronze.
+3. **Korea** (Rank 3) has 1 Gold, 1 Silver, and 2 Bronze.
+4. **Thailand** (Rank 4) has 1 Gold, 0 Silver, and 0 Bronze.
+5. **Chinese Taipei** (Rank 5) has 0 Gold, 1 Silver, and 2 Bronze.
+6. **Denmark** (Rank 6) has 0 Gold, 1 Silver, and 0 Bronze.
+7. **Japan** (Rank 7) has 0 Gold, 0 Silver, and 2 Bronze.
+8. **India** (Rank 8) has 0 Gold, 0 Silver, and 1 Bronze.
+9. **Spain** (Rank 9) has 0 Gold, 0 Silver, and 1 Bronze.
+
+Now, I'll extract the Bronze numbers from each nation:
+
+- Malaysia: 1
+- Indonesia: 2
+- Korea: 2
+- Thailand: 0
+- Chinese Taipei: 2
+- Denmark: 0
+- Japan: 2
+- India: 1
+- Spain: 1
+
+Next, I need to add all these Bronze medals together. Let me write them out:
+
+1 (Malaysia) + 2 (Indonesia) = 3
+
+Then add Korea's 2: 3 + 2 = 5
+
+Thailand didn't contribute any bronze, so it stays at 5.
+
+Chinese Taipei adds another 2: 5 + 2 = 7
+
+Denmark has none, so still 7.
+
+Japan contributes 2 more: 7 + 2 = 9
+
+India adds 1: 9 + 1 = 10
+
+Spain's final addition: 10 + 1 = 11
+
+Wait a second, I think I might have added one too many. Let me recount:
+
+- Malaysia: 1
+- Indonesia: 2 → total so far 3
+- Korea: 2 → total 5
+- Thailand: 0 → remains 5
+- Chinese Taipei: 2 → total 7
+- Denmark: 0 → still 7
+- Japan: 2 → total 9
+- India: 1 → total 10
+- Spain: 1 → total 11
+
+Hmm, that's correct. So the total bronze medals won are 11.
+</think>
+
+Final Answer: 11
+===================Answer===================
+11

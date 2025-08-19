@@ -1,0 +1,96 @@
+===================Title===================
+1989 NHL Entry Draft
+===================Table===================
+|    |   Pick # | Player          | Position   | Nationality    | NHL team              | College/junior/club team                 |
+|---:|---------:|:----------------|:-----------|:---------------|:----------------------|:-----------------------------------------|
+|  0 |      148 | Paul Krake      | Goalie     | Canada         | Quebec Nordiques      | University of Alaska Anchorage (NCAA)    |
+|  1 |      149 | Phil Huber      | Center     | Canada         | New York Islanders    | Kamloops Blazers (WHL)                   |
+|  2 |      150 | Derek Langille  | Defense    | Canada         | Toronto Maple Leafs   | North Bay Centennials (OHL)              |
+|  3 |      151 | Jim Solly       | Left Wing  | Canada         | Winnipeg Jets         | Bowling Green State University (NCAA)    |
+|  4 |      152 | Sergei Starikov | Defense    | Soviet Union   | New Jersey Devils     | CSKA Moscow (USSR)                       |
+|  5 |      153 | Milan Tichy     | Defense    | Czechoslovakia | Chicago Blackhawks    | Prince Albert Raiders (WHL)              |
+|  6 |      154 | Jon Pratt       | Left Wing  | United States  | Minnesota North Stars | Pingree High School (USHS-MA)            |
+|  7 |      155 | Rob Sangster    | Left Wing  | Canada         | Vancouver Canucks     | Kitchener Rangers (OHL)                  |
+|  8 |      156 | Kevin Plager    | Right Wing | United States  | St. Louis Blues       | Parkway North High School (USHS-MO)      |
+|  9 |      157 | Raymond Saumier | Right Wing | Canada         | Hartford Whalers      | Trois Rivieres Draveurs (QMJHL)          |
+| 10 |      158 | Andy Suhy       | Defense    | United States  | Detroit Red Wings     | Western Michigan University (NCAA)       |
+| 11 |      159 | Sverre Sears    | Defense    | United States  | Philadelphia Flyers   | Princeton University (NCAA)              |
+| 12 |      160 | Greg Spenrath   | Defense    | Canada         | New York Rangers      | Tri-City Americans (WHL)                 |
+| 13 |      161 | Derek Plante    | Center     | United States  | Buffalo Sabres        | Cloquet High School (USHS-MN)            |
+| 14 |      162 | Darcy Martini   | Defense    | Canada         | Edmonton Oilers       | Michigan Technological University (NCAA) |
+| 15 |      163 | David Shute     | Left Wing  | United States  | Pittsburgh Penguins   | Victoria Cougars (WHL)                   |
+| 16 |      164 | Rick Allain     | Defense    | Canada         | Boston Bruins         | Kitchener Rangers (OHL)                  |
+| 17 |      165 | Sean Whyte      | Right Wing | Canada         | Los Angeles Kings     | Guelph Platers (OHL)                     |
+| 18 |      166 | Dean Holoien    | Right Wing | Canada         | Washington Capitals   | Saskatoon Blades (WHL)                   |
+| 19 |      167 | Patrick Lebeau  | Left Wing  | Canada         | Montreal Canadiens    | St-Jean Lynx (QMJHL)                     |
+| 20 |      168 | Kevin Wortman   | Defense    | United States  | Calgary Flames        | American International College (NCAA)    |
+===================Question===================
+total number of countries represented in round 8
+===================Text===================
+<think>
+Alright, so I need to figure out how many countries are represented in round 8 of the 1989 NHL Entry Draft based on the provided table. Let me break this down step by step.
+
+First, I see that each row in the table represents a player picked in the draft. The columns include details like Pick #, Player, Position, Nationality, NHL team, and their previous club team. My focus is on the "Nationality" column for round 8.
+
+Wait, what's round 8? Actually, looking at the table, it seems each row represents a pick, with the first column being the index starting from 0 up to 20. So, round 8 would correspond to the row where the index is 8, which is Pick #158. Let me check that.
+
+Looking at index 8: The player's name is Raymond Saumier, and his Nationality is Canada. NHL team is Hartford Whalers, from Trois Rivieres Draveurs (QMJHL).
+
+But wait, I'm a bit confused because sometimes draft rounds can be organized differently, but in this table, it seems each row after 0 is the next pick. So, if we're talking about "round 8," maybe that refers to the 9th pick overall since index starts at 0? Or perhaps there are multiple rounds, each with several picks.
+
+Wait, actually, in NHL drafts, typically each round consists of a set number of picks (like 21 in earlier rounds), but this table seems to list picks from 148 to 168. So that's likely the 8th round because earlier rounds would have lower pick numbers. Each round usually has about 20-30 picks depending on the year.
+
+But for this question, I think it's simpler. The user is asking for "total number of countries represented in round 8." So perhaps we're considering all the players picked in the 8th round as per the table.
+
+Looking at each row (each pick) from index 0 to 20, which are picks 148 to 168. Now, I need to go through each player's nationality and count how many unique countries there are.
+
+Let me list them out:
+
+- Index 0: Canada
+- Index 1: Canada
+- Index 2: Canada
+- Index 3: Canada
+- Index 4: Soviet Union
+- Index 5: Czechoslovakia
+- Index 6: United States
+- Index 7: Canada
+- Index 8: Canada
+- Index 9: Canada
+- Index 10: United States
+- Index 11: United States
+- Index 12: Canada
+- Index 13: United States
+- Index 14: Canada
+- Index 15: United States
+- Index 16: Canada
+- Index 17: Canada
+- Index 18: Canada
+- Index 19: Canada
+- Index 20: United States
+
+Now, I'll list out the unique nationalities:
+
+1. Canada
+2. Soviet Union
+3. Czechoslovakia
+4. United States
+
+So, that's four different countries.
+
+Wait a second, let me make sure I didn't miss any others. Scanning through all 21 picks (since index 0 to 20 is 21 entries), the nationalities are indeed Canada, Soviet Union, Czechoslovakia, and USA.
+
+Therefore, there are 4 distinct countries represented in this round.
+</think>
+
+The total number of countries represented in round 8 is based on the unique nationalities listed for each player picked. From the table:
+
+- **Canada** appears multiple times (players: Paul Krake, Phil Huber, Derek Langille, Jim Solly, Rob Sangster, Raymond Saumier, Greg Spenrath, Darcy Martini, Rick Allain, Sean Whyte, Dean Holoien, Patrick Lebeau).
+- **Soviet Union** is represented by Sergei Starikov.
+- **Czechoslovakia** is represented by Milan Tichy.
+- **United States** appears multiple times (Jon Pratt, Kevin Plager, Andy Suhy, Sverre Sears, Derek Plante, David Shute, Kevin Wortman).
+
+These are the only nationalities present in this round. Therefore, there are 4 unique countries.
+
+Final Answer: 4
+===================Answer===================
+4

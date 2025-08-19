@@ -1,0 +1,41 @@
+===================Title===================
+2000 Úrvalsdeild
+===================Table===================
+|    |   Pos | Team       |   Played |   Won |   Draw |   Lost |   Goals For |   Goals Against |   Goal Difference |   Points | Notes                 |
+|---:|------:|:-----------|---------:|------:|-------:|-------:|------------:|----------------:|------------------:|---------:|:----------------------|
+|  0 |     1 | KR         |       18 |    11 |      4 |      3 |          27 |              14 |                13 |       37 | UEFA Champions League |
+|  1 |     2 | Fylkir     |       18 |    10 |      5 |      3 |          39 |              16 |                23 |       35 | UEFA Cup              |
+|  2 |     3 | Grindavík |       18 |     8 |      6 |      4 |          25 |              18 |                 7 |       30 | UEFA Cup              |
+|  3 |     4 | ÍBV       |       18 |     8 |      5 |      5 |          29 |              17 |                12 |       29 | Inter-Toto Cup        |
+|  4 |     5 | ÍA        |       18 |     7 |      5 |      6 |          21 |              17 |                 4 |       26 | nan                   |
+|  5 |     6 | Keflavík  |       18 |     4 |      7 |      7 |          21 |              35 |               -14 |       19 | nan                   |
+|  6 |     7 | Breiðablik |       18 |     5 |      3 |     10 |          29 |              35 |                -6 |       18 | nan                   |
+|  7 |     8 | Fram       |       18 |     4 |      5 |      9 |          22 |              33 |               -11 |       17 | nan                   |
+|  8 |     9 | Stjarnan   |       18 |     4 |      5 |      9 |          18 |              31 |               -13 |       17 | Relegated             |
+|  9 |    10 | Leiftur    |       18 |     3 |      7 |      8 |          24 |              39 |               -15 |       16 | Relegated             |
+===================Question===================
+who was the next closest team in terms of highest points to kr?
+===================Text===================
+<think>
+Okay, so I need to figure out which team was the next closest in terms of points to KR based on the provided table from the 2000 Úrvalsdeild season. Let me start by understanding the table structure.
+
+Looking at the table, each row represents a different team with their performance statistics for that season. The columns include Position (Pos), Team name, Played games, Won, Drawn, Lost, Goals For, Goals Against, Goal Difference, Points, and Notes.
+
+The first step is to identify KR's points. Scanning through the table, I see that KR is in position 1 with 37 points. Now, I need to find which team has the next highest points after KR.
+
+Moving down the table, the second row shows Fylkir with 35 points. That seems to be the closest so far. The third team, Grindavík, has 30 points, which is lower than both KR and Fylkir. As I continue checking each subsequent row:
+
+- Position 4: ÍBV with 29 points.
+- Position 5: ÍA with 26 points.
+- Positions 6 to 10 have even fewer points.
+
+So, the teams after KR are ordered as follows in terms of points: Fylkir (35), Grindavík (30), ÍBV (29), and so on. 
+
+Fylkir is clearly the next closest with 35 points, which is just 2 points less than KR's 37. Therefore, Fylkir would be the team that comes right after KR in terms of points.
+</think>
+
+The next closest team to KR with the highest points is Fylkir with 35 points.
+
+Final Answer: Fylkir
+===================Answer===================
+Fylkir

@@ -1,0 +1,67 @@
+===================Title===================
+List of international cricket centuries at Eden Gardens
+===================Table===================
+|    |   No. | Score   | Player             | Team         |   Balls |   Inns. | Opposing team   | Date             | Result   |
+|---:|------:|:--------|:-------------------|:-------------|--------:|--------:|:----------------|:-----------------|:---------|
+|  0 |     1 | 123     | Kris Srikkanth     | India        |     103 |       1 | Pakistan        | 18 February 1987 | Lost     |
+|  1 |     2 | 107*    | Desmond Haynes     | West Indies  |     137 |       1 | Pakistan        | 1 November 1989  | Lost     |
+|  2 |     3 | 100*    | Sachin Tendulkar   | India        |     103 |       2 | Kenya           | 31 May 1998      | Won      |
+|  3 |     4 | 121     | Marcus Trescothick | England      |     109 |       2 | India           | 19 January 2002  | Lost     |
+|  4 |     5 | 108*    | Salman Butt        | Pakistan     |     130 |       2 | India           | 13 November 2004 | Won      |
+|  5 |     6 | 134*    | Graeme Smith       | South Africa |     124 |       2 | India           | 25 November 2005 | Won      |
+|  6 |     7 | 118     | Upul Tharanga      | Sri Lanka    |     128 |       1 | India           | 24 December 2009 | Lost     |
+|  7 |     8 | 150*    | Gautam Gambhir     | India        |     137 |       2 | Sri Lanka       | 24 December 2009 | Won      |
+|  8 |     9 | 107     | Virat Kohli        | India        |     114 |       2 | Sri Lanka       | 24 December 2009 | Won      |
+|  9 |    10 | 106     | Ryan ten Doeschate | Netherlands  |     108 |       1 | Ireland         | 18 March 2011    | Lost     |
+| 10 |    11 | 101     | Paul Stirling      | Ireland      |      72 |       2 | Netherlands     | 18 March 2011    | Won      |
+| 11 |    12 | 106     | Nasir Jamshed      | Pakistan     |     124 |       1 | India           | 3 January 2013   | Won      |
+===================Question===================
+which team scored the least, but still won?
+===================Text===================
+<think>
+Alright, so I need to figure out which team scored the least but still won based on this table about cricket centuries at Eden Gardens. Let me go through each step carefully.
+
+First, let's understand what the question is asking. It wants to know the team that had the lowest score among all the winning instances in the given matches. So I need to look for the match where a team scored the minimum number of runs and still ended up winning the game.
+
+Okay, looking at the table, each row represents a different century scored by a player. I'm particularly interested in the "Result" column because it tells me whether the team won or lost that particular match. So I should extract all the instances where the result is "Won" and then see what scores those teams had.
+
+Let's list out all the "Won" results from the table:
+
+1. **Sachin Tendulkar** - Score: 100* (India vs Kenya on 31 May 1998)
+2. **Salman Butt** - Score: 108* (Pakistan vs India on 13 November 2004)
+3. **Graeme Smith** - Score: 134* (South Africa vs India on 25 November 2005)
+4. **Gautam Gambhir** - Score: 150* (India vs Sri Lanka on 24 December 2009)
+5. **Virat Kohli** - Score: 107 (India vs Sri Lanka on 24 December 2009)
+6. **Paul Stirling** - Score: 101 (Ireland vs Netherlands on 18 March 2011)
+
+Now, I need to find the lowest score among these winning instances.
+
+Looking at the scores:
+
+- 100* by Sachin
+- 108* by Salman Butt
+- 134* by Graeme Smith
+- 150* by Gautam Gambhir
+- 107 by Virat Kohli
+- 101 by Paul Stirling
+
+Comparing these, the lowest is 100 by Sachin Tendulkar. Wait, but I see that in the same match where India played Kenya, another player scored 100*. So let me check if that's correct.
+
+Wait no, looking back at the table, each row is a separate century. So when India played Kenya on May 31, 1998, Sachin scored 100*, and India won. The other centuries in "Won" results have higher scores: 108, 134, 150, etc., except for Paul Stirling's 101.
+
+So the lowest winning score is either 100 or 101? Let me check:
+
+Sachin's score was 100* meaning he remained not out at 100. So that's exactly 100 runs scored by him in that innings.
+
+Paul Stirling scored 101, which is slightly higher than 100. So the minimum is 100.
+
+So the team that scored the least and won would be India when Sachin Tendulkar scored a century of 100* against Kenya on May 31, 1998.
+
+Wait, but wait another second: In the same match where Paul Stirling scored 101 for Ireland, they were playing against Netherlands. The score was 101 in 72 balls, which is actually quite a high strike rate. But since we're looking for the lowest total score that still led to a win, 100 is lower than 101.
+
+So yes, India's 100* is the least among all the winning centuries listed here.
+</think>
+
+Final Answer: India
+===================Answer===================
+India

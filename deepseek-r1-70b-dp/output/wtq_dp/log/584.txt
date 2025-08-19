@@ -1,0 +1,55 @@
+===================Title===================
+2009 Fujitsu V8 Supercar Series
+===================Table===================
+|    |   Rd. | Event                         | Circuit                   | Location                  | Date         | Winner        |
+|---:|------:|:------------------------------|:--------------------------|:--------------------------|:-------------|:--------------|
+|  0 |     1 | Clipsal 500                   | Adelaide Street Circuit   | Adelaide, South Australia | 19-22 Mar    | David Russell |
+|  1 |     2 | Winton                        | Winton Motor Raceway      | Benalla, Victoria         | 1-3 May      | Jonathon Webb |
+|  2 |     3 | Dunlop Townsville 400         | Townsville Street Circuit | Townsville, Queensland    | 10-12 Jul    | James Moffat  |
+|  3 |     4 | Norton 360 Sandown Challenge  | Sandown Raceway           | Melbourne, Victoria       | 31 Jul-Aug 2 | David Russell |
+|  4 |     5 | Queensland House & Land 300   | Queensland Raceway        | Ipswich, Queensland       | 21-23 Aug    | Jonathon Webb |
+|  5 |     6 | Supercheap Auto Bathurst 1000 | Mount Panorama Circuit    | Bathurst, New South Wales | 8-11 Oct     | Jonathon Webb |
+|  6 |     7 | Sydney Telstra 500            | Homebush Street Circuit   | Sydney, New South Wales   | 4-6 Dec      | Jonathon Webb |
+===================Question===================
+how many consecutive wins did jonathan webb achieve?
+===================Text===================
+<think>
+Okay, so I need to figure out how many consecutive wins Jonathon Webb achieved in the 2009 Fujitsu V8 Supercar Series based on the provided table. Let me look at the table step by step.
+
+First, looking at each row's Winner column:
+
+- Round 1 (Rd.1): David Russell
+- Round 2 (Rd.2): Jonathon Webb
+- Round 3 (Rd.3): James Moffat
+- Round 4 (Rd.4): David Russell
+- Round 5 (Rd.5): Jonathon Webb
+- Round 6 (Rd.6): Jonathon Webb
+- Round 7 (Rd.7): Jonathon Webb
+
+Wait, I think the numbering is a bit confusing because the table starts with Rd.1 as index 0. So Rd.2 would be index 1, and so on up to Rd.7 which is index 6.
+
+So let me list them in order:
+
+1. Rd.1: David Russell
+2. Rd.2: Jonathon Webb
+3. Rd.3: James Moffat
+4. Rd.4: David Russell
+5. Rd.5: Jonathon Webb
+6. Rd.6: Jonathon Webb
+7. Rd.7: Jonathon Webb
+
+Looking for consecutive wins by Jonathon Webb.
+
+- He won Rd.2 (Jonathon's first win)
+- Then Rd.3 was James Moffat, so that breaks a streak if there was one.
+- Then Rd.4 is David Russell again, no relation to Jonathon.
+- Then starting from Rd.5: Jonathon wins three in a row—Rd.5, Rd.6, and Rd.7.
+
+So from Rd.5 to Rd.7, that's three consecutive rounds where he won. So the number of consecutive wins is 3.
+
+I don't see any other streaks longer than that for him. He had one win in Rd.2 but then didn't win Rd.3, so that was a single win.
+</think>
+
+Final Answer: 3
+===================Answer===================
+3

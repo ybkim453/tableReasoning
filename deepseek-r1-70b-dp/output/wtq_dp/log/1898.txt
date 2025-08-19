@@ -1,0 +1,43 @@
+===================Title===================
+India–Pakistan field hockey rivalry
+===================Table===================
+|    |   Year | Matches   | Winner       | Results   | Pakistan\nCaptain   | Pakistan\nCoach     | India\nCaptain   | India\nCoach       |
+|---:|-------:|:----------|:-------------|:----------|:--------------------|:--------------------|:-----------------|:-------------------|
+|  0 |   1978 | 4         | Pakistan win | 3 - 1     | Islahuddin Siddique | Sayad A. Hussain    | V. J. Philips    | R. S. Gentle       |
+|  1 |   1981 | 4         | Pakistan win | 2 - 1     | Akhtar Rasool       | Zakauddin           | Surjeet Singh    | Harmeek Singh      |
+|  2 |   1986 | 7         | India win    | 3 - 2     | Hassan Sardar       | Anwar Ahmad Khan    | Mohmmad Shaheed  | M. P. Ganesh       |
+|  3 |   1988 | 6         | Draw         | 2 - 2     | Nasir Ali           | Manzoor-ul-Hasan    | M. M. Somaya     | M. P. Ganesh       |
+|  4 |   1998 | 8         | Pakistan win | 4 - 3     | Tahir Zaman         | Islahuddin Siddique | Dhanraj Pillay   | V Bhaskaran        |
+|  5 |   1999 | 9         | Pakistan win | 5 - 3     | Atif Bashir         | Shahnaz Shaikh      | Anil Aldrin      | V Bhaskaran        |
+|  6 |   2004 | 8         | Pakistan win | 4 - 2     | Waseem Ahmad        | Roelant Oltmans     | Dileep Tirkey    | Gehard Rach        |
+|  7 |   2006 | 6         | Pakistan win | 3 - 1     | Mohammad Saqlain    | Asif Bajwa          | Ignace Tirkey    | Rajinder Singh Jr. |
+|  8 |   2013 | TBA       | TBA          | TBA       | TBA                 | TBA                 | TBA              | TBA                |
+===================Question===================
+what year had 3 more matches than the previous year?
+===================Text===================
+<think>
+Alright, let's tackle this problem step by step. The question is asking which year had 3 more matches than the previous year based on the provided table. 
+
+First, I'll look at the table structure. It lists years from 1978 to 2013, with each entry having the number of matches played that year. My goal is to find a year where the number of matches increased by exactly 3 compared to the preceding year.
+
+Starting from the earliest year:
+
+- **1978**: 4 matches.
+- Next entry is **1981** with 4 matches again. So, same as before, no increase here.
+  
+Moving on, the next year listed is **1986**, which has 7 matches. Let's compare this to the previous year (1981). The increase is 7 - 4 = 3. That fits our criteria because it's exactly 3 more matches than the prior year.
+
+I should check if there are any other years that meet this condition:
+
+- **1988**: 6 matches. Previous was 7 in 1986, so a decrease.
+- **1998**: 8 matches. Previous was 6 in 1988, which is an increase of 2, not enough.
+- **1999**: 9 matches. Previous year (1998) had 8, so +1.
+- **2004**: 8 matches. Previous was 9 in 1999, that's a decrease.
+- **2006**: 6 matches. Down from 8 in 2004.
+
+So, the only year where the number of matches increased by exactly 3 is **1986** compared to **1981**.
+</think>
+
+Final Answer: 1986
+===================Answer===================
+1986

@@ -1,0 +1,39 @@
+===================Title===================
+Salvatore Bettiol
+===================Table===================
+|    |   Year | Competition            | Venue                  | Position   | Event    | Notes   |
+|---:|-------:|:-----------------------|:-----------------------|:-----------|:---------|:--------|
+|  0 |   1986 | Venice Marathon        | Venice, Italy          | 1st        | Marathon | 2:18:44 |
+|  1 |   1987 | World Championships    | Rome, Italy            | 13th       | Marathon | 2:17:45 |
+|  2 |   1987 | Venice Marathon        | Venice, Italy          | 1st        | Marathon | 2:10:01 |
+|  3 |   1990 | European Championships | Split, FR Yugoslavia   | 4th        | Marathon | 2:17:45 |
+|  4 |   1991 | World Championships    | Tokyo, Japan           | 6th        | Marathon | 2:15:58 |
+|  5 |   1992 | Olympic Games          | Barcelona, Spain       | 5th        | Marathon | 2:14:15 |
+|  6 |   1993 | World Championships    | Stuttgart, Germany     | —          | Marathon | DNF     |
+|  7 |   1996 | Olympic Games          | Atlanta, United States | 20th       | Marathon | 2:17:27 |
+===================Question===================
+how many times did salvatore bettiol finish at least in the top five position?
+===================Text===================
+<think>
+Okay, I need to figure out how many times Salvatore Bettiol finished in at least the top five positions based on the provided table. Let me go through each row one by one.
+
+Starting with 1986 Venice Marathon, he came in 1st. That's definitely a top five finish.
+
+In 1987, he ran two marathons. The first was the World Championships where he finished 13th, which is outside the top five. Then back to Venice Marathon the same year, he won again with 1st place. So that's another top five.
+
+Moving on to 1990 European Championships, he placed 4th. That's within the top five—so count that as well.
+
+Next is 1991 World Championships where he finished 6th. That’s just outside the top five, so I shouldn't include this one.
+
+In 1992 at the Olympic Games in Barcelona, he was 5th. Exactly on the edge but still within the top five, so that's another point.
+
+Looking at 1993, he didn’t finish (DNF) at the World Championships, so no position there to consider.
+
+Finally, in 1996 at the Atlanta Olympics, his 20th place is way beyond the top five.
+
+Now adding up all the qualifying finishes: 1986 (1st), 1987 Venice (1st), 1990 (4th), and 1992 (5th). That makes a total of four times where he finished at least in the top five.
+</think>
+
+Final Answer: 4
+===================Answer===================
+4

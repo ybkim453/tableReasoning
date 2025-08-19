@@ -1,0 +1,71 @@
+===================Title===================
+Imparja Cup
+===================Table===================
+|    |   Year | State/Territory Men's Division   | State/Territory Women's Division   | Major Centres Division   | Community Division   | Women's Division   |
+|---:|-------:|:---------------------------------|:-----------------------------------|:-------------------------|:---------------------|:-------------------|
+|  0 |   2012 | Queensland                       | New South Wales                    | nan                      | nan                  | nan                |
+|  1 |   2012 | New South Wales                  | New South Wales                    | Darwin                   | Brothers in Arms     | Bush Potatoes      |
+|  2 |   2011 | New South Wales                  | New South Wales                    | Maranoa Murris           | Gap Angels           | Bush Potatoes      |
+|  3 |   2010 | Western Australia                | nan                                | nan                      | nan                  | nan                |
+|  4 |   2009 | Queensland                       | nan                                | Alkupitja                | Tangentyere          | New South Wales    |
+|  5 |   2008 | Queensland                       | nan                                | Katherine                | Cooktown             | New South Wales    |
+|  6 |   2007 | New South Wales                  | nan                                | Alkupitja                | Cat Tigers           | CGA Cougars        |
+|  7 |   2006 | Queensland                       | nan                                | Alice Springs            | Melville Island      | Darwin             |
+|  8 |   2005 | Queensland                       | nan                                | Alice Springs            | Alkupitja            | Darwin             |
+|  9 |   2004 | Queensland                       | nan                                | Alice Springs            | Normanton            | Tennant Creek      |
+| 10 |   2003 | New South Wales                  | nan                                | Darwin                   | nan                  | nan                |
+| 11 |   2002 | Northern Territory               | nan                                | Darwin                   | nan                  | nan                |
+| 12 |   2001 | Tasmania                         | nan                                | nan                      | nan                  | nan                |
+===================Question===================
+in how many years was queensland the winner of the state/territory men's division?
+===================Text===================
+<think>
+Alright, so I need to figure out how many years Queensland won the State/Territory Men's Division in the Imparja Cup based on this table.
+
+First, I'll look at each row of the table and check the "Year" and "State/Territory Men's Division" columns. My goal is to count every instance where the "State/Territory Men's Division" is Queensland.
+
+Starting from the top:
+
+Row 0 (2012): Queensland listed under Men's Division.
+Row 1 (2012): New South Wales, so not Queensland.
+Row 2 (2011): Again New South Wales.
+Row 3 (2010): Western Australia, so no.
+Row 4 (2009): Queensland. That's another year.
+Row 5 (2008): Queensland once more.
+Rows 6 to 10: In these rows, the Men's Division is either New South Wales or Queensland. Specifically, in row 6 it's NS for 2007? Wait no, looking again:
+
+Wait, let me correct that. Row 4 is 2009 and shows Queensland. Then Row 5 is 2008 with Queensland as well. Rows 6 (2007), 7 (2006), 8 (2005), 9 (2004) all have Queensland in the Men's Division. 
+
+Wait, hold on, from row 0 to row 12:
+
+Looking at each row systematically:
+
+Row 0: Year 2012 - Queensland
+Row 1: Same year 2012, but different division maybe? Wait, no, each row is a separate entry for that year with different divisions.
+
+Actually, wait. Each row represents a different competition instance in the same or different years. So I need to check each "State/Territory Men's Division" across all rows and count how many times Queensland appears there.
+
+Looking through:
+
+Row 0: QLD
+Row 1: NSW
+Row 2: NSW
+Row 3: WA
+Row 4: QLD
+Row 5: QLD
+Row 6: NSW
+Row 7: QLD
+Row 8: QLD
+Row 9: QLD
+Row10: NSW
+Row11: NT
+Row12: TAS
+
+So let's count each occurrence where "State/Territory Men's Division" is Queensland.
+
+From the above, that's in rows: 0,4,5,7,8,9. So that's a total of 6 times.
+</think>
+
+Final Answer: 6
+===================Answer===================
+6

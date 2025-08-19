@@ -1,0 +1,73 @@
+===================Title===================
+1993 German motorcycle Grand Prix
+===================Table===================
+|    | Pos   | Rider                     | Manufactuer   | Time/Retired   |   Points |
+|---:|:------|:--------------------------|:--------------|:---------------|---------:|
+|  0 | 1     | Doriano Romboni           | Honda         | 33:53.776      |       25 |
+|  1 | 2     | Loris Capirossi           | Honda         | +0.090         |       20 |
+|  2 | 3     | Helmut Bradl              | Honda         | +0.384         |       16 |
+|  3 | 4     | Max Biaggi                | Honda         | +2.346         |       13 |
+|  4 | 5     | Loris Reggiani            | Aprilia       | +2.411         |       11 |
+|  5 | 6     | Tetsuya Harada            | Yamaha        | +2.537         |       10 |
+|  6 | 7     | Pierfrancesco Chili       | Yamaha        | +3.845         |        9 |
+|  7 | 8     | Jean-Philippe Ruggia      | Aprilia       | +3.985         |        8 |
+|  8 | 9     | Carlos Cardús            | Honda         | +4.893         |        7 |
+|  9 | 10    | Luis d'Antin              | Honda         | +25.044        |        6 |
+| 10 | 11    | Alberto Puig              | Honda         | +25.136        |        5 |
+| 11 | 12    | John Kocinski             | Suzuki        | +25.463        |        4 |
+| 12 | 13    | Jochen Schmid             | Yamaha        | +47.065        |        3 |
+| 13 | 14    | Jean-Michel Bayle         | Aprilia       | +1:15.546      |        2 |
+| 14 | 15    | Juan Borja                | Honda         | +1:15.769      |        1 |
+| 15 | 16    | Frédéric Protat         | Aprilia       | +1:15.858      |      nan |
+| 16 | 17    | Adi Stadler               | Honda         | +1:16.349      |      nan |
+| 17 | 18    | Bernd Kassner             | Aprilia       | +1:16:464      |      nan |
+| 18 | 19    | Paolo Casoli              | Gilera        | +1:26.061      |      nan |
+| 19 | 20    | Gabriele Debbia           | Honda         | +1:40.049      |      nan |
+| 20 | 21    | Adrian Bosshard           | Honda         | +1:47.492      |      nan |
+| 21 | 22    | Massimo Pennacchioli      | Honda         | +1:59.498      |      nan |
+| 22 | 23    | Bernard Haenggeli         | Aprilia       | +2:41.806      |      nan |
+| 23 | 24    | Alessandro Gramigni       | Gilera        | +1 Lap         |      nan |
+| 24 | Ret   | Andreas Preining          | Aprilia       | Retirement     |      nan |
+| 25 | Ret   | Volker Bähr              | Honda         | Retirement     |      nan |
+| 26 | Ret   | Jurgen van den Goorbergh  | Aprilia       | Retirement     |      nan |
+| 27 | Ret   | Luis Maurel               | Aprilia       | Retirement     |      nan |
+| 28 | Ret   | Patrick van den Goorbergh | Aprilia       | Retirement     |      nan |
+| 29 | Ret   | Eskil Suter               | Aprilia       | Retirement     |      nan |
+| 30 | Ret   | Wilco Zeelenberg          | Aprilia       | Retirement     |      nan |
+| 31 | Ret   | Jean-Pierre Jeandat       | Aprilia       | Retirement     |      nan |
+| 32 | DNS   | Nobuatsu Aoki             | Honda         | Did not start  |      nan |
+===================Question===================
+what are the number of times honda is listed as the manufacturer?
+===================Text===================
+<think>
+Okay, so I need to figure out how many times Honda is listed as the manufacturer in this table about the 1993 German motorcycle Grand Prix. Let me start by carefully looking at each row and counting every instance where the "Manufactuer" column says Honda.
+
+Starting from the top, the first entry is Doriano Romboni with Honda. That's one. Next is Loris Capirossi, also on Honda—so that's two. Helmut Bradl on Honda makes it three. Max Biaggi on Honda brings it to four. Then I see Loris Reggiani on Aprilia, so that's not Honda.
+
+Moving further down, Tetsuya Harada is on Yamaha, Pierfrancesco Chili also Yamaha, Jean-Philippe Ruggia on Aprilia. So none there. Next up are several riders: Carlos Cardús on Honda—that's five. Luis d'Antin on Honda, that's six. Alberto Puig on Honda—seven now.
+
+John Kocinski is on Suzuki, so no. Jochen Schmid on Yamaha, Jean-Michel Bayle Aprilia. Juan Borja on Honda—eight. Frédéric Protat Aprilia, Adi Stadler Honda—nine. Bernd Kassner Aprilia, Paolo Casoli Gilera. Gabriele Debbia Honda—ten.
+
+Adrian Bosshard Honda—that's eleven. Massimo Pennacchioli Honda makes twelve. Bernard Haenggeli Aprilia, Alessandro Gramigni Gilera on the next lap. Now looking at the Retirements: Andreas Preining Aprilia. Volker Bähr Honda—that's thirteen. Jurgen van den Goorbergh Aprilia. Luis Maurel Aprilia, Patrick v.d.Goorbergh Aprilia, Eskil Suter Aprilia, Wilco Zeelenberg Aprilia, Jean-Pierre Jeandat Aprilia.
+
+Lastly, Nobuatsu Aoki on Honda but he didn't start, so that's fourteen in total. Wait, did I count all the Hondas correctly? Let me recount to make sure.
+
+From position 0: Honda (1)
+Position1: Honda(2), Position2:Honda(3), Pos3:Honda(4), then Pos9:Honda(5), Pos10:Honda(6), Pos11:Honda(7). Then later, Juan Borja at Pos14:Honda(8), Adi Stadler:9, Gabriele Debbia:10, Adrian Bosshard:11, Massimo Pennacchioli:12. Volker Bähr:13, and Nobuatsu Aoki: Honda but DNS.
+
+Wait, does DNS count? The user is asking for the number of times Honda is listed as manufacturer regardless of whether they started or not. Since it's in the Manufactuer column, yes. So that would be 14 instances.
+
+Let me check again to avoid missing any. Rows with Manufacturer=Honda:
+
+Positions:0,1,2,3,9,10,11,14,15,16,19,20,21, and DNS at 32.
+
+Counting these: 0-3 is four, then positions 9,10,11 (three more, total seven). Then position14:Honda, position15:Honda, position16:Honda—adds three to make ten. Position19:Honda, 20:Honda,21:Honda—three more makes thirteen. And finally, DNS:32 is Honda, making it fourteen.
+
+So the total number of times Honda is listed as the manufacturer should be 14.
+</think>
+
+The number of times Honda is listed as the manufacturer in the table is 14.
+
+Final Answer: 14
+===================Answer===================
+13

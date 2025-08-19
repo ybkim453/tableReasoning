@@ -1,0 +1,46 @@
+===================Title===================
+List of Kentucky Derby broadcasters
+===================Table===================
+|    |   Year | Network   | Race caller    | Color commentator               | Reporters        | Trophy Presentation   |
+|---:|-------:|:----------|:---------------|:--------------------------------|:-----------------|:----------------------|
+|  0 |   1959 | CBS       | Fred Capossela | Bryan Field and Chris Schenkel  | nan              | Chris Schenkel        |
+|  1 |   1958 | CBS       | Fred Capossela | Bryan Field                     | nan              | nan                   |
+|  2 |   1957 | CBS       | Fred Capossela | Bryan Field                     | nan              | nan                   |
+|  3 |   1956 | CBS       | Fred Capossela | Bryan Field                     | nan              | nan                   |
+|  4 |   1955 | CBS       | Fred Capossela | Phil Sutterfield and Win Elliot | nan              | nan                   |
+|  5 |   1954 | CBS       | Bryan Field    | Mel Allen                       | nan              | Bill Corum            |
+|  6 |   1953 | CBS       | Bryan Field    | Mel Allen                       | Phil Sutterfield | Phil Sutterfield      |
+|  7 |   1952 | CBS       | Bryan Field    | Sam Renick                      | nan              | nan                   |
+===================Question===================
+how many consecutive years was fred capossela the race caller?
+===================Text===================
+<think>
+Okay, so I need to figure out how many consecutive years Fred Capossela was the race caller for the Kentucky Derby based on this table. Let's see what the table shows.
+
+First, looking at the table columns: Year, Network, Race caller, Color commentator, Reporters, Trophy Presentation. The relevant column here is "Race caller" because we're focusing on when Fred Capossela held that role.
+
+I'll start by listing out each year and who was the race caller:
+
+- 1959: Fred Capossela
+- 1958: Fred Capossela
+- 1957: Fred Capossela
+- 1956: Fred Capossela
+- 1955: Fred Capossela
+- 1954: Bryan Field
+- 1953: Bryan Field
+- 1952: Bryan Field
+
+Wait, so in the years from 1959 down to 1955, it's all Fred. Then in 1954 and earlier, it switches to Bryan Field.
+
+So starting from 1955, Fred was the race caller for five consecutive years? Let me count:
+
+From 1955 to 1959, that's 1955, 56, 57, 58, 59. So that's 5 years in a row where Fred Capossela was the race caller.
+
+But wait, looking back at the table, I see that in 1954, Bryan Field took over as race caller. So before 1955, it wasn't Fred. Therefore, the consecutive years are from 1955 through 1959.
+
+So that's five years total.
+</think>
+
+Final Answer: 5
+===================Answer===================
+5

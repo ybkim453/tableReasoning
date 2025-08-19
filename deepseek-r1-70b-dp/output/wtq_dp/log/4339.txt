@@ -1,0 +1,44 @@
+===================Title===================
+EMD SD60
+===================Table===================
+|    | Railroad                 |   Qty. | Road numbers                                                                | Notes                                                                                                                                                                 |
+|---:|:-------------------------|-------:|:----------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|  0 | Burlington Northern      |      3 | 8300-8302                                                                   | Demonstrators owned by EMD but painted for BN; Now with CSX                                                                                                           |
+|  1 | Chicago & North Western  |     55 | 8001-8055                                                                   | Built to SOO Line specifications; SOO was unable to take delivery due to financial conditions & the order was passed to C&NW                                          |
+|  2 | Conrail                  |     25 | 6843-6867                                                                   | After the 1999 Conrail split; 12 units went to CSX and were renumbered CSXT 8710-8721, 8790; 15 units went to NS and were renumbered NS 6702-6716                     |
+|  3 | CSX Transportation       |     10 | 8700-8709                                                                   | nan                                                                                                                                                                   |
+|  4 | EMDX                     |      4 | 1-4                                                                         | Demonstrators; EMD 1,2,4 to CR 6840-6842; EMD 3 leased to BNSF as replacement for EMD 9041 (used at DOT, Pueblo, CO)                                                  |
+|  5 | Kansas City Southern     |     46 | 714-759                                                                     | nan                                                                                                                                                                   |
+|  6 | Norfolk Southern         |    151 | 6550-6700                                                                   | Slowly rebuilding their SD60s to SD60Es at Juniata Shops                                                                                                              |
+|  7 | Oakway                   |    100 | 9000-9099\n90 now owned by Canadian National 10 still owned by BNSF Railway | nan                                                                                                                                                                   |
+|  8 | Soo Line                 |     58 | 6000-6057                                                                   | SOO 6000-6020 returned to leaser, Capital Finance (CIT Group) Former SOO 6021-6057/CP 6221-6257 have now been put up for sale.                                        |
+|  9 | Union Pacific            |     85 | 6000-6084                                                                   | Renumbered UP 2155-2239 (except UP 6014, wrecked & scrapped)                                                                                                          |
+| 10 | Canadian National        |     64 | 5500-5563                                                                   | 5500-5503 are pre-production SD60F's, originally classified as SD50AF & built as CN 9900-9903. They look like SD50F's, but internally are SD60F's.                    |
+| 11 | Conrail                  |     80 | 5575-5654                                                                   | After the 1999 Conrail split; 35 units went to CSX and were renumbered CSXT 8722-8755, 8774; 46 units went to NS and were renumbered NS 6717-6762                     |
+| 12 | Burlington Northern      |    100 | 1991, 9200-9298                                                             | Renumbered BNSF 9200-9299, then renumbered BNSF 8100-8199 in 2007-2008                                                                                                |
+| 13 | Conrail                  |     75 | 5500-5574                                                                   | After the 1999 Conrail split; 30 units went to CSX and were renumbered CSXT 8756-8773, 8775 - 8786; 44 units went to NS and were renumbered NS 6763-6806              |
+| 14 | Soo Line                 |      5 | 6058-6062                                                                   | Former SOO 6058-6062/CP 6258-6262 have now been put up for sale.                                                                                                      |
+| 15 | Union Pacific            |    281 | 6085-6365                                                                   | Renumbered to 2240-2520 except 6106 & 6165. 24 rebuilt into EMD SD32ECOs. UP classifies these as SD59MXs. Renumbered 9900-9923. All 24 have been delivered.           |
+| 16 | Carajás Railroad (Vale) |      2 | 601-602                                                                     | Manufactured by Equipment Villares S. A. (EVSA) in 1991. Last locomotives manufactured by EVSA before the merger with GE Transportation in Brazil, leading to GEVISA. |
+===================Question===================
+burlington northern ordered 3 emd sd60s. what is their number range?
+===================Text===================
+<think>
+Okay, so I need to figure out the number range of the 3 EMD SD60s ordered by Burlington Northern. Let me look through the table provided.
+
+First, I'll scan each row to find where Railroad is "Burlington Northern". I see there are two entries for them: one at index 0 and another at index 12.
+
+Looking at index 0, under Road numbers it says 8300-8302. The note mentions these are demonstrators owned by EMD but painted for BN, and now they're with CSX.
+
+Then, at index 12, the Road numbers are listed as 1991, 9200-9298. The note here says they were renumbered to BNSF 8100-8199 in 2007-2008.
+
+Wait, but the question is about Burlington Northern's order of 3 units. Since index 0 shows Qty. 3 with numbers 8300-8302, that must be their initial order. The other entry at index 12 is for 100 units, which seems like a separate purchase or transfer later on.
+
+So, the number range for the 3 SD60s ordered by Burlington Northern would be 8300 to 8302.
+</think>
+
+The Burlington Northern's 3 EMD SD60s are numbered from 8300 to 8302.
+
+Final Answer: 8300-8302
+===================Answer===================
+8300-8302

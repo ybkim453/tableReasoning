@@ -1,0 +1,48 @@
+===================Title===================
+Ismael Urzaiz
+===================Table===================
+|    |   # | Date             | Venue                            | Opponent   | Score   | Result   | Competition          |
+|---:|----:|:-----------------|:---------------------------------|:-----------|:--------|:---------|:---------------------|
+|  0 |   1 | 27 March 1999    | Mestalla, Valencia, Spain        | Austria    | 3–0     | 9–0      | Euro 2000 qualifying |
+|  1 |   2 | 27 March 1999    | Mestalla, Valencia, Spain        | Austria    | 5–0     | 9–0      | Euro 2000 qualifying |
+|  2 |   3 | 31 March 1999    | Olimpico, Serravalle, San Marino | San Marino | 0–3     | 0–6      | Euro 2000 qualifying |
+|  3 |   4 | 8 September 1999 | Vivero, Badajoz, Spain           | Cyprus     | 1–0     | 8–0      | Euro 2000 qualifying |
+|  4 |   5 | 8 September 1999 | Vivero, Badajoz, Spain           | Cyprus     | 2–0     | 8–0      | Euro 2000 qualifying |
+|  5 |   6 | 8 September 1999 | Vivero, Badajoz, Spain           | Cyprus     | 4–0     | 8–0      | Euro 2000 qualifying |
+|  6 |   7 | 26 January 2000  | Cartagonova, Cartagena, Spain    | Poland     | 2–0     | 3–0      | Friendly             |
+|  7 |   8 | 26 January 2000  | Cartagonova, Cartagena, Spain    | Poland     | 3–0     | 3–0      | Friendly             |
+===================Question===================
+what is the total number of euro 2000 qualifying competitions?
+===================Text===================
+<think>
+Alright, let me try to figure this out step by step. So, the question is asking for the total number of Euro 2000 qualifying competitions based on the provided table about Ismael Urzaiz.
+
+First, I'll look at the table columns: each row represents a match with details like Date, Venue, Opponent, Score, Result, and Competition. The key here is to focus on the 'Competition' column because that's where it specifies whether the match was part of Euro 2000 qualifying or something else.
+
+I notice that most entries in the Competition column say "Euro 2000 qualifying". Let me count how many times that appears. Starting from row 0 to row 7:
+
+- Rows 0,1,2,3,4,5 all have "Euro 2000 qualifying".
+- Then, rows 6 and 7 are labeled as "Friendly".
+
+So, the first six matches (rows 0 through 5) are part of the Euro 2000 qualifiers. Wait, but looking closer, each row represents a goal scored by Ismael Urzaiz in those matches, not necessarily separate competitions.
+
+Wait, no, actually, each row seems to represent a different instance within a match where he scored. For example, rows 0 and 1 are both on the same date against Austria. So, each of these is a goal in the same competition, but they're part of the same match.
+
+So, I need to count how many unique matches were in the Euro 2000 qualifying. Let's check the dates:
+
+- 27 March 1999: Two goals (rows 0 and 1) against Austria.
+- 31 March 1999: One goal (row 2) against San Marino.
+- 8 September 1999: Three goals (rows 3,4,5) against Cyprus.
+
+So that's three different matches in the Euro 2000 qualifying. Each of these is a separate competition fixture, so there are three competitions.
+
+Wait, but let me make sure I'm not misinterpreting. The term "competition" here refers to each match he played in the qualifiers, right? So each opponent on a different date counts as one competition.
+
+Yes, because each match against a different team or on a different date is a separate qualifying game. Therefore, there are three Euro 2000 qualifying competitions Ismael Urzaiz participated in based on this table.
+</think>
+
+The total number of Euro 2000 qualifying competitions that Ismael Urzaiz participated in is 3.
+
+Final Answer: 3
+===================Answer===================
+6

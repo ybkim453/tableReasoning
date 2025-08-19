@@ -1,0 +1,66 @@
+===================Title===================
+1994 NCAA Women's Division I Basketball Tournament
+===================Table===================
+|    | Conference       |   # of Bids | Record   | Win %   | Round\nof 32   | Sweet\nSixteen   | Elite\nEight   | Final\nFour   | Championship\nGame   |
+|---:|:-----------------|------------:|:---------|:--------|:---------------|:-----------------|:---------------|:--------------|:---------------------|
+|  0 | Southeastern     |           6 | 10–6     | .625    | 5              | 3                | 1              | 1             | –                    |
+|  1 | Big Ten          |           5 | 9–5      | .643    | 4              | 2                | 2              | 1             | –                    |
+|  2 | Pacific-10       |           5 | 8–5      | .615    | 4              | 2                | 2              | –             | –                    |
+|  3 | Southwest        |           4 | 5–4      | .556    | 3              | 2                | –              | –             | –                    |
+|  4 | Big Eight        |           4 | 3–4      | .429    | 2              | 1                | –              | –             | –                    |
+|  5 | Atlantic Coast   |           3 | 9–2      | .818    | 3              | 2                | 1              | 1             | 1                    |
+|  6 | Atlantic 10      |           3 | 1–3      | .250    | 1              | –                | –              | –             | –                    |
+|  7 | Sun Belt         |           2 | 6–2      | .750    | 2              | 1                | 1              | 1             | 1                    |
+|  8 | Big East         |           2 | 5–2      | .714    | 2              | 2                | 1              | –             | –                    |
+|  9 | Metro            |           2 | 2–2      | .500    | 1              | 1                | –              | –             | –                    |
+| 10 | Missouri Valley  |           2 | 2–2      | .500    | 2              | –                | –              | –             | –                    |
+| 11 | Big Sky          |           2 | 1–2      | .333    | 1              | –                | –              | –             | –                    |
+| 12 | Big West         |           2 | 0–2      | –       | –              | –                | –              | –             | –                    |
+| 13 | Great Midwest    |           2 | 0–2      | –       | –              | –                | –              | –             | –                    |
+| 14 | Mid-Continent    |           2 | 0–2      | –       | –              | –                | –              | –             | –                    |
+| 15 | West Coast       |           2 | 0–2      | –       | –              | –                | –              | –             | –                    |
+| 16 | Colonial         |           1 | 1–1      | .500    | 1              | –                | –              | –             | –                    |
+| 17 | Western Athletic |           1 | 1–1      | .500    | 1              | –                | –              | –             | –                    |
+===================Question===================
+which team is the only team to have a record number of wins in the double digits?
+===================Text===================
+<think>
+Okay, so I need to figure out which team is the only one with a record number of wins in double digits based on this table from the 1994 NCAA Women's Division I Basketball Tournament. Let me start by understanding the table structure.
+
+Looking at the columns: Conference, # of Bids, Record, Win %, Round of 32, Sweet Sixteen, Elite Eight, Final Four, Championship Game.
+
+The question is about which team has a record number of wins in double digits. So I'm looking for a team whose "Record" shows more than 10 wins. Wait, actually, the wording says "record number of wins in the double digits," so maybe it's looking for the highest number of wins that are also in the double digits (i.e., 10 or above). But since all records are presumably in some category like overall games played, perhaps the team with the highest number of total wins.
+
+Looking at each row under "Record":
+
+- Southeastern: 10–6 → 10 wins
+- Big Ten: 9–5 → 9 wins
+- Pacific-10: 8–5 → 8 wins
+- Southwest: 5–4 → 5 wins
+- Big Eight: 3–4 → 3 wins
+- Atlantic Coast: 9–2 → 9 wins
+- Atlantic 10: 1–3 → 1 win
+- Sun Belt: 6–2 → 6 wins
+- Big East: 5–2 → 5 wins
+- Metro: 2–2 → 2 wins
+- Missouri Valley: 2–2 → 2 wins
+- Big Sky: 1–2 → 1 win
+- Big West: 0–2 → 0 wins
+- Great Midwest: 0–2 → 0 wins
+- Mid-Continent: 0–2 → 0 wins
+- West Coast: 0–2 → 0 wins
+- Colonial: 1–1 → 1 win
+- Western Athletic: 1–1 → 1 win
+
+From this, the Southeastern conference has a record of 10–6, which is 10 wins. The next closest are Big Ten with 9 and Atlantic Coast also with 9. So the Southeastern has the highest number of wins in double digits.
+
+Wait, but the question says "the only team to have a record number of wins in the double digits." So perhaps it's looking for which conference is the only one with more than 10 wins? Wait, no, because all others have less than 10 except Southeastern. Because others are below 10: Big Ten and Atlantic Coast have 9 each.
+
+So Southeastern has 10, which is exactly double digits (>=10). So it's the only conference with a record in the double digits for wins? Wait, but some others might have exactly 10, but looking at the table, no. The next highest are 9, so yes, Southeastern is the only one with a double-digit win count.
+
+Therefore, the team (conference) is Southeastern.
+</think>
+
+Final Answer: Southeastern
+===================Answer===================
+Southeastern

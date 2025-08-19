@@ -1,0 +1,111 @@
+===================Title===================
+Hawaii Islanders
+===================Table===================
+|    |   Year | Record   | Finish   | Manager                                        | Playoffs           |
+|---:|-------:|:---------|:---------|:-----------------------------------------------|:-------------------|
+|  0 |   1961 | 68-86    | 6th      | Tommy Heath / Bill Werle                       | none               |
+|  1 |   1962 | 77-76    | 5th      | Irv Noren                                      | none               |
+|  2 |   1963 | 81-77    | 4th      | Irv Noren                                      | nan                |
+|  3 |   1964 | 60-98    | 10th     | Bob Lemon                                      | nan                |
+|  4 |   1965 | 75-72    | 6th (t)  | George Case                                    | nan                |
+|  5 |   1966 | 63-84    | 10th     | George Case                                    | nan                |
+|  6 |   1967 | 60-87    | 12th     | Wayne Terwilliger                              | nan                |
+|  7 |   1968 | 78-69    | 3rd      | Bill Adair                                     | nan                |
+|  8 |   1969 | 74-72    | 4th      | Chuck Tanner                                   | nan                |
+|  9 |   1970 | 98-48    | 1st      | Chuck Tanner                                   | Lost League Finals |
+| 10 |   1971 | 73-73    | 4th (t)  | Bill Adair                                     | nan                |
+| 11 |   1972 | 74-74    | 5th      | Rocky Bridges                                  | nan                |
+| 12 |   1973 | 70-74    | 5th      | Rocky Bridges / Warren Hacker / Roy Hartsfield | nan                |
+| 13 |   1974 | 67-77    | 6th      | Roy Hartsfield                                 | nan                |
+| 14 |   1975 | 88-56    | 1st      | Roy Hartsfield                                 | League Champs      |
+| 15 |   1976 | 77-68    | 2nd      | Roy Hartsfield                                 | League Champs      |
+| 16 |   1977 | 79-67    | 2nd      | Dick Phillips                                  | Lost League Finals |
+| 17 |   1978 | 56-82    | 8th      | Dick Phillips                                  | nan                |
+| 18 |   1979 | 72-76    | 8th      | Dick Phillips                                  | Lost League Finals |
+| 19 |   1980 | 76-65    | 5th      | Doug Rader                                     | Lost League Finals |
+| 20 |   1981 | 72-65    | 3rd (t)  | Doug Rader                                     | Lost in 1st round  |
+| 21 |   1982 | 73-71    | 5th      | Doug Rader                                     | nan                |
+| 22 |   1983 | 72-71    | 5th      | Tom Trebelhorn                                 | nan                |
+| 23 |   1984 | 87-53    | 1st      | Tommy Sandt                                    | Lost League Finals |
+| 24 |   1985 | 84-59    | 1st      | Tommy Sandt                                    | Lost in 1st round  |
+| 25 |   1986 | 65-79    | 9th      | Tommy Sandt                                    | nan                |
+| 26 |   1987 | 65-75    | 9th      | Bob Bailey                                     | nan                |
+===================Question===================
+which manager finished first the most?
+===================Text===================
+<think>
+Okay, so I need to figure out which manager finished first the most based on this table of Hawaii Islanders data from 1961 to 1987. Let's break it down step by step.
+
+First, I should look through each year and identify when the team finished first. The 'Finish' column shows their position each season. So I need to scan that column for every occurrence of "1st".
+
+Looking at the table:
+
+- 1961: 6th
+- 1962: 5th
+- 1963: 4th
+- 1964: 10th
+- 1965: 6th (tied)
+- 1966: 10th
+- 1967: 12th
+- 1968: 3rd
+- 1969: 4th
+- 1970: 1st
+- 1971: 4th (tied)
+- 1972: 5th
+- 1973: 5th
+- 1974: 6th
+- 1975: 1st
+- 1976: 2nd
+- 1977: 2nd
+- 1978: 8th
+- 1979: 8th
+- 1980: 5th
+- 1981: 3rd (tied)
+- 1982: 5th
+- 1983: 5th
+- 1984: 1st
+- 1985: 1st
+- 1986: 9th
+- 1987: 9th
+
+Now, the years where they finished first are:
+
+1970, 1975, 1984, and 1985. Wait, that's four times.
+
+Wait, let me recount to make sure I didn't miss any. Let's see:
+
+- 1961 to 1969: No first finishes except 1970.
+- Then in the 70s, 1975 is another one.
+- In the 80s, both 1984 and 1985 are back-to-back.
+
+But wait, I only count four instances. Wait, 1970 (1), 1975 (2), 1984 (3), 1985 (4). So that's correct: four times they finished first.
+
+Now, for each of those years, who were the managers?
+
+- 1970: Chuck Tanner
+- 1975: Roy Hartsfield
+- 1984: Tommy Sandt
+- 1985: Tommy Sandt
+
+So, let's see how many times each manager had a first-place finish.
+
+Chuck Tanner: 1 (1970)
+Roy Hartsfield: 1 (1975)
+Tommy Sandt: 2 (1984 and 1985)
+
+Wait, that adds up to four. So Tommy Sandt has two first-place finishes, while Chuck Tanner and Roy Hartsfield each have one.
+
+But wait, I need to make sure there are no other managers with first-place finishes that I missed. Let me check the table again for any '1st' in the Finish column. The entries at row 9 (1970), row14 (1975), row23 (1984), and row24 (1985) are the only ones.
+
+So, the counts are:
+
+- Chuck Tanner: 1
+- Roy Hartsfield: 1
+- Tommy Sandt: 2
+
+Therefore, Tommy Sandt is the manager who finished first the most, with two instances.
+</think>
+
+Final Answer: Tommy Sandt
+===================Answer===================
+Tommy Sandt

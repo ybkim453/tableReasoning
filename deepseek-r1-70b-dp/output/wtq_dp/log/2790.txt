@@ -1,0 +1,48 @@
+===================Title===================
+Martina Hrašnová
+===================Table===================
+|    |   Year | Competition                   | Venue                | Position   | Notes   |
+|---:|-------:|:------------------------------|:---------------------|:-----------|:--------|
+|  0 |   1999 | World Youth Championships     | Bydgoszcz, Poland    | 12th       | nan     |
+|  1 |   2000 | World Junior Championships    | Santiago, Chile      | 5th        | nan     |
+|  2 |   2001 | European Junior Championships | Grosseto, Italy      | 2nd        | 61.97 m |
+|  3 |   2001 | World Championships           | Edmonton, Canada     | 23rd       | 61.26 m |
+|  4 |   2002 | World Junior Championships    | Kingston, Jamaica    | 2nd        | 63.91 m |
+|  5 |   2002 | European Championships        | Munich, Germany      | 26th       | 60.28 m |
+|  6 |   2006 | European Championships        | Gothenburg, Sweden   | 26th       | 62.39 m |
+|  7 |   2007 | World Student Games           | Bangkok, Thailand    | 5th        | 64.95 m |
+|  8 |   2007 | World Championships           | Osaka, Japan         | 13th       | 68.15 m |
+|  9 |   2008 | Olympic Games                 | Beijing, PR China    | 8th        | 71.00 m |
+| 10 |   2008 | World Athletics Final         | Stuttgart, Germany   | 2nd        | 71.40 m |
+| 11 |   2009 | World Student Games           | Belgrade, Serbia     | 2nd        | 72.85 m |
+| 12 |   2009 | World Championships           | Berlin, Germany      | 3rd        | 74.79 m |
+| 13 |   2009 | World Athletics Final         | Thessaloniki, Greece | 3rd        | 70.45 m |
+| 14 |   2012 | European Championships        | Helsinki, Finland    | 2nd        | 73.34 m |
+===================Question===================
+what was the best position the competitor achieved before 2002?
+===================Text===================
+<think>
+Alright, so I need to figure out what was the best position Martina Hrašnová achieved before 2002 based on the table provided. Let me go through this step by step.
+
+First, I'll look at all the entries in the table and identify which ones occurred before the year 2002. The years listed are from 1999 up to 2012. So, I need to focus only on the rows where the Year is less than 2002. Let's list them out:
+
+- 1999: World Youth Championships, Bydgoszcz, Poland - Position 12th
+- 2000: World Junior Championships, Santiago, Chile - Position 5th
+- 2001: European Junior Championships, Grosseto, Italy - Position 2nd
+- 2001: World Championships, Edmonton, Canada - Position 23rd
+
+Now, I'll note the positions from these years. The positions are 12th, 5th, 2nd, and 23rd. Since we're looking for the best position, which is the highest rank (i.e., the lowest numerical value), I need to find the smallest number among these.
+
+Comparing these:
+
+- 12th place in 1999
+- 5th place in 2000
+- 2nd place in 2001
+- 23rd place also in 2001
+
+The best position here is 2nd place, which she achieved at the European Junior Championships in 2001. So, before 2002, her highest ranking was 2nd.
+</think>
+
+Final Answer: 2nd
+===================Answer===================
+2nd

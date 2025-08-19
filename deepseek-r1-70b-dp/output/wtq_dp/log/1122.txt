@@ -1,0 +1,349 @@
+===================Title===================
+Tommy Robredo career statistics
+===================Table===================
+|    | Outcome   |   No. | Date              | Tournament                                  | Surface   | Opponent           | Score                   |
+|---:|:----------|------:|:------------------|:--------------------------------------------|:----------|:-------------------|:------------------------|
+|  0 | Runner-up |     1 | 15 April 2001     | Grand Prix Hassan II, Casablanca, Morocco   | Clay      | Guillermo Cañas   | 5–7, 2–6                |
+|  1 | Winner    |     1 | 29 July 2001      | Orange Warsaw Open, Sopot, Poland           | Clay      | Albert Portas      | 1–6, 7–5, 7–6(7–2)      |
+|  2 | Runner-up |     2 | 20 July 2003      | Mercedes Cup, Stuttgart, Germany            | Clay      | Guillermo Coria    | 2–6, 2–6, 1–6           |
+|  3 | Winner    |     2 | 2 May 2004        | Torneo Godó, Barcelona, Spain              | Clay      | Gastón Gaudio     | 6–3, 4–6, 6–2, 3–6, 6–3 |
+|  4 | Runner-up |     3 | 1 May 2005        | Estoril Open, Estoril, Portugal             | Clay      | Gastón Gaudio     | 1–6, 6–2, 1–6           |
+|  5 | Runner-up |     4 | 30 April 2006     | Torneo Godó, Barcelona, Spain              | Clay      | Rafael Nadal       | 4–6, 4–6, 0–6           |
+|  6 | Winner    |     3 | 21 May 2006       | Hamburg Masters, Hamburg, Germany           | Clay      | Radek Štěpánek  | 6–1, 6–3, 6–3           |
+|  7 | Winner    |     4 | 16 July 2006      | Swedish Open, Båstad, Sweden               | Clay      | Nikolay Davydenko  | 6–2, 6–1                |
+|  8 | Runner-up |     5 | 14 January 2007   | Heineken Open, Auckland, New Zealand        | Hard      | David Ferrer       | 4–6, 2–6                |
+|  9 | Winner    |     5 | 5 August 2007     | Orange Warsaw Open, Sopot, Poland (2)       | Clay      | José Acasuso      | 7–5, 6–0                |
+| 10 | Runner-up |     6 | 16 September 2007 | China Open, Beijing, China                  | Hard (i)  | Fernando González | 1–6, 6–3, 1–6           |
+| 11 | Winner    |     6 | 7 October 2007    | Open de Moselle, Metz, France               | Hard (i)  | Andy Murray        | 0–6, 6–2, 6–3           |
+| 12 | Runner-up |     7 | 15 June 2008      | Orange Warsaw Open, Warsaw, Poland          | Clay      | Nikolay Davydenko  | 3–6, 3–6                |
+| 13 | Winner    |     7 | 13 July 2008      | Swedish Open, Båstad, Sweden (2)           | Clay      | Tomáš Berdych    | 6–4, 6–1                |
+| 14 | Winner    |     8 | 14 February 2009  | Brasil Open, Costa do Sauípe, Brazil       | Clay      | Thomaz Bellucci    | 6–3, 3–6, 6–4           |
+| 15 | Winner    |     9 | 22 February 2009  | Copa Telmex, Buenos Aires, Argentina        | Clay      | Juan Mónaco       | 7–5, 2–6, 7–6(7–5)      |
+| 16 | Winner    |    10 | 6 February 2011   | Chile Open, Santiago, Chile                 | Clay      | Santiago Giraldo   | 6–2, 2–6, 7–6(7–5)      |
+| 17 | Winner    |    11 | 14 April 2013     | Grand Prix Hassan II, Casablanca, Morocco   | Clay      | Kevin Anderson     | 7–6(8–6), 4–6, 6–3      |
+| 18 | Winner    |    12 | 28 July 2013      | ATP Vegeta Croatia Open Umag, Umag, Croatia | Clay      | Fabio Fognini      | 6–0, 6–3                |
+===================Question===================
+how many days apart is the number 1 runner-up to the number 1 winner?
+===================Text===================
+<think>
+Alright, I need to figure out how many days apart the number 1 runner-up and the number 1 winner are in Tommy Robredo's career statistics table.
+
+First, let me look at the table entries. The first entry is index 0, which is a Runner-up on April 15, 2001. Then, the next entry is index 1, which is a Winner on July 29, 2001.
+
+So, I need to calculate the number of days between these two dates: from April 15, 2001, to July 29, 2001.
+
+Let me break it down month by month:
+
+April has 30 days. So from April 15 to April 30 is 15 days (since it's inclusive, maybe I should check if we count the start day or not).
+
+Wait, actually, when calculating the days between two dates, you typically subtract the earlier date from the later one.
+
+So, April 15 to July 29. Let me think in terms of each month:
+
+From April 15 to April 30: that's 16 days (including April 15th as day 0 or not? Hmm, sometimes when counting the days between two dates, you subtract the start date from the end date and add 1 if needed.)
+
+Wait, maybe using a date calculator would be more accurate, but since I don't have one, I'll calculate manually.
+
+April: From April 15 to April 30 is 16 days (including both start and end? Or not?)
+
+Wait, actually, it's better to count the number of days in each period:
+
+From April 15 to April 30: that's 15 days remaining in April after the 15th. So from April 16 to April 30 is 15 days. But if we include both start and end dates, it would be 16 days.
+
+Wait no, let me clarify. The number of days between two dates can be calculated by subtracting the earlier date from the later one. So:
+
+April 15 to July 29 is how many days?
+
+Let's compute each month:
+
+April: April has 30 days. From April 15 to April 30: 16 days (including the 15th as day 1? Or not?)
+
+Wait, no, when you subtract dates, it's end date minus start date.
+
+For example, from April 15 to April 30 is 15 days because:
+
+April 15 is day 0,
+
+April 16 is +1,
+
+...
+
+April 30 is the 15th day.
+
+So that's 15 days in April after the 15th.
+
+Then May has 31 days, and June has 30 days. Then up to July 29.
+
+Wait, let me break it down:
+
+From April 15 to April 30: 16 days? Wait no, because April 15 is the start date, so from April 15 (inclusive) to April 30 (inclusive), that's 16 days (since 30-15=15, plus 1).
+
+Wait, maybe I'm confusing. Let me count:
+
+April 15 is day 0,
+
+April 16: +1,
+
+...
+
+April 30: +15.
+
+So from April 15 to April 30 is 15 days later.
+
+Then May has 31 days, June has 30 days, and July up to the 29th.
+
+Wait, but wait. From April 15 to July 29:
+
+- April: from April 15 to April 30: 16 days (including both start and end)
+
+But actually, when you subtract dates, it's better to count each segment.
+
+Alternatively, I can think of it as the total number of days by adding up the remaining days in April, plus May, June, and then July.
+
+From April 15 to April 30: that's 16 days (including both start and end).
+
+Wait no, if you have from day 1 to day 2, that's 2 days. So from April 15 to April 16 is 2 days. Therefore, from April 15 to April 30 is 16 days.
+
+But wait, let me use a formula:
+
+Number of days = (end date - start date) + 1.
+
+So for April 15 to April 30: (30-15)+1=16 days.
+
+Then May has 31 days, June has 30 days, and up to July 29th.
+
+Wait, but we're going from April 15 to July 29. So:
+
+From April 15 to April 30: 16 days,
+
+May: 31 days,
+
+June: 30 days,
+
+July: 29 days (since it's up to July 29).
+
+So total days would be 16 + 31 + 30 +29.
+
+Wait no, because from April 15 to May 1 is 16 - (April 15 to April 30) =16 days. Wait, maybe I'm complicating this.
+
+Alternatively, perhaps it's better to calculate the exact number using a date calculator approach:
+
+Date difference between April 15 and July 29.
+
+Let me count each month step by step:
+
+From April 15 to May 15 is exactly one month, which has 30 days in April (wait no), wait. Wait, April has 30 days, but from April 15 to April 30 is 16 days as before.
+
+Then May:31, June:30, July up to 29.
+
+So total:
+
+April: 16 days,
+
+May:31,
+
+June:30,
+
+July:29.
+
+But wait, no. Because when adding, it's the sum of days from each month.
+
+Wait, but actually, April 15 to July 29 is:
+
+From April 15 to May 15: 1 month (but in terms of days, as above).
+
+Alternatively, perhaps using a day count formula.
+
+Let me use an example:
+
+April 15, 2001
+
+July 29, 2001
+
+The number of days between these two dates can be calculated by counting each segment.
+
+From April 15 to April 30:16 days,
+
+May:31,
+
+June:30,
+
+Then July 1-29:29 days.
+
+So total is 16 +31+30+29=106 days.
+
+Wait, that seems a bit high. Alternatively, perhaps I'm overcounting because May starts after April 15, so the first period is from April 15 to April 30 (16 days), then all of May (31), June (30), and July up to 29.
+
+So adding those gives 16+31=47 for April-May,
+
+plus June's 30:77,
+
+plus July's 29:106.
+
+Hmm, but let me think again. If I start on April 15, the next day is April 16 as +1, so April 15 to April 30 is 15 days (since 30-15=15). Then May has 31, June 30, July up to 29.
+
+Wait that would be 15 (April) +31+30+29 =105 days.
+
+But I'm getting confused whether to include both start and end dates. Let me clarify: when you have two dates, the number of days between them is end date minus start date plus one if inclusive.
+
+Wait, no. The formula for number of days between two dates (excluding the end date) is (end - start). But sometimes people count inclusively.
+
+Wait, perhaps using a simple example:
+
+From April 15 to April 16: that's 2 days including both. So if you subtract, it's 1 day difference, but the duration is 2 days.
+
+So in this case, from April 15 (day 0) to April 30:16 days (including April 30).
+
+Wait no, because April 15 is day 1, April 16 day 2,... up to April 30 as day 16. So that's 16 days in April.
+
+Then May has 31 days,
+
+June has 30,
+
+July up to 29.
+
+So total: 16+31=47 for April-May,
+
+47+30=77 (including June),
+
+77+29=106 days.
+
+But wait, if you count from April 15 as day 0, then the next day is +1. So the duration between April 15 and July 29 inclusive would be 105 days.
+
+Wait no, perhaps I should use a date calculator formula:
+
+Number of days = (Y2 - Y1) * 365 + days in each month.
+
+But let's think of it as:
+
+April: from 15 to 30 is 16 days,
+
+May:31,
+
+June:30,
+
+July:29.
+
+So 16+31=47, +30=77, +29=106 days.
+
+Alternatively, using an online calculator, but since I can't do that, perhaps a better approach is:
+
+From April 15 to July 29:
+
+April has 30 days. So from April 15 to end of April:30 -15 =15 days,
+
+May:31,
+
+June:30,
+
+July:29.
+
+So total:15+31=46, +30=76, +29=105 days.
+
+Wait that gives 105 days.
+
+But which is correct?
+
+Another approach: The number of days between two dates can be calculated by taking the end date minus start date and adding one if including both start and end. But in most cases, when someone asks "how many days between April 15 and July 29", they usually mean the number of days elapsed, which would exclude the end date.
+
+Wait no, actually, I think it's better to consider it as inclusive.
+
+So for example, how many days from Monday to Friday? It's 5 days including both. So similarly, from April 15 to April 30 is 16 days (including both). Then from May 1 to July 29: let me calculate that separately.
+
+Wait no, perhaps I'm overcomplicating.
+
+I think the correct approach is:
+
+Number of days = end date - start date + 1 (if inclusive).
+
+But in this case, we're just calculating the duration between the two dates, so maybe it's better to compute each segment.
+
+April:15th to 30th:16 days,
+
+May:31,
+
+June:30,
+
+July:29.
+
+So total is 16+31=47,
+
+Plus June 30:47+30=77,
+
+Plus July 29:77+29=106 days.
+
+Wait, but that gives 106 days. But another approach says it's 105.
+
+Alternatively, perhaps I'm including an extra day somewhere.
+
+Wait, let me think again:
+
+From April 15 to May 15 is exactly one month. How many days? April has 30 days, so from April 15 to April 30:16 days,
+
+Then May 1-15:15 days,
+
+So total 31 days in that period (16+15=31), which makes sense as a full month.
+
+Now, from May 15 to June 15 is another 31 days,
+
+But wait no, May has 31 days, so from May 1 to May 31 is 31 days,
+
+Similarly, June has 30 days.
+
+Wait, perhaps it's better to break down the months:
+
+April:16 (from 15th to end),
+
+May:31,
+
+June:30,
+
+July:29.
+
+So total is 16+31=47 for April and May,
+
+Plus 30 for June:77,
+
+Plus 29 for July:106 days.
+
+Yes, that seems correct. So from April 15 to July 29 inclusive would be 106 days.
+
+Wait no, because from April 15 (day 1) to April 30 is day 16,
+
+Then the next day is May 1 as day 17,
+
+So adding each month:
+
+April:16,
+
+May:31, which takes us up to June 15th?
+
+No, perhaps I'm miscounting.
+
+Alternatively, think of it in terms of weeks and days.
+
+But maybe a better approach is to accept that the number of days between April 15 and July 29 is 105 or 106. To be precise, let's count each month:
+
+From April 15 to April 30:16 days,
+
+May has 31 days,
+
+June has 30 days,
+
+July up to 29:29 days.
+
+So total is 16 +31 =47 (April-May),
+
+Plus June's 30:77,
+
+Plus July's 29:106.
+
+Therefore, the number of days between April 15 and July 29 inclusive is 106 days. However, sometimes when calculating the duration between two dates, it's exclusive of the end date. So if we're counting from day 1 to day 2 as 1 day difference but 2 days duration.
+
+But in this context, since the user is asking for "how many days between April 15 and July 29", I think they want the number of days elapsed, which would be 105 days. Wait no, perhaps not.
+
+Wait, let's take a simple example: How many days are there from May 1 to May 2? It's 2 days including both. So from May 1 to May 2 inclusive is 2 days.
+
+Similarly,
+===================Answer===================
+105

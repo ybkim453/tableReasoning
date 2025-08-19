@@ -1,0 +1,155 @@
+===================Title===================
+Portable character set
+===================Table===================
+|     | name                 | glyph   | C string   | Unicode   | Unicode name              |
+|----:|:---------------------|:--------|:-----------|:----------|:--------------------------|
+|   0 | NUL                  | nan     | \\0        | U+0000    | NULL (NUL)                |
+|   1 | alert                | nan     | \\a        | U+0007    | BELL (BEL)                |
+|   2 | backspace            | nan     | \\b        | U+0008    | BACKSPACE (BS)            |
+|   3 | tab                  | nan     | \\t        | U+0009    | CHARACTER TABULATION (HT) |
+|   4 | carriage-return      | nan     | \\r        | U+000D    | CARRIAGE RETURN (CR)      |
+|   5 | newline              | nan     | \\n        | U+000A    | LINE FEED (LF)            |
+|   6 | vertical-tab         | nan     | \\v        | U+000B    | LINE TABULATION (VT)      |
+|   7 | form-feed            | nan     | \\f        | U+000C    | FORM FEED (FF)            |
+|   8 | space                | nan     | nan        | U+0020    | SPACE                     |
+|   9 | exclamation-mark     | !       | !          | U+0021    | EXCLAMATION MARK          |
+|  10 | quotation-mark       | "       | \\"        | U+0022    | QUOTATION MARK            |
+|  11 | number-sign          | #       | #          | U+0023    | NUMBER SIGN               |
+|  12 | dollar-sign          | $       | $          | U+0024    | DOLLAR SIGN               |
+|  13 | percent-sign         | %       | %          | U+0025    | PERCENT SIGN              |
+|  14 | ampersand            | &       | &          | U+0026    | AMPERSAND                 |
+|  15 | apostrophe           | '       | \\'        | U+0027    | APOSTROPHE                |
+|  16 | left-parenthesis     | (       | (          | U+0028    | LEFT PARENTHESIS          |
+|  17 | right-parenthesis    | )       | )          | U+0029    | RIGHT PARENTHESIS         |
+|  18 | asterisk             | *       | *          | U+002A    | ASTERISK                  |
+|  19 | plus-sign            | +       | +          | U+002B    | PLUS SIGN                 |
+|  20 | comma                | ,       | ,          | U+002C    | COMMA                     |
+|  21 | hyphen               | -       | -          | U+002D    | HYPHEN-MINUS              |
+|  22 | period               | .       | .          | U+002E    | FULL STOP                 |
+|  23 | slash                | /       | /          | U+002F    | SOLIDUS                   |
+|  24 | zero                 | 0       | 0          | U+0030    | DIGIT ZERO                |
+|  25 | one                  | 1       | 1          | U+0031    | DIGIT ONE                 |
+|  26 | two                  | 2       | 2          | U+0032    | DIGIT TWO                 |
+|  27 | three                | 3       | 3          | U+0033    | DIGIT THREE               |
+|  28 | four                 | 4       | 4          | U+0034    | DIGIT FOUR                |
+|  29 | five                 | 5       | 5          | U+0035    | DIGIT FIVE                |
+|  30 | six                  | 6       | 6          | U+0036    | DIGIT SIX                 |
+|  31 | seven                | 7       | 7          | U+0037    | DIGIT SEVEN               |
+|  32 | eight                | 8       | 8          | U+0038    | DIGIT EIGHT               |
+|  33 | nine                 | 9       | 9          | U+0039    | DIGIT NINE                |
+|  34 | colon                | :       | :          | U+003A    | COLON                     |
+|  35 | semicolon            | ;       | ;          | U+003B    | SEMICOLON                 |
+|  36 | less-than-sign       | <       | <          | U+003C    | LESS-THAN SIGN            |
+|  37 | equals-sign          | =       | =          | U+003D    | EQUALS SIGN               |
+|  38 | greater-than-sign    | >       | >          | U+003E    | GREATER-THAN SIGN         |
+|  39 | question-mark        | ?       | ?          | U+003F    | QUESTION MARK             |
+|  40 | commercial-at        | @       | @          | U+0040    | COMMERCIAL AT             |
+|  41 | A                    | A       | A          | U+0041    | LATIN CAPITAL LETTER A    |
+|  42 | B                    | B       | B          | U+0042    | LATIN CAPITAL LETTER B    |
+|  43 | C                    | C       | C          | U+0043    | LATIN CAPITAL LETTER C    |
+|  44 | D                    | D       | D          | U+0044    | LATIN CAPITAL LETTER D    |
+|  45 | E                    | E       | E          | U+0045    | LATIN CAPITAL LETTER E    |
+|  46 | F                    | F       | F          | U+0046    | LATIN CAPITAL LETTER F    |
+|  47 | G                    | G       | G          | U+0047    | LATIN CAPITAL LETTER G    |
+|  48 | H                    | H       | H          | U+0048    | LATIN CAPITAL LETTER H    |
+|  49 | I                    | I       | I          | U+0049    | LATIN CAPITAL LETTER I    |
+|  50 | J                    | J       | J          | U+004A    | LATIN CAPITAL LETTER J    |
+|  51 | K                    | K       | K          | U+004B    | LATIN CAPITAL LETTER K    |
+|  52 | L                    | L       | L          | U+004C    | LATIN CAPITAL LETTER L    |
+|  53 | M                    | M       | M          | U+004D    | LATIN CAPITAL LETTER M    |
+|  54 | N                    | N       | N          | U+004E    | LATIN CAPITAL LETTER N    |
+|  55 | O                    | O       | O          | U+004F    | LATIN CAPITAL LETTER O    |
+|  56 | P                    | P       | P          | U+0050    | LATIN CAPITAL LETTER P    |
+|  57 | Q                    | Q       | Q          | U+0051    | LATIN CAPITAL LETTER Q    |
+|  58 | R                    | R       | R          | U+0052    | LATIN CAPITAL LETTER R    |
+|  59 | S                    | S       | S          | U+0053    | LATIN CAPITAL LETTER S    |
+|  60 | T                    | T       | T          | U+0054    | LATIN CAPITAL LETTER T    |
+|  61 | U                    | U       | U          | U+0055    | LATIN CAPITAL LETTER U    |
+|  62 | V                    | V       | V          | U+0056    | LATIN CAPITAL LETTER V    |
+|  63 | W                    | W       | W          | U+0057    | LATIN CAPITAL LETTER W    |
+|  64 | X                    | X       | X          | U+0058    | LATIN CAPITAL LETTER X    |
+|  65 | Y                    | Y       | Y          | U+0059    | LATIN CAPITAL LETTER Y    |
+|  66 | Z                    | Z       | Z          | U+005A    | LATIN CAPITAL LETTER Z    |
+|  67 | left-square-bracket  | [       | [          | U+005B    | LEFT SQUARE BRACKET       |
+|  68 | backslash            | \\      | \\\\       | U+005C    | REVERSE SOLIDUS           |
+|  69 | right-square-bracket | ]       | ]          | U+005D    | RIGHT SQUARE BRACKET      |
+|  70 | circumflex           | ^       | ^          | U+005E    | CIRCUMFLEX ACCENT         |
+|  71 | underscore           | _       | _          | U+005F    | LOW LINE                  |
+|  72 | grave-accent         | `       | `          | U+0060    | GRAVE ACCENT              |
+|  73 | a                    | a       | a          | U+0061    | LATIN SMALL LETTER A      |
+|  74 | b                    | b       | b          | U+0062    | LATIN SMALL LETTER B      |
+|  75 | c                    | c       | c          | U+0063    | LATIN SMALL LETTER C      |
+|  76 | d                    | d       | d          | U+0064    | LATIN SMALL LETTER D      |
+|  77 | e                    | e       | e          | U+0065    | LATIN SMALL LETTER E      |
+|  78 | f                    | f       | f          | U+0066    | LATIN SMALL LETTER F      |
+|  79 | g                    | g       | g          | U+0067    | LATIN SMALL LETTER G      |
+|  80 | h                    | h       | h          | U+0068    | LATIN SMALL LETTER H      |
+|  81 | i                    | i       | i          | U+0069    | LATIN SMALL LETTER I      |
+|  82 | j                    | j       | j          | U+006A    | LATIN SMALL LETTER J      |
+|  83 | k                    | k       | k          | U+006B    | LATIN SMALL LETTER K      |
+|  84 | l                    | l       | l          | U+006C    | LATIN SMALL LETTER L      |
+|  85 | m                    | m       | m          | U+006D    | LATIN SMALL LETTER M      |
+|  86 | n                    | n       | n          | U+006E    | LATIN SMALL LETTER N      |
+|  87 | o                    | o       | o          | U+006F    | LATIN SMALL LETTER O      |
+|  88 | p                    | p       | p          | U+0070    | LATIN SMALL LETTER P      |
+|  89 | q                    | q       | q          | U+0071    | LATIN SMALL LETTER Q      |
+|  90 | r                    | r       | r          | U+0072    | LATIN SMALL LETTER R      |
+|  91 | s                    | s       | s          | U+0073    | LATIN SMALL LETTER S      |
+|  92 | t                    | t       | t          | U+0074    | LATIN SMALL LETTER T      |
+|  93 | u                    | u       | u          | U+0075    | LATIN SMALL LETTER U      |
+|  94 | v                    | v       | v          | U+0076    | LATIN SMALL LETTER V      |
+|  95 | w                    | w       | w          | U+0077    | LATIN SMALL LETTER W      |
+|  96 | x                    | x       | x          | U+0078    | LATIN SMALL LETTER X      |
+|  97 | y                    | y       | y          | U+0079    | LATIN SMALL LETTER Y      |
+|  98 | z                    | z       | z          | U+007A    | LATIN SMALL LETTER Z      |
+|  99 | left-brace           | {       | {          | U+007B    | LEFT CURLY BRACKET        |
+| 100 | vertical-line        | \p      | \p         | U+007C    | VERTICAL LINE             |
+| 101 | right-brace          | }       | }          | U+007D    | RIGHT CURLY BRACKET       |
+| 102 | tilde                | ~       | ~          | U+007E    | TILDE                     |
+===================Question===================
+each calculation begins with what unicode?
+===================Text===================
+<think>
+Okay, so I have this question about Unicode based on the provided table. The question is asking what each calculation begins with in terms of Unicode. Hmm, let me try to figure this out step by step.
+
+First, I need to understand what the table represents. It looks like a list of characters along with their corresponding Unicode code points. Each entry has an index number, a character, its name, and the Unicode value. For example, the first entry is 0 with a space, then 1 is '!', and so on.
+
+Wait, but looking at the table more closely, it starts from index 0. So each row corresponds to a particular index and shows what character is at that position in some encoding or mapping. The Unicode code points are given as U+ followed by four hexadecimal digits, like U+0020 for space.
+
+Now, the question is about "each calculation begins with what unicode?" I'm not entirely sure what the context of "calculation" is here. Maybe it refers to mathematical operations where each step starts with a particular character or symbol? Or perhaps it's about programming syntax where calculations begin with certain operators or identifiers.
+
+Looking back at the table, let me see which characters are typically used in mathematics or as starting points for expressions. The first few entries include space (U+0020), '!' (U+0021), '"' (U+0022), etc. Wait, but these don't seem directly related to beginning a calculation.
+
+Wait, perhaps the question is referring to the initial character of each line in the table as it pertains to calculations. But that might not make much sense because the first few entries are punctuation and space.
+
+Alternatively, maybe it's about what Unicode character starts a mathematical expression or operation. For example, in some contexts, an underscore (U+005F) is used for subscripts, but I'm not sure if that's relevant here.
+
+Wait another thought: In programming, certain characters like '=' or '+' start expressions or calculations. Let me check the table for those. The character '+' is at index 43 with Unicode U+002B. Hmm, but is that the starting point?
+
+Alternatively, in many programming languages, a calculation might begin with an assignment operator '=', which is at position 51 in the table (U+003D). Or maybe it's about variables, which start with letters like 'a' or 'A'. Looking at the table, lowercase 'a' starts at index 73 (U+0061), and uppercase 'A' is at index 36 (U+0041).
+
+Wait, but the question is more about each calculation beginning with what Unicode. Perhaps it's referring to the starting character of a mathematical expression or function call. In some contexts, functions start with letters, so maybe 'a' or 'A'.
+
+Alternatively, in some systems, calculations might begin with an operator like '+' (U+002B) or '-' (U+002D). But I'm not entirely sure.
+
+I think the key is to look for the first character in the table that's commonly used as the starting point of a calculation. The first entry is space (U+0020), but that doesn't make sense because you don't start a calculation with a space. Then, maybe '!' (U+0021) is next, which can be a factorial symbol. Factorials are part of calculations, so perhaps they begin with '!'.
+
+Wait, in mathematics, the factorial symbol is written after a number, like 5! So it's not necessarily at the beginning. Maybe I'm overcomplicating this.
+
+Another approach: sometimes in programming, especially in older systems or certain contexts, strings might be zero-indexed starting from 0 (U+0030). But that seems more about array indexing than calculations.
+
+Alternatively, perhaps the question is referring to the first character used in a calculation process. For example, in some calculators, you start with an operator like '+' before entering numbers. So looking at the table, '+' is U+002B.
+
+Wait, but another thought: In some contexts, variables are named starting with letters, so perhaps the first letter 'a' (U+0061) or 'A' (U+0041). But which one comes first? In programming, variables can start with either uppercase or lowercase, and they appear at different indices in the table. Lowercase starts around 73, while uppercase is earlier at 36.
+
+Hmm, but I'm not certain if that's what's being asked here. Maybe the question is more about mathematical symbols used to denote the beginning of an expression. For instance, the plus sign or equal sign.
+
+Alternatively, perhaps it's about the first character in the table that represents a starting point for calculations. The very first entry is space (U+0020), but I don't think that's relevant. Then '!' comes next, which might be the factorial symbol but not necessarily at the beginning of a calculation.
+
+Wait another angle: In some contexts, like in LaTeX or mathematical notation, a calculation might begin with a letter representing a variable. So perhaps 'a' (U+0061) is the answer because it's the first lowercase letter and variables often start here.
+
+Alternatively, maybe the question refers to the beginning of a string in programming, which starts at index 0, but that doesn't directly tie into Unicode for calculations.
+
+Wait, I think
+===================Answer===================
+U

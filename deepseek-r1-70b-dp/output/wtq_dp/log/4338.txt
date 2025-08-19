@@ -1,0 +1,72 @@
+===================Title===================
+Kodava Hockey Festival
+===================Table===================
+|    |   No. |   Year | Name             | Held at      |   Number of teams | Winner                   | Runners Up       |
+|---:|------:|-------:|:-----------------|:-------------|------------------:|:-------------------------|:-----------------|
+|  0 |     1 |   1997 | Pandanda Cup     | Karada       |                60 | Kaliyanda                | Anjaparavanda    |
+|  1 |     2 |   1998 | Kodira Cup       | Kadanga      |               116 | Kullettira               | Koothanda        |
+|  2 |     3 |   1999 | Ballachanda Cup  | Kakotparambu |               140 | Koothanda and Kullettira | -                |
+|  3 |     4 |   2000 | Cheppudira Cup   | Ponnampet    |               170 | Koothanda                | Nellamakkada     |
+|  4 |     5 |   2001 | Nellamakkada Cup | Ammathi      |               220 | Koothanda                | Cheppudira       |
+|  5 |     6 |   2002 | Chekkera Cup     | Hudikeri     |               252 | Kullettira               | Nellamakkada     |
+|  6 |     7 |   2003 | Kaliyanda Cup    | Napoklu      |               280 | Nellamakkada             | Konerira         |
+|  7 |     8 |   2004 | Maleyanda Cup    | Madapur      |               235 | Koothanda                | Nellamakkada     |
+|  8 |     9 |   2005 | Biddanda Cup     | Madikeri     |               222 | Nellamakkada             | Koothanda        |
+|  9 |    10 |   2006 | Kallichanda Cup  | Ponnampet    |               217 | Palanganda               | Machamada        |
+| 10 |    11 |   2007 | Mandettira Cup   | Kakotparambu |               186 | Mandepanda               | Anjaparavanda    |
+| 11 |    12 |   2008 | Alamengada Cup   | Ponnampet    |               216 | Anjaparavanda            | Koothanda        |
+| 12 |    13 |   2009 | Mandepanda Cup   | Ammathi      |               231 | Nellamakkada             | Koothanda        |
+| 13 |    14 |   2010 | Maneyapanda Cup  | Ponnampet    |               214 | Palanganda               | Mukkatira(Bonda) |
+| 14 |    15 |   2011 | Machamada Cup    | Ponnampet    |               228 | Palanganda               | Kaliyanda        |
+| 15 |    16 |   2012 | Iychetira Cup    | Ammathi      |               217 | Palanganda               | Kaliyanda        |
+| 16 |    17 |   2013 | Madanda Cup      | Balugodu     |               225 | Anjaparavanda            | Palanganda       |
+| 17 |    18 |   2014 | Thathanda Cup    | Virajpet     |               nan | nan                      | nan              |
+===================Question===================
+what number of teams participated in the madanda hockey fest of 2013?
+===================Text===================
+<think>
+Alright, so I need to figure out how many teams participated in the Madanda Hockey Fest of 2013 based on the provided table. Let me start by understanding the structure of the table.
+
+Looking at the columns, we have:
+
+- No.: This seems to be a row index starting from 0.
+- Year: The year the event took place.
+- Name: The name of the festival or cup for that year.
+- Held at: The location where it was held.
+- Number of teams: The total number of participating teams.
+- Winner and Runners Up: The winner and runner-up teams.
+
+The question is asking about the Madanda Hockey Fest in 2013. I need to find the entry from 2013 and look at the "Number of teams" for that row.
+
+Let me go through each row:
+
+1. **1997**: Pandanda Cup, 60 teams.
+2. **1998**: Kodira Cup, 116 teams.
+...
+Continuing this way would take too long. Maybe I can scan through looking for the year 2013 and the corresponding Name being Madanda Cup.
+
+Looking at the rows:
+
+- In row index 16 (which is No.17), Year is 2014, but that's too late. So before that.
+- At row index 14: No.15, Year 2011, Machamada Cup.
+- Row index 15: No.16, Year 2012, Iychetira Cup.
+- Row index 16: No.17, Year 2013, Madanda Cup.
+
+Wait, no, looking at the table:
+
+Looking more carefully, the row with Year 2013 is actually at No.17, which is index 16 because indexes start at 0.
+
+So, No. (column) | Year
+...
+16 | 17 | 2013 | Madanda Cup
+
+Yes, that's correct. So in 2013, the event was called the Madanda Cup, held at Balugodu, and the number of teams is listed as 225 under "Number of teams".
+
+So the answer should be 225.
+</think>
+
+The number of teams that participated in the Madanda Hockey Fest of 2013 was 225.
+
+Final Answer: 225
+===================Answer===================
+225

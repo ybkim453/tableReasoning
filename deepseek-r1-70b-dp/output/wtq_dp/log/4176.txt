@@ -1,0 +1,74 @@
+===================Title===================
+New South Wales 90 class locomotive
+===================Table===================
+|    |   Locomotive | Name                                                       | Serial No      | Entered Service   | Livery           |
+|---:|-------------:|:-----------------------------------------------------------|:---------------|:------------------|:-----------------|
+|  0 |         9001 | Ernest Henry                                               | 1373/918266-3  | May 94            | FreightCorp      |
+|  1 |         9002 | Michael Wendon                                             | 1374/918266-2  | May 94            | FreightCorp      |
+|  2 |         9003 | Matthew Ryan                                               | 1375/918266-1  | Aug 94            | FreightCorp      |
+|  3 |         9004 | Kevin Nichols                                              | 1376/918266-4  | May 94            | FreightCorp      |
+|  4 |         9005 | Kevin Barry                                                | 1377/918266-5  | May 94            | FreightCorp      |
+|  5 |         9006 | Murray Rose                                                | 1378/918266-6  | May 94            | FreightCorp      |
+|  6 |         9007 | Dunc Gray                                                  | 1379/918266-7  | May 94            | FreightCorp      |
+|  7 |         9008 | Ralph Doubell                                              | 1380/918266-8  | Aug 94            | FreightCorp      |
+|  8 |         9009 | Lionel Cox                                                 | 1381/918266-9  | Jul 94            | FreightCorp      |
+|  9 |         9010 | John Devitt                                                | 1382/918266-10 | Jul 94            | FreightCorp      |
+| 10 |         9011 | Kevan Gosper                                               | 1383/918266-11 | Jul 94            | FreightCorp      |
+| 11 |         9012 | Neil Brooks/Peter Evans/\nMark Kerry/Mark Tonelli          | 1384/918266-12 | Jun 94            | FreightCorp      |
+| 12 |         9013 | Michael Diamond                                            | 1385/918266-13 | Jun 94            | FreightCorp      |
+| 13 |         9014 | Peter Antonie/Stephen Hawkins                              | 1386/918266-14 | Jul 94            | FreightCorp      |
+| 14 |         9015 | Duncan Armstrong                                           | 1387/918266-15 | Jul 94            | FreightCorp      |
+| 15 |         9016 | Herb Elliott                                               | 1388/918266-16 | Jul 94            | FreightCorp      |
+| 16 |         9017 | Andrew Cooper/Nicholas Green/\nMichael McKay/James Tomkins | 1389/918266-17 | Jun 94            | FreightCorp      |
+| 17 |         9018 | John Konrads                                               | 1390/918266-18 | Jul 94            | FreightCorp      |
+| 18 |         9019 | Dean Lukin                                                 | 1391/918266-19 | Jul 94            | FreightCorp      |
+| 19 |         9020 | Russell Mark                                               | 1392/918266-20 | Jun 94            | FreightCorp      |
+| 20 |         9021 | Ian O'Brien                                                | 1393/918266-21 | Aug 94            | FreightCorp      |
+| 21 |         9022 | Clint Robinson                                             | 1394/918266-22 | Aug 94            | FreightCorp      |
+| 22 |         9023 | Robert Windle                                              | 1395/918266-23 | Oct 94            | FreightCorp      |
+| 23 |         9024 | John Winter                                                | 1396/918266-24 | Aug 94            | FreightCorp      |
+| 24 |         9025 | Todd Woodbridge/Mark Woodforde                             | 1397/918266-25 | Aug 94            | FreightCorp      |
+| 25 |         9026 | David Theile                                               | 1398/918266-26 | Oct 94            | FreightCorp      |
+| 26 |         9027 | -                                                          | 1399/918266-27 | Aug 94            | FreightCorp      |
+| 27 |         9028 | -                                                          | 1400/918266/28 | Aug 94            | FreightCorp      |
+| 28 |         9029 | -                                                          | 1401/918266/29 | Aug 94            | FreightCorp      |
+| 29 |         9030 | Australian Men's Hockey Team                               | 1402/918266-30 | Aug 94            | FreightCorp      |
+| 30 |         9031 | -                                                          | 1403/918266/31 | Aug 94            | FreightCorp      |
+| 31 |         9032 | -                                                          | 05-1692        | Nov 05            | Pacific National |
+| 32 |         9033 | -                                                          | 05-1693        | Nov 05            | Pacific National |
+| 33 |         9034 | -                                                          | 05-1694        | Nov 05            | Pacific National |
+| 34 |         9035 | -                                                          | 05-1695        | Nov 05            | Pacific National |
+===================Question===================
+what is the next name after murray rose?
+===================Text===================
+<think>
+Alright, so I'm trying to figure out what comes after Murray Rose in the list of locomotive names provided in the table. Let me start by looking at the table structure and understanding how it's organized.
+
+First, each row represents a different locomotive with several attributes: Locomotive number, Name, Serial No, Entered Service date, and Livery. The livery for most entries is FreightCorp until the later numbers where it changes to Pacific National, but that might not be relevant here.
+
+I'm focusing on the "Name" column because the question is about the name following Murray Rose. I'll scan through each row, looking at the Name field in order, since tables are usually ordered sequentially.
+
+Looking through the table:
+
+- The first few names are Ernest Henry, Michael Wendon, Matthew Ryan, Kevin Nichols, Kevin Barry, and then Murray Rose at locomotive 9006. Next is Dunc Gray at 9007.
+
+Wait, so after Murray Rose (9006) comes Dunc Gray (9007). So the immediate next name would be Dunc Gray.
+
+I should double-check to make sure I didn't skip any rows or misread the entries. Let's count:
+
+- 9001: Ernest Henry
+- 9002: Michael Wendon
+- 9003: Matthew Ryan
+- 9004: Kevin Nichols
+- 9005: Kevin Barry
+- 9006: Murray Rose
+- 9007: Dunc Gray
+
+Yes, that seems correct. So the next name after Murray Rose is Dunc Gray.
+</think>
+
+The next name after Murray Rose in the table is Dunc Gray.
+
+Final Answer: Dunc Gray
+===================Answer===================
+Dunc Gray

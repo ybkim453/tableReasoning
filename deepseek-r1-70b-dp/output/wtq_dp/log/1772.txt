@@ -1,0 +1,101 @@
+===================Title===================
+Haiti national football team
+===================Table===================
+|    | Date              | Location                          | Opponent            | Result   | Competition   |
+|---:|:------------------|:----------------------------------|:--------------------|:---------|:--------------|
+|  0 | January 19, 2013  | Concepción, Chile                | Chile               | 0–3      | F             |
+|  1 | February 6, 2013  | Santa Cruz de la Sierra, Bolivia  | Bolivia             | 1–2      | F             |
+|  2 | March 20, 2013    | Muscat, Oman                      | Oman                | 0–3      | F             |
+|  3 | March 24, 2013    | Santo Domingo, Dominican Republic | Dominican Republic  | 1–3      | F             |
+|  4 | June 8, 2013      | Miami, United States              | Spain               | 1–2      | F             |
+|  5 | June 11, 2013     | Rio de Janeiro, Brazil            | Italy               | 2–2      | F             |
+|  6 | July 8, 2013      | Harrison, United States           | Honduras            | 0–2      | GC            |
+|  7 | July 12, 2013     | Miami Gardens, United States      | Trinidad and Tobago | 2-0      | GC            |
+|  8 | July 15, 2013     | Houston, United States            | El Salvador         | 0-1      | GC            |
+|  9 | September 6, 2013 | Incheon, South Korea              | South Korea         | 1-4      | F             |
+| 10 | March 5, 2014     | Mitrovica, Kosovo                 | Kosovo              | 0–0      | F             |
+===================Question===================
+how many consecutive losses did hati have?
+===================Text===================
+<think>
+Alright, so I need to figure out how many consecutive losses the Haiti national football team had based on the provided table. Let me start by looking at each match and the results.
+
+First, I'll list out all the matches with their dates and results:
+
+1. January 19, 2013: Lost 0–3 against Chile
+2. February 6, 2013: Lost 1–2 against Bolivia
+3. March 20, 2013: Lost 0–3 against Oman
+4. March 24, 2013: Lost 1–3 against Dominican Republic
+5. June 8, 2013: Lost 1–2 against Spain
+6. June 11, 2013: Drew 2–2 against Italy
+7. July 8, 2013: Lost 0–2 against Honduras (GC)
+8. July 12, 2013: Won 2-0 against Trinidad and Tobago (GC)
+9. July 15, 2013: Lost 0–1 against El Salvador (GC)
+10. September 6, 2013: Lost 1-4 against South Korea
+11. March 5, 2014: Drew 0–0 against Kosovo
+
+Now, I need to track consecutive losses. Consecutive means they happened one after another without any wins or draws in between.
+
+Let's go step by step:
+
+From January to June 2013, Haiti played several matches. Let's see the sequence up to the draw with Italy on June 11.
+
+1. Jan 19: Loss
+2. Feb 6: Loss
+3. Mar 20: Loss
+4. Mar 24: Loss
+5. Jun 8: Loss
+
+So from January 19 to June 8, that's five losses in a row because each game after the first resulted in another loss without any wins or draws interrupting.
+
+But wait, on June 11, they drew against Italy, which breaks the losing streak. So up until June 8, the consecutive losses were five.
+
+After that draw, let's see what happens next:
+
+6. Jun 11: Draw
+7. Jul 8: Loss (starts a new streak)
+8. Jul 12: Win (breaks the streak)
+9. Jul 15: Loss (new streak of one)
+10. Sep 6: Loss (streak increases to two)
+11. Mar 5, 2014: Draw
+
+So after June 11, the next losses are not consecutive beyond a couple.
+
+Wait, but from March 20 to June 8, that's five straight losses before the draw on June 11.
+
+But I should make sure there were no other streaks longer than five. Let me check all sequences again.
+
+Looking at each game in order:
+
+1. Loss
+2. Loss (2)
+3. Loss (3)
+4. Loss (4)
+5. Loss (5) → up to Jun 8, 2013: five losses.
+6. Draw breaks the streak.
+7. Loss starts a new streak of one.
+8. Win ends it.
+9. Loss starts again, but only two in a row when considering game 9 and 10, then another loss in Sep.
+
+Wait, after July 15 (game 9), they lost to El Salvador, and then on September 6, they lost again against South Korea. So that's two consecutive losses from Jul 15 to Sep 6? Or is it three if including the previous ones?
+
+No, because between game 7 and 8: after losing on July 8 (game 7), they won on July 12 (game 8). Then lost on July 15 (game 9), which starts a new streak of one. Then next loss is Sep 6 (game 10), so that's two in a row after the win, but not more.
+
+So the longest consecutive losses are five in a row from Jan 19 to Jun 8.
+
+Wait, let me recount:
+
+- Game 0: Loss
+- Game 1: Loss → 2
+- Game 2: Loss →3
+- Game 3: Loss→4
+- Game 4: Loss→5
+
+That's five consecutive losses before the draw on June 11 (game 5). So the maximum consecutive losses are five.
+
+So the answer is 5.
+</think>
+
+Final Answer: 5
+===================Answer===================
+5

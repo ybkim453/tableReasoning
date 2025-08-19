@@ -1,0 +1,84 @@
+===================Title===================
+AFL Cairns
+===================Table===================
+|    |   Year | Premiers                        | Score       | Runners Up                      | Score .1   |
+|---:|-------:|:--------------------------------|:------------|:--------------------------------|:-----------|
+|  0 |   2003 | Centrals Trinity Beach Bulldogs | 14.11 (95)  | North Cairns                    | 6.7 (43)   |
+|  1 |   2004 | Port Douglas Crocs              | 17.13 (115) | North Cairns Tigers             | 8.9 (57)   |
+|  2 |   2005 | Port Douglas Crocs              | 19.14 (128) | Cairns Saints                   | 4.11 (35)  |
+|  3 |   2006 | Manunda Hawks                   | 11.11 (77)  | Centrals Trinity Beach Bulldogs | 10.9 (69)  |
+|  4 |   2007 | Centrals Trinity Beach Bulldogs | 14.16 (100) | Cairns Saints                   | 11.2 (68)  |
+|  5 |   2008 | Cairns Saints                   | 12.15 (87)  | North Cairns Tigers             | 2.9 (21)   |
+|  6 |   2009 | South Cairns Cutters            | 9.11 (65)   | Cairns Saints                   | 9.4 (58)   |
+|  7 |   2010 | North Cairns Tigers             | 8.10 (58)   | Port Douglas Crocs              | 8.5 (53)   |
+|  8 |   2011 | Manunda Hawks                   | 11.8 (74)   | Port Douglas Crocs              | 6.9 (45)   |
+|  9 |   2012 | Cairns Saints                   | 17.6 (108)  | North Cairns Tigers             | 11.12 (78) |
+| 10 |   2013 | North Cairns Tigers             | 14.14 (98)  | Port Douglas Crocs              | 13.6 (84)  |
+===================Question===================
+how many premiers had a score that was more than ten?
+===================Text===================
+<think>
+Okay, so I need to figure out how many premiers in the AFL Cairns table had a score that was more than ten. Let me start by understanding what the question is asking.
+
+First, looking at the table provided, there are 11 rows of data from 2003 to 2013. Each row represents a year and includes details about the Premiers and Runners Up, along with their scores.
+
+The key here is to focus on the "Premiers" column and specifically look at their scores under the "Score" column. The question is asking how many of these premiers had a score that was more than ten. Wait, but I need to clarify: are we talking about the actual points scored or maybe some other metric?
+
+Looking at the "Score" entries, they're in the format like 14.11 (95). In Australian football, this represents goals and behinds. The number in parentheses is the total points. So, for example, 14 goals and 11 behinds equal 95 points because each goal is worth 6 points and each behind is 1 point: 14*6 + 11 = 95.
+
+So, when the question asks about a score more than ten, I think it's referring to these total points in parentheses. Therefore, I need to check each Premier's score (the number in parentheses) and count how many are greater than ten.
+
+Let me go through each year:
+
+2003: Centrals Trinity Beach Bulldogs scored 95. That's way more than 10.
+2004: Port Douglas Crocs with 115. Also more than 10.
+2005: Port Douglas Crocs again, 128. Definitely over 10.
+2006: Manunda Hawks at 77. More than 10.
+2007: Centrals Trinity Beach Bulldogs scored 100. Above 10.
+2008: Cairns Saints with 87. More than 10.
+2009: South Cairns Cutters at 65. Yep, over 10.
+2010: North Cairns Tigers with 58. That's above 10.
+2011: Manunda Hawks scored 74. Also more than 10.
+2012: Cairns Saints with 108. Definitely higher than 10.
+2013: North Cairns Tigers at 98. More than 10.
+
+Wait a minute, every single Premier's score is way above ten. Let me double-check each one:
+
+2003:95 >10 → yes
+2004:115>10→yes
+2005:128>10→yes
+2006:77>10→yes
+2007:100>10→yes
+2008:87>10→yes
+2009:65>10→yes
+2010:58>10→yes
+2011:74>10→yes
+2012:108>10→yes
+2013:98>10→yes
+
+So each Premier's score in the "Score" column is more than ten. Therefore, all 11 premiers meet this criterion.
+
+Wait, but let me make sure I'm interpreting the scores correctly. The numbers in parentheses are the total points, and they're all above 40 or so except one? Wait no, looking again:
+
+Wait, let's list them:
+
+2003:95
+2004:115
+2005:128
+2006:77
+2007:100
+2008:87
+2009:65
+2010:58
+2011:74
+2012:108
+2013:98
+
+Yes, all these numbers are way above ten. So every Premier in the table has a score more than ten.
+
+So the answer should be 11 premiers.
+</think>
+
+Final Answer: 11
+===================Answer===================
+9

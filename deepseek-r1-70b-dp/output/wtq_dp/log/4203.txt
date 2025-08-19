@@ -1,0 +1,47 @@
+===================Title===================
+Churnet Valley Railway
+===================Table===================
+|    | Number   | Name                | Type                                   | Livery               | Status            | Notes                                                                                                    |
+|---:|:---------|:--------------------|:---------------------------------------|:---------------------|:------------------|:---------------------------------------------------------------------------------------------------------|
+|  0 | nan      | Brightside          | Yorkshire Engine Company 0-4-0         | Black                | Under Repair      | Currently dismantled for overhaul                                                                        |
+|  1 | 6        | Roger H. Bennett    | Yorkshire Engine Company "Janus" 0-6-0 | NCB Blue             | Operational       | ~                                                                                                        |
+|  2 | D2334    | nan                 | Class 04                               | Green                | Under Repair      | Stopped at Sep 2012 diesel gala after failure                                                            |
+|  3 | 25322    | Tamworth Castle     | Class 25                               | "Ice Cream Van" Blue | Static Display    | built in 1967. Cosmetically restored in 2008                                                             |
+|  4 | 33021    | Captain Charles     | Class 33                               | Blue                 | Operational       | built in 1960. On loan from Tysley                                                                       |
+|  5 | 33102    | Sophie (Unofficial) | Class 33                               | Blue                 | Operational       | built in 1960. Launched Sep 2012 - restoration still being completed although the loco is now in service |
+|  6 | 37407    | nan                 | Class 37                               | Transrail Grey       | Stored            | ~                                                                                                        |
+|  7 | 37424    | nan                 | Class 37                               | Transrail Grey       | Stored            | ~                                                                                                        |
+|  8 | 47524    | nan                 | Class 47                               | Rail Express Systems | Under restoration | ~                                                                                                        |
+===================Question===================
+how many locomotives are currently operational?
+===================Text===================
+<think>
+Alright, let's tackle this question step by step. The user wants to know how many locomotives are currently operational at the Churnet Valley Railway based on the provided table.
+
+First, I'll examine each row of the table to identify which locomotives have a "Status" of "Operational." There are eight entries in total, numbered from 0 to 8. Each entry includes details like Number, Name, Type, Livery, Status, and Notes.
+
+Looking at each locomotive:
+
+- Entry 0: The status is "Under Repair," so it's not operational.
+- Entry 1: Status is "Operational." That's one.
+- Entry 2: Status is "Under Repair," not operational.
+- Entry 3: Status is "Static Display," meaning it's on display but not in service.
+- Entry 4: Status is "Operational." That's the second operational locomotive.
+- Entry 5: Status is "Operational." That makes three, but wait, I need to check if this one is actually in service despite ongoing restoration. The notes say "restoration still being completed although the loco is now in service," so yes, it counts as operational.
+- Entries 6 and 7: Both have a status of "Stored," which means they're not in use.
+- Entry 8: Status is "Under Restoration," so it's not operational.
+
+Wait, that would make three operational locomotives based on the statuses. However, I need to double-check each entry to ensure accuracy.
+
+Reviewing again:
+
+1. Number 6: Roger H. Bennett - Operational
+4. 33021 Captain Charles - Operational
+5. 33102 Sophie (Unofficial) - Operational
+
+Yes, that's three locomotives. So the answer should be that there are three operational locomotives.
+</think>
+
+Final Answer: 3
+===================Answer===================
+3

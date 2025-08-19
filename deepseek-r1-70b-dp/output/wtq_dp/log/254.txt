@@ -1,0 +1,32 @@
+===================Title===================
+Taekwondo at the 2010 South American Games
+===================Table===================
+|    | Rank   | Nation               |   Gold |   Silver |   Bronze |   Total |
+|---:|:-------|:---------------------|-------:|---------:|---------:|--------:|
+|  0 | 1      | Brazil               |      7 |        5 |        3 |      15 |
+|  1 | 2      | Venezuela            |      3 |        2 |        8 |      13 |
+|  2 | 3      | Colombia             |      2 |        3 |        4 |       9 |
+|  3 | 4      | Chile                |      2 |        0 |        2 |       4 |
+|  4 | 5      | Argentina            |      1 |        2 |        5 |       8 |
+|  5 | 6      | Peru                 |      1 |        1 |        2 |       4 |
+|  6 | 7      | Ecuador              |      0 |        2 |        2 |       4 |
+|  7 | 8      | Guyana               |      0 |        1 |        0 |       1 |
+|  8 | 9      | Aruba                |      0 |        0 |        1 |       1 |
+|  9 | 9      | Netherlands Antilles |      0 |        0 |        1 |       1 |
+| 10 | 9      | Panama               |      0 |        0 |        1 |       1 |
+| 11 | 9      | Uruguay              |      0 |        0 |        1 |       1 |
+| 12 | Total  | Total                |     16 |       16 |       30 |      62 |
+===================Question===================
+this country has a count of 13 total medals.
+===================Text===================
+<think>
+Alright, I need to figure out which country has a total of 13 medals in the given table for Taekwondo at the 2010 South American Games. Let's start by looking at the "Total" column since that's where the sum of all medals is listed.
+
+Looking down the Total column, I see the numbers go from 15 down to 1 and some totals tied at lower numbers. The first row shows Brazil with 15 total medals, which is too high. Next, Venezuela has 13, which matches what we're looking for. Colombia follows with 9, Chile with 4, Argentina with 8, Peru also with 4, Ecuador has 4 as well. Then Guyana and several others have only 1 each.
+
+So the country that stands out with exactly 13 total medals is Venezuela. I don't see any other country in the table with that exact number except for Venezuela.
+</think>
+
+Final Answer: Venezuela
+===================Answer===================
+Venezuela

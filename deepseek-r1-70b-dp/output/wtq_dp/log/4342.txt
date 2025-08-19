@@ -1,0 +1,40 @@
+===================Title===================
+Transcona (electoral district)
+===================Table===================
+|    | Party                         | Candidate                     | Votes   |      % |     ∆% | Expenditures   |
+|---:|:------------------------------|:------------------------------|:--------|-------:|-------:|:---------------|
+|  0 | New Democratic Party          | Daryl Reid                    | 4,560   |  68.74 |  -0.74 | $19,318.05     |
+|  1 | Progressive Conservative      | Bryan McLeod                  | 1,470   |  22.16 |   7.76 | $2,732.56      |
+|  2 | Liberal                       | Gerald Basarab                | 604     |   9.1  |  -7.02 | $848.80        |
+|  3 | Total valid votes             | Total valid votes             | 6,634   | 100    | nan    | nan            |
+|  4 | Rejected and declined ballots | Rejected and declined ballots | 34      | nan    | nan    | nan            |
+|  5 | Turnout                       | Turnout                       | 6,668   |  48.75 |   0.21 | nan            |
+|  6 | Electors on the lists         | Electors on the lists         | 13,678  | nan    | nan    | nan            |
+===================Question===================
+how many more votes did daryl reid than bryan mcleod in the 2007 manitoba general election?
+===================Text===================
+<think>
+Alright, so I need to figure out how many more votes Daryl Reid got than Bryan McLeod in the 2007 Manitoba general election based on this table.
+
+First, looking at the table, each row represents different parties and their candidates along with the number of votes they received. The columns show the party name, candidate, votes, percentage, change in percentage, and expenditures.
+
+Daryl Reid is from the New Democratic Party and Bryan McLeod is from the Progressive Conservative Party. Their votes are listed under the 'Votes' column.
+
+So, Daryl Reid has 4,560 votes, and Bryan McLeod has 1,470 votes. To find out how many more votes Daryl got than Bryan, I subtract Bryan's votes from Daryl's.
+
+That would be 4,560 minus 1,470. Let me do that subtraction: 4,560 - 1,470 equals... let's see, 4,560 minus 1,000 is 3,560, then subtract another 470, which brings it down to 3,090.
+
+Wait, no, wait a second. Let me double-check my math because I might have made an error there. 4,560 minus 1,470: 4,560 - 1,000 is indeed 3,560, then subtracting another 400 would be 3,160, and then subtract the remaining 70 to get 3,090 total.
+
+Hmm, wait again. Let me break it down differently. 1,470 plus what gives 4,560? So starting from 1,470:
+
+Add 3,000 to 1,470, which gets us to 4,470. Then we need 90 more to reach 4,560. So that's 3,090 in total.
+
+Yes, so the difference is 3,090 votes.
+</think>
+
+Daryl Reid received 3,090 more votes than Bryan McLeod.
+
+Final Answer: 3090
+===================Answer===================
+3090

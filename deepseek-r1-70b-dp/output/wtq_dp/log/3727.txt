@@ -1,0 +1,33 @@
+===================Title===================
+Decimal floating point
+===================Table===================
+|    | decimal32   | decimal64   | decimal128   | decimal(32k)         | Format                                      |
+|---:|:------------|:------------|:-------------|:---------------------|:--------------------------------------------|
+|  0 | 1           | 1           | 1            | 1                    | Sign field (bits)                           |
+|  1 | 5           | 5           | 5            | 5                    | Combination field (bits)                    |
+|  2 | 6           | 8           | 12           | w = 2×k + 4          | Exponent continuation field (bits)          |
+|  3 | 20          | 50          | 110          | t = 30×k−10          | Coefficient continuation field (bits)       |
+|  4 | 32          | 64          | 128          | 32×k                 | Total size (bits)                           |
+|  5 | 7           | 16          | 34           | p = 3×t/10+1 = 9×k−2 | Coefficient size (decimal digits)           |
+|  6 | 192         | 768         | 12288        | 3×2w = 48×4k         | Exponent range                              |
+|  7 | 96          | 384         | 6144         | Emax = 3×2w−1        | Largest value is 9.99...×10Emax             |
+|  8 | −95         | −383        | −6143        | Emin = 1−Emax        | Smallest normalized value is 1.00...×10Emin |
+|  9 | −101        | −398        | −6176        | Etiny = 2−p−Emax     | Smallest non-zero value is 1×10Etiny        |
+===================Question===================
+what is the next listed format after combination field?
+===================Text===================
+<think>
+Okay, so I'm trying to figure out what comes after the combination field in the given table. Let me start by looking at the table structure provided. The table has several rows and columns related to different decimal floating-point formats like decimal32, decimal64, etc.
+
+Each row is labeled with a number from 0 to 9, and each column represents a specific aspect of these formats. The first column (row 0) lists the sign field in bits for each format. Then, row 1 is about the combination field. So, I'm focusing on finding out what comes right after that.
+
+Looking at the rows sequentially: row 0 is sign, row 1 is combination. The next one would logically be row 2. Checking row 2's description, it mentions "Exponent continuation field (bits)". That makes sense because in floating-point formats, after the sign and combination fields (which might include exponent information), you usually have more detailed exponent data.
+
+So, putting it together, the next listed format field after the combination field is the exponent continuation field.
+</think>
+
+The next field after "combination field" in the table is "Exponent continuation field".
+
+Final Answer: Exponent continuation field
+===================Answer===================
+Exponent continuation field (bits)

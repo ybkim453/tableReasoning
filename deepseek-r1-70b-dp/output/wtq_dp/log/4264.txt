@@ -1,0 +1,63 @@
+===================Title===================
+London Wasps
+===================Table===================
+|    |   Unnamed: 0 | Club                    |   Played |   Won |   Drawn |   Lost |   Points For |   Points Against |   Points Difference |   Tries For |   Tries Against |   Try Bonus |   Losing Bonus |   Points |
+|---:|-------------:|:------------------------|---------:|------:|--------:|-------:|-------------:|-----------------:|--------------------:|------------:|----------------:|------------:|---------------:|---------:|
+|  0 |            1 | Saracens (RU)           |       22 |    19 |       0 |      3 |          629 |              353 |                 276 |          68 |              39 |          10 |              1 |       87 |
+|  1 |            2 | Northampton Saints (CH) |       22 |    16 |       2 |      4 |          604 |              350 |                 254 |          72 |              31 |           7 |              3 |       78 |
+|  2 |            3 | Leicester Tigers (SF)   |       22 |    15 |       2 |      5 |          542 |              430 |                 112 |          59 |              41 |           7 |              3 |       74 |
+|  3 |            4 | Harlequins (SF)         |       22 |    15 |       0 |      7 |          437 |              365 |                  72 |          43 |              33 |           4 |              3 |       67 |
+|  4 |            5 | Bath                    |       22 |    14 |       2 |      6 |          495 |              388 |                 107 |          48 |              38 |           4 |              3 |       67 |
+|  5 |            6 | Sale Sharks             |       22 |    12 |       0 |     10 |          432 |              399 |                  33 |          46 |              40 |           3 |              6 |       57 |
+|  6 |            7 | London Wasps            |       22 |     9 |       0 |     13 |          451 |              533 |                 -82 |          48 |              56 |           4 |              9 |       49 |
+|  7 |            8 | Exeter Chiefs           |       22 |     9 |       0 |     13 |          426 |              480 |                 -54 |          40 |              51 |           2 |              7 |       45 |
+|  8 |            9 | Gloucester              |       22 |     8 |       0 |     14 |          440 |              539 |                 -99 |          46 |              60 |           4 |              8 |       44 |
+|  9 |           10 | London Irish            |       22 |     7 |       0 |     15 |          396 |              496 |                -100 |          40 |              49 |           2 |              6 |       36 |
+| 10 |           11 | Newcastle Falcons       |       22 |     3 |       0 |     19 |          281 |              544 |                -263 |          23 |              62 |           2 |              8 |       22 |
+| 11 |           12 | Worcester Warriors (R)  |       22 |     2 |       0 |     20 |          325 |              581 |                -256 |          31 |              64 |           1 |              7 |       16 |
+===================Question===================
+which team has the most draws/wins combined together?
+===================Text===================
+<think>
+Alright, I need to figure out which team has the most combined wins and draws from the given table. Let me start by understanding the table structure.
+
+Looking at the columns: each row represents a different rugby team with stats like Played, Won, Drawn, Lost, etc. The key here is the "Won" and "Drawn" columns since I need to combine those for each team.
+
+I'll go through each team one by one:
+
+1. **Saracens (RU)**: Won 19, Drawn 0 → Total = 19
+2. **Northampton Saints (CH)**: Won 16, Drawn 2 → Total = 18
+3. **Leicester Tigers (SF)**: Won 15, Drawn 2 → Total = 17
+4. **Harlequins (SF)**: Won 15, Drawn 0 → Total = 15
+5. **Bath**: Won 14, Drawn 2 → Total = 16
+6. **Sale Sharks**: Won 12, Drawn 0 → Total = 12
+7. **London Wasps**: Won 9, Drawn 0 → Total = 9
+8. **Exeter Chiefs**: Won 9, Drawn 0 → Total = 9
+9. **Gloucester**: Won 8, Drawn 0 → Total = 8
+10. **London Irish**: Won 7, Drawn 0 → Total = 7
+11. **Newcastle Falcons**: Won 3, Drawn 0 → Total = 3
+12. **Worcester Warriors (R)**: Won 2, Drawn 0 → Total = 2
+
+Now, I'll list out the totals to compare:
+
+- Saracens: 19
+- Northampton Saints: 18
+- Leicester Tigers:17
+- Bath:16
+- Harlequins:15
+- Sale Sharks:12
+- London Wasps:9
+- Exeter Chiefs:9
+- Gloucester:8
+- London Irish:7
+- Newcastle Falcons:3
+- Worcester Warriors:2
+
+The highest total is 19 from Saracens. So, Saracens have the most combined wins and draws.
+
+Wait, but let me double-check in case I missed any. Looking back, no, the next closest is Northampton Saints with 18, so yes, Saracens are on top here.
+</think>
+
+Final Answer: Saracens (RU)
+===================Answer===================
+Saracens (RU)

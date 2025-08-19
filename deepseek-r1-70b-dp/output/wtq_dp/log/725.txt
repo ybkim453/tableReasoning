@@ -1,0 +1,72 @@
+===================Title===================
+2009 Honda 200
+===================Table===================
+|    |   Pos |   No. | Driver              | Team                       |   Laps | Time/Retired   |   Grid |   Laps Led |   Points |
+|---:|------:|------:|:--------------------|:---------------------------|-------:|:---------------|-------:|-----------:|---------:|
+|  0 |     1 |     9 | Scott Dixon         | Chip Ganassi Racing        |     85 | 1:46:05.7985   |      3 |         51 |       52 |
+|  1 |     2 |     6 | Ryan Briscoe        | Penske Racing              |     85 | + 29.7803      |      1 |          6 |       41 |
+|  2 |     3 |    10 | Dario Franchitti    | Chip Ganassi Racing        |     85 | + 30.0551      |      6 |          0 |       35 |
+|  3 |     4 |    14 | Ryan Hunter-Reay    | A. J. Foyt Enterprises     |     85 | + 33.7307      |      7 |          0 |       32 |
+|  4 |     5 |    27 | Hideki Mutoh        | Andretti Green Racing      |     85 | + 34.1839      |     11 |          0 |       30 |
+|  5 |     6 |    26 | Marco Andretti      | Andretti Green Racing      |     85 | + 46.7669      |     13 |          0 |       28 |
+|  6 |     7 |     5 | Paul Tracy          | KV Racing Technology       |     85 | + 49.7020      |     10 |          0 |       26 |
+|  7 |     8 |     2 | Graham Rahal        | Newman/Haas/Lanigan Racing |     85 | + 50.4517      |      4 |          0 |       24 |
+|  8 |     9 |     2 | Raphael Matos (R)   | Luczo-Dragon Racing        |     85 | + 51.2286      |     15 |          0 |       22 |
+|  9 |    10 |    11 | Tony Kanaan         | Andretti Green Racing      |     85 | + 52.0810      |      8 |          0 |       20 |
+| 10 |    11 |     6 | Oriol Servià       | Newman/Haas/Lanigan Racing |     85 | + 52.6215      |     14 |          0 |       19 |
+| 11 |    12 |     3 | Hélio Castroneves  | Penske Racing              |     85 | + 53.2362      |      5 |          0 |       18 |
+| 12 |    13 |    18 | Justin Wilson       | Dale Coyne Racing          |     85 | + 53.5768      |      2 |         28 |       17 |
+| 13 |    14 |    33 | Robert Doornbos (R) | HVM Racing                 |     85 | + 1:10.0812    |     18 |          0 |       16 |
+| 14 |    15 |    13 | E. J. Viso          | HVM Racing                 |     84 | + 1 Lap        |      9 |          0 |       15 |
+| 15 |    16 |     4 | Dan Wheldon         | Panther Racing             |     84 | + 1 Lap        |     17 |          0 |       14 |
+| 16 |    17 |    20 | Ed Carpenter        | Vision Racing              |     84 | + 1 Lap        |     21 |          0 |       13 |
+| 17 |    18 |    98 | Richard Antinucci   | Team 3G                    |     83 | + 2 Laps       |     19 |          0 |       12 |
+| 18 |    19 |     7 | Danica Patrick      | Andretti Green Racing      |     83 | + 2 Laps       |     12 |          0 |       12 |
+| 19 |    20 |    24 | Mike Conway (R)     | Dreyer & Reinbold Racing   |     69 | Mechanical     |     16 |          0 |       12 |
+| 20 |    21 |    23 | Milka Duno          | Dreyer & Reinbold Racing   |     56 | Handling       |     20 |          0 |       12 |
+===================Question===================
+how many drivers had more laps led than justin wilson?
+===================Text===================
+<think>
+Okay, I need to figure out how many drivers had more laps led than Justin Wilson based on the given table. Let's start by understanding what each column represents.
+
+Looking at the columns: Pos (Position), No. (Car Number), Driver, Team, Laps, Time/Retired, Grid, Laps Led, and Points. The key here is the "Laps Led" column because that will tell me how many laps each driver led during the race.
+
+I need to find out Justin Wilson's laps led first. Scanning through the table for his name... Ah, there he is at position 13, with 17 laps led according to row 12 (since rows are zero-indexed). Wait, actually, looking again: Row 12 has Position 13, Driver Justin Wilson, and Laps Led listed as 28. So Justin Wilson led 28 laps.
+
+Wait, let me double-check that because the "Pos" column shows his finishing position, not necessarily his row number. The "Laps Led" for each driver is in the same row. So in Row 12 (which is the 13th position), Laps Led is 28. So Justin led 28 laps.
+
+Now, I need to go through each driver and see if their "Laps Led" are more than 28.
+
+Starting from the top:
+
+1. Scott Dixon: Laps Led is 51. That's more than 28.
+2. Ryan Briscoe: 6 laps. Less than 28.
+3. Dario Franchitti: 0. Less.
+4. Ryan Hunter-Reay: 0. Less.
+5. Hideki Mutoh: 0. Less.
+6. Marco Andretti: 0. Less.
+7. Paul Tracy: 0. Less.
+8. Graham Rahal: 0. Less.
+9. Raphael Matos: 0. Less.
+10. Tony Kanaan: 0. Less.
+11. Oriol Servià: 0. Less.
+12. Hélio Castroneves: 0. Less.
+13. Justin Wilson: 28. That's the reference point.
+14. Robert Doornbos: 0. Less.
+15. E. J. Viso: 0. Less.
+16. Dan Wheldon: 0. Less.
+17. Ed Carpenter: 0. Less.
+18. Richard Antinucci: 0. Less.
+19. Danica Patrick: 0. Less.
+20. Mike Conway: 0. Less.
+21. Milka Duno: 0. Less.
+
+Wait, that's all the rows except for Scott Dixon who had 51 laps led. So only one driver (Scott Dixon) had more laps led than Justin Wilson.
+
+Therefore, the number of drivers with more laps led is just one person.
+</think>
+
+Final Answer: 1
+===================Answer===================
+1

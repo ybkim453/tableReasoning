@@ -1,0 +1,50 @@
+===================Title===================
+Swimming at the 1995 Pan American Games – Women's 400 metre individual medley
+===================Table===================
+|    |   Rank | Name            | Nationality   | Time    |
+|---:|-------:|:----------------|:--------------|:--------|
+|  0 |    nan | Joanne Malar    | Canada        | 4:43.64 |
+|  1 |    nan | Alison Fealey   | United States | 4:48.31 |
+|  2 |    nan | Jenny Kurth     | United States | 4:57.24 |
+|  3 |      4 | Sonia Fonseca   | Puerto Rico   | 5:03.15 |
+|  4 |      5 | Fabíola Molina | Brazil        | 5:03.43 |
+|  5 |      6 | Isabel Rojas    | Colombia      | 5:11.58 |
+|  6 |      7 | Carolyn Adel    | Suriname      | 5:13.24 |
+|  7 |      8 | Edith Arraspide | Argentina     | 5:13.95 |
+===================Question===================
+how many countries have more than 1 athlete?
+===================Text===================
+<think>
+Alright, let's try to figure this out step by step. So, I have this table about the Women's 400 metre individual medley event at the 1995 Pan American Games. The question is asking how many countries have more than one athlete competing.
+
+First, I'll look at each row and note down the Nationality of each athlete to see which countries are represented multiple times. 
+
+Looking through the table:
+
+1. Joanne Malar from Canada.
+2. Alison Fealey from the United States.
+3. Jenny Kurth also from the United States.
+4. Sonia Fonseca from Puerto Rico.
+5. Fabíola Molina from Brazil.
+6. Isabel Rojas from Colombia.
+7. Carolyn Adel from Suriname.
+8. Edith Arraspide from Argentina.
+
+Now, I'll list out the nationalities to check for duplicates:
+
+- Canada: 1 athlete
+- United States: 2 athletes (Alison Fealey and Jenny Kurth)
+- Puerto Rico: 1
+- Brazil: 1
+- Colombia: 1
+- Suriname: 1
+- Argentina: 1
+
+From this, only the United States has two athletes. All other countries have just one athlete each.
+
+So, the number of countries with more than one athlete is just 1.
+</think>
+
+Final Answer: 1
+===================Answer===================
+1

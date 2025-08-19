@@ -1,0 +1,84 @@
+===================Title===================
+Brose Baskets
+===================Table===================
+|    | Season   |   Tier | League     |   Pos. | Postseason          | German Cup      | European competitions                          |
+|---:|:---------|-------:|:-----------|-------:|:--------------------|:----------------|:-----------------------------------------------|
+|  0 | 1991–92  |      1 | Bundesliga |      2 | Semifinalist        | Champion        | –                                              |
+|  1 | 1992–93  |      1 | Bundesliga |      1 | Finalist            | –               | –                                              |
+|  2 | 1993–94  |      1 | Bundesliga |      1 | Semifinalist        | Semifinalist    | –                                              |
+|  3 | 1994–95  |      1 | Bundesliga |      1 | Semifinalist        | –               | 3 Played Korać Cup                            |
+|  4 | 1995–96  |      1 | Bundesliga |      4 | Semifinalist        | Semifinalist    | 3 Played Korać Cup                            |
+|  5 | 1996–97  |      1 | Bundesliga |      3 | Semifinalist        | Semifinalist    | 3 Played Korać Cup                            |
+|  6 | 1997–98  |      1 | Bundesliga |      3 | Semifinalist        | –               | 3 Played Korać Cup                            |
+|  7 | 1998–99  |      1 | Bundesliga |      6 | Quarterfinalist     | Third place     | 3 Played Korać Cup                            |
+|  8 | 1999–00  |      1 | Bundesliga |     10 | Round of 16         | –               | –                                              |
+|  9 | 2000–01  |      1 | Bundesliga |     10 | Relegation playoffs | –               | –                                              |
+| 10 | 2001–02  |      1 | Bundesliga |      7 | Quarterfinalist     | –               | –                                              |
+| 11 | 2002–03  |      1 | Bundesliga |      2 | Finalist            | –               | –                                              |
+| 12 | 2003–04  |      1 | Bundesliga |      2 | Finalist            | –               | 3 Played FIBA Europe League                    |
+| 13 | 2004–05  |      1 | Bundesliga |      1 | Champion            | –               | 2 Played ULEB Cup                              |
+| 14 | 2005–06  |      1 | Bundesliga |      3 | Semifinalist        | Finalist        | 1 Euroleague Top 16                            |
+| 15 | 2006–07  |      1 | Bundesliga |      1 | Champion            | –               | 2 Played ULEB Cup                              |
+| 16 | 2007–08  |      1 | Bundesliga |      7 | Quarterfinalist     | –               | 1 Euroleague Regular Season                    |
+| 17 | 2008–09  |      1 | Bundesliga |      4 | Semifinalist        | –               | 2 Played Eurocup                               |
+| 18 | 2009–10  |      1 | Bundesliga |      1 | Champion            | Champion        | 2 Played Eurocup                               |
+| 19 | 2010–11  |      1 | Bundesliga |      1 | Champion            | Champion        | 1 Euroleague Regular Season                    |
+| 20 | 2011–12  |      1 | Bundesliga |      1 | Champion            | Champion        | 1 Euroleague Regular Season                    |
+| 21 | 2012–13  |      1 | Bundesliga |      1 | Champion            | Quarterfinalist | 1 Euroleague Top 16                            |
+| 22 | 2013–14  |      1 | Bundesliga |    nan | nan                 | Third place     | 1 Euroleague Regular Season\n2 Eurocup Last 32 |
+===================Question===================
+how many german championship titles did the team win after season 2000-01?
+===================Text===================
+<think>
+Alright, I'm trying to figure out how many German championship titles Brose Baskets won after the 2000-01 season. Let me go through this step by step.
+
+First, I look at the table provided and see that it lists various seasons from 1991-92 up to 2013-14. Each row represents a different season with details like their position in the league (Pos.), postseason results, German Cup outcomes, and European competitions.
+
+The question is asking specifically about the number of championships won after the 2000-01 season. So I need to focus on seasons that come after 2000-01. 
+
+Looking at the table, the row with Season 1991–92 is index 0, so each subsequent row increments by one. Therefore, the 2000–01 season would be index 9. That means any championships won in seasons after this would start from index 10 onwards.
+
+Now, I need to examine each season from 2001-02 (index 10) up to 2013-14 (index 22) and count how many times Brose Baskets were champions, which is indicated by "Champion" in the Postseason column.
+
+Let me go through each relevant row:
+
+- **2001–02 (Index 10):** Postseason shows "Quarterfinalist". Not a champion.
+- **2002–03 (Index 11):** Postseason is "Finalist", so they reached the final but didn't win it. Not champions.
+- **2003–04 (Index 12):** Again, "Finalist" in postseason. Still not champions.
+- **2004–05 (Index 13):** Here, Postseason says "Champion". That's one title.
+- **2005–06 (Index 14):** They were "Semifinalist", so no championship here.
+- **2006–07 (Index 15):** Postseason is "Champion" again. That's the second title.
+- **2007–08 (Index 16):** Only reached "Quarterfinalist". No championship.
+- **2008–09 (Index 17):** They were "Semifinalist", so no win.
+- **2009–10 (Index 18):** Postseason shows "Champion". Third title.
+- **2010–11 (Index 19):** Another "Champion" in postseason. Fourth title.
+- **2011–12 (Index 20):** They won again, making it five titles.
+- **2012–13 (Index 21):** Once more, "Champion". Sixth title.
+- **2013–14 (Index 22):** The Postseason has "nan", which I assume means not applicable or no data. But looking further, the German Cup shows "Third place", but for championships, it's about the Bundesliga title. Since Postseason is 'nan', maybe they didn't win that year. Also, checking previous rows, after 2012-13, Brose Baskets continued to be strong.
+
+Wait a minute, let me recount because I might have made a mistake in counting. Let me list them out:
+
+After 2000–01, the first possible championship is in 2004–05 (1), then 2006–07 (2), 2009–10 (3), 2010–11 (4), 2011–12 (5), and 2012–13 (6). Each of these seasons from index 13 to 21 show "Champion" in Postseason.
+
+So that's a total of six championships after the 2000-01 season. I need to make sure I didn't miss any or count any extra. Let me check each row again quickly:
+
+- Index 10: No
+- Index 11: No
+- Index 12: No
+- Index 13: Yes (1)
+- Index 14: No
+- Index 15: Yes (2)
+- Index 16: No
+- Index 17: No
+- Index 18: Yes (3)
+- Index 19: Yes (4)
+- Index 20: Yes (5)
+- Index 21: Yes (6)
+- Index 22: No, as Postseason is 'nan'
+
+Yes, that seems correct. So Brose Baskets won 6 German championships after the 2000–01 season.
+</think>
+
+Final Answer: 6
+===================Answer===================
+3

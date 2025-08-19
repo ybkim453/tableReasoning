@@ -1,0 +1,37 @@
+===================Title===================
+Speed skating at the 1972 Winter Olympics
+===================Table===================
+|    |   Rank | Nation              |   Gold |   Silver |   Bronze |   Total |
+|---:|-------:|:--------------------|-------:|---------:|---------:|--------:|
+|  0 |      1 | Netherlands (NED)   |      4 |        3 |        2 |       9 |
+|  1 |      2 | United States (USA) |      2 |        1 |        1 |       4 |
+|  2 |      3 | West Germany (FRG)  |      2 |        0 |        0 |       2 |
+|  3 |      4 | Norway (NOR)        |      0 |        2 |        2 |       4 |
+|  4 |      5 | Soviet Union (URS)  |      0 |        1 |        2 |       3 |
+|  5 |      6 | Sweden (SWE)        |      0 |        1 |        1 |       2 |
+|  6 |    nan | Total               |      8 |        8 |        8 |      24 |
+===================Question===================
+how many countries won at least 4 medals in speed skating in the 1972 olympic games?
+===================Text===================
+<think>
+Okay, so I'm trying to figure out how many countries won at least 4 medals in speed skating at the 1972 Winter Olympics based on this table. Let me see... The table lists six nations and their medal counts: Gold, Silver, Bronze, and Total. There's also a row for Total which sums everything up.
+
+First, I'll look at each country's total medal count because that's what determines whether they won at least 4 medals. Starting from the top:
+
+1. Netherlands (NED) has a total of 9 medals. That's definitely more than 4.
+2. United States (USA) has 4 medals in total, which meets the criteria exactly.
+3. West Germany (FRG) has only 2 medals, so that's below 4.
+4. Norway (NOR) also has 4 medals, same as the USA.
+5. Soviet Union (URS) has 3 medals, which is less than 4.
+6. Sweden (SWE) has 2 medals, not enough.
+
+Wait, but I should double-check each country's total to make sure I'm not missing anything. The table seems clear: Netherlands with 9, USA and Norway both at 4, while the others have fewer. So that means only three countries meet or exceed the 4-medal mark.
+
+But hold on, let me confirm by adding up all their totals. NED is 9, USA is 4, NOR is 4, so that's 9+4+4=17 medals from these three. The rest add up to 2 (FRG) +3 (URS)+2 (SWE)=7. So total medals are 24 as per the table. That checks out.
+
+So, the countries with at least 4 medals are Netherlands, USA, and Norway.
+</think>
+
+Final Answer: Netherlands, United States, Norway
+===================Answer===================
+3

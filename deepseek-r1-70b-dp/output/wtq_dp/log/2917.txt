@@ -1,0 +1,30 @@
+===================Title===================
+Tommy Moe
+===================Table===================
+|    |   Season | Date        | Location             | Discipline   | Place   |
+|---:|---------:|:------------|:---------------------|:-------------|:--------|
+|  0 |     1993 | 27 Feb 1993 | Whistler, BC, Canada | Downhill     | 2nd     |
+|  1 |     1994 | 12 Dec 1993 | Val-d'Isère, France | Super G      | 3rd     |
+|  2 |     1994 | 29 Dec 1993 | Bormio, Italy        | Downhill     | 3rd     |
+|  3 |     1994 | 12 Mar 1994 | Whistler, BC, Canada | Downhill     | 3rd     |
+|  4 |     1994 | 13 Mar 1994 | Whistler, BC, Canada | Super G      | 1st     |
+|  5 |     1994 | 16 Mar 1994 | Vail, CO, USA        | Downhill     | 3rd     |
+|  6 |     1995 | 11 Dec 1994 | Tignes, France       | Super G      | 2nd     |
+===================Question===================
+what is the first location listed on this chart?
+===================Text===================
+<think>
+Okay, so I need to figure out what the first location listed on this chart about Tommy Moe is. Let me look at the table provided.
+
+The table has several columns: Season, Date, Location, Discipline, and Place. Each row represents a different event or competition that Tommy Moe participated in. The user asked for the first location listed, so I should focus on the first entry in the Location column.
+
+Looking at the rows, they are numbered from 0 to 6, which probably indicates the order of events chronologically or as listed in the data. The first row is number 0, and under the Location column for that row, it says "Whistler, BC, Canada". 
+
+I need to make sure that's correct. Let me check again. Yes, row 0 has Season 1993, Date 27 Feb 1993, Location Whistler, BC, Canada, Discipline Downhill, and Place 2nd. So the first location listed is indeed Whistler, BC, Canada.
+
+I should also consider if there's any chance of misinterpretation. For example, sometimes tables might have headers that could be confused with data rows, but here it looks clear—row 0 is the first data entry after the header. Therefore, I can confidently say the first location is Whistler, BC, Canada.
+</think>
+
+Final Answer: Whistler, BC, Canada
+===================Answer===================
+Whistler, BC, Canada

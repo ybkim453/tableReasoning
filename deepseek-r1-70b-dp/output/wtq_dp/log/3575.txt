@@ -1,0 +1,48 @@
+===================Title===================
+Wiseman hypothesis
+===================Table===================
+|    |   Tablet | Genealogy                                      | Narrative      | Colophon                                                                          |
+|---:|---------:|:-----------------------------------------------|:---------------|:----------------------------------------------------------------------------------|
+|  0 |        1 | Creation of Universe 1:1                       | 1:2 to 2:3     | "This is the account of the heavens and of the earth when they were created." 2:4 |
+|  1 |        2 | Heavens and Earth 2:4                          | 2:5 to 4:26    | "This is the written account of Adam." 5:1                                        |
+|  2 |        3 | Adam to Noah 5:1 - 32                          | 6:1 - 8        | "This is the account of Noah." 6:9                                                |
+|  3 |        4 | Noah to Shem, Ham, and Japeth 6:9 - 10         | 6:11 to 9:29   | "This is the account of Shem, Ham, and Japheth, Noah's sons." 10:1                |
+|  4 |        5 | Descendants of Shem, Ham, and Japeth 10:1 - 32 | 11:1 - 9       | "This is the account of Shem." 11:10                                              |
+|  5 |        6 | Shem to Terah 11:10 - 26                       | no narrative   | "This is the account of Terah." 11:27                                             |
+|  6 |        7 | Terah to Abraham 11:27                         | 11:28 to 25:11 | "This is the account of Abraham's son Ishmael." 25:12 (eldest son)                |
+|  7 |        8 | Descendants of Ishmael 25:13 - 18              | no narrative   | "This is the account of Abraham's son Isaac." 25:19                               |
+|  8 |        9 | Abraham to Isaac 25:19                         | 25:20 to 35:29 | "This is the account of Esau." 36:1 (eldest son)                                  |
+|  9 |       10 | Descendants of Esau 36:2 - 5                   | 36:6 - 8       | "This is the account of Esau." 36:9                                               |
+| 10 |       11 | Descendants of Esau 36:10 to 37:1              | no narrative   | "This is the account of Jacob." 37:2                                              |
+| 11 |      nan | no genealogy                                   | 37:2 to 50:26  | no colophon                                                                       |
+===================Question===================
+how many tablets have a genealogy?
+===================Text===================
+<think>
+Okay, I need to figure out how many tablets have a genealogy based on the given table about the Wiseman hypothesis.
+
+First, let me look at each row in the table and check if there's a value under the "Genealogy" column. The columns are Tablet number, Genealogy, Narrative, and Colophon.
+
+Starting from Tablet 0 to Tablet 11:
+
+- Tablet 0: Genealogy is "Creation of Universe 1:1" → Yes.
+- Tablet 1: "Heavens and Earth 2:4" → Yes.
+- Tablet 2: "Adam to Noah 5:1 - 32" → Yes.
+- Tablet 3: "Noah to Shem, Ham, and Japeth 6:9 - 10" → Yes.
+- Tablet 4: "Descendants of Shem, Ham, and Japeth 10:1 - 32" → Yes.
+- Tablet 5: "Shem to Terah 11:10 - 26" → Yes.
+- Tablet 6: "Terah to Abraham 11:27" → Yes.
+- Tablet 7: "Descendants of Ishmael 25:13 - 18" → Yes.
+- Tablet 8: "Abraham to Isaac 25:19" → Yes.
+- Tablet 9: "Descendants of Esau 36:2 - 5" → Yes.
+- Tablet 10: "Descendants of Esau 36:10 to 37:1" → Yes.
+- Tablet 11: "no genealogy" → No.
+
+So, Tablets 0 through 10 have a genealogy. That's 11 tablets in total. Wait, counting from 0 to 10 is 11 tablets. Each of these has some form of genealogy listed except for Tablet 11 which explicitly says "no genealogy."
+
+Therefore, the number of tablets with a genealogy is 11.
+</think>
+
+Final Answer: 11
+===================Answer===================
+11

@@ -1,0 +1,74 @@
+===================Title===================
+Boldklubben Frem
+===================Table===================
+|    | Name                    | Nationality   | From            | To               | Honours                           | Comments                                  |
+|---:|:------------------------|:--------------|:----------------|:-----------------|:----------------------------------|:------------------------------------------|
+|  0 | Henrik Jensen           | Denmark       | 1 July 2012     | Present          | nan                               | nan                                       |
+|  1 | John 'Tune' Kristiansen | Denmark       | 18 June 2012    | 23 June 2012     | nan                               | Caretaker for one league match            |
+|  2 | Peer F. Hansen          | Denmark       | 1 January 2012  | 18 June 2012     | won promotion to the third tier   | nan                                       |
+|  3 | John 'Tune' Kristiansen | Denmark       | 27 July 2010    | 30 December 2011 | won promotion to the fourth tier  | Originally had contract until summer 2012 |
+|  4 | René Heitmann          | Denmark       | 17 July 2010    | 27 July 2010     | nan                               | Never coached the team in a match         |
+|  5 | Christian Andersen      | Denmark       | 11 July 2009    | 19 June 2010     | Team was relegated to third tier  | Club went bankrupt after the season       |
+|  6 | Anders Theil            | Denmark       | 7 November 2005 | 7 July 2009      | nan                               | Originally had contract until summer 2011 |
+|  7 | Ebbe Skovdahl           | Denmark       | 11 October 2003 | 6 November 2005  | Team was relegated to second tier | Originally had contract until summer 2007 |
+|  8 | Ole Mørk                | Denmark       | 15 October 2001 | 10 October 2003  | Won promotion to first tier       | Originally had contract until end of 2004 |
+|  9 | Johnny Petersen         | Denmark       | 5 May 1998      | 14 October 2001  | nan                               | Originally had contract until end of 2001 |
+| 10 | John 'Tune' Kristiansen | Denmark       | 1996            | 4 May 1998       | Won promotion to second tier      | nan                                       |
+===================Question===================
+what is the total amount of head coaches?
+===================Text===================
+<think>
+Okay, so I need to figure out how many head coaches there are for Boldklubben Frem based on this table. Let me take it step by step.
+
+First, I'll look at each row in the table because each row represents a different coach. The rows are numbered from 0 to 10, which gives me an initial count of 11 entries. But wait, some names repeat. For example, John 'Tune' Kristiansen appears three times: at positions 1, 3, and 10. That's interesting because it means he had multiple stints as the coach.
+
+So, I need to check if these are separate terms or just one person listed multiple times. Each entry has different "From" and "To" dates, which suggests they were separate periods. However, regardless of how many times a name appears, each occurrence is still the same person. Therefore, even though John 'Tune' Kristiansen is listed three times, he's just one individual.
+
+Now, going through each row:
+
+0: Henrik Jensen (Denmark)
+1: John 'Tune' Kristiansen
+2: Peer F. Hansen
+3: John 'Tune' Kristiansen again
+4: Rene Heitmann
+5: Christian Andersen
+6: Anders Theil
+7: Ebbe Skovdahl
+8: Ole Mørk
+9: Johnny Petersen
+10: John 'Tune' Kristiansen
+
+So, the unique names are:
+
+Henrik Jensen
+John 'Tune' Kristiansen
+Peer F. Hansen
+Rene Heitmann
+Christian Andersen
+Anders Theil
+Ebbe Skovdahl
+Ole Mørk
+Johnny Petersen
+
+That's 9 unique individuals.
+
+Wait, let me recount to make sure I didn't miss anyone:
+
+1. Henrik Jensen
+2. John 'Tune' Kristiansen (3 entries)
+3. Peer F. Hansen
+4. Rene Heitmann
+5. Christian Andersen
+6. Anders Theil
+7. Ebbe Skovdahl
+8. Ole Mørk
+9. Johnny Petersen
+
+Yes, that's 9 different head coaches.
+</think>
+
+The table lists the head coaches of Boldklubben Frem, with some individuals serving non-consecutive terms. Counting each unique name once gives a total of 9 head coaches.
+
+Final Answer: Henrik Jensen, John 'Tune' Kristiansen, Peer F. Hansen, Rene Heitmann, Christian Andersen, Anders Theil, Ebbe Skovdahl, Ole Mørk, Johnny Petersen
+===================Answer===================
+11

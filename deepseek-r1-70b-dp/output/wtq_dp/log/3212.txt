@@ -1,0 +1,118 @@
+===================Title===================
+Air Force–Colorado State football rivalry
+===================Table===================
+|    | Date               | Site             | Winning team   |   Winning team .1 | Losing team    |   Losing team .1 | Series      |
+|---:|:-------------------|:-----------------|:---------------|------------------:|:---------------|-----------------:|:------------|
+|  0 | September 6, 1980  | Fort Collins     | Colorado State |                21 | Air Force      |                9 | AFA 11–7–1  |
+|  1 | October 3, 1981    | Colorado Springs | Air Force      |                28 | Colorado State |               14 | AFA 12–7–1  |
+|  2 | October 16, 1982   | Colorado Springs | Colorado State |                21 | Air Force      |               11 | AFA 12–8–1  |
+|  3 | September 3, 1983  | Fort Collins     | Air Force      |                34 | Colorado State |               13 | AFA 13–8–1  |
+|  4 | September 29, 1984 | Colorado Springs | Air Force      |                52 | Colorado State |               10 | AFA 14–8–1  |
+|  5 | October 19, 1985   | Fort Collins     | #10 Air Force  |                35 | Colorado State |               19 | AFA 15–8–1  |
+|  6 | September 27, 1986 | Colorado Springs | Air Force      |                24 | Colorado State |                7 | AFA 16–8–1  |
+|  7 | September 26, 1987 | Fort Collins     | Air Force      |                27 | Colorado State |               19 | AFA 17–8–1  |
+|  8 | September 3, 1988  | Fort Collins     | Air Force      |                29 | Colorado State |               23 | AFA 18–8–1  |
+|  9 | September 30, 1989 | Fort Collins     | Air Force      |                46 | Colorado State |               21 | AFA 19–8–1  |
+| 10 | September 1, 1990  | Colorado Springs | Colorado State |                35 | Air Force      |               33 | AFA 19–9–1  |
+| 11 | September 7, 1991  | Fort Collins     | Air Force      |                31 | Colorado State |               26 | AFA 20–9–1  |
+| 12 | October 17, 1992   | Colorado Springs | Colorado State |                32 | Air Force      |               28 | AFA 20–10–1 |
+| 13 | September 11, 1993 | Fort Collins     | Colorado State |                 8 | Air Force      |                5 | AFA 20–11–1 |
+| 14 | September 3, 1994  | Colorado Springs | Colorado State |                34 | Air Force      |               21 | AFA 20–12–1 |
+| 15 | September 16, 1995 | Colorado Springs | Colorado State |                27 | Air Force      |               20 | AFA 20–13–1 |
+| 16 | November 2, 1996   | Colorado Springs | Colorado State |                42 | Air Force      |               41 | AFA 20–14–1 |
+| 17 | September 20, 1997 | Fort Collins     | Air Force      |                24 | Colorado State |                0 | AFA 21–14–1 |
+| 18 | September 17, 1998 | Colorado Springs | Air Force      |                30 | Colorado State |               27 | AFA 22–14–1 |
+| 19 | November 18, 1999  | Fort Collins     | Colorado State |                41 | Air Force      |               21 | AFA 22–15–1 |
+| 20 | November 11, 2000  | Colorado Springs | Air Force      |                44 | Colorado State |               40 | AFA 23–15–1 |
+| 21 | November 8, 2001   | Fort Collins     | Colorado State |                28 | Air Force      |               21 | AFA 23–16–1 |
+| 22 | October 31, 2002   | Colorado Springs | Colorado State |                31 | Air Force      |               12 | AFA 23–17–1 |
+| 23 | October 16, 2003   | Fort Collins     | Colorado State |                30 | Air Force      |               20 | AFA 23–18–1 |
+| 24 | November 20, 2004  | Colorado Springs | Air Force      |                47 | Colorado State |               17 | AFA 24–18–1 |
+| 25 | September 29, 2005 | Fort Collins     | Colorado State |                41 | Air Force      |               23 | AFA 24–19–1 |
+| 26 | October 12, 2006   | Colorado Springs | Air Force      |                24 | Colorado State |               21 | AFA 25–19–1 |
+| 27 | October 13, 2007   | Fort Collins     | Air Force      |                45 | Colorado State |               21 | AFA 26–19–1 |
+| 28 | November 8, 2008   | Colorado Springs | Air Force      |                38 | Colorado State |               17 | AFA 27–19–1 |
+| 29 | October 31, 2009   | Fort Collins     | Air Force      |                34 | Colorado State |               16 | AFA 28–19–1 |
+| 30 | October 9, 2010    | Colorado Springs | Air Force      |                49 | Colorado State |               27 | AFA 29–19–1 |
+| 31 | November 26, 2011  | Fort Collins     | Air Force      |                45 | Colorado State |               21 | AFA 30–19–1 |
+| 32 | September 29, 2012 | Colorado Springs | Air Force      |                42 | Colorado State |               21 | AFA 31–19–1 |
+| 33 | November 30, 2013  | Fort Collins     | Colorado State |                58 | Air Force      |               13 | AFA 31–20–1 |
+===================Question===================
+in how many games has the winning team scored at least 30 points?
+===================Text===================
+<think>
+Okay, so I need to figure out how many games in this Air Force–Colorado State football rivalry have had the winning team score at least 30 points. Let's see.
+
+First, I'll look through each row of the table and check the "Winning team .1" column because that seems to represent the points scored by the winning team. For every game where that number is 30 or higher, I'll count it.
+
+Starting from the top:
+
+0: Colorado State won with 21 points. That's below 30.
+1: Air Force won with 28 points. Still below.
+2: Colorado State with 21. Nope.
+3: Air Force scored 34. That's one.
+4: Air Force with 52. Two.
+5: #10 Air Force, but the points are 35. Three.
+6: 24 points by Air Force. Below.
+7: 27 points. Still below.
+8: 29 points. Just under.
+9: 46 points. Four.
+10: Colorado State scored 35. Five.
+11: Air Force with 31. Six.
+12: Colorado State, 32. Seven.
+13: Only 8 points by CSU. No.
+14: CSU with 34. Eight.
+15: 27 points by CSU. Below.
+16: CSU scored 42. Nine.
+17: AF with 24. Below.
+18: AF had 30 exactly. Ten.
+19: CSU, 41 points. Eleven.
+20: AF with 44. Twelve.
+21: CSU, 28. No.
+22: CSU,31. Thirteen.
+23: CSU,30. Fourteen.
+24: AF,47. Fifteen.
+25: CSU,41. Sixteen.
+26: AF,24. No.
+27: AF,45. Seventeen.
+28: AF,38. Eighteen.
+29: AF,34. Nineteen.
+30: AF,49. Twenty.
+31: AF,45. Twenty-one.
+32: AF,42. Twenty-two.
+33: CSU,58. Twenty-three.
+
+Wait, did I get all? Let me recount to make sure I didn't miss any or double-count.
+
+From the list above, each time I found a game where the winning team scored >=30, I incremented the count. So going through each row:
+
+Row 3: AF34 → count 1
+Row4: AF52 →2
+Row5:AF35→3
+Row9:AF46→4
+Row10:CSU35→5
+Row11:AF31→6
+Row12:CSU32→7
+Row14:CSU34→8
+Row16:CSU42→9
+Row18:AF30→10
+Row19:CSU41→11
+Row20:AF44→12
+Row22:CSU31→13
+Row23:CSU30→14
+Row24:AF47→15
+Row25:CSU41→16
+Row27:AF45→17
+Row28:AF38→18
+Row29:AF34→19
+Row30:AF49→20
+Row31:AF45→21
+Row32:AF42→22
+Row33:CSU58→23
+
+So that's 23 games where the winning team scored at least 30 points.
+</think>
+
+Final Answer: 23
+===================Answer===================
+23

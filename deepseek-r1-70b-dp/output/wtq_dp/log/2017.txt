@@ -1,0 +1,47 @@
+===================Title===================
+1980–81 San Antonio Spurs season
+===================Table===================
+|    |   Round |   Pick | Player         | Position   | Nationality   | School/Club Team            |
+|---:|--------:|-------:|:---------------|:-----------|:--------------|:----------------------------|
+|  0 |       1 |     15 | Reggie Johnson | PF/C       | United States | Tennessee                   |
+|  1 |       2 |     39 | Michael Miley  | nan        | United States | California State-Long Beach |
+|  2 |       3 |     60 | Lavon Mercer   | nan        | United States | Georgia                     |
+|  3 |       3 |     61 | Rich Yonakor   | nan        | United States | North Carolina              |
+|  4 |       4 |     83 | Calvin Roberts | nan        | United States | California State-Fullerton  |
+|  5 |       5 |    107 | Gib Hinz       | nan        | United States | Wisconsin-Eau Claire        |
+|  6 |       6 |    129 | Dean Uthoff    | nan        | United States | Iowa State                  |
+|  7 |       7 |    153 | Allan Zahn     | nan        | United States | Arkansas                    |
+|  8 |       8 |    172 | Bill Bailey    | nan        | United States | Texas Pan-American          |
+|  9 |       9 |    192 | Al Williams    | nan        | United States | North Texas State           |
+| 10 |      10 |    209 | Steve Schall   | nan        | United States | Arkansas                    |
+===================Question===================
+school attended of player picked next after bill bailey
+===================Text===================
+<think>
+Alright, so I need to figure out which school the player picked right after Bill Bailey attended. Let me start by looking at the table provided.
+
+First, I see that each row represents a different pick in the draft. The columns are Round, Pick number, Player name, Position, Nationality, and School/Club Team.
+
+I'm specifically interested in the player who was picked next after Bill Bailey. So, I'll locate Bill Bailey in the table first.
+
+Looking through the rows:
+
+- Row 0: Reggie Johnson
+- Row 1: Michael Miley
+- ...
+- Row 8: Bill Bailey
+
+Bill Bailey is at row 8, which corresponds to Pick number 172. Now, since each row represents a different pick, the next player would be in row 9.
+
+Row 9 has Al Williams as the player. His School/Club Team is listed as "North Texas State."
+
+Wait a second, let me make sure I'm interpreting this correctly. Each row increments by one pick number. So after Bill Bailey at Pick 172 (Pick number 8), the next should be Pick 9, which is Al Williams.
+
+Therefore, Al Williams attended North Texas State.
+</think>
+
+The school attended by the player picked right after Bill Bailey was North Texas State.
+
+Final Answer: North Texas State
+===================Answer===================
+Texas Pan-American

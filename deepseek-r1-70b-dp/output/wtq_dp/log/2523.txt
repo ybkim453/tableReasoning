@@ -1,0 +1,78 @@
+===================Title===================
+Brendan Jones (golfer)
+===================Table===================
+|    |   No. | Date        | Tournament                                                     | Winning score         | Margin of\nvictory   | Runner(s)-up                                                                               |
+|---:|------:|:------------|:---------------------------------------------------------------|:----------------------|:---------------------|:-------------------------------------------------------------------------------------------|
+|  0 |     1 | 3 Nov 2002  | Philip Morris K.K. Championship                                | −19 (65-67-67-70=269) | 2 strokes            | Toshimitsu Izawa                                                                           |
+|  1 |     2 | 10 Aug 2003 | Sun Chlorella Classic                                          | −8 (71-73-68-68=280)  | 1 stroke             | Daisuke Maruyama, Taichi Teshima                                                           |
+|  2 |     3 | 25 Apr 2004 | Tsuruya Open                                                   | −9 (64-73-69-69=275)  | 2 strokes            | Keiichiro Fukabori, Scott Laycock,\n Tatsuya Mitsuhashi, Taichi Teshima,\n Shinichi Yokota |
+|  3 |     4 | 26 Jun 2004 | Gateway to the Open Mizuno Open                                | −14 (67-68-70-69=274) | Playoff              | Hiroaki Iijima                                                                             |
+|  4 |     5 | 23 Apr 2006 | Tsuruya Open                                                   | −11 (70-68-66-69=273) | 2 strokes            | Mamo Osanai                                                                                |
+|  5 |     6 | 22 Apr 2007 | Tsuruya Open                                                   | −16 (67-65-68-68=268) | 2 strokes            | Masahiro Kuramoto, Hirofumi Miyase,\n Takuya Taniguchi                                     |
+|  6 |     7 | 11 Nov 2007 | Mitsui Sumitomo VISA Taiheiyo Masters                          | −13 (67-68-69-70=274) | 5 strokes            | Toru Taniguchi                                                                             |
+|  7 |     8 | 2 Dec 2007  | Golf Nippon Series JT Cup                                      | −11 (70-70-68-61=261) | 1 stroke             | Toru Taniguchi                                                                             |
+|  8 |     9 | 26 Sep 2010 | Asia-Pacific Panasonic Open\n(co-sanctioned by the Asian Tour) | −6 (71-70-66=207)     | 1 stroke             | Ryuichi Oda                                                                                |
+|  9 |    10 | 1 May 2011  | The Crowns                                                     | −9 (67-66-68-70=271)  | Playoff              | Jang Ik-jae                                                                                |
+| 10 |    11 | 15 Apr 2012 | Token Homemate Cup                                             | −15 (68-69-70-62=269) | 2 strokes            | Ryuichi Oda                                                                                |
+| 11 |    12 | 29 Jul 2012 | Sun Chlorella Classic                                          | −15 (69-66-68-70=273) | 2 strokes            | Lee Seong-ho, Hideki Matsuyama (am),\n Yoshinobu Tsukada                                   |
+| 12 |    13 | 30 Jun 2013 | Gateway to the Open Mizuno Open                                | −19 (67-66-68-68=269) | 3 strokes            | Kim Kyung-tae                                                                              |
+===================Question===================
+which same tournament did brendan jones win by the same number in the margin of victor?
+===================Text===================
+<think>
+Alright, so I need to figure out which tournaments Brendan Jones won with the same margin of victory. Looking at the table, each row represents a tournament he won along with details like date, name, winning score, and margin of victory.
+
+First, I'll list out all the margins of victory from each tournament:
+
+1. 2 strokes
+2. 1 stroke
+3. 2 strokes
+4. Playoff (this is different, it's not a stroke margin)
+5. 2 strokes
+6. 2 strokes
+7. 5 strokes
+8. 1 stroke
+9. 1 stroke
+10. 2 strokes
+11. 2 strokes
+12. 3 strokes
+
+Wait, in row 4, the margin is listed as "Playoff", which I think means it went into extra holes and wasn't decided by a stroke margin, so I should exclude that one since we're looking for same number of strokes.
+
+Now, let's count how many times each margin occurs:
+
+- 1 stroke: appears in rows 2, 8, 9 → total of 3 times
+- 2 strokes: appears in rows 0, 2, 5, 6,10,11 → that's 6 times
+- 5 strokes: once (row7)
+- 3 strokes: once (row12)
+
+So the margin "1 stroke" occurs three times and "2 strokes" occurs six times. The question is asking which same tournaments were won with the same number in the margin of victory, meaning multiple tournaments where each had the same margin.
+
+Therefore, the tournaments where Brendan Jones had a 1-stroke margin are:
+
+- Sun Chlorella Classic (row2)
+- Golf Nippon Series JT Cup (row8)
+- Asia-Pacific Panasonic Open (row9)
+
+Similarly, those with a 2-stroke margin include Tsuruya Open multiple times and others.
+
+But since the question asks for same tournaments won by the same number in margin of victory, I think it's referring to the tournament names. Looking at the table:
+
+I see that "Tsuruya Open" appears three times (rows3,5,6). Each time he won with 2 strokes (rows2,5,6 have margins 2,2,2? Wait no, row3 was a playoff, so rows5 and6 are both Tsuruya Open with 2-stroke margins. But row4 is also Tsuruya Open in 2006 with 2 strokes. So maybe multiple instances of Tsuruya Open.
+
+Wait, checking the table:
+
+Row0: Philip Morris K.K. Championship (1st win)
+Row1: Sun Chlorella Classic (2nd)
+Row2: Tsuruya Open (3rd)
+Row3: Gateway to the Open Mizuno Open (4th) - playoff
+Row4: Tsuruya Open (5th) 2006 with 2 strokes
+Row5: Tsuruya Open (6th) 2007 with 2 strokes
+So rows2,4,5 are all Tsuruya Open each won with a margin of 2 strokes.
+
+Therefore, Brendan Jones won the same tournament, Tsuruya Open, three times each time with a 2-stroke margin. So the answer would be Tsuruya Open.
+</think>
+
+Final Answer: Tsuruya Open
+===================Answer===================
+Tsuruya Open

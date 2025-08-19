@@ -1,0 +1,69 @@
+===================Title===================
+Przemysław Czerwiński
+===================Table===================
+|    |   Year | Competition                   | Venue                      | Position   | Notes   |
+|---:|-------:|:------------------------------|:---------------------------|:-----------|:--------|
+|  0 |   1999 | World Youth Championships     | Bydgoszcz, Poland          | 13th (q)   | 4.60 m  |
+|  1 |   2001 | European Junior Championships | Grosseto, Italy            | 7th        | 5.15 m  |
+|  2 |   2002 | World Junior Championships    | Kingston, Jamaica          | 8th        | 5.30 m  |
+|  3 |   2003 | European U23 Championships    | Bydgoszcz, Poland          | 13th (q)   | 5.20 m  |
+|  4 |   2005 | European U23 Championships    | Erfurt, Germany            | 7th        | 5.50 m  |
+|  5 |   2005 | Universiade                   | Izmir, Turkey              | 5th        | 5.50 m  |
+|  6 |   2006 | World Indoor Championships    | Moscow, Russia             | 10th (q)   | 5.65 m  |
+|  7 |   2006 | European Championships        | Gothenburg, Sweden         | 5th        | 5.65 m  |
+|  8 |   2007 | European Indoor Championships | Birmingham, United Kingdom | 16th (q)   | 5.40 m  |
+|  9 |   2008 | Olympic Games                 | Beijing, China             | 11th       | 5.45 m  |
+| 10 |   2010 | European Championships        | Barcelona, Spain           | 3rd        | 5.75 m  |
+| 11 |   2012 | European Championships        | Helsinki, Finland          | –          | NM      |
+===================Question===================
+which year from 1999 to 2012 had the most championships?
+===================Text===================
+<think>
+Okay, so I need to figure out which year from 1999 to 2012 had the most championships for Przemysław Czerwiński. Let me start by looking at the table provided.
+
+The table lists competitions from 1999 through 2012. Each row represents a different championship he participated in during those years. My task is to count how many entries each year has and then determine which year has the highest number of championships.
+
+First, I'll list out all the years and count the number of times each appears.
+
+Looking at the table:
+
+- Year 1999: 1 entry
+- Year 2001: 1 entry
+- Year 2002: 1 entry
+- Year 2003: 1 entry
+- Year 2005: 2 entries (European U23 and Universiade)
+- Year 2006: 2 entries (World Indoor and European Championships)
+- Year 2007: 1 entry
+- Year 2008: 1 entry
+- Year 2010: 1 entry
+- Year 2012: 1 entry
+
+Wait, that doesn't add up. Let's make sure I count correctly.
+
+Looking again:
+
+Row 0: 1999 → 1
+Row 1: 2001 → 1
+Row 2: 2002 →1
+Row3:2003→1
+Row4:2005→2 (rows 4 and 5)
+Row6:2006→2 (rows 6 and7)
+Row8:2008→1
+Row10:2010→1
+Row11:2012→1
+
+So, in 2005 and 2006, there are two entries each. All other years have one entry except for these two. So both 2005 and 2006 have the most championships with 2 each.
+
+Wait, but maybe I missed something? Let me double-check:
+
+Row4: 2005 European U23
+Row5: 2005 Universiade → that's two in 2005
+
+Rows6 &7: 2006 World Indoor and European Championships → that's also two in 2006.
+
+So both years have two championships each, which is more than any other year. Therefore, the years with the most are 2005 and 2006.
+</think>
+
+Final Answer: 2005, 2006
+===================Answer===================
+2005,2006

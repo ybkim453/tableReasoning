@@ -1,0 +1,37 @@
+===================Title===================
+Olga Tereshkova
+===================Table===================
+|    |   Year | Competition               | Venue                | Position   | Event         | Notes   |
+|---:|-------:|:--------------------------|:---------------------|:-----------|:--------------|:--------|
+|  0 |   2001 | World Youth Championships | Debrecen, Hungary    | 4th        | 400 m         | nan     |
+|  1 |   2002 | Asian Games               | Busan, South Korea   | 2nd        | 4x400 m relay | nan     |
+|  2 |   2005 | Asian Championships       | Incheon, South Korea | 2nd        | 4x400 m relay | nan     |
+|  3 |   2005 | Universiade               | Izmir, Turkey        | 6th        | 4x400 m relay | nan     |
+|  4 |   2006 | Asian Games               | Doha, Qatar          | 2nd        | 4x400 m relay | nan     |
+|  5 |   2006 | Asian Games               | Doha, Qatar          | 1st        | 400 m         | nan     |
+|  6 |   2006 | World Cup                 | Athens, Greece       | 7th        | 400 m         | nan     |
+|  7 |   2007 | Universiade               | Bangkok, Thailand    | 1st        | 400 m         | nan     |
+|  8 |   2011 | Universiade               | Shenzhen, China      | –          | 400 m         | DQ      |
+===================Question===================
+what is the total number of races olga tereshkova has won.
+===================Text===================
+<think>
+Alright, so I need to figure out how many races Olga Tereshkova has won based on this table. Let me start by looking at each row to see where she placed first.
+
+Looking through each year and competition:
+
+2001 - She came in 4th place in the 400m. That's not a win.
+2002 - 2nd in the 4x400m relay, so that's a silver medal but not a win.
+2005 at Asian Championships, again 2nd in 4x400m. Still no win there.
+Same year, she was 6th in Universiade 4x400m. Not a win.
+In 2006, she got 2nd and then 1st in the same event? Wait, looking closer. In Doha for Asian Games, she placed 2nd in the 4x400m relay and 1st in the 400m. So that's one win here.
+Then at the World Cup in Athens, she was 7th in 400m, so no win there.
+2007 Universiade in Bangkok, she won the 400m, that's another win.
+In 2011, she was disqualified in the 400m, so no placement and definitely not a win.
+
+So counting up her wins: one in 2006 and one in 2007. That makes two races where she took first place. I think that's it. There's only those two instances where she won.
+</think>
+
+Final Answer: 2
+===================Answer===================
+2

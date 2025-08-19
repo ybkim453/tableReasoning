@@ -1,0 +1,41 @@
+===================Title===================
+Arabic numerals
+===================Table===================
+|    | Binary    |   Octal |   Decimal |   Hexadecimal |   Glyph |
+|---:|:----------|--------:|----------:|--------------:|--------:|
+|  0 | 0011 0000 |      60 |        48 |            30 |       0 |
+|  1 | 0011 0001 |      61 |        49 |            31 |       1 |
+|  2 | 0011 0010 |      62 |        50 |            32 |       2 |
+|  3 | 0011 0011 |      63 |        51 |            33 |       3 |
+|  4 | 0011 0100 |      64 |        52 |            34 |       4 |
+|  5 | 0011 0101 |      65 |        53 |            35 |       5 |
+|  6 | 0011 0110 |      66 |        54 |            36 |       6 |
+|  7 | 0011 0111 |      67 |        55 |            37 |       7 |
+|  8 | 0011 1000 |      70 |        56 |            38 |       8 |
+|  9 | 0011 1001 |      71 |        57 |            39 |       9 |
+===================Question===================
+what is the first hexadecimal listed on table?
+===================Text===================
+<think>
+Okay, so I need to figure out what the first hexadecimal listed in the table is. Let me look at the table provided. The table has several columns: Binary, Octal, Decimal, Hexadecimal, and Glyph. Each row corresponds to a number from 0 to 9.
+
+The question specifically asks for the first hexadecimal entry in the table. I should start by looking at the Hexadecimal column. I'll go through each row starting from the top.
+
+Looking at the first row where the decimal value is 0, under the Hexadecimal column it says '30'. Hmm, that doesn't seem right because normally in hexadecimal, 0 should be just '0'. Wait a minute, maybe there's a mistake here. Let me check the other entries to see if this pattern holds.
+
+The second row (decimal 1) has Hexadecimal as '31', which would make sense if each is incremented by 1 in hex. But wait, 30 in hex is actually equal to 48 in decimal because 3*16 + 0 = 48. Oh! I think the table might be listing the hexadecimal codes for the ASCII characters of the digits rather than their actual numeric values.
+
+Wait, that makes more sense now. So each Hexadecimal value here corresponds to the Unicode or ASCII code point for the glyph (the character) of each digit. For example, the digit '0' has a Unicode code point of U+0030, which is 48 in decimal. Similarly, '1' is U+0031, which is 49, and so on up to '9' at U+0039 or 57.
+
+So, if the question is asking for the first hexadecimal listed, it would be looking at the Hexadecimal column's first entry, which is '30'. However, in the context of hexadecimal numbers, that refers to the code point. But strictly speaking, the first hexadecimal numeral listed as a value in the table is indeed 30.
+
+But wait, another angle: sometimes when people refer to "hexadecimal" without context, they might mean the actual base-16 number system's digits (0-9 and A-F). However, looking at the Hexadecimal column, all entries are two-digit hex codes ranging from 30 to 39. So the first one is '30'.
+
+Therefore, the answer should be 30 in hexadecimal.
+</think>
+
+The first hexadecimal listed in the table is 30.
+
+Final Answer: 30
+===================Answer===================
+30

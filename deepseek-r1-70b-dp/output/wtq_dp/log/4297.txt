@@ -1,0 +1,44 @@
+===================Title===================
+Electoral district of Hammond
+===================Table===================
+|    | Party              | Candidate          | Votes   | %    | ±%   |
+|---:|:-------------------|:-------------------|:--------|:-----|:-----|
+|  0 | Liberal            | Adrian Pederick    | 11,469  | 55.1 | −6.7 |
+|  1 | Labor              | Lou Bailey         | 5,314   | 25.5 | +2.5 |
+|  2 | Family First       | Daniel Gutteridge  | 1,654   | 7.9  | +0.8 |
+|  3 | Greens             | Damien Pyne        | 1,458   | 7.0  | −1.0 |
+|  4 | Nationals SA       | Rachel Titley      | 912     | 4.4  | +4.4 |
+|  5 | Total formal votes | Total formal votes | 20,807  | 96.8 | +0.0 |
+|  6 | Informal votes     | Informal votes     | 697     | 3.2  | −0.0 |
+|  7 | Turnout            | Turnout            | 21,504  | 92.1 | −0.7 |
+|  8 | Liberal            | Adrian Pederick    | 13,444  | 64.6 | −3.1 |
+|  9 | Labor              | Lou Bailey         | 7,363   | 35.4 | +3.1 |
+| 10 | Liberal hold       | Liberal hold       | Swing   | −3.1 | nan  |
+===================Question===================
+which candidate in the 2014 south australian state election had the highest percentage of votes?
+===================Text===================
+<think>
+Alright, let me try to figure this out. So, I have this table about the Electoral district of Hammond from the 2014 South Australian state election. The question is asking which candidate had the highest percentage of votes.
+
+First, I need to look at the percentages for each candidate. Let's go through each row:
+
+Row 0: Liberal party, Adrian Pederick has 55.1%. That seems pretty high.
+Row 1: Labor's Lou Bailey has 25.5%, which is lower than Adrian.
+Row 2: Family First with Daniel Gutteridge at 7.9%—much lower.
+Row 3: Greens' Damien Pyne at 7.0%.
+Row 4: Nationals SA's Rachel Titley at 4.4%.
+
+Rows 5-7 are about formal and informal votes, which don't directly tell us the candidates' percentages. Then row 8 and 9 show two-candidate preferred votes. Adrian Pederick again with 64.6%, Lou Bailey with 35.4%. That's even higher than his previous percentage.
+
+So comparing all these, the highest percentage is 64.6% for Adrian Pederick in the two-candidate preferred count. But wait, should I consider primary votes or the two-candidate preferred? The question doesn't specify, but typically, the highest percentage would be looking at the primary vote unless stated otherwise.
+
+Looking back, Adrian's primary was 55.1%, which is higher than all others except his own two-candidate preferred. So if considering all candidates' percentages, including both primary and two-candidate, then 64.6% is higher. But maybe the question refers to the initial votes.
+
+Alternatively, perhaps the last row shows a swing but doesn't add a candidate. Wait, no—the highest in the first set is 55.1%, and in the preferred it's 64.6%. So depending on context, but likely the two-candidate percentage is higher.
+
+So Adrian Pederick has the highest percentage at 64.6%.
+</think>
+
+Final Answer: Adrian Pederick
+===================Answer===================
+Adrian Pederick

@@ -1,0 +1,35 @@
+===================Title===================
+2000 Úrvalsdeild
+===================Table===================
+|    |   Pos | Team       |   Played |   Won |   Draw |   Lost |   Goals For |   Goals Against |   Goal Difference |   Points | Notes                 |
+|---:|------:|:-----------|---------:|------:|-------:|-------:|------------:|----------------:|------------------:|---------:|:----------------------|
+|  0 |     1 | KR         |       18 |    11 |      4 |      3 |          27 |              14 |                13 |       37 | UEFA Champions League |
+|  1 |     2 | Fylkir     |       18 |    10 |      5 |      3 |          39 |              16 |                23 |       35 | UEFA Cup              |
+|  2 |     3 | Grindavík |       18 |     8 |      6 |      4 |          25 |              18 |                 7 |       30 | UEFA Cup              |
+|  3 |     4 | ÍBV       |       18 |     8 |      5 |      5 |          29 |              17 |                12 |       29 | Inter-Toto Cup        |
+|  4 |     5 | ÍA        |       18 |     7 |      5 |      6 |          21 |              17 |                 4 |       26 | nan                   |
+|  5 |     6 | Keflavík  |       18 |     4 |      7 |      7 |          21 |              35 |               -14 |       19 | nan                   |
+|  6 |     7 | Breiðablik |       18 |     5 |      3 |     10 |          29 |              35 |                -6 |       18 | nan                   |
+|  7 |     8 | Fram       |       18 |     4 |      5 |      9 |          22 |              33 |               -11 |       17 | nan                   |
+|  8 |     9 | Stjarnan   |       18 |     4 |      5 |      9 |          18 |              31 |               -13 |       17 | Relegated             |
+|  9 |    10 | Leiftur    |       18 |     3 |      7 |      8 |          24 |              39 |               -15 |       16 | Relegated             |
+===================Question===================
+how many total points did fram have?
+===================Text===================
+<think>
+Alright, so I've got this table here about the 2000 Úrvalsdeild, which I think is an Icelandic football league. The question is asking how many total points Fram had that season. 
+
+Let me look at the table again. It's organized with each team's performance statistics. Each row represents a different team, right? So the columns are: Pos (position), Team, Played, Won, Drawn, Lost, Goals For, Goals Against, Goal Difference, Points, and Notes.
+
+I need to find Fram's points. First, I should locate where Fram is in the table. Scanning through the Team column... let me see, row 0 is KR with 37 points, row 1 is Fylkir with 35, then Grindavík, ÍBV, ÍA, Keflavík, Breiðablik, Fram is in row 7. 
+
+Wait, no, actually looking at the index, it's from 0 to 9. So the rows are 0: KR, 1: Fylkir, up to 9: Leiftur. So row 7 would be Fram, as per the table provided.
+
+Looking at row 7, which is Fram. The Points column for Fram is... let me check that cell. It says '17'. So Fram had 17 points in total during the 2000 season.
+
+I think that's straightforward. Each team's points are calculated based on their wins and draws. Typically, a win gives 3 points and a draw gives 1 point. But since the Points column is already provided, I don't need to calculate it myself. So Fram's total points are clearly listed as 17.
+</think>
+
+Final Answer: 17
+===================Answer===================
+17

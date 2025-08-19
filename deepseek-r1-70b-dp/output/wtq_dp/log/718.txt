@@ -1,0 +1,101 @@
+===================Title===================
+Kristýna Plíšková
+===================Table===================
+|    | Outcome   |   No. | Date              | Tournament                    | Surface    | Partner               | Opponents                              | Score                  |
+|---:|:----------|------:|:------------------|:------------------------------|:-----------|:----------------------|:---------------------------------------|:-----------------------|
+|  0 | Runner-up |     1 | 16 May 2010       | Kurume, Japan                 | Clay       | Karolína Plíšková | Sun Shengnan\n Xu Yifan                | 0–6, 3–6               |
+|  1 | Winner    |     1 | 13 February 2011  | Rancho Mirage, United States  | Hard       | Karolína Plíšková | Nadejda Guskova\n Sandra Zaniewska     | 6–7(6–8), 6–1, 6–4     |
+|  2 | Winner    |     2 | 7 August 2011     | Vancouver, Canada             | Hard       | Karolína Plíšková | Jamie Hampton\n N. Lertcheewakarn      | 5–7, 6–2, 6–4          |
+|  3 | Runner-up |     2 | 6 November 2011   | Taipei 5, Taiwan              | Hard       | Karolína Plíšková | Chan Yung-jan\n Zheng Jie              | 6–7(5–7), 7–5, 3–6     |
+|  4 | Runner-up |     3 | 20 November 2011  | Bratislava, Slovakia          | Hard       | Karolína Plíšková | Naomi Broady\n Kristina Mladenovic     | 7–5, 4–6, [2–10]       |
+|  5 | Winner    |     3 | 23 January 2012   | Andrézieux-Bouthéon, France | Hard (i)   | Karolína Plíšková | Julie Coin\n Eva Hrdinová             | 6–4, 4–6, [10–5]       |
+|  6 | Winner    |     4 | 30 January 2012   | Grenoble, France              | Hard (i)   | Karolína Plíšková | Valentyna Ivakhnenko\n Maryna Zanevska | 6–1, 6–3               |
+|  7 | Runner-up |     4 | 17 September 2012 | Shrewsbury, United Kingdom    | Hard (i)   | Karolína Plíšková | Vesna Dolonc\n Stefanie Vögele        | 1–6, 7–6(7–3), [13–15] |
+|  8 | Winner    |     5 | 12 November 2012  | Zawada, Poland                | Carpet (i) | Karolína Plíšková | Kristina Barrois\n Sandra Klemenschits | 6–3, 6–1               |
+|  9 | Winner    |     6 | 28 October 2013   | Barnstaple, United Kingdom    | Hard (i)   | Naomi Broady          | Raluca Olaru\n Tamira Paszek           | 6–3, 3–6, [10–5]       |
+===================Question===================
+how many winners are there?
+===================Text===================
+<think>
+Okay, so I need to figure out how many winners Kristýna Plíšková has based on this table. Let me look at it step by step.
+
+First, I see that each row in the table represents a tournament event. The columns are Outcome, No., Date, Tournament, Surface, Partner, Opponents, and Score. The key column here is "Outcome" which tells whether she was a winner or runner-up for each event.
+
+I should go through each row and count how many times the Outcome is "Winner". Let's start:
+
+Row 0: Outcome is Runner-up → Not a win.
+Row 1: Winner → Count 1
+Row 2: Winner → Count 2
+Row 3: Runner-up → Skip
+Row 4: Runner-up → Skip
+Row 5: Winner → Count 3
+Row 6: Winner → Count 4
+Row 7: Runner-up → Skip
+Row 8: Winner → Count 5
+Row 9: Winner → Count 6
+
+Wait, let me recount because that seems off. Let me list each row's outcome:
+
+1. Runner-up
+2. Winner (1)
+3. Winner (2)
+4. Runner-up
+5. Runner-up
+6. Winner (3)
+7. Winner (4)
+8. Runner-up
+9. Winner (5)
+
+Wait, now I'm getting 5 winners? Or did I miscount?
+
+Looking again:
+
+Row indexes are from 0 to 9.
+
+- Row 0: Runner-up (No.)
+- Row 1: Winner → 1
+- Row 2: Winner → 2
+- Row 3: Runner-up
+- Row 4: Runner-up
+- Row 5: Winner → 3
+- Row 6: Winner → 4
+- Row 7: Runner-up
+- Row 8: Winner →5
+- Row 9: Winner →6
+
+Wait, that's 6 wins. But looking at the "No." column, it seems to be tracking some number. Let me check:
+
+The "No." column for each Outcome:
+
+Row 0: No.1 Runner-up (so first runner-up)
+Row1: No.1 Winner
+Row2: No.2 Winner
+Row3: No.2 Runner-up
+Row4: No.3 Runner-up
+Row5: No.3 Winner
+Row6: No.4 Winner
+Row7: No.4 Runner-up
+Row8: No.5 Winner
+Row9: No.6 Winner
+
+Wait, so the "No." column increments each time whether it's a win or runner-up. So total of 10 entries (from 0 to 9). Each row increments the No., regardless of outcome.
+
+But my task is simply to count how many times Outcome is "Winner". So looking back:
+
+Out of 10 rows, how many have "Winner" in Outcome?
+
+Row1: Winner
+Row2: Winner
+Row5: Winner
+Row6: Winner
+Row8: Winner
+Row9: Winner
+
+That's 6 times. So there are 6 winners.
+
+So the answer is 6.
+</think>
+
+Final Answer: 6
+===================Answer===================
+6

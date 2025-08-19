@@ -1,0 +1,53 @@
+===================Title===================
+2008 Clásica de San Sebastián
+===================Table===================
+|    |   Rank | Cyclist                  | Team               | Time       |   UCI ProTour\nPoints |
+|---:|-------:|:-------------------------|:-------------------|:-----------|----------------------:|
+|  0 |      1 | Alejandro Valverde (ESP) | Caisse d'Epargne   | 5h 29' 10" |                    40 |
+|  1 |      2 | Alexandr Kolobnev (RUS)  | Team CSC Saxo Bank | s.t.       |                    30 |
+|  2 |      3 | Davide Rebellin (ITA)    | Gerolsteiner       | s.t.       |                    25 |
+|  3 |      4 | Paolo Bettini (ITA)      | Quick Step         | s.t.       |                    20 |
+|  4 |      5 | Franco Pellizotti (ITA)  | Liquigas           | s.t.       |                    15 |
+|  5 |      6 | Denis Menchov (RUS)      | Rabobank           | s.t.       |                    11 |
+|  6 |      7 | Samuel Sánchez (ESP)    | Euskaltel-Euskadi  | s.t.       |                     7 |
+|  7 |      8 | Stéphane Goubert (FRA)  | Ag2r-La Mondiale   | + 2"       |                     5 |
+|  8 |      9 | Haimar Zubeldia (ESP)    | Euskaltel-Euskadi  | + 2"       |                     3 |
+|  9 |     10 | David Moncoutié (FRA)   | Cofidis            | + 2"       |                     1 |
+===================Question===================
+how many more points did team liquigas score than robobank?
+===================Text===================
+<think>
+Okay, so I need to figure out how many more points Team Liquigas scored than Rabobank based on the given table from the 2008 Clásica de San Sebastián. Let me start by understanding what information is provided.
+
+Looking at the table, each row represents a cyclist's performance in the race. The columns include Rank, Cyclist name, their Team, Time, and UCI ProTour Points. I'm specifically interested in the points earned by Liquigas and Rabobank.
+
+First, I'll scan through the teams to find which cyclists belong to Liquigas and Rabobank. 
+
+Starting from the top:
+
+- Rank 1: Alejandro Valverde (Caisse d'Epargne) - 40 points
+- Rank 2: Alexandr Kolobnev (Team CSC Saxo Bank) - 30 points
+- Rank 3: Davide Rebellin (Gerolsteiner) -25 points
+- Rank 4: Paolo Bettini (Quick Step) -20 points
+- Rank 5: Franco Pellizotti (Liquigas) -15 points
+- Rank 6: Denis Menchov (Rabobank) -11 points
+
+So, the fifth row shows that Franco Pellizotti from Liquigas got 15 points. The sixth row shows Denis Menchov from Rabobank with 11 points.
+
+Wait a second, I should check if there are any other cyclists from these teams further down the table because sometimes multiple team members can be in the top 10. Let me continue:
+
+- Rank 7: Samuel Sánchez (Euskaltel-Euskadi) -7 points
+- Rank 8: Stéphane Goubert (Ag2r-La Mondiale) -5 points
+- Rank 9: Haimar Zubeldia (Euskaltel-Euskadi) -3 points
+- Rank 10: David Moncoutié (Cofidis) -1 point
+
+Looks like only one cyclist from each team, Liquigas and Rabobank, are in the top 10. So, Liquigas has 15 points, Rabobank has 11 points.
+
+To find out how many more points Liquigas scored than Rabobank, I subtract Rabobank's points from Liquigas' points: 15 - 11 = 4.
+
+So, Team Liquigas scored 4 more points than Rabobank.
+</think>
+
+Final Answer: 4
+===================Answer===================
+4

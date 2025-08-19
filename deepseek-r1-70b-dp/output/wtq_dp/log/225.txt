@@ -1,0 +1,119 @@
+===================Title===================
+Škoda Auto
+===================Table===================
+|    | Model           | 1991    | 1995    | 1996    | 1997    | 1998    | 1999    | 2000    | 2001    | 2002    | 2003    | 2004    | 2005    | 2006    | 2007    | 2008    | 2009    | 2010    | 2011    | 2012    | 2013    |
+|---:|:----------------|:--------|:--------|:--------|:--------|:--------|:--------|:--------|:--------|:--------|:--------|:--------|:--------|:--------|:--------|:--------|:--------|:--------|:--------|:--------|:--------|
+|  0 | Škoda Felicia  | 172,000 | 210,000 | nan     | 288,458 | 261,127 | 241,256 | 148,028 | 44,963  | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       |
+|  1 | Škoda Octavia  | −       | −       | nan     | 47,876  | 102,373 | 143,251 | 158,503 | 164,134 | 164,017 | 165,635 | 181,683 | 233,322 | 270,274 | 309,951 | 344,857 | 317,335 | 349,746 | 387,200 | 409,360 | 359,600 |
+|  2 | Škoda Fabia    | −       | −       | −       | −       | −       | 823     | 128,872 | 250,978 | 264,641 | 260,988 | 247,600 | 236,698 | 243,982 | 232,890 | 246,561 | 264,173 | 229,045 | 266,800 | 255,025 | 202,000 |
+|  3 | Škoda Superb   | −       | −       | −       | −       | −       | −       | −       | 177     | 16,867  | 23,135  | 22,392  | 22,091  | 20,989  | 20,530  | 25,645  | 44,548  | 98,873  | 116,700 | 106,847 | 94,400  |
+|  4 | Škoda Roomster | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | 14,422  | 66,661  | 57,467  | 47,152  | 32,332  | 36,000  | 39,249  | 33,300  |
+|  5 | Škoda Yeti     | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | 11,018  | 52,604  | 70,300  | 90,952  | 82,400  |
+|  6 | Škoda Rapid    | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | 1,700   | 9,292   | 103,800 |
+|  7 | Škoda Citigo   | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | 509     | 36,687  | 45,200  |
+|  8 | Total           | 172,000 | 210,000 | 261,000 | 336,334 | 363,500 | 385,330 | 435,403 | 460,252 | 445,525 | 449,758 | 451,675 | 492,111 | 549,667 | 630,032 | 674,530 | 684,226 | 762,600 | 879,200 | 949,412 | 920,800 |
+===================Question===================
+what year did skoda begin selling more than 300,000 cars?
+===================Text===================
+<think>
+Okay, so I'm trying to figure out when Škoda started selling more than 300,000 cars in a year. I'll start by looking at the table provided.
+
+First, I see that there's a row labeled "Total" which likely represents the total number of cars sold each year. Each column corresponds to a different year from 1991 to 2013. The numbers under each year are the sales figures for that particular model or the Total.
+
+I'll focus on the "Total" row and go through each year one by one, checking when the sales first exceed 300,000. 
+
+Starting with 1991: 172,000 - that's way below.
+1995: 210,000 - still under.
+2000: 435,403. Wait, but looking at earlier years, like 1996 is 261,000, 1997 is 336,334, which is also over 300k? Hmm, wait, no, 336k is above 300k.
+
+Wait a second, let me check each year step by step to make sure I don't miss anything.
+
+Looking at the "Total" row:
+
+- 1991: 172,000
+- 1995: 210,000
+- 1996: nan? Wait, no, looking back, in row 0 under 1996 it's nan for Felicia. But the Total might be correctly listed as 261,000 for 1996.
+
+Wait, maybe I should cross-reference the total with individual models. Oh wait, perhaps there was a misread earlier.
+
+Looking again: The "Total" row shows:
+
+- 1991: 172,000
+- 1995: 210,000
+- 2000: 435,403
+
+But looking at 1996 in Total: 261,000. Then 1997 is 336,334 which crosses over 300k.
+
+Wait, but let me check each Total value:
+
+From the table:
+
+| Year | Total |
+|------|-------|
+|1991 |172,000|
+|1995 |210,000|
+|1996 |261,000|
+|1997 |363,500|
+Wait no, looking again. Wait, I might have misaligned the years.
+
+Looking at the headers: 1991,1995,1996,... up to 2013. So each column after Model is a year. Let me list them correctly:
+
+The columns are:
+
+1991,1995,1996,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013.
+
+So under the "Total" row:
+
+- 1991:172,000
+
+Then next is 1995:210,000
+
+Next column is 1996: but the total for 1996 might be a different value. Wait no, in the table, it's written as:
+
+| Total | ... | 261,000 | 336,334 | etc.
+
+Wait, perhaps I miscounted which year corresponds to each number.
+
+Looking again at the table structure:
+
+The years are from 1991 (first column after model), then 1995, 1996, 1997, up to 2013. So each subsequent column is a different year.
+
+So for Total row:
+
+- First data point: 172,000 → 1991
+- Next:210,000 →1995
+- Then:261,000 →1996?
+Wait, no: the years go 1991,1995,1996, etc. So perhaps each column is:
+
+Column 0: Model names
+
+Columns 1-19: years starting from 1991 up to 2013.
+
+So each row under Total corresponds to a year in order.
+
+Thus, for the "Total" row, the values are as follows:
+
+1991:172,000
+
+1995:210,000
+
+1996:261,000
+
+1997:336,334
+
+1998:363,500
+
+1999:385,330
+
+2000:435,403
+
+So 1996's total is 261k, which is below 300k. Then in 1997, it jumps to 336,334. That's the first time they cross over 300k.
+
+Wait, but let me check that because I might have made a mistake earlier. Wait, the Total for 1997 is 336,334, which is indeed above 300k.
+
+So Škoda began selling more than 300,000 cars in 1997.
+</think>
+
+Final Answer: 1997
+===================Answer===================
+1997

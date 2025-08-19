@@ -1,0 +1,49 @@
+===================Title===================
+Super League XVIV
+===================Table===================
+|    | Team                                     | Stadium                         | Capacity   | City/Area                                    |
+|---:|:-----------------------------------------|:--------------------------------|:-----------|:---------------------------------------------|
+|  0 | Bradford Bulls (2014 season)             | Provident Stadium               | 27,000     | Bradford, West Yorkshire                     |
+|  1 | Castleford Tigers (2014 season)          | The Wish Communications Stadium | 11,750     | Castleford, West Yorkshire                   |
+|  2 | Catalans Dragons (2014 season)           | Stade Gilbert Brutus            | 14,000     | Perpignan, Pyrénées-Orientales, France     |
+|  3 | Huddersfield Giants (2014 season)        | John Smith's Stadium            | 24,544     | Huddersfield, West Yorkshire                 |
+|  4 | Hull (2014 season)                       | Kingston Communications Stadium | 25,404     | Kingston upon Hull, East Riding of Yorkshire |
+|  5 | Hull Kingston Rovers (2014 season)       | MS3 Craven Park                 | 9,471      | Kingston upon Hull, East Riding of Yorkshire |
+|  6 | Leeds Rhinos (2014 season)               | Headingley Carnegie Stadium     | 22,250     | Leeds, West Yorkshire                        |
+|  7 | London Broncos (2014 season)             | Twickenham Stoop                | 12,700     | Twickenham, London                           |
+|  8 | Salford City Reds (2014 season)          | Salford City Stadium            | 12,000     | Salford, Greater Manchester                  |
+|  9 | St Helens RLFC (2014 season)             | Langtree Park                   | 18,000     | St Helens, Merseyside                        |
+| 10 | Wakefield Trinity Wildcats (2014 season) | Rapid Solicitors Stadium        | 11,000     | Wakefield, West Yorkshire                    |
+| 11 | Warrington Wolves (2014 season)          | Halliwell Jones Stadium         | 15,500     | Warrington, Cheshire                         |
+| 12 | Widnes Vikings (2014 season)             | The Select Security Stadium     | 13,500     | Widnes, Cheshire, England                    |
+| 13 | Wigan Warriors (2014 season)             | DW Stadium                      | 25,138     | Wigan, Greater Manchester                    |
+===================Question===================
+which stadium is listed before langtree park?
+===================Text===================
+<think>
+Okay, so I have this table about Super League XVIV teams, their stadiums, capacities, and locations. The question is asking which stadium is listed before Langtree Park in the table.
+
+First, I need to find Langtree Park in the table. Looking through each row:
+
+- Row 0: Provident Stadium
+- Row 1: The Wish Communications Stadium
+- Row 2: Stade Gilbert Brutus
+- Row 3: John Smith's Stadium
+- Row 4: Kingston Communications Stadium
+- Row 5: MS3 Craven Park
+- Row 6: Headingley Carnegie Stadium
+- Row 7: Twickenham Stoop
+- Row 8: Salford City Stadium
+- Row 9: Langtree Park (St Helens RLFC)
+- And so on...
+
+So, Langtree Park is in row 9. Now, the question is which stadium comes before it, meaning the one just above it in the table. Looking at row 8, that's Salford City Stadium.
+
+Wait, but actually, each row increments by 1 starting from 0. So the rows go 0 to 13. The row number for Langtree Park is 9, so the previous row is 8. That would be Salford City Reds' stadium: Salford City Stadium.
+
+Therefore, the stadium listed before Langtree Park is Salford City Stadium.
+</think>
+
+Final Answer: Salford City Stadium
+===================Answer===================
+Salford City Stadium

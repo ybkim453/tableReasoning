@@ -1,0 +1,82 @@
+===================Title===================
+1990 British Grand Prix
+===================Table===================
+|    | Pos   |   No | Driver             | Constructor       |   Laps | Time/Retired   |   Grid |   Points |
+|---:|:------|-----:|:-------------------|:------------------|-------:|:---------------|-------:|---------:|
+|  0 | 1     |    1 | Alain Prost        | Ferrari           |     64 | 1:18:30.999    |      5 |        9 |
+|  1 | 2     |    5 | Thierry Boutsen    | Williams-Renault  |     64 | + 39.092       |      4 |        6 |
+|  2 | 3     |   27 | Ayrton Senna       | McLaren-Honda     |     64 | + 43.088       |      2 |        4 |
+|  3 | 4     |   29 | Éric Bernard      | Lola-Lamborghini  |     64 | + 1:15.302     |      8 |        3 |
+|  4 | 5     |   20 | Nelson Piquet      | Benetton-Ford     |     64 | + 1:24.003     |     11 |        2 |
+|  5 | 6     |   30 | Aguri Suzuki       | Lola-Lamborghini  |     63 | + 1 Lap        |      9 |        1 |
+|  6 | 7     |   10 | Alex Caffi         | Arrows-Ford       |     63 | + 1 Lap        |     17 |      nan |
+|  7 | 8     |    4 | Jean Alesi         | Tyrrell-Ford      |     63 | + 1 Lap        |      6 |      nan |
+|  8 | 9     |    8 | Stefano Modena     | Brabham-Judd      |     62 | + 2 Laps       |     20 |      nan |
+|  9 | 10    |   25 | Nicola Larini      | Ligier-Ford       |     62 | + 2 Laps       |     21 |      nan |
+| 10 | 11    |   21 | Emanuele Pirro     | Dallara-Ford      |     62 | + 2 Laps       |     19 |      nan |
+| 11 | 12    |   24 | Paolo Barilla      | Minardi-Ford      |     62 | + 2 Laps       |     24 |      nan |
+| 12 | 13    |   26 | Philippe Alliot    | Ligier-Ford       |     61 | + 3 Laps       |     22 |      nan |
+| 13 | 14    |   28 | Gerhard Berger     | McLaren-Honda     |     60 | Throttle       |      3 |      nan |
+| 14 | Ret   |    2 | Nigel Mansell      | Ferrari           |     55 | Gearbox        |      1 |      nan |
+| 15 | Ret   |   16 | Ivan Capelli       | Leyton House-Judd |     48 | Fuel Leak      |     10 |      nan |
+| 16 | Ret   |   12 | Martin Donnelly    | Lotus-Lamborghini |     48 | Engine         |     14 |      nan |
+| 17 | Ret   |   11 | Derek Warwick      | Lotus-Lamborghini |     46 | Engine         |     16 |      nan |
+| 18 | Ret   |   17 | Gabriele Tarquini  | AGS-Ford          |     41 | Engine         |     26 |      nan |
+| 19 | Ret   |    9 | Michele Alboreto   | Arrows-Ford       |     37 | Engine         |     25 |      nan |
+| 20 | Ret   |    6 | Riccardo Patrese   | Williams-Renault  |     26 | Chassis        |      7 |      nan |
+| 21 | Ret   |    3 | Satoru Nakajima    | Tyrrell-Ford      |     20 | Electrical     |     12 |      nan |
+| 22 | Ret   |   19 | Alessandro Nannini | Benetton-Ford     |     15 | Collision      |     13 |      nan |
+| 23 | Ret   |   22 | Andrea de Cesaris  | Dallara-Ford      |     12 | Fuel System    |     23 |      nan |
+| 24 | Ret   |   23 | Pierluigi Martini  | Minardi-Ford      |      3 | Alternator     |     18 |      nan |
+| 25 | DNS   |   15 | Maurício Gugelmin | Leyton House-Judd |      0 | Fuel Pump      |     15 |      nan |
+| 26 | DNQ   |   14 | Olivier Grouillard | Osella-Ford       |    nan | nan            |    nan |      nan |
+| 27 | DNQ   |    7 | David Brabham      | Brabham-Judd      |    nan | nan            |    nan |      nan |
+| 28 | DNQ   |   36 | JJ Lehto           | Onyx-Ford         |    nan | nan            |    nan |      nan |
+| 29 | DNQ   |   35 | Gregor Foitek      | Onyx-Ford         |    nan | nan            |    nan |      nan |
+| 30 | DNPQ  |   33 | Roberto Moreno     | EuroBrun-Judd     |    nan | nan            |    nan |      nan |
+| 31 | DNPQ  |   18 | Yannick Dalmas     | AGS-Ford          |    nan | nan            |    nan |      nan |
+| 32 | DNPQ  |   34 | Claudio Langes     | EuroBrun-Judd     |    nan | nan            |    nan |      nan |
+| 33 | DNPQ  |   31 | Bertrand Gachot    | Coloni-Subaru     |    nan | nan            |    nan |      nan |
+| 34 | DNPQ  |   39 | Bruno Giacomelli   | Life              |    nan | nan            |    nan |      nan |
+===================Question===================
+who retired before finishing 4 laps?
+===================Text===================
+<think>
+Okay, so I need to figure out which drivers retired before finishing 4 laps in the 1990 British Grand Prix based on this table. Let me start by looking at the data provided and see how to approach it.
+
+First, I'll scan through each row of the table and look for drivers whose status is "Ret" (retired) or "DNS" (did not start), "DNQ" (did not qualify), etc., because those indicate they didn't finish the race. The key here is to identify those who retired before completing 4 laps.
+
+Looking at each row:
+
+1. Row 0: Alain Prost won, so he's not retired.
+2. Rows 1-5: Positions 2 to 6 show drivers who finished the race with various times but didn't retire early.
+3. Row 14: Nigel Mansell retired on lap 55 with a gearbox issue. Lap 55 is way beyond 4 laps, so he doesn't count.
+4. Row 15: Ivan Capelli retired on lap 48 due to fuel leak. Again, more than 4 laps.
+5. Rows 16-19: Retirements on laps 48, 46, 41, 37. All above 4.
+6. Row 20: Michele Alboreto retired on lap 37. Still too high.
+7. Row 21: Riccardo Patrese retired on lap 26. Nope.
+8. Row 22: Satoru Nakajima retired on lap 20. Not under 4.
+9. Row 23: Alessandro Nannini retired on lap 15. Still higher than 4.
+10. Row 24: Andrea de Cesaris retired on lap 12. Above 4 laps.
+11. Row 25: Pierluigi Martini retired on lap 3. Ah, that's less than 4 laps. So he counts.
+12. Rows 26-34: These are DNQ and DNPQ statuses meaning they didn't even qualify or start, so technically they didn't retire during the race but were out before it started.
+
+Wait, does "Ret" only refer to those who started but couldn't finish? Yes, because DNS is did not start. So looking for "Ret" with laps less than 4.
+
+From row 25: Pierluigi Martini retired on lap 3. That's the only one I found so far. Let me check again in case I missed any.
+
+Looking through all the rows:
+
+- Row 24: Andrea de Cesaris, lap 12.
+- Row 25: Pierluigi Martini, lap 3.
+
+No others have laps less than 4. So only Martini retired before finishing 4 laps.
+
+Wait, did I miss anyone else? Let me check again quickly. Maybe someone with a lower lap number but "Ret" status.
+
+Yes, row 24 is 12 laps, not below 4. So the only one is Martini on lap 3.
+</think>
+
+Final Answer: Pierluigi Martini
+===================Answer===================
+Pierluigi Martini

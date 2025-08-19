@@ -1,0 +1,33 @@
+===================Title===================
+1991 CONCACAF Champions' Cup
+===================Table===================
+|    | Team 1             | Agg.           | Team 2                 | 1st leg   | 2nd leg   |
+|---:|:-------------------|:---------------|:-----------------------|:----------|:----------|
+|  0 | Tauro F.C.         | 5 - 0          | América Managua       | 5 - 0     | 0 - 0     |
+|  1 | Deportivo Saprissa | 8 - 2          | Real Estelí           | 4 - 1     | 4 - 1     |
+|  2 | L.D. Alajuelense   | 11 - 1         | C.D. Plaza Amador      | 4 - 1     | 7 - 0     |
+|  3 | Duurly's           | 0 - 8          | C.D. Luis Ángel Firpo | 0 - 4     | 0 - 4     |
+|  4 | Real C.D. España  | 6 - 0          | Acros Real Verdes      | 5 - 0     | 1 - 0     |
+|  5 | CSD Municipal      | 3 - 6          | Alianza F.C.           | 2 - 5     | 1 - 1     |
+|  6 | C.D. Motagua       | 2 - 2          | CSD Comunicaciones     | 1 - 1     | 1 - 1     |
+|  7 | C.D. Motagua       | 0 - 1 (Replay) | CSD Comunicaciones     | nan       | nan       |
+===================Question===================
+what team is listed before duurly's?
+===================Text===================
+<think>
+Alright, so I need to figure out which team is listed before Duurly's in the given table from the 1991 CONCACAF Champions' Cup. Let me start by looking at how the table is structured.
+
+The table has several columns: an index starting from 0, Team 1, Aggregate score (Agg.), Team 2, and then the scores from the first and second legs of their matches. Each row represents a matchup between two teams.
+
+First, I should locate Duurly's in the table. Scanning through the rows, I see that Duurly's is listed as Team 1 in row 3. TheAggregate score for that match is 0-8 against C.D. Luis Ángel Firpo. So, their index number is 3.
+
+Now, the question is asking which team is listed before Duurly's. Since each row has an index starting from 0 and increments by 1 as we go down, I need to find the team that comes in the row immediately before row 3. That would be row 2.
+
+Looking at row 2, Team 1 is L.D. Alajuelense, which means this is the team listed right before Duurly's in the table. Just to double-check, row 0 is Tauro F.C., row 1 is Deportivo Saprissa, then row 2 is L.D. Alajuelense, and row 3 is Duurly's. So yes, L.D. Alajuelense comes right before Duurly's in the table.
+
+I don't think there's any other team that could be before Duurly's because each subsequent index increases by one, making it straightforward to determine the order.
+</think>
+
+Final Answer: L.D. Alajuelense
+===================Answer===================
+L.D. Alajuelense

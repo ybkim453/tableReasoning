@@ -1,0 +1,36 @@
+===================Title===================
+ICW World Heavyweight Championship
+===================Table===================
+|    | Wrestler:    |   Reigns: | Date:             | Place:                    | Notes:                                          |
+|---:|:-------------|----------:|:------------------|:--------------------------|:------------------------------------------------|
+|  0 | Lanny Poffo  |         1 | May 10, 1978      | San Francisco, California | Defeated Joe Banek to become the first champion |
+|  1 | Randy Savage |         1 | March 13, 1979    | Halifax, Nova Scotia      | nan                                             |
+|  2 | Lanny Poffo  |         2 | July 21, 1979     | Lexington, Kentucky       | nan                                             |
+|  3 | Randy Savage |         2 | 1981              | Unknown                   | nan                                             |
+|  4 | Lanny Poffo  |         3 | 1981              | Unknown                   | nan                                             |
+|  5 | Randy Savage |         3 | 1982              | Unknown                   | nan                                             |
+|  6 | Paul Christy |         1 | November 13, 1983 | Springfield, Illinois     | nan                                             |
+|  7 | Lanny Poffo  |         4 | January 1, 1984   | Springfield, Illinois     | nan                                             |
+===================Question===================
+on what date was the springfield match that was not won by lanny poffo?
+===================Text===================
+<think>
+Okay, so I need to figure out the date of the Springfield match that wasn't won by Lanny Poffo. Let me start by looking at the table provided.
+
+First, I'll scan through each row and note where the Place is Springfield, Illinois because that's where we're focusing. Looking through the rows:
+
+- The 0th entry: Place is San Francisco, so not relevant.
+- 1st entry: Halifax, Nova Scotia. Not it either.
+- 2nd entry: Lexington, Kentucky.
+- 3rd, 4th, 5th entries all have Unknown places, so I can skip those since they don't specify Springfield.
+- Now the 6th row (index 6): Place is Springfield, Illinois. The wrestler here is Paul Christy. So that's one match in Springfield not won by Lanny Poffo because Lanny didn't win it; Paul did.
+- Then the 7th row: Also Springfield, but the wrestler is Lanny Poffo. So he won that one.
+
+So the only Springfield match not won by Lanny Poffo is the one on November 13, 1983. That's when Paul Christy took the title.
+</think>
+
+The date of the Springfield match not won by Lanny Poffo was on November 13, 1983.
+
+Final Answer: November 13, 1983
+===================Answer===================
+November 13, 1983

@@ -1,0 +1,78 @@
+===================Title===================
+2000 Úrvalsdeild
+===================Table===================
+|    |   Pos | Team       |   Played |   Won |   Draw |   Lost |   Goals For |   Goals Against |   Goal Difference |   Points | Notes                 |
+|---:|------:|:-----------|---------:|------:|-------:|-------:|------------:|----------------:|------------------:|---------:|:----------------------|
+|  0 |     1 | KR         |       18 |    11 |      4 |      3 |          27 |              14 |                13 |       37 | UEFA Champions League |
+|  1 |     2 | Fylkir     |       18 |    10 |      5 |      3 |          39 |              16 |                23 |       35 | UEFA Cup              |
+|  2 |     3 | Grindavík |       18 |     8 |      6 |      4 |          25 |              18 |                 7 |       30 | UEFA Cup              |
+|  3 |     4 | ÍBV       |       18 |     8 |      5 |      5 |          29 |              17 |                12 |       29 | Inter-Toto Cup        |
+|  4 |     5 | ÍA        |       18 |     7 |      5 |      6 |          21 |              17 |                 4 |       26 | nan                   |
+|  5 |     6 | Keflavík  |       18 |     4 |      7 |      7 |          21 |              35 |               -14 |       19 | nan                   |
+|  6 |     7 | Breiðablik |       18 |     5 |      3 |     10 |          29 |              35 |                -6 |       18 | nan                   |
+|  7 |     8 | Fram       |       18 |     4 |      5 |      9 |          22 |              33 |               -11 |       17 | nan                   |
+|  8 |     9 | Stjarnan   |       18 |     4 |      5 |      9 |          18 |              31 |               -13 |       17 | Relegated             |
+|  9 |    10 | Leiftur    |       18 |     3 |      7 |      8 |          24 |              39 |               -15 |       16 | Relegated             |
+===================Question===================
+what is the average number of draws?
+===================Text===================
+<think>
+Okay, so I need to figure out the average number of draws in the 2000 Úrvalsdeild season based on the provided table. Let me start by understanding what the question is asking. The average number of draws would be the total number of draws across all teams divided by the number of teams.
+
+Looking at the table, I see that each row represents a team and their performance during the season. Each row has columns for Draws, which is the number of games each team drew. So my first step is to extract the draw numbers from each team.
+
+Let me list out the Draw values for each team:
+
+1. KR: 4 draws
+2. Fylkir: 5 draws
+3. Grindavík: 6 draws
+4. ÍBV: 5 draws
+5. ÍA: 5 draws
+6. Keflavík: 7 draws
+7. Breiðablik: 3 draws
+8. Fram: 5 draws
+9. Stjarnan: 5 draws
+10. Leiftur: 7 draws
+
+Now, I need to sum these numbers up to get the total number of draws in the season.
+
+Let's add them one by one:
+
+4 + 5 = 9  
+9 + 6 = 15  
+15 + 5 = 20  
+20 + 5 = 25  
+25 + 7 = 32  
+32 + 3 = 35  
+35 + 5 = 40  
+40 + 5 = 45  
+45 + 7 = 52
+
+Wait, let me double-check that addition to make sure I didn't make a mistake.
+
+Starting again:
+
+4 (KR) + 5 (Fylkir) = 9  
+9 + 6 (Grindavík) = 15  
+15 + 5 (ÍBV) = 20  
+20 + 5 (ÍA) = 25  
+25 + 7 (Keflavík) = 32  
+32 + 3 (Breiðablik) = 35  
+35 + 5 (Fram) = 40  
+40 + 5 (Stjarnan) = 45  
+45 + 7 (Leiftur) = 52
+
+Yes, that's correct. The total number of draws is 52.
+
+Now, since there are 10 teams in the league, to find the average number of draws per team, I divide the total draws by the number of teams.
+
+Average = Total Draws / Number of Teams  
+Average = 52 / 10  
+Average = 5.2
+
+So the average number of draws per team is 5.2.
+</think>
+
+Final Answer: 5.2
+===================Answer===================
+5

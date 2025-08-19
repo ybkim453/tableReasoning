@@ -1,0 +1,42 @@
+===================Title===================
+David Cleevely
+===================Table===================
+|    | Title                                                                                  |   Year | Authors                                          | Publisher                               | Pages   |
+|---:|:---------------------------------------------------------------------------------------|-------:|:-------------------------------------------------|:----------------------------------------|:--------|
+|  0 | Rural Telecoms Handbook: Equipment and Manufacturers                                   |   1992 | Tim Hills, David Cleevely                        | Analysys Publications                   | -       |
+|  1 | Regional Structure and Telecommunications Demand: A Case Study of Kenya (Ph.D. thesis) |   1982 | D. D. Cleevely                                   | University of Cambridge                 | -       |
+|  2 | The Route to Advanced Communications                                                   |   1991 | David Cleevely, Stefan Stanislawski, Ade Ajibulu | Analysys Publications                   | 178     |
+|  3 | Global Turf Wars: Re-Inventing the Telecoms Operator for the Age of Global Competition |   1999 | Tim Hills, David Cleevely, Andrea Smith          | Analysis Publications                   | 218     |
+|  4 | ATM Vendor & Operator Strategies                                                       |   1993 | David Cleevely, Peter Aknai, Ian Leslie          | Analysis Publications                   | 180     |
+|  5 | The Far Reaching Effects of Broadband                                                  |   2002 | David Cleevely                                   | Institution of Engineering & Technology | 415     |
+|  6 | Regulating the Telecoms Market: Competition and Innovation in the Broadband Economy    |   2003 | Tim Hills, David Cleevely, Ross Pow              | Analysis Publications                   | 35      |
+===================Question===================
+how many publication had more than one author?
+===================Text===================
+<think>
+Alright, let's tackle this problem step by step. I'm trying to figure out how many publications in the given table had more than one author. 
+
+First, I'll look at each row of the table and check the "Authors" column. If there are multiple names separated by commas, that means the publication had more than one author.
+
+Starting with row 0: The authors are Tim Hills and David Cleevely. That's two authors, so this publication qualifies.
+
+Row 1 only lists D.D. Cleevely as the sole author, so it doesn't count.
+
+Moving to row 2: Here, there are three authors—David Cleevely, Stefan Stanislawski, and Ade Ajibulu. Definitely more than one.
+
+Row 3 includes Tim Hills, David Cleevely, and Andrea Smith—that's three authors again.
+
+In row 4, the authors are David Cleevely, Peter Aknai, and Ian Leslie—three names, so another multi-author publication.
+
+Row 5 only lists David Cleevely, so it doesn't count.
+
+Finally, row 6 has Tim Hills, David Cleevely, and Ross Pow. That's three authors as well.
+
+So, adding them up: rows 0,2,3,4,6 have more than one author. Let me double-check each to make sure I didn't miss any or count incorrectly.
+
+Yes, that makes six publications in total with multiple authors.
+</think>
+
+Final Answer: 5
+===================Answer===================
+5

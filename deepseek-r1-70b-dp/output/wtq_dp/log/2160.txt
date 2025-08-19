@@ -1,0 +1,43 @@
+===================Title===================
+Kingston Transit
+===================Table===================
+|    | Route   | Destinations                                          | Via                                                | Frequency\n(minutes)   | Peak Hours Only   | Former                      |
+|---:|:--------|:------------------------------------------------------|:---------------------------------------------------|:-----------------------|:------------------|:----------------------------|
+|  0 | 1       | Montreal Street\nSt. Lawrence College                 | Downtown                                           | 30                     | nan               | Cataraqui Town Centre-Woods |
+|  1 | 2       | Kingston Centre\nDivision Street                      | St. Lawrence College\nDowntown                     | 30                     | nan               | nan                         |
+|  2 | 3       | Kingston Centre\nDowntown                             | Queen Mary Road\nSt. Lawrence College\nKing Street | 30                     | nan               | nan                         |
+|  3 | 4       | Princess Street                                       | Cataraqui Town Centre\nDowntown                    | 30                     | nan               | nan                         |
+|  4 | 6       | Cataraqui Town Centre\nSt. Lawrence College           | Gardiners Town Centre                              | 30                     | nan               | Downtown                    |
+|  5 | 7       | Dalton/Division\nMidland/Gardiners                    | Cataraqui Town Centre\nTrain Station\nBus Terminal | 30                     | nan               | nan                         |
+|  6 | 9       | Downtown\nCataraqui Town Centre                       | Brock St. / Barrie St.\nGardiners Town Centre      | 20                     | nan               | nan                         |
+|  7 | 10      | Amherstview\nCataraqui Town Centre                    | Collins Bay Road                                   | 30                     | nan               | Kingston Centre             |
+|  8 | 11      | Kingston Centre\nCataraqui Town Centre                | Bath Road\nGardiners Town Centre                   | 30                     | nan               | (formerly Route 71)         |
+|  9 | 12      | Kingston Centre\nHighway 15                           | Downtown\nCFB Kingston (off-peak only)             | 30                     | nan               | -                           |
+| 10 | 12A     | CFB Kingston\nDowntown                                | nan                                                | 30                     | X                 | nan                         |
+| 11 | 18      | Train Station\nBus Terminal                           | Downtown\nQueen's University\nSt. Lawrence College | *                      | nan               | Student Circuit             |
+| 12 | 19      | Montreal Street\nQueen's University                   | Downtown                                           | 30                     | X                 | nan                         |
+| 13 | 14      | Train Station\nCataraqui Town Centre / Midland Avenue | Waterloo-Davis\nMultiplex                          | 30                     | nan               | (formerly Route A)          |
+| 14 | 15      | Reddendale\nCataraqui Town Centre - Woods             | Gardiners Town Centre                              | 30                     | nan               | (formerly Route B)          |
+| 15 | 16      | Train Station\nBus Terminal                           | Kingston Centre                                    | 30                     | nan               | (formerly Route C)          |
+===================Question===================
+what's the next destination after princess street?
+===================Text===================
+<think>
+Alright, so I need to figure out what's the next destination after Princess Street based on the Kingston Transit table provided. Let me break this down step by step.
+
+First, I look through each row of the table to find where Princess Street is mentioned. Scanning through the 'Destinations' column, I see that Route 4 has "Princess Street" as one of its destinations, along with Cataraqui Town Centre and Downtown. So Route 4 serves Princess Street.
+
+Now, since the question is asking for the next destination after Princess Street on this route, I need to determine where the bus goes immediately after leaving Princess Street. The 'Via' column tells me the path it takes between destinations. For Route 4, the 'Via' field lists Cataraqui Town Centre and Downtown.
+
+Wait, actually, the Destinations for Route 4 are "Princess Street" and then "Cataraqui Town Centre\nDowntown". So after Princess Street comes Cataraqui Town Centre and then Downtown. But since the question is asking specifically for the next destination after Princess Street on that route, it would be Cataraqui Town Centre.
+
+But I should also check if there's any other information that might affect this, like peak hour services or former routes. Looking at Route 4, under 'Peak Hours Only' it says "nan", which probably means not applicable, so it runs normally. The 'Former' column mentions "nan" as well, so no changes there.
+
+So putting it all together, after Princess Street, the next stop on Route 4 is Cataraqui Town Centre.
+</think>
+
+The next destination after Princess Street on Route 4 is Cataraqui Town Centre and then Downtown.
+
+Final Answer: Cataraqui Town Centre
+===================Answer===================
+Cataraqui Town Centre St. Lawrence College

@@ -1,0 +1,54 @@
+===================Title===================
+Health in Ethiopia
+===================Table===================
+|    | Region      |   Physician (GP & specialist) | Physician : Population Ratio   |   Health Officer | HO : Population Ratio   | All Nurses   | Nurse : Population Ratio   | Mid-wives   | Mid Wife: Population Ratio   | HEW*   | HEW : Population Ratio   |
+|---:|:------------|------------------------------:|:-------------------------------|-----------------:|:------------------------|:-------------|:---------------------------|:------------|:-----------------------------|:-------|:-------------------------|
+|  0 | Tigray      |                           101 | 1:44,880                       |              188 | 1:24,111                | 2,332        | 1:1,944                    | 185         | 1:24,502                     | 1,433  | 1:3,163                  |
+|  1 | Afar        |                            15 | 1:98,258                       |               29 | 1:50,823                | 185          | 1:7,967                    | −           | −                            | 572    | 1:2,577                  |
+|  2 | Amhara      |                           304 | 1:58,567                       |              434 | 1:41,024                | 3,790        | 1:4,698                    | 212         | 1:83,983                     | 7,471  | 1:2,383                  |
+|  3 | Oromia      |                           378 | 1:76,075                       |              448 | 1:64,189                | 5,040        | 1:5,706                    | 287         | 1:100,197                    | 13856  | 1:2,075                  |
+|  4 | Somalia     |                            71 | 1:65,817                       |               12 | 1:389,415               | 314          | 1:14,882                   | 45          | 1:103,844                    | 1,427  | 1:3,275                  |
+|  5 | Ben-Gumuz   |                            12 | 1:59,309                       |               42 | 1:16,945                | 452          | 1:1,575                    | 37          | 1:19,235                     | 499    | 1:1,426                  |
+|  6 | SNNPR       |                           242 | 1:65,817                       |              220 | 1:72,398                | 3,980        | 1:4,002                    | 316         | 1:50,404                     | 7,915  | 1:2,012                  |
+|  7 | Gambella    |                            13 | 1:25,585                       |               13 | 1:25,585                | 91           | 1:3,655                    | 4           | 1:83,150                     | 457    | 1:728                    |
+|  8 | Harari      |                            29 | 1:6,655                        |               31 | 1:6,226                 | 276          | 1:699                      | 29          | 1:6,655                      | 47     | 1:4,106                  |
+|  9 | Addis Ababa |                           934 | 1:3,056                        |              170 | 1:16,791                | 3,377        | 1:845                      | 244         | 1:11,699                     | NA     | -                        |
+| 10 | Diredawa    |                            53 | 1:6,796                        |               19 | 1:18,957                | 272          | 1:1,324                    | 20          | 1:18,009                     | 142    | 1:2,537                  |
+===================Question===================
+which region has the highest number of nurses?
+===================Text===================
+<think>
+Okay, so I need to figure out which region in Ethiopia has the highest number of nurses based on this table. Let me start by understanding what's being asked. The question is about identifying the region with the most nurses, so I'm looking for the largest number under the "All Nurses" column.
+
+Looking at the table, each row represents a different region. The columns are various healthcare workers, and in particular, the fifth column from the left shows "All Nurses," which is what we need. My task is to scan through these numbers and find out which one is the highest.
+
+Let me go through each region one by one:
+
+- **Tigray (Row 0):** All Nurses = 2,332
+- **Afar (Row 1):** All Nurses = 185
+- **Amhara (Row 2):** All Nurses = 3,790
+- **Oromia (Row 3):** All Nurses = 5,040
+- **Somalia (Row 4):** All Nurses = 314
+- **Ben-Gumuz (Row 5):** All Nurses = 452
+- **SNNPR (Row 6):** All Nurses = 3,980
+- **Gambella (Row 7):** All Nurses = 91
+- **Harari (Row 8):** All Nurses = 276
+- **Addis Ababa (Row 9):** All Nurses = 3,377
+- **Diredawa (Row 10):** All Nurses = 272
+
+Now, comparing these numbers:
+
+5,040 is the highest number I see here. That's from Oromia in Row 3. The next closest is SNNPR with 3,980 and Amhara with 3,790, but neither reaches as high as Oromia.
+
+I should double-check to make sure I didn't miss any higher numbers elsewhere. Looking again:
+
+- Tigray: 2,332
+- Afar: 185 (much lower)
+- Oromia definitely stands out at 5,040.
+
+So, the region with the highest number of nurses is Oromia.
+</think>
+
+Final Answer: Oromia
+===================Answer===================
+Oromia

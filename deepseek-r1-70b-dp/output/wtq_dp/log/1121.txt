@@ -1,0 +1,64 @@
+===================Title===================
+Tommy Robredo career statistics
+===================Table===================
+|    | Outcome   |   No. | Date              | Tournament                                  | Surface   | Opponent           | Score                   |
+|---:|:----------|------:|:------------------|:--------------------------------------------|:----------|:-------------------|:------------------------|
+|  0 | Runner-up |     1 | 15 April 2001     | Grand Prix Hassan II, Casablanca, Morocco   | Clay      | Guillermo Cañas   | 5–7, 2–6                |
+|  1 | Winner    |     1 | 29 July 2001      | Orange Warsaw Open, Sopot, Poland           | Clay      | Albert Portas      | 1–6, 7–5, 7–6(7–2)      |
+|  2 | Runner-up |     2 | 20 July 2003      | Mercedes Cup, Stuttgart, Germany            | Clay      | Guillermo Coria    | 2–6, 2–6, 1–6           |
+|  3 | Winner    |     2 | 2 May 2004        | Torneo Godó, Barcelona, Spain              | Clay      | Gastón Gaudio     | 6–3, 4–6, 6–2, 3–6, 6–3 |
+|  4 | Runner-up |     3 | 1 May 2005        | Estoril Open, Estoril, Portugal             | Clay      | Gastón Gaudio     | 1–6, 6–2, 1–6           |
+|  5 | Runner-up |     4 | 30 April 2006     | Torneo Godó, Barcelona, Spain              | Clay      | Rafael Nadal       | 4–6, 4–6, 0–6           |
+|  6 | Winner    |     3 | 21 May 2006       | Hamburg Masters, Hamburg, Germany           | Clay      | Radek Štěpánek  | 6–1, 6–3, 6–3           |
+|  7 | Winner    |     4 | 16 July 2006      | Swedish Open, Båstad, Sweden               | Clay      | Nikolay Davydenko  | 6–2, 6–1                |
+|  8 | Runner-up |     5 | 14 January 2007   | Heineken Open, Auckland, New Zealand        | Hard      | David Ferrer       | 4–6, 2–6                |
+|  9 | Winner    |     5 | 5 August 2007     | Orange Warsaw Open, Sopot, Poland (2)       | Clay      | José Acasuso      | 7–5, 6–0                |
+| 10 | Runner-up |     6 | 16 September 2007 | China Open, Beijing, China                  | Hard (i)  | Fernando González | 1–6, 6–3, 1–6           |
+| 11 | Winner    |     6 | 7 October 2007    | Open de Moselle, Metz, France               | Hard (i)  | Andy Murray        | 0–6, 6–2, 6–3           |
+| 12 | Runner-up |     7 | 15 June 2008      | Orange Warsaw Open, Warsaw, Poland          | Clay      | Nikolay Davydenko  | 3–6, 3–6                |
+| 13 | Winner    |     7 | 13 July 2008      | Swedish Open, Båstad, Sweden (2)           | Clay      | Tomáš Berdych    | 6–4, 6–1                |
+| 14 | Winner    |     8 | 14 February 2009  | Brasil Open, Costa do Sauípe, Brazil       | Clay      | Thomaz Bellucci    | 6–3, 3–6, 6–4           |
+| 15 | Winner    |     9 | 22 February 2009  | Copa Telmex, Buenos Aires, Argentina        | Clay      | Juan Mónaco       | 7–5, 2–6, 7–6(7–5)      |
+| 16 | Winner    |    10 | 6 February 2011   | Chile Open, Santiago, Chile                 | Clay      | Santiago Giraldo   | 6–2, 2–6, 7–6(7–5)      |
+| 17 | Winner    |    11 | 14 April 2013     | Grand Prix Hassan II, Casablanca, Morocco   | Clay      | Kevin Anderson     | 7–6(8–6), 4–6, 6–3      |
+| 18 | Winner    |    12 | 28 July 2013      | ATP Vegeta Croatia Open Umag, Umag, Croatia | Clay      | Fabio Fognini      | 6–0, 6–3                |
+===================Question===================
+how many hard surface courts are there?
+===================Text===================
+<think>
+Alright, so I need to figure out how many hard surface courts are there based on Tommy Robredo's career statistics table. Let me go through this step by step.
+
+First, I'll look at each row in the table and check the "Surface" column because that's where the information about the court surfaces is located. The question specifically asks for hard surface courts, so I need to count how many times "Hard" appears there.
+
+I see the table has 19 entries (from 0 to 18). Let me go through them one by one:
+
+1. Row 0: Surface is Clay. Not Hard.
+2. Row 1: Clay again. Still not.
+3. Row 2: Clay.
+4. Row 3: Clay.
+5. Row 4: Clay.
+6. Row 5: Clay.
+7. Row 6: Clay.
+8. Row 7: Clay.
+9. Row 8: Surface is Hard. That's one.
+10. Row 9: Clay.
+11. Row 10: Hard (i). Hmm, the (i) might mean indoor, but the surface is still Hard. So that's two.
+12. Row 11: Hard (i). Another one, so three now.
+13. Row 12: Clay.
+14. Row 13: Clay.
+15. Row 14: Clay.
+16. Row 15: Clay.
+17. Row 16: Clay.
+18. Row 17: Clay.
+19. Row 18: Clay.
+
+Wait, let me recount to make sure I didn't miss any. So entries 8, 10, and 11 are the only ones with "Hard" surfaces. That makes three instances where the surface is Hard.
+
+But wait, row 8's surface is just "Hard", rows 10 and 11 have "Hard (i)", which probably stands for indoor hard courts. But regardless of whether they're indoors or not, the key point is that the surface is hard. So each occurrence should be counted, whether it's Hard or Hard (i). 
+
+So yes, entries 8, 10, and 11 are all Hard surfaces. That makes a total of three hard court entries in the table.
+</think>
+
+Final Answer: 3
+===================Answer===================
+3

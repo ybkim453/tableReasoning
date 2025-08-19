@@ -1,0 +1,69 @@
+===================Title===================
+Brose Baskets
+===================Table===================
+|    | Season   |   Tier | League     |   Pos. | Postseason          | German Cup      | European competitions                          |
+|---:|:---------|-------:|:-----------|-------:|:--------------------|:----------------|:-----------------------------------------------|
+|  0 | 1991–92  |      1 | Bundesliga |      2 | Semifinalist        | Champion        | –                                              |
+|  1 | 1992–93  |      1 | Bundesliga |      1 | Finalist            | –               | –                                              |
+|  2 | 1993–94  |      1 | Bundesliga |      1 | Semifinalist        | Semifinalist    | –                                              |
+|  3 | 1994–95  |      1 | Bundesliga |      1 | Semifinalist        | –               | 3 Played Korać Cup                            |
+|  4 | 1995–96  |      1 | Bundesliga |      4 | Semifinalist        | Semifinalist    | 3 Played Korać Cup                            |
+|  5 | 1996–97  |      1 | Bundesliga |      3 | Semifinalist        | Semifinalist    | 3 Played Korać Cup                            |
+|  6 | 1997–98  |      1 | Bundesliga |      3 | Semifinalist        | –               | 3 Played Korać Cup                            |
+|  7 | 1998–99  |      1 | Bundesliga |      6 | Quarterfinalist     | Third place     | 3 Played Korać Cup                            |
+|  8 | 1999–00  |      1 | Bundesliga |     10 | Round of 16         | –               | –                                              |
+|  9 | 2000–01  |      1 | Bundesliga |     10 | Relegation playoffs | –               | –                                              |
+| 10 | 2001–02  |      1 | Bundesliga |      7 | Quarterfinalist     | –               | –                                              |
+| 11 | 2002–03  |      1 | Bundesliga |      2 | Finalist            | –               | –                                              |
+| 12 | 2003–04  |      1 | Bundesliga |      2 | Finalist            | –               | 3 Played FIBA Europe League                    |
+| 13 | 2004–05  |      1 | Bundesliga |      1 | Champion            | –               | 2 Played ULEB Cup                              |
+| 14 | 2005–06  |      1 | Bundesliga |      3 | Semifinalist        | Finalist        | 1 Euroleague Top 16                            |
+| 15 | 2006–07  |      1 | Bundesliga |      1 | Champion            | –               | 2 Played ULEB Cup                              |
+| 16 | 2007–08  |      1 | Bundesliga |      7 | Quarterfinalist     | –               | 1 Euroleague Regular Season                    |
+| 17 | 2008–09  |      1 | Bundesliga |      4 | Semifinalist        | –               | 2 Played Eurocup                               |
+| 18 | 2009–10  |      1 | Bundesliga |      1 | Champion            | Champion        | 2 Played Eurocup                               |
+| 19 | 2010–11  |      1 | Bundesliga |      1 | Champion            | Champion        | 1 Euroleague Regular Season                    |
+| 20 | 2011–12  |      1 | Bundesliga |      1 | Champion            | Champion        | 1 Euroleague Regular Season                    |
+| 21 | 2012–13  |      1 | Bundesliga |      1 | Champion            | Quarterfinalist | 1 Euroleague Top 16                            |
+| 22 | 2013–14  |      1 | Bundesliga |    nan | nan                 | Third place     | 1 Euroleague Regular Season\n2 Eurocup Last 32 |
+===================Question===================
+what is the number of german cups won by the brose baskets?
+===================Text===================
+<think>
+Okay, so I need to figure out how many German Cups Brose Baskets won based on this table. Let me start by looking at the structure of the table. It has several columns: Season, Tier, League, Position, Postseason, German Cup, and European competitions.
+
+I'm focusing on the "German Cup" column because that's what the question is about. I'll go through each row and check the entries under this column to count how many times they won it.
+
+Starting from the top:
+
+- Season 1991–92: German Cup says "Champion". That's one win.
+- Next seasons:
+   - 1992–93: It's a dash (–), so no win.
+   - 1993–94: "Semifinalist" – doesn't indicate a win, just participation.
+   - 1994–95: Dash again, no win.
+   - 1995–96: "Semifinalist" – same as above.
+   - 1996–97: "Semifinalist" – still not a win.
+   - 1997–98: Dash, so nothing here.
+   - 1998–99: "Third place" – close but not a win.
+   - 1999–00: Dash, nope.
+   - 2000–01: Dash again.
+   - 2001–02: Dash.
+   - 2002–03: Dash.
+   - 2003–04: Dash.
+   - 2004–05: Dash.
+   - 2005–06: "Finalist" – they made it to the final but didn't win.
+   - 2006–07: Dash.
+   - 2007–08: Dash.
+   - 2008–09: Dash.
+   - 2009–10: "Champion" – that's another win, making it two so far.
+   - 2010–11: "Champion" again. Now we're at three wins.
+   - 2011–12: Another "Champion". That's four now.
+   - 2012–13: "Quarterfinalist" – not a win.
+   - 2013–14: "Third place" – no win here either.
+
+Wait, did I miss any? Let me double-check each season. The only times it says "Champion" in the German Cup column are seasons 1991–92, 2009–10, 2010–11, and 2011–12. That adds up to four wins.
+</think>
+
+Final Answer: 4
+===================Answer===================
+4

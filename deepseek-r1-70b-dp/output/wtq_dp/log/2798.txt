@@ -1,0 +1,133 @@
+===================Title===================
+2012 Wisconsin Badgers football team
+===================Table===================
+|    | Date            | Time     | Opponent#               | Rank#   | Site                                                             | TV        | Result     | Attendance   |
+|---:|:----------------|:---------|:------------------------|:--------|:-----------------------------------------------------------------|:----------|:-----------|:-------------|
+|  0 | September 1     | 2:30 PM  | #9 (FCS) Northern Iowa* | #12     | Camp Randall Stadium • Madison, WI                               | BTN       | W 26–21    | 79,568       |
+|  1 | September 8     | 3:00 PM  | at Oregon State*        | #13     | Reser Stadium • Corvallis, OR                                    | FX        | L 7–10     | 42,189       |
+|  2 | September 15    | 7:00 PM  | Utah State*             | #22     | Camp Randall Stadium • Madison, WI                               | BTN       | W 16–14    | 79,332       |
+|  3 | September 22    | 11:00 AM | UTEP*                   | #24     | Camp Randall Stadium • Madison, WI                               | ESPN2     | W 37–26    | 79,806       |
+|  4 | September 29    | 7:00 PM  | at #20 Nebraska         | #23     | Memorial Stadium • Lincoln, NE                                   | ABC       | L 27–30    | 85,962       |
+|  5 | October 6       | 2:30 PM  | Illinois                | nan     | Camp Randall Stadium • Madison, WI                               | ABC/ESPN2 | W 31–14    | 80,096       |
+|  6 | October 13      | 11:00 AM | at Purdue               | nan     | Ross-Ade Stadium • West Lafayette, IN                            | BTN       | W 38–14    | 46,007       |
+|  7 | October 20      | 11:00 AM | Minnesota               | nan     | Camp Randall Stadium • Madison, WI (Paul Bunyan's Axe)           | ESPNU     | W 38–13    | 80,587       |
+|  8 | October 27      | 2:30 PM  | Michigan State          | #25     | Camp Randall Stadium • Madison, WI                               | ABC/ESPN2 | L 13–16 OT | 80,538       |
+|  9 | November 10     | 11:00 AM | at Indiana              | nan     | Memorial Stadium • Bloomington, IN                               | ESPN2     | W 62–14    | 43,240       |
+| 10 | November 17     | 2:30 PM  | Ohio State              | nan     | Camp Randall Stadium • Madison, WI                               | ABC/ESPN2 | L 14–21 OT | 80,112       |
+| 11 | November 24     | 2:30 PM  | at Penn State           | nan     | Beaver Stadium • University Park, PA                             | ESPN2     | L 21–24 OT | 93,505       |
+| 12 | December 1      | 7:00 PM  | vs. #14 Nebraska        | nan     | Lucas Oil Stadium • Indianapolis, IN (Big Ten Championship Game) | FOX       | W 70–31    | 41,260       |
+| 13 | January 1, 2013 | 4:10 PM  | vs. #8 Stanford         | #23     | Rose Bowl • Pasadena, CA (Rose Bowl)                             | ESPN      | L 14–20    | 93,259       |
+===================Question===================
+what is the number of opponents?
+===================Text===================
+<think>
+Okay, so I need to figure out how many opponents the 2012 Wisconsin Badgers football team had based on the provided table. Let me take it step by step.
+
+First, I'll look at the table and see if each row represents a different game, which would mean each row is against a unique opponent. The table has 13 rows, but I notice that two of them are against Nebraska and one is against Stanford in the Rose Bowl. Wait, no, looking again, row 4 is at #20 Nebraska, and row 12 is vs. #14 Nebraska in the Big Ten Championship Game, so that's two games against Nebraska. Similarly, row 13 is against #8 Stanford.
+
+But I'm counting opponents, not games. So each row's "Opponent#" column lists the opponent. Let me list them out:
+
+1. Northern Iowa
+2. Oregon State
+3. Utah State
+4. UTEP
+5. Nebraska (first game)
+6. Illinois
+7. Purdue
+8. Minnesota
+9. Michigan State
+10. Indiana
+11. Ohio State
+12. Penn State
+13. Nebraska (second game)
+14. Stanford
+
+Wait, that gives me 14 different names, but actually, some are the same team played twice. Specifically, Nebraska is listed twice, so that's one opponent counted twice. Similarly, in row 0, Northern Iowa is #9 (FCS), which might be a ranking, but it's still the same opponent.
+
+So let me count each unique opponent name:
+
+- Northern Iowa
+- Oregon State
+- Utah State
+- UTEP
+- Nebraska
+- Illinois
+- Purdue
+- Minnesota
+- Michigan State
+- Indiana
+- Ohio State
+- Penn State
+- Stanford
+
+That makes 12 unique opponents. Wait, no, because row 12 is vs. Nebraska again in the championship game, so that's still just one opponent, Nebraska, even though they played them twice.
+
+Wait, let me recount:
+
+1. Northern Iowa
+2. Oregon State
+3. Utah State
+4. UTEP
+5. Nebraska (as both regular season and championship)
+6. Illinois
+7. Purdue
+8. Minnesota
+9. Michigan State
+10. Indiana
+11. Ohio State
+12. Penn State
+13. Stanford
+
+So that's 13 opponents, but wait, row 0 is Northern Iowa, which is an FCS team, so that's a different opponent than the others. The rest are FBS teams except maybe UTEP? Wait no, all are FBS or FCS.
+
+Wait, I think I miscounted earlier. Let me list each opponent from each row:
+
+Row 0: Northern Iowa
+Row1: Oregon State
+Row2: Utah State
+Row3: UTEP
+Row4: Nebraska
+Row5: Illinois
+Row6: Purdue
+Row7: Minnesota
+Row8: Michigan State
+Row9: Indiana
+Row10: Ohio State
+Row11: Penn State
+Row12: Nebraska (again)
+Row13: Stanford
+
+So unique opponents are:
+
+Northern Iowa, Oregon State, Utah State, UTEP, Nebraska, Illinois, Purdue, Minnesota, Michigan State, Indiana, Ohio State, Penn State, Stanford.
+
+That's 12 unique teams because Nebraska is counted once despite two games. So total of 12 opponents? Wait, that can't be right because I listed 13 rows but with one duplicate (Nebraska). So the count is 12 opponents in total.
+
+Wait, no, let me recount:
+
+From the list above: 1 Northern Iowa, 2 Oregon State, 3 Utah State, 4 UTEP, 5 Nebraska, 6 Illinois,7 Purdue,8 Minnesota,9 Michigan State,10 Indiana,11 Ohio State,12 Penn State,13 Stanford.
+
+Wait, that's 13 entries but with one duplicate (Nebraska), so total opponents are 12. Because Nebraska is counted twice in the list as two games, but it's one opponent.
+
+Wait no, listing them as unique names:
+
+- Northern Iowa
+- Oregon State
+- Utah State
+- UTEP
+- Nebraska
+- Illinois
+- Purdue
+- Minnesota
+- Michigan State
+- Indiana
+- Ohio State
+- Penn State
+- Stanford
+
+That's 12 opponents. So the answer should be 12.
+</think>
+
+Final Answer: 12
+===================Answer===================
+14

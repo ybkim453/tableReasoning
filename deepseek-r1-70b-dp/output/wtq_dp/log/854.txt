@@ -1,0 +1,71 @@
+===================Title===================
+Melissa Morrison-Howard
+===================Table===================
+|    |   Year | Competition                | Venue                       | Position   | Event         |
+|---:|-------:|:---------------------------|:----------------------------|:-----------|:--------------|
+|  0 |   1997 | World Indoor Championships | Paris, France               | 5th        | 60 m hurdles  |
+|  1 |   1997 | USA Outdoor Championships  | Indianapolis, United States | 1st        | 100 m hurdles |
+|  2 |   1998 | Grand Prix Final           | Moscow, Russia              | 2nd        | 100 m hurdles |
+|  3 |   1998 | USA Indoor Championships   | nan                         | 1st        | 60 m hurdles  |
+|  4 |   1999 | World Indoor Championships | Maebashi, Japan             | 6th        | 60 m hurdles  |
+|  5 |   2000 | Olympic Games              | Sydney, Australia           | 3rd        | 100 m hurdles |
+|  6 |   2000 | Grand Prix Final           | Doha, Qatar                 | 4th        | 100 m hurdles |
+|  7 |   2002 | Grand Prix Final           | Paris, France               | 7th        | 100 m hurdles |
+|  8 |   2002 | USA Indoor Championships   | nan                         | 1st        | 60 m hurdles  |
+|  9 |   2003 | World Indoor Championships | Birmingham, England         | 3rd        | 60 m hurdles  |
+| 10 |   2003 | World Athletics Final      | Monaco                      | 6th        | 100 m hurdles |
+| 11 |   2004 | Olympic Games              | Athens, Greece              | 3rd        | 100 m hurdles |
+===================Question===================
+melissa morrison-howard has placed in the top three in how many major events?
+===================Text===================
+<think>
+Okay, I need to figure out how many times Melissa Morrison-Howard placed in the top three in major events based on the table provided.
+
+First, let's go through each row of the table and check her positions.
+
+1. 1997 World Indoor Championships: She was 5th. That's not top three.
+2. 1997 USA Outdoor Championships: She won 1st place. That counts as a top-three finish.
+3. 1998 Grand Prix Final: She was 2nd. Another top-three finish.
+4. 1998 USA Indoor Championships: She won 1st again. Top three.
+5. 1999 World Indoor Championships: 6th, so not in the top three.
+6. 2000 Olympic Games: She got bronze with a 3rd place. That's top three.
+7. 2000 Grand Prix Final: She was 4th, which is just outside the top three.
+8. 2002 Grand Prix Final: 7th place, not top three.
+9. 2002 USA Indoor Championships: Another 1st place win. Top three.
+10. 2003 World Indoor Championships: 3rd place, so that's good.
+11. 2003 World Athletics Final: She was 6th, which doesn't count.
+12. 2004 Olympic Games: Again, she got 3rd place.
+
+Now, let me count all the top-three finishes:
+
+- 1997 USA Outdoor: 1st
+- 1998 Grand Prix: 2nd
+- 1998 USA Indoor: 1st
+- 2000 Olympics: 3rd
+- 2002 USA Indoor: 1st
+- 2003 World Indoor: 3rd
+- 2004 Olympics: 3rd
+
+Wait, that's seven times. But I should double-check each year and event to make sure.
+
+Looking again at the table:
+
+Row 0: 5th → no
+Row 1: 1st → yes (count=1)
+Row 2: 2nd → yes (2)
+Row 3: 1st → yes (3)
+Row 4: 6th → no
+Row 5: 3rd → yes (4)
+Row 6: 4th → no
+Row 7: 7th → no
+Row 8: 1st → yes (5)
+Row 9: 3rd → yes (6)
+Row10: 6th → no
+Row11: 3rd → yes (7)
+
+So, total of seven top-three finishes.
+</think>
+
+Final Answer: 7
+===================Answer===================
+7

@@ -1,0 +1,40 @@
+===================Title===================
+1955 NFL Draft
+===================Table===================
+|    |   Pick # | NFL Team                             | Player            | Position    | College      |
+|---:|---------:|:-------------------------------------|:------------------|:------------|:-------------|
+|  0 |        1 | Baltimore Colts (Lottery bonus pick) | George Shaw       | Quarterback | Oregon       |
+|  1 |        2 | Chicago Cardinals                    | Max Boydston      | End         | Oklahoma     |
+|  2 |        3 | Baltimore Colts                      | Alan Ameche       | Fullback    | Wisconsin    |
+|  3 |        4 | Washington Redskins                  | Ralph Guglielmi   | Quarterback | Notre Dame   |
+|  4 |        5 | Green Bay Packers                    | Tom Bettis        | Guard       | Purdue       |
+|  5 |        6 | Pittsburgh Steelers                  | Frank Varrichione | Tackle      | Notre Dame   |
+|  6 |        7 | Los Angeles Rams                     | Larry Morris      | Center      | Georgia Tech |
+|  7 |        8 | New York Giants                      | Joe Heap          | Halfback    | Notre Dame   |
+|  8 |        9 | Philadelphia Eagles                  | Dick Bielski      | Fullback    | Maryland     |
+|  9 |       10 | San Francisco 49ers                  | Dickey Moegle     | Halfback    | Rice         |
+| 10 |       11 | Chicago Bears                        | Ron Drzewiecki    | Halfback    | Marquette    |
+| 11 |       12 | Detroit Lions                        | Dave Middleton    | Halfback    | Auburn       |
+| 12 |       13 | Cleveland Browns                     | Kurt Burris       | Center      | Oklahoma     |
+===================Question===================
+who was the next pick after tom bettis?
+===================Text===================
+<think>
+Okay, so I'm looking at this table about the 1955 NFL Draft, and I need to figure out who was picked right after Tom Bettis. Let me start by understanding the structure of the table.
+
+The table has several columns: a numerical index starting from 0, the pick number, the NFL team, the player's name, their position, and their college. Each row represents a different draft pick in order.
+
+I see that each row is numbered from 0 to 12. Each "Pick #" increments by 1 as we go down the table. So the first overall pick is Pick #1 with index 0, then Pick #2 at index 1, and so on up to Pick #13 at index 12.
+
+Now, I need to find Tom Bettis's position in this list. Scanning through the "Player" column, I spot Tom Bettis at row 4 (index 4), with a pick number of 5 by the Green Bay Packers as a Guard from Purdue.
+
+The next pick after Tom Bettis would logically be the very next row in the table. So moving down to index 5 (row 5), we see that Pick #6 was Frank Varrichione, a Tackle from Notre Dame, selected by the Pittsburgh Steelers.
+
+Therefore, the player picked right after Tom Bettis is Frank Varrichione.
+</think>
+
+Frank Varrichione was the next pick after Tom Bettis in the 1955 NFL Draft.
+
+Final Answer: Frank Varrichione
+===================Answer===================
+Frank Varrichione

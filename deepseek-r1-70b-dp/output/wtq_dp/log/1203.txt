@@ -1,0 +1,57 @@
+===================Title===================
+1981 Iowa Hawkeyes football team
+===================Table===================
+|    | Date         | Opponent#           | Rank#   | Site                                                | TV   | Result   | Attendance   |
+|---:|:-------------|:--------------------|:--------|:----------------------------------------------------|:-----|:---------|:-------------|
+|  0 | September 12 | #7 Nebraska*        | nan     | Kinnick Stadium • Iowa City, IA                     | nan  | W 10-7   | 60,160       |
+|  1 | September 19 | at Iowa State*      | nan     | Cyclone Stadium • Ames, IA (Cy-Hawk Trophy)         | nan  | L 12-23  | 53,922       |
+|  2 | September 26 | #6 UCLA*            | nan     | Kinnick Stadium • Iowa City, IA                     | nan  | W 20-7   | 60,004       |
+|  3 | October 3    | at Northwestern     | #18     | Dyche Stadium • Evanston, IL                        | nan  | W 64-0   | 30,113       |
+|  4 | October 10   | Indiana             | #15     | Kinnick Stadium • Iowa City, IA                     | nan  | W 42-28  | 60,000       |
+|  5 | October 17   | at #5 Michigan      | #12     | Michigan Stadium • Ann Arbor, MI                    | nan  | W 9-7    | 105,915      |
+|  6 | October 24   | Minnesota           | #6      | Kinnick Stadium • Iowa City, IA (Floyd of Rosedale) | ABC  | L 10-12  | 60,000       |
+|  7 | October 31   | at Illinois         | #16     | Memorial Stadium • Champaign, IL                    | nan  | L 7-24   | 66,877       |
+|  8 | November 7   | Purdue              | nan     | Kinnick Stadium • Iowa City, IA                     | nan  | W 33-7   | 60,114       |
+|  9 | November 14  | at Wisconsin        | nan     | Camp Randall Stadium • Madison, WI                  | ABC  | W 17-7   | 78,731       |
+| 10 | November 21  | Michigan State      | #19     | Kinnick Stadium • Iowa City, IA                     | nan  | W 36-7   | 60,103       |
+| 11 | January 1    | vs. #12 Washington* | #13     | Rose Bowl • Pasadena, CA (Rose Bowl)                | NBC  | L 0-28   | 105,611      |
+===================Question===================
+what were the number of times the site was in iowa city?
+===================Text===================
+<think>
+Alright, let's tackle this problem step by step. So, the question is asking how many times the site was in Iowa City based on the table provided for the 1981 Iowa Hawkeyes football team.
+
+First, I need to understand the structure of the table. It has several columns: Date, Opponent#, Rank#, Site, TV, Result, and Attendance. Each row represents a game played by the Iowa Hawkeyes that season.
+
+The key here is to focus on the "Site" column because we're interested in games where the site was in Iowa City. I'll go through each row one by one and check if the location listed in the Site column is Iowa City.
+
+Looking at the first row (index 0), the site is Kinnick Stadium • Iowa City, IA. That's clearly Iowa City, so that's one.
+
+Next, index 1 shows Cyclone Stadium • Ames, IA. Ames is a different city, so this doesn't count.
+
+Index 2 again is Kinnick Stadium in Iowa City. That's the second time.
+
+Moving to index 3, Dyche Stadium • Evanston, IL. Evanston is in Illinois, so not relevant here.
+
+Index 4 brings us back to Kinnick Stadium in Iowa City. That's the third occurrence.
+
+Index 5 is Michigan Stadium in Ann Arbor, MI. Another out-of-state location, so no count.
+
+Index 6 is again Kinnick Stadium in Iowa City, making it the fourth time.
+
+Index 7 is Memorial Stadium • Champaign, IL. Illinois again, doesn't count.
+
+Index 8 returns to Kinnick Stadium in Iowa City, which is the fifth instance.
+
+Index 9 is Camp Randall Stadium • Madison, WI. Wisconsin, so not counting.
+
+Index 10 is back to Kinnick Stadium in Iowa City, bringing it to six times.
+
+The last row (index 11) shows Rose Bowl • Pasadena, CA, which is California, so that's out of state and doesn't count.
+
+So, after going through each game, the site was in Iowa City a total of six times.
+</think>
+
+Final Answer: 6
+===================Answer===================
+6

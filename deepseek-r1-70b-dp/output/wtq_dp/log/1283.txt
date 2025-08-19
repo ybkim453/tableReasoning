@@ -1,0 +1,76 @@
+===================Title===================
+PSL Players' Player of the Season
+===================Table===================
+|    | Season   | Footballer         | Club              | Position   | Nationality   |
+|---:|:---------|:-------------------|:------------------|:-----------|:--------------|
+|  0 | 2012-13  | Itumeleng Khune    | Kaizer Chiefs     | GK         | South Africa  |
+|  1 | 2011-12  | Siyabonga Nomvethe | Moroka Swallows   | FW         | South Africa  |
+|  2 | 2010-11  | Thulani Serero     | Ajax Cape Town    | MF         | South Africa  |
+|  3 | 2009-10  | Katlego Mphela     | Mamelodi Sundowns | FW         | South Africa  |
+|  4 | 2008-09  | Teko Modise        | Orlando Pirates   | MF         | South Africa  |
+|  5 | 2007-08  | Itumeleng Khune    | Kaizer Chiefs     | GK         | South Africa  |
+|  6 | 2006-07  | Godfrey Sapula     | Mamelodi Sundowns | MF         | South Africa  |
+|  7 | 2005-06  | Surprise Moriri    | Mamelodi Sundowns | MF         | South Africa  |
+|  8 | 2004-05  | Sandile Ndlovu     | Dynamos           | FW         | South Africa  |
+|  9 | 2003-04  | Tinashe Nengomasha | Kaizer Chiefs     | MF         | Zimbabwe      |
+| 10 | 2002-03  | Moeneeb Josephs    | Ajax Cape Town    | GK         | South Africa  |
+| 11 | 2001-02  | Jabu Pule          | Kaizer Chiefs     | MF         | South Africa  |
+| 12 | 2000-01  | Benjani Mwaruwari  | Jomo Cosmos       | FW         | Zimbabwe      |
+| 13 | 1999-00  | Siyabonga Nomvethe | Kaizer Chiefs     | FW         | South Africa  |
+| 14 | 1998-99  | Roger Feutmba      | Mamelodi Sundowns | MF         | Cameroon      |
+| 15 | 1997-98  | Raphael Chukwu     | Mamelodi Sundowns | FW         | Nigeria       |
+| 16 | 1996-97  | Wilfred Mugeyi     | Bush Bucks        | FW         | Zimbabwe      |
+===================Question===================
+first gk awarded?
+===================Text===================
+<think>
+Okay, so I need to figure out who was the first goalkeeper awarded the PSL Players' Player of the Season based on the provided table. Let me break this down step by step.
+
+First, looking at the table, it lists players from different seasons starting from 1996-97 up to 2012-13. Each entry has details about the season, footballer's name, club, position, and nationality.
+
+The question is asking for the first goalkeeper (GK) who was awarded this honor. So my goal is to find the earliest season in which a goalkeeper received the award.
+
+I'll start by examining each row from the oldest season to the most recent. The seasons are listed from 1996-97 up, so I need to check each one's position. 
+
+Looking at the table:
+
+1. **Season 2012-13**: Itumeleng Khune (GK)
+2. **2011-12**: Siyabonga Nomvethe (FW)
+3. **2010-11**: Thulani Serero (MF)
+4. **2009-10**: Katlego Mphela (FW)
+5. **2008-09**: Teko Modise (MF)
+6. **2007-08**: Itumeleng Khune (GK)
+7. **2006-07**: Godfrey Sapula (MF)
+8. **2005-06**: Surprise Moriri (MF)
+9. **2004-05**: Sandile Ndlovu (FW)
+10. **2003-04**: Tinashe Nengomasha (MF)
+11. **2002-03**: Moeneeb Josephs (GK)
+12. **2001-02**: Jabu Pule (MF)
+13. **2000-01**: Benjani Mwaruwari (FW)
+14. **1999-00**: Siyabonga Nomvethe (FW)
+15. **1998-99**: Roger Feutmba (MF)
+16. **1997-98**: Raphael Chukwu (FW)
+17. **1996-97**: Wilfred Mugeyi (FW)
+
+Wait, I just realized the table seems to be ordered from 2012-13 back to 1996-97 because the earliest season is at the bottom (index 16), and the latest is at the top (index 0). But in reality, when looking for the first occurrence, we should check from the oldest to the newest. So the correct order of seasons would be starting from 1996-97 as the first year.
+
+Looking through each season starting from 1996-97:
+
+- **1996-97**: Wilfred Mugeyi (FW) → Not a GK
+- **1997-98**: Raphael Chukwu (FW) → Not a GK
+- **1998-99**: Roger Feutmba (MF) → Not a GK
+- **1999-00**: Siyabonga Nomvethe (FW) → Not a GK
+- **2000-01**: Benjani Mwaruwari (FW) → Not a GK
+- **2001-02**: Jabu Pule (MF) → Not a GK
+- **2002-03**: Moeneeb Josephs (GK) → This is the first instance of a goalkeeper.
+
+Wait, so in 2002-03, Moeneeb Josephs was awarded. But let me check if there's any earlier season with a GK before that. Let's go back:
+
+After 1996-97 up to 2002-03, only at 2002-03 is the first GK. I don't see any goalkeeper in seasons prior to that.
+
+So, Moeneeb Josephs was the first goalkeeper to be awarded PSL Players' Player of the Season in the 2002-03 season.
+</think>
+
+Final Answer: Moeneeb Josephs
+===================Answer===================
+Moeneeb Josephs

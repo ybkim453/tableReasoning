@@ -1,0 +1,47 @@
+===================Title===================
+Demographics of Niger
+===================Table===================
+|    | Period    | Live births per year   | Deaths per year   | Natural change per year   |   CBR* |   CDR* |   NC* |   TFR* |   IMR* |
+|---:|:----------|:-----------------------|:------------------|:--------------------------|-------:|-------:|------:|-------:|-------:|
+|  0 | 1950-1955 | 139 000                | 66 000            | 74 000                    |   52.6 |   24.8 |  27.8 |   6.86 |    174 |
+|  1 | 1955-1960 | 164 000                | 76 000            | 88 000                    |   53.8 |   24.9 |  29   |   6.96 |    171 |
+|  2 | 1960-1965 | 195 000                | 89 000            | 105 000                   |   55.5 |   25.5 |  30.1 |   7.13 |    167 |
+|  3 | 1965-1970 | 229 000                | 105 000           | 124 000                   |   56.2 |   25.8 |  30.4 |   7.32 |    164 |
+|  4 | 1970-1975 | 263 000                | 121 000           | 142 000                   |   55.8 |   25.6 |  30.2 |   7.52 |    162 |
+|  5 | 1975-1980 | 301 000                | 138 000           | 164 000                   |   55.1 |   25.1 |  29.9 |   7.63 |    161 |
+|  6 | 1980-1985 | 350 000                | 157 000           | 193 000                   |   55.4 |   24.8 |  30.6 |   7.76 |    159 |
+|  7 | 1985-1990 | 406 000                | 179 000           | 227 000                   |   55.9 |   24.6 |  31.3 |   7.81 |    155 |
+|  8 | 1990-1995 | 471 000                | 192 000           | 279 000                   |   55.5 |   22.7 |  32.8 |   7.78 |    146 |
+|  9 | 1995-2000 | 538 000                | 194 000           | 344 000                   |   53.5 |   19.3 |  34.2 |   7.6  |    131 |
+| 10 | 2000-2005 | 614 000                | 194 000           | 420 000                   |   51.3 |   16.2 |  35.1 |   7.4  |    113 |
+| 11 | 2005-2010 | 705 000                | 196 000           | 509 000                   |   49.5 |   13.8 |  35.7 |   7.19 |     96 |
+===================Question===================
+how many times is there more than a 150 imr?
+===================Text===================
+<think>
+Okay, so I need to figure out how many times the Infant Mortality Rate (IMR) in Niger was more than 150 based on the table provided. Let's break this down step by step.
+
+First, I'll look at each row of the table and check the IMR* column for values greater than 150. The table has data from 1950-1955 up to 2005-2010. Each row represents a different period.
+
+Starting with the first row (1950-1955), the IMR is 174, which is more than 150. So that's one instance.
+
+Next, 1955-1960 shows an IMR of 171, also above 150. That's two instances now.
+
+Moving on to 1960-1965, the IMR is 167, still above 150. Now we're at three.
+
+In 1965-1970, it drops slightly to 164 but remains over 150. So that's four times.
+
+Then, in 1970-1975, the IMR is 162, which is still above 150. That makes five instances.
+
+Looking at 1975-1980, the IMR is 161, just barely above 150. That brings us to six counts.
+
+From there, each subsequent period shows a decrease in IMR: 159, 155, and so on. None of these are above 150 anymore. So I'll stop counting here.
+
+Adding them up, I found six periods where the IMR exceeded 150.
+</think>
+
+The table shows that the Infant Mortality Rate (IMR) was greater than 150 during the following periods: 1950-1955, 1955-1960, 1960-1965, 1965-1970, and 1970-1975. 
+
+Final Answer: 6
+===================Answer===================
+8

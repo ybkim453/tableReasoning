@@ -1,0 +1,61 @@
+===================Title===================
+Diving at the 1984 Summer Olympics – Women's 3 metre springboard
+===================Table===================
+|    |   Rank | Diver                          |   Preliminary\nPoints |   Preliminary\nRank |   Final\nPoints |
+|---:|-------:|:-------------------------------|----------------------:|--------------------:|----------------:|
+|  0 |    nan | Sylvie Bernier (CAN)           |                489.51 |                   3 |          530.7  |
+|  1 |    nan | Kelly McCormick (USA)          |                516.75 |                   2 |          527.46 |
+|  2 |    nan | Christina Seufert (USA)        |                481.41 |                   5 |          517.62 |
+|  3 |      4 | Li Yihua (CHN)                 |                517.92 |                   1 |          506.52 |
+|  4 |      5 | Li Qiaoxian (CHN)              |                466.83 |                   6 |          487.68 |
+|  5 |      6 | Elsa Tenorio (MEX)             |                460.56 |                   8 |          463.56 |
+|  6 |      7 | Lesley Smith (ZIM)             |                438.72 |                  10 |          451.89 |
+|  7 |      8 | Debbie Fuller (CAN)            |                437.04 |                  11 |          450.99 |
+|  8 |      9 | Jennifer Donnet (AUS)          |                432.78 |                  12 |          443.13 |
+|  9 |     10 | Daphne Jongejans (NED)         |                487.95 |                   4 |          437.4  |
+| 10 |     11 | Anita Rossing (SWE)            |                464.58 |                   7 |          424.98 |
+| 11 |     12 | Verónica Ribot (ARG)          |                443.25 |                   9 |          422.52 |
+| 12 |     13 | Ann Fargher (NZL)              |                421.65 |                  13 |          nan    |
+| 13 |     14 | Tine Tollan (NOR)              |                419.55 |                  14 |          nan    |
+| 14 |     15 | Antonette Wilken (ZIM)         |                414.66 |                  15 |          nan    |
+| 15 |     16 | Guadalupe Canseco (MEX)        |                411.96 |                  16 |          nan    |
+| 16 |     17 | Claire Izacard (FRA)           |                403.17 |                  17 |          nan    |
+| 17 |     18 | Valerie McFarland-Beddoe (AUS) |                401.13 |                  18 |          nan    |
+| 18 |     19 | Alison Childs (GBR)            |                400.68 |                  19 |          nan    |
+| 19 |     20 | Kerstin Finke (FRG)            |                393.93 |                  20 |          nan    |
+| 20 |     21 | Nicole Kreil (AUT)             |                382.68 |                  21 |          nan    |
+| 21 |     22 | Joana Figueiredo (POR)         |                374.07 |                  22 |          nan    |
+| 22 |     23 | Angela Ribeiro (BRA)           |                370.68 |                  23 |          nan    |
+| 23 |     24 | Rim Hassan (EGY)               |                258.63 |                  24 |          nan    |
+===================Question===================
+how many individuals had at least 460+ points their final score?
+===================Text===================
+<think>
+Okay, I need to figure out how many individuals had at least 460+ points in their final score based on the provided table. Let me break it down step by step.
+
+First, I should look through each row of the table and check the "Final Points" column for values that are 460 or higher. The table lists several divers with their respective scores.
+
+Looking at the table:
+
+- Sylvie Bernier (CAN) has a final score of 530.7, which is above 460.
+- Kelly McCormick (USA) scored 527.46 in the final, so that's also over 460.
+- Christina Seufert (USA) has 517.62 points, which meets the criteria.
+- Li Yihua (CHN) has a final score of 506.52, which is above 460.
+- Li Qiaoxian (CHN) scored 487.68, so that's above as well.
+- Elsa Tenorio (MEX) has 463.56 points, just over the threshold.
+
+I should stop here because the next ones are below 460. Let me count how many that is:
+
+1. Sylvie Bernier
+2. Kelly McCormick
+3. Christina Seufert
+4. Li Yihua
+5. Li Qiaoxian
+6. Elsa Tenorio
+
+That's six divers with final scores of at least 460 points.
+</think>
+
+Final Answer: 6
+===================Answer===================
+6

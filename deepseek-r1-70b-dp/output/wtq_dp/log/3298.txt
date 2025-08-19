@@ -1,0 +1,40 @@
+===================Title===================
+Abraham Lincoln High School (Los Angeles)
+===================Table===================
+|    | School                                     |   2007 |   2008 |   2009 |   2010 |   2011 |
+|---:|:-------------------------------------------|-------:|-------:|-------:|-------:|-------:|
+|  0 | Francisco Bravo Medical Magnet High School |    807 |    818 |    815 |    820 |    832 |
+|  1 | Marc and Eva Stern Math and Science School |    718 |    792 |    788 |    788 |    809 |
+|  2 | Oscar De La Hoya Animo Charter High School |    662 |    726 |    709 |    710 |    744 |
+|  3 | James A. Garfield High School              |    553 |    597 |    593 |    632 |    705 |
+|  4 | Abraham Lincoln High School                |    594 |    609 |    588 |    616 |    643 |
+|  5 | Woodrow Wilson High School                 |    582 |    585 |    600 |    615 |    636 |
+|  6 | Theodore Roosevelt High School             |    557 |    551 |    576 |    608 |    nan |
+|  7 | Thomas Jefferson High School               |    457 |    516 |    514 |    546 |    546 |
+|  8 | Santee Education Complex                   |    nan |    502 |    521 |    552 |    565 |
+===================Question===================
+what is the number of schools with a number higher than 600 in 2008?
+===================Text===================
+<think>
+Okay, so I need to figure out how many schools had a number higher than 600 in the year 2008 based on the provided table. Let me look at the table again.
+
+The table has years from 2007 to 2011, and each row represents a different school with their corresponding numbers for each year. My focus is on the column for 2008.
+
+Starting from the top:
+
+1. Francisco Bravo Medical Magnet High School: Their 2008 number is 818. That's higher than 600.
+2. Marc and Eva Stern Math and Science School: Their 2008 number is 792, which is also above 600.
+3. Oscar De La Hoya Animo Charter High School: They have 726 in 2008. Still above 600.
+4. James A. Garfield High School: Their 2008 number is 597, which is below 600, so I won't count this one.
+5. Abraham Lincoln High School: They're at 609 in 2008. That's just over 600.
+6. Woodrow Wilson High School: Their 2008 number is 585, under 600.
+7. Theodore Roosevelt High School: 551 in 2008, below 600.
+8. Thomas Jefferson High School: 516 in that year, under 600.
+9. Santee Education Complex: They have 'nan' for 2008, which I think means no data or not available. So I can't count this one.
+
+So let's see, the schools with numbers above 600 in 2008 are Francisco Bravo, Marc and Eva Stern, Oscar De La Hoya Animo Charter, and Abraham Lincoln High Schools. That makes four schools.
+</think>
+
+Final Answer: 4
+===================Answer===================
+4

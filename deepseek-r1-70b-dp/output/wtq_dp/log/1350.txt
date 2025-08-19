@@ -1,0 +1,39 @@
+===================Title===================
+Cellulose
+===================Table===================
+|    | Cellulose ethers   | Reagent                      | Example                               | Reagent .1                        | Group R = H or        | Water solubility       | Application                                                                                     | E number   |
+|---:|:-------------------|:-----------------------------|:--------------------------------------|:----------------------------------|:----------------------|:-----------------------|:------------------------------------------------------------------------------------------------|:-----------|
+|  0 | Alkyl              | Halogenoalkanes              | Methylcellulose                       | Chloromethane                     | -CH3                  | Cold water soluble     | nan                                                                                             | E461       |
+|  1 | nan                | nan                          | Ethylcellulose                        | Chloroethane                      | -CH2CH3               | Water insoluble        | A commercial thermoplastic used in coatings, inks, binders, and controlled-release drug tablets | E462       |
+|  2 | nan                | nan                          | Ethyl methyl cellulose                | Chloromethane and chloroethane    | -CH3 or -CH2CH3       | nan                    | nan                                                                                             | E465       |
+|  3 | Hydroxyalkyl       | Epoxides                     | Hydroxyethyl cellulose                | Ethylene oxide                    | -CH2CH2OH             | Cold/hot water soluble | Gelling and thickening agent                                                                    | nan        |
+|  4 | nan                | nan                          | Hydroxypropyl cellulose (HPC)         | Propylene oxide                   | -CH2CH(OH)CH3         | Cold water soluble     | nan                                                                                             | E463       |
+|  5 | nan                | nan                          | Hydroxyethyl methyl cellulose         | Chloromethane and ethylene oxide  | -CH3 or -CH2CH2OH     | Cold water soluble     | Production of cellulose films                                                                   | nan        |
+|  6 | nan                | nan                          | Hydroxypropyl methyl cellulose (HPMC) | Chloromethane and propylene oxide | -CH3 or -CH2CH(OH)CH3 | Cold water soluble     | Viscosity modifier, gelling, foaming and binding agent                                          | E464       |
+|  7 | nan                | nan                          | Ethyl hydroxyethyl cellulose          | Chloroethane and ethylene oxide   | -CH2CH3 or—CH2CH2OH   | nan                    | nan                                                                                             | E467       |
+|  8 | Carboxyalkyl       | Halogenated carboxylic acids | Carboxymethyl cellulose (CMC)         | Chloroacetic acid                 | -CH2COOH              | Cold/Hot water soluble | Often used as its sodium salt, sodium carboxymethyl cellulose (NaCMC)                           | E466       |
+===================Question===================
+what is the first listed epoxide?
+===================Text===================
+<think>
+Okay, so I need to figure out what the first listed epoxide is from the given table about Cellulose. Let me look at the table carefully.
+
+The table has several columns: Cellulose ethers, Reagent, Example, Reagent .1, Group R = H or ..., Water solubility, Application, and E number. I'm focusing on finding an epoxide, which falls under a specific type of reagent.
+
+Epoxides are a class of compounds with an oxygen atom in a three-membered ring. They're often used as reactants in various chemical reactions, including those involving cellulose ethers. So, looking through the "Reagent" column should help me identify epoxides.
+
+Let's go row by row:
+
+- Row 0: The reagent is Halogenoalkanes, specifically Chloromethane. That's a methylating agent, not an epoxide.
+- Row 1: Reagent is also Halogenoalkanes (Chloroethane). Again, not an epoxide.
+- Row 2: Same as above; the reagents are chloromethane and chloroethane. Still halogenoalkanes.
+- Row 3: Ah, here the Reagent is Epoxides, specifically Ethylene oxide. That's definitely an epoxide.
+  
+So, the first occurrence of an epoxide in the table is in row 3 under the Reagent column. The example given is Hydroxyethyl cellulose. Therefore, the first listed epoxide reagent is ethylene oxide.
+</think>
+
+The first listed epoxide reagent is Ethylene oxide.
+
+Final Answer: Ethylene oxide
+===================Answer===================
+Hydroxyalkyl

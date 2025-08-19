@@ -1,0 +1,98 @@
+===================Title===================
+2001 Batang Red Bull Thunder season
+===================Table===================
+|    | DATE                        | OPPONENT     | SCORE   | TOP SCORER (Total points)   | VENUE            |
+|---:|:----------------------------|:-------------|:--------|:----------------------------|:-----------------|
+|  0 | February 7 All-Filipino Cup | SHELL        | 76-60   | nan                         | PHILSPORTS ARENA |
+|  1 | February 11                 | MOBILINE     | 80-68   | nan                         | ARANETA COLISEUM |
+|  2 | February 16                 | ALASKA       | 73-72   | Davonn Harp (20)            | PHILSPORTS ARENA |
+|  3 | February 28                 | SAN MIGUEL   | 78-76   | Lowell Briones (21)         | PHILSPORTS ARENA |
+|  4 | March 3                     | BRGY.GINEBRA | 79-72   | nan                         | ILOILO CITY      |
+|  5 | March 9                     | SHELL        | 65-58   | nan                         | PHILSPORTS ARENA |
+|  6 | April 4                     | STA.LUCIA    | 87-84   | nan                         | PHILSPORTS ARENA |
+|  7 | June 10 Commissioner's Cup  | MOBILINE     | 97-92   | Tony Lang (29)              | ARANETA COLISEUM |
+|  8 | June 15                     | BRGY.GINEBRA | 111-98  | nan                         | PHILSPORTS ARENA |
+|  9 | June 24                     | SHELL        | 94-82   | nan                         | ARANETA COLISEUM |
+| 10 | July 1                      | POP COLA     | 95-79   | nan                         | ARANETA COLISEUM |
+| 11 | July 8                      | STA.LUCIA    | 95-88   | nan                         | ARANETA COLISEUM |
+| 12 | July 13                     | TANDUAY      | 104-98  | nan                         | PHILSPORTS ARENA |
+| 13 | September 23 Governor's Cup | TANDUAY      | 108-93  | nan                         | PHILSPORTS ARENA |
+| 14 | September 29                | TALK 'N TEXT | 99-85   | nan                         | DUMAGUETE CITY   |
+| 15 | October 14                  | SHELL        | 68-62   | nan                         | YNARES CENTER    |
+| 16 | October 19                  | STA.LUCIA    | 101-94  | nan                         | CUNETA ASTRODOME |
+| 17 | October 24                  | BRGY.GINEBRA | 93-72   | nan                         | PHILSPORTS ARENA |
+| 18 | November 7                  | SAN MIGUEL   | 86-81   | nan                         | ARANETA COLISEUM |
+===================Question===================
+on what date was the last game at philsports arena?
+===================Text===================
+<think>
+Okay, so I need to figure out on what date the last game at PhilSports Arena was for the 2001 Batang Red Bull Thunder season based on the provided table. Let me start by scanning through each row of the table and noting down which games were played at PhilSports Arena.
+
+Looking at the table columns: DATE, OPPONENT, SCORE, TOP SCORER, VENUE. I'm particularly interested in the DATE and VENUE columns. My goal is to find all the games where the venue is PhilSports Arena and then determine the latest date among those.
+
+Let me go through each row one by one:
+
+1. Row 0: February 7, Venue - PhilSports Arena
+2. Row 1: February 11, Venue - Araneta Coliseum (not PhilSports)
+3. Row 2: February 16, Venue - PhilSports Arena
+4. Row 3: February 28, Venue - PhilSports Arena
+5. Row 4: March 3, Venue - Iloilo City (not PhilSports)
+6. Row 5: March 9, Venue - PhilSports Arena
+7. Row 6: April 4, Venue - PhilSports Arena
+8. Row 7: June 10, Venue - Araneta Coliseum (not PhilSports)
+9. Row 8: June 15, Venue - PhilSports Arena
+10. Row 9: June 24, Venue - Araneta Coliseum (not PhilSports)
+11. Row 10: July 1, Venue - Araneta Coliseum (not PhilSports)
+12. Row 11: July 8, Venue - Araneta Coliseum (not PhilSports)
+13. Row 12: July 13, Venue - PhilSports Arena
+14. Row 13: September 23, Venue - PhilSports Arena
+15. Row 14: September 29, Venue - Dumaguete City (not PhilSports)
+16. Row 15: October 14, Venue - Ynares Center (not PhilSports)
+17. Row 16: October 19, Venue - Cuneta Astrodome (not PhilSports)
+18. Row 17: October 24, Venue - PhilSports Arena
+19. Wait, actually the table has rows from 0 to 18, so that's 19 entries, but in my initial scan I only went up to row 14; let me continue.
+
+Continuing:
+
+15. Row 14: September 29, Dumaguete City (no)
+16. Row 15: October 14, Ynares Center (no)
+17. Row 16: October 19, Cuneta Astrodome (no)
+18. Row 17: October 24, PhilSports Arena
+19. Wait, actually the table goes up to row 18 (November 7), so let me check:
+
+Row 18: November 7, Venue - Araneta Coliseum (not PhilSports)
+
+So now compiling all the dates at PhilSports Arena:
+
+- February 7 (row 0)
+- February 16 (row 2)
+- February 28 (row3)
+- March 9 (row5)
+- April 4(row6)
+- June15(row8)
+- July13(row12)
+- September23(row13)
+- October24(row17)
+
+Wait, in the initial scan I might have missed some. Let me check each row again to ensure I catch all PhilSports Arena games.
+
+Row numbers and dates:
+
+Row0: Feb7
+Row2: Feb16
+Row3: Feb28
+Row5: Mar9
+Row6: Apr4
+Row8: Jun15
+Row12: Jul13
+Row13: Sep23
+Row17: Oct24
+
+So the latest date among these is October 24, which is in row17. But wait, looking at row18's date is November7 but venue is Araneta, so PhilSports Arena games end at October24.
+
+Therefore, the last game at PhilSports Arena was on October24.
+</think>
+
+Final Answer: October 24
+===================Answer===================
+October 24

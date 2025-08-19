@@ -1,0 +1,69 @@
+===================Title===================
+Cheltenham Town F.C.
+===================Table===================
+|    | Year      | Kit Manufacturer   | Shirt Sponsor            | Back of Shirt Sponsor   | Short Sponsor        |
+|---:|:----------|:-------------------|:-------------------------|:------------------------|:---------------------|
+|  0 | 1977–1978 | nan                | National Express         | nan                     | nan                  |
+|  1 | 1982–1985 | Umbro              | nan                      | nan                     | nan                  |
+|  2 | 1985–1986 | Umbro              | Whitbread                | nan                     | nan                  |
+|  3 | 1986–1988 | Henson             | Duraflex                 | nan                     | nan                  |
+|  4 | 1988–1989 | nan                | Gulf Oil                 | nan                     | nan                  |
+|  5 | 1991–1993 | Technik            | Gulf Oil                 | nan                     | nan                  |
+|  6 | 1993–1994 | Club Sport         | Gulf Oil                 | nan                     | nan                  |
+|  7 | 1994–1995 | Klūb Sport        | Empress                  | nan                     | nan                  |
+|  8 | 1995–1996 | Matchwinner        | Empress                  | nan                     | nan                  |
+|  9 | 1996–1997 | UK                 | Endsleigh Insurance      | nan                     | nan                  |
+| 10 | 1997–1999 | Errea              | Endsleigh Insurance      | nan                     | nan                  |
+| 11 | 1999–2004 | Errea              | Towergate Insurance      | nan                     | nan                  |
+| 12 | 2004–2008 | Errea              | Bence Building Merchants | nan                     | nan                  |
+| 13 | 2008–     | Errea              | Mira Showers             | nan                     | nan                  |
+| 14 | 2009–2011 | Errea              | Mira Showers             | PSU Technology Group    | nan                  |
+| 15 | 2011–2013 | Errea              | Mira Showers             | Barr Stadia             | Gloucestershire Echo |
+| 16 | 2013–     | Errea              | Mira Showers             | Gloucestershire College | Gloucestershire Echo |
+===================Question===================
+how many different kit manufacturers have there been?
+===================Text===================
+<think>
+Alright, so I need to figure out how many different kit manufacturers Cheltenham Town F.C. has had based on the given table. Let me start by looking at the "Kit Manufacturer" column in the table.
+
+First, I'll go through each row and list out the manufacturers:
+
+- Row 0: nan
+- Row 1: Umbro
+- Row 2: Umbro
+- Row 3: Henson
+- Row 4: nan
+- Row 5: Technik
+- Row 6: Club Sport
+- Row 7: Klūb Sport
+- Row 8: Matchwinner
+- Row 9: UK
+- Rows 10 to 16: Errea
+
+Now, I notice that "nan" probably stands for 'not available' or missing data, so those rows don't contribute a manufacturer name. So I can ignore the "nan" entries.
+
+Looking at the actual names:
+
+- Umbro appears in rows 1 and 2.
+- Henson is next in row 3.
+- Then Technik (row5), Club Sport (row6), Klūb Sport (row7), Matchwinner (row8), UK (row9), and Errea from row10 onwards.
+
+So the distinct manufacturers are: Umbro, Henson, Technik, Club Sport, Klūb Sport, Matchwinner, UK, and Errea. That makes 8 different manufacturers in total.
+
+Wait, let me count again to make sure I didn't miss any:
+
+1. Umbro
+2. Henson
+3. Technik
+4. Club Sport
+5. Klūb Sport
+6. Matchwinner
+7. UK
+8. Errea
+
+Yes, that's 8 different manufacturers.
+</think>
+
+Final Answer: 8
+===================Answer===================
+8

@@ -1,0 +1,85 @@
+===================Title===================
+Tommy Moe
+===================Table===================
+|    |   Season | Date        | Location             | Discipline   | Place   |
+|---:|---------:|:------------|:---------------------|:-------------|:--------|
+|  0 |     1993 | 27 Feb 1993 | Whistler, BC, Canada | Downhill     | 2nd     |
+|  1 |     1994 | 12 Dec 1993 | Val-d'Isère, France | Super G      | 3rd     |
+|  2 |     1994 | 29 Dec 1993 | Bormio, Italy        | Downhill     | 3rd     |
+|  3 |     1994 | 12 Mar 1994 | Whistler, BC, Canada | Downhill     | 3rd     |
+|  4 |     1994 | 13 Mar 1994 | Whistler, BC, Canada | Super G      | 1st     |
+|  5 |     1994 | 16 Mar 1994 | Vail, CO, USA        | Downhill     | 3rd     |
+|  6 |     1995 | 11 Dec 1994 | Tignes, France       | Super G      | 2nd     |
+===================Question===================
+what date comes in last?
+===================Text===================
+<think>
+Okay, so I need to figure out what date comes last in the given table about Tommy Moe. Let's see how to approach this.
+
+First, I should look at all the dates listed in each row of the table. The table has seven entries, each with a 'Date' column. My goal is to identify which of these dates is the most recent one.
+
+Let me list out the dates:
+
+1. 27 Feb 1993
+2. 12 Dec 1993
+3. 29 Dec 1993
+4. 12 Mar 1994
+5. 13 Mar 1994
+6. 16 Mar 1994
+7. 11 Dec 1994
+
+Now, I need to determine which date is the latest. Dates are usually compared starting from the year, then month, and finally the day.
+
+Looking at the years first:
+
+- The first entry is in 1993.
+- Entries 2-6 are also in 1993 or 1994, but wait, no: actually, entries 0 to 3 are in 1993 and 1994. Let me check each year carefully.
+
+Wait, let's list them with years:
+
+Row 0: Feb 27, 1993
+Row 1: Dec 12, 1993
+Row 2: Dec 29, 1993
+Row 3: Mar 12, 1994
+Row 4: Mar 13, 1994
+Row 5: Mar 16, 1994
+Row 6: Dec 11, 1994
+
+Wait a minute, I think I might have misread the years. Let me check each row's season and date again.
+
+Looking back:
+
+- Row 0: Season 1993, Date Feb 27, 1993
+- Row 1: Season 1994, Date Dec 12, 1993? Wait, that can't be right. If the season is 1994, but the date is in 1993, that's possible because seasons often cross years.
+
+But focusing on the 'Date' column, which shows actual dates:
+
+- Row 0: Feb 27, 1993
+- Row 1: Dec 12, 1993
+- Row 2: Dec 29, 1993
+- Row 3: Mar 12, 1994
+- Row 4: Mar 13, 1994
+- Row 5: Mar 16, 1994
+- Row 6: Dec 11, 1994
+
+Wait, no. Wait, in row 1 and 2, the dates are in 1993 but under Season 1994? That might be a bit confusing, but the Date is what matters here.
+
+So looking at all the dates:
+
+- The earliest date is Feb 27, 1993 (Row 0)
+- Then Dec 12, 1993 (Row1), followed by Dec29,1993 (Row2)
+- Next are March 1994 dates: Mar12,13,16 (Rows3,4,5)
+- Finally, Row6 is Dec11, 1994.
+
+So among these, the latest year is 1994. Now, within 1994, December comes after March.
+
+Therefore, the date in row6, which is Dec11, 1994, is later than all the others because it's in 1994 and December, whereas the other dates are either in 1993 or earlier months of 1994.
+
+So the last date in the table is Dec11,1994.
+
+But wait, I should check if any other date comes after that. Since Row6 is the last row, but let me make sure there isn't a date beyond December 1994. Looking at all dates again, yes, Row6 is the latest.
+</think>
+
+Final Answer: 11 Dec 1994
+===================Answer===================
+11 Dec 1994

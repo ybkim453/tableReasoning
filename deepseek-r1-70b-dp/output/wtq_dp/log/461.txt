@@ -1,0 +1,45 @@
+===================Title===================
+United States men's national soccer team
+===================Table===================
+|    | #   | Player           |   Goals |   Caps | Career       |
+|---:|:----|:-----------------|--------:|-------:|:-------------|
+|  0 | 1   | Landon Donovan   |      57 |    155 | 2000–present |
+|  1 | 2   | Clint Dempsey    |      36 |    103 | 2004–present |
+|  2 | 3   | Eric Wynalda     |      34 |    106 | 1990–2000    |
+|  3 | 4   | Brian McBride    |      30 |     95 | 1993–2006    |
+|  4 | 5   | Joe-Max Moore    |      24 |    100 | 1992–2002    |
+|  5 | 6T  | Jozy Altidore    |      21 |     67 | 2007–present |
+|  6 | 6T  | Bruce Murray     |      21 |     86 | 1985–1993    |
+|  7 | 8   | Eddie Johnson    |      19 |     62 | 2004–present |
+|  8 | 9T  | Earnie Stewart   |      17 |    101 | 1990–2004    |
+|  9 | 9T  | DaMarcus Beasley |      17 |    114 | 2001–present |
+===================Question===================
+name one player who scored more than earnie stewart but less than joe-max moore.
+===================Text===================
+<think>
+Okay, so I need to figure out which player scored more goals than Earnie Stewart but fewer than Joe-Max Moore based on the table provided. Let me start by looking at the data.
+
+First, I see that each row represents a different player with their respective stats: Goals and Caps, along with their career spans. The players are ordered from highest to lowest based on the number of goals they've scored.
+
+Looking at Earnie Stewart's stats, he has 17 goals. Joe-Max Moore has 24 goals. So I'm looking for a player whose goal count is between these two numbers—more than 17 but less than 24.
+
+Let me go through each player one by one:
+
+1. Landon Donovan: He has 57 goals, which is way more than 24. So he's out.
+2. Clint Dempsey: 36 goals, also above 24. Not him either.
+3. Eric Wynalda: 34 goals. Still higher than 24. Nope.
+4. Brian McBride: 30 goals. Also too high.
+5. Joe-Max Moore himself has 24, so we're looking for someone below that but above Earnie's 17.
+
+Next is Jozy Altidore and Bruce Murray tied at 21 goals each. That's between 17 and 24. So both of them fit the criteria because 21 is more than 17 (Earnie) and less than 24 (Joe-Max).
+
+Eddie Johnson has 19, which is also between 17 and 24. So he fits as well.
+
+Looking further down, Earnie Stewart is at 17, so we can stop here since the players below him will have fewer goals or equal to his count.
+
+So the possible players are Jozy Altidore, Bruce Murray, and Eddie Johnson, each with 21, 21, and 19 goals respectively. All of these numbers fall between Earnie's 17 and Joe-Max's 24.
+</think>
+
+Final Answer: Jozy Altidore, Bruce Murray, Eddie Johnson
+===================Answer===================
+Bruce Murray

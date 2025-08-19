@@ -1,0 +1,68 @@
+===================Title===================
+Cheltenham Town F.C.
+===================Table===================
+|    | Year      | Kit Manufacturer   | Shirt Sponsor            | Back of Shirt Sponsor   | Short Sponsor        |
+|---:|:----------|:-------------------|:-------------------------|:------------------------|:---------------------|
+|  0 | 1977–1978 | nan                | National Express         | nan                     | nan                  |
+|  1 | 1982–1985 | Umbro              | nan                      | nan                     | nan                  |
+|  2 | 1985–1986 | Umbro              | Whitbread                | nan                     | nan                  |
+|  3 | 1986–1988 | Henson             | Duraflex                 | nan                     | nan                  |
+|  4 | 1988–1989 | nan                | Gulf Oil                 | nan                     | nan                  |
+|  5 | 1991–1993 | Technik            | Gulf Oil                 | nan                     | nan                  |
+|  6 | 1993–1994 | Club Sport         | Gulf Oil                 | nan                     | nan                  |
+|  7 | 1994–1995 | Klūb Sport        | Empress                  | nan                     | nan                  |
+|  8 | 1995–1996 | Matchwinner        | Empress                  | nan                     | nan                  |
+|  9 | 1996–1997 | UK                 | Endsleigh Insurance      | nan                     | nan                  |
+| 10 | 1997–1999 | Errea              | Endsleigh Insurance      | nan                     | nan                  |
+| 11 | 1999–2004 | Errea              | Towergate Insurance      | nan                     | nan                  |
+| 12 | 2004–2008 | Errea              | Bence Building Merchants | nan                     | nan                  |
+| 13 | 2008–     | Errea              | Mira Showers             | nan                     | nan                  |
+| 14 | 2009–2011 | Errea              | Mira Showers             | PSU Technology Group    | nan                  |
+| 15 | 2011–2013 | Errea              | Mira Showers             | Barr Stadia             | Gloucestershire Echo |
+| 16 | 2013–     | Errea              | Mira Showers             | Gloucestershire College | Gloucestershire Echo |
+===================Question===================
+how many different kit manufacturers are listed?
+===================Text===================
+<think>
+Alright, so I need to figure out how many different kit manufacturers are listed in the table for Cheltenham Town F.C. Let me go through this step by step.
+
+First, I'll look at each row of the table and pay attention to the "Kit Manufacturer" column. My goal is to count all unique manufacturer names without repeating any.
+
+Starting from the top:
+- The first entry (1977–1978) has 'nan', which I assume means not available or no data. So, I'll skip this one.
+- Next (1982–1985), the manufacturer is Umbro.
+- Then in 1985–1986, it's also Umbro again, so that's a repeat.
+- Moving on to 1986–1988, Henson is listed.
+- The next entry (1988–1989) has 'nan', so I'll skip this as well.
+- From 1991–1993, the manufacturer is Technik.
+- Then in 1993–1994, it's Club Sport.
+- For 1994–1995, it says Klūb Sport. Wait, that looks a bit odd with the macron over the 'u'. I wonder if this is just a different spelling or a typo. Maybe it's supposed to be "Club Sport" again? Or perhaps it's intentional as a different manufacturer. I'll tentatively count it as a separate one unless there's evidence it's the same.
+- Next, 1995–1996 lists Matchwinner, which is new.
+- In 1996–1997, UK is the manufacturer.
+- From 1997 onward up to 2013, Errea is consistently listed.
+
+So compiling these names:
+1. Umbro
+2. Henson
+3. Technik
+4. Club Sport
+5. Klūb Sport (assuming it's different due to the macron)
+6. Matchwinner
+7. UK
+8. Errea
+
+Wait, that's 8 manufacturers. But I'm not entirely sure about Klūb Sport being a separate entity or just a typo for Club Sport. If they are the same, then it would reduce the count by one.
+
+Looking back at the table:
+- In 1993–1994, it's "Club Sport".
+- Then in 1994–1995, it's "Klūb Sport". The presence of the macron might indicate a different brand or perhaps a typo. Without more context, I have to consider them as separate.
+
+Therefore, the total unique manufacturers are:
+Umbro, Henson, Technik, Club Sport, Klūb Sport, Matchwinner, UK, Errea.
+
+That's 8 distinct names.
+</think>
+
+Final Answer: 8
+===================Answer===================
+8

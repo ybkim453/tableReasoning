@@ -1,0 +1,62 @@
+===================Title===================
+Farmer Wants a Wife (U.S. TV series)
+===================Table===================
+|    |   # | Episode                        | Air Date       | Timeslot   |   Rating |   Share | 18-49      | Viewers   | Weekly Rank   |
+|---:|----:|:-------------------------------|:---------------|:-----------|---------:|--------:|:-----------|:----------|:--------------|
+|  0 |   1 | "Goodbye City...Hello Country" | April 30, 2008 | 9:00 P.M.  |      1.7 |       3 | 1.0/3 (#5) | 2.37 (#5) | 89/96         |
+|  1 |   2 | "Pigs & Cows & Sheeps...Oh My" | May 7, 2008    | 9:00 P.M.  |      1.5 |       2 | 1.0/3 (#5) | 2.11 (#5) | 90/97         |
+|  2 |   3 | "Wet 'n Wild"                  | May 14, 2008   | 9:00 P.M.  |      1.3 |       2 | 0.9/2 (#5) | 1.96 (#5) | 90/96         |
+|  3 |   4 | "Do-Si-Do"                     | May 28, 2008   | 9:00 P.M.  |      1.8 |       3 | 0.9/2 (#5) | 2.44 (#5) | 75/87         |
+|  4 |   5 | "As Country as Apple Pie"      | June 4, 2008   | 9:00 P.M.  |      1.3 |       2 | 0.8/2 (#5) | 2.01 (#5) | 79/91         |
+|  5 |   6 | "It's Show Time"               | June 11, 2008  | 9:00 P.M.  |      1.3 |       2 | 0.8/2 (#5) | 2.04 (#5) | 76/88         |
+|  6 |   7 | "A Family Affair"              | June 18, 2008  | 9:00 P.M.  |      1.5 |       3 | 0.8/2 (#5) | 2.00 (#5) | TBA           |
+|  7 |   8 | "Farmer Picks a Wife"          | June 25, 2008  | 9:00 P.M.  |      1.6 |       3 | 1.0/3 (#5) | 2.45 (#5) | TBA           |
+===================Question===================
+how many epiodes have ar least 2.00 viewers?
+===================Text===================
+<think>
+Okay, so I need to figure out how many episodes of "Farmer Wants a Wife (U.S. TV series)" have at least 2.00 viewers based on the provided table. Let's break this down step by step.
+
+First, I'll look at each episode and check the "Viewers" column to see if the number is 2.00 or higher. The episodes are listed from Episode 1 to Episode 8.
+
+Episode 1: Viewers = 2.37 – that's above 2.00.
+Episode 2: Viewers = 2.11 – also above 2.00.
+Episode 3: Viewers = 1.96 – this is below 2.00, so it doesn't count.
+Episode 4: Viewers = 2.44 – well above 2.00.
+Episode 5: Viewers = 2.01 – just barely over 2.00.
+Episode 6: Viewers = 2.04 – slightly above 2.00.
+Episode 7: Viewers = 2.00 – exactly 2.00, so it counts.
+Episode 8: Viewers = 2.45 – definitely above.
+
+Wait a second, I think I might have made a mistake with Episode 3. Let me double-check that number. Yes, it's 1.96, which is just below 2.00, so it doesn't make the cut. 
+
+Now, listing out all episodes where Viewers >= 2.00:
+Episode 1: 2.37
+Episode 2: 2.11
+Episode 4: 2.44
+Episode 5: 2.01
+Episode 6: 2.04
+Episode 7: 2.00
+Episode 8: 2.45
+
+That's a total of 7 episodes, but wait, let me recount to make sure I didn't miscount.
+
+Wait, no, that can't be right because the table only has 8 episodes in total. Let me go through each one again:
+
+1. Episode 1: Yes
+2. Episode 2: Yes
+3. Episode 3: No (1.96)
+4. Episode 4: Yes
+5. Episode 5: Yes
+6. Episode 6: Yes
+7. Episode 7: Yes
+8. Episode 8: Yes
+
+So that's Episodes 1,2,4,5,6,7,8 – which is 7 episodes in total.
+
+Wait, but the initial count showed 7, and since there are only 8 episodes, with one below, it makes sense. So the answer should be 7 episodes.
+</think>
+
+Final Answer: 7
+===================Answer===================
+7

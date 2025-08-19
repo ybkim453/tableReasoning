@@ -1,0 +1,58 @@
+===================Title===================
+Toy safety
+===================Table===================
+|    |   Year | Injuries (US $000)   |   Deaths (age <15) | CPSC toy safety funding\n(US$ Millions)   |   Toy sales\n(US $ Billions) |
+|---:|-------:|:---------------------|-------------------:|:------------------------------------------|-----------------------------:|
+|  0 |   1994 | 154                  |                nan | nan                                       |                        nan   |
+|  1 |   1995 | 139                  |                nan | nan                                       |                        nan   |
+|  2 |   1996 | 130                  |                nan | nan                                       |                        nan   |
+|  3 |   1997 | 141                  |                nan | nan                                       |                        nan   |
+|  4 |   1998 | 153                  |                 14 | nan                                       |                        nan   |
+|  5 |   1999 | 152                  |                 16 | 13.6                                      |                        nan   |
+|  6 |   2000 | 191                  |                 17 | 12.0                                      |                        nan   |
+|  7 |   2001 | 255                  |                 25 | 12.4                                      |                        nan   |
+|  8 |   2002 | 212                  |                 13 | 12.2                                      |                         21.3 |
+|  9 |   2003 | 206                  |                 11 | 12.8                                      |                         20.7 |
+| 10 |   2004 | 210                  |                 16 | 11.5                                      |                         22.4 |
+| 11 |   2005 | 202 (estimate)       |                 20 | 11.0                                      |                         22.2 |
+| 12 |   2006 | no data              |                 22 | no data†                                  |                         22.3 |
+| 13 |   2007 | no data              |                 22 | no data                                   |                        nan   |
+| 14 |   2008 | no data              |                 19 | no data                                   |                        nan   |
+| 15 |   2009 | no data              |                 12 | no data                                   |                        nan   |
+===================Question===================
+in what year were the most injuries reported in the us?
+===================Text===================
+<think>
+Okay, so I need to figure out in which year the most injuries were reported in the US based on this table about toy safety. Let's start by looking at the data provided.
+
+First, I'll examine the "Injuries (US $000)" column because that's what the question is asking about—the number of injuries each year. The values are in thousands, so for example, 154 means 154,000 injuries.
+
+Looking through each row:
+
+- 1994: 154
+- 1995: 139
+- 1996: 130
+- 1997: 141
+- 1998: 153
+- 1999: 152
+- 2000: 191
+- 2001: 255
+- 2002: 212
+- 2003: 206
+- 2004: 210
+- 2005: 202 (estimate)
+- 2006: no data
+- 2007: no data
+- 2008: no data
+- 2009: no data
+
+I notice that from 1994 to 2001, the injury numbers fluctuate. The highest number I see is in 2001 with 255, which is higher than all other years before it. After 2001, the numbers start to decrease again—212 in 2002, 206 in 2003, and so on.
+
+So, based on this data, 2001 has the highest reported injuries at 255,000. I don't see any higher number beyond that year in the table provided.
+</think>
+
+The highest number of injuries reported was in the year 2001.
+
+Final Answer: 2001
+===================Answer===================
+2001

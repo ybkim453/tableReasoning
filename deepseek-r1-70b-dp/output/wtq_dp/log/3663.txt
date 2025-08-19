@@ -1,0 +1,42 @@
+===================Title===================
+2011 USL Pro season
+===================Table===================
+|    |   Rank | Player            | Nation   | Club                      |   Goals |
+|---:|-------:|:------------------|:---------|:--------------------------|--------:|
+|  0 |      1 | Jhonny Arteaga    | COL      | FC New York               |      13 |
+|  1 |      2 | Matthew Delicâte | ENG      | Richmond Kickers          |      10 |
+|  2 |      3 | José Angulo      | USA      | Harrisburg City Islanders |       9 |
+|  3 |      3 | Maxwell Griffin   | USA      | Orlando City              |       9 |
+|  4 |      3 | Luke Mulholland   | ENG      | Wilmington Hammerheads    |       9 |
+|  5 |      6 | Andriy Budnyy     | UKR      | Wilmington Hammerheads    |       8 |
+|  6 |      6 | Jamie Watson      | USA      | Orlando City              |       8 |
+|  7 |      6 | Andrew Welker     | USA      | Harrisburg City Islanders |       8 |
+|  8 |      9 | Chris Banks       | USA      | Wilmington Hammerheads    |       7 |
+|  9 |      9 | Sallieu Bundu     | SLE      | Charlotte Eagles          |       7 |
+| 10 |      9 | George Davis IV   | USA      | Dayton Dutch Lions        |       7 |
+| 11 |      9 | Sainey Touray     | GAM      | Harrisburg City Islanders |       7 |
+===================Question===================
+how many players scored at least 9 goals?
+===================Text===================
+<think>
+Alright, let's tackle this problem step by step. The question is asking how many players scored at least 9 goals in the 2011 USL Pro season based on the provided table.
+
+First, I'll look at the table and identify the columns: Rank, Player, Nation, Club, and Goals. Since we're interested in the number of goals each player scored, I'll focus on the "Goals" column.
+
+I need to count how many players have a goal tally of 9 or more. Let's go through each row one by one.
+
+1. The first entry is Jhonny Arteaga with 13 goals. That's definitely above 9.
+2. Next up is Matthew Delicâte with 10 goals, which also meets the criteria.
+3. Then we have José Angulo and Maxwell Griffin, both with 9 goals each. They qualify as well since it's "at least" 9.
+4. Luke Mulholland also has 9 goals, so he counts too.
+
+Continuing down the list:
+- Andriy Budnyy, Jamie Watson, Andrew Welker each have 8 goals, which is below 9, so they don't count.
+- The remaining players (Chris Banks, Sallieu Bundu, George Davis IV, and Sainey Touray) all have 7 goals each, which is also below 9.
+
+So, adding up the players who scored at least 9 goals: Jhonny Arteaga, Matthew Delicâte, José Angulo, Maxwell Griffin, and Luke Mulholland. That makes a total of 5 players.
+</think>
+
+Final Answer: 5
+===================Answer===================
+5

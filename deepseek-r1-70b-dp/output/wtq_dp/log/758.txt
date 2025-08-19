@@ -1,0 +1,59 @@
+===================Title===================
+1955 NFL Draft
+===================Table===================
+|    |   Pick # | NFL Team                             | Player            | Position    | College      |
+|---:|---------:|:-------------------------------------|:------------------|:------------|:-------------|
+|  0 |        1 | Baltimore Colts (Lottery bonus pick) | George Shaw       | Quarterback | Oregon       |
+|  1 |        2 | Chicago Cardinals                    | Max Boydston      | End         | Oklahoma     |
+|  2 |        3 | Baltimore Colts                      | Alan Ameche       | Fullback    | Wisconsin    |
+|  3 |        4 | Washington Redskins                  | Ralph Guglielmi   | Quarterback | Notre Dame   |
+|  4 |        5 | Green Bay Packers                    | Tom Bettis        | Guard       | Purdue       |
+|  5 |        6 | Pittsburgh Steelers                  | Frank Varrichione | Tackle      | Notre Dame   |
+|  6 |        7 | Los Angeles Rams                     | Larry Morris      | Center      | Georgia Tech |
+|  7 |        8 | New York Giants                      | Joe Heap          | Halfback    | Notre Dame   |
+|  8 |        9 | Philadelphia Eagles                  | Dick Bielski      | Fullback    | Maryland     |
+|  9 |       10 | San Francisco 49ers                  | Dickey Moegle     | Halfback    | Rice         |
+| 10 |       11 | Chicago Bears                        | Ron Drzewiecki    | Halfback    | Marquette    |
+| 11 |       12 | Detroit Lions                        | Dave Middleton    | Halfback    | Auburn       |
+| 12 |       13 | Cleveland Browns                     | Kurt Burris       | Center      | Oklahoma     |
+===================Question===================
+which position had the most picks?
+===================Text===================
+<think>
+Alright, so I need to figure out which position had the most picks in the 1955 NFL Draft based on the provided table. Let me start by looking at each row and noting down the positions of the players selected.
+
+Starting from pick #1: George Shaw is a Quarterback.
+Pick #2: Max Boydston is an End.
+Pick #3: Alan Ameche is a Fullback.
+Pick #4: Ralph Guglielmi is another Quarterback.
+Pick #5: Tom Bettis plays Guard.
+Pick #6: Frank Varrichione is a Tackle.
+Pick #7: Larry Morris is a Center.
+Pick #8: Joe Heap is a Halfback.
+Pick #9: Dick Bielski is a Fullback.
+Pick #10: Dickey Moegle is a Halfback.
+Pick #11: Ron Drzewiecki is another Halfback.
+Pick #12: Dave Middleton is also a Halfback.
+Pick #13: Kurt Burris plays Center.
+
+Now, I'll list out the positions and count how many times each appears:
+
+- Quarterback: Shaw (1), Guglielmi (4) → 2
+- End: Boydston (2) → 1
+- Fullback: Ameche (3), Bielski (9) → 2
+- Guard: Bettis (5) → 1
+- Tackle: Varrichione (6) → 1
+- Center: Morris (7), Burris (13) → 2
+- Halfback: Heap (8), Moegle (10), Drzewiecki (11), Middleton (12) → 4
+
+So, counting them up:
+- Halfback appears four times.
+- Quarterback, Fullback, and Center each appear twice.
+- The rest have one pick each.
+
+Therefore, the position with the most picks is Halfback with four selections.
+</think>
+
+Final Answer: Halfback
+===================Answer===================
+halfback

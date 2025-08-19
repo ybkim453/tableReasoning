@@ -1,0 +1,32 @@
+===================Title===================
+Churnet Valley Railway
+===================Table===================
+|    | Number   | Name                | Type                                   | Livery               | Status            | Notes                                                                                                    |
+|---:|:---------|:--------------------|:---------------------------------------|:---------------------|:------------------|:---------------------------------------------------------------------------------------------------------|
+|  0 | nan      | Brightside          | Yorkshire Engine Company 0-4-0         | Black                | Under Repair      | Currently dismantled for overhaul                                                                        |
+|  1 | 6        | Roger H. Bennett    | Yorkshire Engine Company "Janus" 0-6-0 | NCB Blue             | Operational       | ~                                                                                                        |
+|  2 | D2334    | nan                 | Class 04                               | Green                | Under Repair      | Stopped at Sep 2012 diesel gala after failure                                                            |
+|  3 | 25322    | Tamworth Castle     | Class 25                               | "Ice Cream Van" Blue | Static Display    | built in 1967. Cosmetically restored in 2008                                                             |
+|  4 | 33021    | Captain Charles     | Class 33                               | Blue                 | Operational       | built in 1960. On loan from Tysley                                                                       |
+|  5 | 33102    | Sophie (Unofficial) | Class 33                               | Blue                 | Operational       | built in 1960. Launched Sep 2012 - restoration still being completed although the loco is now in service |
+|  6 | 37407    | nan                 | Class 37                               | Transrail Grey       | Stored            | ~                                                                                                        |
+|  7 | 37424    | nan                 | Class 37                               | Transrail Grey       | Stored            | ~                                                                                                        |
+|  8 | 47524    | nan                 | Class 47                               | Rail Express Systems | Under restoration | ~                                                                                                        |
+===================Question===================
+when was the captain charles locomotive built?
+===================Text===================
+<think>
+Alright, I need to figure out when the Captain Charles locomotive was built based on the provided table. Let me start by scanning through each row to find the one that mentions "Captain Charles." 
+
+Looking at the table, each row represents a different locomotive with details like Number, Name, Type, Livery, Status, and Notes. The first column is just an index from 0 to 8. I'm looking for the row where the Name is "Captain Charles."
+
+I see that row 4 has the Name "Captain Charles." Now, I need to check the Notes section of this row because that's usually where the build date would be mentioned. The Notes column says, "built in 1960. On loan from Tysley." 
+
+So, according to the table, Captain Charles was built in 1960.
+</think>
+
+The Captain Charles locomotive was built in 1960.
+
+Final Answer: 1960
+===================Answer===================
+1960

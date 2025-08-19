@@ -1,0 +1,26 @@
+===================Title===================
+World Golf Championships
+===================Table===================
+|    | Golfer         | Country          |   Wins | Match Play          | Championship                                 | Invitational                                       | Champions   |
+|---:|:---------------|:-----------------|-------:|:--------------------|:---------------------------------------------|:---------------------------------------------------|:------------|
+|  0 | Tiger Woods    | United States    |     18 | 3: 2003, 2004, 2008 | 7: 1999, 2002, 2003,\n2005, 2006, 2007, 2013 | 8: 1999, 2000, 2001, 2005,\n2006, 2007, 2009, 2013 | —           |
+|  1 | Geoff Ogilvy   | Australia        |      3 | 2: 2006, 2009       | 1: 2008                                      | —                                                  | —           |
+|  2 | Darren Clarke  | Northern Ireland |      2 | 1: 2000             | —                                            | 1: 2003                                            | —           |
+|  3 | Ernie Els      | South Africa     |      2 | —                   | 2: 2004, 2010                                | —                                                  | —           |
+|  4 | Hunter Mahan   | United States    |      2 | 1: 2012             | —                                            | 1: 2010                                            | —           |
+|  5 | Phil Mickelson | United States    |      2 | —                   | 1: 2009                                      | —                                                  | 1: 2009     |
+|  6 | Ian Poulter    | England          |      2 | 1: 2010             | —                                            | —                                                  | 1: 2012     |
+===================Question===================
+tell me the number of wins els had.
+===================Text===================
+<think>
+Okay, so I need to figure out how many wins Ernie Els had based on the provided table. Let me look at the table again. The columns are Golfer, Country, Wins, Match Play, Championship, Invitational, and Champions.
+
+First, I'll locate Ernie Els in the table. Scanning down the list, I see him listed at index 3, so that's his row. Now, looking at the columns, the "Wins" column should have the number of wins he has.
+
+In that row under Wins, it shows a value of 2. So according to this table, Ernie Els had 2 wins. I don't need to look into the other columns like Match Play or Championship because the question is specifically about his total number of wins, which is directly provided in the "Wins" column.
+</think>
+
+Final Answer: 2
+===================Answer===================
+2

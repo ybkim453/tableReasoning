@@ -1,0 +1,78 @@
+===================Title===================
+AC Transit
+===================Table===================
+|    |   Year | Manufacturer   | Model               | Length (feet)    |   Quantity | Fleet Series          | Fuel Propulsion        | Powertrain                                |
+|---:|-------:|:---------------|:--------------------|:-----------------|-----------:|:----------------------|:-----------------------|:------------------------------------------|
+|  0 |   1996 | New Flyer      | D60                 | 60 (articulated) |         30 | 1901-1930*            | Diesel                 | Detroit Diesel Series 50\nAllison B400R   |
+|  1 |   1998 | NABI           | 416                 | 40               |        133 | 3001-3067, 3101-3166* | Diesel                 | Cummins M11E\nAllison B400R               |
+|  2 |   1999 | NABI           | 40-LFW              | 40               |         44 | 4001-4044             | Diesel                 | nan                                       |
+|  3 |   2000 | NABI           | 40-LFW              | 40               |         23 | 7201-7223             | Diesel                 | Cummins ISM\nAllison B400R                |
+|  4 |   2000 | MCI            | D4500               | 45               |         30 | 6001-6030             | Diesel                 | nan                                       |
+|  5 |   2001 | MCI            | D4500               | 45               |         10 | 6031-6040             | Diesel                 | nan                                       |
+|  6 |   2003 | MCI            | D4500               | 45               |         39 | 6041-6079             | Diesel                 | nan                                       |
+|  7 |   2003 | NABI           | 40-LFW              | 40               |         46 | 4051-4090             | Diesel                 | Cummins ISL\nAllison B400R                |
+|  8 |   2003 | Van Hool       | A330                | 40               |        110 | 1001-1110             | Diesel                 | Cummins ISM\nVoith D864.3E                |
+|  9 |   2003 | Van Hool       | AG300               | 60               |         57 | 2001-2057             | Diesel                 | Cummins ISM\nVoith D864.3E                |
+| 10 |   2005 | Van Hool       | A300FC              | 40               |          3 | FC1-FC3               | Hydrogen               | nan                                       |
+| 11 |   2006 | Van Hool       | A300K               | 30               |         50 | 5001-5050             | Diesel                 | Cummins ISB\nVoith D864.3E                |
+| 12 |   2007 | Van Hool       | AG300               | 60               |         10 | 2101-2110             | Diesel                 | Cummins ISL\nVoith D864.3E                |
+| 13 |   2007 | Van Hool       | AG300               | 60               |         15 | 2151-2165             | Diesel                 | Cummins ISM\nVoith D864.3E                |
+| 14 |   2008 | Van Hool       | A300L               | 40               |         27 | 1201-1227             | Diesel                 | Cummins ISL\nVoith D864.5                 |
+| 15 |   2008 | Van Hool       | A300K               | 30               |          1 | 5099                  | Diesel-electric hybrid | nan                                       |
+| 16 |   2008 | Van Hool       | A300K               | 30               |         39 | 5101-5139             | Diesel                 | Cummins ISB\nVoith D854.5                 |
+| 17 |   2010 | Van Hool       | AG300               | 60               |          9 | 2191-2199             | Diesel                 | Cummins ISL\nVoith D864.5                 |
+| 18 |   2010 | Van Hool       | A300L FC            | 40               |         12 | FC4-FC16              | Hydrogen               | nan                                       |
+| 19 |   2013 | Gillig         | Low-floor Advantage | 40               |         65 | 1301-1365             | Diesel                 | Cummins ISL 280 HP \nAllison B400 6-speed |
+| 20 |   2013 | New Flyer      | Xcelsior D60        | 60               |         23 | 2201-2223             | Diesel                 | Cummins ISL 330 HP\nAllison B400 6-speed  |
+| 21 |   2013 | Gillig         | Low-floor Advantage | 40               |         55 | 6101-6155             | Diesel                 | Cummins ISL 280 HP\nAllison B400 6-speed  |
+===================Question===================
+compare different types of fuel and tell which is most used.
+===================Text===================
+<think>
+Alright, so I need to compare different types of fuel used by AC Transit based on the provided table and determine which one is most used. Let me start by going through each row of the table carefully.
+
+Looking at the "Fuel Propulsion" column, I see that most entries are labeled as "Diesel." There are a few exceptions, though. For example, in rows 10 and 18, the fuel propulsion is listed as "Hydrogen," and in row 15, it's "Diesel-electric hybrid." 
+
+First, let me count how many times each type of fuel appears. I'll go through each entry one by one.
+
+1. Row 0: Diesel
+2. Row 1: Diesel
+3. Row 2: Diesel
+4. Row 3: Diesel
+5. Row 4: Diesel
+6. Row 5: Diesel
+7. Row 6: Diesel
+8. Row 7: Diesel
+9. Row 8: Diesel
+10. Row 9: Diesel
+11. Row 10: Hydrogen
+12. Row 11: Diesel
+13. Row 12: Diesel
+14. Row 13: Diesel
+15. Row 14: Diesel
+16. Row 15: Diesel-electric hybrid
+17. Row 16: Diesel
+18. Row 17: Diesel
+19. Row 18: Hydrogen
+20. Row 19: Diesel
+21. Row 20: Diesel
+22. Row 21: Diesel
+
+Now, let's tally these up:
+
+- Diesel appears in rows 0 through 9, which is 10 entries.
+- Then from row 11 to row 17, that's another 7 entries (rows 11,12,13,14,16,17).
+- Rows 19,20,21 add 3 more, making it a total of 10 + 7 + 3 = 20.
+- Hydrogen is in rows 10 and 18, so that's 2 entries.
+- Diesel-electric hybrid is only in row 15.
+
+So, Diesel is used in 20 instances, Hydrogen in 2, and Diesel-electric hybrid once.
+
+Therefore, the most used fuel type by far is Diesel. It's clear from the counts that Diesel dominates the fleet compared to the other two types.
+</think>
+
+The most used fuel propulsion types are Diesel (20 times), followed by Hydrogen (2 times) and Diesel-electric hybrid (1 time). The most common is Diesel.
+
+Final Answer: Diesel
+===================Answer===================
+Diesel

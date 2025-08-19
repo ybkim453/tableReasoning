@@ -1,0 +1,38 @@
+===================Title===================
+Boeing 929
+===================Table===================
+|    | Hull   | Type    | Original Name    | Original Operator      | Delivery   | Disposition (2012)   | 2nd name      | 2nd operator           | 3rd Name   | 3rd operator       |
+|---:|:-------|:--------|:-----------------|:-----------------------|:-----------|:---------------------|:--------------|:-----------------------|:-----------|:-------------------|
+|  0 | No 1   | 929-117 | Tsubasa          | Sado Kisen             | Mar 1998   | Active               | nan           | nan                    | nan        | nan                |
+|  1 | No 2   | 929-117 | Pegasus          | Kyusyu Shosen Co. Ltd. | Jun 1989   | Active               | Toppy 1       | Tane Yaku Jetfoils     | nan        | nan                |
+|  2 | No 3   | 929-117 | Toppy 1          | Tane Yaku Jetfoils     | Sep 1989   | Active               | Beetle 3      | JR Kyushu Jet Ferries  | nan        | nan                |
+|  3 | No 4   | 929-117 | Princess Dacil   | Trasmediterranea       | Mar 1990   | Active               | Pegasus       | Kyusyu Shosen Co. Ltd. | nan        | nan                |
+|  4 | No 5   | 929-117 | Nagasaki         | JR Kyushu Jet Ferries  | Apr 1990   | Active               | Beetle 1      | JR Kyushu Jet Ferries  | nan        | nan                |
+|  5 | No 6   | 929-117 | Beetle           | JR Kyushu Jet Ferries  | Jul 1990   | Active               | Rocket        | Cosmo Line             | Rocket 3   | Tane Yaku Jetfoils |
+|  6 | No 7   | 929-117 | Unicorn          | Kyusyu Shosen Co. Ltd. | Oct 1990   | Active               | Pegasus 2     | Kyusyu Shosen Co. Ltd. | nan        | nan                |
+|  7 | No 8   | 929-117 | Beetle 2         | JR Kyushu Jet Ferries  | Feb 1991   | Active               | nan           | nan                    | nan        | nan                |
+|  8 | No 9   | 929-117 | Venus            | Kyushu Yusen           | Mar 1991   | Active               | nan           | nan                    | nan        | nan                |
+|  9 | No 10  | 929-117 | Suisei           | Sado Kisen             | Apr 1991   | Active               | nan           | nan                    | nan        | nan                |
+| 10 | No 11  | 929-117 | Princess Teguise | Trasmediterranea       | Jun 1991   | Active               | 2007 Toppy 5  | Tane Yaku Jetfoils     | nan        | nan                |
+| 11 | No 12  | 929-117 | Toppy 2          | Tane Yaku Jetfoils     | Apr 1992   | Active               | nan           | nan                    | nan        | nan                |
+| 12 | No 13  | 929-117 | Toppy 3          | Tane Yaku Jetfoils     | Mar 1995   | Active               | nan           | nan                    | nan        | nan                |
+| 13 | No 14  | 929-117 | Crystal Wing     | Kaijo Access Co.       | Jun 1994   | Active               | 2002 Beetle 5 | JR Kyushu Jet Ferries  | nan        | nan                |
+| 14 | No 15  | 929-117 | Emerald Wing     | Kaijo Access Co.       | Jun 1994   | Active               | 2004 Rocket 1 | Cosmo Line             | -          | Tane Yaku Jetfoil  |
+===================Question===================
+what original name is after venus in apr 1991?
+===================Text===================
+<think>
+Alright, I'm trying to figure out what original name comes after Venus in April 1991 based on the provided table. Let's break this down step by step.
+
+First, I need to locate the entry where the Delivery month is April 1991 and the Original Name is Venus. Looking through the table, I see that row 8 has "Venus" as the Original Name with a delivery date of March 1991. Wait, but the question is about after Venus in April 1991, so maybe I need to check if there's another entry delivered in April 1991.
+
+Continuing down the list, row 9 shows an entry with Delivery in April 1991. The Original Name here is "Suisei". So, Suisei would be the next one after Venus since it was delivered in the same month but a bit later. However, I should check if there's any other entries in April 1991 to ensure I'm not missing anything.
+
+Looking at row numbers and dates, row 0 was delivered in March 1998, which is way later, so no. Rows 1-14 don't have another entry for April 1991 except row 9. So the original name after Venus in April 1991 would be Suisei.
+</think>
+
+The original name that comes after "Venus" in April 1991 is "Suisei".
+
+Final Answer: Suisei
+===================Answer===================
+Suisei

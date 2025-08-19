@@ -1,0 +1,67 @@
+===================Title===================
+Tommy Robredo career statistics
+===================Table===================
+|    | Outcome   |   No. | Date              | Tournament                                  | Surface   | Opponent           | Score                   |
+|---:|:----------|------:|:------------------|:--------------------------------------------|:----------|:-------------------|:------------------------|
+|  0 | Runner-up |     1 | 15 April 2001     | Grand Prix Hassan II, Casablanca, Morocco   | Clay      | Guillermo Cañas   | 5–7, 2–6                |
+|  1 | Winner    |     1 | 29 July 2001      | Orange Warsaw Open, Sopot, Poland           | Clay      | Albert Portas      | 1–6, 7–5, 7–6(7–2)      |
+|  2 | Runner-up |     2 | 20 July 2003      | Mercedes Cup, Stuttgart, Germany            | Clay      | Guillermo Coria    | 2–6, 2–6, 1–6           |
+|  3 | Winner    |     2 | 2 May 2004        | Torneo Godó, Barcelona, Spain              | Clay      | Gastón Gaudio     | 6–3, 4–6, 6–2, 3–6, 6–3 |
+|  4 | Runner-up |     3 | 1 May 2005        | Estoril Open, Estoril, Portugal             | Clay      | Gastón Gaudio     | 1–6, 6–2, 1–6           |
+|  5 | Runner-up |     4 | 30 April 2006     | Torneo Godó, Barcelona, Spain              | Clay      | Rafael Nadal       | 4–6, 4–6, 0–6           |
+|  6 | Winner    |     3 | 21 May 2006       | Hamburg Masters, Hamburg, Germany           | Clay      | Radek Štěpánek  | 6–1, 6–3, 6–3           |
+|  7 | Winner    |     4 | 16 July 2006      | Swedish Open, Båstad, Sweden               | Clay      | Nikolay Davydenko  | 6–2, 6–1                |
+|  8 | Runner-up |     5 | 14 January 2007   | Heineken Open, Auckland, New Zealand        | Hard      | David Ferrer       | 4–6, 2–6                |
+|  9 | Winner    |     5 | 5 August 2007     | Orange Warsaw Open, Sopot, Poland (2)       | Clay      | José Acasuso      | 7–5, 6–0                |
+| 10 | Runner-up |     6 | 16 September 2007 | China Open, Beijing, China                  | Hard (i)  | Fernando González | 1–6, 6–3, 1–6           |
+| 11 | Winner    |     6 | 7 October 2007    | Open de Moselle, Metz, France               | Hard (i)  | Andy Murray        | 0–6, 6–2, 6–3           |
+| 12 | Runner-up |     7 | 15 June 2008      | Orange Warsaw Open, Warsaw, Poland          | Clay      | Nikolay Davydenko  | 3–6, 3–6                |
+| 13 | Winner    |     7 | 13 July 2008      | Swedish Open, Båstad, Sweden (2)           | Clay      | Tomáš Berdych    | 6–4, 6–1                |
+| 14 | Winner    |     8 | 14 February 2009  | Brasil Open, Costa do Sauípe, Brazil       | Clay      | Thomaz Bellucci    | 6–3, 3–6, 6–4           |
+| 15 | Winner    |     9 | 22 February 2009  | Copa Telmex, Buenos Aires, Argentina        | Clay      | Juan Mónaco       | 7–5, 2–6, 7–6(7–5)      |
+| 16 | Winner    |    10 | 6 February 2011   | Chile Open, Santiago, Chile                 | Clay      | Santiago Giraldo   | 6–2, 2–6, 7–6(7–5)      |
+| 17 | Winner    |    11 | 14 April 2013     | Grand Prix Hassan II, Casablanca, Morocco   | Clay      | Kevin Anderson     | 7–6(8–6), 4–6, 6–3      |
+| 18 | Winner    |    12 | 28 July 2013      | ATP Vegeta Croatia Open Umag, Umag, Croatia | Clay      | Fabio Fognini      | 6–0, 6–3                |
+===================Question===================
+which year had more competitions, 2006 or 2007?
+===================Text===================
+<think>
+Alright, so I need to figure out whether 2006 or 2007 had more competitions based on Tommy Robredo's career statistics provided in the table.
+
+First, I'll look through each row of the table and note down the years mentioned in the "Date" column. The idea is to count how many tournaments took place in each year.
+
+Starting from the top:
+- Row 0: April 15, 2001 – that's 2001.
+- Row 1: July 29, 2001 – still 2001.
+- Row 2: July 20, 2003 – 2003.
+- Row 3: May 2, 2004 – 2004.
+- Row 4: May 1, 2005 – 2005.
+- Row 5: April 30, 2006 – so that's the first one in 2006. I'll count this as 1 for 2006.
+- Row 6: May 21, 2006 – another in 2006, now total 2.
+- Row 7: July 16, 2006 – third in 2006, so 3 now.
+- Row 8: January 14, 2007 – first of 2007, count as 1.
+- Row 9: August 5, 2007 – second in 2007, total 2.
+- Row 10: September 16, 2007 – third in 2007, now 3.
+- Row 11: October 7, 2007 – fourth in 2007, so 4.
+- Row 12: June 15, 2008 – that's 2008.
+- Row 13: July 13, 2008 – another in 2008.
+- Rows 14 and 15: Both in 2009.
+- Row 16: February 6, 2011 – 2011.
+- Rows 17 and 18: 2013.
+
+Wait, let me make sure I didn't miss any. Let me go through each row again:
+
+Looking back at the dates:
+- 2001: rows 0 and 1 → not relevant for our comparison.
+- 2003: row 2
+- 2004: row 3
+- 2005: row 4
+- 2006: rows 5,6,7 → that's three tournaments in 2006.
+- 2007: rows 8,9,10,11 → four tournaments here.
+
+So, 2006 has 3 competitions and 2007 has 4. Therefore, 2007 had more competitions than 2006.
+</think>
+
+Final Answer: 2007
+===================Answer===================
+2007

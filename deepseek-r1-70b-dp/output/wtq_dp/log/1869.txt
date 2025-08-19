@@ -1,0 +1,86 @@
+===================Title===================
+Imparja Cup
+===================Table===================
+|    |   Year | State/Territory Men's Division   | State/Territory Women's Division   | Major Centres Division   | Community Division   | Women's Division   |
+|---:|-------:|:---------------------------------|:-----------------------------------|:-------------------------|:---------------------|:-------------------|
+|  0 |   2012 | Queensland                       | New South Wales                    | nan                      | nan                  | nan                |
+|  1 |   2012 | New South Wales                  | New South Wales                    | Darwin                   | Brothers in Arms     | Bush Potatoes      |
+|  2 |   2011 | New South Wales                  | New South Wales                    | Maranoa Murris           | Gap Angels           | Bush Potatoes      |
+|  3 |   2010 | Western Australia                | nan                                | nan                      | nan                  | nan                |
+|  4 |   2009 | Queensland                       | nan                                | Alkupitja                | Tangentyere          | New South Wales    |
+|  5 |   2008 | Queensland                       | nan                                | Katherine                | Cooktown             | New South Wales    |
+|  6 |   2007 | New South Wales                  | nan                                | Alkupitja                | Cat Tigers           | CGA Cougars        |
+|  7 |   2006 | Queensland                       | nan                                | Alice Springs            | Melville Island      | Darwin             |
+|  8 |   2005 | Queensland                       | nan                                | Alice Springs            | Alkupitja            | Darwin             |
+|  9 |   2004 | Queensland                       | nan                                | Alice Springs            | Normanton            | Tennant Creek      |
+| 10 |   2003 | New South Wales                  | nan                                | Darwin                   | nan                  | nan                |
+| 11 |   2002 | Northern Territory               | nan                                | Darwin                   | nan                  | nan                |
+| 12 |   2001 | Tasmania                         | nan                                | nan                      | nan                  | nan                |
+===================Question===================
+how many imparja cup victories has queensland had?
+===================Text===================
+<think>
+Alright, I need to figure out how many Imparja Cup victories Queensland has had based on the provided table. Let's start by understanding the structure of the table.
+
+The table has columns: Year, State/Territory Men's Division, State/Territory Women's Division, Major Centres Division, Community Division, and Women's Division. Each row represents data for different years from 2001 to 2012.
+
+Since the question is about Queensland's victories, I should focus on identifying the rows where Queensland appears in any of the division columns. However, it's important to clarify whether we're counting each victory per year across all divisions or just one overall victory per year.
+
+Looking at each row:
+
+- **2012 (Row 0):** Queensland is listed under State/Territory Men's Division.
+- **2012 (Row 1):** New South Wales is in both men's and women's, so no Queensland here.
+- **2011 (Row 2):** Same as above, New South Wales again.
+- **2010 (Row 3):** Western Australia in men's; not Queensland.
+- **2009 (Row 4):** Queensland in State/Territory Men's Division.
+- **2008 (Row 5):** Queensland again in the same category.
+- **2007 (Row 6):** New South Wales, so no.
+- **2006 (Row 7):** Queensland once more.
+- **2005 (Row 8):** Queensland listed under men's division.
+- **2004 (Row 9):** Same as above.
+- **2003 (Row 10) and 2002 (Row 11):** New South Wales and Northern Territory respectively, so no.
+- **2001 (Row 12):** Tasmania in men's; not Queensland.
+
+So, from 2012 to 2004, every year except where it's New South Wales or other states, Queensland appears in the State/Territory Men's Division. That gives us a count of victories each year they won that division.
+
+Let me list the years where Queensland is mentioned:
+
+- 2012: Yes
+- 2009: Yes
+- 2008: Yes
+- 2006: Yes
+- 2005: Yes
+- 2004: Yes
+
+Wait, row 0 and row 1 are both for 2012. Hmm, that seems like a mistake because in the same year, Queensland can't have two entries unless it's different divisions. But looking at row 0, it only has the men's division as Queensland and others as nan (not available). Row 1 for 2012 shows New South Wales in both men's and women's, so that might be a different division or an error.
+
+But focusing on rows where State/Territory Men's Division is Queensland, I see:
+
+- Row 0: 2012
+- Rows 4,5,7,8,9: corresponding to years 2009,2008,2006,2005,2004
+
+So that's a total of six times (including both 2012 entries). But since the table might have duplicate rows for 2012, which could be an error. If we consider each row as a separate entry regardless of year duplication, then maybe two victories in 2012? That doesn't make sense because a single year can't have multiple winners.
+
+Alternatively, perhaps the table has entries across different divisions per year, but since I'm only counting Queensland's men's division wins, the count would be:
+
+- Row 0: 2012
+- Row 4:2009
+- Row5:2008
+- Row7:2006
+- Row8:2005
+- Row9:2004
+
+That's six years. So Queensland has won six times.
+
+Wait, but checking each row:
+
+Row0 (2012) - Men's division: Queensland
+Row1 (2012) - Men's: New South Wales, so not.
+So only one 2012 victory for Queensland.
+
+Therefore, the count is 2012,2009,2008,2006,2005,2004 → 6 victories.
+</think>
+
+Final Answer: 6
+===================Answer===================
+6

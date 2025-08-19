@@ -1,0 +1,45 @@
+===================Title===================
+Lic. Adolfo López Mateos International Airport
+===================Table===================
+|    |   Rank | City                           | Passengers   |   Ranking | Airline                                |
+|---:|-------:|:-------------------------------|:-------------|----------:|:---------------------------------------|
+|  0 |      1 | Quintana Roo, Cancún          | 132,046      |       nan | Aeroméxico Connect, Interjet, Volaris |
+|  1 |      2 | Nuevo León, Monterrey         | 106,513      |       nan | Aeroméxico Connect, Interjet          |
+|  2 |      3 | Guerrero, Acapulco             | 56,069       |       nan | Aeroméxico Connect, Interjet          |
+|  3 |      4 | Jalisco, Guadalajara           | 52,584       |       nan | Aeroméxico Connect, Volaris           |
+|  4 |      5 | Jalisco, Puerto Vallarta       | 43,419       |         1 | Interjet                               |
+|  5 |      6 | Baja California Sur, Los Cabos | 37,526       |         1 | Interjet                               |
+|  6 |      7 | Guerrero, Ixtapa/Zihuatanejo   | 35,507       |       nan | Interjet                               |
+|  7 |      8 | Baja California, Tijuana       | 14,906       |       nan | Interjet                               |
+|  8 |      9 | Tabasco, Villahermosa          | 6,928        |         1 | VivaAerobus                            |
+|  9 |     10 | Tamaulipas, Tampico            | 3,619        |         1 | VivaAerobus                            |
+===================Question===================
+what is the only airline to service baja california, tijuana?
+===================Text===================
+<think>
+Alright, so I need to figure out which airline services Baja California, Tijuana based on the table provided. Let me go through this step by step.
+
+First, I'll look at the table and find the row where the city is Baja California, Tijuana. Scanning through the rows:
+
+- Row 0: Quintana Roo, Cancún
+- Row 1: Nuevo León, Monterrey
+- Row 2: Guerrero, Acapulco
+- Row 3: Jalisco, Guadalajara
+- Row 4: Jalisco, Puerto Vallarta
+- Row 5: Baja California Sur, Los Cabos
+- Row 6: Guerrero, Ixtapa/Zihuatanejo
+- Row 7: Baja California, Tijuana
+- Rows 8 and 9 are other cities.
+
+Okay, so row 7 is the one for Baja California, Tijuana. Now, looking at the "Airline" column for this row, it says "Interjet". But wait, I should check if any other rows mention both Baja California, Tijuana and another airline.
+
+I'll go through each row to see if there's any mention of Baja California, Tijuana in the City column again. It seems that row 7 is the only one with that city. The other mentions of Baja are for Baja California Sur, Los Cabos (row 5), which is a different location.
+
+So, focusing on row 7, the airline listed there is Interjet. Now, I should check if any other airlines might also service this city. Sometimes, multiple airlines serve the same route or airport, but in this table, each row lists specific airlines for that particular city and passenger count.
+
+Looking at other rows, I don't see Baja California, Tijuana mentioned again, so there's no overlap with other airlines listed elsewhere. Therefore, based on this table, Interjet is the only airline servicing Baja California, Tijuana.
+</think>
+
+Final Answer: Interjet
+===================Answer===================
+Interjet

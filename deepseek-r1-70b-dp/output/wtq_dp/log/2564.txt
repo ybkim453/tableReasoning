@@ -1,0 +1,45 @@
+===================Title===================
+List of Kentucky Derby broadcasters
+===================Table===================
+|    |   Year | Network   | Race caller    | Color commentator               | Reporters        | Trophy Presentation   |
+|---:|-------:|:----------|:---------------|:--------------------------------|:-----------------|:----------------------|
+|  0 |   1959 | CBS       | Fred Capossela | Bryan Field and Chris Schenkel  | nan              | Chris Schenkel        |
+|  1 |   1958 | CBS       | Fred Capossela | Bryan Field                     | nan              | nan                   |
+|  2 |   1957 | CBS       | Fred Capossela | Bryan Field                     | nan              | nan                   |
+|  3 |   1956 | CBS       | Fred Capossela | Bryan Field                     | nan              | nan                   |
+|  4 |   1955 | CBS       | Fred Capossela | Phil Sutterfield and Win Elliot | nan              | nan                   |
+|  5 |   1954 | CBS       | Bryan Field    | Mel Allen                       | nan              | Bill Corum            |
+|  6 |   1953 | CBS       | Bryan Field    | Mel Allen                       | Phil Sutterfield | Phil Sutterfield      |
+|  7 |   1952 | CBS       | Bryan Field    | Sam Renick                      | nan              | nan                   |
+===================Question===================
+how many times is bryan field listed as a color commentator?
+===================Text===================
+<think>
+Okay, so I need to figure out how many times Bryan Field is listed as a color commentator in the given table about Kentucky Derby broadcasters from 1959 back to 1952.
+
+First, I should look at each row of the table and check the "Color commentator" column for Bryan Field's name. Let me go through them one by one.
+
+Starting with Year 1959 (row 0): The color commentators are listed as Bryan Field and Chris Schenkel. So that's one occurrence where Bryan Field is a color commentator.
+
+Next, Year 1958 (row 1): Color commentator is only Bryan Field. That's the second time.
+
+Year 1957 (row 2): Again, it's just Bryan Field. Third instance.
+
+Same for Year 1956 (row 3): Bryan Field alone as color commentator. Fourth time.
+
+Now, moving to Year 1955 (row 4): Here, the color commentators are Phil Sutterfield and Win Elliot. No Bryan Field here. So no count in this row.
+
+Year 1954 (row 5): Color commentator is Mel Allen. Still no Bryan Field.
+
+Going back to Year 1953 (row 6): The color commentator is still Mel Allen. Not Bryan.
+
+Finally, Year 1952 (row 7): Color commentator listed is Sam Renick. So again, no Bryan Field here.
+
+So adding up the instances where Bryan Field was a color commentator: Years 1959, 1958, 1957, and 1956. That's four times in total.
+</think>
+
+Bryan Field is listed as a color commentator in the years 1959, 1958, 1957, and 1956.
+
+Final Answer: 4
+===================Answer===================
+4

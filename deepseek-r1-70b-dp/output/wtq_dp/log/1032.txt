@@ -1,0 +1,73 @@
+===================Title===================
+1996 Australian Sports Sedan Championship
+===================Table===================
+|    |   Position | Driver          |   No. | Car                      | Entrant           | Lak.   | Ora.   | San.   | Phi.   | Total   |
+|---:|-----------:|:----------------|------:|:-------------------------|:------------------|:-------|:-------|:-------|:-------|:--------|
+|  0 |          1 | John Briggs     |     9 | Honda Prelude Chevrolet  | John Briggs       | 42     | 42     | 42     | 42     | 168     |
+|  1 |          2 | Kerry Baily     |    18 | Toyota Supra Chevrolet   | Kerry Baily       | 38     | 38     | 36     | 38     | 150     |
+|  2 |          3 | James Phillip   |    55 | Honda Prelude Chevrolet  | James Phillip     | 26     | 28     | 28     | 30     | 112     |
+|  3 |          4 | Mick Monterosso |     2 | Ford Escort RS2000       | Mick Monterosso   | -      | 34     | 36     | 34     | 104     |
+|  4 |          5 | Bob Jolly       |     3 | Holden VS Commodore      | Bob Jolly         | -      | 28     | 16     | 32     | 76      |
+|  5 |          6 | Danny Osborne   |   nan | Mazda RX-7               | nan               | 26     | 10     | 30     | -      | 66'     |
+|  6 |          7 | Mike Imrie      |     4 | Saab                     | Imrie Motor Sport | 23     | 11     | -      | 28     | 62      |
+|  7 |          8 | Mark Trenoweth  |   nan | Jaguar                   | nan               | 33     | 24     | -      | -      | 57      |
+|  8 |          9 | Ivan Mikac      |    42 | Mazda RX-7               | Ivan Mikac        | -      | -      | 25     | 26     | 51      |
+|  9 |         10 | Des Wall        |   nan | Toyota Supra             | nan               | 15     | 32     | -      | -      | 47      |
+| 10 |         11 | Kevin Clark     |   116 | Ford Mustang GT          | Kevin Clark       | -      | -      | 23     | 23     | 46      |
+| 11 |         12 | Peter O'Brien   |    17 | Holden VL Commodore      | O'Brien Aluminium | -      | 11     | 29     | -      | 40      |
+| 12 |         13 | Chris Fing      |   nan | Chevrolet Monza          | nan               | 29     | -      | -      | -      | 29      |
+| 13 |         14 | Brian Smith     |   nan | Alfa Romeo GTV Chevrolet | nan               | -      | 28     | -      | -      | 28      |
+| 14 |         15 | Gary Rowe       |    47 | Nissan Stanza            | Gary Rowe         | -      | -      | 21     | -      | 21      |
+| 15 |        nan | Domenic Beninca |   nan | nan                      | nan               | -      | -      | -      | 21     | 21      |
+| 16 |         17 | Phil Crompton   |    49 | Ford EA Falcon           | Phil Crompton     | 17     | -      | -      | -      | 17      |
+| 17 |         18 | Allan McCarthy  |   nan | Alfa Romeo Alfetta       | nan               | 14     | -      | -      | -      | 14      |
+| 18 |         19 | Chris Donnelly  |   nan | nan                      | nan               | 12     | -      | -      | -      | 12      |
+| 19 |        nan | Paul Barrett    |   nan | nan                      | nan               | -      | -      | -      | 12     | 12      |
+| 20 |         21 | Brett Francis   |   nan | nan                      | nan               | 11     | -      | -      | -      | 11      |
+| 21 |         22 | Shane Eklund    |   nan | nan                      | nan               | 10     | -      | -      | -      | 10      |
+| 22 |        nan | Craig Wildridge |   nan | nan                      | nan               | -      | 10     | -      | -      | 10      |
+| 23 |        nan | Ron O'Brien     |   nan | nan                      | nan               | -      | -      | -      | 10     | 10      |
+===================Question===================
+what is the total number of points earned by the top 5 drivers?
+===================Text===================
+<think>
+Alright, let's tackle this problem step by step. The question is asking for the total number of points earned by the top 5 drivers in the 1996 Australian Sports Sedan Championship based on the provided table.
+
+First, I need to identify who the top 5 drivers are. Looking at the "Position" column, the top 5 positions are 1st, 2nd, 3rd, 4th, and 5th. 
+
+Now, for each of these positions, I should find their respective total points from the "Total" column.
+
+- Position 1: John Briggs has 168 points.
+- Position 2: Kerry Baily has 150 points.
+- Position 3: James Phillip has 112 points.
+- Position 4: Mick Monterosso has 104 points.
+- Position 5: Bob Jolly has 76 points.
+
+Next, I need to add these totals together. Let's do the math:
+
+168 (John) + 150 (Kerry) = 318
+
+318 + 112 (James) = 430
+
+430 + 104 (Mick) = 534
+
+534 + 76 (Bob) = 610
+
+So, adding up all these points gives a total of 610 points for the top 5 drivers.
+
+I should double-check each addition to ensure there are no mistakes. Let me verify:
+
+168 + 150 is indeed 318.
+
+318 + 112 equals 430 as 318+100=418 and 418+12=430.
+
+430 + 104: 430+100=530, then +4 gives 534.
+
+534 + 76: 534+70=604, then +6 is 610. That checks out.
+
+Therefore, the total points earned by the top 5 drivers are 610.
+</think>
+
+Final Answer: 610
+===================Answer===================
+610

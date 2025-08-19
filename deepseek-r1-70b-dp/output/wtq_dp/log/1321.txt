@@ -1,0 +1,112 @@
+===================Title===================
+JumpStart Adventures 3rd Grade: Mystery Mountain
+===================Table===================
+|    | Subject      | Robot's Name                  | Who?                    | When?                  | Where?                 | Occupation            |
+|---:|:-------------|:------------------------------|:------------------------|:-----------------------|:-----------------------|:----------------------|
+|  0 | Solar System | Cosmo-Bot                     | Copernicus              | 1531                   | Poland                 | Cosmonaut             |
+|  1 | Olympics     | Rhonda Robot                  | Greeks                  | 776 B.C.               | Greece                 | Beauty queen          |
+|  2 | Basketball   | Danny Defrost-Bot             | James Naismith          | 1891                   | United States          | Snowman               |
+|  3 | Nursing      | Dr. Bug-Bot                   | Florence Nightengale    | 1860                   | England                | Doctor                |
+|  4 | Scuba Gear   | Flip the High-Diving Robot    | Jacques Cousteau        | 1946                   | France                 | Diver                 |
+|  5 | Helicopter   | Amelia Air-Bot                | Leonardo da Vinci       | 1483                   | Italy                  | Pilot                 |
+|  6 | Corn Flakes  | Chef Boy-Robot                | William Kellogg         | 1894                   | Battle Creek, Michigan | Cook                  |
+|  7 | Radium       | Miss Battery-Bot              | Marie Curie             | 1898                   | France                 | Battery Lady          |
+|  8 | Chewing Gum  | Bubble-Bot                    | Mayans                  | 400                    | Mexico                 | Bubble Man            |
+|  9 | Painting     | Pierro-Bot                    | Stone-Age Humans        | 35,000 B.C.            | Europe                 | Clown/Artist          |
+| 10 | Phonograph   | Slide the Heavy-Metal Robot   | Thomas Edison           | 1877                   | New Jersey             | Rock Star             |
+| 11 | Paper        | Noshi Origami                 | Ts'ai Lun               | 105                    | China                  | Origami Maker         |
+| 12 | Round Earth  | Vasco da Robot                | Ferdinand Magellan      | 1522                   | Spain                  | Early Sailor          |
+| 13 | Dynamite     | Robby Robot                   | Alfred Nobel            | 1866                   | Sweden                 | Prankster             |
+| 14 | Microscope   | Slobot                        | Antonie van Leeuwenhoek | 1674                   | The Netherlands        | Dirty Person          |
+| 15 | Writing      | Eraser-Bot                    | Sumerians               | 3,500 B.C.             | Middle East            | Pencil Man            |
+| 16 | Sausage      | Sock-Bot                      | Babylonians             | 3,000 B.C.             | Middle East            | Sock Man              |
+| 17 | Bicycle      | Booster-Bot                   | Karl von Drais          | 1816                   | Germany                | Rocket Man            |
+| 18 | Wheel        | Rollin' Road-Bot              | Sumerians               | 3,000 B.C.             | Middle East            | Race Starter          |
+| 19 | Germs        | Roast-Bot                     | Louis Pasteur           | 1865                   | France                 | Firefighter           |
+| 20 | Boomerang    | Oswald the Mailman Robot      | Aborigines              | 40,000 years ago       | Australia              | Mailman               |
+| 21 | Coins        | Verna the Vend-Bot            | Lydians                 | 600 B.C.               | Turkey                 | Vending Machine       |
+| 22 | Tools        | Hank the Handyman Robot       | Stone-Age Humans        | 21⁄2 million years ago | Africa                 | Mechanic              |
+| 23 | Saxophone    | Bongo-Bot the Six-Armed Robot | Antoine-Joseph Sax      | 1846                   | France                 | Six-Armed Drum Player |
+| 24 | Toilet       | Brunwella the Bombshell       | Minoans                 | 2000 B.C.              | Crete                  | Demolisher            |
+===================Question===================
+how many robots are from before the year 1 ad?
+===================Text===================
+<think>
+Alright, so I need to figure out how many robots in the given table are from before 1 AD. Let me start by understanding what the table represents. Each row lists a robot with various attributes like Subject, Robot's Name, Who they're associated with (the person or culture), When (the year), Where (the place), and their Occupation.
+
+The key here is to focus on the "When?" column because that will tell me the time period each robot is from. I need to count how many of these robots have a year before 1 AD, which is essentially looking for years BC or BCE. 
+
+Let me go through each row one by one and check the "When?" value:
+
+0: 1531 - This is after 1 AD.
+1: 776 B.C. - Before 1 AD.
+2: 1891 - After.
+3: 1860 - After.
+4: 1946 - After.
+5: 1483 - After.
+6: 1894 - After.
+7: 1898 - After.
+8: 400 - This is during the Roman Empire, so after 1 AD? Wait, no, 400 AD is after. But looking at it again, "before 1 AD" would include BC years. So 400 BC would be before, but the year listed here is 400, which I think refers to AD unless specified as BC. Since it's written as 400 B.C., but in this case, the entry says 400 without BC, so maybe I need clarification.
+
+Wait, looking again at row 8: Mayans, When? 400. It doesn't specify B.C., so perhaps it's 400 AD, which is after 1 AD.
+
+Row 9: 35,000 B.C. - That's way before.
+10: 1877 - After.
+11: 105 - Since it's just 105 without BC, I think that's 105 AD, which is after.
+12: 1522 - After.
+13: 1866 - After.
+14: 1674 - After.
+15: 3,500 B.C. - Before.
+16: 3,000 B.C. - Before.
+17: 1816 - After.
+18: 3,000 B.C. - Before.
+19: 1865 - After.
+20: 40,000 years ago - That's way before.
+21: 600 B.C. - Before.
+22: 2½ million years ago - Before.
+23: 1846 - After.
+24: 2000 B.C. - Before.
+
+Now, let me count the ones that are before 1 AD:
+
+Row 1: Yes (776 B.C.)
+Row 8: No (400 is likely AD)
+Row 9: Yes
+Row 15: Yes
+Row 16: Yes
+Row 18: Yes
+Row 20: Yes
+Row 21: Yes
+Row 22: Yes
+Row 24: Yes
+
+Let me count these:
+
+1. Row 1
+2. Row 9
+3. Row 15
+4. Row 16
+5. Row 18
+6. Row 20
+7. Row 21
+8. Row 22
+9. Row 24
+
+Wait, that's 9 robots. But let me double-check each:
+
+Row 1: Greeks - 776 B.C. (Yes)
+Row 9: Stone-Age Humans - 35,000 B.C. (Yes)
+Row 15: Sumerians - 3,500 B.C. (Yes)
+Row 16: Babylonians - 3,000 B.C. (Yes)
+Row 18: Sumerians again - 3,000 B.C. (Yes)
+Row 20: Aborigines - 40,000 years ago (Yes)
+Row 21: Lydians - 600 B.C. (Yes)
+Row 22: Stone-Age Humans - 2½ million years ago (Yes)
+Row 24: Minoans - 2000 B.C. (Yes)
+
+That's a total of 9 robots from before 1 AD.
+</think>
+
+Final Answer: 9
+===================Answer===================
+8

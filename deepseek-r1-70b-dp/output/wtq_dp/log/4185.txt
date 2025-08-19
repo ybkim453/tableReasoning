@@ -1,0 +1,112 @@
+===================Title===================
+Solar eclipse of May 20, 2012
+===================Table===================
+|    | May 20-21\n118   | March 9\n120   | December 25-26\n122   | October 13-14\n124   | August 1-2\n126   |
+|---:|:-----------------|:---------------|:----------------------|:---------------------|:------------------|
+|  0 | May 21, 1993     | March 9, 1997  | December 25, 2000     | October 14, 2004     | August 1, 2008    |
+|  1 | 128              | 130            | 132                   | 134                  | 136               |
+|  2 | May 20, 2012     | March 9, 2016  | December 26, 2019     | October 14, 2023     | August 2, 2027    |
+|  3 | 138              | 140            | 142                   | 144                  | 146               |
+|  4 | May 21, 2031     | March 9, 2035  | December 26, 2038     | October 14, 2042     | August 2, 2046    |
+|  5 | 148              | 150            | 152                   | 154                  | 156               |
+|  6 | May 20, 2050     | March 9, 2054  | December 26, 2057     | October 13, 2061     | August 2, 2065    |
+===================Question===================
+what is the last date charted?
+===================Text===================
+<think>
+Okay, so I'm looking at this table about solar eclipses, specifically the one on May 20, 2012. The table seems to be organized into columns and rows with some numbers and dates. 
+
+First, I need to figure out what each part of the table represents. The top row has dates like "May 20-21" followed by numbers like 118, 120, etc., each increasing by two. Then there are sub-rows that list specific years: for example, under the first column (which is May 20-21), there's May 21, 1993; then it jumps to May 20, 2012; next is May 21, 2031; and so on.
+
+I think each column represents a series of eclipses occurring every 18 years or so because the dates progress that way. The numbers like 118 might be some kind of index or identifier for the eclipse series.
+
+The question asks for the last date charted in this table. So I need to look through all the entries and find the latest (most future) date listed.
+
+Looking at each column:
+
+1. May 20-21: Dates go up to May 20, 2050.
+2. March 9: The latest is March 9, 2035.
+Wait, no, actually looking again, March 9 goes up to March 9, 2054?
+No, in the table, let's check each row:
+
+Looking at row 6 (the bottom one):
+
+- May 20, 2012
+- March 9, 2016
+- December 26, 2019
+- October 14, 2023
+- August 2, 2027
+
+Wait, no, the rows are horizontal. Wait, actually, the table is structured with columns for each eclipse series.
+
+Wait, perhaps I need to look column by column. Let's take the first column:
+
+First column (May 20-21):
+- May 21, 1993
+- Then under it, number 128
+- Next row: May 20, 2012
+- Then number 138
+- Then May 21, 2031
+- Number 148
+- Then May 20, 2050
+
+So in this column, the last date is May 20, 2050.
+
+Second column (March 9):
+- March 9, 1997
+- Then 130
+- Next: March 9, 2016
+- 140
+- March 9, 2035
+- 150
+- March 9, 2054
+
+So the last date here is March 9, 2054.
+
+Third column (December 25-26):
+- Dec 25, 2000
+- Number 132
+- Dec 26, 2019
+- 142
+- Dec 26, 2038
+- 152
+- Dec 26, 2057
+
+So last date: Dec 26, 2057.
+
+Fourth column (October 13-14):
+- Oct 14, 2004
+- Number 134
+- Oct 14, 2023
+- 144
+- Oct 14, 2042
+- 154
+- Oct 13, 2061
+
+Wait, in row 6, the last entry is October 13, 2061.
+
+Fifth column (August 1-2):
+- Aug 1, 2008
+- Number 136
+- Aug 2, 2027
+- 146
+- Aug 2, 2046
+- 156
+- Aug 2, 2065
+
+So the last entry in this column is August 2, 2065.
+
+Now, comparing all these last dates across columns:
+
+- May: 2050
+- March: 2054
+- December: 2057
+- October: 2061
+- August: 2065
+
+So the very last date overall would be August 2, 2065.
+</think>
+
+Final Answer: August 2, 2065
+===================Answer===================
+May 20, 2069

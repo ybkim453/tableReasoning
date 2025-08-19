@@ -1,0 +1,48 @@
+===================Title===================
+1955 NFL Draft
+===================Table===================
+|    |   Pick # | NFL Team                             | Player            | Position    | College      |
+|---:|---------:|:-------------------------------------|:------------------|:------------|:-------------|
+|  0 |        1 | Baltimore Colts (Lottery bonus pick) | George Shaw       | Quarterback | Oregon       |
+|  1 |        2 | Chicago Cardinals                    | Max Boydston      | End         | Oklahoma     |
+|  2 |        3 | Baltimore Colts                      | Alan Ameche       | Fullback    | Wisconsin    |
+|  3 |        4 | Washington Redskins                  | Ralph Guglielmi   | Quarterback | Notre Dame   |
+|  4 |        5 | Green Bay Packers                    | Tom Bettis        | Guard       | Purdue       |
+|  5 |        6 | Pittsburgh Steelers                  | Frank Varrichione | Tackle      | Notre Dame   |
+|  6 |        7 | Los Angeles Rams                     | Larry Morris      | Center      | Georgia Tech |
+|  7 |        8 | New York Giants                      | Joe Heap          | Halfback    | Notre Dame   |
+|  8 |        9 | Philadelphia Eagles                  | Dick Bielski      | Fullback    | Maryland     |
+|  9 |       10 | San Francisco 49ers                  | Dickey Moegle     | Halfback    | Rice         |
+| 10 |       11 | Chicago Bears                        | Ron Drzewiecki    | Halfback    | Marquette    |
+| 11 |       12 | Detroit Lions                        | Dave Middleton    | Halfback    | Auburn       |
+| 12 |       13 | Cleveland Browns                     | Kurt Burris       | Center      | Oklahoma     |
+===================Question===================
+how many fullback positions were picked?
+===================Text===================
+<think>
+Alright, let me try to figure out how many fullback positions were picked in the 1955 NFL Draft based on this table. So first, I need to understand what the question is asking. It's specifically about the number of players selected who play the position of fullback.
+
+Looking at the table, each row represents a draft pick with details like the team, player name, and their position. My task is to go through each entry and count how many times "Fullback" appears in the Position column.
+
+Starting from the top:
+
+1. The first pick is George Shaw, a Quarterback. Not a fullback.
+2. Second pick: Max Boydston, an End. Nope.
+3. Third pick: Alan Ameche, listed as Fullback. That's one.
+4. Fourth pick: Ralph Guglielmi, another Quarterback.
+5. Fifth pick: Tom Bettis, Guard.
+6. Sixth pick: Frank Varrichione, Tackle.
+7. Seventh pick: Larry Morris, Center.
+8. Eighth pick: Joe Heap, Halfback (different from Fullback).
+9. Ninth pick: Dick Bielski, Fullback. That's two now.
+10. Tenth pick: Dickey Moegle, Halfback again.
+11. Eleventh pick: Ron Drzewiecki, another Halfback.
+12. Twelfth pick: Dave Middleton, yet another Halfback.
+13. Thirteenth pick: Kurt Burris, Center.
+
+So, scanning through each position, I found two entries where the Position is "Fullback": Alan Ameche and Dick Bielski. That means there were 2 fullbacks picked in this draft according to the table provided.
+</think>
+
+Final Answer: 2
+===================Answer===================
+2

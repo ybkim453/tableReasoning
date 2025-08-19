@@ -1,0 +1,81 @@
+===================Title===================
+Abraham Lincoln High School (Los Angeles)
+===================Table===================
+|    | School                                     |   2007 |   2008 |   2009 |   2010 |   2011 |
+|---:|:-------------------------------------------|-------:|-------:|-------:|-------:|-------:|
+|  0 | Francisco Bravo Medical Magnet High School |    807 |    818 |    815 |    820 |    832 |
+|  1 | Marc and Eva Stern Math and Science School |    718 |    792 |    788 |    788 |    809 |
+|  2 | Oscar De La Hoya Animo Charter High School |    662 |    726 |    709 |    710 |    744 |
+|  3 | James A. Garfield High School              |    553 |    597 |    593 |    632 |    705 |
+|  4 | Abraham Lincoln High School                |    594 |    609 |    588 |    616 |    643 |
+|  5 | Woodrow Wilson High School                 |    582 |    585 |    600 |    615 |    636 |
+|  6 | Theodore Roosevelt High School             |    557 |    551 |    576 |    608 |    nan |
+|  7 | Thomas Jefferson High School               |    457 |    516 |    514 |    546 |    546 |
+|  8 | Santee Education Complex                   |    nan |    502 |    521 |    552 |    565 |
+===================Question===================
+what schools have consecutively raised their api year after year?
+===================Text===================
+<think>
+Alright, I need to figure out which schools have consecutively increased their API scores every year from 2007 to 2011 based on the provided table.
+
+First, let me understand what "consecutively raised" means. It means that each subsequent year's score is higher than the previous one without any dips or drops in between. So I'll check each school's row and see if their API numbers go up every year.
+
+Starting with Francisco Bravo Medical Magnet High School:
+- 2007: 807
+- 2008: 818 (increased)
+- 2009: 815 (decreased from 818)
+So, there's a drop in 2009. Therefore, they don't qualify.
+
+Next, Marc and Eva Stern Math and Science School:
+- 2007: 718
+- 2008: 792 (increased)
+- 2009: 788 (slight decrease)
+The increase isn't consecutive as it drops in 2009. So, they're out.
+
+Oscar De La Hoya Animo Charter High School:
+- 2007: 662
+- 2008: 726 (up)
+- 2009: 709 (down)
+Again, a drop in 2009 means they don't make the cut.
+
+James A. Garfield High School:
+- 2007: 553
+- 2008: 597 (up)
+- 2009: 593 (slight down)
+Nope, another dip in 2009.
+
+Abraham Lincoln High School (the focus):
+- 2007: 594
+- 2008: 609 (up)
+- 2009: 588 (down)
+So, they don't qualify either because of the drop in 2009.
+
+Woodrow Wilson High School:
+- 2007: 582
+- 2008: 585 (slight up)
+- 2009: 600 (up again)
+- 2010: 615 (another increase)
+- 2011: 636 (further up)
+This looks consistent. Each year's score is higher than the last, so they qualify.
+
+Theodore Roosevelt High School:
+- 2007: 557
+- 2008: 551 (down)
+Already fails in 2008.
+
+Thomas Jefferson High School:
+- 2007: 457
+- 2008: 516 (up)
+- 2009: 514 (slight down)
+Nope, a dip in 2009.
+
+Santee Education Complex:
+- Starts with NaN in 2007, so missing data.
+Even if we ignore 2007, their scores go from 502 to 521 (2010) and then 552 to 565. But since the first year is missing, it's not a full consecutive run from 2007.
+
+So, after checking each school, only Woodrow Wilson High School has API scores that increased every year without any decreases.
+</think>
+
+Final Answer: Woodrow Wilson High School
+===================Answer===================
+Woodrow Wilson High School,Santee Education Complex

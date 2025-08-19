@@ -1,0 +1,39 @@
+===================Title===================
+Charles Henderson High School
+===================Table===================
+|    |   Year |   Team Record\nW |   Team Record\nL | Playoffs                |
+|---:|-------:|-----------------:|-----------------:|:------------------------|
+|  0 |   2001 |                7 |                2 | 3rd Qualifier, Region 2 |
+|  1 |   2002 |                8 |                1 | 2nd Qualifier, Region 2 |
+|  2 |   2003 |                8 |                1 | 2nd Qualifier, Region 2 |
+|  3 |   2004 |                7 |                2 | 2nd Qualifier, Region 2 |
+|  4 |   2005 |                3 |                5 | Did Not Make Playoffs   |
+|  5 |   2006 |                5 |                4 | 4th Qualifier, Region 2 |
+|  6 |   2007 |               13 |                1 | 1st Qualifier, Region 2 |
+|  7 |   2008 |                7 |                4 | 2nd Qualifier, Region 2 |
+|  8 |   2009 |                5 |                5 | Did Not Make Playoffs   |
+|  9 |   2010 |                5 |                5 | Did Not Make Playoffs   |
+===================Question===================
+was there only one time when their wins and losses are the same?
+===================Text===================
+<think>
+Alright, so I need to determine if there was only one time when Charles Henderson High School's wins and losses were the same based on the provided table. Let me go through this step by step.
+
+First, I'll look at each year from 2001 to 2010 and check the number of wins (W) and losses (L). I'm searching for instances where W equals L.
+
+Starting with the year 2001: W=7, L=2. 7≠2, so that's not a match.
+Next, 2002: W=8, L=1. 8≠1, no good.
+2003: W=8, L=1 again; same as above.
+2004: W=7, L=2. Still not equal.
+Moving on to 2005: W=3, L=5. Nope.
+2006: W=5, L=4. Not the same.
+Now, 2007: W=13, L=1. Definitely not matching.
+In 2008: W=7, L=4. Still no luck.
+Looking at 2009 and 2010: Both years have W=5 and L=5. Ah, here we go! So in these two consecutive years, their wins and losses were equal.
+
+Wait a second, the question asks if there was only one time when this happened. But according to my analysis, it occurred twice—in 2009 and 2010. That means the answer is no; there wasn't just one instance but actually two.
+</think>
+
+Final Answer: 2009, 2010
+===================Answer===================
+no

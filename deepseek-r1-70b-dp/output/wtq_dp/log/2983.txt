@@ -1,0 +1,49 @@
+===================Title===================
+Sandro Rosell
+===================Table===================
+|    |   Rank | Player            | From      | Transfer Fee\n(€ millions)   |   Year |
+|---:|-------:|:------------------|:----------|:-----------------------------|-------:|
+|  0 |      1 | Neymar            | Santos FC | 86.0                         |   2013 |
+|  1 |      2 | Cesc Fàbregas    | Arsenal   | 29+5(variables)              |   2011 |
+|  2 |      3 | Alexis Sánchez   | Udinese   | 26+11(add ons)               |   2011 |
+|  3 |      4 | Javier Mascherano | Liverpool | 26.8                         |   2010 |
+|  4 |      5 | Alex Song         | Arsenal   | 19.0                         |   2012 |
+|  5 |      6 | Jordi Alba        | Valencia  | 14.0                         |   2012 |
+|  6 |      7 | Adriano           | Sevilla   | 13.5                         |   2010 |
+===================Question===================
+first in what year did a player's transfer fee first exceed 20 million?
+===================Text===================
+<think>
+Okay, so I need to figure out from which year a player's transfer fee first exceeded 20 million euros based on the given table. Let me look at the table again.
+
+The table lists several players with their respective transfer fees and the years they were transferred. The columns are Rank, Player, From (the club they came from), Transfer Fee in millions of euros, and Year.
+
+First, I should go through each player's transfer fee to see when it first went above 20 million.
+
+Starting from the top:
+
+1. Neymar: Transfer fee is 86.0 million in 2013.
+2. Cesc Fabregas: 29 + 5 variables in 2011. So that's 34 million, which is over 20.
+3. Alexis Sanchez: 26 +11 add ons =37 million in 2011.
+4. Javier Mascherano: 26.8 million in 2010 – this is just above 26.8, so over 20 million.
+5. Alex Song:19.0 million in 2012 – that's under 20.
+6. Jordi Alba:14.0 million in 2012 – also under 20.
+7. Adriano:13.5 million in 2010 – under 20.
+
+Wait, so looking at the years:
+
+- Mascherano's transfer was in 2010 with a fee of 26.8 million, which is over 20.
+- Then in 2011, both Cesc Fabregas and Alexis Sanchez had fees exceeding 20 million as well.
+
+But I need to find the first year when this happened. So looking at the earliest occurrence:
+
+Mascherano's transfer was in 2010 with a fee of 26.8, which is over 20 million. That seems to be the first instance before 2011 and 2013.
+
+So the answer should be 2010.
+</think>
+
+The first year when a player's transfer fee exceeded 20 million euros was 2010.
+
+Final Answer: 2010
+===================Answer===================
+2010

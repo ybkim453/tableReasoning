@@ -1,0 +1,28 @@
+===================Title===================
+United States House of Representatives elections in Colorado, 2008
+===================Table===================
+|    |   District | Incumbent        | 2008 Status   | Democratic    | Republican       |
+|---:|-----------:|:-----------------|:--------------|:--------------|:-----------------|
+|  0 |          1 | Diana DeGette    | Re-election   | Diana DeGette | George Lilly     |
+|  1 |          2 | Mark Udall       | Open          | Jared Polis   | Scott Starin     |
+|  2 |          3 | John Salazar     | Re-election   | John Salazar  | Wayne Wolf       |
+|  3 |          4 | Marilyn Musgrave | Re-election   | Betsy Markey  | Marilyn Musgrave |
+|  4 |          5 | Doug Lamborn     | Re-election   | Hal Bidlack   | Doug Lamborn     |
+|  5 |          6 | Tom Tancredo     | Open          | Hank Eng      | Mike Coffman     |
+|  6 |          7 | Ed Perlmutter    | Re-election   | Ed Perlmutter | John W. Lerew    |
+===================Question===================
+list each district having an open election
+===================Text===================
+<think>
+Okay, so I need to figure out which districts had an open election in the 2008 United States House of Representatives elections in Colorado based on the provided table. Let me start by looking at each row and checking the "2008 Status" column because that's where it should indicate whether the incumbent was re-election or if the seat was open.
+
+Looking at the first district, Diana DeGette is running for re-election. So this one isn't open. Next, district 2 shows Mark Udall with an open status, meaning he's not running again, so that's an open seat. District 3 has John Salazar seeking re-election, so it's not open.
+
+Moving to district 4, Marilyn Musgrave is also re-electioning, so no open there. Then in district 5, Doug Lamborn is re-elected, not open. Now, district 6 shows Tom Tancredo with an open status, which means he isn't running again, making it another open seat.
+
+Lastly, district 7 has Ed Perlmutter re-electioning, so that's not open either. So from the table, only districts 2 and 6 are open elections.
+</think>
+
+Final Answer: District 2, District 6
+===================Answer===================
+2,6

@@ -1,0 +1,32 @@
+===================Title===================
+2000 Chicago Bears season
+===================Table===================
+|    |   Round |   Pick | Name           | Position   | College            |
+|---:|--------:|-------:|:---------------|:-----------|:-------------------|
+|  0 |       1 |      9 | Brian Urlacher | S          | New Mexico         |
+|  1 |       2 |     39 | Mike Brown     | S          | Nebraska           |
+|  2 |       3 |     69 | Dez White      | WR         | Georgia Tech       |
+|  3 |       3 |     87 | Dustin Lyman   | TE         | Wake Forest        |
+|  4 |       4 |    125 | Reggie Austin  | DB         | Wake Forest        |
+|  5 |       6 |    170 | Frank Murphy   | WR         | Kansas State       |
+|  6 |       6 |    174 | Paul Edinger   | K          | Michigan State     |
+|  7 |       7 |    223 | James Cotton   | DE         | Ohio State         |
+|  8 |       7 |    254 | Michael Green  | S          | Northwestern State |
+===================Question===================
+what was the total number of players drafted by the chicago bears in 2000?
+===================Text===================
+<think>
+Okay, so I need to figure out how many players the Chicago Bears drafted in 2000 based on the table provided. Let me look at the table again.
+
+The table has several rows, each representing a different draft pick. The columns are Round, Pick number, Name, Position, and College. Each row corresponds to one player selected by the Bears in that year's draft.
+
+Starting from the top, I see there are 9 entries listed. Each entry has a unique "Pick" number, which indicates they were all drafted. So, each row represents one player. 
+
+I'll count them: Round 1, Pick 9; Round 2, Pick 39; Round 3, two picks (69 and 87); Round 4, Pick 125; Round 6, two picks (170 and 174); and Round 7, two picks (223 and 254). That adds up to a total of 9 players.
+
+Wait, just to make sure I didn't miss any. Let me count each row: the first is 0 indexed as 0, then 1 through 8, so that's 9 rows in total. Each row is one player. So yes, it looks like they drafted 9 players in total.
+</think>
+
+Final Answer: 9
+===================Answer===================
+9

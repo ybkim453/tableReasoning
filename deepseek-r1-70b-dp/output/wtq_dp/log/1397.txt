@@ -1,0 +1,58 @@
+===================Title===================
+1990 British Grand Prix
+===================Table===================
+|    | Pos   |   No | Driver             | Constructor       |   Laps | Time/Retired   |   Grid |   Points |
+|---:|:------|-----:|:-------------------|:------------------|-------:|:---------------|-------:|---------:|
+|  0 | 1     |    1 | Alain Prost        | Ferrari           |     64 | 1:18:30.999    |      5 |        9 |
+|  1 | 2     |    5 | Thierry Boutsen    | Williams-Renault  |     64 | + 39.092       |      4 |        6 |
+|  2 | 3     |   27 | Ayrton Senna       | McLaren-Honda     |     64 | + 43.088       |      2 |        4 |
+|  3 | 4     |   29 | Éric Bernard      | Lola-Lamborghini  |     64 | + 1:15.302     |      8 |        3 |
+|  4 | 5     |   20 | Nelson Piquet      | Benetton-Ford     |     64 | + 1:24.003     |     11 |        2 |
+|  5 | 6     |   30 | Aguri Suzuki       | Lola-Lamborghini  |     63 | + 1 Lap        |      9 |        1 |
+|  6 | 7     |   10 | Alex Caffi         | Arrows-Ford       |     63 | + 1 Lap        |     17 |      nan |
+|  7 | 8     |    4 | Jean Alesi         | Tyrrell-Ford      |     63 | + 1 Lap        |      6 |      nan |
+|  8 | 9     |    8 | Stefano Modena     | Brabham-Judd      |     62 | + 2 Laps       |     20 |      nan |
+|  9 | 10    |   25 | Nicola Larini      | Ligier-Ford       |     62 | + 2 Laps       |     21 |      nan |
+| 10 | 11    |   21 | Emanuele Pirro     | Dallara-Ford      |     62 | + 2 Laps       |     19 |      nan |
+| 11 | 12    |   24 | Paolo Barilla      | Minardi-Ford      |     62 | + 2 Laps       |     24 |      nan |
+| 12 | 13    |   26 | Philippe Alliot    | Ligier-Ford       |     61 | + 3 Laps       |     22 |      nan |
+| 13 | 14    |   28 | Gerhard Berger     | McLaren-Honda     |     60 | Throttle       |      3 |      nan |
+| 14 | Ret   |    2 | Nigel Mansell      | Ferrari           |     55 | Gearbox        |      1 |      nan |
+| 15 | Ret   |   16 | Ivan Capelli       | Leyton House-Judd |     48 | Fuel Leak      |     10 |      nan |
+| 16 | Ret   |   12 | Martin Donnelly    | Lotus-Lamborghini |     48 | Engine         |     14 |      nan |
+| 17 | Ret   |   11 | Derek Warwick      | Lotus-Lamborghini |     46 | Engine         |     16 |      nan |
+| 18 | Ret   |   17 | Gabriele Tarquini  | AGS-Ford          |     41 | Engine         |     26 |      nan |
+| 19 | Ret   |    9 | Michele Alboreto   | Arrows-Ford       |     37 | Engine         |     25 |      nan |
+| 20 | Ret   |    6 | Riccardo Patrese   | Williams-Renault  |     26 | Chassis        |      7 |      nan |
+| 21 | Ret   |    3 | Satoru Nakajima    | Tyrrell-Ford      |     20 | Electrical     |     12 |      nan |
+| 22 | Ret   |   19 | Alessandro Nannini | Benetton-Ford     |     15 | Collision      |     13 |      nan |
+| 23 | Ret   |   22 | Andrea de Cesaris  | Dallara-Ford      |     12 | Fuel System    |     23 |      nan |
+| 24 | Ret   |   23 | Pierluigi Martini  | Minardi-Ford      |      3 | Alternator     |     18 |      nan |
+| 25 | DNS   |   15 | Maurício Gugelmin | Leyton House-Judd |      0 | Fuel Pump      |     15 |      nan |
+| 26 | DNQ   |   14 | Olivier Grouillard | Osella-Ford       |    nan | nan            |    nan |      nan |
+| 27 | DNQ   |    7 | David Brabham      | Brabham-Judd      |    nan | nan            |    nan |      nan |
+| 28 | DNQ   |   36 | JJ Lehto           | Onyx-Ford         |    nan | nan            |    nan |      nan |
+| 29 | DNQ   |   35 | Gregor Foitek      | Onyx-Ford         |    nan | nan            |    nan |      nan |
+| 30 | DNPQ  |   33 | Roberto Moreno     | EuroBrun-Judd     |    nan | nan            |    nan |      nan |
+| 31 | DNPQ  |   18 | Yannick Dalmas     | AGS-Ford          |    nan | nan            |    nan |      nan |
+| 32 | DNPQ  |   34 | Claudio Langes     | EuroBrun-Judd     |    nan | nan            |    nan |      nan |
+| 33 | DNPQ  |   31 | Bertrand Gachot    | Coloni-Subaru     |    nan | nan            |    nan |      nan |
+| 34 | DNPQ  |   39 | Bruno Giacomelli   | Life              |    nan | nan            |    nan |      nan |
+===================Question===================
+how many laps did alain prost finished?
+===================Text===================
+<think>
+Alright, I need to figure out how many laps Alain Prost finished in the 1990 British Grand Prix based on the provided table.
+
+First, I'll look for Alain Prost's entry in the table. Scanning through the rows, I find his name at position 1, with Driver number 1 and Constructor Ferrari. 
+
+Next to his name, under the 'Laps' column, it shows a value of 64. That means he completed 64 laps during the race.
+
+I don't see any indication that he retired or didn't finish the race; instead, he's listed as finishing in first place with a time of 1:18:30.999. So, there's no retirement note next to his name, which would have suggested he didn't complete all laps.
+
+Therefore, Alain Prost finished 64 laps.
+</think>
+
+Final Answer: 64
+===================Answer===================
+64

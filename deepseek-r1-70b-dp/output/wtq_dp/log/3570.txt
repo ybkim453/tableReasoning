@@ -1,0 +1,67 @@
+===================Title===================
+Wiseman hypothesis
+===================Table===================
+|    |   Tablet | Genealogy                                      | Narrative      | Colophon                                                                          |
+|---:|---------:|:-----------------------------------------------|:---------------|:----------------------------------------------------------------------------------|
+|  0 |        1 | Creation of Universe 1:1                       | 1:2 to 2:3     | "This is the account of the heavens and of the earth when they were created." 2:4 |
+|  1 |        2 | Heavens and Earth 2:4                          | 2:5 to 4:26    | "This is the written account of Adam." 5:1                                        |
+|  2 |        3 | Adam to Noah 5:1 - 32                          | 6:1 - 8        | "This is the account of Noah." 6:9                                                |
+|  3 |        4 | Noah to Shem, Ham, and Japeth 6:9 - 10         | 6:11 to 9:29   | "This is the account of Shem, Ham, and Japheth, Noah's sons." 10:1                |
+|  4 |        5 | Descendants of Shem, Ham, and Japeth 10:1 - 32 | 11:1 - 9       | "This is the account of Shem." 11:10                                              |
+|  5 |        6 | Shem to Terah 11:10 - 26                       | no narrative   | "This is the account of Terah." 11:27                                             |
+|  6 |        7 | Terah to Abraham 11:27                         | 11:28 to 25:11 | "This is the account of Abraham's son Ishmael." 25:12 (eldest son)                |
+|  7 |        8 | Descendants of Ishmael 25:13 - 18              | no narrative   | "This is the account of Abraham's son Isaac." 25:19                               |
+|  8 |        9 | Abraham to Isaac 25:19                         | 25:20 to 35:29 | "This is the account of Esau." 36:1 (eldest son)                                  |
+|  9 |       10 | Descendants of Esau 36:2 - 5                   | 36:6 - 8       | "This is the account of Esau." 36:9                                               |
+| 10 |       11 | Descendants of Esau 36:10 to 37:1              | no narrative   | "This is the account of Jacob." 37:2                                              |
+| 11 |      nan | no genealogy                                   | 37:2 to 50:26  | no colophon                                                                       |
+===================Question===================
+which tablets do not have a narrative?
+===================Text===================
+<think>
+Okay, so I need to figure out which tablets don't have a narrative based on the given table about the Wiseman hypothesis. Let me start by understanding what each column represents.
+
+Looking at the columns: Tablet, Genealogy, Narrative, and Colophon. The question is asking about the absence of a narrative section in some tablets. So I should focus on the 'Narrative' column.
+
+I see that each row corresponds to a tablet, starting from 0 up to 11. Now, scanning through each row under 'Narrative':
+
+- Tablet 0: Narrative exists (1:2 to 2:3)
+- Tablet 1: Narrative exists (2:5 to 4:26)
+- Tablet 2: Narrative exists (6:1 - 8)
+- Tablet 3: Narrative exists (6:11 to 9:29)
+- Tablet 4: Narrative exists (11:1 - 9)
+- Tablet 5: Narrative is 'no narrative'
+- Tablet 6: Wait, the genealogy and colophon are there, but what about the narrative? Let me check. It seems under Narrative it says 'no narrative' again.
+- Tablet 7: Narrative is also 'no narrative'
+- Tablet 8: Narrative exists (25:20 to 35:29)
+- Tablet 9: Narrative exists (36:6 - 8)
+- Tablet 10: Narrative is 'no narrative'
+- Tablet 11: The genealogy is 'no genealogy' and colophon is 'no colophon', but the narrative continues from 37:2 to 50:26, so it does have a narrative.
+
+Wait, let me double-check each entry:
+
+Tablet 5's Narrative column says 'no narrative' – correct. Tablet 6 also has 'no narrative'. Similarly, Tablet 7 and Tablet 10 also say 'no narrative'.
+
+So the tablets without a narrative are Tablets 5, 6, 7, and 10.
+
+I should make sure I didn't miss any others. Let me list them out:
+
+- Tablet 0: has narrative
+- Tablet 1: yes
+- Tablet 2: yes
+- Tablet 3: yes
+- Tablet 4: yes
+- Tablet 5: no
+- Tablet 6: no
+- Tablet 7: no
+- Tablet 8: yes
+- Tablet 9: yes
+- Tablet 10: no
+- Tablet 11: yes
+
+Yes, so Tablets 5,6,7, and 10 are the ones without a narrative.
+</think>
+
+Final Answer: Tablet5, Tablet6, Tablet7, Tablet10
+===================Answer===================
+6,8,11

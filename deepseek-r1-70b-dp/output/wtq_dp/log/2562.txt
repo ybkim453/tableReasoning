@@ -1,0 +1,31 @@
+===================Title===================
+List of Kentucky Derby broadcasters
+===================Table===================
+|    |   Year | Network   | Race caller    | Color commentator               | Reporters        | Trophy Presentation   |
+|---:|-------:|:----------|:---------------|:--------------------------------|:-----------------|:----------------------|
+|  0 |   1959 | CBS       | Fred Capossela | Bryan Field and Chris Schenkel  | nan              | Chris Schenkel        |
+|  1 |   1958 | CBS       | Fred Capossela | Bryan Field                     | nan              | nan                   |
+|  2 |   1957 | CBS       | Fred Capossela | Bryan Field                     | nan              | nan                   |
+|  3 |   1956 | CBS       | Fred Capossela | Bryan Field                     | nan              | nan                   |
+|  4 |   1955 | CBS       | Fred Capossela | Phil Sutterfield and Win Elliot | nan              | nan                   |
+|  5 |   1954 | CBS       | Bryan Field    | Mel Allen                       | nan              | Bill Corum            |
+|  6 |   1953 | CBS       | Bryan Field    | Mel Allen                       | Phil Sutterfield | Phil Sutterfield      |
+|  7 |   1952 | CBS       | Bryan Field    | Sam Renick                      | nan              | nan                   |
+===================Question===================
+mel allen was the color commentator in 1953. who did the job the previous year?
+===================Text===================
+<think>
+Okay, so I need to figure out who was the color commentator before Mel Allen in 1953. Let me start by understanding the table provided.
+
+Looking at the table, it lists information about Kentucky Derby broadcasters from various years. The columns include Year, Network, Race caller, Color commentator, Reporters, and Trophy Presentation.
+
+The question states that Mel Allen was the color commentator in 1953. I need to find out who held that role the previous year, which would be 1952.
+
+First, I'll locate the row for 1953. Scanning through the Year column, I see that in 1953, the Color commentator was indeed Mel Allen (row with index 6). Now, I need to check the previous year, 1952.
+
+Looking at the row where Year is 1952 (index 7), under the Color commentator column, it says "Sam Renick". So Sam Renick was the color commentator in 1952. Therefore, the person who did the job before Mel Allen in 1953 was Sam Renick.
+</think>
+
+Final Answer: Sam Renick
+===================Answer===================
+Sam Renick

@@ -1,0 +1,41 @@
+===================Title===================
+AFL Cairns
+===================Table===================
+|    |   Year | Premiers                        | Score       | Runners Up                      | Score .1   |
+|---:|-------:|:--------------------------------|:------------|:--------------------------------|:-----------|
+|  0 |   2003 | Centrals Trinity Beach Bulldogs | 14.11 (95)  | North Cairns                    | 6.7 (43)   |
+|  1 |   2004 | Port Douglas Crocs              | 17.13 (115) | North Cairns Tigers             | 8.9 (57)   |
+|  2 |   2005 | Port Douglas Crocs              | 19.14 (128) | Cairns Saints                   | 4.11 (35)  |
+|  3 |   2006 | Manunda Hawks                   | 11.11 (77)  | Centrals Trinity Beach Bulldogs | 10.9 (69)  |
+|  4 |   2007 | Centrals Trinity Beach Bulldogs | 14.16 (100) | Cairns Saints                   | 11.2 (68)  |
+|  5 |   2008 | Cairns Saints                   | 12.15 (87)  | North Cairns Tigers             | 2.9 (21)   |
+|  6 |   2009 | South Cairns Cutters            | 9.11 (65)   | Cairns Saints                   | 9.4 (58)   |
+|  7 |   2010 | North Cairns Tigers             | 8.10 (58)   | Port Douglas Crocs              | 8.5 (53)   |
+|  8 |   2011 | Manunda Hawks                   | 11.8 (74)   | Port Douglas Crocs              | 6.9 (45)   |
+|  9 |   2012 | Cairns Saints                   | 17.6 (108)  | North Cairns Tigers             | 11.12 (78) |
+| 10 |   2013 | North Cairns Tigers             | 14.14 (98)  | Port Douglas Crocs              | 13.6 (84)  |
+===================Question===================
+which premier was in the next year after the south cairns cutters?
+===================Text===================
+<think>
+Alright, let's break this down. The user is asking which premier came after South Cairns Cutters won. So first, I need to find when South Cairns Cutters were premiers.
+
+Looking at the table, each row has a year and the premiers for that year. Scanning through the premiers column:
+
+- In 2003: Centrals Trinity Beach Bulldogs
+- 2004: Port Douglas Crocs
+- 2005: Port Douglas Crocs again
+- 2006: Manunda Hawks
+- 2007: Centrals Trinity Beach Bulldogs again
+- 2008: Cairns Saints
+- 2009: South Cairns Cutters (this is the one we need)
+- So after 2009 comes 2010.
+
+In 2010, the premiers were North Cairns Tigers. Therefore, the premier in the next year after South Cairns Cutters would be North Cairns Tigers.
+</think>
+
+The team that was premier the year after South Cairns Cutters (who were premiers in 2009) is identified by looking at the 2010 entry.
+
+Final Answer: North Cairns Tigers
+===================Answer===================
+North Cairns Tigers

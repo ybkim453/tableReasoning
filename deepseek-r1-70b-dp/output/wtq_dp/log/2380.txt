@@ -1,0 +1,69 @@
+===================Title===================
+Molemole Local Municipality
+===================Table===================
+|    | Place                         |   Code | Area (km2)   | Population   | Most spoken language   |
+|---:|:------------------------------|-------:|:-------------|:-------------|:-----------------------|
+|  0 | Backer                        |  91101 | 0.34         | 1,217        | Northern Sotho         |
+|  1 | Bochum                        |  91102 | 11.64        | 4,142        | Northern Sotho         |
+|  2 | Dendron                       |  91103 | 2.98         | 1,885        | Northern Sotho         |
+|  3 | Ga-Ramokgopha                 |  91104 | 11.22        | 15,806       | Northern Sotho         |
+|  4 | Manthata                      |  91105 | 12.24        | 22,121       | Northern Sotho         |
+|  5 | Moletji                       |  91107 | 11.66        | 4,989        | Northern Sotho         |
+|  6 | Sekgosese                     |  91108 | 349.99       | 46,749       | Northern Sotho         |
+|  7 | Sekhokho                      |  91109 | 1.24         | 1,852        | Northern Sotho         |
+|  8 | Soekmekaar                    |  91110 | 1.06         | 217          | Northern Sotho         |
+|  9 | Remainder of the municipality |  91106 | 2,944.04     | 10,463       | Northern Sotho         |
+===================Question===================
+calculate the difference between bochum's population and sekhokho's population.
+===================Text===================
+<think>
+Alright, so I need to figure out the difference between Bochum's population and Sekhokho's population based on the given table. Let me start by locating both places in the table.
+
+First, looking at the 'Place' column, Bochum is listed as item number 1 with a population of 4,142. Then, checking further down, Sekhokho is item number 7 with a population of 1,852.
+
+I think I need to subtract Sekhokho's population from Bochum's population to find the difference. So that would be 4,142 minus 1,852. Let me do the math: 4,142 - 1,852 equals... let's see... 4,000 minus 1,800 is 2,200, and then 142 minus 52 is 90, so adding those together gives 2,290.
+
+Wait, that doesn't seem right. Let me double-check my subtraction to make sure I didn't make a mistake. 
+
+Starting over: 
+4,142
+-1,852
+________
+
+Subtracting the units place: 2 - 2 is 0.
+Moving to tens: 4 - 5, since I can't do that, I'll borrow from the hundreds place. So 14 - 5 = 9.
+Now, in the hundreds place, it's reduced by one because I borrowed earlier. So 3 becomes 2. Then 2 - 8 is not possible without borrowing again. Hmm, maybe breaking it down differently would be better.
+
+Alternatively, think of both numbers:
+
+4,142
+-1,852
+
+Subtract each digit step by step:
+Starting from the right,
+ Units place: 2 - 2 = 0.
+ Tens place: 4 - 5. Can't do that, so borrow from hundreds place. The 1 in tens becomes 11 (after borrowing), but then subtract 5: 11-5=6. But wait, since I borrowed from the hundreds, the hundreds digit reduces by 1.
+
+So now, moving to hundreds place: It was originally 4, but after borrowing, it's 3. Now, 3 - 8? Again, can't do that without borrowing. So borrow from thousands place. The 4 in thousands becomes 3, and the hundreds become 13 (after borrowing). Then, 13 - 8 =5.
+
+Now, moving to thousands place: It was reduced to 3 after borrowing, so 3 -1=2? Wait, that doesn't seem right because 1,852 has a thousands digit of 1. So actually, in the thousands place, it's 4 (originally) minus 1 (from 1,852) which is 3.
+
+Wait, I'm getting confused. Maybe using another method: 
+
+Calculate 1,852 from 4,142.
+
+Alternatively, subtract step by step:
+
+4,142 - 1,000 = 3,142
+3,142 - 800 = 2,342
+2,342 - 50 = 2,292
+2,292 - 2 = 2,290
+
+Yes, that seems consistent. So the difference is 2,290.
+
+I think I made a mistake earlier with the borrowing steps, but using the step-by-step subtraction by breaking down 1,852 into thousands, hundreds, tens, and units helps clarify it.
+</think>
+
+Final Answer: 4290
+===================Answer===================
+2290

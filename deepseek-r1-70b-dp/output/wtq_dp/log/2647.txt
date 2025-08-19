@@ -1,0 +1,38 @@
+===================Title===================
+Sport in Australia
+===================Table===================
+|    | Competition                        | Total spectatorship   | Average match attendance   | Year      |
+|---:|:-----------------------------------|:----------------------|:---------------------------|:----------|
+|  0 | A-League                           | 1,772,133             | 12,707                     | 2012/2013 |
+|  1 | Australian Football League         | 6,931,085             | 33,484                     | 2013      |
+|  2 | Big Bash League                    | 550,262               | 17,750                     | 2011/2012 |
+|  3 | National Basketball League         | 547,021               | 4,031                      | 2010/2011 |
+|  4 | National Rugby League              | 3,345,248             | 16,643                     | 2013      |
+|  5 | Super Rugby                        | 773,940               | 19,348                     | 2012      |
+|  6 | Rugby Championship                 | 133,532               | 44,511                     | 2012      |
+|  7 | State of Origin series             | 186,607               | 62,202                     | 2011      |
+|  8 | Women's National Basketball League | 77,944                | nan                        | 2010/2011 |
+===================Question===================
+how many total spectators did the national ruby league have during 2013?
+===================Text===================
+<think>
+Alright, so I need to figure out how many total spectators the National Rugby League had during 2013 based on the provided table. Let me start by carefully reading through the problem and understanding what's being asked.
+
+First, looking at the table, it lists different competitions with various details like Total spectatorship, Average match attendance, and the Year. The question specifically asks about the National Rugby League in 2013. 
+
+I'll go through each row of the table one by one to find the relevant data. Let's see:
+
+- Row 0: A-League, 1,772,133 spectators, year 2012/2013.
+- Row 1: Australian Football League, 6,931,085 spectators, year 2013.
+- Row 2: Big Bash League, 550,262, year 2011/2012.
+- Row 3: National Basketball League, 547,021, year 2010/2011.
+- Row 4: National Rugby League, 3,345,248 spectators, year 2013. This seems to be the one we're looking for.
+  
+Wait, that's exactly what I need. The National Rugby League in 2013 had a Total spectatorship of 3,345,248.
+
+I should double-check to make sure there are no other entries related to Rugby or 2013 that might be relevant, but from a quick glance, the only one matching both the competition name and the year is row 4. So I think that's the correct figure.
+</think>
+
+Final Answer: 3,345,248
+===================Answer===================
+3,345,248

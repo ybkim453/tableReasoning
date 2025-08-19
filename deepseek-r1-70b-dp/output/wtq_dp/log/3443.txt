@@ -1,0 +1,64 @@
+===================Title===================
+List of schools in Saginaw, Michigan
+===================Table===================
+|    | School Name                           | Low grade   | High grade   |   Students (K-12) |   FTE Teachers |   Student/teacher ratio |
+|---:|:--------------------------------------|:------------|:-------------|------------------:|---------------:|------------------------:|
+|  0 | Bethany Lutheran School               | PK          | 8            |                28 |            3.6 |                    7.78 |
+|  1 | Bethlehem Lutheran School             | PK          | 8            |               182 |           10   |                   18.2  |
+|  2 | Christ Lutheran School                | K           | 8            |                12 |            2   |                    6    |
+|  3 | Community Baptist Christian School    | PK          | 12           |               120 |            9.8 |                   12.24 |
+|  4 | Good Shepherd Early Childhood         | PK          | K            |                20 |            1   |                   20    |
+|  5 | Grace Christian School                | PK          | 12           |               117 |           13   |                    9    |
+|  6 | Holy Cross Lutheran School            | PK          | 8            |               135 |            7.9 |                   17.09 |
+|  7 | Immanuel Lutheran School              | PK          | 8            |                82 |            5.6 |                   14.64 |
+|  8 | Michigan Lutheran Seminary            | 9           | 12           |               313 |           31   |                   10.1  |
+|  9 | Nouvel Catholic Central High School   | 9           | 12           |               505 |           37   |                   13.65 |
+| 10 | Peace Lutheran School                 | PK          | 8            |               229 |          nan   |                  nan    |
+| 11 | Sheridan Road Christian School        | K           | 12           |                42 |            5.9 |                    7.12 |
+| 12 | St Helen Elementary School            | K           | 8            |               182 |           10.9 |                   16.7  |
+| 13 | St John's Evangelical Lutheran School | K           | 8            |                32 |            3   |                   10.67 |
+| 14 | St Pauls Lutheran School              | PK          | 8            |               155 |            9.6 |                   16.15 |
+| 15 | St Stephen Elementary School          | PK          | 8            |               364 |           23.1 |                   15.76 |
+| 16 | St Thomas Aquinas Elementary School   | K           | 8            |               403 |           25   |                   16.12 |
+| 17 | Tri-City Seventh-Day Adventist School | 1           | 8            |                18 |            2.1 |                    8.57 |
+| 18 | Valley Lutheran High School           | 9           | 12           |               344 |           21   |                   16.38 |
+| 19 | Notes                                 | nan         | nan          |               nan |          nan   |                  nan    |
+===================Question===================
+what is the total number of private schools in saginaw that offer classes from kindergarten to high school graduation?
+===================Text===================
+<think>
+Okay, let's tackle this problem step by step. The question is asking for the total number of private schools in Saginaw that offer classes from Kindergarten to high school graduation. So, I need to look through each school in the provided table and determine which ones meet these criteria.
+
+First, I'll go through each row of the table:
+
+1. **Bethany Lutheran School**: It starts at PK (Pre-Kindergarten) and goes up to 8th grade. Since it doesn't reach high school (which is typically 9th to 12th), this one doesn't qualify.
+2. **Bethlehem Lutheran School**: Similar to the first, it's from PK to 8th. Again, no high school, so not eligible.
+3. **Christ Lutheran School**: Starts at K and ends at 8th. No high school, so it's out.
+4. **Community Baptist Christian School**: This one goes from PK to 12th grade. High school is included here (9th-12th), so this school qualifies.
+5. **Good Shepherd Early Childhood**: Only from PK to K, nowhere near high school.
+6. **Grace Christian School**: Starts at PK and goes up to 12th grade. That includes high school, so it's a yes.
+7. **Holy Cross Lutheran School**: PK to 8th, no high school.
+8. **Immanuel Lutheran School**: PK to 8th again. Doesn't qualify.
+9. **Michigan Lutheran Seminary**: It starts at 9th and goes to 12th. Wait, that's only high school. The question is from Kindergarten through graduation, so this doesn't count because it doesn't start early enough.
+10. **Nouvel Catholic Central High School**: Also starts at 9th to 12th. Only high school, no lower grades. Doesn't meet the criteria.
+11. **Peace Lutheran School**: Data incomplete (nan), but I'll note it as not qualifying since other info isn't available.
+12. **Sheridan Road Christian School**: K to 12th grade. That includes both Kindergarten and high school, so this one counts.
+13. **St Helen Elementary School**: K to 8th, no high school.
+14. **St John's Evangelical Lutheran School**: K to 8th, same issue.
+15. **St Pauls Lutheran School**: PK to 8th, missing high school.
+16. **St Stephen Elementary School**: PK to 8th, not enough.
+17. **St Thomas Aquinas Elementary School**: K to 8th, so no.
+18. **Tri-City Seventh-Day Adventist School**: Starts at 1st grade? Wait, it's from 1st to 8th. So doesn't include high school.
+19. **Valley Lutheran High School**: Only 9th to 12th, just high school.
+
+Now, reviewing which schools made the cut:
+- Community Baptist Christian School (4)
+- Grace Christian School (6)
+- Sheridan Road Christian School (11)
+
+That's a total of three schools that offer classes from Kindergarten through high school graduation.
+</think>
+
+Final Answer: 3
+===================Answer===================
+1

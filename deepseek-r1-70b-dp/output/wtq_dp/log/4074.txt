@@ -1,0 +1,48 @@
+===================Title===================
+Canadian National class N-4 2-8-0
+===================Table===================
+|    | Builder   | Works numbers            |   Dates | CN numbers                                 | GT numbers                       | Notes                        |
+|---:|:----------|:-------------------------|--------:|:-------------------------------------------|:---------------------------------|:-----------------------------|
+|  0 | MLW       | 39548-39562\n40583-40622 |    1906 | 2525-2566\n2663                            | 651-705                          | nan                          |
+|  1 | MLW       | 42331-42345\n43150-43164 |    1907 | 2577-2605\n2661-2662\n2685                 | 721-750                          | nan                          |
+|  2 | ALCO      | 42046-42060\n43540-43554 |    1907 | 2567-2576\n2606-2615\n2664-2665\n2669-2676 | 706-720\n752\n755\n758\n761\n763 | nan                          |
+|  3 | MLW       | 45163-45182              |    1908 | 2627-2646                                  | 631-650                          | nan                          |
+|  4 | MLW       | 46880-46894              |    1910 | 2647-2660\n2686                            | 616-630                          | nan                          |
+|  5 | ALCO      | 49663-49674              |    1911 | 2616-2625\n2677-2678                       | 766-777                          | built at ALCO's Brooks Works |
+|  6 | ALCO      | 50472-50481              |    1911 | 2626\n2666-2668\n2679-2684                 | 779-780\n784\n786-787            | nan                          |
+===================Question===================
+name a builder that had above 7 gt numbers.
+===================Text===================
+<think>
+Alright, I need to figure out which builders from the given table have more than 7 GT numbers assigned. Let's go through each entry one by one.
+
+Starting with the first row: Builder MLW has GT numbers ranging from 651-705. That's a total of 705 - 651 + 1 = 55 numbers. Definitely way above 7.
+
+Next, the second row is also MLW with GT numbers 721-750. Calculating that gives us 750 - 721 +1 = 30 numbers. Again, over 7.
+
+Third entry is ALCO with GT numbers 706-720,752,755,758,761,763. Let's break it down. 706-720 is 15 numbers. Then we have four single entries: 752,755,758,761,763. Wait, that's five more, so total is 20. That's above 7 as well.
+
+Fourth row: MLW again with GT numbers 631-650. That's 20 numbers, which is over 7.
+
+Fifth entry is MLW with GT numbers 616-630. That's 15 numbers, still above 7.
+
+Sixth row: ALCO has GT numbers 766-777, which is 12 numbers. That's more than 7 too.
+
+Seventh row: ALCO with GT numbers 779-780,784,786-787. Let's count these. 779-780 is 2, plus 784, and then 786-787 is another 2. So total of 5 GT numbers here. That's less than 7, so this entry doesn't count.
+
+So compiling all the builders who have more than 7 GT numbers: MLW appears in rows 0,1,3,4; ALCO in rows 2,5,6 (but row 6 is under 7). Wait, actually, looking back:
+
+Row 0: MLW - 55
+Row 1: MLW -30
+Row 2: ALCO -20
+Row 3: MLW -20
+Row4: MLW-15
+Row5:ALCO-12
+Row6:ALCO-5 (doesn't count)
+
+So both MLW and ALCO have entries with over 7 GT numbers, except the last one. So the builders are MLW and ALCO.
+</think>
+
+Final Answer: MLW, ALCO
+===================Answer===================
+ALCO

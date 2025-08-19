@@ -1,0 +1,42 @@
+===================Title===================
+Lic. Adolfo López Mateos International Airport
+===================Table===================
+|    |   Rank | City                           | Passengers   |   Ranking | Airline                                |
+|---:|-------:|:-------------------------------|:-------------|----------:|:---------------------------------------|
+|  0 |      1 | Quintana Roo, Cancún          | 132,046      |       nan | Aeroméxico Connect, Interjet, Volaris |
+|  1 |      2 | Nuevo León, Monterrey         | 106,513      |       nan | Aeroméxico Connect, Interjet          |
+|  2 |      3 | Guerrero, Acapulco             | 56,069       |       nan | Aeroméxico Connect, Interjet          |
+|  3 |      4 | Jalisco, Guadalajara           | 52,584       |       nan | Aeroméxico Connect, Volaris           |
+|  4 |      5 | Jalisco, Puerto Vallarta       | 43,419       |         1 | Interjet                               |
+|  5 |      6 | Baja California Sur, Los Cabos | 37,526       |         1 | Interjet                               |
+|  6 |      7 | Guerrero, Ixtapa/Zihuatanejo   | 35,507       |       nan | Interjet                               |
+|  7 |      8 | Baja California, Tijuana       | 14,906       |       nan | Interjet                               |
+|  8 |      9 | Tabasco, Villahermosa          | 6,928        |         1 | VivaAerobus                            |
+|  9 |     10 | Tamaulipas, Tampico            | 3,619        |         1 | VivaAerobus                            |
+===================Question===================
+what city served the least number of passengers in 2013?
+===================Text===================
+<think>
+Okay, so I'm trying to figure out which city served the least number of passengers in 2013 based on this table. Let me look at the data provided.
+
+First, the table lists several cities along with their passenger numbers and other details like airlines and rankings. The cities listed are Quintana Roo (Cancún), Nuevo León (Monterrey), Guerrero (Acapulco), Jalisco (Guadalajara), Puerto Vallarta in Jalisco, Los Cabos in Baja California Sur, Ixtapa/Zihuatanejo in Guerrero, Tijuana in Baja California, Villahermosa in Tabasco, and Tampico in Tamaulipas.
+
+I need to find the city with the smallest number of passengers. So, I should look at the "Passengers" column for each row. Let me list out the cities with their passenger counts:
+
+- Cancún: 132,046
+- Monterrey: 106,513
+- Acapulco: 56,069
+- Guadalajara: 52,584
+- Puerto Vallarta: 43,419
+- Los Cabos: 37,526
+- Ixtapa/Zihuatanejo: 35,507
+- Tijuana: 14,906
+- Villahermosa: 6,928
+- Tampico: 3,619
+
+Looking at these numbers, the smallest number is 3,619 for Tampico. That's significantly lower than all the others. For example, Villahermosa has almost double that with 6,928, and Tijuana has over 14k. So, Tampico seems to have served the least number of passengers in 2013 according to this table.
+</think>
+
+Final Answer: Tampico
+===================Answer===================
+Tamaulipas, Tampico

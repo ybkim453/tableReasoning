@@ -1,0 +1,184 @@
+===================Title===================
+Portable character set
+===================Table===================
+|     | name                 | glyph   | C string   | Unicode   | Unicode name              |
+|----:|:---------------------|:--------|:-----------|:----------|:--------------------------|
+|   0 | NUL                  | nan     | \\0        | U+0000    | NULL (NUL)                |
+|   1 | alert                | nan     | \\a        | U+0007    | BELL (BEL)                |
+|   2 | backspace            | nan     | \\b        | U+0008    | BACKSPACE (BS)            |
+|   3 | tab                  | nan     | \\t        | U+0009    | CHARACTER TABULATION (HT) |
+|   4 | carriage-return      | nan     | \\r        | U+000D    | CARRIAGE RETURN (CR)      |
+|   5 | newline              | nan     | \\n        | U+000A    | LINE FEED (LF)            |
+|   6 | vertical-tab         | nan     | \\v        | U+000B    | LINE TABULATION (VT)      |
+|   7 | form-feed            | nan     | \\f        | U+000C    | FORM FEED (FF)            |
+|   8 | space                | nan     | nan        | U+0020    | SPACE                     |
+|   9 | exclamation-mark     | !       | !          | U+0021    | EXCLAMATION MARK          |
+|  10 | quotation-mark       | "       | \\"        | U+0022    | QUOTATION MARK            |
+|  11 | number-sign          | #       | #          | U+0023    | NUMBER SIGN               |
+|  12 | dollar-sign          | $       | $          | U+0024    | DOLLAR SIGN               |
+|  13 | percent-sign         | %       | %          | U+0025    | PERCENT SIGN              |
+|  14 | ampersand            | &       | &          | U+0026    | AMPERSAND                 |
+|  15 | apostrophe           | '       | \\'        | U+0027    | APOSTROPHE                |
+|  16 | left-parenthesis     | (       | (          | U+0028    | LEFT PARENTHESIS          |
+|  17 | right-parenthesis    | )       | )          | U+0029    | RIGHT PARENTHESIS         |
+|  18 | asterisk             | *       | *          | U+002A    | ASTERISK                  |
+|  19 | plus-sign            | +       | +          | U+002B    | PLUS SIGN                 |
+|  20 | comma                | ,       | ,          | U+002C    | COMMA                     |
+|  21 | hyphen               | -       | -          | U+002D    | HYPHEN-MINUS              |
+|  22 | period               | .       | .          | U+002E    | FULL STOP                 |
+|  23 | slash                | /       | /          | U+002F    | SOLIDUS                   |
+|  24 | zero                 | 0       | 0          | U+0030    | DIGIT ZERO                |
+|  25 | one                  | 1       | 1          | U+0031    | DIGIT ONE                 |
+|  26 | two                  | 2       | 2          | U+0032    | DIGIT TWO                 |
+|  27 | three                | 3       | 3          | U+0033    | DIGIT THREE               |
+|  28 | four                 | 4       | 4          | U+0034    | DIGIT FOUR                |
+|  29 | five                 | 5       | 5          | U+0035    | DIGIT FIVE                |
+|  30 | six                  | 6       | 6          | U+0036    | DIGIT SIX                 |
+|  31 | seven                | 7       | 7          | U+0037    | DIGIT SEVEN               |
+|  32 | eight                | 8       | 8          | U+0038    | DIGIT EIGHT               |
+|  33 | nine                 | 9       | 9          | U+0039    | DIGIT NINE                |
+|  34 | colon                | :       | :          | U+003A    | COLON                     |
+|  35 | semicolon            | ;       | ;          | U+003B    | SEMICOLON                 |
+|  36 | less-than-sign       | <       | <          | U+003C    | LESS-THAN SIGN            |
+|  37 | equals-sign          | =       | =          | U+003D    | EQUALS SIGN               |
+|  38 | greater-than-sign    | >       | >          | U+003E    | GREATER-THAN SIGN         |
+|  39 | question-mark        | ?       | ?          | U+003F    | QUESTION MARK             |
+|  40 | commercial-at        | @       | @          | U+0040    | COMMERCIAL AT             |
+|  41 | A                    | A       | A          | U+0041    | LATIN CAPITAL LETTER A    |
+|  42 | B                    | B       | B          | U+0042    | LATIN CAPITAL LETTER B    |
+|  43 | C                    | C       | C          | U+0043    | LATIN CAPITAL LETTER C    |
+|  44 | D                    | D       | D          | U+0044    | LATIN CAPITAL LETTER D    |
+|  45 | E                    | E       | E          | U+0045    | LATIN CAPITAL LETTER E    |
+|  46 | F                    | F       | F          | U+0046    | LATIN CAPITAL LETTER F    |
+|  47 | G                    | G       | G          | U+0047    | LATIN CAPITAL LETTER G    |
+|  48 | H                    | H       | H          | U+0048    | LATIN CAPITAL LETTER H    |
+|  49 | I                    | I       | I          | U+0049    | LATIN CAPITAL LETTER I    |
+|  50 | J                    | J       | J          | U+004A    | LATIN CAPITAL LETTER J    |
+|  51 | K                    | K       | K          | U+004B    | LATIN CAPITAL LETTER K    |
+|  52 | L                    | L       | L          | U+004C    | LATIN CAPITAL LETTER L    |
+|  53 | M                    | M       | M          | U+004D    | LATIN CAPITAL LETTER M    |
+|  54 | N                    | N       | N          | U+004E    | LATIN CAPITAL LETTER N    |
+|  55 | O                    | O       | O          | U+004F    | LATIN CAPITAL LETTER O    |
+|  56 | P                    | P       | P          | U+0050    | LATIN CAPITAL LETTER P    |
+|  57 | Q                    | Q       | Q          | U+0051    | LATIN CAPITAL LETTER Q    |
+|  58 | R                    | R       | R          | U+0052    | LATIN CAPITAL LETTER R    |
+|  59 | S                    | S       | S          | U+0053    | LATIN CAPITAL LETTER S    |
+|  60 | T                    | T       | T          | U+0054    | LATIN CAPITAL LETTER T    |
+|  61 | U                    | U       | U          | U+0055    | LATIN CAPITAL LETTER U    |
+|  62 | V                    | V       | V          | U+0056    | LATIN CAPITAL LETTER V    |
+|  63 | W                    | W       | W          | U+0057    | LATIN CAPITAL LETTER W    |
+|  64 | X                    | X       | X          | U+0058    | LATIN CAPITAL LETTER X    |
+|  65 | Y                    | Y       | Y          | U+0059    | LATIN CAPITAL LETTER Y    |
+|  66 | Z                    | Z       | Z          | U+005A    | LATIN CAPITAL LETTER Z    |
+|  67 | left-square-bracket  | [       | [          | U+005B    | LEFT SQUARE BRACKET       |
+|  68 | backslash            | \\      | \\\\       | U+005C    | REVERSE SOLIDUS           |
+|  69 | right-square-bracket | ]       | ]          | U+005D    | RIGHT SQUARE BRACKET      |
+|  70 | circumflex           | ^       | ^          | U+005E    | CIRCUMFLEX ACCENT         |
+|  71 | underscore           | _       | _          | U+005F    | LOW LINE                  |
+|  72 | grave-accent         | `       | `          | U+0060    | GRAVE ACCENT              |
+|  73 | a                    | a       | a          | U+0061    | LATIN SMALL LETTER A      |
+|  74 | b                    | b       | b          | U+0062    | LATIN SMALL LETTER B      |
+|  75 | c                    | c       | c          | U+0063    | LATIN SMALL LETTER C      |
+|  76 | d                    | d       | d          | U+0064    | LATIN SMALL LETTER D      |
+|  77 | e                    | e       | e          | U+0065    | LATIN SMALL LETTER E      |
+|  78 | f                    | f       | f          | U+0066    | LATIN SMALL LETTER F      |
+|  79 | g                    | g       | g          | U+0067    | LATIN SMALL LETTER G      |
+|  80 | h                    | h       | h          | U+0068    | LATIN SMALL LETTER H      |
+|  81 | i                    | i       | i          | U+0069    | LATIN SMALL LETTER I      |
+|  82 | j                    | j       | j          | U+006A    | LATIN SMALL LETTER J      |
+|  83 | k                    | k       | k          | U+006B    | LATIN SMALL LETTER K      |
+|  84 | l                    | l       | l          | U+006C    | LATIN SMALL LETTER L      |
+|  85 | m                    | m       | m          | U+006D    | LATIN SMALL LETTER M      |
+|  86 | n                    | n       | n          | U+006E    | LATIN SMALL LETTER N      |
+|  87 | o                    | o       | o          | U+006F    | LATIN SMALL LETTER O      |
+|  88 | p                    | p       | p          | U+0070    | LATIN SMALL LETTER P      |
+|  89 | q                    | q       | q          | U+0071    | LATIN SMALL LETTER Q      |
+|  90 | r                    | r       | r          | U+0072    | LATIN SMALL LETTER R      |
+|  91 | s                    | s       | s          | U+0073    | LATIN SMALL LETTER S      |
+|  92 | t                    | t       | t          | U+0074    | LATIN SMALL LETTER T      |
+|  93 | u                    | u       | u          | U+0075    | LATIN SMALL LETTER U      |
+|  94 | v                    | v       | v          | U+0076    | LATIN SMALL LETTER V      |
+|  95 | w                    | w       | w          | U+0077    | LATIN SMALL LETTER W      |
+|  96 | x                    | x       | x          | U+0078    | LATIN SMALL LETTER X      |
+|  97 | y                    | y       | y          | U+0079    | LATIN SMALL LETTER Y      |
+|  98 | z                    | z       | z          | U+007A    | LATIN SMALL LETTER Z      |
+|  99 | left-brace           | {       | {          | U+007B    | LEFT CURLY BRACKET        |
+| 100 | vertical-line        | \p      | \p         | U+007C    | VERTICAL LINE             |
+| 101 | right-brace          | }       | }          | U+007D    | RIGHT CURLY BRACKET       |
+| 102 | tilde                | ~       | ~          | U+007E    | TILDE                     |
+===================Question===================
+how many c strings have no corresponding single glyph?
+===================Text===================
+<think>
+Okay, so I need to figure out how many C strings from the given table don't have a corresponding single glyph. Let me break this down.
+
+First, looking at the table, each entry has several columns. The relevant ones here are probably the "C String" and the one that shows the glyph or its representation. From what I can see, most entries have a single character as their C string and a corresponding glyph. 
+
+Wait, but some might not? Let me scan through the list.
+
+Starting from the top, entries like 'NUL', 'SOH', 'STX'—these are control characters and don't have a graphical representation. They're more about controlling devices rather than displaying something. So their C strings don't correspond to any single glyph because they aren't printable.
+
+Continuing down, I see entries for space (' '), which does have a glyph (the space), so that's fine. Then there are the punctuation marks and letters, all of which should have glyphs.
+
+Looking further, some entries like 'BEL' (0x07) produce a sound, not a visual character, so they don't have a glyph either. Similarly, 'HT' is horizontal tab, which doesn't print as a character but moves the cursor.
+
+So I need to count all such C strings where the corresponding Unicode code point doesn't represent a printable or graphical character. These are typically control characters.
+
+Counting them:
+
+- NUL
+- SOH
+- STX
+- ETX
+- EOT
+- ENQ
+- ACK
+- BEL
+- BS
+- HT
+- LF
+- VT
+- FF
+- CR
+- SO
+- SI
+- DLE (but in the table it's listed as 0x10, but the C string is just "DLE" here)
+Wait, actually looking at the table provided, each row has a number and then the C string. The control characters without glyphs are from 0x00 to 0x1F and 0x7F.
+
+So let me count how many of these are in the table. From 0x00 (NUL) up to 0x1F, that's 32 entries, but I have to check if all of them exist in the provided table.
+
+Wait wait, the given table starts from 0x00 and goes up to 0x7E, which includes the control characters before 0x20 (32 in total) plus some more like BEL at 0x07, CR at 0x0D, etc., but in the table provided, it's a list of 103 entries starting from NUL (0x00) to tilde (~), which is 0x7E.
+
+But looking at each entry, each C string corresponds to either a control character or a printable. The ones without glyphs are the control characters. So how many control characters are in this table?
+
+Control characters are from 0x00 to 0x1F and 0x7F. But let's see which of these are included.
+
+In the given table, the first entry is NUL (0x00), then SOH (0x01), STX (0x02), ETX (0x03), EOT (0x04), ENQ (0x05), ACK (0x06), BEL (0x07), BS (0x08), HT (0x09), LF (0x0A), VT (0x0B), FF (0x0C), CR (0x0D), SO (0x0E), SI (0x0F). Then from 0x10 to 0x1F, but in the table provided, does it go all the way? Let me check.
+
+Wait, the table appears to have entries up to number 102 (tilde, 0x7E), so each Unicode code point is covered. So for control chars:
+
+From 0x00 to 0x1F, that's 32 characters, but in the table provided, each of these has an entry. Then there's also 0x7F, which is DEL, but I don't see it in the given data because the table ends at 0x7E.
+
+Wait, let me count how many control characters are present without a glyph:
+
+Looking from NUL (0x00) to US (0x1F). Let's list them:
+
+0x00: NUL - no glyph
+0x01: SOH - no glyph
+0x02: STX - no glyph
+0x03: ETX - no glyph
+0x04: EOT - no glyph
+0x05: ENQ - no glyph
+0x06: ACK - no glyph
+0x07: BEL - no glyph (but it's a sound, so not visual)
+0x08: BS - moves cursor, no glyph
+0x09: HT - horizontal tab
+0x0A: LF - line feed
+0x0B: VT - vertical tab
+0x0C: FF - form feed
+0x0D: CR - carriage return
+0x0E: SO - shift out
+0x0F: SI - shift in
+Then 0x10 to 0x1F would be other control
+===================Answer===================
+9

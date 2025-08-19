@@ -1,0 +1,48 @@
+===================Title===================
+Marcos Pizzelli
+===================Table===================
+|    |   Goal | Date       | Venue                                                | Opponent   | Score   | Result   | Competition    |
+|---:|-------:|:-----------|:-----------------------------------------------------|:-----------|:--------|:---------|:---------------|
+|  0 |      1 | 2008-5-28  | Sheriff Stadium, Tiraspol, Moldova                   | Moldova    | 0-1     | 2–2      | Friendly match |
+|  1 |      2 | 2010-10-12 | Hanrapetakan Stadium, Yerevan, Armenia               | Andorra    | 4–0     | 4–0      | Euro 2012 Q    |
+|  2 |      3 | 2011-6-4   | Petrovsky Stadium, Saint Petersburg, Russia          | Russia     | 0-1     | 3–1      | Euro 2012 Q    |
+|  3 |      4 | 2011-9-2   | Estadi Comunal d'Aixovall, Andorra la Vella, Andorra | Andorra    | 0-1     | 0-3      | Euro 2012 Q    |
+|  4 |      5 | 2011-10-7  | Hanrapetakan Stadium, Yerevan, Armenia               | Macedonia  | 1-0     | 4-1      | Euro 2012 Q    |
+|  5 |      6 | 2012-2-29  | Tsirion Stadium, Limassol, Cyprus                    | Canada     | 1-1     | 1-3      | Friendly match |
+|  6 |      7 | 2012-2-29  | Tsirion Stadium, Limassol, Cyprus                    | Canada     | 1-2     | 1-3      | Friendly match |
+===================Question===================
+internationally, marcos pizzelli has scored multiple goals in armenia and what other country?
+===================Text===================
+<think>
+Okay, so I need to figure out where Marcos Pizzelli scored multiple goals internationally besides Armenia. Let me look at the table provided.
+
+First, I see that each row represents a goal he scored, with details like date, venue, opponent, score, result, and competition. The "Venue" column shows where each match took place. 
+
+Looking through each entry:
+
+- Row 0: Venue is in Moldova.
+- Row 1: Venue is in Armenia.
+- Row 2: Venue is in Russia.
+- Row 3: Venue is in Andorra.
+- Row 4: Venue is again in Armenia.
+- Rows 5 and 6: Both are in Cyprus.
+
+Wait, so he scored goals in Moldova, Armenia, Russia, Andorra, and Cyprus. But the question asks about countries where he scored multiple goals besides Armenia. 
+
+I should check how many goals he scored in each country:
+
+Looking at the "Goal" column:
+- In Moldova (Row 0): Goal 1.
+- In Armenia (Rows 1 & 4): Goals 2 and 5, so two goals there.
+- Russia (Row 2): Goal 3.
+- Andorra (Row 3): Goal 4.
+- Cyprus (Rows 5 & 6): Goals 6 and 7.
+
+Wait, but in Rows 5 and 6, both are in Cyprus, so that's two goals. So he scored multiple goals in Armenia and Cyprus.
+
+So the answer should be Armenia and Cyprus. But wait, the question says "in Armenia and what other country". Since Armenia is already mentioned as one place where he scored multiple times, the other country would be Cyprus.
+</think>
+
+Final Answer: Cyprus
+===================Answer===================
+Cyprus

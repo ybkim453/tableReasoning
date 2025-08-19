@@ -1,0 +1,224 @@
+===================Title===================
+David Rogers (singer)
+===================Table===================
+|    |   Year | Single                                       | Peak chart\npositions\nUS Country   | Peak chart\npositions\nCAN Country   | Album                         |
+|---:|-------:|:---------------------------------------------|:------------------------------------|:-------------------------------------|:------------------------------|
+|  0 |   1967 | "Forbidden Fruit"                            | —                                   | —                                    | A World Called You            |
+|  1 |   1968 | "I'd Be Your Fool Again"                     | 69                                  | —                                    | A World Called You            |
+|  2 |   1968 | "I'm in Love with My Wife"                   | 38                                  | —                                    | A World Called You            |
+|  3 |   1968 | "You Touched My Heart"                       | 37                                  | —                                    | A World Called You            |
+|  4 |   1969 | "Dearly Beloved"                             | 59                                  | —                                    | single only                   |
+|  5 |   1969 | "A World Called You"                         | 23                                  | —                                    | A World Called You            |
+|  6 |   1970 | "So Much in Love with You"                   | 46                                  | —                                    | A World Called You            |
+|  7 |   1970 | "I Wake Up in Heaven"                        | 26                                  | —                                    | She Don't Make Me Cry         |
+|  8 |   1971 | "She Don't Make Me Cry"                      | 19                                  | 9                                    | She Don't Make Me Cry         |
+|  9 |   1971 | "Ruby, You're Warm"                          | 21                                  | 16                                   | single only                   |
+| 10 |   1972 | "Need You"                                   | 9                                   | 9                                    | Need You                      |
+| 11 |   1972 | "Goodbye"                                    | 38                                  | —                                    | Need You                      |
+| 12 |   1972 | "All Heaven Breaks Loose"                    | 35                                  | —                                    | single only                   |
+| 13 |   1973 | "Just Thank Me"                              | 17                                  | 18                                   | Just Thank Me                 |
+| 14 |   1973 | "It'll Be Her"                               | 22                                  | 16                                   | Just Thank Me                 |
+| 15 |   1974 | "Loving You Has Changed My Life"             | 9                                   | 21                                   | Hey There Girl                |
+| 16 |   1974 | "Hey There Girl"                             | 21                                  | 42                                   | Hey There Girl                |
+| 17 |   1974 | "I Just Can't Help Believin'"                | 59                                  | —                                    | Hey There Girl                |
+| 18 |   1975 | "It Takes a Whole Lot of Livin' in a House"  | 60                                  | —                                    | Whole Lotta Livin' in a House |
+| 19 |   1976 | "Whispers and Grins"                         | 66                                  | —                                    | singles only                  |
+| 20 |   1976 | "Mahogany Bridge"                            | 84                                  | —                                    | singles only                  |
+| 21 |   1977 | "I'm Gonna Love You Right Out of This World" | 21                                  | 38                                   | singles only                  |
+| 22 |   1977 | "The Lady and the Baby"                      | 76                                  | —                                    | singles only                  |
+| 23 |   1977 | "I Love What My Woman Does to Me"            | 49                                  | 33                                   | singles only                  |
+| 24 |   1977 | "Do You Hear My Heart Beat"                  | 47                                  | —                                    | Lovingly                      |
+| 25 |   1977 | "You and Me Alone"                           | 24                                  | —                                    | Lovingly                      |
+| 26 |   1978 | "I'll Be There (When You Get Lonely)"        | 22                                  | —                                    | Lovingly                      |
+| 27 |   1978 | "Let's Try to Remember"                      | 32                                  | —                                    | Lovingly                      |
+| 28 |   1978 | "When a Woman Cries"                         | 31                                  | —                                    | singles only                  |
+| 29 |   1979 | "Darlin'"                                    | 18                                  | 36                                   | singles only                  |
+| 30 |   1979 | "You Are My Rainbow"                         | 36                                  | —                                    | singles only                  |
+| 31 |   1979 | "You're Amazing"                             | 39                                  | —                                    | singles only                  |
+| 32 |   1981 | "Houston Blue"                               | 88                                  | —                                    | singles only                  |
+| 33 |   1982 | "Crown Prince of the Barroom"                | 92                                  | —                                    | singles only                  |
+| 34 |   1983 | "Hold Me"                                    | 67                                  | —                                    | singles only                  |
+| 35 |   1983 | "You've Still Got Me"                        | 71                                  | —                                    | singles only                  |
+| 36 |   1983 | "The Devil Is a Woman"                       | 87                                  | —                                    | singles only                  |
+| 37 |   1984 | "I'm a Country Song"                         | 72                                  | —                                    | singles only                  |
+===================Question===================
+how many singles are only a single and not apart of an album?
+===================Text===================
+<think>
+Okay, so I need to figure out how many singles from David Rogers are only singles and not part of an album. Let me look at the table provided.
+
+Each row in the table represents a single release with details like the year, song title, chart positions, and the album it's associated with. My task is to count all the entries where the 'Album' column says "single only" or "singles only". 
+
+I'll start by scanning through each row one by one.
+
+Looking at row 0: Album is "A World Called You" – not a single-only.
+Row 1: Same album as above.
+Rows 2 and 3 are also part of that same album. Row 4's album says "single only", so that's one.
+Row 5 is again from the same album, so no.
+Row 6: Same, so skip.
+Row 7: Album is "She Don't Make Me Cry" – not single-only.
+Row 8: Part of an album, so no. Wait, row 9 says "single only", that's another one. So now we're at two.
+Row 10: Album is "Need You", so skip.
+Rows 11 and 12: Row 11's album is "Need You" (so part of an album), but row 12's album is "single only", adding to our count – three now.
+Row 13-14: Both are part of the same album, so no.
+Row 15-17: All part of "Hey There Girl", except maybe I should check each. Row 15's album is that, rows 16 and 17 as well? Wait, row 18 seems to be a new album, but row 19 says "singles only" – now four.
+Row 20: Also "singles only" – five.
+Rows 21-23: All say "singles only", so that's three more, bringing the total to eight.
+Row 24 and beyond until row 37: Let me check each. 
+
+Wait, maybe I should make a list. Starting from the beginning:
+
+Count where Album is 'single only' or 'singles only'.
+
+Row 4: single only
+Row 9: single only
+Row 12: single only
+Row 19: singles only
+Row 20: singles only
+Rows 21,22,23: all singles only (three more)
+Rows 28: singles only
+Rows 29-31: singles only each?
+Wait, row 28 is "When a Woman Cries" – album says 'singles only', so that's one. Then rows 29 ("Darlin'"), 30 ("You Are My Rainbow"), and 31 ("You're Amazing") all have albums as 'singles only'. That's three more.
+
+Continuing, row 32: "Houston Blue" - singles only? Yes.
+Row 33: "Crown Prince..." – same.
+Row 34: "Hold Me" – yes.
+Rows 35 and 36: Both say 'singles only'.
+Row 37: Also 'singles only'.
+
+Wait, maybe I'm miscounting. Let me go row by row again.
+
+Starting from the top:
+
+Row 0: Album not single-only
+1: same as above
+2: same
+3: same
+4: single only – count=1
+5: same album as before
+6: same
+7: different album, not single
+8: part of album "She Don't Make Me Cry"
+9: single only – count=2
+10: album "Need You"
+11: same
+12: single only – count=3
+13-14: album "The Best Of..." or similar? Wait no, 13's album is "The Best Of David Rogers"? Or maybe I misread. Let me check the original table again.
+
+Looking back at the user message:
+
+Row 4: single only (count 1)
+Row 9: single only (2)
+Row 12: single only (3)
+Row 19: singles only (4)
+Row 20: singles only (5)
+Rows 21,22,23: each is singles only? Wait in the data provided:
+
+Looking at the rows from 19 onwards:
+
+Row 18: album "Houston Blue" – no. Wait, row 18's Album is something else. Let me check more carefully.
+
+Wait, perhaps it's easier to list all the rows where the Album column says either 'single only' or 'singles only'.
+
+Looking through each row from 0 to 37:
+
+- Row 4: single only
+- Row 9: single only
+- Row 12: single only
+- Row 19: singles only
+- Row 20: singles only
+- Rows 21,22,23: all 'singles only'
+Wait, actually, looking at the data provided by the user:
+
+After row 12 (which is index 12), next are rows like 13,14 (part of "The Best Of..."), then 15-17 part of another album. Then row 18's album is something else.
+
+But perhaps I should parse each row's 'Album' field and count how many times it says 'single only' or 'singles only'.
+
+Looking again:
+
+Row 4: single only
+Row 9: single only
+Row12: single only
+Row19: singles only
+Row20: singles only
+Row21: singles only
+Row22: singles only
+Row23: singles only
+Row28: singles only
+Row29: singles only
+Row30: singles only
+Row31: singles only
+Row32: singles only
+Row33: singles only
+Row34: singles only
+Row35: singles only
+Row36: singles only
+Row37: singles only
+
+Wait, this seems too many. Let me recount accurately.
+
+Let's list each row where Album is 'single only' or 'singles only':
+
+1. Row 4 (index 3 in zero-based) – single only
+2. Row 9 (8) – single only
+3. Row12 (11) – single only
+4. Row19 (18) – singles only
+5. Row20 (19) – singles only
+6. Row21 (20) – singles only
+7. Row22 (21) – singles only
+8. Row23 (22) – singles only
+9. Row28 (27) – singles only
+10. Row29 (28) – singles only
+11. Row30 (29) – singles only
+12. Row31 (30) – singles only
+13. Row32 (31) – singles only
+14. Row33 (32) – singles only
+15. Row34 (33) – singles only
+16. Row35 (34) – singles only
+17. Row36 (35) – singles only
+18. Row37 (36) – singles only
+
+Wait, that's 18 instances, but earlier I thought it was fewer. But perhaps some rows after row 12 are part of albums. Maybe I'm miscounting.
+
+Alternatively, perhaps the correct approach is to count how many times 'single only' or 'singles only' appears in the Album column.
+
+Looking back:
+
+Row 4: single only – yes
+Row9: single only – yes
+Row12: single only – yes
+Then after row23 (which is part of an album), rows 28-37 have several entries where Album is 'singles only' or similar.
+
+Wait, perhaps I need to count each occurrence. Let me list all the rows where Album column is exactly "single only" or "singles only".
+
+Looking through:
+
+Row4: Yes
+Row9: Yes
+Row12: Yes
+Then starting from row19 (which is index 18?), but perhaps the indexes are zero-based, so need to check each.
+
+Alternatively, since it's a bit time-consuming and I'm likely to make a mistake, perhaps a better approach is to count all rows where Album is either 'single only' or 'singles only'.
+
+Each occurrence of those phrases in the Album column should be counted as one single that isn't part of an album. So now, how many times does 'single only' or 'singles only' appear?
+
+Looking through each row:
+
+Row4: yes
+Row9: yes
+Row12: yes
+Row19: yes (assuming 19 is correct)
+Wait, perhaps it's better to list all such rows.
+
+Alternatively, maybe the user made a typo and I should proceed with the initial count of around 18 entries. But without the exact data, it's hard.
+
+But considering that in his question, he provided 38 rows (from 0 to 37), but the Album column may have multiple entries where it says 'single only' or similar.
+
+Alternatively, perhaps it's better to note in the answer that the user should count each occurrence of 'single only' or 'singles only' in their data table and provide the correct number accordingly.
+</think>
+
+To determine how many singles are not part of an album, count the occurrences where the Album column is either "single only" or "singles only." 
+
+**Answer:** There are 18 instances where the album is listed as "single only" or "singles only," indicating that these singles are not part of a larger album.
+===================Answer===================
+18

@@ -1,0 +1,101 @@
+===================Title===================
+1996 Australian Sports Sedan Championship
+===================Table===================
+|    |   Position | Driver          |   No. | Car                      | Entrant           | Lak.   | Ora.   | San.   | Phi.   | Total   |
+|---:|-----------:|:----------------|------:|:-------------------------|:------------------|:-------|:-------|:-------|:-------|:--------|
+|  0 |          1 | John Briggs     |     9 | Honda Prelude Chevrolet  | John Briggs       | 42     | 42     | 42     | 42     | 168     |
+|  1 |          2 | Kerry Baily     |    18 | Toyota Supra Chevrolet   | Kerry Baily       | 38     | 38     | 36     | 38     | 150     |
+|  2 |          3 | James Phillip   |    55 | Honda Prelude Chevrolet  | James Phillip     | 26     | 28     | 28     | 30     | 112     |
+|  3 |          4 | Mick Monterosso |     2 | Ford Escort RS2000       | Mick Monterosso   | -      | 34     | 36     | 34     | 104     |
+|  4 |          5 | Bob Jolly       |     3 | Holden VS Commodore      | Bob Jolly         | -      | 28     | 16     | 32     | 76      |
+|  5 |          6 | Danny Osborne   |   nan | Mazda RX-7               | nan               | 26     | 10     | 30     | -      | 66'     |
+|  6 |          7 | Mike Imrie      |     4 | Saab                     | Imrie Motor Sport | 23     | 11     | -      | 28     | 62      |
+|  7 |          8 | Mark Trenoweth  |   nan | Jaguar                   | nan               | 33     | 24     | -      | -      | 57      |
+|  8 |          9 | Ivan Mikac      |    42 | Mazda RX-7               | Ivan Mikac        | -      | -      | 25     | 26     | 51      |
+|  9 |         10 | Des Wall        |   nan | Toyota Supra             | nan               | 15     | 32     | -      | -      | 47      |
+| 10 |         11 | Kevin Clark     |   116 | Ford Mustang GT          | Kevin Clark       | -      | -      | 23     | 23     | 46      |
+| 11 |         12 | Peter O'Brien   |    17 | Holden VL Commodore      | O'Brien Aluminium | -      | 11     | 29     | -      | 40      |
+| 12 |         13 | Chris Fing      |   nan | Chevrolet Monza          | nan               | 29     | -      | -      | -      | 29      |
+| 13 |         14 | Brian Smith     |   nan | Alfa Romeo GTV Chevrolet | nan               | -      | 28     | -      | -      | 28      |
+| 14 |         15 | Gary Rowe       |    47 | Nissan Stanza            | Gary Rowe         | -      | -      | 21     | -      | 21      |
+| 15 |        nan | Domenic Beninca |   nan | nan                      | nan               | -      | -      | -      | 21     | 21      |
+| 16 |         17 | Phil Crompton   |    49 | Ford EA Falcon           | Phil Crompton     | 17     | -      | -      | -      | 17      |
+| 17 |         18 | Allan McCarthy  |   nan | Alfa Romeo Alfetta       | nan               | 14     | -      | -      | -      | 14      |
+| 18 |         19 | Chris Donnelly  |   nan | nan                      | nan               | 12     | -      | -      | -      | 12      |
+| 19 |        nan | Paul Barrett    |   nan | nan                      | nan               | -      | -      | -      | 12     | 12      |
+| 20 |         21 | Brett Francis   |   nan | nan                      | nan               | 11     | -      | -      | -      | 11      |
+| 21 |         22 | Shane Eklund    |   nan | nan                      | nan               | 10     | -      | -      | -      | 10      |
+| 22 |        nan | Craig Wildridge |   nan | nan                      | nan               | -      | 10     | -      | -      | 10      |
+| 23 |        nan | Ron O'Brien     |   nan | nan                      | nan               | -      | -      | -      | 10     | 10      |
+===================Question===================
+who finished immediately after danny osborne?
+===================Text===================
+<think>
+Alright, I'm trying to figure out who finished immediately after Danny Osborne in the 1996 Australian Sports Sedan Championship based on the provided table. Let me go through this step by step.
+
+First, I'll look at the table structure. It's organized with positions from 1 to 22 and some 'nan' entries which probably stand for 'not a number', meaning those positions aren't filled or there's missing data. 
+
+I see that each row represents a driver's performance across different races: Lak., Ora., San., Phi., and Total points. The main columns I need are the Position and Driver columns.
+
+Looking at the table, Danny Osborne is in position 6. Wait, no—wait, looking again, positions start at 0, so the first row is position 0 which is actually 1st place because in programming indices start at 0, but in racing, they start at 1. So each row's Position column seems to be zero-indexed. Let me check:
+
+- Row 0: Position 0 corresponds to 1st place (John Briggs)
+- Row 1: Position 1 is 2nd place (Kerry Baily), and so on.
+
+So, Danny Osborne is in the 6th position? Wait no—look at the table again. Let me count the rows:
+
+Row indices go from 0 to 23. The 'Position' column has numbers like 1, 2, 3, up to 22, but with some 'nan's. Specifically, looking for Danny Osborne: he is on row 5 (since it starts at 0). The Position column in that row is 6, so his position is 6th place.
+
+Wait, no—wait, the Position column isn't necessarily aligned with the row index because there are some 'nan' positions. So I need to look for each driver's position and see their ranking.
+
+So let me list out the drivers with their positions:
+
+- John Briggs: Position 1
+- Kerry Baily: Position 2
+- James Phillip: Position 3
+- Mick Monterosso: Position 4
+- Bob Jolly: Position 5
+- Danny Osborne: Position 6
+- Mike Imrie: Position 7
+- Mark Trenoweth: Position 8
+- Ivan Mikac: Position 9
+- Des Wall: Position 10
+- Kevin Clark: Position 11
+- Peter O'Brien: Position 12
+- Chris Fing: Position 13
+- Brian Smith: Position 14
+- Gary Rowe: Position 15
+- Domenic Beninca: Position nan (so not applicable)
+- Phil Crompton: Position 17
+- Allan McCarthy: Position 18
+- Chris Donnelly: Position 19
+- Paul Barrett: Position nan
+- Brett Francis: Position 21
+- Shane Eklund: Position 22
+- Craig Wildridge: Position nan
+- Ron O'Brien: Position nan
+
+Wait, that doesn't seem quite right. Let me check again—maybe I'm mixing up the position numbers.
+
+Looking back, the 'Position' column is as follows:
+
+Row 0 (index 0): Position 1
+Row 1: Position 2
+...
+Row 5: Position 6 (Danny Osborne)
+So each row's index increments by 1 for position. So the driver immediately after Danny would be in position 7.
+
+Looking at the table, who is in position 7? That would be Mike Imrie, as per row 6, which has Position 7.
+
+But wait, I'm a bit confused because looking further down, there are some 'nan' positions. Let me make sure that after Danny Osborne (position 6), the next position is indeed 7. 
+
+Yes, in row 6, Mike Imrie is in position 7 with 62 points. So immediately after Danny Osborne (position 6) is Mike Imrie in position 7.
+
+Wait a second—hold on. Let me cross-verify. The Total points can sometimes indicate the ranking, but I think the Position column is more accurate here because it's explicitly stating their finish positions.
+
+So yes, Danny is 6th, so immediately after him would be the driver in 7th place, which is Mike Imrie.
+</think>
+
+Final Answer: Mike Imrie
+===================Answer===================
+Mike Imrie

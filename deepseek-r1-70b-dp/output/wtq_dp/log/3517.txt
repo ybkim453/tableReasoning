@@ -1,0 +1,50 @@
+===================Title===================
+Dino (singer)
+===================Table===================
+|    |   Year | Song                | Album        | Position   | Chart                 |
+|---:|-------:|:--------------------|:-------------|:-----------|:----------------------|
+|  0 |   1987 | "Summergirls"       | 24/7         | 50         | Billboard Hot 100     |
+|  1 |   1989 | "24/7"              | 24/7         | 42         | Billboard Hot 100     |
+|  2 |   1989 | "24/7"              | 24/7         | 12         | Hot R&B/Hip-Hop Songs |
+|  3 |   1989 | "I Like It"         | 24/7         | 7          | Billboard Hot 100     |
+|  4 |   1989 | "I Like It"         | 24/7         | 3          | Hot Dance Club Play   |
+|  5 |   1989 | "Sunshine"          | 24/7         | 23         | Billboard Hot 100     |
+|  6 |   1990 | "Never 2 Much of U" | 24/7         | 61         | Billboard Hot 100     |
+|  7 |   1990 | "Romeo"             | Swingin'     | 6          | Billboard Hot 100     |
+|  8 |   1991 | "Gentle"            | Swingin'     | 31         | Billboard Hot 100     |
+|  9 |   1993 | "Ooh Child"         | The Way I Am | 27         | Billboard Hot 100     |
+| 10 |   1993 | "Endlessly"         | The Way I Am | --         | Billboard Hot 100     |
+===================Question===================
+which song hit closest to the top of the charts?
+===================Text===================
+<think>
+Okay, so I need to figure out which song by Dino hit closest to the top of the charts based on the given table. Let me start by looking at each entry and understanding what's being measured here.
+
+The table has several columns: Year, Song, Album, Position, and Chart. My focus should be on the "Position" column because that indicates where the song charted. The lower the number in the position, the higher it is on the charts. So, for example, a song at position 1 would be the top of the chart.
+
+Looking through each row:
+
+- In 1987, "Summergirls" was at position 50 on Billboard Hot 100.
+- Then in 1989, "24/7" was at position 42 on Billboard Hot 100 and also 12 on Hot R&B/Hip-Hop Songs. Position 12 is better (higher) than 42.
+- Another song from 1989, "I Like It", reached position 7 on Billboard Hot 100 and even higher, position 3 on Hot Dance Club Play.
+- "Sunshine" in the same year was at 23 on Billboard Hot 100.
+- Moving to 1990, "Never 2 Much of U" was at 61, which is lower. Then "Romeo" from Swingin' album reached position 6 on Billboard Hot 100.
+- In 1991, "Gentle" was at 31 on Billboard Hot 100.
+- Finally, in 1993, "Ooh Child" was at 27 and "Endlessly" didn't chart, as indicated by "--".
+
+Now, looking for the lowest position number because that's the highest chart position. So I'll extract all the positions:
+
+50, 42, 12, 7, 3, 23, 61, 6, 31, 27.
+
+The smallest (best) position here is 3 from "I Like It" on Hot Dance Club Play and 6 from "Romeo" on Billboard Hot 100. Since the question asks for the closest to the top, I need to compare these. Position 3 is higher than position 6 because lower numbers mean better chart performance.
+
+Wait, but sometimes different charts have different weights. "Billboard Hot 100" is a major chart, whereas "Hot Dance Club Play" is more specific. However, since the question doesn't specify which chart to prioritize, I should consider all of them. So between position 3 and 6, 3 is higher.
+
+So "I Like It" reached number 3 on Hot Dance Club Play, which is better than "Romeo"'s number 6 on Billboard Hot 100. Therefore, the closest to the top would be "I Like It".
+
+Wait, but let me double-check: Position 3 is indeed lower (better) than position 6. So yes, "I Like It" got closer to the top among all the listed songs.
+</think>
+
+Final Answer: I Like It
+===================Answer===================
+"I Like It"

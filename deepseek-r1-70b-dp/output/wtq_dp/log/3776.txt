@@ -1,0 +1,106 @@
+===================Title===================
+Boksburg
+===================Table===================
+|    | Year    | Name              | Year .1   | Name .1            | Year .2   | Name .2             |
+|---:|:--------|:------------------|:----------|:-------------------|:----------|:--------------------|
+|  0 | 1903-04 | Mr B. Owen- Jones | 1935-36   | Mr W.Pearce        | 1967-68   | Mr J.F.Serfontein   |
+|  1 | 1904-05 | Mr B. Owen- Jones | 1936-37   | Mr W.Pearce        | 1968-69   | Mr Ben Steyn        |
+|  2 | 1905-06 | Mr G. Constable   | 1937 -38  | nan                | 1969-70   | nan                 |
+|  3 | 1907-08 | Mr T.R.Ziervogel  | 1939 -40  | Mr W.E.Vickers     | 1971-72   | Mr Chris Smith      |
+|  4 | 1908-09 | Mr T.R.Ziervogel  | 1940-41   | Mr P.Venter        | 1972-73   | Mr Ben Steyn        |
+|  5 | 1909-10 | Mr J.Morris       | 1941-42   | Mr P.Venter        | 1973-74   | Mr Issy Kramer      |
+|  6 | 1910-11 | nan               | 1942-43   | Mr P.Venter        | 1974-75   | nan                 |
+|  7 | 1911-12 | Mr B.Owen- Jones  | 1943-44   | Mr P.Venter        | 1975-76   | Mr Sakkie Blanche   |
+|  8 | 1912-13 | Mr J.Johnston     | 1944-45   | Mrs E.Myer         | 1977-78   | Mr Sakkie Blanche   |
+|  9 | 1913-14 | Mr J.Cook         | 1945-46   | Mrs E.Myer         | 1978-79   | nan                 |
+| 10 | 1914-15 | Mr J.Cook         | 1946-47   | Mrs E.Myer         | 1979 -80  | Mr Kobus Durand     |
+| 11 | 1915-16 | Mr R.Champion     | 1947-48   | Mr C.Chambers      | 1980-81   | Mr Meyer            |
+| 12 | 1916-17 | Mr R.Champion     | 1948-49   | Mrs S.Von Wielligh | 1981-82   | Mr Wiek Steyn       |
+| 13 | 1917-18 | Mr A.Ruffels      | 1949-50   | Mr A.J.Law         | 1982-83   | Mr Andrew Wheeler   |
+| 14 | 1918-19 | Mr J.Campbell     | 1950-51   | Mr P.Venter        | 1983-84   | nan                 |
+| 15 | 1919-20 | Mr B.Melman       | 1951-52   | Mr P.Venter        | 1984-85   | nan                 |
+| 16 | 1920-21 | Mr B.Melman       | 1952-53   | Mr Vic Pretorius   | 1985-86   | Mr J.Prins          |
+| 17 | 1921-21 | Mr B.Melman       | 1953-54   | Mr Vic Pretorius   | 1986-87   | nan                 |
+| 18 | 1922-23 | Mr J.Campbell     | 1954-55   | nan                | 1987-88   | nan                 |
+| 19 | 1923-24 | nan               | 1954-56   | Mr J.H.A.Roets     | 1988-89   | Mr Beyers De Klerk  |
+| 20 | 1924-25 | Mr E.Murton       | 1956-57   | Mr P.H.Tredoux     | 1989-90   | Mr Gerrie Wolmarans |
+| 21 | 1925-26 | Mr S.Steenberg    | 1957- 58  | nan                | 1990-91   | Mr Gerrie Wolmarans |
+| 22 | 1926-27 | nan               | 1958-59   | Mr J.M.Cawood      | 1991-92   | Mr TJ Ferreira      |
+| 23 | 1927-28 | Mr J.Stanbury     | 1959-60   | Mr A.P.Scribante   | 1992-93   | Mr Gerrie Wolmarans |
+| 24 | 1928-29 | Mr E.Murton       | 1960-61   | Mr J.L.Viljoen     | 1993-94   | Mr TJ Ferreira      |
+| 25 | 1929-30 | Mr K.Turner       | 1961-62   | Mr J.L.Viljoen     | nan       | nan                 |
+| 26 | 1930-31 | Mr J.E.Bigwood    | 1962-63   | Mrs S.Von Wielligh | nan       | nan                 |
+| 27 | 1931-32 | Mr A.Zaretsky     | 1963-64   | Mr F.J.Van Heerden | nan       | nan                 |
+| 28 | 1932-33 | Mr G.J.Malan      | 1964-65   | nan                | nan       | nan                 |
+| 29 | 1933-34 | nan               | 1965-66   | nan                | nan       | nan                 |
+| 30 | 1934-34 | nan               | 1966-67   | Mr H.McLennan      | nan       | nan                 |
+===================Question===================
+which mayors had more than 2 consecutive terms?
+===================Text===================
+<think>
+Alright, let's tackle this problem step by step. I have a table that lists mayors of Boksburg over various years, and I need to figure out which mayors served more than two consecutive terms. 
+
+First, I should understand the structure of the table. It seems each row represents different years, and for each year range, there are three different columns: Year, Name, Year.1, Name.1, Year.2, and Name.2. This might mean that for some years, there were multiple mayors serving in different periods within those years. However, the exact meaning isn't entirely clear, so I'll proceed with caution.
+
+Given that each row lists three different time spans (Year, Year.1, Year.2), perhaps they are non-overlapping terms or different positions within the same year? Or maybe they're separate mayorships held in different periods? Regardless, my focus is on identifying instances where a single person served more than two consecutive terms.
+
+I'll approach this by looking at each Name column across the rows and checking if any individual appears multiple times consecutively. Since "consecutive" could refer to serving one term after another without interruption, I need to track when a mayor's name repeats in subsequent years or entries.
+
+Looking through the Name column:
+
+- Mr B. Owen-Jones appears in 1903-04 and 1904-05 (rows 0 and 1). That’s two terms.
+- Then he appears again in 1911-12 (row 7), which is not consecutive with his earlier terms, so that doesn't count as more than two.
+
+Next, looking at Name.1:
+
+- Mr W.Pearce serves from 1935-36 to 1936-37 (rows 0 and 1). Two terms.
+- Mr P.Venter appears in multiple rows: 1940-41 (row4), 1941-42 (row5), 1942-43 (row6), 1943-44 (row7), 1950-51 (row14), 1951-52 (row15). That's five consecutive terms from 1940 to 1944, which is more than two.
+
+In Name.2:
+
+- Mr Ben Steyn appears in 1968-69 (row1) and then again in 1972-73 (row4). These are not consecutive.
+- Mrs E.Myer serves 1944-45 and 1945-46, but looking at the rows, she's in row8 and row9. Wait, actually, after that, row10 has her in 1946-47 as well. So she served three consecutive terms: 1944-45, 1945-46, 1946-47. That’s more than two.
+
+Wait, let me check again:
+
+Row8 (Year:1912-13) is Name1: Mrs E.Myer for Year.1:1944-45.
+Then row9 (Year:1933-34) has Name1: nan? Wait no, looking at the rows properly might be confusing because each row spans multiple years.
+
+Actually, I think I made a mistake in tracking the rows. Each row represents different time periods, but it's not clear if they are overlapping or separate. Let me try to list all terms for each person:
+
+For Name column (Year):
+
+- Mr B. Owen-Jones: 1903-04, 1904-05
+- Then again in 1911-12.
+- So two non-consecutive terms.
+
+Mr P.Venter in Name.1:
+
+- Rows0 and1 have him from 1935 to 1937 (two terms).
+- But looking further down, rows14 and15:1950-51 and 1951-52; that's another two consecutive years.
+Wait, but in row4, Year.1 is 1940-41, Name.1: Mr P.Venter
+Row5:1941-42
+Row6:1942-43
+Row7:1943-44
+So from 1940 to 1944, that's five consecutive years as mayor.
+
+Similarly, Mrs E.Myer in Name.1:
+
+She appears in row8 (1944-45), row9 (1945-46), and row10 (1946-47). So three consecutive terms.
+
+Mr TJ Ferreira in Name.2: 1991-92 and 1993-94. Not consecutive.
+Mr Gerrie Wolmarans serves multiple times but not consecutively beyond two, I think.
+
+So compiling the mayors with more than two consecutive terms:
+
+1. Mr P.Venter (5 consecutive terms from 1940 to 1944)
+2. Mrs E.Myer (3 consecutive terms from 1944-47)
+
+Wait, but looking again at Name.1 for Mrs E.Myer: in row8, she's mayor for 1944-45; then in row9 for 1945-46; and in row10 for 1946-47. So three consecutive years.
+
+So both Mr P.Venter and Mrs E.Myer served more than two consecutive terms.
+</think>
+
+Final Answer: Mr P Venter, Mrs E Myer
+===================Answer===================
+Mr B.Melman,Mr P.Venter,Mrs E.Myer

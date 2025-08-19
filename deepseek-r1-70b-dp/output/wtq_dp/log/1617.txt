@@ -1,0 +1,75 @@
+===================Title===================
+Olympic Oath
+===================Table===================
+|    | Olympics             | Athlete                                             | Judge (Official)       | Coach              | Language                             |
+|---:|:---------------------|:----------------------------------------------------|:-----------------------|:-------------------|:-------------------------------------|
+|  0 | 1920 Summer Olympics | Victor Boin                                         | -                      | -                  | -                                    |
+|  1 | 1924 Winter Olympics | Camille Mandrillon                                  | -                      | -                  | -                                    |
+|  2 | 1924 Summer Olympics | Géo André                                         | -                      | -                  | French.                              |
+|  3 | 1928 Winter Olympics | Hans Eidenbenz                                      | -                      | -                  | -                                    |
+|  4 | 1928 Summer Olympics | Harry Dénis                                        | -                      | -                  | -                                    |
+|  5 | 1932 Winter Olympics | Jack Shea                                           | -                      | -                  | -                                    |
+|  6 | 1932 Summer Olympics | George Calnan                                       | -                      | -                  | English                              |
+|  7 | 1936 Winter Olympics | Willy Bogner, Sr.                                   | -                      | -                  | -                                    |
+|  8 | 1936 Summer Olympics | Rudolf Ismayr                                       | -                      | -                  | -                                    |
+|  9 | 1948 Winter Olympics | Bibi Torriani                                       | -                      | -                  | -                                    |
+| 10 | 1948 Summer Olympics | Donald Finlay                                       | -                      | -                  | English                              |
+| 11 | 1952 Winter Olympics | Torbjørn Falkanger                                  | -                      | -                  | -                                    |
+| 12 | 1952 Summer Olympics | Heikki Savolainen                                   | -                      | -                  | -                                    |
+| 13 | 1956 Winter Olympics | Giuliana Minuzzo                                    | -                      | -                  | -                                    |
+| 14 | 1956 Summer Olympics | John Landy (Melbourne)\nHenri Saint Cyr (Stockholm) | -                      | -                  | English/Swedish                      |
+| 15 | 1960 Winter Olympics | Carol Heiss                                         | -                      | -                  | -                                    |
+| 16 | 1960 Summer Olympics | Adolfo Consolini                                    | -                      | -                  | -                                    |
+| 17 | 1964 Winter Olympics | Paul Aste                                           | -                      | -                  | German                               |
+| 18 | 1964 Summer Olympics | Takashi Ono                                         | -                      | -                  | Japanese                             |
+| 19 | 1968 Winter Olympics | Léo Lacroix                                        | -                      | -                  | French                               |
+| 20 | 1968 Summer Olympics | Pablo Garrido                                       | -                      | -                  | Spanish                              |
+| 21 | 1972 Winter Olympics | Keiichi Suzuki                                      | Fumio Asaki            | -                  | Japanese                             |
+| 22 | 1972 Summer Olympics | Heidi Schüller                                     | Heinz Pollay           | -                  | German                               |
+| 23 | 1976 Winter Olympics | Werner Delle Karth                                  | Willy Köstinger       | -                  | German                               |
+| 24 | 1976 Summer Olympics | Pierre St.-Jean                                     | Maurice Fauget         | -                  | French (St.-Jean)/English (Fauget)   |
+| 25 | 1980 Winter Olympics | Eric Heiden                                         | Terry McDermott        | -                  | English                              |
+| 26 | 1980 Summer Olympics | Nikolai Andrianov                                   | Alexander Medved       | -                  | Russian                              |
+| 27 | 1984 Winter Olympics | Bojan Križaj                                       | Dragan Perovic         | -                  | Serbo-Croatian                       |
+| 28 | 1984 Summer Olympics | Edwin Moses                                         | Sharon Weber           | -                  | English                              |
+| 29 | 1988 Winter Olympics | Pierre Harvey                                       | Suzanna Morrow-Francis | -                  | English                              |
+| 30 | 1988 Summer Olympics | Hur Jae\nShon Mi-Na                                 | Lee Hak-Rae            | -                  | Korean                               |
+| 31 | 1992 Winter Olympics | Surya Bonaly                                        | Pierre Bornat          | -                  | French                               |
+| 32 | 1992 Summer Olympics | Luis Doreste Blanco                                 | Eugeni Asensio         | -                  | Spanish/Catalan                      |
+| 33 | 1994 Winter Olympics | Vegard Ulvang                                       | Kari Kåring           | -                  | English (Ulvang)/Norwegian (Kåring) |
+| 34 | 1996 Summer Olympics | Teresa Edwards                                      | Hobie Billingsley      | -                  | English                              |
+| 35 | 1998 Winter Olympics | Kenji Ogiwara                                       | Junko Hiramatsu        | -                  | Japanese                             |
+| 36 | 2000 Summer Olympics | Rechelle Hawkes                                     | Peter Kerr             | -                  | English                              |
+| 37 | 2002 Winter Olympics | Jimmy Shea                                          | Allen Church           | -                  | English                              |
+| 38 | 2004 Summer Olympics | Zoi Dimoschaki                                      | Lazaros Voreadis       | -                  | Greek                                |
+| 39 | 2006 Winter Olympics | Giorgio Rocca                                       | Fabio Bianchetti       | -                  | Italian                              |
+| 40 | 2008 Summer Olympics | Zhang Yining                                        | Huang Liping           | -                  | Chinese                              |
+| 41 | 2010 Winter Olympics | Hayley Wickenheiser                                 | Michel Verrault        | -                  | English/French                       |
+| 42 | 2012 Summer Olympics | Sarah Stevenson                                     | Mik Basi               | Eric Farrell       | English                              |
+| 43 | 2014 Winter Olympics | Ruslan Zakharov                                     | Vyacheslav Vedenin, Jr | Anastassia Popkova | Russian                              |
+===================Question===================
+what is the name of the last speaker?
+===================Text===================
+<think>
+Alright, so I need to figure out who the last speaker in the table is. Let's take it step by step.
+
+First, looking at the table, each row represents an Olympic event with various details including the Olympics name, Athlete, Judge (Official), Coach, and Language used during the oath. The user is asking for the name of the last speaker.
+
+I notice that in the columns, the "Judge (Official)" and "Coach" are sometimes filled with names, while other times they have a dash ("-"). It seems like the speakers would be either Judges or Coaches since those roles likely involve speaking during events.
+
+Now, looking at the table from top to bottom, I should find the last row. The rows are numbered from 0 to 43, which means there are 44 entries in total. So the last entry is row number 43, which corresponds to the "2014 Winter Olympics."
+
+In that row, under the "Judge (Official)" column, it says "Vyacheslav Vedenin, Jr." and under the "Coach" column, it's "Anastassia Popkova." So both are officials, but since the question is about the speaker, I should consider whether multiple people spoke or just one. However, some rows have multiple speakers listed with languages, like in 2010 Winter Olympics, where both English and French are used.
+
+Wait, let me check if any row after that has a different last entry. Since row 43 is indeed the last one, I need to see who the speaker(s) were there. The "Language" column for this row says "Russian," which indicates the language used by the speaker. Therefore, the speakers would be those associated with that language.
+
+Looking back at row 43, the Judge is Vyacheslav Vedenin, Jr., and the Coach is Anastassia Popkova. I think both might have spoken, but sometimes in these oaths, it's the athlete who takes the oath on behalf of all competitors, but here the question is about the speaker(s) from the officials.
+
+But wait, the athlete for that row is Ruslan Zakharov. So maybe he took the oath as an athlete, but the speakers (Judges or Coaches) are Vyacheslav Vedenin and Anastassia Popkova. However, sometimes it's one person who speaks on behalf of all officials. But in this case, both positions have names.
+
+Therefore, the last speaker(s) would be these two individuals: Vyacheslav Vedenin, Jr., and Anastassia Popkova.
+</think>
+
+Final Answer: Vyacheslav Vedenin, Jr., Anastassia Popkova
+===================Answer===================
+Ruslan Zakharov

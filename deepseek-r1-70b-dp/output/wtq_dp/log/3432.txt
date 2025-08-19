@@ -1,0 +1,72 @@
+===================Title===================
+AFL Cairns
+===================Table===================
+|    |   Year | Premiers                        | Score       | Runners Up                      | Score .1   |
+|---:|-------:|:--------------------------------|:------------|:--------------------------------|:-----------|
+|  0 |   2003 | Centrals Trinity Beach Bulldogs | 14.11 (95)  | North Cairns                    | 6.7 (43)   |
+|  1 |   2004 | Port Douglas Crocs              | 17.13 (115) | North Cairns Tigers             | 8.9 (57)   |
+|  2 |   2005 | Port Douglas Crocs              | 19.14 (128) | Cairns Saints                   | 4.11 (35)  |
+|  3 |   2006 | Manunda Hawks                   | 11.11 (77)  | Centrals Trinity Beach Bulldogs | 10.9 (69)  |
+|  4 |   2007 | Centrals Trinity Beach Bulldogs | 14.16 (100) | Cairns Saints                   | 11.2 (68)  |
+|  5 |   2008 | Cairns Saints                   | 12.15 (87)  | North Cairns Tigers             | 2.9 (21)   |
+|  6 |   2009 | South Cairns Cutters            | 9.11 (65)   | Cairns Saints                   | 9.4 (58)   |
+|  7 |   2010 | North Cairns Tigers             | 8.10 (58)   | Port Douglas Crocs              | 8.5 (53)   |
+|  8 |   2011 | Manunda Hawks                   | 11.8 (74)   | Port Douglas Crocs              | 6.9 (45)   |
+|  9 |   2012 | Cairns Saints                   | 17.6 (108)  | North Cairns Tigers             | 11.12 (78) |
+| 10 |   2013 | North Cairns Tigers             | 14.14 (98)  | Port Douglas Crocs              | 13.6 (84)  |
+===================Question===================
+which runner up had the least amount of points?
+===================Text===================
+<think>
+Okay, so I need to figure out which runner-up had the least amount of points in the AFL Cairns table provided. Let me start by understanding the table structure.
+
+Looking at the table columns: Year, Premiers, Score, Runners Up, and another column labeled "Score .1". Wait, that might be a typo. I think it's supposed to be "Score" for the runners-up as well. So each row represents a year's grand final result, showing who were the premiers (winners), their score, the runners-up, and their score.
+
+I need to find which runner-up team had the lowest points across all the years provided. To do this, I should extract each runner-up team and their corresponding scores, then compare these scores to identify the smallest one.
+
+Let me list out each year's runner-up and their score:
+
+- 2003: North Cairns - 6.7 (43)
+- 2004: North Cairns Tigers - 8.9 (57)
+- 2005: Cairns Saints - 4.11 (35)
+- 2006: Centrals Trinity Beach Bulldogs - 10.9 (69)
+- 2007: Cairns Saints - 11.2 (68)
+- 2008: North Cairns Tigers - 2.9 (21)
+- 2009: Cairns Saints - 9.4 (58)
+- 2010: Port Douglas Crocs - 8.5 (53)
+- 2011: Port Douglas Crocs - 6.9 (45)
+- 2012: North Cairns Tigers - 11.12 (78)
+- 2013: Port Douglas Crocs - 13.6 (84)
+
+Wait, let me make sure I'm reading the scores correctly. The format is Goals.Behinds (Points). So for example, in 2008, the runner-up score is 2.9 (21), which means 2 goals and 9 behinds, totaling 21 points because each goal is worth 6 points and each behind is 1 point. So I should calculate the points correctly.
+
+Calculating each:
+
+- 2003: 6*6 +7=36+7=43
+- 2004:8*6+9=48+9=57
+- 2005:4*6+11=24+11=35
+- 2006:10*6+9=60+9=69
+- 2007:11*6+2=66+2=68
+- 2008:2*6+9=12+9=21
+- 2009:9*6+4=54+4=58
+- 2010:8*6+5=48+5=53
+- 2011:6*6+9=36+9=45
+- 2012:11*6+12=66+12=78
+- 2013:13*6+6=78+6=84
+
+Now, looking at these points:
+
+43,57,35,69,68,21,58,53,45,78,84.
+
+The smallest number here is 21. That was in 2008 when the runner-up was North Cairns Tigers with a score of 2.9 (21).
+
+Wait, but I should double-check if there's any other team with points lower than that. Let me scan through the list again:
+
+- The next lowest after 21 is 35 in 2005 by Cairns Saints.
+
+So yes, 21 is the least. Therefore, the runner-up with the least amount of points was North Cairns Tigers in 2008.
+</think>
+
+Final Answer: North Cairns Tigers
+===================Answer===================
+North Cairns Tigers

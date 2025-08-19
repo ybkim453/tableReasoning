@@ -1,0 +1,44 @@
+===================Title===================
+Snooker season 1996/1997
+===================Table===================
+|    | Date   | Date .1   | Unnamed: 2   | Rank   | Tournament name              | Venue                            | City            | Winner            | Runner-up         | Score   |
+|---:|:-------|:----------|:-------------|:-------|:-----------------------------|:---------------------------------|:----------------|:------------------|:------------------|:--------|
+|  0 | 09–09  | 09–15     | THA          | WR     | Asian Classic                | Riverside Montien Hotel          | Bangkok         | Ronnie O'Sullivan | Brian Morgan      | 9–8     |
+|  1 | 09–24  | 09–29     | SCO          | nan    | Scottish Masters             | Civic Centre                     | Motherwell      | Peter Ebdon       | Alan McManus      | 9–6     |
+|  2 | 10–05  | 10–14     | SCO          | nan    | Benson & Hedges Championship | JP Snooker Centre                | Edinburgh       | Brian Morgan      | Drew Henry        | 9–8     |
+|  3 | 10–08  | 10–13     | MLT          | nan    | Malta Grand Prix             | Jerma Palace Hotel               | Marsaskala      | Nigel Bond        | Tony Drago        | 7–3     |
+|  4 | 10–16  | 10–27     | ENG          | WR     | Grand Prix                   | Bournemouth International Centre | Bournemouth     | Mark Williams     | Euan Henderson    | 9–5     |
+|  5 | 10–29  | 11–10     | THA          | nan    | World Cup                    | Amari Watergate Hotel            | Bangkok         | Scotland          | Ireland           | 10–7    |
+|  6 | 11–15  | 12–01     | ENG          | WR     | UK Championship              | Guild Hall                       | Preston         | Stephen Hendry    | John Higgins      | 10–9    |
+|  7 | 12–09  | 12–15     | GER          | WR     | German Open                  | NAAFI                            | Osnabrück      | Ronnie O'Sullivan | Alain Robidoux    | 9–7     |
+|  8 | 01–02  | 01–05     | ENG          | nan    | Charity Challenge            | International Convention Centre  | Birmingham      | Stephen Hendry    | Ronnie O'Sullivan | 9–8     |
+|  9 | 01–24  | 02–01     | WAL          | WR     | Welsh Open                   | Newport Leisure Centre           | Newport         | Stephen Hendry    | Mark King         | 9–2     |
+| 10 | 02–02  | 02–09     | ENG          | nan    | Masters                      | Wembley Conference Centre        | London          | Steve Davis       | Ronnie O'Sullivan | 10–8    |
+| 11 | 02–13  | 02–22     | SCO          | WR     | International Open           | A.E.C.C.                         | Aberdeen        | Stephen Hendry    | Tony Drago        | 9–1     |
+| 12 | 02–23  | 03–02     | MLT          | WR     | European Open                | Mediterranean Conference Centre  | Valletta        | John Higgins      | John Parrott      | 9–5     |
+| 13 | 03–10  | 03–16     | THA          | WR     | Thailand Open                | Century Park Hotel               | Bangkok         | Peter Ebdon       | Nigel Bond        | 9–7     |
+| 14 | 03–18  | 03–23     | IRL          | nan    | Irish Masters                | Goff's                           | Kill            | Stephen Hendry    | Darren Morgan     | 9–8     |
+| 15 | 03–27  | 04–05     | ENG          | WR     | British Open                 | Plymouth Pavilions               | Plymouth        | Mark Williams     | Stephen Hendry    | 9–2     |
+| 16 | 04–19  | 05–05     | ENG          | WR     | World Snooker Championship   | Crucible Theatre                 | Sheffield       | Ken Doherty       | Stephen Hendry    | 18–12   |
+| 17 | 05–??  | 05–??     | WAL          | nan    | Pontins Professional         | Pontins                          | Prestatyn       | Martin Clark      | Andy Hicks        | 9–7     |
+| 18 | 12–28  | 05–18     | ENG          | nan    | European League              | Diamond Centre                   | Irthlingborough | Ronnie O'Sullivan | Stephen Hendry    | 10–8    |
+===================Question===================
+what is the name of the last tournament on this chart?
+===================Text===================
+<think>
+Alright, so I have this table about the Snooker season from 1996/1997, and I need to find out the name of the last tournament on the chart. Let me take a look at how the table is structured.
+
+First, I'll check the columns: Date, Date .1, Unnamed: 2, Rank, Tournament name, Venue, City, Winner, Runner-up, Score. The key here is the "Tournament name" column because that's what the question is asking about.
+
+The table has 19 rows, from index 0 to index 18. Each row represents a different tournament. So I need to find the last one, which would be at index 18 since indexing starts at 0. 
+
+Looking at row 18, under "Tournament name", it says "European League". That seems straightforward. But just to double-check, let me make sure there's no other data beyond this that might indicate a different tournament. The dates for the last entry are from 12–28 to 05–18, which is a bit confusing because it starts in December and ends in May of the next year, but since all entries are part of the same season, it must be a valid event.
+
+I don't see any other rows after index 18, so that's definitely the last tournament listed. The name is "European League". I think that's the answer.
+</think>
+
+The last tournament in the table is named "European League".
+
+Final Answer: European League
+===================Answer===================
+European League

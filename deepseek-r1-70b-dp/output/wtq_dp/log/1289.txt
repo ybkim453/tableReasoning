@@ -1,0 +1,56 @@
+===================Title===================
+PSL Players' Player of the Season
+===================Table===================
+|    | Season   | Footballer         | Club              | Position   | Nationality   |
+|---:|:---------|:-------------------|:------------------|:-----------|:--------------|
+|  0 | 2012-13  | Itumeleng Khune    | Kaizer Chiefs     | GK         | South Africa  |
+|  1 | 2011-12  | Siyabonga Nomvethe | Moroka Swallows   | FW         | South Africa  |
+|  2 | 2010-11  | Thulani Serero     | Ajax Cape Town    | MF         | South Africa  |
+|  3 | 2009-10  | Katlego Mphela     | Mamelodi Sundowns | FW         | South Africa  |
+|  4 | 2008-09  | Teko Modise        | Orlando Pirates   | MF         | South Africa  |
+|  5 | 2007-08  | Itumeleng Khune    | Kaizer Chiefs     | GK         | South Africa  |
+|  6 | 2006-07  | Godfrey Sapula     | Mamelodi Sundowns | MF         | South Africa  |
+|  7 | 2005-06  | Surprise Moriri    | Mamelodi Sundowns | MF         | South Africa  |
+|  8 | 2004-05  | Sandile Ndlovu     | Dynamos           | FW         | South Africa  |
+|  9 | 2003-04  | Tinashe Nengomasha | Kaizer Chiefs     | MF         | Zimbabwe      |
+| 10 | 2002-03  | Moeneeb Josephs    | Ajax Cape Town    | GK         | South Africa  |
+| 11 | 2001-02  | Jabu Pule          | Kaizer Chiefs     | MF         | South Africa  |
+| 12 | 2000-01  | Benjani Mwaruwari  | Jomo Cosmos       | FW         | Zimbabwe      |
+| 13 | 1999-00  | Siyabonga Nomvethe | Kaizer Chiefs     | FW         | South Africa  |
+| 14 | 1998-99  | Roger Feutmba      | Mamelodi Sundowns | MF         | Cameroon      |
+| 15 | 1997-98  | Raphael Chukwu     | Mamelodi Sundowns | FW         | Nigeria       |
+| 16 | 1996-97  | Wilfred Mugeyi     | Bush Bucks        | FW         | Zimbabwe      |
+===================Question===================
+which footballer is the only one with nigerian nationality?
+===================Text===================
+<think>
+Alright, I need to figure out which footballer in the given table is the only one with Nigerian nationality. Let me start by looking at each row and checking the "Nationality" column.
+
+Starting from the top:
+
+0: Itumeleng Khune - South Africa  
+1: Siyabonga Nomvethe - South Africa  
+2: Thulani Serero - South Africa  
+3: Katlego Mphela - South Africa  
+4: Teko Modise - South Africa  
+5: Itumeleng Khune again, also South African  
+6: Godfrey Sapula - South Africa  
+7: Surprise Moriri - South Africa  
+8: Sandile Ndlovu - South Africa  
+9: Tinashe Nengomasha - Zimbabwe  
+10: Moeneeb Josephs - South Africa  
+11: Jabu Pule - South Africa  
+12: Benjani Mwaruwari - Zimbabwe  
+13: Siyabonga Nomvethe again, South Africa  
+14: Roger Feutmba - Cameroon  
+15: Raphael Chukwu - Nigeria  
+16: Wilfred Mugeyi - Zimbabwe  
+
+So, scanning through all the nationalities, most are from South Africa. I see a couple from Zimbabwe and one each from Cameroon and Nigeria. Specifically, Raphael Chukwu in row 15 is listed as Nigerian. 
+
+I should double-check to make sure there's only one Nigerian. Yes, looking back, no other entries have "Nigeria" in the Nationality column except for Raphael Chukwu.
+</think>
+
+Final Answer: Raphael Chukwu
+===================Answer===================
+Raphael Chukwu

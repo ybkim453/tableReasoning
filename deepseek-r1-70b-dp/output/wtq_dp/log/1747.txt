@@ -1,0 +1,121 @@
+===================Title===================
+Eagles–Giants rivalry
+===================Table===================
+|    |   Year | Date         | Winner              | Result     | Loser               | Location                |
+|---:|-------:|:-------------|:--------------------|:-----------|:--------------------|:------------------------|
+|  0 |   2000 | September 10 | New York Giants     | 33-18      | Philadelphia Eagles | Veterans Stadium        |
+|  1 |   2000 | October 29   | New York Giants     | 24-7       | Philadelphia Eagles | Giants Stadium          |
+|  2 |   2001 | January 7    | New York Giants     | 20-10      | Philadelphia Eagles | Giants Stadium          |
+|  3 |   2001 | October 22   | Philadelphia Eagles | 10-9       | New York Giants     | Giants Stadium          |
+|  4 |   2001 | December 30  | Philadelphia Eagles | 24-21      | New York Giants     | Veterans Stadium        |
+|  5 |   2002 | October 28   | Philadelphia Eagles | 17-3       | New York Giants     | Veterans Stadium        |
+|  6 |   2002 | December 28  | New York Giants     | 10-7       | Philadelphia Eagles | Giants Stadium          |
+|  7 |   2003 | October 19   | Philadelphia Eagles | 14-10      | New York Giants     | Giants Stadium          |
+|  8 |   2003 | November 16  | Philadelphia Eagles | 28-10      | New York Giants     | Lincoln Financial Field |
+|  9 |   2004 | September 12 | Philadelphia Eagles | 31-17      | New York Giants     | Lincoln Financial Field |
+| 10 |   2004 | November 28  | Philadelphia Eagles | 27-6       | New York Giants     | Giants Stadium          |
+| 11 |   2005 | November 20  | New York Giants     | 27-17      | Philadelphia Eagles | Giants Stadium          |
+| 12 |   2005 | December 11  | New York Giants     | 26-23 (OT) | Philadelphia Eagles | Lincoln Financial Field |
+| 13 |   2006 | September 17 | New York Giants     | 30-24 (OT) | Philadelphia Eagles | Lincoln Financial Field |
+| 14 |   2006 | December 17  | Philadelphia Eagles | 36-22      | New York Giants     | Giants Stadium          |
+| 15 |   2007 | January 7    | Philadelphia Eagles | 23-20      | New York Giants     | Lincoln Financial Field |
+| 16 |   2007 | September 30 | New York Giants     | 16-3       | Philadelphia Eagles | Giants Stadium          |
+| 17 |   2007 | December 9   | New York Giants     | 16-13      | Philadelphia Eagles | Lincoln Financial Field |
+| 18 |   2008 | November 9   | New York Giants     | 36-31      | Philadelphia Eagles | Lincoln Financial Field |
+| 19 |   2008 | December 7   | Philadelphia Eagles | 20-14      | New York Giants     | Giants Stadium          |
+| 20 |   2009 | January 11   | Philadelphia Eagles | 23-11      | New York Giants     | Giants Stadium          |
+| 21 |   2009 | November 1   | Philadelphia Eagles | 40-17      | New York Giants     | Lincoln Financial Field |
+| 22 |   2009 | December 13  | Philadelphia Eagles | 45-38      | New York Giants     | Giants Stadium          |
+===================Question===================
+what are the total number of times the new york giants is listed as the winner?
+===================Text===================
+<think>
+Okay, so I need to figure out how many times the New York Giants are listed as the winner in this table. Let me start by looking at each row and checking the "Winner" column.
+
+First, I'll go through each year and count the Giants' wins. Starting from 2000 up to 2009.
+
+In 2000: There are two games (rows 0 and 1). Both times the Giants won. So that's 2 points.
+
+Moving to 2001: Rows 2 shows a Giants win, but row 3 is an Eagles win, and row 4 also Eagles. So only one more for Giants in 2001, making it total 3 so far.
+
+In 2002: Row 5 is Eagles, row 6 is Giants. That's another one, bringing the count to 4.
+
+2003: Rows 7 and 8 are both Eagles wins. No addition here.
+
+2004: Rows 9 and 10 are Eagles again. Still at 4.
+
+In 2005: Rows 11 and 12 are both Giants wins. So adding 2 more, now total is 6.
+
+2006: Row 13 is a Giants win in OT, then row 14 is Eagles. That's one more for Giants, total 7.
+
+2007: Rows 15 is Eagles, rows 16 and 17 are Giants. So two more wins, making it 9.
+
+Wait, no, looking again. Row 16 is Giants, row 17 is also Giants? Wait, no, row 15 is 2007 January, so the next are September and December 2007. Let me check: rows 15 (Jan '07) Eagles, then row 16 (Sep '07) Giants, row 17 (Dec '07) Giants. So that's two wins in 2007 for Giants. So total after 2007 is 9.
+
+Wait no, earlier count was up to 6 after 2005. Then 2006 added 1, making it 7. Then 2007 adds 2, so total becomes 9?
+
+Wait let me recount step by step:
+
+- 2000: rows 0 and 1 → 2 wins
+- 2001: row 2 → 3
+- 2002: row6 →4
+- 2005: rows11 and12→6
+- 2006:row13→7
+- 2007:rows16,17→9
+
+Wait that seems correct. Then 2008:
+
+Row18 is Giants (Nov '08), row19 Eagles. So one more win for Giants in 2008. Total now 10.
+
+Then 2009: rows20,21,22. Rows20 and21 are Eagles wins; row22 is Eagles as well. So no addition here.
+
+Wait, no. Rows20,21,22: winners are all Eagles except none? Wait:
+
+Looking at the table again for 2009:
+
+Row20 (Jan '09): Eagles win
+Row21 (Nov '09): Eagles
+Row22 (Dec '09): Eagles
+
+So no Giants wins in 2009.
+
+Wait but earlier I thought row18 was Giants, which is Nov '08. So adding that to the count: after 2008, total becomes 10.
+
+Is there any other row where Giants won? Let me check again all rows:
+
+Row0:Giants
+Row1:Giants
+Row2:Giants
+Row3:Eagles
+Row4:Eagles
+Row5:Eagles
+Row6:Giants
+Row7:Eagles
+Row8:Eagles
+Row9:Eagles
+Row10:Eagles
+Row11:Giants
+Row12:Giants
+Row13:Giants
+Row14:Eagles
+Row15:Eagles
+Row16:Giants
+Row17:Giants
+Row18:Giants
+Row19:Eagles
+Row20:Eagles
+Row21:Eagles
+Row22:Eagles
+
+So let me list all the Giants wins by row number:
+
+0,1,2,6,11,12,13,16,17,18.
+
+That's 10 times. So total of 10 times.
+</think>
+
+The New York Giants are listed as the winner 10 times in the provided table.
+
+Final Answer: 10
+===================Answer===================
+10

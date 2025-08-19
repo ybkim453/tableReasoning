@@ -1,0 +1,38 @@
+===================Title===================
+Challenger LTD
+===================Table===================
+|    | Client          | Years of Operation   | Area of Operation   | Country   | Services           |
+|---:|:----------------|:---------------------|:--------------------|:----------|:-------------------|
+|  0 | Agoco           | 1991-current         | Sarir field         | Libya     | Drilling, workover |
+|  1 | Lasmo           | 1993-94              | Wadi Borjuj         | Libya     | Drilling, workover |
+|  2 | Waha            | 1994                 | El Zahra            | Libya     | Drilling, workover |
+|  3 | IPC-Dublin      | 1997-97              | Kilwa               | Tanzania  | Drilling           |
+|  4 | OMV             | 1997                 | Field 103           | Libya     | Drilling, workover |
+|  5 | Fina            | 1997                 | El Hamada           | Libya     | Drilling, workover |
+|  6 | Marathon        | 1998                 | Manzala field       | Egypt     | Drilling           |
+|  7 | Khalda/Repsol   | 1998-99              | West Desert         | Egypt     | Drilling           |
+|  8 | Total           | 1999-current         | El Mabrouk          | Libya     | Drilling           |
+|  9 | Agiba-Agip      | 1999                 | West Desert         | Egypt     | Drilling           |
+| 10 | IPLL            | 1999-current         | El Naka field       | Libya     | Drilling           |
+| 11 | SOC             | 2000-current         | SOC fields          | Libya     | Drilling           |
+| 12 | Veba            | 2000                 | Different fields    | Libya     | Drilling, workover |
+| 13 | Perenco Oil Co. | 2000-01              | EchiraX Concession  | Gabon     | Drilling           |
+| 14 | Zueitina        | 2001-current         | Field 103           | Libya     | Drilling, workover |
+===================Question===================
+how many years did marathon stay in operation?
+===================Text===================
+<think>
+Alright, I need to figure out how many years Marathon stayed in operation based on the provided table. Let me start by locating the row for Marathon. Scanning through the table, I see that Marathon is listed at index 6.
+
+Looking at the "Years of Operation" column for Marathon, it says 1998. Now, this could mean a couple of things. It might indicate that they started in 1998 and are still operating, or maybe they operated only during 1998. But often in such tables, if there's no end year mentioned, it suggests that the operation continued beyond the start year.
+
+Wait, but some entries have a range like "1991-current", which clearly shows an ongoing operation. For Marathon, it's just listed as 1998 without any hyphen or subsequent years. So, I think this means they were operational in 1998 only. 
+
+I should double-check other entries to see if the absence of a hyphen implies a single year. Looking at index 2, Waha is listed with "1994", which doesn't have a range, and it's just one year. Similarly, index 6, Marathon, is also for one year. This pattern suggests that when only a single year is mentioned without a hyphen or "current", the operation was for that specific year alone.
+
+Therefore, Marathon stayed in operation for one year.
+</think>
+
+Final Answer: 1
+===================Answer===================
+1

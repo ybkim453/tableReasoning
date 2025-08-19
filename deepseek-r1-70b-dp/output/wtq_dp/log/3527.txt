@@ -1,0 +1,37 @@
+===================Title===================
+Dino (singer)
+===================Table===================
+|    |   Year | Song                | Album        | Position   | Chart                 |
+|---:|-------:|:--------------------|:-------------|:-----------|:----------------------|
+|  0 |   1987 | "Summergirls"       | 24/7         | 50         | Billboard Hot 100     |
+|  1 |   1989 | "24/7"              | 24/7         | 42         | Billboard Hot 100     |
+|  2 |   1989 | "24/7"              | 24/7         | 12         | Hot R&B/Hip-Hop Songs |
+|  3 |   1989 | "I Like It"         | 24/7         | 7          | Billboard Hot 100     |
+|  4 |   1989 | "I Like It"         | 24/7         | 3          | Hot Dance Club Play   |
+|  5 |   1989 | "Sunshine"          | 24/7         | 23         | Billboard Hot 100     |
+|  6 |   1990 | "Never 2 Much of U" | 24/7         | 61         | Billboard Hot 100     |
+|  7 |   1990 | "Romeo"             | Swingin'     | 6          | Billboard Hot 100     |
+|  8 |   1991 | "Gentle"            | Swingin'     | 31         | Billboard Hot 100     |
+|  9 |   1993 | "Ooh Child"         | The Way I Am | 27         | Billboard Hot 100     |
+| 10 |   1993 | "Endlessly"         | The Way I Am | --         | Billboard Hot 100     |
+===================Question===================
+how many songs from the album swingin" made it to the billboard hot 100?
+===================Text===================
+<think>
+Alright, so I need to figure out how many songs from Dino's album "Swingin'" made it onto the Billboard Hot 100 chart based on the provided table.
+
+First, I'll go through each row of the table and look for entries where the Album column is "Swingin'". 
+
+Looking at the table:
+
+- Row 7: Year 1990, Song "Romeo", Album "Swingin'", Position 6 on Billboard Hot 100.
+- Row 8: Year 1991, Song "Gentle", Album "Swingin'", Position 31 on Billboard Hot 100.
+
+I don't see any other entries with the album name "Swingin'". Rows 0 to 6 and 9 onwards are either from the album "24/7" or "The Way I Am".
+
+So, there are two songs: "Romeo" and "Gentle".
+</think>
+
+Final Answer: 2
+===================Answer===================
+2

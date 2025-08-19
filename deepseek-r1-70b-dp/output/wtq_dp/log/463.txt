@@ -1,0 +1,43 @@
+===================Title===================
+United States men's national soccer team
+===================Table===================
+|    | #   | Player           |   Goals |   Caps | Career       |
+|---:|:----|:-----------------|--------:|-------:|:-------------|
+|  0 | 1   | Landon Donovan   |      57 |    155 | 2000–present |
+|  1 | 2   | Clint Dempsey    |      36 |    103 | 2004–present |
+|  2 | 3   | Eric Wynalda     |      34 |    106 | 1990–2000    |
+|  3 | 4   | Brian McBride    |      30 |     95 | 1993–2006    |
+|  4 | 5   | Joe-Max Moore    |      24 |    100 | 1992–2002    |
+|  5 | 6T  | Jozy Altidore    |      21 |     67 | 2007–present |
+|  6 | 6T  | Bruce Murray     |      21 |     86 | 1985–1993    |
+|  7 | 8   | Eddie Johnson    |      19 |     62 | 2004–present |
+|  8 | 9T  | Earnie Stewart   |      17 |    101 | 1990–2004    |
+|  9 | 9T  | DaMarcus Beasley |      17 |    114 | 2001–present |
+===================Question===================
+how many years was eric wynalda's career?
+===================Text===================
+<think>
+Okay, so I need to figure out how long Eric Wynalda's career was based on the table provided. Let me start by looking at the table again to make sure I understand it correctly.
+
+Looking at the table, each row represents a player with their stats: Player name, Goals, Caps (which I think refers to the number of times they played for the national team), and Career, which is the years they were active. 
+
+Eric Wynalda is in row 2, so his career span is listed as "1990–2000". So I need to calculate how many years that covers.
+
+First, let me break it down: he started in 1990 and ended in 2000. To find the total number of years, subtract the start year from the end year. That would be 2000 minus 1990, which equals 10. 
+
+Wait a second, but sometimes when counting years, you have to consider whether both the starting and ending years are counted as full years. For example, if someone starts in 1990 and ends in 1991, is that two years or one? Because from 1990 to 1991 is actually two calendar years, so it's a span of two years.
+
+Applying that logic here: from 1990 to 2000 inclusive would be 2000 - 1990 + 1 = 11 years. Let me check this with an example. If someone played from 2010–2012, that's three seasons: 2010, 2011, and 2012, which is 3 years. So yes, when subtracting end year minus start year plus one gives the correct count.
+
+So for Eric Wynalda, 2000 - 1990 + 1 equals 11 years.
+
+I should double-check to make sure I didn't make a mistake in my calculation. Another way to think about it is by counting each year he played: starting from 1990 as his first year, then 1991, and so on until 2000. Let me count them:
+
+1990 (1), 1991 (2), 1992 (3), 1993 (4), 1994 (5), 1995 (6), 1996 (7), 1997 (8), 1998 (9), 1999 (10), 2000 (11). Yes, that's 11 years.
+
+So his career lasted for 11 years.
+</think>
+
+Final Answer: 11
+===================Answer===================
+10

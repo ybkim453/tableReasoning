@@ -1,0 +1,66 @@
+===================Title===================
+List of defunct National Basketball Association teams
+===================Table===================
+|    | Team                    | City                     | Years active   |   Seasons played | Win–loss record   | Win%   |   Playoffs appearances |
+|---:|:------------------------|:-------------------------|:---------------|-----------------:|:------------------|:-------|-----------------------:|
+|  0 | Anderson Packers        | Anderson, Indiana        | 1949–1950      |                1 | 37–27             | .578   |                      1 |
+|  1 | BAA Buffalo             | Buffalo, New York        | Never Played   |                0 | 0–0               | N/A    |                      0 |
+|  2 | BAA Indianapolis        | Indianapolis, Indiana    | Never Played   |                0 | 0–0               | N/A    |                      0 |
+|  3 | Baltimore Bullets*      | Baltimore, Maryland      | 1947–1954      |                8 | 158–292           | .351   |                      3 |
+|  4 | Chicago Stags           | Chicago, Illinois        | 1946–1950      |                4 | 145–92            | .612   |                      4 |
+|  5 | Cleveland Rebels        | Cleveland, Ohio          | 1946–1947      |                1 | 30–30             | .500   |                      1 |
+|  6 | Denver Nuggets          | Denver, Colorado         | 1949–1950      |                1 | 11–51             | .177   |                      0 |
+|  7 | Detroit Falcons         | Detroit, Michigan        | 1946–1947      |                1 | 20–40             | .333   |                      0 |
+|  8 | Indianapolis Jets       | Indianapolis, Indiana    | 1948–1949      |                1 | 18–42             | .300   |                      0 |
+|  9 | Indianapolis Olympians  | Indianapolis, Indiana    | 1949–1953      |                4 | 132–137           | .491   |                      4 |
+| 10 | Pittsburgh Ironmen      | Pittsburgh, Pennsylvania | 1946–1947      |                1 | 15–45             | .250   |                      0 |
+| 11 | Providence Steamrollers | Providence, Rhode Island | 1946–1949      |                3 | 46–122            | .274   |                      0 |
+| 12 | Sheboygan Red Skins     | Sheboygan, Wisconsin     | 1949–1950      |                1 | 22–40             | .355   |                      1 |
+| 13 | St. Louis Bombers       | St. Louis, Missouri      | 1946–1950      |                4 | 122–115           | .515   |                      3 |
+| 14 | Toronto Huskies         | Toronto, Ontario         | 1946–1947      |                1 | 22–38             | .367   |                      0 |
+| 15 | Washington Capitols     | Washington, D.C.         | 1946–1951      |                5 | 157–114           | .579   |                      4 |
+| 16 | Waterloo Hawks          | Waterloo, Iowa           | 1949–1950      |                1 | 19–43             | .306   |                      0 |
+===================Question===================
+how many teams played only one season?
+===================Text===================
+<think>
+Alright, so I need to figure out how many teams from this table played only one season. Let me start by looking at each team and their "Seasons played" column.
+
+First, I'll go through each row:
+
+1. Anderson Packers: Seasons played is 1.
+2. BAA Buffalo: Seasons played is 0.
+3. BAA Indianapolis: Seasons played is 0.
+4. Baltimore Bullets*: Seasons played is 8.
+5. Chicago Stags: Seasons played is 4.
+6. Cleveland Rebels: Seasons played is 1.
+7. Denver Nuggets: Seasons played is 1.
+8. Detroit Falcons: Seasons played is 1.
+9. Indianapolis Jets: Seasons played is 1.
+10. Indianapolis Olympians: Seasons played is 4.
+11. Pittsburgh Ironmen: Seasons played is 1.
+12. Providence Steamrollers: Seasons played is 3.
+13. Sheboygan Red Skins: Seasons played is 1.
+14. St. Louis Bombers: Seasons played is 4.
+15. Toronto Huskies: Seasons played is 1.
+16. Washington Capitols: Seasons played is 5.
+17. Waterloo Hawks: Seasons played is 1.
+
+Now, I'll count how many have exactly 1 season:
+
+- Anderson Packers
+- Cleveland Rebels
+- Denver Nuggets
+- Detroit Falcons
+- Indianapolis Jets
+- Pittsburgh Ironmen
+- Sheboygan Red Skins
+- Toronto Huskies
+- Waterloo Hawks
+
+That's a total of 9 teams.
+</think>
+
+Final Answer: 9
+===================Answer===================
+9

@@ -1,0 +1,70 @@
+===================Title===================
+Jason Weaver
+===================Table===================
+|    | Year         | Title                           | Role                        | Notes             |
+|---:|:-------------|:--------------------------------|:----------------------------|:------------------|
+|  0 | 1990         | The Kid Who Loved Christmas     | Ernie                       | Television movie  |
+|  1 | 1990         | Brewster Place                  | Matthew Thomas              | 5 episodes        |
+|  2 | 1990         | The Long Walk Home              | Franklin Cotter             | nan               |
+|  3 | 1992         | The Jacksons: An American Dream | Michael Jackson (aged 9–14) | Miniseries        |
+|  4 | 1993 to 1994 | Thea                            | Jerome Turrell              | 19 episodes       |
+|  5 | 1994         | Summertime Switch               | Fast Freddie Egan           | Television movie  |
+|  6 | 1994         | The Lion King                   | Young Simba                 | Cub singing voice |
+|  7 | 1996         | Sister, Sister                  | Darnell\nNicky              | 2 episodes        |
+|  8 | 1997 to 1999 | Smart Guy                       | Marcus Henderson            | 51 episodes       |
+|  9 | 2000         | Freedom Song                    | Isaac Hawkins               | Television movie  |
+| 10 | 2002         | Drumline                        | Ernest                      | nan               |
+| 11 | 2004         | The Ladykillers                 | Weemack Funthes             | nan               |
+| 12 | 2006         | ATL                             | Teddy                       | nan               |
+| 13 | 2008         | Jada                            | Jamal                       | nan               |
+| 14 | 2008         | Love For Sale                   | Vince                       | nan               |
+| 15 | 2008         | Diary of a Champion             | TJ Lawson                   | nan               |
+| 16 | 2010         | Lottery Ticket                  | Ray Ray                     | nan               |
+| 17 | 2011         | The LeBrons                     | Condor                      | 9 episodes        |
+| 18 | 2011         | He's Mine Not Yours             | Kent                        | Television movie  |
+| 19 | 2011         | Timothy Hodge Show              | Jason Weaver                | nan               |
+| 20 | 2012         | Dysfunctional Friends           | Gary                        | nan               |
+| 21 | 2012         | Note to Self                    | Jay Lewis                   | nan               |
+| 22 | 2012         | Wal-Bob's                       | Keith Harrington            | nan               |
+===================Question===================
+how many were television movies?
+===================Text===================
+<think>
+Okay, so I need to figure out how many of Jason Weaver's works from the given table are television movies. Let me go through each entry one by one and check the "Notes" column because that seems to indicate whether it's a TV movie.
+
+Starting with the first row (index 0): The title is "The Kid Who Loved Christmas." The Notes say "Television movie," so that counts as one.
+
+Next, index 1: "Brewster Place" has notes mentioning 5 episodes. That sounds like a series, not a movie, so I won't count this one.
+
+Index 2: "The Long Walk Home." The Notes are "nan," which probably means not available or not a note. Since there's no indication it's a TV movie, maybe it's a film, but without confirmation, I can't be sure. Wait, in the table, only specific entries have "Television movie" noted, so if it doesn't say that, it's safer to assume it's not a TV movie.
+
+Index 3: "The Jacksons: An American Dream." Notes say "Miniseries," which is different from a movie, so no count here.
+
+Index 4: "Thea." It notes 19 episodes—definitely a series. Not counting this.
+
+Index 5: "Summertime Switch" has notes saying "Television movie," so that's the second one.
+
+Index 6: "The Lion King." Notes mention Young Simba and "Cub singing voice." That seems more like a movie, but since it's not specified as a television movie, I won't count it. Plus, The Lion King is a well-known theatrical film, so this might be the original 1994 version, which wasn't a TV movie.
+
+Index 7: "Sister, Sister" with two episodes. That's a series, so no.
+
+Moving to index 8: "Smart Guy," spanning three years and many episodes. Again, a series.
+
+Index 9: "Freedom Song." Notes say it's a television movie, so that's the third one.
+
+From there, most entries from 10 onwards don't have notes indicating TV movies. For example:
+- Index 10: Drumline—probably a film but not marked as TV.
+- Index 11: The Ladykillers—same here.
+- Index 12: ATL—a movie, I believe.
+- Indexes 13 to 22 either say "nan" or are series episodes.
+
+Wait, index 18: "He's Mine Not Yours." Notes say "Television movie," so that's the fourth one.
+
+Let me check if there are any others. Looking back, index 19 and beyond don't have TV movie notes.
+
+So adding them up: indices 0,5,9,18—that's four television movies.
+</think>
+
+Final Answer: 4
+===================Answer===================
+4

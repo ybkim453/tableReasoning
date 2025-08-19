@@ -1,0 +1,33 @@
+===================Title===================
+Charles Henderson High School
+===================Table===================
+|    |   Year |   Team Record\nW |   Team Record\nL | Playoffs                |
+|---:|-------:|-----------------:|-----------------:|:------------------------|
+|  0 |   2001 |                7 |                2 | 3rd Qualifier, Region 2 |
+|  1 |   2002 |                8 |                1 | 2nd Qualifier, Region 2 |
+|  2 |   2003 |                8 |                1 | 2nd Qualifier, Region 2 |
+|  3 |   2004 |                7 |                2 | 2nd Qualifier, Region 2 |
+|  4 |   2005 |                3 |                5 | Did Not Make Playoffs   |
+|  5 |   2006 |                5 |                4 | 4th Qualifier, Region 2 |
+|  6 |   2007 |               13 |                1 | 1st Qualifier, Region 2 |
+|  7 |   2008 |                7 |                4 | 2nd Qualifier, Region 2 |
+|  8 |   2009 |                5 |                5 | Did Not Make Playoffs   |
+|  9 |   2010 |                5 |                5 | Did Not Make Playoffs   |
+===================Question===================
+which season had more wins, 2007 or 2003?
+===================Text===================
+<think>
+Alright, so I need to figure out which season had more wins between 2007 and 2003 for Charles Henderson High School based on the provided table.
+
+First, I'll look at the table again. It lists each year from 2001 to 2010, along with the team's wins (W), losses (L), and playoff status. The relevant years here are 2003 and 2007.
+
+Looking at the row for 2003, which is index 2 in the table. Under Team Record W, it shows 8 wins. So in 2003, they had 8 wins.
+
+Now checking 2007, which is index 6. The Team Record W column has a higher number: 13. That means in 2007, they won 13 games.
+
+Comparing the two, 13 is more than 8. Therefore, the 2007 season had more wins than the 2003 season.
+</think>
+
+Final Answer: 2007
+===================Answer===================
+2007

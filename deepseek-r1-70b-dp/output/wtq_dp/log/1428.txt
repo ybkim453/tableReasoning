@@ -1,0 +1,53 @@
+===================Title===================
+2010–11 PFC CSKA Sofia season
+===================Table===================
+|    | Player              |   League |   Cup |   Europa\nLeague |   Total |
+|---:|:--------------------|---------:|------:|-----------------:|--------:|
+|  0 | Spas Delev          |       13 |     7 |                2 |      22 |
+|  1 | Marquinhos          |        9 |     1 |                3 |      13 |
+|  2 | Michel Platini      |       10 |     0 |                0 |      10 |
+|  3 | Cillian Sheridan    |        4 |     2 |                1 |       7 |
+|  4 | Giuseppe Aquaro     |        3 |     0 |                2 |       5 |
+|  5 | Gregory Nelson      |        3 |     0 |                1 |       4 |
+|  6 | Rumen Trifonov      |        2 |     0 |                1 |       3 |
+|  7 | Aleksandar Tonev    |        2 |     0 |                0 |       2 |
+|  8 | Apostol Popov       |        2 |     0 |                0 |       2 |
+|  9 | Emil Gargorov       |        2 |     0 |                0 |       2 |
+| 10 | Todor Yanchev       |        0 |     1 |                1 |       2 |
+| 11 | Stanislav Kostov    |        1 |     0 |                0 |       1 |
+| 12 | Kostadin Stoyanov   |        1 |     0 |                0 |       1 |
+| 13 | Boris Galchev       |        1 |     0 |                0 |       1 |
+| 14 | Pavel Vidanov       |        0 |     0 |                1 |       1 |
+| 15 | Tomislav Kostadinov |        0 |     0 |                1 |       1 |
+| 16 | Christian Tiboni    |        0 |     0 |                1 |       1 |
+| 17 | Total               |       53 |    11 |               14 |      78 |
+===================Question===================
+who scored the most goals?
+===================Text===================
+<think>
+Alright, let's tackle this problem step by step. So, I have a table from the 2010–11 PFC CSKA Sofia season, and I need to figure out who scored the most goals. The question is asking for the player with the highest number of goals across all competitions they participated in that season.
+
+First, I'll look at the structure of the table. It seems each row represents a different player, with columns indicating their performance in the League, Cup, Europa League, and then a Total which sums up all these numbers. My goal is to find out which player has the highest total number of goals.
+
+Looking at the rows, I'll start from the top since the players might be listed in order of their contribution or some other criteria, but that's not always guaranteed. The first row is Spas Delev with a Total of 22. That seems pretty high. Next up is Marquinhos with 13, then Michel Platini at 10, followed by Cillian Sheridan at 7, and so on down the list.
+
+I'll scan through each player's Total column to make sure I don't miss anyone who might have a higher number than Spas Delev. Moving down:
+
+- Marquinhos: 13
+- Michel Platini: 10
+- Cillian Sheridan: 7
+- Giuseppe Aquaro: 5
+- Gregory Nelson: 4
+- Rumen Trifonov: 3
+- Aleksandar Tonev and others with lower totals.
+
+None of these players have a Total higher than 22. The last row is labeled "Total," which probably sums up all the team's goals, but that doesn't affect individual player statistics.
+
+So, after checking each player's total, it looks like Spas Delev has the highest number with 22 goals in total across all competitions during that season.
+</think>
+
+The player who scored the most goals is Spas Delev with a total of 22 goals.
+
+Final Answer: Spas Delev
+===================Answer===================
+Spas Delev

@@ -1,0 +1,55 @@
+===================Title===================
+Dino (singer)
+===================Table===================
+|    |   Year | Song                | Album        | Position   | Chart                 |
+|---:|-------:|:--------------------|:-------------|:-----------|:----------------------|
+|  0 |   1987 | "Summergirls"       | 24/7         | 50         | Billboard Hot 100     |
+|  1 |   1989 | "24/7"              | 24/7         | 42         | Billboard Hot 100     |
+|  2 |   1989 | "24/7"              | 24/7         | 12         | Hot R&B/Hip-Hop Songs |
+|  3 |   1989 | "I Like It"         | 24/7         | 7          | Billboard Hot 100     |
+|  4 |   1989 | "I Like It"         | 24/7         | 3          | Hot Dance Club Play   |
+|  5 |   1989 | "Sunshine"          | 24/7         | 23         | Billboard Hot 100     |
+|  6 |   1990 | "Never 2 Much of U" | 24/7         | 61         | Billboard Hot 100     |
+|  7 |   1990 | "Romeo"             | Swingin'     | 6          | Billboard Hot 100     |
+|  8 |   1991 | "Gentle"            | Swingin'     | 31         | Billboard Hot 100     |
+|  9 |   1993 | "Ooh Child"         | The Way I Am | 27         | Billboard Hot 100     |
+| 10 |   1993 | "Endlessly"         | The Way I Am | --         | Billboard Hot 100     |
+===================Question===================
+what is the total number of songs to hit the billboard hot 100 from the album 24/7
+===================Text===================
+<think>
+Okay, so I need to figure out how many songs from Dino's album "24/7" made it onto the Billboard Hot 100 chart. Let me start by looking at the table provided.
+
+Looking through each row, I see that there are multiple entries for the album "24/7". Each row represents a song and its performance on various charts. My focus is specifically on the Billboard Hot 100 chart.
+
+Starting from the top:
+
+- The first entry in 1987 is "Summergirls" from "24/7", it reached position 50 on the Billboard Hot 100.
+- Next, in 1989, there's another song titled "24/7". It's also from the same album and peaked at 42. But wait, I see another entry for the same song "24/7" but this time on a different chart (Hot R&B/Hip-Hop Songs) where it reached 12. Since we're only interested in Billboard Hot 100, that second entry for "24/7" can be ignored as it's not relevant to our count.
+- Then, also in 1989, there's "I Like It". That song made it to number 7 on the Billboard Hot 100, so that's another one from "24/7".
+- There's another entry for "I Like It" but it's on a different chart (Hot Dance Club Play). Again, we can ignore this since it's not the Billboard Hot 100.
+- Moving on, there's "Sunshine", also from "24/7", which reached number 23 in 1989. That adds another song to our count.
+- In 1990, "Never 2 Much of U" from "24/7" peaked at 61 on the Billboard Hot 100, so that's another entry.
+
+Now, I should check if there are any other songs from "24/7" in later years. Looking through the rest of the table:
+
+- In 1990, "Romeo" is from a different album called "Swingin'", so it doesn't count.
+- Similarly, "Gentle" in 1991 is also from "Swingin'".
+- The entries for 1993 are from "The Way I Am", so those aren't part of the "24/7" album.
+
+Wait a second, did I miss any? Let me go through each row again to make sure:
+
+0: 1987 - Summergirls (Hot 100:50) ✅
+1: 1989 - 24/7 (42 on Hot 100) ✅
+2: Same song but different chart ❌
+3: I Like It (7 on Hot 100) ✅
+4: Different chart ❌
+5: Sunshine (23) ✅
+6: Never 2 Much of U (61) ✅
+
+That's a total of five songs from the album "24/7" that hit the Billboard Hot 100. So the answer should be 5.
+</think>
+
+Final Answer: 5
+===================Answer===================
+5

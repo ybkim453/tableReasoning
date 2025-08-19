@@ -1,0 +1,328 @@
+===================Title===================
+Tom Neal
+===================Table===================
+|    | Result   | Record   | Opponent                | Method   | Date        |   Round | Location                 |
+|---:|:---------|:---------|:------------------------|:---------|:------------|--------:|:-------------------------|
+|  0 | Loss     | 31-3-0   | J.H. Isbell             | KO       | 1934 Mar 31 |       2 | Cambridge, Massachusetts |
+|  1 | Loss     | 31-2-0   | "Modest" Bill Smith     | KO       | 1934 Feb 27 |       2 | Cambridge, Massachusetts |
+|  2 | Win      | 31-1-0   | Frankie Hagen           | KO       | 1934 Feb 24 |       1 | Cambridge, Massachusetts |
+|  3 | Win      | 30-1-0   | Harry Gardner           | KO       | 1934 Feb 21 |       1 | Cambridge, Massachusetts |
+|  4 | Win      | 29-1-0   | Sid Stoneman            | KO       | 1934 Feb 14 |       1 | Cambridge, Massachusetts |
+|  5 | Win      | 28-1-0   | Frankie Hagan           | PTS      | 1934 Jan 30 |       3 | Cambridge, Massachusetts |
+|  6 | Win      | 27-1-0   | Basil Barnett           | KO       | 1934 Jan 24 |       2 | Cambridge, Massachusetts |
+|  7 | Win      | 26-1-0   | George Krause           | KO       | 1934 Jan 16 |       1 | Cambridge, Massachusetts |
+|  8 | Win      | 25-1-0   | Bob Delmont             | KO       | 1934 Jan 07 |       1 | Cambridge, Massachusetts |
+|  9 | Loss     | 24-1-0   | Brad Simmons            | KO       | 1934 Jan 01 |       1 | Cambridge, Massachusetts |
+| 10 | Win      | 24-0-0   | Herman Zeinman          | KO       | 1933        |       1 | Cambridge, Massachusetts |
+| 11 | Win      | 23-0-0   | William Beltran         | KO       | 1933        |       1 | Cambridge, Massachusetts |
+| 12 | Win      | 22-0-0   | Lloyd Blake             | KO       | 1933        |       1 | Cambridge, Massachusetts |
+| 13 | Win      | 21-0-0   | Lawrence "Larry" O'Neil | KO       | 1933        |       1 | Cambridge, Massachusetts |
+| 14 | Win      | 20-0-0   | Igg Rosenberg           | KO       | 1933        |       1 | Cambridge, Massachusetts |
+| 15 | Win      | 19-0-0   | Melvin Kenyon           | KO       | 1933        |       1 | Cambridge, Massachusetts |
+| 16 | Win      | 18-0-0   | Gary Keers              | KO       | 1933        |       1 | Cambridge, Massachusetts |
+| 17 | Win      | 17-0-0   | Samuel Rodgway          | KO       | 1933 May 28 |       1 | Cambridge, Massachusetts |
+| 18 | Exch     | 16-0-0   | "Irish" Tommy Mitchell  | KO       | 1933 May 21 |       1 | Cambridge, Massachusetts |
+| 19 | Win      | 15-0-0   | Jim Crawford            | KO       | 1933 May 14 |       1 | Cambridge, Massachusetts |
+| 20 | Win      | 14-0-0   | Max Levine              | KO       | 1933 May 7  |       1 | Cambridge, Massachusetts |
+| 21 | Win      | 13-0-0   | Leo Hart                | KO       | 1933 May 1  |       1 | Cambridge, Massachusetts |
+| 22 | Win      | 12-0-0   | Paul Benjamin           | PTS      | 1932        |       3 | Evanston, Illinois       |
+| 23 | Win      | 11-0-0   | Fred Chapman            | KO       | 1932        |       3 | Evanston, Illinois       |
+| 24 | Win      | 10-0-0   | Paul Benjamin           | KO       | 1932        |       3 | Evanston, Illinois       |
+| 25 | Win      | 9-0-0    | Rod Conley              | KO       | 1932        |       2 | Evanston, Illinois       |
+| 26 | Win      | 8-0-0    | Paul Gilmore            | KO       | 1932        |       1 | Chicago, Illinois        |
+| 27 | Win      | 7-0-0    | Jack Lewis              | KO       | 1932        |       3 | Chicago, Illinois        |
+| 28 | Exch     | 6-0-0    | Eddie Mitchell          | KO       | 1932        |       1 | Chicago, Illinois        |
+| 29 | Win      | 5-0-0    | Ernest Brant            | KO       | 1932        |       1 | Chicago, Illinois        |
+| 30 | Win      | 4-0-0    | Karl Brenner-Eggers     | KO       | 1932        |       1 | Chicago, Illinois        |
+| 31 | Win      | 3-0-0    | Norman Martin           | PTS      | 1932        |       3 | Chicago, Illinois        |
+| 32 | Win      | 2-0-0    | Albert Leikman          | KO       | 1932        |       1 | Chicago, Illinois        |
+| 33 | Win      | 1-0-0    | Keith Newman            | KO       | 1932        |       1 | Chicago, Illinois        |
+===================Question===================
+how many times did tom neil win in his career versus the amount he lost?
+===================Text===================
+<think>
+Okay, so I need to figure out how many times Tom Neal won versus lost in his career based on this table. Let me start by looking at each entry carefully.
+
+First, I see that each row represents a fight with various details like Result, Record, Opponent, Method, Date, Round, and Location. The Results column shows whether it was a Win or Loss (and one Exch which I think is an Exchange or a draw maybe?).
+
+So my task is to count the number of Wins and Losses for Tom Neal. Let's go through each row.
+
+Starting from the top:
+
+Row 0: Result is Loss
+Row 1: Result is Loss
+Row 2: Result is Win
+Row 3: Result is Win
+Row 4: Result is Win
+Row 5: Result is Win
+Row 6: Result is Win
+Row 7: Result is Win
+Row 8: Result is Win
+Row 9: Result is Loss
+Rows 10 to 16: All Wins (I'll count these as I go)
+Wait, let me check each one.
+
+From row 0 to row 33:
+
+Row 0: Loss
+Row1: Loss
+Row2: Win
+Row3: Win
+Row4: Win
+Row5: Win
+Row6: Win
+Row7: Win
+Row8: Win
+Row9: Loss
+Row10: Win
+Row11: Win
+Row12: Win
+Row13: Win
+Row14: Win
+Row15: Win
+Row16: Win
+Row17: Win
+Row18: Exch (I think this might be a draw or exchange, but since the question is about wins and losses, maybe it's neither. But according to standard boxing terms, "Exch" could mean an exhibition match which doesn't count towards official record, so I'll ignore it for win/loss.)
+Row19: Win
+Row20: Win
+Row21: Win
+Rows 22-33: Let me check each.
+
+Wait, actually rows 0 to 9 are in 1934 and before, then from row10 onwards seem earlier dates but let's not worry about that.
+
+Let me make a list:
+
+Total entries: 34 rows (from 0 to 33 inclusive).
+
+Now count Wins and Losses. Exch is in row18 and maybe row28? Let me check:
+
+Row18: Result is Exch
+Row28: Wait, looking at the data, row28's result is "Exch"? Or did I get that wrong?
+
+Wait I think only rows 18 and maybe another have Exch. Let me re-examine.
+
+Looking back:
+
+Only row0 to row33. Each with a Result column. So in row0-33, how many Losses, Wins, and others.
+
+So from row0: Loss
+Row1: Loss
+Row2: Win
+Row3: Win
+Row4: Win
+Row5: Win
+Row6: Win
+Row7: Win
+Row8: Win
+Row9: Loss
+Row10: Win
+Row11: Win
+Row12: Win
+Row13: Win
+Row14: Win
+Row15: Win
+Row16: Win
+Row17: Win
+Row18: Exch (so not counted)
+Row19: Win
+Row20: Win
+Row21: Win
+Rows22-33:
+
+Wait, rows 22-33: each has Result as Win except maybe some?
+
+Looking at the data provided, rows 22-33 all have "Win" except for row18 and any others with Exch.
+
+Wait wait, looking again. From row0 to row33, let's list them:
+
+0: Loss
+1: Loss
+2: Win
+3: Win
+4: Win
+5: Win
+6: Win
+7: Win
+8: Win
+9: Loss
+10: Win
+11: Win
+12: Win
+13: Win
+14: Win
+15: Win
+16: Win
+17: Win
+18: Exch
+19: Win
+20: Win
+21: Win
+22: Win (Result is Win)
+23: Win
+24: Win
+25: Win
+26: Win
+27: Win
+28: Exch (I think row28's Result is "Exch"? Or did I read that wrong? Wait, in the data provided:
+
+Looking at rows 0 to33:
+
+Row28: Result is Exch.
+
+So that's two Exch results. So those don't count as wins or losses.
+
+So now, let me count total Wins and Losses.
+
+Total entries:34
+
+Wins: Let's count from each row.
+
+From row0 to row9: rows 2-8 are Win (7), plus row10-17: that's more.
+
+Wait maybe a better approach is to list all the Results:
+
+Row0: Loss
+Row1: Loss
+Row2: Win
+Row3: Win
+Row4: Win
+Row5: Win
+Row6: Win
+Row7: Win
+Row8: Win
+Row9: Loss
+Row10: Win
+Row11: Win
+Row12: Win
+Row13: Win
+Row14: Win
+Row15: Win
+Row16: Win
+Row17: Win
+Row18: Exch
+Row19: Win
+Row20: Win
+Row21: Win
+Row22: Win (Result is Win)
+Row23: Win
+Row24: Win
+Row25: Win
+Row26: Win
+Row27: Win
+Row28: Exch
+Row29: Win
+Row30: Win
+Row31: Win
+Row32: Win
+Row33: Win
+
+Now count Wins and Losses.
+
+Losses: rows 0,1,9 → total of 3 losses.
+
+Wins: let's count all the 'Win' entries. Let me go through each row:
+
+Total Rows with Result=Win:
+
+From row2 to row8 (7 wins)
+Row10-17: 8 wins
+Row19-21: 3 wins
+Rows22-27:6 wins
+Rows29-33:5 wins
+
+Wait, let's add them up step by step.
+
+From row0 to row1: losses=2
+
+From row2-9:
+
+row2-8: 7 wins
+
+row9: loss → total so far: losses=3, wins=7
+
+Then row10-17: that's 8 rows (rows10 to17 inclusive) all Win → wins +=8 (total wins=15)
+
+Row18: Exch (skip)
+
+Row19-21: 3 Wins → wins=18
+
+Rows22-27: Rows22 to27 are 6 rows, all Win → wins=24
+
+Row28: Exch (skip)
+
+Rows29-33:5 rows, all Win → wins=29
+
+So total wins:29
+
+Losses:3
+
+But wait, let me recount because it's easy to make a mistake.
+
+Alternative approach: go through each row and count:
+
+Total Wins = number of times Result is 'Win'
+
+Let me list the Results in order from 0 to33:
+
+0: Loss
+1: Loss
+2: Win
+3: Win
+4: Win
+5: Win
+6: Win
+7: Win
+8: Win
+9: Loss
+10: Win
+11: Win
+12: Win
+13: Win
+14: Win
+15: Win
+16: Win
+17: Win
+18: Exch
+19: Win
+20: Win
+21: Win
+22: Win
+23: Win
+24: Win
+25: Win
+26: Win
+27: Win
+28: Exch
+29: Win
+30: Win
+31: Win
+32: Win
+33: Win
+
+Now count the Wins:
+
+Rows 2-8 →7 wins
+
+Row10-17→8 wins (since row10,11,...17 is 8 rows)
+
+Row19-21→3 wins
+
+Rows22-27→6 wins (rows22 to27 inclusive)
+
+Rows29-33→5 wins
+
+Total:7+8=15; +3=18; +6=24; +5=29.
+
+Losses: rows0,1,9 =3 losses.
+
+So total Wins=29, Losses=3.
+
+Hence, Tom has 29 wins and 3 losses.
+</think>
+
+Tom's fight record shows that he has 29 victories and 3 defeats. 
+
+**Answer:**  
+Tom has \boxed{29} wins and \boxed{3} losses.
+===================Answer===================
+31-3

@@ -1,0 +1,51 @@
+===================Title===================
+Africa Squadron
+===================Table===================
+|    | Vessel          | Captor     | Date             | Location       |
+|---:|:----------------|:-----------|:-----------------|:---------------|
+|  0 | Porpoise        | Raritan    | 23 January 1845  | Rio de Janeiro |
+|  1 | Albert          | Bainbridge | June 1845        | Bahia          |
+|  2 | Laurens         | Onkahye    | 23 January 1848  | Rio de Janeiro |
+|  3 | A.D. Richardson | Perry      | 11 December 1848 | Rio de Janeiro |
+|  4 | Independence    | Perry      | 13 December 1848 | Rio de Janeiro |
+|  5 | Susan           | Perry      | 6 February 1849  | Rio de Janeiro |
+===================Question===================
+how many vessels were captured in rio de janeiro
+===================Text===================
+<think>
+Okay, so I need to figure out how many vessels were captured in Rio de Janeiro based on this table. Let me start by understanding what each column represents. The columns are Vessel, Captor, Date, and Location. 
+
+The question is specifically about the number of vessels captured in Rio de Janeiro. That means I should focus on the "Location" column and count how many times "Rio de Janeiro" appears there.
+
+Looking at the table:
+
+- Row 0: Location is Rio de Janeiro
+- Row 1: Location is Bahia (so not Rio)
+- Row 2: Location is Rio de Janeiro again
+- Row 3: Location is Rio de Janeiro
+- Row 4: Again, Rio de Janeiro
+- Row 5: Rio de Janeiro
+
+So, I'll go through each row one by one to make sure. 
+
+Row 0: Yes, Rio.
+Row 1: No, it's Bahia.
+Rows 2,3,4,5 all say Rio.
+
+That makes a total of 5 entries where the location is Rio de Janeiro. Wait, let me count again: Row 0,2,3,4,5. That's five rows in Rio and one row in Bahia. So out of six total vessels, five were captured in Rio.
+
+Wait, wait. Let me check each row:
+
+Row 0: Rio
+Row 1: Bahia
+Row 2: Rio
+Row 3: Rio
+Row 4: Rio
+Row 5: Rio
+
+So that's Rows 0,2,3,4,5 as Rio. That makes five vessels captured in Rio de Janeiro.
+</think>
+
+Final Answer: 5
+===================Answer===================
+5

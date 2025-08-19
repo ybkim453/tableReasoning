@@ -1,0 +1,52 @@
+===================Title===================
+1996 All-Ireland Senior Hurling Championship
+===================Table===================
+|    |   Rank | Player           | County    | Tally   |   Total | Opposition   |
+|---:|-------:|:-----------------|:----------|:--------|--------:|:-------------|
+|  0 |      1 | Francis Forde    | Galway    | 2–8     |      14 | Roscommon    |
+|  1 |      2 | Niall English    | Carlow    | 1–9     |      12 | Westmeath    |
+|  2 |      3 | Kevin Broderick  | Galway    | 3–1     |      10 | New York     |
+|  3 |      3 | Gary Kirby       | Limerick  | 1–7     |      10 | Tipperary    |
+|  4 |      3 | Gary Kirby       | Limerick  | 0–10    |      10 | Tipperary    |
+|  5 |      6 | Seán McLoughlin | Westmeath | 1–6     |       9 | Carlow       |
+|  6 |      6 | David Martin     | Meath     | 1–6     |       9 | Offaly       |
+|  7 |      6 | Gary Kirby       | Limerick  | 0–9     |       9 | Antrim       |
+|  8 |      9 | John Byrne       | Carlow    | 2–2     |       8 | Westmeath    |
+|  9 |      9 | John Troy        | Offaly    | 2–2     |       8 | Laois        |
+| 10 |      9 | John Leahy       | Tipperary | 2–2     |       8 | Kerry        |
+| 11 |      9 | Tom Dempsey      | Wexford   | 1–5     |       8 | Offaly       |
+| 12 |      9 | Paul Flynn       | Waterford | 1–5     |       8 | Tipperary    |
+| 13 |      9 | Francis Forde    | Galway    | 1–5     |       8 | New York     |
+===================Question===================
+what number of players had a tally of 2-2?
+===================Text===================
+<think>
+Okay, so I need to figure out how many players had a tally of 2-2 in the given table from the 1996 All-Ireland Senior Hurling Championship. Let me go through this step by step.
+
+First, let's understand what a "tally" means here. In hurling, scoring is done with goals and points. A tally like 2–8 means 2 goals and 8 points, right? Each goal is worth 3 points, so 2 goals would be 6 points plus the 8 points, totaling 14. But for this question, I'm only concerned with tallies exactly equal to 2-2.
+
+Now, looking at the table columns: Rank, Player, County, Tally, Total, Opposition. The "Tally" column shows each player's score in a specific format, like 2–8 or 1–9. My task is to count how many players have exactly 2-2 as their tally.
+
+I'll go through each row one by one:
+
+1. **Row 0**: Francis Forde from Galway has a tally of 2–8. That's not 2-2.
+2. **Row 1**: Niall English from Carlow has 1–9, so no.
+3. **Row 2**: Kevin Broderick from Galway with 3–1. Not matching.
+4. **Row 3 and 4**: Both are Gary Kirby from Limerick with tallies of 1–7 and 0–10 respectively. Neither is 2-2.
+5. **Row 5**: Seán McLoughlin from Westmeath has 1–6, which isn't 2-2.
+6. **Row 6**: David Martin from Meath with 1–6 again, nope.
+7. **Row 7**: Another Gary Kirby entry, this time 0–9, still not 2-2.
+8. **Row 8**: John Byrne from Carlow has exactly 2–2. That's one player.
+9. **Row 9**: John Troy from Offaly also with 2–2. So that's two players now.
+10. **Rows 10, 11, 12, 13**: All have tallies other than 2-2.
+
+So after checking each row, I count two players: John Byrne and John Troy who had a tally of 2-2. 
+
+Wait, but looking again at the table, Row 8 is John Byrne with 2-2, and Row 9 is John Troy also with 2–2. Are there any others? Let me double-check to make sure I didn't miss anyone else.
+
+Rows 0 through 7 don't have any other 2–2 tallies. Rows 10 onwards also don't. So yes, only two players meet the criteria.
+</think>
+
+Final Answer: 2
+===================Answer===================
+3

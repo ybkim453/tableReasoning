@@ -1,0 +1,35 @@
+===================Title===================
+2011 European Team Championships Super League
+===================Table===================
+|    |   Rank | Name                 | Nationality    | Time    | Notes   |   Points |
+|---:|-------:|:---------------------|:---------------|:--------|:--------|---------:|
+|  0 |      1 | Adam Kszczot         | Poland         | 1:46.50 | nan     |       12 |
+|  1 |      2 | Jeff Lastennet       | France         | 1:46.70 | nan     |       11 |
+|  2 |      3 | Gareth Warburton     | Great Britain  | 1:46.95 | SB      |       10 |
+|  3 |      4 | Mario Scapini        | Italy          | 1:47.20 | PB      |        9 |
+|  4 |      5 | Anis Ananenka        | Belarus        | 1:47.29 | nan     |        8 |
+|  5 |      6 | Oleh Kayafa          | Ukraine        | 1:47.42 | nan     |        7 |
+|  6 |      7 | Joni Jaako           | Sweden         | 1:47.61 | SB      |        6 |
+|  7 |      8 | Robin Schembera      | Germany        | 1:47.79 | nan     |        5 |
+|  8 |      9 | Ivan Tukhtachev      | Russia         | 1:48.27 | SB      |        4 |
+|  9 |     10 | Antonio Manuel Reina | Spain          | 1:48.56 | nan     |        3 |
+| 10 |     11 | António Rodrigues   | Portugal       | 1:50.45 | nan     |        2 |
+| 11 |     12 | Milan Kocourek       | Czech Republic | 1:59.28 | nan     |        1 |
+===================Question===================
+what is the first nationality listed?
+===================Text===================
+<think>
+Alright, so I need to figure out the first nationality listed in this table about the 2011 European Team Championships Super League. Let me start by looking at the structure of the table.
+
+The table has several columns: Rank, Name, Nationality, Time, Notes, and Points. Each row corresponds to an athlete with their respective details. The first step is to identify which row comes first because that will determine the first nationality listed.
+
+Looking at the leftmost column labeled "Rank," I see that the ranks go from 1 to 12. However, the index on the far left starts at 0 and goes up to 11, which probably indicates the position in the table as a list. So the first row after the header is where Rank 1 is.
+
+In the first row (index 0), under the "Name" column, it's Adam Kszczot from Poland with a time of 1:46.50 and points of 12. Since this is the topmost entry in the table, his nationality would be the first one listed.
+
+I don't see any other nationalities before Poland in the table because each subsequent row represents the next rank. So Poland must be the first nationality mentioned.
+</think>
+
+Final Answer: Poland
+===================Answer===================
+Poland

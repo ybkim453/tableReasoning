@@ -1,0 +1,45 @@
+===================Title===================
+List of international cricket centuries at Eden Gardens
+===================Table===================
+|    |   No. | Score   | Player             | Team         |   Balls |   Inns. | Opposing team   | Date             | Result   |
+|---:|------:|:--------|:-------------------|:-------------|--------:|--------:|:----------------|:-----------------|:---------|
+|  0 |     1 | 123     | Kris Srikkanth     | India        |     103 |       1 | Pakistan        | 18 February 1987 | Lost     |
+|  1 |     2 | 107*    | Desmond Haynes     | West Indies  |     137 |       1 | Pakistan        | 1 November 1989  | Lost     |
+|  2 |     3 | 100*    | Sachin Tendulkar   | India        |     103 |       2 | Kenya           | 31 May 1998      | Won      |
+|  3 |     4 | 121     | Marcus Trescothick | England      |     109 |       2 | India           | 19 January 2002  | Lost     |
+|  4 |     5 | 108*    | Salman Butt        | Pakistan     |     130 |       2 | India           | 13 November 2004 | Won      |
+|  5 |     6 | 134*    | Graeme Smith       | South Africa |     124 |       2 | India           | 25 November 2005 | Won      |
+|  6 |     7 | 118     | Upul Tharanga      | Sri Lanka    |     128 |       1 | India           | 24 December 2009 | Lost     |
+|  7 |     8 | 150*    | Gautam Gambhir     | India        |     137 |       2 | Sri Lanka       | 24 December 2009 | Won      |
+|  8 |     9 | 107     | Virat Kohli        | India        |     114 |       2 | Sri Lanka       | 24 December 2009 | Won      |
+|  9 |    10 | 106     | Ryan ten Doeschate | Netherlands  |     108 |       1 | Ireland         | 18 March 2011    | Lost     |
+| 10 |    11 | 101     | Paul Stirling      | Ireland      |      72 |       2 | Netherlands     | 18 March 2011    | Won      |
+| 11 |    12 | 106     | Nasir Jamshed      | Pakistan     |     124 |       1 | India           | 3 January 2013   | Won      |
+===================Question===================
+name the player listed after the the player that one who scored on november 13.
+===================Text===================
+<think>
+Okay, so I need to figure out which player comes after the one who scored on November 13th in the given table. Let me start by looking at each row and noting their dates.
+
+Looking through the table:
+
+- The first few entries are from February, then November 1989, May 1998, etc.
+- Scanning for a date that includes November 13. Wait, let's check all the dates.
+
+Row 0: 18 Feb 1987
+Row 1: 1 Nov 1989 – that's November but day 1.
+Row 2: 31 May 1998
+Row 3: 19 Jan 2002
+Row 4: 13 Nov 2004 – here we go, this is the date we're looking for.
+So row 4 is where the player scored on November 13th. Now, I need to find who comes after that.
+
+Looking at the table structure, each row seems to represent a separate century. So row numbers are in order from 0 onwards. The players listed in rows 4,5,6, etc., come after each other.
+
+So, player at row 4 is Salman Butt (Pakistan), who scored on November 13, 2004. The next player would be the one in row 5, which is Graeme Smith from South Africa with a score of 134*. So the answer should be Graeme Smith.
+</think>
+
+The player listed after the one who scored on November 13 is Graeme Smith.
+
+Final Answer: Graeme Smith
+===================Answer===================
+Graeme Smith

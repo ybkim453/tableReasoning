@@ -1,0 +1,69 @@
+===================Title===================
+Immigration to France
+===================Table===================
+|    | Naturalisations by origin   | 2000    | 2005    | 2009    |   % Total 2009 |
+|---:|:----------------------------|:--------|:--------|:--------|---------------:|
+|  0 | Africa                      | 84 182  | 98 453  | 85 144  |           62.7 |
+|  1 | Maghreb                     | 68 185  | 75 224  | 56 024  |           41.2 |
+|  2 | Sub-Saharan Africa          | 10 622  | 15 624  | 22 214  |           16.4 |
+|  3 | Other Africa                | 5 375   | 7 605   | 6 906   |            5.1 |
+|  4 | Asia                        | 27 941  | 26 286  | 19 494  |           14.4 |
+|  5 | South-East Asia             | 7 265   | 4 069   | 2 475   |            1.8 |
+|  6 | East Asia                   | 1 139   | 1 280   | 1 622   |            1.2 |
+|  7 | South Asia                  | 4 246   | 4 436   | 3 660   |            2.7 |
+|  8 | Other Asia                  | 15 291  | 16 501  | 11 737  |            8.6 |
+|  9 | Europe (not including CIS ) | 22 085  | 18 072  | 14 753  |           10.9 |
+| 10 | CIS                         | 1 181   | 2 108   | 4 704   |            3.5 |
+| 11 | CIS (Europe)                | 1 000   | 1 535   | 4 454   |            3.3 |
+| 12 | CIS (Asia)                  | 181     | 573     | 250     |            0.2 |
+| 13 | America                     | 5 668   | 6 352   | 6 677   |            4.9 |
+| 14 | North America               | 1 048   | 854     | 747     |            0.5 |
+| 15 | South and Central America   | 4 620   | 5 498   | 5 930   |            4.4 |
+| 16 | Oceania                     | 87      | 127     | 108     |            0.1 |
+| 17 | Others                      | 8 882   | 3 245   | 4 962   |            3.7 |
+| 18 | Total                       | 150 026 | 154 643 | 135 842 |          100   |
+===================Question===================
+what is the total number of naturalisations from asia?
+===================Text===================
+<think>
+Okay, so I need to figure out the total number of naturalisations from Asia based on the provided table. Let me start by understanding how the table is structured.
+
+Looking at the table headers: "Naturalisations by origin" with years 2000, 2005, and 2009, and a "% Total 2009" column. Each row represents different regions or sub-regions within broader categories like Africa, Asia, Europe, etc.
+
+The question specifically asks for naturalisations from Asia, so I need to focus on the rows that fall under the Asia category. Let me scan through the table:
+
+- Row 4: Asia with numbers 27,941 (2000), 26,286 (2005), 19,494 (2009). The % Total 2009 is 14.4.
+- Then there are sub-regions of Asia listed in subsequent rows:
+  - South-East Asia: row 5
+  - East Asia: row 6
+  - South Asia: row 7
+  - Other Asia: row 8
+
+Wait, but the total for Asia (row 4) already includes all its sub-regions. So if I sum up rows 5 through 8 along with row 4, that might result in double-counting because each of these regions is part of the broader Asia category.
+
+Alternatively, perhaps row 4 already represents the total for Asia as a whole, and the following rows break it down into sub-regions. So if I just take the number from row 4 for 2009 (19,494), that should be the total naturalisations from Asia in that year.
+
+Wait, but let me check: sometimes tables can have a main category and then list each sub-category without including the main category again. But looking at the table, the regions under Asia are:
+- South-East Asia
+- East Asia
+- South Asia
+- Other Asia
+
+So adding rows 5 (2,475), 6 (1,622), 7 (3,660), and 8 (11,737) would give me the total for Asia. Let's add those up:
+
+First, list out the numbers from 2009 for each sub-region:
+- South-East Asia: 2,475
+- East Asia: 1,622
+- South Asia: 3,660
+- Other Asia: 11,737
+
+Adding them together: 2,475 + 1,622 = 4,097; plus 3,660 = 7,757; then add 11,737, which totals 19,494. 
+
+Wait a minute, that's exactly the same as row 4 (Asia) in 2009. So, row 4's number for Asia is the sum of all its sub-regions. Therefore, to find the total naturalisations from Asia, I can directly take the value from row 4.
+
+So the answer should be 19,494.
+</think>
+
+Final Answer: 19494
+===================Answer===================
+73721

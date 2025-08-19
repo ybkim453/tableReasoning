@@ -1,0 +1,45 @@
+===================Title===================
+Equestrian at the 1960 Summer Olympics
+===================Table===================
+|    |   Rank | Nation              |   Gold |   Silver |   Bronze |   Total |
+|---:|-------:|:--------------------|-------:|---------:|---------:|--------:|
+|  0 |      1 | Australia (AUS)     |      2 |        1 |        0 |       3 |
+|  1 |      2 | Italy (ITA)         |      1 |        1 |        1 |       3 |
+|  2 |      3 | Germany (EUA)       |      1 |        0 |        1 |       2 |
+|  3 |      4 | Soviet Union (URS)  |      1 |        0 |        0 |       1 |
+|  4 |      5 | Switzerland (SUI)   |      0 |        2 |        1 |       3 |
+|  5 |      6 | United States (USA) |      0 |        1 |        0 |       1 |
+|  6 |      7 | Great Britain (GBR) |      0 |        0 |        1 |       1 |
+|  7 |      7 | France (FRA)        |      0 |        0 |        1 |       1 |
+===================Question===================
+what is the number of countries that won a bronze?
+===================Text===================
+<think>
+Okay, so I need to figure out how many countries won a bronze medal in the Equestrian event at the 1960 Summer Olympics based on this table. Let me take it step by step.
+
+First, I'll look at each row of the table because each row represents a different country and their medal counts. The columns are Gold, Silver, Bronze, and Total medals. My focus is specifically on the Bronze column to count how many countries have at least one bronze medal.
+
+Starting with the first row: Australia (AUS) has 2 Gold, 1 Silver, and 0 Bronze. So they didn't win any bronze medals.
+
+Next, Italy (ITA) has 1 Gold, 1 Silver, and 1 Bronze. That's one country with a bronze.
+
+Then, Germany (EUA) has 1 Gold, 0 Silver, and 1 Bronze. That's another country with a bronze medal.
+
+Moving on to the Soviet Union (URS), they have 1 Gold but no Silver or Bronze. So no bronze here.
+
+Switzerland (SUI) is next with 0 Gold, 2 Silver, and 1 Bronze. That's the third country with a bronze.
+
+The United States (USA) has 0 Gold, 1 Silver, and 0 Bronze. No bronze for them.
+
+Great Britain (GBR) comes after that with 0 Gold, 0 Silver, and 1 Bronze. That's the fourth country on the list with a bronze medal.
+
+Lastly, France (FRA) also has 0 Gold, 0 Silver, and 1 Bronze, making it the fifth country with a bronze.
+
+Wait, let me double-check that count to make sure I didn't miss any or count extra. Italy, Germany, Switzerland, Great Britain, and France each have at least one bronze medal. That's five countries in total.
+
+I think that's all the rows covered, so I'm confident the answer is 5.
+</think>
+
+Final Answer: 5
+===================Answer===================
+5

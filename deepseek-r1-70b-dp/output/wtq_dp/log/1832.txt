@@ -1,0 +1,42 @@
+===================Title===================
+1956 Winter Olympics
+===================Table===================
+|    |   Rank | Nation        | Gold   |   Silver |   Bronze |   Total |
+|---:|-------:|:--------------|:-------|---------:|---------:|--------:|
+|  0 |      1 | Soviet Union  | *7*    |        3 |        6 |      16 |
+|  1 |      2 | Austria       | 4      |        3 |        4 |      11 |
+|  2 |      3 | Finland       | 3      |        3 |        1 |       7 |
+|  3 |      4 | Switzerland   | 3      |        2 |        1 |       6 |
+|  4 |      5 | Sweden        | 2      |        4 |        4 |      10 |
+|  5 |      6 | United States | 2      |        3 |        2 |       7 |
+|  6 |      7 | Norway        | 2      |        1 |        1 |       4 |
+|  7 |      8 | Italy         | 1      |        2 |        0 |       3 |
+|  8 |      9 | Germany       | 1      |        0 |        1 |       2 |
+|  9 |     10 | Canada        | 0      |        1 |        2 |       3 |
+===================Question===================
+which country didn't win any bronze medals?
+===================Text===================
+<think>
+Okay, so I need to figure out which country didn't win any bronze medals in the 1956 Winter Olympics based on the table provided. Let me start by understanding the structure of the table.
+
+The table has several columns: Rank, Nation, Gold, Silver, Bronze, and Total. Each row represents a country's performance with their medal counts. My goal is to find which nation has a zero in the Bronze column because that would mean they didn't win any bronze medals.
+
+I'll go through each row one by one and check the Bronze count.
+
+1. The first row is the Soviet Union. They have 7 Gold, 3 Silver, and 6 Bronze medals. So they did win bronze medals.
+2. Next is Austria with 4 Gold, 3 Silver, and 4 Bronze. They also won bronze.
+3. Finland has 3 Gold, 3 Silver, and 1 Bronze. So they have at least one bronze.
+4. Switzerland with 3 Gold, 2 Silver, and 1 Bronze. Again, they have a bronze medal.
+5. Sweden shows 2 Gold, 4 Silver, and 4 Bronze. They definitely won bronzes.
+6. United States has 2 Gold, 3 Silver, and 2 Bronze medals. So they also have bronzes.
+7. Norway's count is 2 Gold, 1 Silver, and 1 Bronze. They have a bronze medal.
+8. Italy has 1 Gold, 2 Silver, and 0 Bronze. Oh, here we go! Italy didn't win any bronze medals since the Bronze column is zero.
+9. Germany has 1 Gold, 0 Silver, and 1 Bronze. So they did win one bronze.
+10. Canada with 0 Gold, 1 Silver, and 2 Bronze. They have two bronzes.
+
+Wait a second, when I was checking each row, I noticed that Italy is the only country with zero in the Bronze column. All other countries had at least one bronze medal except Italy. So, according to this table, Italy didn't win any bronze medals.
+</think>
+
+Final Answer: Italy
+===================Answer===================
+Italy

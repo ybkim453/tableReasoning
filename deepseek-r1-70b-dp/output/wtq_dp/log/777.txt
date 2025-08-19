@@ -1,0 +1,65 @@
+===================Title===================
+Television stations in Chiapas
+===================Table===================
+|    | Network name           | Flagship   | Programming type                     | Owner                          |   Affiliates |
+|---:|:-----------------------|:-----------|:-------------------------------------|:-------------------------------|-------------:|
+|  0 | Canal de las Estrellas | XEW 2      | soap operas, retro movies and sports | Televisa                       |           10 |
+|  1 | Canal 5                | XHGC 5     | cartoons, movies, and series         | Televisa                       |            4 |
+|  2 | Azteca 7               | XHIMT 7    | sports, series, and movies           | TV Azteca                      |            5 |
+|  3 | Galavisión            | XEQ 9      | retro programming and sports         | Televisa                       |            1 |
+|  4 | TV 10 Chiapas          | XHTTG      | educational                          | Gobierno del Estado de Chiapas |            7 |
+|  5 | Azteca 13              | XHDF 13    | news, soap operas, and sports        | TV Azteca                      |            4 |
+|  6 | Independent            | nan        | varies                               | Independent                    |            3 |
+===================Question===================
+which channel has their owner as an independent?
+===================Text===================
+<think>
+Alright, I need to figure out which channel has an independent owner based on the provided table. Let me start by carefully reviewing each row of the table.
+
+Looking at the "Owner" column:
+
+- The first entry (index 0) is owned by Televisa.
+- The second (index 1) is also Televisa.
+- The third (index 2) belongs to TV Azteca.
+- The fourth (index 3) again is under Televisa.
+- The fifth (index 4) is owned by the Government of Chiapas.
+- The sixth entry (index 5) lists the owner as Independent.
+- The seventh row (index 6) has "Independent" in both Owner and Network name, but the Flagship is 'nan', which I assume means not applicable or missing data.
+
+So, focusing on the "Owner" column, only index 5 and 6 have "Independent". However, index 6's network name is also "Independent", and it has 3 affiliates. 
+
+Wait, the question asks which channel has their owner as an independent. So both index 5 (Network name: Azteca 13) and index 6 (Network name: Independent) are owned by Independent entities? Or maybe I misread.
+
+Looking back:
+
+- Index 5's Owner is TV Azteca.
+- Wait, no. Let me check again.
+
+Wait, no. Looking at the table correctly:
+
+Row 0: Owner Televisa
+Row1: Televisa
+Row2: TV Azteca
+Row3: Televisa
+Row4: Gobierno del Estado...
+Row5: TV Azteca
+Row6: Independent
+
+So only row 6 has an owner listed as "Independent". Therefore, the channel with independent ownership is index 6, which is named "Independent".
+
+But wait, what's the network name for that? It says "Independent" in both Network name and Owner. So the answer should be the network whose owner is Independent, which is the row where Owner is Independent.
+
+Looking back at the table, only row 6 has Owner as Independent. Therefore, the channel with an independent owner is the one in row 6, which is named "Independent". However, in the Flagship column for that row, it's 'nan', meaning no flagship station listed.
+
+But the question asks which channel has their owner as independent. So the answer is the network where Owner is Independent, which is the sixth entry, with Network name "Independent".
+
+Wait, but the table shows that index 6 is "Independent" in both Network name and Owner. But looking back, I think each row represents a different network.
+
+So the correct channel would be the one at index 6, named "Independent", flagship 'nan', programming type varies, owner Independent, with 3 affiliates.
+
+Therefore, the answer should be this channel, which is the sixth entry.
+</think>
+
+Final Answer: Independent
+===================Answer===================
+Independent

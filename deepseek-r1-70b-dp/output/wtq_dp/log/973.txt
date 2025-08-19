@@ -1,0 +1,54 @@
+===================Title===================
+Equestrian at the 1960 Summer Olympics
+===================Table===================
+|    |   Rank | Nation              |   Gold |   Silver |   Bronze |   Total |
+|---:|-------:|:--------------------|-------:|---------:|---------:|--------:|
+|  0 |      1 | Australia (AUS)     |      2 |        1 |        0 |       3 |
+|  1 |      2 | Italy (ITA)         |      1 |        1 |        1 |       3 |
+|  2 |      3 | Germany (EUA)       |      1 |        0 |        1 |       2 |
+|  3 |      4 | Soviet Union (URS)  |      1 |        0 |        0 |       1 |
+|  4 |      5 | Switzerland (SUI)   |      0 |        2 |        1 |       3 |
+|  5 |      6 | United States (USA) |      0 |        1 |        0 |       1 |
+|  6 |      7 | Great Britain (GBR) |      0 |        0 |        1 |       1 |
+|  7 |      7 | France (FRA)        |      0 |        0 |        1 |       1 |
+===================Question===================
+who is listed next after switzerland in the table?
+===================Text===================
+<think>
+Okay, so I have this table about Equestrian events at the 1960 Summer Olympics, and I need to figure out who is listed right after Switzerland in the table. Let me start by understanding how the table is structured.
+
+Looking at the columns: Rank, Nation, Gold, Silver, Bronze, Total. Each row represents a country's performance. The first column seems to be an index starting from 0, and the second column is the rank. But I'm not sure if the Rank is separate or based on medals. Probably, it's their overall ranking.
+
+Switzerland is listed in row 4 with a Rank of 5. So I need to see what comes after that. The rows are ordered by their Rank from 1 upwards. After Switzerland at rank 5, the next countries would be those with higher numerical ranks because in rankings, lower numbers are better positions. Wait, no, actually in rankings, typically lower numbers mean higher positions. So rank 1 is first place, rank 2 is second, etc.
+
+So looking at the table:
+
+- Rank 1: Australia
+- Rank 2: Italy
+- Rank 3: Germany (EUA)
+- Rank 4: Soviet Union
+- Rank 5: Switzerland
+- Then what comes next? The next ranks would be higher than 5. Let me check the remaining rows.
+
+Looking at row indices:
+
+Row 0: Australia (Rank 1)
+Row 1: Italy (Rank 2)
+Row 2: Germany (Rank3)
+Row3:Soviet (4)
+Row4: Switzerland (5)
+So what's after row4? Row5 and Row6, which are index 5 and 6.
+
+At index5: USA (rank6)
+Index6: Great Britain (rank7) and France also at rank7. Wait, but in the table, both Great Britain and France have rank7. So Switzerland is at rank5, then next would be USA at rank6, followed by two countries tied at rank7.
+
+So who comes immediately after Switzerland? The next row after index4 is index5: United States (USA) with Rank6.
+
+Wait, but in the table, it's ordered by Rank, so higher ranks come after. So yes, after Switzerland (rank5), USA is rank6, then two at rank7.
+
+So the answer would be the country that comes right after Switzerland in the list, which is USA.
+</think>
+
+Final Answer: United States (USA)
+===================Answer===================
+United States (USA)

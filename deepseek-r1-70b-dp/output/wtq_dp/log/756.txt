@@ -1,0 +1,54 @@
+===================Title===================
+1955 NFL Draft
+===================Table===================
+|    |   Pick # | NFL Team                             | Player            | Position    | College      |
+|---:|---------:|:-------------------------------------|:------------------|:------------|:-------------|
+|  0 |        1 | Baltimore Colts (Lottery bonus pick) | George Shaw       | Quarterback | Oregon       |
+|  1 |        2 | Chicago Cardinals                    | Max Boydston      | End         | Oklahoma     |
+|  2 |        3 | Baltimore Colts                      | Alan Ameche       | Fullback    | Wisconsin    |
+|  3 |        4 | Washington Redskins                  | Ralph Guglielmi   | Quarterback | Notre Dame   |
+|  4 |        5 | Green Bay Packers                    | Tom Bettis        | Guard       | Purdue       |
+|  5 |        6 | Pittsburgh Steelers                  | Frank Varrichione | Tackle      | Notre Dame   |
+|  6 |        7 | Los Angeles Rams                     | Larry Morris      | Center      | Georgia Tech |
+|  7 |        8 | New York Giants                      | Joe Heap          | Halfback    | Notre Dame   |
+|  8 |        9 | Philadelphia Eagles                  | Dick Bielski      | Fullback    | Maryland     |
+|  9 |       10 | San Francisco 49ers                  | Dickey Moegle     | Halfback    | Rice         |
+| 10 |       11 | Chicago Bears                        | Ron Drzewiecki    | Halfback    | Marquette    |
+| 11 |       12 | Detroit Lions                        | Dave Middleton    | Halfback    | Auburn       |
+| 12 |       13 | Cleveland Browns                     | Kurt Burris       | Center      | Oklahoma     |
+===================Question===================
+what is the number of players picked from notre dame?
+===================Text===================
+<think>
+Alright, so I need to figure out how many players were picked from Notre Dame in the 1955 NFL Draft based on this table. Let me go through each row and check the College column for "Notre Dame".
+
+Starting with the first row, Pick #1: Baltimore Colts picked George Shaw from Oregon. Not Notre Dame.
+
+Next, Pick #2: Chicago Cardinals chose Max Boydston from Oklahoma. Nope.
+
+Pick #3: Baltimore Colts again, Alan Ameche from Wisconsin. Not ND.
+
+Moving on to Pick #4: Washington Redskins selected Ralph Guglielmi from Notre Dame. That's one.
+
+Pick #5: Green Bay Packers took Tom Bettis from Purdue. Not ND.
+
+Pick #6: Pittsburgh Steelers picked Frank Varrichione from Notre Dame. That's two.
+
+Pick #7: Los Angeles Rams chose Larry Morris from Georgia Tech. No.
+
+Pick #8: New York Giants selected Joe Heap from Notre Dame. Now that's three.
+
+Pick #9: Philadelphia Eagles picked Dick Bielski from Maryland. Not ND.
+
+Pick #10: San Francisco 49ers took Dickey Moegle from Rice. Nope.
+
+Pick #11: Chicago Bears chose Ron Drzewiecki from Marquette. No.
+
+Last one, Pick #12: Detroit Lions selected Dave Middleton from Auburn. Not ND.
+
+So adding them up, I found three players from Notre Dame: Ralph Guglielmi, Frank Varrichione, and Joe Heap.
+</think>
+
+Final Answer: 3
+===================Answer===================
+3

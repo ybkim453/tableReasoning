@@ -1,0 +1,49 @@
+===================Title===================
+Dino (singer)
+===================Table===================
+|    |   Year | Song                | Album        | Position   | Chart                 |
+|---:|-------:|:--------------------|:-------------|:-----------|:----------------------|
+|  0 |   1987 | "Summergirls"       | 24/7         | 50         | Billboard Hot 100     |
+|  1 |   1989 | "24/7"              | 24/7         | 42         | Billboard Hot 100     |
+|  2 |   1989 | "24/7"              | 24/7         | 12         | Hot R&B/Hip-Hop Songs |
+|  3 |   1989 | "I Like It"         | 24/7         | 7          | Billboard Hot 100     |
+|  4 |   1989 | "I Like It"         | 24/7         | 3          | Hot Dance Club Play   |
+|  5 |   1989 | "Sunshine"          | 24/7         | 23         | Billboard Hot 100     |
+|  6 |   1990 | "Never 2 Much of U" | 24/7         | 61         | Billboard Hot 100     |
+|  7 |   1990 | "Romeo"             | Swingin'     | 6          | Billboard Hot 100     |
+|  8 |   1991 | "Gentle"            | Swingin'     | 31         | Billboard Hot 100     |
+|  9 |   1993 | "Ooh Child"         | The Way I Am | 27         | Billboard Hot 100     |
+| 10 |   1993 | "Endlessly"         | The Way I Am | --         | Billboard Hot 100     |
+===================Question===================
+how many of dino's singles appeared on charts besides the billboard hot 100?
+===================Text===================
+<think>
+Okay, so I need to figure out how many of Dino's singles appeared on charts besides the Billboard Hot 100 based on the given table. Let me go through this step by step.
+
+First, looking at the table, each row represents a song with its chart performance. The columns are Year, Song, Album, Position, and Chart. My goal is to count how many songs charted on other charts besides the Billboard Hot 100.
+
+I'll start by examining each entry one by one:
+
+1. **Index 0**: "Summergirls" from 1987, charted at position 50 on Billboard Hot 100.
+2. **Index 1**: "24/7" in 1989, position 42 on Billboard Hot 100.
+3. **Index 2**: Another entry for "24/7", but this time it's on the Hot R&B/Hip-Hop Songs chart at position 12. So this is a different chart.
+4. **Index 3**: "I Like It" in 1989, position 7 on Billboard Hot 100.
+5. **Index 4**: "I Like It" again, but now it's on the Hot Dance Club Play chart at position 3. That's another non-Billboard Hot 100 entry.
+6. **Index 5**: "Sunshine" from 1989, charted at 23 on Billboard Hot 100.
+7. **Index 6**: "Never 2 Much of U" in 1990, position 61 on Billboard Hot 100.
+8. **Index 7**: "Romeo" in 1990, position 6 on Billboard Hot 100.
+9. **Index 8**: "Gentle" from 1991, charted at 31 on Billboard Hot 100.
+10. **Index 9**: "Ooh Child" in 1993, position 27 on Billboard Hot 100.
+11. **Index 10**: "Endlessly" from 1993, but the position is "--", which I assume means it didn't chart or data isn't available for that chart.
+
+Now, focusing on entries where the Chart is not the Billboard Hot 100:
+
+- Index 2: "24/7" on Hot R&B/Hip-Hop Songs.
+- Index 4: "I Like It" on Hot Dance Club Play.
+
+So there are two instances where Dino's singles appeared on charts other than the Billboard Hot 100. Each of these is a different song and chart entry, so they count as separate singles appearing on non-Billboard Hot 100 charts.
+</think>
+
+Final Answer: 2
+===================Answer===================
+2

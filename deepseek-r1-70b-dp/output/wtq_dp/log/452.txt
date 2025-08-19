@@ -1,0 +1,41 @@
+===================Title===================
+United States men's national soccer team
+===================Table===================
+|    | #   | Player           |   Goals |   Caps | Career       |
+|---:|:----|:-----------------|--------:|-------:|:-------------|
+|  0 | 1   | Landon Donovan   |      57 |    155 | 2000–present |
+|  1 | 2   | Clint Dempsey    |      36 |    103 | 2004–present |
+|  2 | 3   | Eric Wynalda     |      34 |    106 | 1990–2000    |
+|  3 | 4   | Brian McBride    |      30 |     95 | 1993–2006    |
+|  4 | 5   | Joe-Max Moore    |      24 |    100 | 1992–2002    |
+|  5 | 6T  | Jozy Altidore    |      21 |     67 | 2007–present |
+|  6 | 6T  | Bruce Murray     |      21 |     86 | 1985–1993    |
+|  7 | 8   | Eddie Johnson    |      19 |     62 | 2004–present |
+|  8 | 9T  | Earnie Stewart   |      17 |    101 | 1990–2004    |
+|  9 | 9T  | DaMarcus Beasley |      17 |    114 | 2001–present |
+===================Question===================
+who is the only goalscorer to score between 18 and 20 goals?
+===================Text===================
+<think>
+Okay, let me try to figure this out step by step. So, I need to look at the table of US men's national soccer team players and determine who is the only goalscorer with a goal tally between 18 and 20.
+
+First, I'll go through each player and check their Goals column. Starting from the top:
+
+1. Landon Donovan has 57 goals, which is way above 20.
+2. Clint Dempsey with 36 goals, also higher than 20.
+3. Eric Wynalda at 34, still too high.
+4. Brian McBride with 30, nope.
+5. Joe-Max Moore has 24, just above 20 as well.
+6. Jozy Altidore and Bruce Murray both have 21 goals each, which is within the range of 18-20? Wait, no—21 is actually above 20. So they're at 21, which is over 20.
+
+Wait, the user wants players who scored between 18 and 20. So that would be 18, 19, or maybe up to 20 inclusive. Let me see the next ones:
+
+7. Eddie Johnson has 19 goals. That's exactly within the range.
+8. Earnie Stewart and DaMarcus Beasley both have 17 goals each, which is below 18.
+
+So looking at this, only Eddie Johnson falls into that category with 19 goals. The others either have more than 20 or less than 18. So he's the one who fits the criteria of scoring between 18 and 20 goals.
+</think>
+
+Final Answer: Eddie Johnson
+===================Answer===================
+Eddie Johnson

@@ -1,0 +1,41 @@
+===================Title===================
+List of thread standards
+===================Table===================
+|    | Thread\nnominal size   | Outer diameter\n[mm (in)]   |   Threads per inch\n(TPI) | Pitch\n[in (mm)]   | Inner diameter\n[mm (in)]   | Cable diameter\n[mm (in)]   |
+|---:|:-----------------------|:----------------------------|--------------------------:|:-------------------|:----------------------------|:----------------------------|
+|  0 | PG7                    | 12.5 (0.492)                |                        20 | 0.05 (1.270)       | 11.28 (0.444)               | 3 to 6.5 (0.118 to 0.256)   |
+|  1 | PG9                    | 15.5 (0.610)                |                        18 | 0.05556 (1.4112)   | 13.86 (0.546)               | 4 to 8 (0.157 to 0.315)     |
+|  2 | PG11                   | 18.6 (0.732)                |                        18 | 0.05556 (1.4112)   | 17.26 (0.680)               | 5 to 10 (0.197 to 0.394)    |
+|  3 | PG13.5                 | 20.4 (0.803)                |                        18 | 0.05556 (1.4112)   | 19.06 (0.750)               | 6 to 12 (0.236 to 0.472)    |
+|  4 | PG16                   | 22.5 (0.886)                |                        18 | 0.05556 (1.4112)   | 21.16 (0.833)               | 10 to 14 (0.394 to 0.551)   |
+|  5 | PG21                   | 28.3 (1.114)                |                        16 | 0.0625 (1.5875)    | 26.78 (1.054)               | 13 to 18 (0.512 to 0.709)   |
+|  6 | PG29                   | 37.0 (1.457)                |                        16 | 0.0625 (1.5875)    | 35.48 (1.397)               | 18 to 25 (0.709 to 0.984)   |
+|  7 | PG36                   | 47.0 (1.850)                |                        16 | 0.0625 (1.5875)    | 45.48 (1.791)               | nan                         |
+|  8 | PG42                   | 54.0 (2.126)                |                        16 | 0.0625 (1.5875)    | 52.48 (2.066)               | nan                         |
+|  9 | PG48                   | 59.3 (2.335)                |                        16 | 0.0625 (1.5875)    | 57.78 (2.275)               | nan                         |
+===================Question===================
+what is the only thread nominal size with a 21.16mm inner diameter?
+===================Text===================
+<think>
+Okay, so I need to figure out which thread nominal size has an inner diameter of exactly 21.16mm. Let's look at the table provided.
+
+First, I'll examine each row and check the "Inner diameter [mm (in)]" column for 21.16mm. Starting from the top:
+
+- Row 0: Inner diameter is 11.28mm.
+- Row 1: 13.86mm.
+- Row 2: 17.26mm.
+- Row 3: 19.06mm.
+- Row 4: Here, it shows 21.16mm. The thread nominal size for this row is PG16.
+
+I'll continue checking the other rows to make sure there's no duplicate:
+
+- Rows 5 and beyond have inner diameters of 26.78mm, 35.48mm, etc., which are larger than 21.16mm.
+
+So, only Row 4 has the inner diameter of 21.16mm, corresponding to PG16. However, the question asks for the thread nominal size, which is the number before PG. In this case, it's 4.
+</think>
+
+The thread nominal size with a 21.16mm inner diameter is found in row 4, where the "Inner diameter" is 21.16mm. The corresponding thread nominal size is 4.
+
+Final Answer: 4
+===================Answer===================
+PG16

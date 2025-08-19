@@ -1,0 +1,50 @@
+===================Title===================
+1989 NHL Entry Draft
+===================Table===================
+|    |   Pick # | Player          | Position   | Nationality    | NHL team              | College/junior/club team                 |
+|---:|---------:|:----------------|:-----------|:---------------|:----------------------|:-----------------------------------------|
+|  0 |      148 | Paul Krake      | Goalie     | Canada         | Quebec Nordiques      | University of Alaska Anchorage (NCAA)    |
+|  1 |      149 | Phil Huber      | Center     | Canada         | New York Islanders    | Kamloops Blazers (WHL)                   |
+|  2 |      150 | Derek Langille  | Defense    | Canada         | Toronto Maple Leafs   | North Bay Centennials (OHL)              |
+|  3 |      151 | Jim Solly       | Left Wing  | Canada         | Winnipeg Jets         | Bowling Green State University (NCAA)    |
+|  4 |      152 | Sergei Starikov | Defense    | Soviet Union   | New Jersey Devils     | CSKA Moscow (USSR)                       |
+|  5 |      153 | Milan Tichy     | Defense    | Czechoslovakia | Chicago Blackhawks    | Prince Albert Raiders (WHL)              |
+|  6 |      154 | Jon Pratt       | Left Wing  | United States  | Minnesota North Stars | Pingree High School (USHS-MA)            |
+|  7 |      155 | Rob Sangster    | Left Wing  | Canada         | Vancouver Canucks     | Kitchener Rangers (OHL)                  |
+|  8 |      156 | Kevin Plager    | Right Wing | United States  | St. Louis Blues       | Parkway North High School (USHS-MO)      |
+|  9 |      157 | Raymond Saumier | Right Wing | Canada         | Hartford Whalers      | Trois Rivieres Draveurs (QMJHL)          |
+| 10 |      158 | Andy Suhy       | Defense    | United States  | Detroit Red Wings     | Western Michigan University (NCAA)       |
+| 11 |      159 | Sverre Sears    | Defense    | United States  | Philadelphia Flyers   | Princeton University (NCAA)              |
+| 12 |      160 | Greg Spenrath   | Defense    | Canada         | New York Rangers      | Tri-City Americans (WHL)                 |
+| 13 |      161 | Derek Plante    | Center     | United States  | Buffalo Sabres        | Cloquet High School (USHS-MN)            |
+| 14 |      162 | Darcy Martini   | Defense    | Canada         | Edmonton Oilers       | Michigan Technological University (NCAA) |
+| 15 |      163 | David Shute     | Left Wing  | United States  | Pittsburgh Penguins   | Victoria Cougars (WHL)                   |
+| 16 |      164 | Rick Allain     | Defense    | Canada         | Boston Bruins         | Kitchener Rangers (OHL)                  |
+| 17 |      165 | Sean Whyte      | Right Wing | Canada         | Los Angeles Kings     | Guelph Platers (OHL)                     |
+| 18 |      166 | Dean Holoien    | Right Wing | Canada         | Washington Capitals   | Saskatoon Blades (WHL)                   |
+| 19 |      167 | Patrick Lebeau  | Left Wing  | Canada         | Montreal Canadiens    | St-Jean Lynx (QMJHL)                     |
+| 20 |      168 | Kevin Wortman   | Defense    | United States  | Calgary Flames        | American International College (NCAA)    |
+===================Question===================
+what is the number of total picks in the eighth round?
+===================Text===================
+<think>
+Alright, so I need to figure out how many total picks are in the eighth round of the 1989 NHL Entry Draft based on the provided table. Let me break this down step by step.
+
+First, I'll look at the structure of the table. It has columns like Pick #, Player, Position, Nationality, NHL team, and College/junior/club team. Each row represents a pick in that round. 
+
+I notice that each entry starts with an index from 0 to 20. That's 21 entries in total. However, I should confirm whether all these picks belong to the eighth round or if there are multiple rounds represented here.
+
+Wait, the table is titled "1989 NHL Entry Draft," so it might include more than one round, but looking at the Pick #s, they range from 148 to 168. Let me recall how the NHL Entry Draft works. Each round consists of a certain number of picks, typically equal to the number of teams in the league at that time.
+
+In 1989, I believe there were 21 teams in the NHL. So each round would have 21 picks. The first round would be picks 1-21, the second round 22-42, and so on. Let's see: Round 7 would end around pick 147 (since 21*7=147). Therefore, the eighth round would start at pick 148 and go up to pick 168 (which is 21 picks).
+
+Looking back at the table, it starts with Pick #148 and ends with Pick #168. That's exactly 21 picks, which aligns with my understanding of each round having one pick per team. So the eighth round has 21 picks in total.
+
+I should double-check to ensure I'm not miscounting. The first entry is Pick 148 (index 0) and the last is Pick 168 (index 20). Counting from index 0 to 20 inclusive gives us 21 entries, each representing a pick in the eighth round. Therefore, the total number of picks in the eighth round is 21.
+</think>
+
+The eighth round consists of 21 picks.
+
+Final Answer: 21
+===================Answer===================
+21

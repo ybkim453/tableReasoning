@@ -1,0 +1,71 @@
+===================Title===================
+2002–03 FA Cup
+===================Table===================
+|    | Tie no   | Home team               | Score   | Away team            | Date            | Attendance   |
+|---:|:---------|:------------------------|:--------|:---------------------|:----------------|:-------------|
+|  0 | 1        | Rochdale                | 2 – 0   | Coventry City        | 25 January 2003 | nan          |
+|  1 | 2        | Southampton             | 1 – 1   | Millwall             | 25 January 2003 | 23,809       |
+|  2 | Replay   | Millwall                | 1 – 2   | Southampton          | 5 February 2003 | 10,197       |
+|  3 | 3        | Watford                 | 1 – 0   | West Bromwich Albion | 25 January 2003 | 16,975       |
+|  4 | 4        | Walsall                 | 2 – 0   | Wimbledon            | 25 January 2003 | 6,693        |
+|  5 | 5        | Gillingham              | 1 – 1   | Leeds United         | 25 January 2003 | 11,093       |
+|  6 | Replay   | Leeds United            | 2 – 1   | Gillingham           | 4 February 2003 | 29,359       |
+|  7 | 6        | Blackburn Rovers        | 3 – 3   | Sunderland           | 25 January 2003 | 14,315       |
+|  8 | Replay   | Sunderland              | 2 – 2   | Blackburn Rovers     | 5 February 2003 | 15,745       |
+|  9 | 7        | Wolverhampton Wanderers | 4 – 1   | Leicester City       | 25 January 2003 | 28,164       |
+| 10 | 8        | Shrewsbury Town         | 0 – 4   | Chelsea              | 26 January 2003 | 7,950        |
+| 11 | 9        | Sheffield United        | 4 – 3   | Ipswich Town         | 25 January 2003 | 12,757       |
+| 12 | 10       | Fulham                  | 3 – 0   | Charlton Athletic    | 26 January 2003 | 12,203       |
+| 13 | 11       | Brentford               | 0 – 3   | Burnley              | 25 January 2003 | 9,563        |
+| 14 | 12       | Manchester United       | 6 – 0   | West Ham United      | 26 January 2003 | 67,181       |
+| 15 | 13       | Norwich City            | 1 – 0   | Dagenham & Redbridge | 25 January 2003 | 21,164       |
+| 16 | 14       | Crystal Palace          | 0 – 0   | Liverpool            | 26 January 2003 | 26,054       |
+| 17 | Replay   | Liverpool               | 0 – 2   | Crystal Palace       | 5 February 2003 | 35,109       |
+| 18 | 15       | Farnborough Town        | 1 – 5   | Arsenal              | 25 January 2003 | 35,108       |
+| 19 | 16       | Stoke City              | 3 – 0   | Bournemouth          | 26 January 2003 | 12,004       |
+===================Question===================
+which date had at least 14,315
+===================Text===================
+<think>
+Alright, so I need to figure out which dates had an attendance of at least 14,315 based on the provided table from the 2002–03 FA Cup. Let me go through this step by step.
+
+First, I'll look at each row in the table and check the Attendance column to see if it meets or exceeds 14,315. The Date associated with those attendances will be my answers.
+
+Starting from the top:
+
+1. Tie no 0: Attendance is nan (which probably means not available), so I can't count this.
+2. Tie no 1: Attendance is 23,809. That's definitely above 14,315. The date here is 25 January 2003.
+3. Tie no 2: Attendance is 10,197. Below the threshold.
+4. Tie no 3: 16,975. Above 14k. Date: 25 Jan.
+5. Tie no 4: 6,693. Too low.
+6. Tie no 5: 11,093. Still below.
+7. Tie no 6: Attendance is 29,359. Well above, date: 4 Feb 2003.
+8. Tie no 7: Attendance 14,315 exactly. That's the threshold, so include this. Date:25 Jan.
+9. Tie no 8: Attendance 15,745. Above, date:5 Feb.
+10. Tie no 9:28,164. Well above, date:25 Jan.
+11. Tie no 10:7,950. Too low.
+12. Tie no 11:12,757. Below.
+13. Tie no 12:12,203. Below.
+14. Tie no 13:9,563. No.
+15. Tie no 14:67,181. Way above, date:26 Jan.
+16. Tie no 15:21,164. Above, same date as others (25 Jan).
+17. Tie no 16:26,054. Just a bit below? Wait, 26k is more than 14k. So yes, date:26 Jan.
+18. Tie no 17:35,109. That's high, date:5 Feb.
+19. Tie no 18:35,108. Also high, same as above, date:25 Jan.
+20. Tie no 19:12,004. Below.
+
+Wait a second, I think I might have made a mistake with Tie no 16 regarding Crystal Palace vs Liverpool. The attendance there is 26,054, which is more than 14k, so that's another date of 26 January 2003.
+
+So compiling all the dates where attendance was at least 14,315:
+
+- 25 January 2003 (appears multiple times)
+- 4 February 2003
+- 5 February 2003
+- 26 January 2003
+
+I should list each occurrence, but since some dates repeat, I'll just include the unique ones.
+</think>
+
+Final Answer: 25 January 2003, 4 February 2003, 5 February 2003, 26 January 2003
+===================Answer===================
+25 January 2003

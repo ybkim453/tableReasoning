@@ -1,0 +1,85 @@
+===================Title===================
+Arabic numerals
+===================Table===================
+|    | Binary    |   Octal |   Decimal |   Hexadecimal |   Glyph |
+|---:|:----------|--------:|----------:|--------------:|--------:|
+|  0 | 0011 0000 |      60 |        48 |            30 |       0 |
+|  1 | 0011 0001 |      61 |        49 |            31 |       1 |
+|  2 | 0011 0010 |      62 |        50 |            32 |       2 |
+|  3 | 0011 0011 |      63 |        51 |            33 |       3 |
+|  4 | 0011 0100 |      64 |        52 |            34 |       4 |
+|  5 | 0011 0101 |      65 |        53 |            35 |       5 |
+|  6 | 0011 0110 |      66 |        54 |            36 |       6 |
+|  7 | 0011 0111 |      67 |        55 |            37 |       7 |
+|  8 | 0011 1000 |      70 |        56 |            38 |       8 |
+|  9 | 0011 1001 |      71 |        57 |            39 |       9 |
+===================Question===================
+how many decimals are in the 50s but are not even numbers?
+===================Text===================
+<think>
+Okay, I need to figure out how many decimals in the 50s from the given table are not even numbers. Let's start by understanding what each column represents.
+
+Looking at the table, the columns are Binary, Octal, Decimal, Hexadecimal, and Glyph. Each row corresponds to a number from 0 to 9, showing its representation in different numeral systems. 
+
+First, I need to identify which decimals fall into the 50s range. That means looking for decimal values that start with '50-59'. Scanning through the Decimal column: 
+
+- The numbers listed are 48, 49, 50, 51, 52, 53, 54, 55, 56, 57.
+
+Wait, that doesn't seem right. Let me check again. Oh, I see, each row's decimal value is as follows:
+
+Row 0: 48
+
+Row 1:49
+
+Row2:50
+
+Row3:51
+
+Row4:52
+
+Row5:53
+
+Row6:54
+
+Row7:55
+
+Row8:56
+
+Row9:57
+
+So the decimals in the 50s are from 50 to 57. That includes the numbers 50,51,52,53,54,55,56,57.
+
+Now, I need to determine which of these are not even. Even numbers are those that end with 0,2,4,6,8. So let's list each number and check:
+
+50: even
+
+51: odd
+
+52: even
+
+53: odd
+
+54: even
+
+55: odd
+
+56: even
+
+57: odd
+
+So the decimals in the 50s are eight numbers:50-57.
+
+Out of these, the even ones are 50,52,54,56. That's four numbers.
+
+The question asks for how many are in the 50s but not even. So total in 50s is 8 (from 50 to 57 inclusive). Subtract the 4 even numbers:8-4=4.
+
+But wait, let me recount: 50(even),51(odd),52(even),53(odd),54(even),55(odd),56(even),57(odd). So from 50 to 57, that's eight decimals. Half are even and half odd? Wait no, because starting with 50 (even), so the count of even is four:50,52,54,56.
+
+So non-even (odd) numbers in 50s would be 51,53,55,57—four numbers.
+
+Therefore, the answer should be 4.
+</think>
+
+Final Answer: 4
+===================Answer===================
+4

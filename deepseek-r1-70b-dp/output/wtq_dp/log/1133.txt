@@ -1,0 +1,60 @@
+===================Title===================
+Nicolás Terol
+===================Table===================
+|    | Season   | Class   | Moto    |   Races |   Win |   Podiums |   Pole | Pts    | Position   |
+|---:|:---------|:--------|:--------|--------:|------:|----------:|-------:|:-------|:-----------|
+|  0 | 2004     | 125cc   | Aprilia |       1 |     0 |         0 |      0 | 0      | NC         |
+|  1 | 2005     | 125cc   | Derbi   |      13 |     0 |         0 |      0 | 1      | 36th       |
+|  2 | 2006     | 125cc   | Derbi   |      16 |     0 |         0 |      0 | 53     | 14th       |
+|  3 | 2007     | 125cc   | Derbi   |      17 |     0 |         0 |      0 | 19     | 22nd       |
+|  4 | 2008     | 125cc   | Aprilia |      17 |     1 |         5 |      0 | 176    | 5th        |
+|  5 | 2009     | 125cc   | Aprilia |      16 |     1 |         4 |      0 | 179.5  | 3rd        |
+|  6 | 2010     | 125cc   | Aprilia |      16 |     3 |        14 |      1 | 296    | 2nd        |
+|  7 | 2011     | 125cc   | Aprilia |      16 |     8 |        11 |      7 | 302    | 1st        |
+|  8 | 2012     | Moto2   | Suter   |      17 |     0 |         1 |      0 | 37     | 17th       |
+|  9 | 2013     | Moto2   | Suter   |      17 |     3 |         4 |      1 | 150    | 7th        |
+| 10 | 2014     | Moto2   | Suter   |       1 |     0 |         0 |      0 | 0*     | NC*        |
+| 11 | Total    | nan     | nan     |     147 |    16 |        39 |      9 | 1213.5 | nan        |
+===================Question===================
+is the term derbi or aprilia listed more?
+===================Text===================
+<think>
+Okay, so I need to figure out whether Derbi or Aprilia appears more frequently in the table related to Nicolás Terol. Let me look at each row and count how many times each manufacturer is listed under the "Moto" column.
+
+Looking through each season:
+
+- 2004: Moto is Aprilia
+- 2005: Derbi
+- 2006: Derbi
+- 2007: Derbi
+- 2008: Aprilia
+- 2009: Aprilia
+- 2010: Aprilia
+- 2011: Aprilia
+- 2012: Suter
+- 2013: Suter
+- 2014: Suter
+
+So, let's count each:
+
+Aprilia appears in seasons 2004, 2008, 2009, 2010, 2011. That's 5 times.
+
+Derbi appears in 2005, 2006, 2007. That's 3 times.
+
+Wait, but the table has more rows, so I should check each entry. Wait, in row 4 (2008) it's Aprilia again, and similar for others as above. So total Derbi entries are 3, Aprilia 5?
+
+But wait, looking at the Moto column:
+
+- Row 0: Aprilia
+- Rows 1,2,3: Derbi each
+- Rows 4 to 7: Aprilia each (so that's four more, making it five)
+- Rows 8,9,10: Suter
+
+So total Aprilia in the Moto column is 5 times, Derbi 3 times.
+
+Therefore, Aprilia is listed more than Derbi.
+</think>
+
+Final Answer: Aprilia
+===================Answer===================
+Aprilia

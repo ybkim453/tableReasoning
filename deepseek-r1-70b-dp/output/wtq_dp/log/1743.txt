@@ -1,0 +1,82 @@
+===================Title===================
+Eagles–Giants rivalry
+===================Table===================
+|    |   Year | Date         | Winner              | Result     | Loser               | Location                |
+|---:|-------:|:-------------|:--------------------|:-----------|:--------------------|:------------------------|
+|  0 |   2000 | September 10 | New York Giants     | 33-18      | Philadelphia Eagles | Veterans Stadium        |
+|  1 |   2000 | October 29   | New York Giants     | 24-7       | Philadelphia Eagles | Giants Stadium          |
+|  2 |   2001 | January 7    | New York Giants     | 20-10      | Philadelphia Eagles | Giants Stadium          |
+|  3 |   2001 | October 22   | Philadelphia Eagles | 10-9       | New York Giants     | Giants Stadium          |
+|  4 |   2001 | December 30  | Philadelphia Eagles | 24-21      | New York Giants     | Veterans Stadium        |
+|  5 |   2002 | October 28   | Philadelphia Eagles | 17-3       | New York Giants     | Veterans Stadium        |
+|  6 |   2002 | December 28  | New York Giants     | 10-7       | Philadelphia Eagles | Giants Stadium          |
+|  7 |   2003 | October 19   | Philadelphia Eagles | 14-10      | New York Giants     | Giants Stadium          |
+|  8 |   2003 | November 16  | Philadelphia Eagles | 28-10      | New York Giants     | Lincoln Financial Field |
+|  9 |   2004 | September 12 | Philadelphia Eagles | 31-17      | New York Giants     | Lincoln Financial Field |
+| 10 |   2004 | November 28  | Philadelphia Eagles | 27-6       | New York Giants     | Giants Stadium          |
+| 11 |   2005 | November 20  | New York Giants     | 27-17      | Philadelphia Eagles | Giants Stadium          |
+| 12 |   2005 | December 11  | New York Giants     | 26-23 (OT) | Philadelphia Eagles | Lincoln Financial Field |
+| 13 |   2006 | September 17 | New York Giants     | 30-24 (OT) | Philadelphia Eagles | Lincoln Financial Field |
+| 14 |   2006 | December 17  | Philadelphia Eagles | 36-22      | New York Giants     | Giants Stadium          |
+| 15 |   2007 | January 7    | Philadelphia Eagles | 23-20      | New York Giants     | Lincoln Financial Field |
+| 16 |   2007 | September 30 | New York Giants     | 16-3       | Philadelphia Eagles | Giants Stadium          |
+| 17 |   2007 | December 9   | New York Giants     | 16-13      | Philadelphia Eagles | Lincoln Financial Field |
+| 18 |   2008 | November 9   | New York Giants     | 36-31      | Philadelphia Eagles | Lincoln Financial Field |
+| 19 |   2008 | December 7   | Philadelphia Eagles | 20-14      | New York Giants     | Giants Stadium          |
+| 20 |   2009 | January 11   | Philadelphia Eagles | 23-11      | New York Giants     | Giants Stadium          |
+| 21 |   2009 | November 1   | Philadelphia Eagles | 40-17      | New York Giants     | Lincoln Financial Field |
+| 22 |   2009 | December 13  | Philadelphia Eagles | 45-38      | New York Giants     | Giants Stadium          |
+===================Question===================
+what is the most points won by in overtime?
+===================Text===================
+<think>
+Alright, I need to figure out what's the most points won by in overtime based on this Eagles-Giants rivalry table. Let me start by understanding the question properly. It seems like we're looking for the highest margin of victory in an overtime game between these two teams.
+
+First, I'll go through each row of the table and identify which games went into overtime. The results column shows some scores with "(OT)" indicating overtime. So, my first step is to find all rows where "Result" includes "(OT)". 
+
+Looking at the table:
+
+- Row 12: Result is 26-23 (OT). So, Giants won by 3 points.
+- Row 13: Result is 30-24 (OT). Giants again, this time by 6 points.
+
+Wait, but I think both of these are Giants' wins. Are there any other overtime games? Let me check each result:
+
+Row 0: 33-18 – no OT
+Row1:24-7 – no
+Row2:20-10 – no
+Row3:10-9 – that's close, but not OT since it's 10-9 in regulation.
+Wait, actually, in the NFL, if a game is tied at the end of four quarters, it goes into overtime. So 10-9 would have ended in regulation because someone scored more points. Only when scores are equal do they go to OT.
+
+So looking again:
+
+Row 12:26-23 (OT) – Giants win by 3.
+Row13:30-24 (OT) – Giants win by 6.
+
+Are there any other overtime games? Let me check the rest:
+
+Row14:36-22 – no
+Row15:23-20 – that's a 3-point margin without OT, I think. Because if it was OT, it would say (OT).
+Wait, row 16:16-3 – no.
+Row17:16-13 – no.
+Row18:36-31 – no.
+Row19:20-14 – no.
+Row20:23-11 – that's a 12-point difference but not in OT.
+Row21:40-17 – big win, but not in OT.
+
+So only two games went into overtime. Now, I need to find out the points by which each team won in those OT games.
+
+In row12, Giants beat Eagles 26-23 (OT). The difference is 3 points (26-23=3).
+In row13, Giants beat Eagles 30-24 (OT). Difference is 6 points (30-24=6).
+
+Wait a minute, but the question is about "most points won by in overtime." So which team had the highest margin in an OT game? It looks like the Giants won both of their OT games by 3 and 6 points. The Eagles didn't have any OT wins here.
+
+So the most points won in OT would be 6, from the Giants' victory where they scored 30 to the Eagles' 24. So that's a 6-point margin.
+
+Wait, but the question is asking for "the most points won by", so maybe it's the number of points, not the margin? Or perhaps the margin? Because in OT, the game ends when someone scores, right? So the winning team in OT can only win by at least 3 points if it's a field goal, or more if it's a touchdown. 
+
+Wait, the question is a bit ambiguous, but I think it refers to the margin of victory in overtime games. So between the two OT games, the largest margin was 6 points.
+</think>
+
+Final Answer: 6
+===================Answer===================
+6

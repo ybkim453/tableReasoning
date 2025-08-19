@@ -1,0 +1,61 @@
+===================Title===================
+Athletics at the 2002 Asian Games
+===================Table===================
+|    | Rank   | Nation             |   Gold |   Silver |   Bronze |   Total |
+|---:|:-------|:-------------------|-------:|---------:|---------:|--------:|
+|  0 | 1      | China (CHN)        |     14 |       14 |       13 |      41 |
+|  1 | 2      | India (IND)        |      7 |        6 |        4 |      17 |
+|  2 | 3      | Saudi Arabia (KSA) |      7 |        1 |        0 |       8 |
+|  3 | 4      | Kazakhstan (KAZ)   |      3 |        4 |        5 |      12 |
+|  4 | 5      | South Korea (KOR)  |      3 |        2 |        1 |       6 |
+|  5 | 6      | Japan (JPN)        |      2 |       13 |        8 |      23 |
+|  6 | 7      | Bahrain (BRN)      |      2 |        1 |        1 |       4 |
+|  7 | 8      | Sri Lanka (SRI)    |      2 |        0 |        2 |       4 |
+|  8 | 9      | Qatar (QAT)        |      1 |        4 |        3 |       8 |
+|  9 | 10     | Thailand (THA)     |      1 |        1 |        2 |       4 |
+| 10 | 11     | Kyrgyzstan (KGZ)   |      1 |        1 |        0 |       2 |
+| 11 | 12     | Kuwait (KUW)       |      1 |        0 |        0 |       1 |
+| 12 | 12     | North Korea (PRK)  |      1 |        0 |        0 |       1 |
+| 13 | 14     | Uzbekistan (UZB)   |      0 |        1 |        3 |       4 |
+| 14 | 15     | Iran (IRI)         |      0 |        1 |        0 |       1 |
+| 15 | Total  | Total              |     45 |       49 |       42 |     136 |
+===================Question===================
+what is the average amount of gold medals earned by the 15 countries?
+===================Text===================
+<think>
+Alright, so I need to find the average amount of gold medals earned by the 15 countries listed in the table for Athletics at the 2002 Asian Games. Let me break this down step by step.
+
+First, looking at the table, each row represents a country and their respective medal counts: Gold, Silver, Bronze, and Total. The last row is labeled "Total" and shows the sum of all medals across all countries.
+
+For gold medals specifically, I'm interested in the total number of golds won by all 15 countries combined. Then, once I have that total, I can divide it by the number of countries (which is 15) to find the average per country.
+
+Looking at each row under the "Gold" column:
+
+- China: 14
+- India: 7
+- Saudi Arabia: 7
+- Kazakhstan: 3
+- South Korea: 3
+- Japan: 2
+- Bahrain: 2
+- Sri Lanka: 2
+- Qatar: 1
+- Thailand: 1
+- Kyrgyzstan: 1
+- Kuwait: 1
+- North Korea: 1
+- Uzbekistan: 0
+- Iran: 0
+
+Wait, but the "Total" row shows a Gold total of 45. So I can just use that instead of adding each country's gold medals individually.
+
+So the total number of gold medals is 45, and there are 15 countries. Therefore, the average would be 45 divided by 15.
+
+Calculating that: 45 ÷ 15 = 3.
+
+So the average amount of gold medals earned per country is 3.
+</think>
+
+Final Answer: 3
+===================Answer===================
+3

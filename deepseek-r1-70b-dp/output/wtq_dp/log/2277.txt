@@ -1,0 +1,50 @@
+===================Title===================
+Arabic numerals
+===================Table===================
+|    | Binary    |   Octal |   Decimal |   Hexadecimal |   Glyph |
+|---:|:----------|--------:|----------:|--------------:|--------:|
+|  0 | 0011 0000 |      60 |        48 |            30 |       0 |
+|  1 | 0011 0001 |      61 |        49 |            31 |       1 |
+|  2 | 0011 0010 |      62 |        50 |            32 |       2 |
+|  3 | 0011 0011 |      63 |        51 |            33 |       3 |
+|  4 | 0011 0100 |      64 |        52 |            34 |       4 |
+|  5 | 0011 0101 |      65 |        53 |            35 |       5 |
+|  6 | 0011 0110 |      66 |        54 |            36 |       6 |
+|  7 | 0011 0111 |      67 |        55 |            37 |       7 |
+|  8 | 0011 1000 |      70 |        56 |            38 |       8 |
+|  9 | 0011 1001 |      71 |        57 |            39 |       9 |
+===================Question===================
+what binary has the highest decimal value?
+===================Text===================
+<think>
+Alright, so I'm trying to figure out which binary number from the given table has the highest decimal value. Let's break this down step by step.
+
+First, I need to understand what each column represents. The table lists numbers 0 through 9 and provides their representations in Binary, Octal, Decimal, Hexadecimal, and Glyph. My focus here is on the Binary and Decimal columns because the question is about finding the binary with the highest decimal value.
+
+Okay, so for each row, I should look at the Binary and its corresponding Decimal value. The goal is to find which of these binaries has the largest number when converted to decimal.
+
+Let me list out each number's Binary and Decimal values:
+
+0: Binary 00110000 → Decimal 48
+1: Binary 00110001 → Decimal 49
+2: Binary 00110010 → Decimal 50
+3: Binary 00110011 → Decimal 51
+4: Binary 00110100 → Decimal 52
+5: Binary 00110101 → Decimal 53
+6: Binary 00110110 → Decimal 54
+7: Binary 00110111 → Decimal 55
+8: Binary 00111000 → Decimal 56
+9: Binary 00111001 → Decimal 57
+
+Now, I can see that each subsequent number from 0 to 9 has a higher decimal value. So the decimal values go from 48 up to 57 as we move down the table.
+
+Since the question is asking for the binary with the highest decimal value, it seems like the highest decimal here is 57. Now, I need to find which binary corresponds to that.
+
+Looking at the last row (number 9), its Binary is 00111001 and Decimal is 57. Therefore, this must be the binary number with the highest decimal value in the table.
+</think>
+
+The binary number with the highest decimal value in the table is for the number 9, which is `00111001` corresponding to a decimal value of 57.
+
+Final Answer: 00111001
+===================Answer===================
+0011 1001

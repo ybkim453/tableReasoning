@@ -1,0 +1,43 @@
+===================Title===================
+AFL Cairns
+===================Table===================
+|    |   Year | Premiers                        | Score       | Runners Up                      | Score .1   |
+|---:|-------:|:--------------------------------|:------------|:--------------------------------|:-----------|
+|  0 |   2003 | Centrals Trinity Beach Bulldogs | 14.11 (95)  | North Cairns                    | 6.7 (43)   |
+|  1 |   2004 | Port Douglas Crocs              | 17.13 (115) | North Cairns Tigers             | 8.9 (57)   |
+|  2 |   2005 | Port Douglas Crocs              | 19.14 (128) | Cairns Saints                   | 4.11 (35)  |
+|  3 |   2006 | Manunda Hawks                   | 11.11 (77)  | Centrals Trinity Beach Bulldogs | 10.9 (69)  |
+|  4 |   2007 | Centrals Trinity Beach Bulldogs | 14.16 (100) | Cairns Saints                   | 11.2 (68)  |
+|  5 |   2008 | Cairns Saints                   | 12.15 (87)  | North Cairns Tigers             | 2.9 (21)   |
+|  6 |   2009 | South Cairns Cutters            | 9.11 (65)   | Cairns Saints                   | 9.4 (58)   |
+|  7 |   2010 | North Cairns Tigers             | 8.10 (58)   | Port Douglas Crocs              | 8.5 (53)   |
+|  8 |   2011 | Manunda Hawks                   | 11.8 (74)   | Port Douglas Crocs              | 6.9 (45)   |
+|  9 |   2012 | Cairns Saints                   | 17.6 (108)  | North Cairns Tigers             | 11.12 (78) |
+| 10 |   2013 | North Cairns Tigers             | 14.14 (98)  | Port Douglas Crocs              | 13.6 (84)  |
+===================Question===================
+what team took first place in 2008?
+===================Text===================
+<think>
+Okay, I need to figure out which team took first place in 2008 according to the provided table about AFL Cairns. Let me start by understanding the structure of the table.
+
+Looking at the columns: Year, Premiers, Score, Runners Up, and Score .1. So each row represents a year's grand final result, showing the premiers (winners) and their score, as well as the runners up and their score.
+
+The question is asking for the first place team in 2008, which would be the Premiers that year. I need to find the row where Year is 2008 and then see who the Premiers were.
+
+I'll scan through each row:
+
+- Row 0: 2003, Centrals Trinity Beach Bulldogs
+- Row 1: 2004, Port Douglas Crocs
+- Row 2: 2005, Port Douglas Crocs again
+- Row 3: 2006, Manunda Hawks
+- Row 4: 2007, Centrals Trinity Beach Bulldogs
+- Row 5: 2008, Cairns Saints
+
+Wait, that's the one. In row 5 (index 5), Year is 2008, and Premiers are Cairns Saints. Their score was 12.15 (87) against North Cairns Tigers who scored 2.9 (21).
+
+So the team that took first place in 2008 is Cairns Saints.
+</think>
+
+Final Answer: Cairns Saints
+===================Answer===================
+Cairns Saints

@@ -1,0 +1,138 @@
+===================Title===================
+Cypriot presidential election, 2013
+===================Table===================
+|    | Polling Firm               | Source          | Date Published    | N.Anastasiades   | G.Lillikas   | S.Malas   | Others   |
+|---:|:---------------------------|:----------------|:------------------|:-----------------|:-------------|:----------|:---------|
+|  0 | RAI Consultants            | [1][dead link]  | 16 September 2012 | 37.2%            | 14.2%        | 21.9%     | 1.5%     |
+|  1 | Evresis                    | [2]             | 18 September 2012 | 35.2%            | 17.5%        | 19.7%     | 1.7%     |
+|  2 | Noverna                    | [3]             | 23 September 2012 | 35.02%           | 15.81%       | 17.78%    | nan      |
+|  3 | Prime Consulting Ltd       | [4]             | 7 October 2012    | 34.7%            | 17.4%        | 18.5%     | nan      |
+|  4 | CMR Cypronetwork / Cybc    | [5][dead link]  | 18 October 2012   | 36.9%            | 17%          | 23.8%     | 1.2%     |
+|  5 | Evresis                    | [6]             | 2 November 2012   | 36.9%            | 17.7%        | 20.6%     | 1.4%     |
+|  6 | RAI Consultants            | [7]             | 4 November 2012   | 38.8%            | 19.8%        | 21.1%     | 2.3%     |
+|  7 | CMR Cypronetwork / Cybc    | [8]             | 15 November 2012  | 36.8%            | 18.9%        | 22.8%     | 1.6%     |
+|  8 | Prime Consulting Ltd       | [9]             | 18 November 2012  | 35.9%            | 18.7%        | 19.6%     | 0.6%     |
+|  9 | Evresis                    | [10]            | 27 November 2012  | 37.1%            | 19.6%        | 20.8%     | 0.6%     |
+| 10 | Noverna                    | [11]            | 2 December 2012   | 35.6%            | 17.2%        | 18.1%     | 4.1%     |
+| 11 | Prime Consulting Ltd       | [12]            | 3 December 2012   | 35%              | 19.1%        | 18.6%     | 1.4%     |
+| 12 | CMR Cypronetwork / Cybc    | [13][dead link] | 17 December 2012  | 37.1%            | 20.4%        | 23.1%     | 3.1%     |
+| 13 | Evresis                    | [14]            | 22 December 2012  | 37.4%            | 19.8%        | 21.8%     | 0.5%     |
+| 14 | RAI Consultants Ltd        | [15][dead link] | 13 January 2013   | 40.3%            | 17.9%        | 20.5%     | 6.1%     |
+| 15 | CMR Cypronetwork / Cybc    | [16]            | 17 January 2013   | 38%              | 19.7%        | 23.7%     | 2.7%     |
+| 16 | Prime Consulting Ltd       | [17]            | 27 January 2013   | 39.2%            | 18.8%        | 19.8%     | 4%       |
+| 17 | Evresis                    | [18]            | 1 February 2013   | 40.8%            | 19.9%        | 22.2%     | 2.5%     |
+| 18 | Prime Consulting Ltd       | [19]            | 4 February 2013   | 39.8%            | 19.3%        | 20%       | 3%       |
+| 19 | Prime Consulting Ltd       | [20]            | 9 February 2013   | 40.6%            | 19.6%        | 20.4%     | 2.9%     |
+| 20 | RAI Consultants Ltd        | [21]            | 9 February 2013   | 42.1%            | 19.4%        | 21.1%     | 4.4%     |
+| 21 | CMR Cypronetwork / Cybc    | [22]            | 9 February 2013   | 39.9%            | 20.2%        | 24.2%     | 3%       |
+| 22 | Average (only valid votes) | –               | –                 | 48.4%            | 22.52%       | 25.29%    | 3.79%    |
+===================Question===================
+what date has the most published polls?
+===================Text===================
+<think>
+Okay, so I need to figure out which date has the most published polls based on the provided table about the Cypriot presidential election in 2013. Let me start by looking at each row of the table because each row represents a different poll conducted by various firms.
+
+First, I notice that the "Date Published" column shows when each poll was released. My task is to count how many polls were published on each date and then determine which date had the highest number of polls.
+
+Looking through each entry:
+
+- 16 September 2012: Only one poll (RAI Consultants).
+- 18 September 2012: Another single poll by Evresis.
+- 23 September 2012: Noverna's poll on this day, so one.
+- 7 October 2012: Prime Consulting Ltd conducted their poll here, just one.
+- 18 October 2012: CMR Cypronetwork / Cybc polled once.
+- 2 November 2012: Evresis again, single poll.
+- 4 November 2012: RAI Consultants' second poll.
+- 15 November 2012: CMR's second entry.
+- 18 November 2012: Prime Consulting Ltd's third poll? Wait no, let me check. Their first was on 7 October, then again on 18 November, and more later. So this is their second.
+- 27 November 2012: Evresis' poll here, that's their third?
+Wait, maybe I should list all dates and count each occurrence.
+
+Let me list them:
+
+1. 16 September 2012
+2. 18 September 2012
+3. 23 September 2012
+4. 7 October 2012
+5. 18 October 2012
+6. 2 November 2012
+7. 4 November 2012
+8. 15 November 2012
+9. 18 November 2012
+10. 27 November 2012
+11. 2 December 2012
+12. 3 December 2012
+13. 17 December 2012
+14. 22 December 2012
+15. 13 January 2013
+16. 17 January 2013
+17. 27 January 2013
+18. 1 February 2013
+19. 4 February 2013
+20. 9 February 2013 (multiple polls here)
+21. Another poll on 9 February by CMR.
+
+Wait, looking at the table again:
+
+Row 0: 16 Sep
+
+Row 1: 18 Sep
+
+Row 2:23 Sep
+
+Row3:7 Oct
+
+Row4:18 Oct
+
+Row5:2 Nov
+
+Row6:4 Nov
+
+Row7:15 Nov
+
+Row8:18 Nov
+
+Row9:27 Nov
+
+Row10:2 Dec
+
+Row11:3 Dec
+
+Row12:17 Dec
+
+Row13:22 Dec
+
+Row14:13 Jan
+
+Row15:17 Jan
+
+Row16:27 Jan
+
+Row17:1 Feb
+
+Row18:4 Feb
+
+Row19:9 Feb (Prime Consulting Ltd)
+
+Row20:9 Feb (RAI Consultants Ltd)
+
+Row21:9 Feb (CMR Cypronetwork / Cybc)
+
+So, the date 9 February 2013 has three polls:
+
+- Row19 by Prime Consulting Ltd
+- Row20 by RAI Consultants Ltd
+- Row21 by CMR
+
+That's three polls on that single day.
+
+Other dates seem to have at most one or two. Let me check others:
+
+Is there any other date with more than one poll? Looking back, perhaps 9 February is the only one with multiple entries. Others are single.
+
+So, 9 February has three published polls, which seems to be the highest number.
+</think>
+
+Final Answer: 9 February
+===================Answer===================
+9 February 2013

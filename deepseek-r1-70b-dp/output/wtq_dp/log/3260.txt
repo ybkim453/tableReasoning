@@ -1,0 +1,52 @@
+===================Title===================
+List of radio station callsigns in Tasmania
+===================Table===================
+|    | Callsign   | Area served   |   Frequency | Band   | Fate                                                | Freq currently   | Purpose    |
+|---:|:-----------|:--------------|------------:|:-------|:----------------------------------------------------|:-----------------|:-----------|
+|  0 | 7CAE       | Hobart        |        92.1 | FM     | Changed call to 7THE ca. 1980                       | 7THE             | Community  |
+|  1 | 7DY        | Derby         |       nan   | AM     | Moved to Scottsdale and changed call to 7SD in 1954 | 7SD              | Commercial |
+|  2 | 7EX        | Launceston    |      1008   | AM     | Moved to FM in 2008 as 7EXX                         | silent           | Commercial |
+|  3 | 7HO        | Hobart        |       864   | AM     | Moved to FM in 1990 as 7HHO                         | 7RPH             | Commercial |
+|  4 | 7HT        | Hobart        |      1080   | AM     | Moved to FM in 1998 as 7XXX                         | 7TAB (HPON)      | Commercial |
+|  5 | 7LA        | Launceston    |      1098   | AM     | Moved to FM in 2008 as 7LAA                         | silent           | Commercial |
+|  6 | 7NT        | Launceston    |       711   | AM     | Moved to FM in 2006, retained call                  | silent           | National   |
+|  7 | 7QN        | Queenstown    |       630   | AM     | Moved to FM in 1991, retained call                  | 7RN              | National   |
+|  8 | 7QT        | Queenstown    |       837   | AM     | Changed call to 7XS in 1988                         | 7XS              | Commercial |
+|  9 | 7UV        | Ulverstone    |       nan   | AM     | Moved to Devonport and changed call to 7AD in 1940  | 7AD              | Commercial |
+| 10 | 7ZL        | Hobart        |       603   | AM     | Changed call to 7RN in 1991                         | 7RN              | National   |
+===================Question===================
+7qn and 7qt are the only two stations to be in what area?
+===================Text===================
+<think>
+Okay, so I'm trying to figure out what area 7QN and 7QT are the only two stations in based on the table provided. Let me start by looking at the table columns: Callsign, Area served, Frequency, Band, Fate, Freq currently, Purpose.
+
+First, I'll locate the rows for 7QN and 7QT to find their "Area served". 
+
+Looking through the list:
+
+- 7QN is in row 7. The area served is Queenstown.
+- 7QT is in row 8. Its area served is also Queenstown.
+
+Now, I need to check if there are any other stations serving Queenstown besides these two. Let me go through each row again quickly to confirm.
+
+Rows:
+0: Hobart
+1: Derby
+2: Launceston
+3: Hobart
+4: Hobart
+5: Launceston
+6: Launceston
+7: Queenstown (7QN)
+8: Queenstown (7QT)
+9: Ulverstone
+10: Hobart
+
+So, only 7QN and 7QT are in Queenstown. No other stations have Queenstown as their area served.
+
+Therefore, the answer must be that 7QN and 7QT are the only two stations serving Queenstown.
+</think>
+
+Final Answer: Queenstown
+===================Answer===================
+Queenstown

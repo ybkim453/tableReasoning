@@ -1,0 +1,43 @@
+===================Title===================
+Great Officer of State
+===================Table===================
+|    |   Position | Officer                       | current officers                   | superseded by       | Royal Household     |
+|---:|-----------:|:------------------------------|:-----------------------------------|:--------------------|:--------------------|
+|  0 |          1 | Lord High Steward             | vacant                             | Justiciar           | Lord Steward        |
+|  1 |          2 | Lord High Chancellor          | The Rt Hon Chris Grayling, MP      | nan                 | nan                 |
+|  2 |          3 | Lord High Treasurer           | in commission                      | nan                 | nan                 |
+|  3 |          4 | Lord President of the Council | The Rt Hon Nick Clegg, MP          | nan                 | nan                 |
+|  4 |          5 | Lord Privy Seal               | The Rt Hon Andrew Lansley, CBE, MP | nan                 | nan                 |
+|  5 |          6 | Lord Great Chamberlain        | The Marquess of Cholmondeley       | Lord High Treasurer | Lord Chamberlain    |
+|  6 |          7 | Lord High Constable           | vacant                             | Earl Marshal        | Master of the Horse |
+|  7 |          8 | Earl Marshal                  | The Duke of Norfolk                | nan                 | Master of the Horse |
+|  8 |          9 | Lord High Admiral             | HRH The Duke of Edinburgh          | nan                 | nan                 |
+===================Question===================
+what is the only officer superseded by justiciar?
+===================Text===================
+<think>
+Alright, I'm trying to figure out which officer is superseded by Justiciar based on the provided table. Let me go through this step by step.
+
+First, I'll look at the table structure. It has several columns: Position, Officer, current officers, superseded by, and Royal Household. The key here is the "superseded by" column because the question asks which officer is superseded by Justiciar.
+
+Looking at each row:
+
+1. **Row 0**: 
+   - Position 1: Lord High Steward
+   - Superseded by: Justiciar
+   So, this shows that the Lord High Steward position is superseded by Justiciar.
+
+2. **Other Rows**:
+   I'll check the other rows to ensure there are no other entries where "Justiciar" appears in the "superseded by" column.
+   
+   - Row 1: Superseded by is 'nan', which probably means not applicable or no supersession.
+   - Rows 2-8 also have either 'nan' or different titles, none mention Justiciar.
+
+So, only the Lord High Steward (Position 1) is superseded by Justiciar. No other positions in the table are linked to Justiciar in that column. Therefore, the answer should be the officer corresponding to Position 1.
+</think>
+
+The only officer superseded by Justiciar is the Lord High Steward.
+
+Final Answer: Lord High Steward
+===================Answer===================
+Lord High Steward

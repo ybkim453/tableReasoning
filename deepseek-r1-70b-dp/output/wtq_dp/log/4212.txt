@@ -1,0 +1,48 @@
+===================Title===================
+Royal Bahamas Defence Force
+===================Table===================
+|    | Aircraft                      | Origin   | Type                     |   In service | Notes                                            |
+|---:|:------------------------------|:---------|:-------------------------|-------------:|:-------------------------------------------------|
+|  0 | Aero Commander 500            | USA      | Light utility transport  |            0 | 3 in service with the Air Wing from 1976 to 1990 |
+|  1 | Beechcraft Super King Air 350 | USA      | Light transport          |            1 | in service since 2004                            |
+|  2 | Cessna 208 Caravan            | USA      | Light transport          |            1 | in service since 2007                            |
+|  3 | Cessna 404 Titan              | USA      | Light transport          |            0 | 1 in service with the Air Wing from 1991 to 2008 |
+|  4 | Cessna 421C Golden Eagle      | USA      | Light transport          |            0 | 1 in service with the Air Wing from 1988 to 2002 |
+|  5 | Partenvia P.68 Observer       | Italy    | Light transport aircraft |            1 | in service since 2009                            |
+|  6 | Piper PA-31 Navajo            | USA      | Light transport          |            0 | in service since 1993                            |
+===================Question===================
+what was the last aircraft in service?
+===================Text===================
+<think>
+Okay, so I have this table about the Royal Bahamas Defence Force's aircraft, and I need to figure out what was the last one that's still in service. Let me take it step by step.
+
+First, looking at the columns: Aircraft name, Origin, Type, In service (which seems to be a count), and Notes which gives more details like when they were in use.
+
+The "In service" column has numbers: 0 or 1. I think 1 means currently in service and 0 means not anymore. So my focus is on the rows where "In service" is 1 because those are still active.
+
+Let's go through each row:
+
+- Row 0: Aero Commander 500, In service=0. So it's retired.
+- Row 1: Beechcraft Super King Air 350, In service=1. It's been in service since 2004, so currently active.
+- Row 2: Cessna 208 Caravan, In service=1. Active since 2007.
+- Row 3: Cessna 404 Titan, In service=0. Retired after 2008.
+- Row 4: Cessna 421C Golden Eagle, In service=0. Retired in 2002.
+- Row 5: Partenvia P.68 Observer, In service=1. Active since 2009.
+- Row 6: Piper PA-31 Navajo, In service=0. Even though the note says "in service since 1993", but In service is 0, so it's not active now.
+
+Wait, that's a bit confusing for row 6. The note says 'in service since 1993', but the in-service count is 0. Maybe there was an error or perhaps it's decommissioned recently. So I'll go with the In service value as the primary indicator.
+
+Now, among the active ones (rows 1,2,5), which one was added last? Let me look at their notes:
+
+- Beechcraft: since 2004.
+- Cessna Caravan: since 2007.
+- Partenvia: since 2009.
+
+So the Partenvia P.68 Observer is the most recent addition, starting service in 2009. Therefore, it's the last one that's still in service.
+
+I should double-check to make sure I didn't miss anything. All other active aircraft were added before 2009, and no others are more recent. So yes, Partenvia is the correct answer.
+</think>
+
+Final Answer: Partenvia P.68 Observer
+===================Answer===================
+Partenvia P.68 Observer

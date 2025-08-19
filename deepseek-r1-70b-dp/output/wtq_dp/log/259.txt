@@ -1,0 +1,50 @@
+===================Title===================
+Taekwondo at the 2010 South American Games
+===================Table===================
+|    | Rank   | Nation               |   Gold |   Silver |   Bronze |   Total |
+|---:|:-------|:---------------------|-------:|---------:|---------:|--------:|
+|  0 | 1      | Brazil               |      7 |        5 |        3 |      15 |
+|  1 | 2      | Venezuela            |      3 |        2 |        8 |      13 |
+|  2 | 3      | Colombia             |      2 |        3 |        4 |       9 |
+|  3 | 4      | Chile                |      2 |        0 |        2 |       4 |
+|  4 | 5      | Argentina            |      1 |        2 |        5 |       8 |
+|  5 | 6      | Peru                 |      1 |        1 |        2 |       4 |
+|  6 | 7      | Ecuador              |      0 |        2 |        2 |       4 |
+|  7 | 8      | Guyana               |      0 |        1 |        0 |       1 |
+|  8 | 9      | Aruba                |      0 |        0 |        1 |       1 |
+|  9 | 9      | Netherlands Antilles |      0 |        0 |        1 |       1 |
+| 10 | 9      | Panama               |      0 |        0 |        1 |       1 |
+| 11 | 9      | Uruguay              |      0 |        0 |        1 |       1 |
+| 12 | Total  | Total                |     16 |       16 |       30 |      62 |
+===================Question===================
+name the country with the lowest number of bronze medals.
+===================Text===================
+<think>
+Okay, so I need to find out which country has the lowest number of bronze medals in Taekwondo at the 2010 South American Games based on the provided table.
+
+First, I'll look through each row of the table and check the Bronze column for each nation.
+
+Starting from the top:
+
+- Brazil has 3 bronze medals.
+- Venezuela has 8.
+- Colombia has 4.
+- Chile has 2.
+- Argentina has 5.
+- Peru has 2.
+- Ecuador has 2.
+- Guyana has 0.
+- Aruba, Netherlands Antilles, Panama, and Uruguay each have 1.
+
+Wait, I notice that Guyana is listed with 0 bronze medals. That seems to be the lowest because all other countries either have 1 or more. Let me double-check:
+
+Looking again: Guyana's Bronze column says 0. Then Aruba, Netherlands Antilles, Panama, and Uruguay each have 1. So yes, Guyana is the only one with 0 bronze medals.
+
+I think that makes Guyana the country with the lowest number of bronze medals.
+</think>
+
+The country with the lowest number of bronze medals in Taekwondo at the 2010 South American Games is Guyana, with 0 bronze medals.
+
+Final Answer: Guyana
+===================Answer===================
+Guyana

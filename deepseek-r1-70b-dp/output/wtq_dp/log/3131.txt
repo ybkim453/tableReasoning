@@ -1,0 +1,79 @@
+===================Title===================
+Koltsovo Airport
+===================Table===================
+|    |   Year | Total\npassengers   | Passenger\nChange   | Domestic   | International\n(total)   | International\n(non-CIS)   | CIS     | Aircraft\nLandings   | Cargo\n(tonnes)   |
+|---:|-------:|:--------------------|:--------------------|:-----------|:-------------------------|:---------------------------|:--------|:---------------------|:------------------|
+|  0 |   2000 | 930 251             | +2%                 | 698 957    | 231 294                  | 155 898                    | 75 396  | 8 619                | 18 344            |
+|  1 |   2001 | 1 028 295           | +10,5%              | 733 022    | 295 273                  | 186 861                    | 108 412 | 9 062                | 22 178            |
+|  2 |   2002 | 1 182 815           | +15,0%              | 793 295    | 389 520                  | 239 461                    | 150 059 | 10 162               | 20 153            |
+|  3 |   2003 | 1 335 757           | +12,9%              | 879 665    | 456 092                  | 297 421                    | 158 671 | 10 092               | 18 054            |
+|  4 |   2004 | 1 553 628           | +16,3%              | 972 287    | 581 341                  | 429 049                    | 152 292 | 11 816               | 20 457            |
+|  5 |   2005 | 1 566 792           | +0,8%               | 1 006 422  | 560 370                  | 429 790                    | 130 580 | 11 877               | 11 545            |
+|  6 |   2006 | 1 764 948           | +12,7%              | 1 128 489  | 636 459                  | 488 954                    | 147 505 | 13 289               | 15 519            |
+|  7 |   2007 | 2 345 097           | +32,9%              | 1 486 888  | 858 209                  | 683 092                    | 175 117 | 16 767               | 16 965            |
+|  8 |   2008 | 2 529 395           | +7,8%               | 1 523 102  | 1 006 293                | 815 124                    | 191 169 | 16 407               | 17 142            |
+|  9 |   2009 | 2 169 136           | −14,2%              | 1 290 639  | 878 497                  | 727 718                    | 150 779 | 13 798               | 13 585            |
+| 10 |   2010 | 2 748 919           | +26,7%              | 1 529 245  | 1 219 674                | 1 017 509                  | 202 165 | 15 989               | 22 946            |
+| 11 |   2011 | 3 355 883           | +22,1%              | 1 856 948  | 1 498 935                | 1 184 771                  | 314 164 | 20 142               | 24 890            |
+| 12 |   2012 | 3 783 069           | +12.7%              | 1 934 016  | 1 849 053                | 1 448 765                  | 439 668 | 21 728               | 25 866            |
+| 13 |   2013 | 4 293 002           | +13.5%              | 2 180 227  | 2 112 775                | nan                        | nan     | 25 728               | 27 800            |
+===================Question===================
+how many aircraft landed from 2000 to 2003?
+===================Text===================
+<think>
+Alright, so I need to figure out how many aircraft landed at Koltsovo Airport from 2000 to 2003 based on the provided table. Let me start by understanding what's being asked.
+
+First, the question is about the total number of aircraft landings over a specific period: from the year 2000 up to and including 2003. I'll need to look at each year in that range and sum their individual aircraft landing numbers.
+
+Looking at the table, each row represents a different year, starting from 2000 (row 0) up to 2013 (row 13). The column labeled "Aircraft Landings" seems to have the data I need. Each entry under this column corresponds to the number of landings for that particular year.
+
+So, I'll go through each relevant row:
+
+- For the year 2000 (row 0), the aircraft landings are listed as 8,619.
+- In 2001 (row 1), it's 9,062 landings.
+- Moving to 2002 (row 2), there were 10,162 landings.
+- Finally, in 2003 (row 3), the number is 10,092.
+
+Now, I need to add these four numbers together. Let me do that step by step:
+
+8,619 (2000) + 9,062 (2001) = 17,681
+
+Then, adding 2002's landings: 17,681 + 10,162 = 27,843
+
+Next, include 2003's data: 27,843 + 10,092 = 37,935
+
+Wait a second, that seems like a lot. Let me double-check each addition to make sure I didn't make a mistake.
+
+First sum: 8,619 + 9,062
+- Adding the thousands: 8,000 + 9,000 = 17,000
+- Then hundreds: 600 + 0 = 600
+- Tens and units: 19 + 62 = 81
+So total is 17,681. That's correct.
+
+Second sum: 17,681 + 10,162
+- Thousands: 17,000 + 10,000 = 27,000
+- Hundreds: 600 + 100 = 700
+- Tens and units: 81 + 62 = 143
+So total is 27,843. Correct.
+
+Third sum: 27,843 + 10,092
+- Thousands: 27,000 + 10,000 = 37,000
+- Hundreds: 800 + 0 = 800
+- Tens and units: 43 + 92 = 135
+So total is 37,935. That seems right.
+
+Wait, maybe I missed something? Let me check if the years are correctly selected. The question asks from 2000 to 2003 inclusive. So that's four years: 2000, 2001, 2002, and 2003. I included all of them in my calculation. 
+
+Another thing to confirm is whether the numbers under Aircraft Landings for these years are indeed 8,619; 9,062; 10,162; and 10,092 respectively. Scanning back through the table:
+
+- Row 0 (2000): 8,619
+- Row 1 (2001): 9,062
+- Row 2 (2002): 10,162
+- Row 3 (2003): 10,092
+
+Yes, those are correct. So adding them together gives a total of 37,935 aircraft landings from 2000 to 2003.
+</think>
+
+Final Answer: 37935
+===================Answer===================
+37935

@@ -1,0 +1,30 @@
+===================Title===================
+World Golf Championships
+===================Table===================
+|    | Golfer         | Country          |   Wins | Match Play          | Championship                                 | Invitational                                       | Champions   |
+|---:|:---------------|:-----------------|-------:|:--------------------|:---------------------------------------------|:---------------------------------------------------|:------------|
+|  0 | Tiger Woods    | United States    |     18 | 3: 2003, 2004, 2008 | 7: 1999, 2002, 2003,\n2005, 2006, 2007, 2013 | 8: 1999, 2000, 2001, 2005,\n2006, 2007, 2009, 2013 | —           |
+|  1 | Geoff Ogilvy   | Australia        |      3 | 2: 2006, 2009       | 1: 2008                                      | —                                                  | —           |
+|  2 | Darren Clarke  | Northern Ireland |      2 | 1: 2000             | —                                            | 1: 2003                                            | —           |
+|  3 | Ernie Els      | South Africa     |      2 | —                   | 2: 2004, 2010                                | —                                                  | —           |
+|  4 | Hunter Mahan   | United States    |      2 | 1: 2012             | —                                            | 1: 2010                                            | —           |
+|  5 | Phil Mickelson | United States    |      2 | —                   | 1: 2009                                      | —                                                  | 1: 2009     |
+|  6 | Ian Poulter    | England          |      2 | 1: 2010             | —                                            | —                                                  | 1: 2012     |
+===================Question===================
+how many championships ernie els won?
+===================Text===================
+<think>
+Okay, so I'm trying to figure out how many championships Ernie Els won based on this table. Let me start by looking at each column and understanding what they represent.
+
+First, the columns are: Golfer, Country, Wins, Match Play, Championship, Invitational, and Champions. The question is specifically about Ernie Els's championships, so I should focus on that row.
+
+Looking at the table, Ernie Els is row 3. His total wins are listed as 2 under the "Wins" column. That gives me a clue that he has two wins somewhere in these categories.
+
+Next, breaking down the other columns: Match Play shows "—", which probably means he didn't win any Match Play events. The Championship column lists years like 2004 and 2010, so that must be where his two championships came from. There's nothing under Invitational or Champions for him, so those don't add to his total.
+
+So putting it together, Ernie Els won two championships in the years 2004 and 2010.
+</think>
+
+Final Answer: 2
+===================Answer===================
+2

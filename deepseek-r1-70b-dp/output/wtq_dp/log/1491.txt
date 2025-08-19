@@ -1,0 +1,55 @@
+===================Title===================
+Levanger
+===================Table===================
+|    | Parish     | Church name       | Location   |   Year built |
+|---:|:-----------|:------------------|:-----------|-------------:|
+|  0 | Alstadhaug | Alstadhaug Church | Alstadhaug |         1180 |
+|  1 | Ekne       | Ekne Church       | Ekne       |         1893 |
+|  2 | Levanger   | Levanger Church   | Levanger   |         1902 |
+|  3 | Levanger   | Bamberg Church    | Levanger   |         1998 |
+|  4 | Markabygd  | Markabygda Church | Markabygd  |         1887 |
+|  5 | Okkenhaug  | Okkenhaug Chapel  | Okkenhaug  |         1893 |
+|  6 | Ytterøy    | Ytterøy Church    | Ytterøya   |         1890 |
+|  7 | Åsen      | Åsen Church      | Åsen      |         1904 |
+===================Question===================
+how many chruches were built in levanger in the 1800's?
+===================Text===================
+<think>
+Okay, so I need to figure out how many churches were built in Levanger during the 1800s based on the given table. Let's start by understanding the data.
+
+First, looking at the table, each row represents a different church with its parish, name, location, and year built. The question is specifically about Levanger, so I need to focus only on rows where the Location is Levanger.
+
+Let me go through each row:
+
+1. **Row 0**: Parish Alstadhaug, Church name Alstadhaug Church, Location Alstadhaug, Year 1180.
+   - Location isn't Levanger, and the year is way before the 1800s, so this doesn't count.
+
+2. **Row 1**: Parish Ekne, Church name Ekne Church, Location Ekne, Year 1893.
+   - Again, location isn't Levanger, even though the year is in the late 1800s (1893). So this also doesn't qualify.
+
+3. **Row 2**: Parish Levanger, Church name Levanger Church, Location Levanger, Year 1902.
+   - The location matches Levanger, but the year is 1902, which is in the early 1900s, not the 1800s. So this doesn't count either.
+
+4. **Row 3**: Parish Levanger, Church name Bamberg Church, Location Levanger, Year 1998.
+   - Location is correct, but the year is way beyond the 1800s (late 1900s). Not applicable.
+
+5. **Row 4**: Parish Markabygd, Church name Markabygda Church, Location Markabygd, Year 1887.
+   - The location isn't Levanger, even though it's within the 1800s (1887). So this doesn't count.
+
+6. **Row 5**: Parish Okkenhaug, Church name Okkenhaug Chapel, Location Okkenhaug, Year 1893.
+   - Not in Levanger and year is 1893, which is late 1800s. Still not the right location.
+
+7. **Row 6**: Parish Ytterøy, Church name Ytterøy Church, Location Ytterøya, Year 1890.
+   - The location isn't Levanger, but the year falls within the 1800s (1890). So this is irrelevant for Levanger count.
+
+8. **Row 7**: Parish Åsen, Church name Åsen Church, Location Åsen, Year 1904.
+   - Incorrect location and year outside the 1800s. Doesn't apply.
+
+After reviewing all rows, I see that none of the churches in Levanger (rows where Location is Levanger) were built during the 1800s. Both Row 2 (Levanger Church) was built in 1902, which is early 1900s, and Row 3 (Bamberg Church) was built much later in 1998.
+
+So, based on this table, there are no churches in Levanger that were built during the 1800s.
+</think>
+
+Final Answer: 0
+===================Answer===================
+4

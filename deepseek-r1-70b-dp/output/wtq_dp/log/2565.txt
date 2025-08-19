@@ -1,0 +1,58 @@
+===================Title===================
+List of Kentucky Derby broadcasters
+===================Table===================
+|    |   Year | Network   | Race caller    | Color commentator               | Reporters        | Trophy Presentation   |
+|---:|-------:|:----------|:---------------|:--------------------------------|:-----------------|:----------------------|
+|  0 |   1959 | CBS       | Fred Capossela | Bryan Field and Chris Schenkel  | nan              | Chris Schenkel        |
+|  1 |   1958 | CBS       | Fred Capossela | Bryan Field                     | nan              | nan                   |
+|  2 |   1957 | CBS       | Fred Capossela | Bryan Field                     | nan              | nan                   |
+|  3 |   1956 | CBS       | Fred Capossela | Bryan Field                     | nan              | nan                   |
+|  4 |   1955 | CBS       | Fred Capossela | Phil Sutterfield and Win Elliot | nan              | nan                   |
+|  5 |   1954 | CBS       | Bryan Field    | Mel Allen                       | nan              | Bill Corum            |
+|  6 |   1953 | CBS       | Bryan Field    | Mel Allen                       | Phil Sutterfield | Phil Sutterfield      |
+|  7 |   1952 | CBS       | Bryan Field    | Sam Renick                      | nan              | nan                   |
+===================Question===================
+how many races in the 1950s were not called by bryan field?
+===================Text===================
+<think>
+Okay, so I need to figure out how many races in the 1950s were not called by Bryan Field based on this table. Let me start by looking at each year from 1952 to 1959 and check who was the race caller each time.
+
+Looking at the table:
+
+- 1959: Fred Capossela
+- 1958: Fred Capossela
+- 1957: Fred Capossela
+- 1956: Fred Capossela
+- 1955: Fred Capossela
+- 1954: Bryan Field
+- 1953: Bryan Field
+- 1952: Bryan Field
+
+Wait, that doesn't seem right. The user is asking for races not called by Bryan Field, so I need to count how many years the race caller was someone else.
+
+Looking again:
+
+From 1952 to 1959, there are 8 years listed (1952 through 1959 inclusive).
+
+Now, checking each year's "Race caller" column:
+
+- 1952: Bryan Field → called by him
+- 1953: Bryan Field → called by him
+- 1954: Bryan Field → called by him
+- 1955: Fred Capossela → not Bryan
+- 1956: Fred Capossela → not Bryan
+- 1957: Fred Capossela → not Bryan
+- 1958: Fred Capossela → not Bryan
+- 1959: Fred Capossela → not Bryan
+
+So, out of the 8 years:
+
+Years called by Bryan Field: 1952, 1953, 1954 (3 years)
+Years not called by him: 1955, 1956, 1957, 1958, 1959 (5 years)
+
+Therefore, there are 5 races in the 1950s where someone other than Bryan Field was the race caller.
+</think>
+
+Final Answer: 5
+===================Answer===================
+5

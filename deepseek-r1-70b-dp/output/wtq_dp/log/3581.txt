@@ -1,0 +1,60 @@
+===================Title===================
+RBMK
+===================Table===================
+|    | Location    | Reactor type   | Status                                          | Net\nCapacity\n(MWe)   | Gross\nCapacity\n(MWe)   |
+|---:|:------------|:---------------|:------------------------------------------------|:-----------------------|:-------------------------|
+|  0 | Chernobyl-1 | RBMK-1000      | shut down in 1996                               | 740                    | 800                      |
+|  1 | Chernobyl-2 | RBMK-1000      | shut down in 1991                               | 925                    | 1,000                    |
+|  2 | Chernobyl-3 | RBMK-1000      | shut down in 2000                               | 925                    | 1,000                    |
+|  3 | Chernobyl-4 | RBMK-1000      | destroyed in the 1986 accident                  | 925                    | 1,000                    |
+|  4 | Chernobyl-5 | RBMK-1000      | construction cancelled in 1988                  | 950                    | 1,000                    |
+|  5 | Chernobyl-6 | RBMK-1000      | construction cancelled in 1988                  | 950                    | 1,000                    |
+|  6 | Ignalina-1  | RBMK-1500      | shut down in 2004                               | 1,185                  | 1,300                    |
+|  7 | Ignalina-2  | RBMK-1500      | shut down in 2009                               | 1,185                  | 1,300                    |
+|  8 | Ignalina-3  | RBMK-1500      | construction cancelled in 1988                  | 1,380                  | 1,500                    |
+|  9 | Ignalina-4  | RBMK-1500      | plan cancelled in 1988                          | 1,380                  | 1,500                    |
+| 10 | Kostroma-1  | RBMK-1500      | construction cancelled in 1980s                 | 1,380                  | 1,500                    |
+| 11 | Kostroma-2  | RBMK-1500      | construction cancelled in 1980s                 | 1,380                  | 1,500                    |
+| 12 | Kursk-1     | RBMK-1000      | operational until 2021                          | 925                    | 1,000                    |
+| 13 | Kursk-2     | RBMK-1000      | operational until 2024                          | 925                    | 1,000                    |
+| 14 | Kursk-3     | RBMK-1000      | operational until March 2014                    | 925                    | 1,000                    |
+| 15 | Kursk-4     | RBMK-1000      | operational until February 2016                 | 925                    | 1,000                    |
+| 16 | Kursk-5     | MKER-1000      | construction begin was 1985, since then shelved | 925                    | 1,000                    |
+| 17 | Kursk-6     | RBMK-1000      | construction cancelled in 1993                  | 925                    | 1,000                    |
+| 18 | Leningrad-1 | RBMK-1000      | operational                                     | 925                    | 1,000                    |
+| 19 | Leningrad-2 | RBMK-1000      | operational until 2021                          | 925                    | 1,000                    |
+| 20 | Leningrad-3 | RBMK-1000      | operational until June 2025                     | 925                    | 1,000                    |
+| 21 | Leningrad-4 | RBMK-1000      | operational until August 2026                   | 925                    | 1,000                    |
+| 22 | Smolensk-1  | RBMK-1000      | operational until December 2022                 | 925                    | 1,000                    |
+| 23 | Smolensk-2  | RBMK-1000      | operational until July 2015                     | 925                    | 1,000                    |
+| 24 | Smolensk-3  | RBMK-1000      | operational until July 2023                     | 925                    | 1,000                    |
+| 25 | Smolensk-4  | RBMK-1000      | construction cancelled in 1993                  | 925                    | 1,000                    |
+===================Question===================
+the construction of how many locations was cancelled in 1988?
+===================Text===================
+<think>
+Okay, I need to figure out how many locations had their construction cancelled in 1988 based on the provided table. Let me go through each row one by one and look for entries where the status mentions that the construction was cancelled in 1988.
+
+Starting from the top:
+
+- Chernobyl-1: Shut down in 1996, not related to 1988.
+- Chernobyl-2: Shut down in 1991, no.
+- Chernobyl-3: Shut down in 2000, nope.
+- Chernobyl-4: Destroyed in 1986 accident, not construction cancelled.
+- Chernobyl-5: Construction cancelled in 1988. That's one.
+- Chernobyl-6: Same as above, another one.
+- Ignalina-1: Shut down in 2004, no.
+- Ignalina-2: Shut down in 2009, nope.
+- Ignalina-3: Construction cancelled in 1988. Third one.
+- Ignalina-4: Plan cancelled in 1988, so that's four.
+- Kostroma-1 and Kostroma-2 were both construction cancelled in the 1980s but not specifically 1988, I think. They say "construction cancelled in 1980s" so maybe 1985 or 1987? But since it doesn't specify 1988, I shouldn't count them for this question.
+- Kursk-1 to Kursk-6: Only Kursk-5 and Kursk-6 have statuses related to construction. Kursk-5 says construction began in 1985 but was shelved since then, which is not specifically 1988. Kursk-6 was cancelled in 1993, so no.
+- Leningrad reactors: Operational or shut down after 2021, nothing about cancellation.
+- Smolensk-4 was cancelled in 1993, not 1988.
+
+So adding up Chernobyl-5, Chernobyl-6, Ignalina-3, and Ignalina-4. That makes four locations where construction was cancelled in 1988.
+</think>
+
+Final Answer: 4
+===================Answer===================
+3

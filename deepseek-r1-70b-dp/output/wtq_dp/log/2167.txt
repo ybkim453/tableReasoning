@@ -1,0 +1,54 @@
+===================Title===================
+2001 Batang Red Bull Thunder season
+===================Table===================
+|    | DATE                        | OPPONENT     | SCORE   | TOP SCORER (Total points)   | VENUE            |
+|---:|:----------------------------|:-------------|:--------|:----------------------------|:-----------------|
+|  0 | February 7 All-Filipino Cup | SHELL        | 76-60   | nan                         | PHILSPORTS ARENA |
+|  1 | February 11                 | MOBILINE     | 80-68   | nan                         | ARANETA COLISEUM |
+|  2 | February 16                 | ALASKA       | 73-72   | Davonn Harp (20)            | PHILSPORTS ARENA |
+|  3 | February 28                 | SAN MIGUEL   | 78-76   | Lowell Briones (21)         | PHILSPORTS ARENA |
+|  4 | March 3                     | BRGY.GINEBRA | 79-72   | nan                         | ILOILO CITY      |
+|  5 | March 9                     | SHELL        | 65-58   | nan                         | PHILSPORTS ARENA |
+|  6 | April 4                     | STA.LUCIA    | 87-84   | nan                         | PHILSPORTS ARENA |
+|  7 | June 10 Commissioner's Cup  | MOBILINE     | 97-92   | Tony Lang (29)              | ARANETA COLISEUM |
+|  8 | June 15                     | BRGY.GINEBRA | 111-98  | nan                         | PHILSPORTS ARENA |
+|  9 | June 24                     | SHELL        | 94-82   | nan                         | ARANETA COLISEUM |
+| 10 | July 1                      | POP COLA     | 95-79   | nan                         | ARANETA COLISEUM |
+| 11 | July 8                      | STA.LUCIA    | 95-88   | nan                         | ARANETA COLISEUM |
+| 12 | July 13                     | TANDUAY      | 104-98  | nan                         | PHILSPORTS ARENA |
+| 13 | September 23 Governor's Cup | TANDUAY      | 108-93  | nan                         | PHILSPORTS ARENA |
+| 14 | September 29                | TALK 'N TEXT | 99-85   | nan                         | DUMAGUETE CITY   |
+| 15 | October 14                  | SHELL        | 68-62   | nan                         | YNARES CENTER    |
+| 16 | October 19                  | STA.LUCIA    | 101-94  | nan                         | CUNETA ASTRODOME |
+| 17 | October 24                  | BRGY.GINEBRA | 93-72   | nan                         | PHILSPORTS ARENA |
+| 18 | November 7                  | SAN MIGUEL   | 86-81   | nan                         | ARANETA COLISEUM |
+===================Question===================
+what was the total number of games played against shell?
+===================Text===================
+<think>
+Okay, so I need to figure out how many games the Batang Red Bull Thunder played against Shell in the 2001 season based on the provided table. Let me look at each row and count whenever the opponent is Shell.
+
+Starting from the top:
+- The first game on February 7 was against SHELL with a score of 76-60.
+- Then, on March 9, they played SHELL again, winning 65-58.
+- Another game against SHELL on October 15? Wait, no, looking at the dates, I see that on October 14, they played SHELL and won 68-62.
+
+Wait, let me go through each row one by one to make sure I don't miss any. The opponent column is in all caps, so SHELL should be easy to spot.
+
+Row 0: Opponent SHELL - count 1
+Row 5: Opponent SHELL - count 2
+Row 15: Opponent SHELL - count 3
+
+Hmm, that's three games against Shell. Wait, maybe I missed one? Let me check again. Rows are from 0 to 18.
+
+Looking through each date and opponent:
+- Feb7: SHELL (1)
+- Then on March9: SHELL (2)
+- On October14: SHELL (3)
+
+That's three games in total against Shell. So the answer should be 3.
+</think>
+
+Final Answer: 3
+===================Answer===================
+4

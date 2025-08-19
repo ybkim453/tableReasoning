@@ -1,0 +1,54 @@
+===================Title===================
+Demographics of Niger
+===================Table===================
+|    | Period    | Live births per year   | Deaths per year   | Natural change per year   |   CBR* |   CDR* |   NC* |   TFR* |   IMR* |
+|---:|:----------|:-----------------------|:------------------|:--------------------------|-------:|-------:|------:|-------:|-------:|
+|  0 | 1950-1955 | 139 000                | 66 000            | 74 000                    |   52.6 |   24.8 |  27.8 |   6.86 |    174 |
+|  1 | 1955-1960 | 164 000                | 76 000            | 88 000                    |   53.8 |   24.9 |  29   |   6.96 |    171 |
+|  2 | 1960-1965 | 195 000                | 89 000            | 105 000                   |   55.5 |   25.5 |  30.1 |   7.13 |    167 |
+|  3 | 1965-1970 | 229 000                | 105 000           | 124 000                   |   56.2 |   25.8 |  30.4 |   7.32 |    164 |
+|  4 | 1970-1975 | 263 000                | 121 000           | 142 000                   |   55.8 |   25.6 |  30.2 |   7.52 |    162 |
+|  5 | 1975-1980 | 301 000                | 138 000           | 164 000                   |   55.1 |   25.1 |  29.9 |   7.63 |    161 |
+|  6 | 1980-1985 | 350 000                | 157 000           | 193 000                   |   55.4 |   24.8 |  30.6 |   7.76 |    159 |
+|  7 | 1985-1990 | 406 000                | 179 000           | 227 000                   |   55.9 |   24.6 |  31.3 |   7.81 |    155 |
+|  8 | 1990-1995 | 471 000                | 192 000           | 279 000                   |   55.5 |   22.7 |  32.8 |   7.78 |    146 |
+|  9 | 1995-2000 | 538 000                | 194 000           | 344 000                   |   53.5 |   19.3 |  34.2 |   7.6  |    131 |
+| 10 | 2000-2005 | 614 000                | 194 000           | 420 000                   |   51.3 |   16.2 |  35.1 |   7.4  |    113 |
+| 11 | 2005-2010 | 705 000                | 196 000           | 509 000                   |   49.5 |   13.8 |  35.7 |   7.19 |     96 |
+===================Question===================
+number of deaths from 1950-1960
+===================Text===================
+<think>
+Okay, so I need to figure out the number of deaths from 1950-1960 based on this table about Niger's demographics. Let me look at the table again.
+
+The table has data organized in periods of five years each. The first period is 1950-1955 and the second is 1955-1960. So, to find the total number of deaths from 1950 to 1960, I should probably add up the deaths from these two periods.
+
+Looking at the table:
+
+- In 1950-1955, Deaths per year are 66,000.
+- In 1955-1960, Deaths per year are 76,000.
+
+Wait, but each period is five years. So if it's per year, I need to multiply by 5 for each period and then add them together. 
+
+So, 66,000 deaths/year * 5 years = 330,000.
+And 76,000 deaths/year * 5 years = 380,000.
+
+Adding those together: 330,000 + 380,000 = 710,000 total deaths from 1950-1960.
+
+Wait, that seems high. Let me double-check the periods. The first period is 1950-1955 (5 years) and the second is 1955-1960 (another 5 years). So combining both gives exactly 10 years, 1950-1960. So yes, adding them makes sense.
+
+Alternatively, if "per year" refers to average per year in that period, then for each five-year period, it's already the total? No, because usually, when something is labeled as "Deaths per year," it means annual deaths on average over that period. So multiplying by 5 gives the total for the period.
+
+So my calculation should be correct: 66k *5 +76k *5=710,000.
+</think>
+
+The number of deaths from 1950-1960 is calculated by adding the deaths in each five-year period and then summing them. 
+
+For 1950-1955: 66,000 deaths/year * 5 years = 330,000  
+For 1955-1960: 76,000 deaths/year * 5 years = 380,000  
+
+Total deaths: 330,000 + 380,000 = 710,000
+
+Final Answer: 710000
+===================Answer===================
+142,000

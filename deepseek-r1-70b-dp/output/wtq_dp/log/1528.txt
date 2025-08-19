@@ -1,0 +1,43 @@
+===================Title===================
+2005 East Asian Games
+===================Table===================
+|    | Rank   | Nation               |   Gold |   Silver |   Bronze |   Total |
+|---:|:-------|:---------------------|-------:|---------:|---------:|--------:|
+|  0 | 1      | China (CHN)          |    127 |       63 |       33 |     223 |
+|  1 | 2      | Japan (JPN)          |     46 |       56 |       77 |     179 |
+|  2 | 3      | South Korea (KOR)    |     32 |       48 |       65 |     145 |
+|  3 | 4      | Chinese Taipei (TPE) |     12 |       34 |       26 |      72 |
+|  4 | 5      | Macau (MAC)          |     11 |       16 |       17 |      44 |
+|  5 | 6      | North Korea (PRK)    |      6 |       10 |       20 |      36 |
+|  6 | 7      | Hong Kong (HKG)      |      2 |        2 |        9 |      13 |
+|  7 | 8      | Mongolia (MGL)       |      1 |        1 |        6 |       8 |
+|  8 | 9      | Guam (GUM)           |      0 |        0 |        1 |       1 |
+|  9 | Total  | Total                |    237 |      230 |      254 |     721 |
+===================Question===================
+what was the total number of medals earned by china (chn)?
+===================Text===================
+<think>
+Okay, so I need to figure out the total number of medals China (CHN) earned in the 2005 East Asian Games based on the table provided. Let me start by looking at the table structure.
+
+The table has columns: Rank, Nation, Gold, Silver, Bronze, and Total. Each row represents a country's performance with their respective medal counts. 
+
+Looking specifically for China (CHN), I see that it's listed in the first row. The rank is 1, which makes sense because they usually top these kinds of tables, but let me not get distracted by that.
+
+The columns I'm interested in are Gold, Silver, Bronze, and Total. For China, the numbers under each are:
+
+- Gold: 127
+- Silver: 63
+- Bronze: 33
+
+Wait, so to find the total number of medals earned, I don't just need the 'Total' column value because that might already include all three. Let me check the table again.
+
+Yes, looking at China's row, there's a Total column with the value 223. That should be the sum of Gold, Silver, and Bronze medals. So adding them up: 127 + 63 + 33 equals... let me do that math. 
+
+127 plus 63 is 190, then add 33 to that gives 223. Yep, that matches the Total column exactly. So China's total medals are 223.
+
+I think that's straightforward. The table clearly provides all the necessary data without any missing values or ambiguities. No need for further calculations since the Total is already given.
+</think>
+
+Final Answer: 223
+===================Answer===================
+223

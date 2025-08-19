@@ -1,0 +1,64 @@
+===================Title===================
+List of defunct National Basketball Association teams
+===================Table===================
+|    | Team                    | City                     | Years active   |   Seasons played | Win–loss record   | Win%   |   Playoffs appearances |
+|---:|:------------------------|:-------------------------|:---------------|-----------------:|:------------------|:-------|-----------------------:|
+|  0 | Anderson Packers        | Anderson, Indiana        | 1949–1950      |                1 | 37–27             | .578   |                      1 |
+|  1 | BAA Buffalo             | Buffalo, New York        | Never Played   |                0 | 0–0               | N/A    |                      0 |
+|  2 | BAA Indianapolis        | Indianapolis, Indiana    | Never Played   |                0 | 0–0               | N/A    |                      0 |
+|  3 | Baltimore Bullets*      | Baltimore, Maryland      | 1947–1954      |                8 | 158–292           | .351   |                      3 |
+|  4 | Chicago Stags           | Chicago, Illinois        | 1946–1950      |                4 | 145–92            | .612   |                      4 |
+|  5 | Cleveland Rebels        | Cleveland, Ohio          | 1946–1947      |                1 | 30–30             | .500   |                      1 |
+|  6 | Denver Nuggets          | Denver, Colorado         | 1949–1950      |                1 | 11–51             | .177   |                      0 |
+|  7 | Detroit Falcons         | Detroit, Michigan        | 1946–1947      |                1 | 20–40             | .333   |                      0 |
+|  8 | Indianapolis Jets       | Indianapolis, Indiana    | 1948–1949      |                1 | 18–42             | .300   |                      0 |
+|  9 | Indianapolis Olympians  | Indianapolis, Indiana    | 1949–1953      |                4 | 132–137           | .491   |                      4 |
+| 10 | Pittsburgh Ironmen      | Pittsburgh, Pennsylvania | 1946–1947      |                1 | 15–45             | .250   |                      0 |
+| 11 | Providence Steamrollers | Providence, Rhode Island | 1946–1949      |                3 | 46–122            | .274   |                      0 |
+| 12 | Sheboygan Red Skins     | Sheboygan, Wisconsin     | 1949–1950      |                1 | 22–40             | .355   |                      1 |
+| 13 | St. Louis Bombers       | St. Louis, Missouri      | 1946–1950      |                4 | 122–115           | .515   |                      3 |
+| 14 | Toronto Huskies         | Toronto, Ontario         | 1946–1947      |                1 | 22–38             | .367   |                      0 |
+| 15 | Washington Capitols     | Washington, D.C.         | 1946–1951      |                5 | 157–114           | .579   |                      4 |
+| 16 | Waterloo Hawks          | Waterloo, Iowa           | 1949–1950      |                1 | 19–43             | .306   |                      0 |
+===================Question===================
+how many defunct teams had at least one playoff appearance?
+===================Text===================
+<think>
+Okay, so I need to figure out how many defunct NBA teams had at least one playoff appearance based on this table. Let me start by understanding the data.
+
+The table lists 17 teams (from index 0 to 16), each with details like their city, years active, seasons played, win-loss record, win percentage, and playoff appearances. The key here is the "Playoffs appearances" column, which tells us how many times each team made it to the playoffs.
+
+I should go through each row and check if the number under "Playoffs appearances" is at least 1. If it's 1 or higher, that means they had at least one playoff appearance.
+
+Let me list them out:
+
+0. Anderson Packers: Playoff appearances = 1 → yes
+1. BAA Buffalo: 0 → no
+2. BAA Indianapolis: 0 → no
+3. Baltimore Bullets*: 3 → yes
+4. Chicago Stags: 4 → yes
+5. Cleveland Rebels: 1 → yes
+6. Denver Nuggets: 0 → no
+7. Detroit Falcons: 0 → no
+8. Indianapolis Jets: 0 → no
+9. Indianapolis Olympians: 4 → yes
+10. Pittsburgh Ironmen: 0 → no
+11. Providence Steamrollers: 0 → no
+12. Sheboygan Red Skins: 1 → yes
+13. St. Louis Bombers: 3 → yes
+14. Toronto Huskies: 0 → no
+15. Washington Capitols: 4 → yes
+16. Waterloo Hawks: 0 → no
+
+Now, I count the number of teams where playoff appearances are ≥1:
+
+Indices 0,3,4,5,9,12,13,15 have values >=1.
+
+That's 8 teams in total.
+</think>
+
+The defunct NBA teams that had at least one playoff appearance are Anderson Packers, Baltimore Bullets*, Chicago Stags, Cleveland Rebels, Indianapolis Olympians, Sheboygan Red Skins, St. Louis Bombers, and Washington Capitols.
+
+Final Answer: 8
+===================Answer===================
+8

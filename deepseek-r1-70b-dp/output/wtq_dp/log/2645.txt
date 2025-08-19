@@ -1,0 +1,55 @@
+===================Title===================
+Sport in Australia
+===================Table===================
+|    | Competition                        | Total spectatorship   | Average match attendance   | Year      |
+|---:|:-----------------------------------|:----------------------|:---------------------------|:----------|
+|  0 | A-League                           | 1,772,133             | 12,707                     | 2012/2013 |
+|  1 | Australian Football League         | 6,931,085             | 33,484                     | 2013      |
+|  2 | Big Bash League                    | 550,262               | 17,750                     | 2011/2012 |
+|  3 | National Basketball League         | 547,021               | 4,031                      | 2010/2011 |
+|  4 | National Rugby League              | 3,345,248             | 16,643                     | 2013      |
+|  5 | Super Rugby                        | 773,940               | 19,348                     | 2012      |
+|  6 | Rugby Championship                 | 133,532               | 44,511                     | 2012      |
+|  7 | State of Origin series             | 186,607               | 62,202                     | 2011      |
+|  8 | Women's National Basketball League | 77,944                | nan                        | 2010/2011 |
+===================Question===================
+which had the largest average match attendance?
+===================Text===================
+<think>
+Okay, so I need to figure out which competition had the largest average match attendance based on the table provided. Let me start by carefully looking at each row of the table.
+
+First, I'll list out all the competitions along with their average attendances:
+
+0 | A-League                            | 12,707
+1 | Australian Football League (AFL)      | 33,484
+2 | Big Bash League                       | 17,750
+3 | National Basketball League (NBL)       | 4,031
+4 | National Rugby League (NRL)            | 16,643
+5 | Super Rugby                           | 19,348
+6 | Rugby Championship                    | 44,511
+7 | State of Origin series                | 62,202
+8 | Women's National Basketball League     | nan
+
+Wait, I notice that the last entry has 'nan' for average attendance. Since it's not a number, I'll ignore that one as it can't be the highest.
+
+Now, looking at the numbers:
+
+- A-League: ~12k
+- AFL: ~33k
+- Big Bash League: ~17k
+- NBL: ~4k
+- NRL: ~16k
+- Super Rugby: ~19k
+- Rugby Championship: ~44k
+- State of Origin series: ~62k
+
+Comparing these, I can see that the State of Origin series has by far the highest average attendance at 62,202. That's almost double the next highest, which is the Rugby Championship at 44,511.
+
+Wait a second, just to make sure I'm not missing anything—Rugby Championship does have higher than AFL's 33k but less than State of Origin. So yes, State of Origin is clearly on top here.
+</think>
+
+The competition with the largest average match attendance is the State of Origin series, with an average of 62,202.
+
+Final Answer: State of Origin series
+===================Answer===================
+State of Origin series

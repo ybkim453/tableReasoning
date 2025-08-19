@@ -1,0 +1,89 @@
+===================Title===================
+2007 Weber Cup
+===================Table===================
+|    |   Match no. | Match Type   | Team Europe       | Score     | Team USA     | Progressive Total   |
+|---:|------------:|:-------------|:------------------|:----------|:-------------|:--------------------|
+|  0 |          25 | Singles      | Mika Koivuniemi   | 217 - 279 | Chris Barnes | 14 - 11             |
+|  1 |          26 | Singles      | Osku Palermaa     | 217 - 244 | Tommy Jones  | 14 - 12             |
+|  2 |          27 | Singles      | Paul Moor         | 210 - 199 | Tim Mack     | 15 - 12             |
+|  3 |          28 | Singles      | Tore Torgersen    | 206 - 275 | Doug Kent    | 15 - 13             |
+|  4 |          29 | Singles      | Tomas Leandersson | 176 - 258 | Bill Hoffman | 15 - 14             |
+|  5 |          30 | Baker        | Team Europe       | 202 - 203 | Team USA     | 15 - 15             |
+|  6 |          31 | Singles      | Tore Torgersen    | 202 - 264 | Chris Barnes | 15 - 16             |
+|  7 |          32 | Singles      | Osku Palermaa     | 196 - 235 | Tommy Jones  | 15 - 17             |
+===================Question===================
+which match no. has the lowest combined score?
+===================Text===================
+<think>
+Okay, so I need to figure out which match number from the 2007 Weber Cup has the lowest combined score. Let me see how to approach this.
+
+First, looking at the table provided, it lists each match with details like Match no., Match Type, players from Team Europe and Team USA, their scores, and a Progressive Total. The question is about finding the match with the lowest combined score. That means I need to look at each match's individual scores for both teams, add them together, and see which one has the smallest total.
+
+Let me list out each match's details:
+
+Match 25: Team Europe's Mika Koivuniemi scored 217 vs. Chris Barnes' 279 in Singles. Combined score is 217 + 279 = 496.
+
+Match 26: Osku Palermaa (Europe) with 217 against Tommy Jones (USA) who got 244. So combined is 217 + 244 = 461.
+
+Match 27: Paul Moor scored 210 and Tim Mack got 199, so together that's 210 + 199 = 409.
+
+Match 28: Tore Torgersen from Europe scored 206 against Doug Kent's 275. Combined score here would be 206 + 275 = 481.
+
+Match 29: Tomas Leandersson (Europe) had a low score of 176, while Bill Hoffman (USA) scored 258. So the combined total is 176 + 258 = 434.
+
+Match 30: This one is a Baker match, which is a team event. Team Europe's score was 202 and Team USA's was 203. Combined that's 405.
+
+Wait, but I remember Baker format in bowling involves multiple players from each side, so the scores are already collective. So yes, adding those gives 405.
+
+Match 31: Tore Torgersen again for Europe with 202 against Chris Barnes' 264. Total is 202 + 264 = 466.
+
+Match 32: Osku Palermaa (Europe) scored 196 and Tommy Jones (USA) got 235, so combined that's 196 + 235 = 431.
+
+Now, let me list all the combined scores:
+
+25: 496
+
+26: 461
+
+27: 409
+
+28: 481
+
+29: 434
+
+30: 405
+
+31: 466
+
+32: 431
+
+Looking for the lowest total. So the numbers in order from lowest to highest would be 405, 409, 431, 434, 461, 466, 481, 496.
+
+So Match 30 has the lowest combined score of 405. But wait, I should make sure I didn't miss any matches or miscalculate.
+
+Wait, let me double-check each addition:
+
+Match25:217+279=496 ✔️
+
+26:217+244=461 ✔️
+
+27:210+199=409 ✔️
+
+28:206+275=481 ✔️
+
+29:176+258=434 ✔️
+
+30:202+203=405 ✔️ (Baker, but added correctly)
+
+31:202+264=466 ✔️
+
+32:196+235=431 ✔️
+
+Yes, so Match 30 indeed has the lowest combined score of 405.
+
+But wait, is there any possibility that match numbers could be misread? Let me check the table again. Yes, the matches are numbered from 25 to 32, with each row representing a different match number. So the lowest is in Match 30.
+</think>
+
+Final Answer: 30
+===================Answer===================
+25

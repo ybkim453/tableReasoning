@@ -1,0 +1,63 @@
+===================Title===================
+1971 Trans-AMA motocross series
+===================Table===================
+|    |   Place | Rider             | Country        | Team      |   Points |   Wins |
+|---:|--------:|:------------------|:---------------|:----------|---------:|-------:|
+|  0 |       1 | Sylvain Geboers   | Belgium        | Suzuki    |     3066 |      3 |
+|  1 |       2 | Adolf Weil        | Germany        | Maico     |     2331 |      2 |
+|  2 |       3 | Torlief Hansen    | Sweden         | Husqvarna |     2052 |      0 |
+|  3 |       4 | Roger De Coster   | Belgium        | Suzuki    |     1865 |      3 |
+|  4 |       5 | Joel Robert       | Belgium        | Suzuki    |     1730 |      1 |
+|  5 |       6 | Heikki Mikkola    | Finland        | Husqvarna |     1680 |      2 |
+|  6 |       7 | Willy Bauer       | Germany        | Maico     |     1276 |      0 |
+|  7 |       8 | Gaston Rahier     | Belgium        | ČZ       |     1112 |      0 |
+|  8 |       9 | Pierre Karsmakers | Netherlands    | Husqvarna |     1110 |      0 |
+|  9 |      10 | Dave Bickers      | United Kingdom | ČZ       |     1076 |      0 |
+| 10 |      11 | John Banks        | United Kingdom | ČZ       |      971 |      0 |
+| 11 |      12 | Andy Roberton     | United Kingdom | Husqvarna |      810 |      0 |
+| 12 |      13 | Vlastimil Valek   | Czechoslovakia | ČZ       |      709 |      0 |
+| 13 |      14 | Mark Blackwell    | United States  | Husqvarna |      604 |      0 |
+| 14 |      15 | Brad Lackey       | United States  | ČZ       |      603 |      0 |
+| 15 |      16 | Gary Jones        | United States  | Yamaha    |      439 |      0 |
+| 16 |      17 | John DeSoto       | United States  | Suzuki    |      425 |      0 |
+| 17 |      18 | Chris Horsefield  | United Kingdom | ČZ       |      416 |      0 |
+| 18 |      19 | Uno Palm          | Sweden         | Husqvarna |      324 |      0 |
+| 19 |      20 | Peter Lamppu      | United States  | Montesa   |      309 |      0 |
+===================Question===================
+who is the rider before brad lackey?
+===================Text===================
+<think>
+Alright, I'm trying to figure out who the rider before Brad Lackey is in this table from the 1971 Trans-AMA motocross series. Let me start by looking at the structure of the table and see how it's organized.
+
+First, I notice that each row has several columns: a numeric index starting from 0, Place, Rider, Country, Team, Points, and Wins. The Place column seems to indicate their ranking in the series, with 1 being first place, 2 second, etc., but the numeric index starts at 0, which is a bit different because usually, I'd expect the index to start at 1 if it's about positions.
+
+Wait, actually, in programming or databases, indices often start at 0. So here, each row has an index from 0 to 19, and the Place column goes from 1 to 20. That makes sense because there are 20 riders listed.
+
+Now, the question is asking for "the rider before Brad Lackey." I need to determine if "before" refers to their position in the ranking (Place) or their order in this table list (index). It could be either, but since the index is a separate column from Place, it's possible that "before" means preceding in the list.
+
+Looking at the table, Brad Lackey is listed as being in 15th place with an index of 14 because indexing starts at 0. So to find the rider before him in the list, I need to look at the row where the index is one less than his, which would be index 13.
+
+Let me check what's at index 13. Scanning down the table:
+
+- Index 13: Mark Blackwell from the United States on Husqvarna with 604 points and 0 wins.
+  
+Wait, but Brad Lackey has an index of 14, so the rider before him in the list would be at index 13, which is Mark Blackwell. However, sometimes when people ask "before," they might mean the person who is just above them in rankings, not necessarily the previous entry in a list.
+
+Looking back, Brad Lackey is in 15th place (Place:15), so the rider before him in terms of ranking would be the one with Place:14. Let me check that row:
+
+At index 13, Mark Blackwell is Place:14? Wait no, Place 14 is actually at index 12 because looking back:
+
+- Index 12: Vlastimil Valek, Place:13
+- Then comes index 13: Mark Blackwell, Place:14
+- Index 14: Brad Lackey, Place:15
+
+So the rider before Brad in terms of ranking would be Mark Blackwell at Place:14. Therefore, depending on whether "before" refers to list position or ranking, it could be either.
+
+But given that the table includes both index and Place, I think the question is more likely asking about who is listed just above Brad Lackey in the table order, which would be Mark Blackwell with index 13. However, if considering rankings (Place), it's still Mark Blackwell because he's 14th, right before Brad's 15th.
+
+Wait a second, let me double-check that. The Place numbers go up to 20 as we can see from the table. So the rider in Place:14 is indeed Mark Blackwell, who is at index 13. So whether by list order or ranking, it's the same rider before Brad Lackey.
+</think>
+
+Final Answer: Mark Blackwell
+===================Answer===================
+Mark Blackwell

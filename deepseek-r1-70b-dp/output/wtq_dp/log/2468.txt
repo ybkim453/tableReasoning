@@ -1,0 +1,45 @@
+===================Title===================
+List of international cricket centuries at Eden Gardens
+===================Table===================
+|    |   No. | Score   | Player             | Team         |   Balls |   Inns. | Opposing team   | Date             | Result   |
+|---:|------:|:--------|:-------------------|:-------------|--------:|--------:|:----------------|:-----------------|:---------|
+|  0 |     1 | 123     | Kris Srikkanth     | India        |     103 |       1 | Pakistan        | 18 February 1987 | Lost     |
+|  1 |     2 | 107*    | Desmond Haynes     | West Indies  |     137 |       1 | Pakistan        | 1 November 1989  | Lost     |
+|  2 |     3 | 100*    | Sachin Tendulkar   | India        |     103 |       2 | Kenya           | 31 May 1998      | Won      |
+|  3 |     4 | 121     | Marcus Trescothick | England      |     109 |       2 | India           | 19 January 2002  | Lost     |
+|  4 |     5 | 108*    | Salman Butt        | Pakistan     |     130 |       2 | India           | 13 November 2004 | Won      |
+|  5 |     6 | 134*    | Graeme Smith       | South Africa |     124 |       2 | India           | 25 November 2005 | Won      |
+|  6 |     7 | 118     | Upul Tharanga      | Sri Lanka    |     128 |       1 | India           | 24 December 2009 | Lost     |
+|  7 |     8 | 150*    | Gautam Gambhir     | India        |     137 |       2 | Sri Lanka       | 24 December 2009 | Won      |
+|  8 |     9 | 107     | Virat Kohli        | India        |     114 |       2 | Sri Lanka       | 24 December 2009 | Won      |
+|  9 |    10 | 106     | Ryan ten Doeschate | Netherlands  |     108 |       1 | Ireland         | 18 March 2011    | Lost     |
+| 10 |    11 | 101     | Paul Stirling      | Ireland      |      72 |       2 | Netherlands     | 18 March 2011    | Won      |
+| 11 |    12 | 106     | Nasir Jamshed      | Pakistan     |     124 |       1 | India           | 3 January 2013   | Won      |
+===================Question===================
+which is greater overall, the number of times india won or the number of times india lost?
+===================Text===================
+<think>
+Alright, let's tackle this problem step by step. I need to determine whether India won more times or lost more times based on the provided table of cricket centuries at Eden Gardens.
+
+First, I'll go through each row and note down the results when India was involved. Let me list them out:
+
+1. **Row 0**: India played against Pakistan on 18 Feb 1987. The result is "Lost".
+2. **Row 2**: India played against Kenya on 31 May 1998. The result is "Won".
+3. **Row 3**: England played against India on 19 Jan 2002. Since the opposing team is India, and the result is "Lost", this means India lost.
+4. **Row 4**: Pakistan played against India on 13 Nov 2004. Result: "Won". So India won here.
+5. **Row 5**: South Africa played against India on 25 Nov 2005. Result: "Won" for South Africa, so India lost.
+6. **Row 6**: Sri Lanka played against India on 24 Dec 2009. Result: "Lost", meaning India lost.
+7. **Row 7 & 8**: Both are India's wins against Sri Lanka on the same date (24 Dec 2009). So that's two wins for India in a row.
+8. **Row 11**: Pakistan played against India on 3 Jan 2013. Result: "Won" for Pakistan, so India lost.
+
+Now, let me count the number of wins and losses:
+
+- **Wins by India**: Rows 2, 4, 7, 8 → That's 4 wins.
+- **Losses by India**: Rows 0, 3, 5, 6, 11 → That's 5 losses.
+
+So, comparing both numbers: Losses (5) are more than Wins (4).
+</think>
+
+Final Answer: the number of times india lost
+===================Answer===================
+Won

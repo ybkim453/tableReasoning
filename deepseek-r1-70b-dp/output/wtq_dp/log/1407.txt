@@ -1,0 +1,95 @@
+===================Title===================
+M6 Toll
+===================Table===================
+|    | Date introduced   | Class 1 (e.g. Motorbike)   | Class 2 (e.g. Car)   | Class 3 (e.g. Car with trailer)   | Class 4 (e.g. Van)   | Class 5 (e.g. HGV)   |
+|---:|:------------------|:---------------------------|:---------------------|:----------------------------------|:---------------------|:---------------------|
+|  0 | 9 December 2003   | £1.00                      | £2.00                | £5.00                             | £5.00                | £10.00               |
+|  1 | 23 July 2004      | £1.00                      | £2.00                | £5.00                             | £5.00                | £6.00                |
+|  2 | 16 August 2004    | £2.00                      | £3.00                | £6.00                             | £6.00                | £6.00                |
+|  3 | 14 June 2005      | £2.50                      | £3.50                | £7.00                             | £7.00                | £7.00                |
+|  4 | 1 January 2008    | £2.50                      | £4.50                | £8.00                             | £9.00                | £9.00                |
+|  5 | 1 January 2009    | £2.70                      | £4.70                | £8.40                             | £9.40                | £9.40                |
+|  6 | 1 March 2010      | £2.70                      | £5.00                | £9.00                             | £10.00               | £10.00               |
+|  7 | 1 March 2011      | £3.00                      | £5.30                | £9.60                             | £10.60               | £10.60               |
+|  8 | 1 March 2012      | £3.00                      | £5.50                | £10.00                            | £11.00               | £11.00               |
+===================Question===================
+which vehicle class has the highest price?
+===================Text===================
+<think>
+Alright, I need to figure out which vehicle class has the highest price based on the M6 Toll table provided. Let's break it down step by step.
+
+First, I'll look at each class and track their prices over time to see where they end up. The classes are Class 1 (Motorbike), Class 2 (Car), Class 3 (Car with trailer), Class 4 (Van), and Class 5 (HGV).
+
+Starting from the earliest date, in December 2003, the prices were:
+- Class 1: £1.00
+- Class 2: £2.00
+- Class 3: £5.00
+- Class 4: £5.00
+- Class 5: £10.00
+
+Here, Class 5 is clearly the highest at £10.
+
+Moving forward to July 2004:
+- Class 1 remains £1.00.
+- Class 2 stays at £2.00.
+- Classes 3 and 4 stay at £5.00 each.
+- Class 5 drops slightly to £6.00.
+So, now the highest is still Class 5 at £6.
+
+In August 2004:
+- Class 1 jumps to £2.00.
+- Class 2 goes up to £3.00.
+- Classes 3 and 4 increase to £6.00 each.
+- Class 5 remains at £6.00.
+Here, Classes 3, 4, and 5 are tied at £6.00.
+
+By June 2005:
+- Class 1 increases to £2.50.
+- Class 2 goes up to £3.50.
+- Classes 3 and 4 rise to £7.00 each.
+- Class 5 is also £7.00.
+So, Classes 3, 4, and 5 are tied again at £7.
+
+In January 2008:
+- Class 1 stays at £2.50.
+- Class 2 increases to £4.50.
+- Class 3 goes up to £8.00.
+- Class 4 jumps to £9.00.
+- Class 5 is now £9.00.
+Here, Classes 4 and 5 are tied at the top with £9 each.
+
+Come January 2009:
+- Class 1 increases slightly to £2.70.
+- Class 2 goes up to £4.70.
+- Class 3 rises to £8.40.
+- Class 4 is now £9.40.
+- Class 5 also at £9.40.
+Again, Classes 4 and 5 are tied for the highest.
+
+In March 2010:
+- Class 1 remains at £2.70.
+- Class 2 goes up to £5.00.
+- Class 3 increases to £9.00.
+- Both Classes 4 and 5 jump to £10.00 each.
+So, they're tied once more.
+
+March 2011 shows:
+- Class 1 at £3.00.
+- Class 2 at £5.30.
+- Class 3 at £9.60.
+- Classes 4 and 5 both at £10.60.
+They continue to tie for the highest price.
+
+Finally, in March 2012:
+- Class 1 stays at £3.00.
+- Class 2 increases to £5.50.
+- Class 3 goes up to £10.00.
+- Classes 4 and 5 both reach £11.00 each.
+So, again, they're tied.
+
+Looking across all these dates, it's clear that Classes 4 (Van) and 5 (HGV) consistently have the highest prices throughout the years. They often increase together and end up at the same amount each time. Therefore, these two classes are tied for having the highest tolls.
+</think>
+
+Final Answer: Class 4, Class 5
+===================Answer===================
+Class 5 (e.g. HGV)

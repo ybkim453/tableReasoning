@@ -1,0 +1,69 @@
+===================Title===================
+Marcos Pizzelli
+===================Table===================
+|    |   Goal | Date       | Venue                                                | Opponent   | Score   | Result   | Competition    |
+|---:|-------:|:-----------|:-----------------------------------------------------|:-----------|:--------|:---------|:---------------|
+|  0 |      1 | 2008-5-28  | Sheriff Stadium, Tiraspol, Moldova                   | Moldova    | 0-1     | 2–2      | Friendly match |
+|  1 |      2 | 2010-10-12 | Hanrapetakan Stadium, Yerevan, Armenia               | Andorra    | 4–0     | 4–0      | Euro 2012 Q    |
+|  2 |      3 | 2011-6-4   | Petrovsky Stadium, Saint Petersburg, Russia          | Russia     | 0-1     | 3–1      | Euro 2012 Q    |
+|  3 |      4 | 2011-9-2   | Estadi Comunal d'Aixovall, Andorra la Vella, Andorra | Andorra    | 0-1     | 0-3      | Euro 2012 Q    |
+|  4 |      5 | 2011-10-7  | Hanrapetakan Stadium, Yerevan, Armenia               | Macedonia  | 1-0     | 4-1      | Euro 2012 Q    |
+|  5 |      6 | 2012-2-29  | Tsirion Stadium, Limassol, Cyprus                    | Canada     | 1-1     | 1-3      | Friendly match |
+|  6 |      7 | 2012-2-29  | Tsirion Stadium, Limassol, Cyprus                    | Canada     | 1-2     | 1-3      | Friendly match |
+===================Question===================
+against which international team did marcos pizzelli score the most goals?
+===================Text===================
+<think>
+Okay, so I need to figure out against which international team Marcos Pizzelli scored the most goals based on this table. Let me start by looking at each row and noting down the opponents he faced and how many goals he scored in each match.
+
+Looking at the table, there are 7 entries. Each entry represents a goal he scored, with details like the date, venue, opponent, score, result, and competition. The 'Goal' column seems to be a counter of his goals, starting from 1 up to 7. But for this question, I'm more interested in the 'Opponent' column.
+
+Let me list out each opponent and count how many times he scored against them:
+
+1. First row: Opponent is Moldova. So that's one goal.
+2. Second row: Opponent is Andorra. That's another goal.
+3. Third row: Opponent is Russia. Another goal here.
+4. Fourth row: Opponent is again Andorra. So now it's two goals against Andorra.
+5. Fifth row: Opponent is Macedonia. One goal each.
+6. Sixth row: Opponent is Canada. Wait, there are two entries on the same date and venue against Canada. Both have Marcos scoring a goal (1-1 and 1-2). So that's two goals against Canada.
+
+Wait, but looking back, I see rows 5 and 6 both list Canada as the opponent, each with one goal from Marcos. So that means he scored twice against Canada. Let me confirm:
+
+Row 5: Against Canada on 2012-02-29, score was 1-1 (his first goal) and result 1-3.
+Row 6: Same date, same venue, same opponent, but the score is 1-2, which would be his second goal in that match. So total of two goals against Canada.
+
+Now, let's tally up:
+
+- Moldova: 1
+- Andorra: 2 (from rows 1 and 3)
+Wait, no, row 2 was Andorra with a score of 4–0, so he scored once there, and row 3 is again Andorra where he scored another. So actually, Andorra has two goals.
+
+Similarly:
+
+- Russia: 1
+- Macedonia: 1
+- Canada: 2
+
+So the highest number of goals against any team is two. Both Andorra and Canada each have two goals from Marcos. Wait, no, looking again:
+
+Wait, let me recount to make sure I didn't miscount.
+
+Looking at each row:
+
+Row 0: vs Moldova - 1 goal
+Row 1: vs Andorra - 1 (total for Andorra now 1)
+Row 2: vs Russia - 1 (total Russia 1)
+Row 3: vs Andorra again - another goal, so total Andorra 2
+Row 4: vs Macedonia - 1
+Rows 5 and 6: both against Canada, each with a goal, so total Canada 2
+
+So both Andorra and Canada have two goals each. So Marcos scored the most against these two teams.
+
+Wait, but in row 3, the score is 0-1 for Andorra, but the result was 0–3. Wait, does that mean he scored more than once? No, because each row represents a single goal by him. So each entry is one goal per row, so row 3 is just one goal against Andorra.
+
+So yes, total of two goals each against Andorra and Canada.
+</think>
+
+Final Answer: Andorra, Canada
+===================Answer===================
+Andorra

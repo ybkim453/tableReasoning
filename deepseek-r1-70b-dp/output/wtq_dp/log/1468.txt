@@ -1,0 +1,85 @@
+===================Title===================
+2000 Úrvalsdeild
+===================Table===================
+|    |   Pos | Team       |   Played |   Won |   Draw |   Lost |   Goals For |   Goals Against |   Goal Difference |   Points | Notes                 |
+|---:|------:|:-----------|---------:|------:|-------:|-------:|------------:|----------------:|------------------:|---------:|:----------------------|
+|  0 |     1 | KR         |       18 |    11 |      4 |      3 |          27 |              14 |                13 |       37 | UEFA Champions League |
+|  1 |     2 | Fylkir     |       18 |    10 |      5 |      3 |          39 |              16 |                23 |       35 | UEFA Cup              |
+|  2 |     3 | Grindavík |       18 |     8 |      6 |      4 |          25 |              18 |                 7 |       30 | UEFA Cup              |
+|  3 |     4 | ÍBV       |       18 |     8 |      5 |      5 |          29 |              17 |                12 |       29 | Inter-Toto Cup        |
+|  4 |     5 | ÍA        |       18 |     7 |      5 |      6 |          21 |              17 |                 4 |       26 | nan                   |
+|  5 |     6 | Keflavík  |       18 |     4 |      7 |      7 |          21 |              35 |               -14 |       19 | nan                   |
+|  6 |     7 | Breiðablik |       18 |     5 |      3 |     10 |          29 |              35 |                -6 |       18 | nan                   |
+|  7 |     8 | Fram       |       18 |     4 |      5 |      9 |          22 |              33 |               -11 |       17 | nan                   |
+|  8 |     9 | Stjarnan   |       18 |     4 |      5 |      9 |          18 |              31 |               -13 |       17 | Relegated             |
+|  9 |    10 | Leiftur    |       18 |     3 |      7 |      8 |          24 |              39 |               -15 |       16 | Relegated             |
+===================Question===================
+fram had how many more points than leiftur?
+===================Text===================
+<think>
+Okay, so I need to figure out how many more points Fram had than Leiftur in the 2000 Úrvalsdeild season based on the provided table. Let me start by understanding the table structure and identifying where each team's points are located.
+
+First, looking at the table headers: Pos (Position), Team, Played, Won, Draw, Lost, Goals For, Goals Against, Goal Difference, Points, Notes. Each row represents a different team with their respective statistics for that season.
+
+I need to find Fram and Leiftur in this table. Let me scan through the Team column. 
+
+- The first few teams are KR, Fylkir, Grindavík, ÍBV, ÍA, Keflavík, Breiðablik, then comes Fram at position 7 or 8? Wait, looking at the Pos column: 
+
+Row 0: Pos 1 - KR
+
+Row 1: Pos 2 - Fylkir
+
+So each row increases by one in position. Let me check:
+
+At row index 6 (since it starts at 0), the Pos is 7, and the Team is Breiðablik.
+
+Row index 7: Pos 8, Team Fram.
+
+Wait, no. Wait, looking again:
+
+The table shows for each row:
+
+- The first column is an index starting from 0 to 9.
+
+- The second column is Pos (position), which is from 1 to 10.
+
+So:
+
+Index 0: Pos 1 - KR
+
+Index 1: Pos 2 - Fylkir
+
+Index 2: Pos 3 - Grindavík
+
+Index 3: Pos 4 - ÍBV
+
+Index 4: Pos 5 - ÍA
+
+Index 5: Pos 6 - Keflavík
+
+Index 6: Pos 7 - Breiðablik
+
+Index 7: Pos 8 - Fram
+
+Index 8: Pos 9 - Stjarnan
+
+Index 9: Pos 10 - Leiftur
+
+Okay, so Fram is at index 7 (Pos 8) and Leiftur is at index 9 (Pos 10).
+
+Now, looking for the Points column. The Points are numeric values in each row.
+
+For Fram (index 7), Points are listed as 17.
+
+For Leiftur (index 9), Points are also 16.
+
+Wait, so Fram has 17 points and Leiftur has 16. To find how many more points Fram had than Leiftur, I subtract Leiftur's points from Fram's.
+
+So: 17 - 16 = 1
+
+Therefore, Fram had 1 point more than Leiftur.
+</think>
+
+Final Answer: 1
+===================Answer===================
+1

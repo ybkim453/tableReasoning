@@ -1,0 +1,80 @@
+===================Title===================
+Janko Tipsarević
+===================Table===================
+|    | Outcome   |   No. | Date             | Tournament                                        | Surface   | Opponent               | Score                        |
+|---:|:----------|------:|:-----------------|:--------------------------------------------------|:----------|:-----------------------|:-----------------------------|
+|  0 | Runner-up |     1 | 25 October 2009  | Kremlin Cup, Russia                               | Hard (i)  | Mikhail Youzhny        | 7–6(7–5), 0–6, 4–6           |
+|  1 | Runner-up |     2 | 19 June 2010     | UNICEF Open, Netherlands                          | Grass     | Sergiy Stakhovsky      | 3–6, 0–6                     |
+|  2 | Runner-up |     3 | 27 February 2011 | International Tennis Championships, United States | Hard      | Juan Martín del Potro | 4–6, 4–6                     |
+|  3 | Runner-up |     4 | 18 June 2011     | Aegon International, United Kingdom               | Grass     | Andreas Seppi          | 6–7(5–7), 6–3, 3–5 ret.      |
+|  4 | Winner    |     1 | 2 October 2011   | Malaysian Open, Malaysia                          | Hard (i)  | Marcos Baghdatis       | 6–4, 7–5                     |
+|  5 | Winner    |     2 | 23 October 2011  | Kremlin Cup, Russia                               | Hard (i)  | Viktor Troicki         | 6–4, 6–2                     |
+|  6 | Runner-up |     5 | 30 October 2011  | St. Petersburg Open, Russia                       | Hard (i)  | Marin Čilić          | 3–6, 6–3, 2–6                |
+|  7 | Runner-up |     6 | 8 January 2012   | Chennai Open, India                               | Hard      | Milos Raonic           | 7–6(7–4), 6–7(4–7), 6–7(4–7) |
+|  8 | Winner    |     3 | 15 July 2012     | Stuttgart Open, Germany                           | Clay      | Juan Mónaco           | 6–4, 5–7, 6–3                |
+|  9 | Runner-up |     7 | 22 July 2012     | Swiss Open, Switzerland                           | Clay      | Thomaz Bellucci        | 7–6(8–6), 4–6, 2–6           |
+| 10 | Winner    |     4 | 6 January 2013   | Chennai Open, India                               | Hard      | Roberto Bautista-Agut  | 3–6, 6–1, 6–3                |
+===================Question===================
+which tournament besides stuttgart open was not played on a hard surface or a grass surface?
+===================Text===================
+<think>
+Okay, so I need to figure out which tournament besides the Stuttgart Open was not played on a hard surface or grass. Let me look at the table provided.
+
+First, let's list all the tournaments and their surfaces.
+
+1. Kremlin Cup, Russia - Hard (i)
+2. UNICEF Open, Netherlands - Grass
+3. International Tennis Championships, United States - Hard
+4. Aegon International, United Kingdom - Grass
+5. Malaysian Open, Malaysia - Hard (i)
+6. Kremlin Cup again - same as first.
+7. St. Petersburg Open, Russia - Hard (i)
+8. Chennai Open, India - Hard
+9. Stuttgart Open, Germany - Clay
+10. Swiss Open, Switzerland - Clay
+11. Chennai Open again - same as above.
+
+Wait, looking at the table, each row is a different tournament outcome for Janko Tipsarević. So I need to go through each one and note the surface.
+
+Row 0: Kremlin Cup - Hard (i)
+Row 1: UNICEF Open - Grass
+Row 2: International Tennis Championships - Hard
+Row 3: Aegon International - Grass
+Row 4: Malaysian Open - Hard (i)
+Row 5: Kremlin Cup again - same.
+Row 6: St. Petersburg Open - Hard (i)
+Row 7: Chennai Open - Hard
+Row 8: Stuttgart Open - Clay
+Row 9: Swiss Open - Clay
+Row 10: Chennai Open again - same.
+
+Now, the question is asking for tournaments besides Stuttgart Open that were not played on hard or grass. So surfaces other than Hard (including indoor) and Grass.
+
+Looking through, most are either Hard or Grass. The exceptions would be Stuttgart Open which is Clay, and Swiss Open also Clay. Are there any others?
+
+Wait, let me check each row:
+
+Row 0: Hard
+Row1: Grass
+Row2: Hard
+Row3: Grass
+Row4: Hard
+Row5: Hard
+Row6: Hard
+Row7: Hard
+Row8: Clay (Stuttgart)
+Row9: Clay (Swiss Open)
+Row10: Hard
+
+So the surfaces that are not hard or grass are Clay, which applies to Stuttgart and Swiss Open. Since the question is asking besides Stuttgart, it's the other one.
+
+Wait, but the table lists each tournament Janko played in, so I need to see if there's another tournament beyond Stuttgart where surface isn't hard or grass.
+
+From the list above, only rows 8 (Stuttgart) and 9 (Swiss Open) are on Clay. So besides Stuttgart, it's the Swiss Open that wasn't on Hard or Grass.
+
+So the answer should be Swiss Open, Switzerland.
+</think>
+
+Final Answer: Swiss Open
+===================Answer===================
+Swiss Open, Switzerland

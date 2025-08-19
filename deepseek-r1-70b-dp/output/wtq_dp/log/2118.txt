@@ -1,0 +1,40 @@
+===================Title===================
+Catherine Deneuve
+===================Table===================
+|    |   Year | Award                   | Film                                | Result    |
+|---:|-------:|:------------------------|:------------------------------------|:----------|
+|  0 |   1976 | Best Actress            | Le Sauvage                          | Nominated |
+|  1 |   1981 | Best Actress            | Le Dernier métro                   | Won       |
+|  2 |   1982 | Best Actress            | Hôtel des Amériques               | Nominated |
+|  3 |   1988 | Best Actress            | Agent trouble                       | Nominated |
+|  4 |   1989 | Best Actress            | Drôle d'endroit pour une rencontre | Nominated |
+|  5 |   1993 | Best Actress            | Indochine                           | Won       |
+|  6 |   1994 | Best Actress            | Ma saison préférée               | Nominated |
+|  7 |   1997 | Best Actress            | Les Voleurs                         | Nominated |
+|  8 |   1999 | Best Actress            | Place Vendôme                      | Nominated |
+|  9 |   2006 | Best Supporting Actress | Palais Royal!                       | Nominated |
+| 10 |   2011 | Best Actress            | Potiche                             | Nominated |
+| 11 |   2014 | Best Actress            | On My Way                           | Pending   |
+===================Question===================
+what year was agent trouble nominated?
+===================Text===================
+<think>
+Alright, so I've got this table about Catherine Deneuve and her awards over the years. The question is asking me in what year "Agent trouble" was nominated.
+
+First, I need to scan through each row of the table and look for where the film is listed as "Agent trouble". Each row has details like Year, Award, Film, and Result. 
+
+Looking at the rows one by one:
+
+- Row 0: Le Sauvage in 1976, Nominated.
+- Row 1: Le Dernier métro in 1981, Won.
+- Row 2: Hôtel des Amériques in 1982, Nominated.
+- Row 3: Agent trouble in 1988, Nominated. Oh, here it is!
+  
+So the film "Agent trouble" was nominated for Best Actress in the year 1988.
+
+I don't need to check further rows because I already found the matching film name and its corresponding year. That should be the answer.
+</think>
+
+Final Answer: 1988
+===================Answer===================
+1988

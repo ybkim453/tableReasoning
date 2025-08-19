@@ -1,0 +1,52 @@
+===================Title===================
+Figure skating at the Asian Winter Games
+===================Table===================
+|    | Rank   | Nation      |   Gold |   Silver |   Bronze |   Total |
+|---:|:-------|:------------|-------:|---------:|---------:|--------:|
+|  0 | 1      | China       |     13 |        9 |       13 |      35 |
+|  1 | 2      | Japan       |      7 |       10 |        7 |      24 |
+|  2 | 3      | Uzbekistan  |      1 |        2 |        3 |       6 |
+|  3 | 4      | Kazakhstan  |      2 |        2 |        0 |       4 |
+|  4 | 5      | North Korea |      1 |        0 |        1 |       2 |
+|  5 | 6      | South Korea |      0 |        0 |        2 |       2 |
+|  6 | Total  | Total       |     24 |       23 |       26 |      73 |
+===================Question===================
+what is the average number of gold medals won by china, japan, and north korea?
+===================Text===================
+<think>
+Okay, so I need to find the average number of gold medals won by China, Japan, and North Korea based on the table provided. Let me first look at the table again.
+
+The table lists each country along with their Gold, Silver, Bronze, and Total medals. Here are the relevant rows:
+
+- China: 13 Gold
+- Japan: 7 Gold
+- Uzbekistan: 1 Gold (but I don't need that)
+- Kazakhstan: 2 Gold (not needed)
+- North Korea: 1 Gold
+- South Korea: 0 Gold
+
+Wait, but wait. The question specifically asks for China, Japan, and North Korea. So I should only focus on those three.
+
+China has 13 Gold medals.
+Japan has 7 Gold medals.
+North Korea has 1 Gold medal.
+
+So the next step is to add these numbers together and then find the average by dividing by the number of countries, which is 3 in this case.
+
+Let me do the math:
+
+13 (China) + 7 (Japan) = 20
+20 + 1 (North Korea) = 21
+
+So total Gold medals for these three countries are 21. Now, to find the average, I divide by 3.
+
+21 divided by 3 equals 7.
+
+Therefore, the average number of gold medals won by China, Japan, and North Korea is 7.
+</think>
+
+The average is calculated by adding the gold medals from China (13), Japan (7), and North Korea (1), which totals 21. Dividing by 3 gives an average of 7.
+
+Final Answer: 7
+===================Answer===================
+7

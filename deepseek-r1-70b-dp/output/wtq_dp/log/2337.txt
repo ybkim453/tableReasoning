@@ -1,0 +1,47 @@
+===================Title===================
+2007 Weber Cup
+===================Table===================
+|    |   Match no. | Match Type   | Team Europe       | Score     | Team USA     | Progressive Total   |
+|---:|------------:|:-------------|:------------------|:----------|:-------------|:--------------------|
+|  0 |          25 | Singles      | Mika Koivuniemi   | 217 - 279 | Chris Barnes | 14 - 11             |
+|  1 |          26 | Singles      | Osku Palermaa     | 217 - 244 | Tommy Jones  | 14 - 12             |
+|  2 |          27 | Singles      | Paul Moor         | 210 - 199 | Tim Mack     | 15 - 12             |
+|  3 |          28 | Singles      | Tore Torgersen    | 206 - 275 | Doug Kent    | 15 - 13             |
+|  4 |          29 | Singles      | Tomas Leandersson | 176 - 258 | Bill Hoffman | 15 - 14             |
+|  5 |          30 | Baker        | Team Europe       | 202 - 203 | Team USA     | 15 - 15             |
+|  6 |          31 | Singles      | Tore Torgersen    | 202 - 264 | Chris Barnes | 15 - 16             |
+|  7 |          32 | Singles      | Osku Palermaa     | 196 - 235 | Tommy Jones  | 15 - 17             |
+===================Question===================
+how many matches had a tie for the progressive total?
+===================Text===================
+<think>
+Okay, so I need to figure out how many matches had a tie for the progressive total in the 2007 Weber Cup based on the provided table. Let me start by understanding what each column represents.
+
+The table has several columns: Match no., Match Type, Team Europe player, Score, Team USA player, and Progressive Total. The Progressive Total seems to track the overall scores of Team Europe and Team USA after each match. So, for example, in Match 25, the Progressive Total is 14-11 after that match.
+
+The question is asking how many matches resulted in a tie in the progressive total. That means I'm looking for instances where both teams have the same score in their Progressive Totals after the match.
+
+Let me go through each row one by one:
+
+1. Match 25: Progressive Total is 14-11. Not a tie.
+2. Match 26: 14-12. Not tied.
+3. Match 27: 15-12. Also not tied.
+4. Match 28: 15-13. Still no tie.
+5. Match 29: 15-14. Not a tie.
+6. Match 30: 15-15. Ah, here we go! This is a tie because both teams have the same number of points.
+7. Match 31: 15-16. Not tied.
+8. Match 32: 15-17. Also not tied.
+
+So, as I scan through each match's Progressive Total, only Match 30 shows a tie at 15-15. That means there was only one instance where the progressive total was tied after a match.
+
+I should make sure I didn't miss any other matches. Let me double-check:
+
+- Match numbers are from 25 to 32.
+- Only Match 30 has equal Progressive Totals for both teams.
+
+Yes, that's correct. So, the answer is just one match where there was a tie in the progressive total.
+</think>
+
+Final Answer: 1
+===================Answer===================
+1

@@ -1,0 +1,42 @@
+===================Title===================
+List of storms on the Great Lakes
+===================Table===================
+|    | Ship             | Type of Vessel   | Lake          | Location                         | Lives lost   |
+|---:|:-----------------|:-----------------|:--------------|:---------------------------------|:-------------|
+|  0 | Argus            | Steamer          | Lake Huron    | 25 miles off Kincardine, Ontario | 25 lost      |
+|  1 | James Carruthers | Steamer          | Lake Huron    | near Kincardine                  | 18 lost      |
+|  2 | Hydrus           | Steamer          | Lake Huron    | near Lexington, Michigan         | 28 lost      |
+|  3 | Leafield         | Steamer          | Lake Superior | nan                              | all hands    |
+|  4 | John A. McGean   | Steamer          | Lake Huron    | near Goderich, Ontario           | 28 lost      |
+|  5 | Plymouth         | Barge            | Lake Michigan | nan                              | 7 lost       |
+|  6 | Charles S. Price | Steamer          | Lake Huron    | near Port Huron, Michigan        | 28 lost      |
+|  7 | Regina           | Steamer          | Lake Huron    | near Harbor Beach, Michigan      | nan          |
+|  8 | Issac M. Scott   | Steamer          | Lake Huron    | near Port Elgin, Ontario         | 28 lost      |
+|  9 | Henry B. Smith   | Steamer          | Lake Superior | nan                              | all hands    |
+| 10 | Wexford          | Steamer          | Lake Huron    | north of Grand Bend, Ontario     | all hands    |
+| 11 | Lightship No. 82 | Lightship        | Lake Erie     | Point Albino (near Buffalo)      | 6 lost       |
+===================Question===================
+what were the total lives lost on lake erie and lake michigan?
+===================Text===================
+<think>
+Alright, so I need to figure out how many lives were lost on Lake Erie and Lake Michigan based on the given table. Let me start by carefully looking through each row of the table to identify which ones are related to these two lakes.
+
+Starting with Lake Erie: I scan the "Lake" column for any entries that say "Lake Erie". Looking at the table, I see that row 11 is about Lightship No. 82 located on Lake Erie. The lives lost there are listed as 6 lost. So, that's straightforward—6 lives lost on Lake Erie.
+
+Next, moving to Lake Michigan: I check each entry in the "Lake" column again for any mentioning "Lake Michigan". In row 5, there's a barge named Plymouth on Lake Michigan with 7 lives lost. That seems clear too—7 lives lost on Lake Michigan.
+
+Wait, but I should double-check if there are any other entries for these lakes that I might have missed. Let me go through each row again quickly:
+
+- Rows 0 to 8 are all about Lake Huron and Lake Superior, so none of those apply.
+- Row 9 is also Lake Superior, so not relevant here.
+- So, the only Lake Michigan entry is row 5 (Plymouth) with 7 lost.
+- The only Lake Erie entry is row 11 (Lightship No. 82) with 6 lost.
+
+Therefore, adding those together: 6 (Lake Erie) + 7 (Lake Michigan) = 13 lives lost in total on both lakes.
+
+I think that's all because there are no other entries for these two lakes. So the numbers should be accurate.
+</think>
+
+Final Answer: 6,7
+===================Answer===================
+13

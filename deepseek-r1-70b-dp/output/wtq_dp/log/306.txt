@@ -1,0 +1,75 @@
+===================Title===================
+List of awards and nominations received by Leona Lewis
+===================Table===================
+|    |   Year | Award                                   | Nominated work   | Category                                      | Result    |
+|---:|-------:|:----------------------------------------|:-----------------|:----------------------------------------------|:----------|
+|  0 |   2007 | Cosmopolitan Ultimate Woman of the Year | Leona Lewis      | Newcomer of the Year                          | Won       |
+|  1 |   2007 | The Record of the Year                  | "Bleeding Love"  | The Record of the Year                        | Won       |
+|  2 |   2008 | Capital Awards                          | Leona Lewis      | Favourite UK Female Artist                    | Won       |
+|  3 |   2008 | Britain's Best                          | Leona Lewis      | Music Award                                   | Won       |
+|  4 |   2008 | NewNowNext Awards                       | Leona Lewis      | The Kylie Award: Next International Crossover | Won       |
+|  5 |   2008 | Glamour Woman Of The Year Awards        | Leona Lewis      | UK Solo Artist                                | Won       |
+|  6 |   2008 | Nickelodeon UK Kids Choice Awards       | "Bleeding Love"  | Favourite Song                                | Won       |
+|  7 |   2008 | UK Music Video Awards                   | "Bleeding Love"  | People's Choice Award                         | Won       |
+|  8 |   2008 | Bambi Award                             | Leona Lewis      | Shooting Star                                 | Won       |
+|  9 |   2008 | New Music Weekly Awards                 | Leona Lewis      | Top 40 New Artist of the Year                 | Won       |
+| 10 |   2008 | Billboard 2008 Year End Award           | Leona Lewis      | Best New Artist                               | Won       |
+| 11 |   2008 | Vh1 Video of the Year                   | "Bleeding Love"  | Best Video                                    | Won       |
+| 12 |   2008 | NME Best Album                          | "Spirit"         | Best Album                                    | Nominated |
+| 13 |   2008 | PETA                                    | Leona Lewis      | Person Of The Year                            | Won       |
+| 14 |   2009 | NAACP Image Awards                      | Leona Lewis      | Outstanding New Artist                        | Nominated |
+| 15 |   2009 | Swiss Music Awards                      | Leona Lewis      | Best International Newcomer                   | Won       |
+| 16 |   2009 | Japan Gold Disc Awards                  | Leona Lewis      | New Artist Of The Year                        | Won       |
+| 17 |   2009 | HITO Pop Music Awards                   | "Bleeding Love"  | Best Western Song                             | Won       |
+| 18 |   2009 | PETA - Sexiest Vegetarian Alive Awards  | Leona Lewis      | Sexiest Vegetarian Celebrity 2009             | Won       |
+| 19 |   2009 | APRA Awards                             | "Bleeding Love"  | Most Played Foreign Work                      | Won       |
+| 20 |   2009 | BEFFTA Awards                           | Leona Lewis      | Best Female Act                               | Won       |
+| 21 |   2009 | Cosmopolitan Awards                     | Leona Lewis      | Ultimate Music Star                           | Won       |
+===================Question===================
+how many awards has leona lewis won?
+===================Text===================
+<think>
+Alright, so I need to figure out how many awards Leona Lewis has won based on this table. Let me take it step by step.
+
+First, I see that each row in the table represents an award entry with various details like Year, Award name, Nominated work, Category, and Result. My focus is on the 'Result' column because that tells me whether she won or was nominated.
+
+Looking through each row from 0 to 21:
+
+Row 0: Result is Won → count 1
+Row 1: Result is Won → count 2
+Row 2: Result is Won → count 3
+Row 3: Result is Won → count 4
+Row 4: Result is Won → count 5
+Row 5: Result is Won → count 6
+Row 6: Result is Won → count 7
+Row 7: Result is Won → count 8
+Row 8: Result is Won → count 9
+Row 9: Result is Won → count 10
+Row 10: Result is Won → count 11
+Row 11: Result is Won → count 12
+Row 12: Result is Nominated → don't count
+Row 13: Result is Won → count 13
+Row 14: Result is Nominated → don't count
+Row 15: Result is Won → count 14
+Row 16: Result is Won → count 15
+Row 17: Result is Won → count 16
+Row 18: Result is Won → count 17
+Row 19: Result is Won → count 18
+Row 20: Result is Won → count 19
+Row 21: Result is Won → count 20
+
+Wait, now I'm a bit confused because in the earlier rows, from 0 to 11, all were 'Won', that's 12. Then row 12 was Nominated, so no count. Row 13 is another win, making it 13. Rows 14 is Nominated again, so skip. Then rows 15-21: each result is Won, which adds 7 more wins (since from 15 to 21 inclusive is 7 entries). So adding those 7 to the previous 13 gives me 20.
+
+But wait, let's recount:
+
+Rows 0-11: 12 wins
+Row 13: +1 =13
+Then rows 15-21: that's 7 more, so total is 20.
+Wait no, rows 15-21 are rows 15,16,17,18,19,20,21. That's 7 entries. So 12 +1 (from row13) =13; then plus 7 makes it 20.
+
+So the answer should be 20 awards won by Leona Lewis.
+</think>
+
+Final Answer: 20
+===================Answer===================
+20

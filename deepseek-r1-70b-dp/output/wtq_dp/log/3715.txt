@@ -1,0 +1,29 @@
+===================Title===================
+River Trent
+===================Table===================
+|    |   Rank\n | Date\n            |   Level at Trent Bridge\nm |   Level at Trent Bridge\nft | Peak Flow\nm3/s   | Peak Flow\ncfs   |
+|---:|---------:|:------------------|---------------------------:|----------------------------:|:------------------|:-----------------|
+|  0 |        1 | February 1795     |                      24.55 |                        80.5 | 1,416             | 50,000           |
+|  1 |        2 | October 1875      |                      24.38 |                        80   | 1,274             | 45,000           |
+|  2 |        3 | March 1947        |                      24.3  |                        79.7 | 1,107             | 39,100           |
+|  3 |        4 | November 1852     |                      24.26 |                        79.6 | 1,082             | 38,200           |
+|  4 |        5 | November 2000     |                      23.8  |                        78.1 | 1,019             | 36,000           |
+|  5 |      nan | Normal / Avg flow |                      20.7  |                        68   | 84                | 3,000            |
+===================Question===================
+when was the highest flood on the river trent at nottingham?
+===================Text===================
+<think>
+Okay, so I'm trying to figure out when the highest flood on the River Trent at Nottingham occurred based on this table. Let's see what information I have here.
+
+The table has several columns: Rank, Date, Level at Trent Bridge in meters and feet, Peak Flow in m³/s and cfs. There are five entries plus a row for normal/average flow. Each entry is ranked from 1 to 5, with the first being February 1795, then October 1875, March 1947, November 1852, November 2000, and finally the average.
+
+The question is about the highest flood. I'm assuming that "highest flood" would correspond to the highest recorded water level or peak flow. Looking at the "Level at Trent Bridge (m)" column, February 1795 has the highest value of 24.55 meters. That's higher than all other entries except maybe November 1852 and March 1947, which are slightly lower.
+
+Alternatively, looking at the Peak Flow in m³/s, February 1795 has the highest value of 1,416 m³/s, which is significantly higher than the others. The next closest is October 1875 with 1,274 m³/s. So both the level and peak flow indicate that the flood in February 1795 was the most severe.
+
+Therefore, based on the data provided, the highest flood occurred in February 1795.
+</think>
+
+Final Answer: February 1795
+===================Answer===================
+February 1795

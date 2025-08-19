@@ -1,0 +1,48 @@
+===================Title===================
+Melissa Morrison-Howard
+===================Table===================
+|    |   Year | Competition                | Venue                       | Position   | Event         |
+|---:|-------:|:---------------------------|:----------------------------|:-----------|:--------------|
+|  0 |   1997 | World Indoor Championships | Paris, France               | 5th        | 60 m hurdles  |
+|  1 |   1997 | USA Outdoor Championships  | Indianapolis, United States | 1st        | 100 m hurdles |
+|  2 |   1998 | Grand Prix Final           | Moscow, Russia              | 2nd        | 100 m hurdles |
+|  3 |   1998 | USA Indoor Championships   | nan                         | 1st        | 60 m hurdles  |
+|  4 |   1999 | World Indoor Championships | Maebashi, Japan             | 6th        | 60 m hurdles  |
+|  5 |   2000 | Olympic Games              | Sydney, Australia           | 3rd        | 100 m hurdles |
+|  6 |   2000 | Grand Prix Final           | Doha, Qatar                 | 4th        | 100 m hurdles |
+|  7 |   2002 | Grand Prix Final           | Paris, France               | 7th        | 100 m hurdles |
+|  8 |   2002 | USA Indoor Championships   | nan                         | 1st        | 60 m hurdles  |
+|  9 |   2003 | World Indoor Championships | Birmingham, England         | 3rd        | 60 m hurdles  |
+| 10 |   2003 | World Athletics Final      | Monaco                      | 6th        | 100 m hurdles |
+| 11 |   2004 | Olympic Games              | Athens, Greece              | 3rd        | 100 m hurdles |
+===================Question===================
+how many competitions were held in the united states?
+===================Text===================
+<think>
+Okay, so I need to figure out how many competitions were held in the United States based on the table provided about Melissa Morrison-Howard. Let me look at each entry and check the Venue column for any mention of the United States.
+
+Starting from the top:
+
+1. 1997 World Indoor Championships - Paris, France. That's outside the US.
+2. 1997 USA Outdoor Championships - Indianapolis, United States. Okay, that's in the US.
+3. 1998 Grand Prix Final - Moscow, Russia. Not US.
+4. 1998 USA Indoor Championships - Venue is 'nan', which probably means not available or not specified. I'm not sure if this counts since the venue isn't clear, but since it's a USA championship, maybe it was held in the US. Hmm, that's a bit tricky. Maybe I should consider it as being in the US.
+5. 1999 World Indoor Championships - Maebashi, Japan. Not US.
+6. 2000 Olympic Games - Sydney, Australia. No.
+7. 2000 Grand Prix Final - Doha, Qatar. No.
+8. 2002 Grand Prix Final - Paris, France. No.
+9. 2002 USA Indoor Championships - Again, venue is 'nan'. Similar to before; likely in the US but not certain.
+10. 2003 World Indoors - Birmingham, England. No.
+11. 2003 World Athletics Final - Monaco. No.
+12. 2004 Olympic Games - Athens, Greece. No.
+
+Wait, so the clear ones are:
+- 1997 USA Outdoor Championships (Indianapolis)
+But for the others with 'nan' venue, like the two USA Indoor Championships in 1998 and 2002, do I count those? Since they're called "USA" championships, it's logical to assume they were held in the US even if the exact venue isn't listed. So that would add two more.
+
+So total competitions in the US would be three: 1997, 1998, and 2002. Alternatively, maybe 'nan' venues are not counted because we don't have confirmation, so only the one in Indianapolis is certain. I'm a bit conflicted here. But given that they're USA championships, it's reasonable to assume they took place in the US.
+</think>
+
+Final Answer: 3
+===================Answer===================
+3

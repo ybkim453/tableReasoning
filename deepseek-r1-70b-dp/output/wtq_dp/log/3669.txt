@@ -1,0 +1,44 @@
+===================Title===================
+2011 USL Pro season
+===================Table===================
+|    |   Rank | Player            | Nation   | Club                      |   Goals |
+|---:|-------:|:------------------|:---------|:--------------------------|--------:|
+|  0 |      1 | Jhonny Arteaga    | COL      | FC New York               |      13 |
+|  1 |      2 | Matthew Delicâte | ENG      | Richmond Kickers          |      10 |
+|  2 |      3 | José Angulo      | USA      | Harrisburg City Islanders |       9 |
+|  3 |      3 | Maxwell Griffin   | USA      | Orlando City              |       9 |
+|  4 |      3 | Luke Mulholland   | ENG      | Wilmington Hammerheads    |       9 |
+|  5 |      6 | Andriy Budnyy     | UKR      | Wilmington Hammerheads    |       8 |
+|  6 |      6 | Jamie Watson      | USA      | Orlando City              |       8 |
+|  7 |      6 | Andrew Welker     | USA      | Harrisburg City Islanders |       8 |
+|  8 |      9 | Chris Banks       | USA      | Wilmington Hammerheads    |       7 |
+|  9 |      9 | Sallieu Bundu     | SLE      | Charlotte Eagles          |       7 |
+| 10 |      9 | George Davis IV   | USA      | Dayton Dutch Lions        |       7 |
+| 11 |      9 | Sainey Touray     | GAM      | Harrisburg City Islanders |       7 |
+===================Question===================
+how many players from orlando city scored above 8 goals?
+===================Text===================
+<think>
+Okay, so I need to figure out how many players from Orlando City scored more than 8 goals in the 2011 USL Pro season based on the provided table. Let me start by carefully looking at each row and noting the Club and Goals columns.
+
+Starting from the top:
+
+1. Rank 0: Jhonny Arteaga, Club FC New York, 13 goals. Not Orlando.
+2. Rank 1: Matthew Delicâte, Richmond Kickers, 10 goals. Not Orlando.
+3. Rank 2: José Angulo, Harrisburg City Islanders, 9 goals. Not Orlando.
+4. Rank 3: Maxwell Griffin, Orlando City, 9 goals. That's one player from Orlando with exactly 9 goals.
+5. Rank 4: Luke Mulholland, Wilmington Hammerheads, 9 goals. Not Orlando.
+6. Rank 5: Andriy Budnyy, Wilmington Hammerheads, 8 goals. Not Orlando and only 8.
+7. Rank 6: Jamie Watson, Orlando City, 8 goals. Orlando player but exactly 8, not above.
+8. Rank 7: Andrew Welker, Harrisburg City Islanders, 8 goals. Not Orlando.
+9. Rank 8: Chris Banks, Wilmington Hammerheads, 7 goals. Not Orlando.
+10. Rank 9: Sallieu Bundu, Charlotte Eagles, 7 goals. Not Orlando.
+11. Rank 10: George Davis IV, Dayton Dutch Lions, 7 goals. Not Orlando.
+12. Rank 11: Sainey Touray, Harrisburg City Islanders, 7 goals. Not Orlando.
+
+So from the table, I can see that Maxwell Griffin from Orlando City scored 9 goals, which is above 8. Jamie Watson also plays for Orlando but only scored 8 goals, which doesn't qualify as "above 8". Therefore, only one player from Orlando City meets the criteria.
+</think>
+
+Final Answer: Maxwell Griffin
+===================Answer===================
+1

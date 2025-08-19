@@ -1,0 +1,54 @@
+===================Title===================
+List of storms on the Great Lakes
+===================Table===================
+|    | Ship             | Type of Vessel   | Lake          | Location                         | Lives lost   |
+|---:|:-----------------|:-----------------|:--------------|:---------------------------------|:-------------|
+|  0 | Argus            | Steamer          | Lake Huron    | 25 miles off Kincardine, Ontario | 25 lost      |
+|  1 | James Carruthers | Steamer          | Lake Huron    | near Kincardine                  | 18 lost      |
+|  2 | Hydrus           | Steamer          | Lake Huron    | near Lexington, Michigan         | 28 lost      |
+|  3 | Leafield         | Steamer          | Lake Superior | nan                              | all hands    |
+|  4 | John A. McGean   | Steamer          | Lake Huron    | near Goderich, Ontario           | 28 lost      |
+|  5 | Plymouth         | Barge            | Lake Michigan | nan                              | 7 lost       |
+|  6 | Charles S. Price | Steamer          | Lake Huron    | near Port Huron, Michigan        | 28 lost      |
+|  7 | Regina           | Steamer          | Lake Huron    | near Harbor Beach, Michigan      | nan          |
+|  8 | Issac M. Scott   | Steamer          | Lake Huron    | near Port Elgin, Ontario         | 28 lost      |
+|  9 | Henry B. Smith   | Steamer          | Lake Superior | nan                              | all hands    |
+| 10 | Wexford          | Steamer          | Lake Huron    | north of Grand Bend, Ontario     | all hands    |
+| 11 | Lightship No. 82 | Lightship        | Lake Erie     | Point Albino (near Buffalo)      | 6 lost       |
+===================Question===================
+how many more ships were wrecked in lake huron than in erie?
+===================Text===================
+<think>
+Okay, so I need to figure out how many more ships were wrecked in Lake Huron than in Lake Erie based on the given table.
+
+First, I'll look through each row of the table and count the number of ships on each lake. Let's start with Lake Huron. Scanning through the 'Lake' column:
+
+- Row 0: Argus - Lake Huron
+- Row 1: James Carruthers - Lake Huron
+- Row 2: Hydrus - Lake Huron
+- Row 4: John A. McGean - Lake Huron
+- Row 6: Charles S. Price - Lake Huron
+- Row 7: Regina - Lake Huron (though Lives lost is 'nan', but I think that's just missing data, so it still counts as a wreck)
+- Row 8: Issac M. Scott - Lake Huron
+- Row 10: Wexford - Lake Huron
+
+So that's 9 ships in total on Lake Huron.
+
+Now for Lake Erie. Looking through the table:
+
+- Only row 11: Lightship No. 82 is listed under Lake Erie.
+
+So that's just 1 ship wrecked there.
+
+Wait, but looking back at the table, are there any others? Let me check again to make sure I didn't miss any.
+
+No, only one entry for Lake Erie. So, Lake Huron has 9 wrecks and Lake Erie has 1.
+
+To find how many more were wrecked in Huron than Erie, subtract the number on Erie from Huron: 9 - 1 = 8.
+</think>
+
+The difference is calculated by subtracting the number of ships wrecked in Lake Erie from those in Lake Huron.
+
+Final Answer: 8
+===================Answer===================
+7

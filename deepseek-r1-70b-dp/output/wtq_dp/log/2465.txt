@@ -1,0 +1,187 @@
+===================Title===================
+List of international cricket centuries at Eden Gardens
+===================Table===================
+|    |   No. | Score   | Player             | Team         |   Balls |   Inns. | Opposing team   | Date             | Result   |
+|---:|------:|:--------|:-------------------|:-------------|--------:|--------:|:----------------|:-----------------|:---------|
+|  0 |     1 | 123     | Kris Srikkanth     | India        |     103 |       1 | Pakistan        | 18 February 1987 | Lost     |
+|  1 |     2 | 107*    | Desmond Haynes     | West Indies  |     137 |       1 | Pakistan        | 1 November 1989  | Lost     |
+|  2 |     3 | 100*    | Sachin Tendulkar   | India        |     103 |       2 | Kenya           | 31 May 1998      | Won      |
+|  3 |     4 | 121     | Marcus Trescothick | England      |     109 |       2 | India           | 19 January 2002  | Lost     |
+|  4 |     5 | 108*    | Salman Butt        | Pakistan     |     130 |       2 | India           | 13 November 2004 | Won      |
+|  5 |     6 | 134*    | Graeme Smith       | South Africa |     124 |       2 | India           | 25 November 2005 | Won      |
+|  6 |     7 | 118     | Upul Tharanga      | Sri Lanka    |     128 |       1 | India           | 24 December 2009 | Lost     |
+|  7 |     8 | 150*    | Gautam Gambhir     | India        |     137 |       2 | Sri Lanka       | 24 December 2009 | Won      |
+|  8 |     9 | 107     | Virat Kohli        | India        |     114 |       2 | Sri Lanka       | 24 December 2009 | Won      |
+|  9 |    10 | 106     | Ryan ten Doeschate | Netherlands  |     108 |       1 | Ireland         | 18 March 2011    | Lost     |
+| 10 |    11 | 101     | Paul Stirling      | Ireland      |      72 |       2 | Netherlands     | 18 March 2011    | Won      |
+| 11 |    12 | 106     | Nasir Jamshed      | Pakistan     |     124 |       1 | India           | 3 January 2013   | Won      |
+===================Question===================
+how many teams are there that are not also opposing teams?
+===================Text===================
+<think>
+Alright, so I'm trying to figure out how many teams in the given table are not also opposing teams. Let's break this down step by step.
+
+First, I need to understand what the question is asking. It wants to know how many unique teams are playing at Eden Gardens that aren't appearing as opposing teams in any of the matches listed. In other words, I should look for teams that only appear in the "Team" column and never show up in the "Opposing team" column.
+
+Looking at the table provided, each row represents a century scored by a player from a particular team against an opposing team on a specific date with a result. The columns relevant here are "Team" and "Opposing team".
+
+So, my approach should be:
+1. Extract all unique teams from the "Team" column.
+2. Extract all unique opposing teams from the "Opposing team" column.
+3. Compare these two lists to find which teams only appear in the first list but not in the second.
+
+Let's start by listing out the teams from the "Team" column:
+
+- India
+- West Indies
+- Kenya
+- England
+- Pakistan
+- South Africa
+- Sri Lanka
+- Netherlands
+- Ireland
+
+Now, let's look at the opposing teams:
+
+- Pakistan (appears twice)
+- India (appears multiple times)
+- Kenya
+- England
+- India again in different matches
+- Sri Lanka (twice)
+
+Wait, I should list all unique opposing teams. From each row:
+
+Row 0: Pakistan
+Row 1: Pakistan
+Row 2: Kenya
+Row 3: India
+Row 4: India
+Row 5: India
+Row 6: India
+Row 7: Sri Lanka
+Row 8: Sri Lanka
+Row 9: Ireland
+Row 10: Netherlands
+Row 11: India
+
+So the unique opposing teams are:
+
+- Pakistan, Kenya, England (wait, no), wait let me go through each row.
+
+Wait, I think I made a mistake. Let's re-examine each "Opposing team" entry:
+
+Looking back at each row:
+
+0: Opposing team is Pakistan
+1: Opposing team is Pakistan
+2: Opposing team is Kenya
+3: Opposing team is India
+4: Opposing team is India
+5: Opposing team is India
+6: Opposing team is India
+7: Opposing team is Sri Lanka
+8: Opposing team is Sri Lanka
+9: Opposite team is Ireland
+10: Opposing team is Netherlands
+11: Opposing team is India
+
+Wait, so the opposing teams are: Pakistan, Kenya, India, Sri Lanka, Ireland, Netherlands.
+
+So unique opposing teams are:
+
+- Pakistan
+- Kenya
+- India
+- Sri Lanka
+- Ireland
+- Netherlands
+
+Now, looking at the list of "Team" column, which includes:
+
+India, West Indies, Kenya, England, Pakistan, South Africa, Sri Lanka, Netherlands, Ireland.
+
+Wait a second, from the table, let's make sure. Each row's "Team":
+
+0: India
+1: West Indies
+2: India
+3: England
+4: Pakistan
+5: South Africa
+6: Sri Lanka
+7: India
+8: India
+9: Netherlands
+10: Ireland
+11: Pakistan
+
+So the unique teams are:
+
+India, West Indies, Kenya (wait, no, wait, in row 2, Team is India. Wait, actually, looking at the table again, each "Team" entry.
+
+Wait, perhaps I misread earlier. Let me re-express this correctly.
+
+Looking at each row's "Player", "Team":
+
+Row 0: Kris Srikkanth - India
+Row1: Desmond Haynes - West Indies
+Row2: Sachin Tendulkar - India
+Row3: Marcus Trescothick - England
+Row4: Salman Butt - Pakistan
+Row5: Graeme Smith - South Africa
+Row6: Upul Tharanga - Sri Lanka
+Row7: Gautam Gambhir - India
+Row8: Virat Kohli - India
+Row9: Ryan ten Doeschate - Netherlands
+Row10: Paul Stirling - Ireland
+Row11: Nasir Jamshed - Pakistan
+
+So the unique teams in "Team" column are:
+
+India, West Indies, England, Pakistan, South Africa, Sri Lanka, Netherlands, Ireland.
+
+Wait, so that's 8 unique teams. Because Kenya isn't a team here; looking at row2, Sachin played for India against Kenya as opposing team, but Kenya is not a Team in any row. So "Kenya" only appears as an opposing team in one instance (row2), but never as a Team.
+
+Therefore, the Teams are:
+
+India, West Indies, England, Pakistan, South Africa, Sri Lanka, Netherlands, Ireland.
+
+Now, opposing teams from the table are: Pakistan, Kenya, India, Sri Lanka, Ireland, Netherlands.
+
+So now, we need to find which of the "Team" teams do NOT appear in the "Opposing team" list.
+
+Let's go through each Team and check if they appear as an Opposing team:
+
+1. India: Yes, appears multiple times as opposing team (rows 3,4,5,6,11)
+2. West Indies: Not listed as any opposing team. Let me check the opposing teams again. The opposing teams are Pakistan, Kenya, India, Sri Lanka, Ireland, Netherlands. So no, West Indies does not appear as an opposing team.
+3. England: Opposing team? Looking back, in row3, the opposing team is India, and in other rows, I don't see England. Wait, row3's opposing team is India because it was England vs India. So England is a Team but do they ever appear as an opposing team? From the table, no. Because all the "Opposing team" entries are Pakistan, Kenya, India, Sri Lanka, Ireland, Netherlands.
+4. Pakistan: Yes, appears in row0 and row1 as opposing teams, so yes.
+5. South Africa: Not listed as any opposing team because I didn't see it in the opposing team list.
+6. Sri Lanka: Yes, appears in rows 7 and 8 as opposing teams.
+7. Netherlands: Yes, appears as opposing team in row10.
+8. Ireland: Yes, appears as opposing team in row9.
+
+So now, check which "Teams" do NOT appear in "Opposing team":
+
+- West Indies
+- England
+- South Africa
+
+These three Teams are only present as Team and never as Opposing teams.
+
+Therefore, the answer is that these three teams did not face any opponent in the matches listed or weren't opponents to others. But wait, actually, perhaps they were opponents but not captured in this data.
+
+Wait, no, according to the given table, the opposing teams are only Pakistan, Kenya, India, Sri Lanka, Ireland, Netherlands. So if a Team is one of these three (West Indies, England, South Africa), they never appear as an Opposing team in any row.
+
+So the number of Teams that did not appear as Opposing teams would be 3: West Indies, England, and South Africa.
+</think>
+
+The teams that did not face any other team as opponents from the given data are:
+
+West Indies, England, and South Africa. 
+
+**Answer:** West Indies, England, and South Africa did not appear as opposing teams in the provided matches.
+===================Answer===================
+3

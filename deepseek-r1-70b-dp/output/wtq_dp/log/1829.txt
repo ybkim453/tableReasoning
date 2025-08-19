@@ -1,0 +1,35 @@
+===================Title===================
+1956 Winter Olympics
+===================Table===================
+|    |   Rank | Nation        | Gold   |   Silver |   Bronze |   Total |
+|---:|-------:|:--------------|:-------|---------:|---------:|--------:|
+|  0 |      1 | Soviet Union  | *7*    |        3 |        6 |      16 |
+|  1 |      2 | Austria       | 4      |        3 |        4 |      11 |
+|  2 |      3 | Finland       | 3      |        3 |        1 |       7 |
+|  3 |      4 | Switzerland   | 3      |        2 |        1 |       6 |
+|  4 |      5 | Sweden        | 2      |        4 |        4 |      10 |
+|  5 |      6 | United States | 2      |        3 |        2 |       7 |
+|  6 |      7 | Norway        | 2      |        1 |        1 |       4 |
+|  7 |      8 | Italy         | 1      |        2 |        0 |       3 |
+|  8 |      9 | Germany       | 1      |        0 |        1 |       2 |
+|  9 |     10 | Canada        | 0      |        1 |        2 |       3 |
+===================Question===================
+how many gold medals did finland win?
+===================Text===================
+<think>
+Okay, so I need to figure out how many gold medals Finland won at the 1956 Winter Olympics based on this table. Let me take it step by step.
+
+First, looking at the table headers: Rank, Nation, Gold, Silver, Bronze, Total. Each row corresponds to a country's medal count. The numbers under each column show their respective counts.
+
+I need to find Finland's gold medals. So I should look for the row where the Nation is Finland. Scanning through the Nations listed:
+
+- Soviet Union, Austria, Finland... There it is on the third row (index 2). 
+
+Now, looking at the Gold column for Finland. The number under Gold is 3. That means Finland won 3 gold medals.
+
+Just to make sure I'm not making a mistake, I'll double-check that I'm reading the right row and column. Yes, Finland is in position 3 (rank 3), and the Gold number there is indeed 3. So it seems correct.
+</think>
+
+Final Answer: 3
+===================Answer===================
+3

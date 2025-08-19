@@ -1,0 +1,40 @@
+===================Title===================
+Levanger
+===================Table===================
+|    | Parish     | Church name       | Location   |   Year built |
+|---:|:-----------|:------------------|:-----------|-------------:|
+|  0 | Alstadhaug | Alstadhaug Church | Alstadhaug |         1180 |
+|  1 | Ekne       | Ekne Church       | Ekne       |         1893 |
+|  2 | Levanger   | Levanger Church   | Levanger   |         1902 |
+|  3 | Levanger   | Bamberg Church    | Levanger   |         1998 |
+|  4 | Markabygd  | Markabygda Church | Markabygd  |         1887 |
+|  5 | Okkenhaug  | Okkenhaug Chapel  | Okkenhaug  |         1893 |
+|  6 | Ytterøy    | Ytterøy Church    | Ytterøya   |         1890 |
+|  7 | Åsen      | Åsen Church      | Åsen      |         1904 |
+===================Question===================
+how many years after the levanger church was built was the bamberg church built?
+===================Text===================
+<think>
+Okay, so I need to figure out how many years after Levanger Church was built, the Bamberg Church was constructed. Let me look at the table provided.
+
+First, I'll scan through each row until I find the ones related to Levanger and Bamberg Churches. 
+
+Looking at the table:
+
+- Row 2: Parish is Levanger, church name is Levanger Church, year built is 1902.
+- Row 3: Parish is also Levanger, church name is Bamberg Church, year built is 1998.
+
+So Levanger Church was built in 1902 and Bamberg Church in 1998. To find the difference, I subtract 1902 from 1998. 
+
+Let me do that calculation: 1998 minus 1902 equals... let's see, 1998 - 1900 is 98, then plus 2 more years because it's 1902, so total is 96 years.
+
+Wait, no, that might not be right. Let me recalculate. 
+
+Yes, 1998 minus 1902 is indeed 96 years. So Bamberg Church was built 96 years after Levanger Church.
+</think>
+
+The Bamberg Church was built in 1998 and the Levanger Church in 1902. Subtracting these gives a difference of 96 years.
+
+Final Answer: 96
+===================Answer===================
+96

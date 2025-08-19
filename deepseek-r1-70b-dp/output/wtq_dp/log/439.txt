@@ -1,0 +1,77 @@
+===================Title===================
+Austria's Next Topmodel (cycle 4)
+===================Table===================
+|    | Contestant                  |   Age | Height                 | Home City                          | Rank                         |
+|---:|:----------------------------|------:|:-----------------------|:-----------------------------------|:-----------------------------|
+|  0 | Isabelle Raisa              |    16 | 170 cm (5 ft 7 in)     | Vienna                             | Eliminated in Episode 1      |
+|  1 | Alina Chlebecek             |    18 | 170 cm (5 ft 7 in)     | Deutsch-Wagram                     | Eliminated in Episode 1      |
+|  2 | Sabrina Angelika Rauch †    |    21 | 175 cm (5 ft 9 in)     | Graz                               | Eliminated in Episode 2      |
+|  3 | Katharina Mihalović        |    23 | 179 cm (5 ft 10.5 in)  | Vienna                             | Eliminated in Episode 2      |
+|  4 | Nataša Marić              |    16 | 175 cm (5 ft 9 in)     | Liefering (originally from Serbia) | Eliminated in Episode 3      |
+|  5 | Michaela Schopf             |    21 | 172 cm (5 ft 7.5 in)   | Salzburg (originally from Germany) | Quit in Episode 4            |
+|  6 | Christine Riener            |    20 | 181 cm (5 ft 11.25 in) | Bludenz                            | Eliminated in Episode 4      |
+|  7 | Teodora-Mădălina Andreica |    17 | 177 cm (5 ft 9.5 in)   | Romania                            | Eliminated in Episode 6      |
+|  8 | Yemisi Rieger               |    17 | 177 cm (5 ft 9.5 in)   | Vienna                             | Eliminated in Episode 7      |
+|  9 | Izabela Pop Kostić         |    20 | 170 cm (5 ft 7 in)     | Vienna (originally from Bosnia)    | Eliminated in Episode 8      |
+| 10 | Bianca Ebelsberger          |    24 | 179 cm (5 ft 10.5 in)  | Aurach am Hongar                   | Eliminated in Episode 9      |
+| 11 | Nadine Trinker              |    21 | 183 cm (6 ft 0 in)     | Bodensdorf                         | Eliminated in Episode 9      |
+| 12 | Dzejlana "Lana" Baltić     |    20 | 179 cm (5 ft 10.5 in)  | Graz (originally from Bosnia)      | 1st Eliminated in Episode 10 |
+| 13 | Melisa Popanicić           |    16 | 175 cm (5 ft 9 in)     | Wörgl                             | 2nd Eliminated in Episode 10 |
+| 14 | Gina Zeneb Adamu            |    17 | 175 cm (5 ft 9 in)     | Bad Vöslau                        | Runner-Up                    |
+| 15 | Antonia Maria Hausmair      |    16 | 175 cm (5 ft 9 in)     | Siegendorf                         | Winner                       |
+===================Question===================
+which contestants are below age 18?
+===================Text===================
+<think>
+Alright, I need to figure out which contestants from Austria's Next Topmodel (cycle 4) are below the age of 18. Let me start by looking at the table provided. The table has several columns: an index, Contestant name, Age, Height, Home City, and Rank.
+
+First, I should scan through each contestant's age. The goal is to identify anyone who is younger than 18 years old. I'll go row by row.
+
+1. **Isabelle Raisa**: Her age is listed as 16. That's below 18.
+2. **Alina Chlebecek**: She's 18. Wait, the question is about being below 18, so 18 isn't included. So she doesn't qualify.
+3. **Sabrina Angelika Rauch †**: She's 21, which is above 18.
+4. **Katharina Mihalović**: 23 years old, well above 18.
+5. **Nataša Marić**: 16 years old, so she's below 18.
+6. **Michaela Schopf**: She's 21, which is over 18.
+7. **Christine Riener**: 20, also above 18.
+8. **Teodora-Mădălina Andreica**: Her age is 17, so she's below 18.
+9. **Yemisi Rieger**: She's 17, which qualifies as under 18.
+10. **Izabela Pop Kostić**: At 20 years old, she doesn't make the cut.
+11. **Bianca Ebelsberger**: 24, way above 18.
+12. **Nadine Trinker**: 21, so no.
+13. **Dzejlana "Lana" Baltić**: She's 20, not under 18.
+14. **Melisa Popanicić**: Her age is 16, below 18.
+15. **Gina Zeneb Adamu**: 17 years old, which is under 18.
+16. **Antonia Maria Hausmair**: She's 16, so she qualifies.
+
+Wait a minute, I think I went past the table. Let me recount to make sure I didn't miss any or include extra names. The table has 16 contestants, from index 0 to 15. Let me list their ages again quickly:
+
+- Isabelle Raisa: 16
+- Alina Chlebecek: 18
+- Sabrina Rauch:21
+- Katharina Mihalović:23
+- Nataša Marić:16
+- Michaela Schopf:21
+- Christine Riener:20
+- Teodora Andreica:17
+- Yemisi Rieger:17
+- Izabela Pop Kostić:20
+- Bianca Ebelsberger:24
+- Nadine Trinker:21
+- Lana Baltić:20
+- Melisa Popanicić:16
+- Gina Zeneb Adamu:17
+- Antonia Hausmair:16
+
+Now, I'll list only those under 18:
+
+Isabelle Raisa (16), Nataša Marić (16), Teodora Andreica (17), Yemisi Rieger (17), Melisa Popanicić (16), Gina Zeneb Adamu (17), Antonia Hausmair (16). 
+
+Wait, that's 7 contestants. Let me check each name again to see if I counted correctly.
+
+Yes, each of these is under 18. So their names should be the answer.
+</think>
+
+Final Answer: Isabelle Raisa, Nataša Marić, Teodora-Mădălina Andreica, Yemisi Rieger, Melisa Popanicić, Gina Zeneb Adamu, Antonia Maria Hausmair
+===================Answer===================
+Isabelle Raisa,Nataša Marić,Teodora-Mădălina Andreica,Yemisi Rieger,Melisa Popanicić,Gina Zeneb Adamu,Antonia Maria Hausmair

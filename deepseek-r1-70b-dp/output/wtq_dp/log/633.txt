@@ -1,0 +1,59 @@
+===================Title===================
+Israel at the 1972 Summer Olympics
+===================Table===================
+|    | Name                | Sport         | Event                              | Placing         | Performance                                                  |
+|---:|:--------------------|:--------------|:-----------------------------------|:----------------|:-------------------------------------------------------------|
+|  0 | Shaul Ladani        | Athletics     | Men's 50 km walk                   | 19              | 4:24:38.6\n(also entered for 20 km walk, but did not start)  |
+|  1 | Esther Shahamorov   | Athletics     | Women's 100 m                      | Semifinal (5th) | 11.49                                                        |
+|  2 | Esther Shahamorov   | Athletics     | Women's 100 m hurdles              | Semifinal       | Did not start (left Munich before the semifinal)             |
+|  3 | Dan Alon            | Fencing       | Men's foil                         | Second round    | W5–L5 (1R 3-2, 2R 2-3)                                       |
+|  4 | Yehuda Weissenstein | Fencing       | Men's foil                         | Second round    | W2–L8 (1R 2-3, 2R 0-5)                                       |
+|  5 | Yair Michaeli       | Sailing       | Flying Dutchman                    | 23              | 28-22-22-19-25-19-DNS = 171 pts\n(left Kiel before 7th race) |
+|  6 | Itzhak Nir          | Sailing       | Flying Dutchman                    | 23              | 28-22-22-19-25-19-DNS = 171 pts\n(left Kiel before 7th race) |
+|  7 | Henry Hershkowitz   | Shooting      | 50 metre rifle prone               | 23              | 593/600                                                      |
+|  8 | Henry Hershkowitz   | Shooting      | 50 metre rifle three positions     | 46              | 1114/1200                                                    |
+|  9 | Zelig Stroch        | Shooting      | 50 metre rifle prone               | 57              | 589/600                                                      |
+| 10 | Shlomit Nir         | Swimming      | Women's 100 m breaststroke         | Heats (8th)     | 1:20.90                                                      |
+| 11 | Shlomit Nir         | Swimming      | Women's 200 m breaststroke         | Heats (6th)     | 2:53.60                                                      |
+| 12 | David Berger        | Weightlifting | Light-heavyweight <82.5 kg         | —               | J:132.5 C:122.5 S:— T:—                                      |
+| 13 | Ze'ev Friedman      | Weightlifting | Bantamweight <56 kg                | 12              | J:102.5 C:102.5 S:125 T:330                                  |
+| 14 | Yossef Romano       | Weightlifting | Middleweight <75 kg                | —               | (retired injured on third attempt to press 137.5kg)          |
+| 15 | Gad Tsobari         | Wrestling     | Freestyle — Light Flyweight <48 kg | Group stage     | 0W–2L                                                        |
+| 16 | Eliezer Halfin      | Wrestling     | Freestyle — Lightweight <68 kg     | Group stage     | 1W–2L                                                        |
+| 17 | Mark Slavin         | Wrestling     | Greco-Roman — Middleweight <82 kg  | —               | (taken hostage before his scheduled event)                   |
+===================Question===================
+which person retired injured after three attempts in their event?
+===================Text===================
+<think>
+Alright, so I need to figure out which person from the table retired injured after three attempts in their event. Let me go through each entry step by step.
+
+First, looking at the table headers: Name, Sport, Event, Placing, Performance. The key here is to find someone whose performance note mentions retiring injured after three attempts.
+
+Starting with row 0: Shaul Ladani in Athletics, Men's 50 km walk. His placing is 19th and the performance shows a time, no mention of injury.
+
+Row 1: Esther Shahamorov in Women's 100m Athletics. She made it to the semifinals but didn't finish due to leaving early, not an injury.
+
+Row 2: Same person, different event, same reason for not starting—left before the semifinal, so no injury there.
+
+Row 3 and 4 are Dan Alon and Yehuda Weissenstein in Fencing. Their performances are about wins and losses, nothing about injuries.
+
+Next is row 5 and 6: Yair Michaeli and Itzhak Nir in Sailing. They left before the 7th race, but no mention of injury.
+
+Rows 7-9: Henry Hershkowitz and Zelig Stroch in Shooting. Their performances are scores, not indicating any injury retirements.
+
+Row 10 and 11: Shlomit Nir in Swimming. She competed in heats without any note of injury.
+
+Row 12: David Berger in Weightlifting. His performance shows a dash under snatch (S), but no details on injury or retirement.
+
+Row 13: Ze'ev Friedman, also Weightlifting. He has specific lifts and a total, but nothing about an injury causing retirement.
+
+Now, row 14: Yossef Romano, Weightlifting, Middleweight <75 kg. His performance note says he retired injured on his third attempt to press 137.5kg. That's exactly what we're looking for—someone who retired injured after three attempts.
+
+Looking further, rows 15-17 are about Wrestling. Gad Tsobari and Eliezer Halfin have win-loss records, and Mark Slavin was taken hostage, so no injury retirement there.
+
+So the only person matching is Yossef Romano.
+</think>
+
+Final Answer: Yossef Romano
+===================Answer===================
+Yossef Romano

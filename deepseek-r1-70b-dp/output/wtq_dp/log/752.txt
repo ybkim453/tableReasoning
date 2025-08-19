@@ -1,0 +1,32 @@
+===================Title===================
+1955 NFL Draft
+===================Table===================
+|    |   Pick # | NFL Team                             | Player            | Position    | College      |
+|---:|---------:|:-------------------------------------|:------------------|:------------|:-------------|
+|  0 |        1 | Baltimore Colts (Lottery bonus pick) | George Shaw       | Quarterback | Oregon       |
+|  1 |        2 | Chicago Cardinals                    | Max Boydston      | End         | Oklahoma     |
+|  2 |        3 | Baltimore Colts                      | Alan Ameche       | Fullback    | Wisconsin    |
+|  3 |        4 | Washington Redskins                  | Ralph Guglielmi   | Quarterback | Notre Dame   |
+|  4 |        5 | Green Bay Packers                    | Tom Bettis        | Guard       | Purdue       |
+|  5 |        6 | Pittsburgh Steelers                  | Frank Varrichione | Tackle      | Notre Dame   |
+|  6 |        7 | Los Angeles Rams                     | Larry Morris      | Center      | Georgia Tech |
+|  7 |        8 | New York Giants                      | Joe Heap          | Halfback    | Notre Dame   |
+|  8 |        9 | Philadelphia Eagles                  | Dick Bielski      | Fullback    | Maryland     |
+|  9 |       10 | San Francisco 49ers                  | Dickey Moegle     | Halfback    | Rice         |
+| 10 |       11 | Chicago Bears                        | Ron Drzewiecki    | Halfback    | Marquette    |
+| 11 |       12 | Detroit Lions                        | Dave Middleton    | Halfback    | Auburn       |
+| 12 |       13 | Cleveland Browns                     | Kurt Burris       | Center      | Oklahoma     |
+===================Question===================
+which player was picked first?
+===================Text===================
+<think>
+Okay, I need to figure out which player was picked first in the 1955 NFL Draft based on the given table. Let me start by looking at the table structure. It has columns like Pick #, NFL Team, Player, Position, and College.
+
+The picks are numbered starting from 1, so the first pick would be the one with Pick #1. Scanning through the rows, I see that the first row after the header is labeled as Pick #1. The team listed there is the Baltimore Colts, and they have a note saying it's a lottery bonus pick. The player's name in that row is George Shaw, who plays as a Quarterback from Oregon.
+
+I should double-check to make sure I'm not missing anything. Let me count the picks: 1, 2, 3,... up to 13. Yep, Pick #1 is definitely the first one. So the player picked first overall in this draft was George Shaw by the Baltimore Colts.
+</think>
+
+Final Answer: George Shaw
+===================Answer===================
+George Shaw

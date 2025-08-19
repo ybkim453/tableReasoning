@@ -1,0 +1,32 @@
+===================Title===================
+Abraham Lincoln High School (Los Angeles)
+===================Table===================
+|    | School                                     |   2007 |   2008 |   2009 |   2010 |   2011 |
+|---:|:-------------------------------------------|-------:|-------:|-------:|-------:|-------:|
+|  0 | Francisco Bravo Medical Magnet High School |    807 |    818 |    815 |    820 |    832 |
+|  1 | Marc and Eva Stern Math and Science School |    718 |    792 |    788 |    788 |    809 |
+|  2 | Oscar De La Hoya Animo Charter High School |    662 |    726 |    709 |    710 |    744 |
+|  3 | James A. Garfield High School              |    553 |    597 |    593 |    632 |    705 |
+|  4 | Abraham Lincoln High School                |    594 |    609 |    588 |    616 |    643 |
+|  5 | Woodrow Wilson High School                 |    582 |    585 |    600 |    615 |    636 |
+|  6 | Theodore Roosevelt High School             |    557 |    551 |    576 |    608 |    nan |
+|  7 | Thomas Jefferson High School               |    457 |    516 |    514 |    546 |    546 |
+|  8 | Santee Education Complex                   |    nan |    502 |    521 |    552 |    565 |
+===================Question===================
+the api of woodrow wilson was 600 in 2009. what was it the previous year?
+===================Text===================
+<think>
+Okay, so I need to figure out the API score for Woodrow Wilson High School in 2008 based on the given table. Let's look at the table again.
+
+First, find Woodrow Wilson High School in the list. Scanning down the schools: Francisco Bravo, Marc and Eva Stern, Oscar De La Hoya Animo, James A. Garfield, Abraham Lincoln, there it is—Woodrow Wilson as number 5.
+
+Now, check the years from 2007 to 2011. The user mentioned that in 2009, the API was 600. They're asking what the score was the previous year, which would be 2008.
+
+Looking at Woodrow Wilson's row: 582 for 2007, 585 for 2008, 600 for 2009, 615 for 2010, and 636 for 2011. Wait, in 2008, their API was 585, right before the 600 in 2009.
+
+So, the answer should be 585.
+</think>
+
+Final Answer: 585
+===================Answer===================
+585

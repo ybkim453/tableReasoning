@@ -1,0 +1,53 @@
+===================Title===================
+AFL Cairns
+===================Table===================
+|    |   Year | Premiers                        | Score       | Runners Up                      | Score .1   |
+|---:|-------:|:--------------------------------|:------------|:--------------------------------|:-----------|
+|  0 |   2003 | Centrals Trinity Beach Bulldogs | 14.11 (95)  | North Cairns                    | 6.7 (43)   |
+|  1 |   2004 | Port Douglas Crocs              | 17.13 (115) | North Cairns Tigers             | 8.9 (57)   |
+|  2 |   2005 | Port Douglas Crocs              | 19.14 (128) | Cairns Saints                   | 4.11 (35)  |
+|  3 |   2006 | Manunda Hawks                   | 11.11 (77)  | Centrals Trinity Beach Bulldogs | 10.9 (69)  |
+|  4 |   2007 | Centrals Trinity Beach Bulldogs | 14.16 (100) | Cairns Saints                   | 11.2 (68)  |
+|  5 |   2008 | Cairns Saints                   | 12.15 (87)  | North Cairns Tigers             | 2.9 (21)   |
+|  6 |   2009 | South Cairns Cutters            | 9.11 (65)   | Cairns Saints                   | 9.4 (58)   |
+|  7 |   2010 | North Cairns Tigers             | 8.10 (58)   | Port Douglas Crocs              | 8.5 (53)   |
+|  8 |   2011 | Manunda Hawks                   | 11.8 (74)   | Port Douglas Crocs              | 6.9 (45)   |
+|  9 |   2012 | Cairns Saints                   | 17.6 (108)  | North Cairns Tigers             | 11.12 (78) |
+| 10 |   2013 | North Cairns Tigers             | 14.14 (98)  | Port Douglas Crocs              | 13.6 (84)  |
+===================Question===================
+how long between manunda hawks win in 2006 and their next win?
+===================Text===================
+<think>
+Alright, so I need to figure out how long it was between Manunda Hawks' win in 2006 and their next win. Let me start by looking at the table provided.
+
+First, I'll scan through each row to spot where Manunda Hawks are listed as Premiers. From what I see, they won in 2003? Wait no, in 2003 it's Centrals Trinity Beach Bulldogs. Then in 2004, Port Douglas Crocs won. In 2005, again the Crocs won. Ah, here we go: in 2006, Manunda Hawks were the Premiers with a score of 11.11 (77), beating Centrals Trinity Beach Bulldogs who scored 10.9 (69).
+
+Now, I need to find their next win after 2006. Let's check each subsequent year. 
+
+- 2007: Centrals Trinity Beach Bulldogs won.
+- 2008: Cairns Saints took the premiership.
+- 2009: South Cairns Cutters won that year.
+- 2010: North Cairns Tigers were Premiers.
+- 2011: Wait, Manunda Hawks are listed again as Premiers in 2011 with a score of 11.8 (74), defeating Port Douglas Crocs who scored 6.9 (45).
+
+So their next win after 2006 was in 2011. Now I need to calculate the gap between these two years. 
+
+From 2006 to 2011 is five years, right? But wait, sometimes when calculating gaps like this, especially in sports where seasons are annual, you subtract the start year from the end year and that's it. So 2011 minus 2006 equals 5 years. However, I should make sure whether we count each season as a separate year or if it's the number of years between them.
+
+Wait another way: If they won in 2006 and then again in 2011, how many seasons are in between? Let's list them:
+
+- 2006
+- 2007
+- 2008
+- 2009
+- 2010
+- 2011
+
+From 2006 to 2011 inclusive is six years, but the gap between the wins is the number of years after 2006 until they won again. So from 2006 to 2011 is five years in between (2007, 2008, 2009, 2010). Therefore, the time between their 2006 win and their next in 2011 was five years.
+
+I think that's correct because if you count each year after 2006 as one, it's up to 2011, which makes it a span of five years. So the answer should be 5.
+</think>
+
+Final Answer: 5
+===================Answer===================
+5 years

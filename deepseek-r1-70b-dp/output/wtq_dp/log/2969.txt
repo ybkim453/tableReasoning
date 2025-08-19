@@ -1,0 +1,80 @@
+===================Title===================
+David Cleevely
+===================Table===================
+|    | Title                                                                                  |   Year | Authors                                          | Publisher                               | Pages   |
+|---:|:---------------------------------------------------------------------------------------|-------:|:-------------------------------------------------|:----------------------------------------|:--------|
+|  0 | Rural Telecoms Handbook: Equipment and Manufacturers                                   |   1992 | Tim Hills, David Cleevely                        | Analysys Publications                   | -       |
+|  1 | Regional Structure and Telecommunications Demand: A Case Study of Kenya (Ph.D. thesis) |   1982 | D. D. Cleevely                                   | University of Cambridge                 | -       |
+|  2 | The Route to Advanced Communications                                                   |   1991 | David Cleevely, Stefan Stanislawski, Ade Ajibulu | Analysys Publications                   | 178     |
+|  3 | Global Turf Wars: Re-Inventing the Telecoms Operator for the Age of Global Competition |   1999 | Tim Hills, David Cleevely, Andrea Smith          | Analysis Publications                   | 218     |
+|  4 | ATM Vendor & Operator Strategies                                                       |   1993 | David Cleevely, Peter Aknai, Ian Leslie          | Analysis Publications                   | 180     |
+|  5 | The Far Reaching Effects of Broadband                                                  |   2002 | David Cleevely                                   | Institution of Engineering & Technology | 415     |
+|  6 | Regulating the Telecoms Market: Competition and Innovation in the Broadband Economy    |   2003 | Tim Hills, David Cleevely, Ross Pow              | Analysis Publications                   | 35      |
+===================Question===================
+which publisher published the least titles?
+===================Text===================
+<think>
+Okay, I need to figure out which publisher published the least titles based on the given table about David Cleevely's works. Let me start by looking at each row and noting down the publishers.
+
+Looking at the table:
+
+1. Row 0: Publisher is Analysys Publications.
+2. Row 1: University of Cambridge.
+3. Row 2: Analysys Publications again.
+4. Row 3: Analysis Publications. Wait, that's a different spelling—Analysys vs. Analysis. I wonder if they're the same or different companies. Maybe it's a typo, but perhaps they are separate entities since the spellings are different. So, I'll treat them as distinct for now.
+5. Row 4: Analysis Publications again.
+6. Row 5: Institution of Engineering & Technology.
+7. Row 6: Analysis Publications.
+
+Now, let me count how many titles each publisher has:
+
+- Analysys Publications: Rows 0 and 2 → 2 titles.
+- University of Cambridge: Only row 1 → 1 title.
+- Analysis Publications: Rows 3,4,6 → 3 titles. Wait, actually rows 3,4, and 6 are all "Analysis Publications"? Let me check again.
+
+Wait, in the table:
+
+Row 0: Analysys
+Row 2: Analysys
+Row 3: Analysis
+Row 4: Analysis
+Row 6: Analysis
+
+So, yes, that's 2 for Analysys and 3 for Analysis. Then University of Cambridge has 1 title.
+
+Wait, row 5 is Institution of Engineering & Technology with one title.
+
+So now, the counts are:
+
+- Analysys Publications: 2 titles
+- Analysis Publications: 3 titles
+- University of Cambridge: 1 title
+- Institution of Engineering & Technology: 1 title
+
+But wait, I have to make sure if "Analysis" and "Analysys" are different. If they are the same company with a spelling variation, then total would be 5 titles for them, which is more. But in that case, we need to see how many distinct publishers there are.
+
+Wait, looking again:
+
+In row 3: Publisher is "Analysis Publications"
+Row4: "Analysis Publications"
+Row6: "Analysis Publications"
+
+Rows0 and2: "Analysys Publications" (with an 's' after 'lysa')—maybe that's a different company? Or perhaps a typo. If it's the same, then Analysys would have 5 titles (rows 0,2,3,4,6), but that seems unlikely. Alternatively, maybe it's a spelling mistake, and all are from "Analysis Publications". But I think they're two separate entities because of the different names.
+
+So, treating them as separate:
+
+- Analysys: 2
+- Analysis: 3
+- University of Cambridge:1
+- Institution:1
+
+Therefore, the publishers with only 1 title each are University of Cambridge and Institution of Engineering & Technology. So both have the least number of titles, which is 1.
+
+But wait, looking back at row5: Publisher is "Institution of Engineering & Technology" for one title. And row1 is "University of Cambridge", also one title.
+
+So the least number is 1, and two publishers tie for that.
+</think>
+
+Final Answer: University of Cambridge, Institution of Engineering & Technology
+===================Answer===================
+University of Cambridge

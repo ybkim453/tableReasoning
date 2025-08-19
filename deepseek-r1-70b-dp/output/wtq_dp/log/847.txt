@@ -1,0 +1,61 @@
+===================Title===================
+Melissa Morrison-Howard
+===================Table===================
+|    |   Year | Competition                | Venue                       | Position   | Event         |
+|---:|-------:|:---------------------------|:----------------------------|:-----------|:--------------|
+|  0 |   1997 | World Indoor Championships | Paris, France               | 5th        | 60 m hurdles  |
+|  1 |   1997 | USA Outdoor Championships  | Indianapolis, United States | 1st        | 100 m hurdles |
+|  2 |   1998 | Grand Prix Final           | Moscow, Russia              | 2nd        | 100 m hurdles |
+|  3 |   1998 | USA Indoor Championships   | nan                         | 1st        | 60 m hurdles  |
+|  4 |   1999 | World Indoor Championships | Maebashi, Japan             | 6th        | 60 m hurdles  |
+|  5 |   2000 | Olympic Games              | Sydney, Australia           | 3rd        | 100 m hurdles |
+|  6 |   2000 | Grand Prix Final           | Doha, Qatar                 | 4th        | 100 m hurdles |
+|  7 |   2002 | Grand Prix Final           | Paris, France               | 7th        | 100 m hurdles |
+|  8 |   2002 | USA Indoor Championships   | nan                         | 1st        | 60 m hurdles  |
+|  9 |   2003 | World Indoor Championships | Birmingham, England         | 3rd        | 60 m hurdles  |
+| 10 |   2003 | World Athletics Final      | Monaco                      | 6th        | 100 m hurdles |
+| 11 |   2004 | Olympic Games              | Athens, Greece              | 3rd        | 100 m hurdles |
+===================Question===================
+how many total major races has melissa morrison-howard placed first in?
+===================Text===================
+<think>
+Okay, so I need to figure out how many major races Melissa Morrison-Howard has placed first in based on the given table. Let me start by carefully going through each row of the table and noting down the details.
+
+First, looking at the columns: Year, Competition, Venue, Position, Event. My focus is on the "Position" column to find where she placed 1st. I'll go row by row.
+
+Row 0: In 1997 at the World Indoor Championships in Paris, France, she was 5th in the 60m hurdles. Not first place, so I can skip this one.
+
+Row 1: Also in 1997, at the USA Outdoor Championships in Indianapolis, she got 1st in the 100m hurdles. That's a first-place finish, so that's count as one.
+
+Row 2: In 1998, Grand Prix Final in Moscow, Russia, she was 2nd in the 100m hurdles. Not first place here either.
+
+Row 3: Still in 1998, at the USA Indoor Championships, venue is listed as 'nan' which I assume means not available or maybe it's a typo, but the position is 1st in the 60m hurdles. So that's another first-place finish, bringing the count to two.
+
+Moving on to Row 4: 1999 World Indoor Championships in Japan, she was 6th in 60m hurdles. Not applicable here.
+
+Row 5: In 2000 at the Olympic Games in Sydney, Australia, she got 3rd place in the 100m hurdles. That's a bronze medal, not first.
+
+Row 6: Also in 2000, Grand Prix Final in Doha, Qatar, she placed 4th in the same event. Not a win here either.
+
+Row 7: In 2002 at the Grand Prix Final in Paris, France, her position was 7th. Again, not first place.
+
+Row 8: Still in 2002, USA Indoor Championships again with venue 'nan', she was 1st in the 60m hurdles. That's a third time she placed first.
+
+Continuing to Row 9: In 2003 at the World Indoor Championships in Birmingham, England, her position was 3rd place in the 60m hurdles. Not a win here.
+
+Row 10: Also in 2003, World Athletics Final in Monaco, she came in 6th for the 100m hurdles. Again, not first.
+
+Lastly, Row 11: In 2004 at the Olympic Games in Athens, Greece, she placed 3rd in the 100m hurdles. Another bronze, but not a first place.
+
+So compiling all the instances where her position was 1st:
+
+- 1997 USA Outdoor Championships
+- 1998 USA Indoor Championships
+- 2002 USA Indoor Championships
+
+That's three races in total where she placed first.
+</think>
+
+Final Answer: 3
+===================Answer===================
+3

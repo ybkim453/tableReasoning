@@ -1,0 +1,59 @@
+===================Title===================
+1986 Australian Grand Prix
+===================Table===================
+|    | Pos   |   No | Driver             | Constructor            |   Laps | Time/Retired   |   Grid |   Points |
+|---:|:------|-----:|:-------------------|:-----------------------|-------:|:---------------|-------:|---------:|
+|  0 | 1     |    1 | Alain Prost        | McLaren-TAG            |     82 | 1:54:20.388    |      4 |        9 |
+|  1 | 2     |    6 | Nelson Piquet      | Williams-Honda         |     82 | + 4.205        |      2 |        6 |
+|  2 | 3     |   28 | Stefan Johansson   | Ferrari                |     81 | + 1 Lap        |     12 |        4 |
+|  3 | 4     |    3 | Martin Brundle     | Tyrrell-Renault        |     81 | + 1 Lap        |     16 |        3 |
+|  4 | 5     |    4 | Philippe Streiff   | Tyrrell-Renault        |     80 | Out of Fuel    |     10 |        2 |
+|  5 | 6     |   11 | Johnny Dumfries    | Lotus-Renault          |     80 | + 2 Laps       |     14 |        1 |
+|  6 | 7     |   25 | René Arnoux       | Ligier-Renault         |     79 | + 3 Laps       |      5 |      nan |
+|  7 | 8     |   26 | Philippe Alliot    | Ligier-Renault         |     79 | + 3 Laps       |      8 |      nan |
+|  8 | 9     |   14 | Jonathan Palmer    | Zakspeed               |     77 | + 5 Laps       |     21 |      nan |
+|  9 | 10    |   19 | Teo Fabi           | Benetton-BMW           |     77 | + 5 Laps       |     13 |      nan |
+| 10 | NC    |   16 | Patrick Tambay     | Lola-Ford              |     70 | Not Classified |     17 |      nan |
+| 11 | Ret   |    5 | Nigel Mansell      | Williams-Honda         |     63 | Tyre           |      1 |      nan |
+| 12 | Ret   |    7 | Riccardo Patrese   | Brabham-BMW            |     63 | Electrical     |     19 |      nan |
+| 13 | Ret   |    2 | Keke Rosberg       | McLaren-TAG            |     62 | Tyre           |      7 |      nan |
+| 14 | NC    |   22 | Allen Berg         | Osella-Alfa Romeo      |     61 | Not Classified |     26 |      nan |
+| 15 | Ret   |    8 | Derek Warwick      | Brabham-BMW            |     57 | Brakes         |     20 |      nan |
+| 16 | Ret   |   17 | Christian Danner   | Arrows-BMW             |     52 | Engine         |     24 |      nan |
+| 17 | Ret   |   18 | Thierry Boutsen    | Arrows-BMW             |     50 | Engine         |     22 |      nan |
+| 18 | Ret   |   12 | Ayrton Senna       | Lotus-Renault          |     43 | Engine         |      3 |      nan |
+| 19 | Ret   |   23 | Andrea de Cesaris  | Minardi-Motori Moderni |     40 | Mechanical     |     11 |      nan |
+| 20 | Ret   |   20 | Gerhard Berger     | Benetton-BMW           |     40 | Engine         |      6 |      nan |
+| 21 | Ret   |   29 | Huub Rothengatter  | Zakspeed               |     29 | Suspension     |     23 |      nan |
+| 22 | Ret   |   15 | Alan Jones         | Lola-Ford              |     16 | Engine         |     15 |      nan |
+| 23 | Ret   |   24 | Alessandro Nannini | Minardi-Motori Moderni |     10 | Accident       |     18 |      nan |
+| 24 | Ret   |   21 | Piercarlo Ghinzani | Osella-Alfa Romeo      |      2 | Transmission   |     25 |      nan |
+| 25 | Ret   |   27 | Michele Alboreto   | Ferrari                |      0 | Collision      |      9 |      nan |
+===================Question===================
+who is the only driver that ran out of fuel?
+===================Text===================
+<think>
+Okay, so I have this table from the 1986 Australian Grand Prix and need to figure out which driver ran out of fuel. Let me go through it step by step.
+
+First, I'll look at each row in the "Time/Retired" column because that's where the reason for retirement or finishing is noted. I'm looking specifically for the phrase "Out of Fuel".
+
+Starting from the top:
+
+1. The first entry is Alain Prost with time 1:54:20.388, so he finished the race.
+2. Next, Nelson Piquet finished second with a time difference, so no issue there.
+3. Stefan Johansson was +1 lap, meaning he didn't finish all laps but wasn't out of fuel.
+4. Martin Brundle also +1 lap.
+5. Now, looking at row 4 (index 4), Philippe Streiff's "Time/Retired" says "Out of Fuel". That seems to be the one.
+
+Let me check further rows just in case there are multiple instances:
+
+6. Johnny Dumfries was +2 laps, so no fuel issue.
+7. René Arnoux and others were +3 laps or more but that's not related to fuel.
+8. There are several retirees with various issues like Tyre, Electrical, Brakes, Engine, etc., but none of them mention "Out of Fuel".
+
+So, the only driver who ran out of fuel is Philippe Streiff.
+</think>
+
+Final Answer: Philippe Streiff
+===================Answer===================
+Philippe Streiff

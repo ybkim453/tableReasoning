@@ -1,0 +1,54 @@
+===================Title===================
+Ballon d'Or 1965
+===================Table===================
+|    |   Rank | Name                    | Club              | Nationality    |   Points |
+|---:|-------:|:------------------------|:------------------|:---------------|---------:|
+|  0 |      1 | Eusébio                | Benfica           | Portugal       |       67 |
+|  1 |      2 | Giacinto Facchetti      | Internazionale    | Italy          |       59 |
+|  2 |      3 | Luis Suárez            | Internazionale    | Spain          |       45 |
+|  3 |      4 | Paul Van Himst          | Anderlecht        | Belgium        |       25 |
+|  4 |      5 | Bobby Charlton          | Manchester United | England        |       19 |
+|  5 |      6 | Flórián Albert        | Ferencvárosi     | Hungary        |       14 |
+|  6 |      7 | Gianni Rivera           | Milan             | Italy          |       10 |
+|  7 |      8 | Georgi Asparuhov        | Levski Sofia      | Bulgaria       |        9 |
+|  8 |      8 | Alessandro Mazzola      | Internazionale    | Italy          |        9 |
+|  9 |      8 | Valery Voronin          | Torpedo Moskva    | Soviet Union   |        9 |
+| 10 |     11 | Denis Law               | Manchester United | Scotland       |        8 |
+| 11 |     12 | Karl-Heinz Schnellinger | Milan             | West Germany   |        6 |
+| 12 |     13 | Ferenc Puskás          | Real Madrid       | Spain          |        5 |
+| 13 |     13 | Jim Baxter              | Sunderland        | Scotland       |        5 |
+| 14 |     15 | Mario Corso             | Internazionale    | Italy          |        3 |
+| 15 |     15 | Lev Yashin              | Dynamo Moscow     | Soviet Union   |        3 |
+| 16 |     17 | Mário Coluna           | Benfica           | Portugal       |        2 |
+| 17 |     17 | Amancio Amaro           | Real Madrid       | Spain          |        2 |
+| 18 |     17 | Franz Beckenbauer       | Bayern Munich     | West Germany   |        2 |
+| 19 |     17 | Milan Galić            | Partizan Beograd  | Yugoslavia     |        2 |
+| 20 |     17 | Philippe Gondet         | Nantes            | France         |        2 |
+| 21 |     17 | Andrej Kvašňák       | Sparta Praha      | Czechoslovakia |        2 |
+| 22 |     17 | Ferenc Bene             | Ujpest Dozsa      | Hungary        |        2 |
+| 23 |     17 | Slava Metreveli         | Dinamo Tbilisi    | Soviet Union   |        2 |
+| 24 |     25 | Ivor Allchurch          | Cardiff City      | Wales          |        1 |
+| 25 |     25 | Jakob Kühn             | Zürich           | Switzerland    |        1 |
+| 26 |     25 | Sigfried Held           | Borussia Dortmund | West Germany   |        1 |
+===================Question===================
+what is the number of people from spain?
+===================Text===================
+<think>
+Alright, I need to figure out how many people from Spain are in this Ballon d'Or 1965 table. Let me start by looking through each row and checking the Nationality column for "Spain".
+
+Starting from Rank 1: Eusébio is Portuguese, so no. Rank 2: Giacinto Facchetti is Italian. Rank 3: Luis Suárez's nationality is Spain. That's one.
+
+Moving on, Rank 4: Paul Van Himst is Belgian. Rank 5: Bobby Charlton is English. Rank 6: Flórián Albert is Hungarian. Rank 7: Gianni Rivera is Italian. Rank 8: Georgi Asparuhov is Bulgarian. Rank 9: Alessandro Mazzola is Italian. Rank 10: Valery Voronin is Soviet Union.
+
+Next, Rank 11: Denis Law is Scottish. Rank 12: Karl-Heinz Schnellinger is West German. Now, Rank 13: Ferenc Puskás's nationality is Spain. That's the second person from Spain. Rank 14: Jim Baxter is Scottish. Rank 15: Mario Corso is Italian. Rank 16: Lev Yashin is Soviet Union.
+
+Continuing to the lower ranks: Rank 17 has multiple entries, but I need to check each one. Mário Coluna is Portuguese. Amancio Amaro's nationality is Spain. That's the third person from Spain. Franz Beckenbauer is West German. Milan Galić is Yugoslavian. Philippe Gondet is French. Andrej Kvašňák is Czechoslovakian. Ferenc Bene is Hungarian. Slava Metreveli is Soviet Union.
+
+Rank 25: Ivor Allchurch is Welsh. Jakob Kühn is Swiss. Sigfried Held is West German.
+
+So, in total, the Spanish nationals are Luis Suárez from Rank 3, Ferenc Puskás from Rank 13, and Amancio Amaro from Rank 17 (tied). That makes three people from Spain.
+</think>
+
+Final Answer: 3
+===================Answer===================
+3

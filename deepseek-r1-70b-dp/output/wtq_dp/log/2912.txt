@@ -1,0 +1,42 @@
+===================Title===================
+Mudanjiang
+===================Table===================
+|    |   # | Name              | Hanzi   | Hanyu Pinyin     | Population (2003 est.)   | Area (km²)   |   Density (/km²) |
+|---:|----:|:------------------|:--------|:-----------------|:-------------------------|:-------------|-----------------:|
+|  0 |   1 | Aimin District    | 爱民区     | Àimín Qū      | 230,000                  | 359          |              641 |
+|  1 |   2 | Dong'an District  | 东安区     | Dōng'ān Qū    | 180,000                  | 566          |              318 |
+|  2 |   3 | Yangming District | 阳明区     | Yángmíng Qū   | 160,000                  | 358          |              447 |
+|  3 |   4 | Xi'an District    | 西安区     | Xī'ān Qū      | 210,000                  | 325          |              646 |
+|  4 |   5 | Muling City       | 穆棱市     | Mùlíng Shì    | 330,000                  | 6,094        |               54 |
+|  5 |   6 | Suifenhe City     | 绥芬河市    | Suífēnhé Shi  | 60,000                   | 427          |              141 |
+|  6 |   7 | Hailin City       | 海林市     | Hǎilín Shì    | 440,000                  | 9,877        |               45 |
+|  7 |   8 | Ning'an City      | 宁安市     | Níng'ān Shì   | 440,000                  | 7,870        |               56 |
+|  8 |   9 | Dongning County   | 东宁县     | Dōngníng Xiàn | 210,000                  | 7,368        |               29 |
+|  9 |  10 | Linkou County     | 林口县     | Línkǒu Xiàn   | 450,000                  | 7,191        |               63 |
+===================Question===================
+how many divisions have an area of more than 1000 km^2?
+===================Text===================
+<think>
+Alright, so I need to figure out how many divisions in Mudanjiang have an area of more than 1000 km² based on the provided table. Let me start by understanding what each part of the table represents.
+
+The table lists several administrative divisions under Mudanjiang, such as districts and cities. Each row has data including the Name, Hanzi (Chinese characters), Hanyu Pinyin (romanized Chinese), Population in 2003, Area in square kilometers, and Density per km².
+
+My task is to count how many of these divisions have an area exceeding 1000 km². To do this, I'll go through each row one by one and check the "Area (km²)" column.
+
+1. **Aimin District**: The area listed here is 359 km², which is less than 1000.
+2. **Dong'an District**: The area is 566 km², still under 1000.
+3. **Yangming District**: Area is 358 km², so not over 1000.
+4. **Xi'an District**: This one has an area of 325 km², which doesn't meet the criteria either.
+5. **Muling City**: The area here is 6,094 km². That's way more than 1000, so this counts.
+6. **Suifenhe City**: Area is 427 km², below the threshold.
+7. **Hailin City**: This city has an area of 9,877 km², which definitely exceeds 1000.
+8. **Ning'an City**: The area listed is 7,870 km², so this also counts.
+9. **Dongning County**: Area is 7,368 km², exceeding 1000.
+10. **Linkou County**: This one has an area of 7,191 km², which is more than 1000.
+
+Now, I'll count how many met the criteria: Muling City, Hailin City, Ning'an City, Dongning County, and Linkou County. That makes a total of 5 divisions.
+</think>
+
+Final Answer: 5
+===================Answer===================
+5

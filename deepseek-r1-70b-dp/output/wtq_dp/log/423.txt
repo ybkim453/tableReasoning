@@ -1,0 +1,42 @@
+===================Title===================
+George Bush Intercontinental Airport
+===================Table===================
+|    |   Rank | City                  | Passengers   | Top Carriers             |
+|---:|-------:|:----------------------|:-------------|:-------------------------|
+|  0 |      1 | Los Angeles, CA       | 700,000      | American, Spirit, United |
+|  1 |      2 | Chicago, IL           | 673,000      | American, Spirit, United |
+|  2 |      3 | Denver, CO            | 654,000      | Frontier, Spirit, United |
+|  3 |      4 | San Francisco, CA     | 492,000      | United                   |
+|  4 |      5 | Dallas/Fort Worth, TX | 488,000      | American, United         |
+|  5 |      6 | Newark, NJ            | 480,000      | United                   |
+|  6 |      7 | Las Vegas, NV         | 442,000      | Spirit, United           |
+|  7 |      8 | Charlotte, NC         | 441,000      | United, US Airways       |
+|  8 |      9 | Atlanta, GA           | 400,000      | Delta, United            |
+|  9 |     10 | Phoenix, AZ           | 393,000      | United, US Airways       |
+===================Question===================
+which is the only domestic route out of houston intercontinental that has a delta flight?
+===================Text===================
+<think>
+Alright, so I need to figure out which domestic route from Houston Intercontinental Airport (IAH) is operated by Delta. Let me start by looking at the table provided.
+
+The table lists various cities along with their rankings based on the number of passengers and the top carriers serving those routes. Each row represents a different city and the airlines that operate there.
+
+First, I'll go through each city one by one and check if Delta is listed as one of the top carriers. Starting from Rank 1 to Rank 10:
+
+1. **Los Angeles, CA (Rank 1):** The top carriers are American, Spirit, United. No Delta here.
+2. **Chicago, IL (Rank 2):** Carriers include American, Spirit, United. Again, no Delta.
+3. **Denver, CO (Rank 3):** Frontier, Spirit, United are the main carriers. Still no Delta.
+4. **San Francisco, CA (Rank 4):** Only United is listed here. No Delta.
+5. **Dallas/Fort Worth, TX (Rank 5):** American and United operate this route. Not seeing Delta.
+6. **Newark, NJ (Rank 6):** United is the sole carrier mentioned. No Delta.
+7. **Las Vegas, NV (Rank 7):** Spirit and United are the carriers here. No Delta presence.
+8. **Charlotte, NC (Rank 8):** The airlines listed are United and US Airways. Delta isn't here either.
+9. **Atlanta, GA (Rank 9):** Now, this one shows Delta along with United as top carriers.
+10. **Phoenix, AZ (Rank 10):** Carriers are United and US Airways. No Delta.
+
+So, the only city where Delta appears as a top carrier is Atlanta, GA. That means the domestic route from Houston Intercontinental to Atlanta is operated by Delta.
+</think>
+
+Final Answer: Atlanta
+===================Answer===================
+Atlanta, GA

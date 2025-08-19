@@ -1,0 +1,70 @@
+===================Title===================
+Abraham Lincoln High School (Los Angeles)
+===================Table===================
+|    | School                                     |   2007 |   2008 |   2009 |   2010 |   2011 |
+|---:|:-------------------------------------------|-------:|-------:|-------:|-------:|-------:|
+|  0 | Francisco Bravo Medical Magnet High School |    807 |    818 |    815 |    820 |    832 |
+|  1 | Marc and Eva Stern Math and Science School |    718 |    792 |    788 |    788 |    809 |
+|  2 | Oscar De La Hoya Animo Charter High School |    662 |    726 |    709 |    710 |    744 |
+|  3 | James A. Garfield High School              |    553 |    597 |    593 |    632 |    705 |
+|  4 | Abraham Lincoln High School                |    594 |    609 |    588 |    616 |    643 |
+|  5 | Woodrow Wilson High School                 |    582 |    585 |    600 |    615 |    636 |
+|  6 | Theodore Roosevelt High School             |    557 |    551 |    576 |    608 |    nan |
+|  7 | Thomas Jefferson High School               |    457 |    516 |    514 |    546 |    546 |
+|  8 | Santee Education Complex                   |    nan |    502 |    521 |    552 |    565 |
+===================Question===================
+what is the average index of the oscar de la hoya amino charter school?
+===================Text===================
+<think>
+Okay, so I need to find the average index of Oscar De La Hoya Animo Charter High School based on the provided table. Let me start by understanding what’s given.
+
+Looking at the table, each row represents a different school and their respective indices from 2007 to 2011. The school in question is "Oscar De La Hoya Animo Charter High School," which is listed as index number 2.
+
+So, I should focus on row 2. The values given are for the years 2007 through 2011: 662, 726, 709, 710, and 744.
+
+To find the average, I need to add up all these numbers and then divide by how many there are. Let me jot them down:
+
+662 (2007), 726 (2008), 709 (2009), 710 (2010), and 744 (2011).
+
+First, adding them together: 
+
+Start with 662 + 726. That gives 1388.
+
+Next, add 709 to that sum: 1388 + 709 = 2097.
+
+Then, add 710: 2097 + 710 = 2807.
+
+Finally, add 744: 2807 + 744 = 3551.
+
+So the total sum is 3551. Now, since there are five years of data, I divide this by 5 to get the average.
+
+Calculating that: 3551 ÷ 5 equals... let's see, 5 goes into 35 seven times (35), remainder 0. Bring down the 5, making it 5. 5 goes once, so that's 710. Then bring down the 1, making it 1. So 710 with a remainder of 1, which is 0.2 when converted.
+
+Wait, let me double-check my division step by step to avoid mistakes:
+
+3551 divided by 5:
+
+5 into 3: can't do, so consider 35. 5*7=35, write down 7. Subtract 35 from 35, get 0. Bring down the 5: now it's 05.
+
+5 into 5 is exactly 1. Write 1. Multiply 1 by 5 gives 5. Subtract from 05, remainder 0. Bring down the 1: makes it 01.
+
+5 into 1 can't go, so write 0 and add a decimal point. Then, bring down next digit (but there are no more digits), so we have 0.2 as the remaining part.
+
+So putting it together: 710.2. Therefore, the average index is 710.2.
+
+Wait, but let me confirm by another method to be sure I didn't make a calculation error when adding. Maybe I'll add them again:
+
+662 + 726 = 1388
+
+1388 + 709 = 2097 (correct)
+
+2097 + 710 = 2807 (yes)
+
+2807 + 744: Let's see, 2800 + 700 is 3500, and then 7 + 44 is 51. So total is 3551.
+
+Yes, that matches. So dividing by 5 gives me 710.2 as the average.
+</think>
+
+Final Answer: 710.2
+===================Answer===================
+710.2

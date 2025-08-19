@@ -1,0 +1,81 @@
+===================Title===================
+1977 Dallas Cowboys season
+===================Table===================
+|    |   Week | Date         | Result   | Record   | Opponent               |   Points For |   Points Against |   First Downs | Attendance   |
+|---:|-------:|:-------------|:---------|:---------|:-----------------------|-------------:|-----------------:|--------------:|:-------------|
+|  0 |      1 | September 18 | Win      | 1–0      | at Minnesota Vikings   |           16 |               10 |            16 | 47,678       |
+|  1 |      2 | September 25 | Win      | 2–0      | New York Giants        |           41 |               21 |            25 | 64,215       |
+|  2 |      3 | October 2    | Win      | 3–0      | Tampa Bay Buccaneers   |           23 |                7 |            23 | 55,316       |
+|  3 |      4 | October 9    | Win      | 4–0      | at St. Louis Cardinals |           30 |               24 |            22 | 50,129       |
+|  4 |      5 | October 16   | Win      | 5–0      | Washington Redskins    |           34 |               16 |            23 | 62,115       |
+|  5 |      6 | October 23   | Win      | 6–0      | at Philadelphia Eagles |           16 |               10 |            17 | 65,507       |
+|  6 |      7 | October 30   | Win      | 7–0      | Detroit Lions          |           37 |                0 |            20 | 63,160       |
+|  7 |      8 | November 6   | Win      | 8–0      | at New York Giants     |           24 |               10 |            13 | 74,532       |
+|  8 |      9 | November 14  | Loss     | 8–1      | St. Louis Cardinals    |           17 |               24 |            16 | 64,038       |
+|  9 |     10 | November 20  | Loss     | 8–2      | at Pittsburgh Steelers |           13 |               28 |            20 | 49,761       |
+| 10 |     11 | November 27  | Win      | 9–2      | at Washington Redskins |           14 |                7 |            19 | 55,031       |
+| 11 |     12 | December 4   | Win      | 10–2     | Philadelphia Eagles    |           24 |               14 |            19 | 60,289       |
+| 12 |     13 | December 12  | Win      | 11–2     | at San Francisco 49ers |           42 |               35 |            24 | 55,851       |
+| 13 |     14 | December 18  | Win      | 12–2     | Denver Broncos         |           14 |                6 |            15 | 63,752       |
+===================Question===================
+who got the least points against them this season?
+===================Text===================
+<think>
+Okay, so I need to figure out which team got the least points against them during the 1977 Dallas Cowboys season based on the provided table. Let me start by understanding the question: it's asking for the opponent that scored the fewest points against the Cowboys in that season.
+
+First, I'll look at the "Points Against" column because that shows how many points each opponent scored against the Cowboys. My goal is to find the smallest number in that column.
+
+Looking through each week:
+
+- Week 1: 10 points
+- Week 2: 21 points
+- Week 3: 7 points (Hmm, that's pretty low)
+- Week 4: 24 points
+- Week 5: 16 points
+- Week 6: 10 points (Same as week 1)
+- Week 7: 0 points (Wow, that's even lower than 7)
+- Week 8: 10 points again
+- Week 9: 28 points
+- Week 10: 7 points
+- Week 11: 14 points
+- Week 12: 35 points
+- Week 13: 6 points (This is the lowest I've seen so far)
+
+Wait, no, in week 3, it's 7, then in week 7, it drops to 0. But wait, in week 13: 6? No, looking back at week 7, "Points Against" is 0. So that's the lowest. Wait, but let me check all entries.
+
+Wait, in week 14 (which is row 13), "Points Against" is 6. That's lower than 7 and 10, etc. But in week 7, it's 0. That seems to be the absolute minimum because 0 is the lowest possible score.
+
+So I need to check all entries again:
+
+Looking at each row:
+
+1:10
+2:21
+3:7
+4:24
+5:16
+6:10
+7:0
+8:10
+9:28
+10:7
+11:14
+12:35
+13:6
+
+Wait, in week 14 (last row), "Points Against" is 6. So the scores against are: 10,21,7,24,16,10,0,10,28,7,14,35,6.
+
+So the lowest is 0 in week 7 when they played the Detroit Lions. Then next lowest is 6 and 7, etc.
+
+Wait, no, 0 is lower than 6. So the least points against would be 0, which was scored by the Detroit Lions in week 7.
+
+But wait, let me make sure I'm not mixing up anything. The question is about who got the least points against them, meaning which opponent scored the fewest points when playing against Dallas.
+
+So yeah, looking at "Points Against", the smallest number is 0, so that's the Detroit Lions in week 7.
+</think>
+
+The team that scored the least points against the Cowboys was the Detroit Lions with 0 points.
+
+Final Answer: Detroit Lions
+===================Answer===================
+Detroit Lions

@@ -1,0 +1,56 @@
+===================Title===================
+List of radio station callsigns in Tasmania
+===================Table===================
+|    | Callsign   | Area served   |   Frequency | Band   | Fate                                                | Freq currently   | Purpose    |
+|---:|:-----------|:--------------|------------:|:-------|:----------------------------------------------------|:-----------------|:-----------|
+|  0 | 7CAE       | Hobart        |        92.1 | FM     | Changed call to 7THE ca. 1980                       | 7THE             | Community  |
+|  1 | 7DY        | Derby         |       nan   | AM     | Moved to Scottsdale and changed call to 7SD in 1954 | 7SD              | Commercial |
+|  2 | 7EX        | Launceston    |      1008   | AM     | Moved to FM in 2008 as 7EXX                         | silent           | Commercial |
+|  3 | 7HO        | Hobart        |       864   | AM     | Moved to FM in 1990 as 7HHO                         | 7RPH             | Commercial |
+|  4 | 7HT        | Hobart        |      1080   | AM     | Moved to FM in 1998 as 7XXX                         | 7TAB (HPON)      | Commercial |
+|  5 | 7LA        | Launceston    |      1098   | AM     | Moved to FM in 2008 as 7LAA                         | silent           | Commercial |
+|  6 | 7NT        | Launceston    |       711   | AM     | Moved to FM in 2006, retained call                  | silent           | National   |
+|  7 | 7QN        | Queenstown    |       630   | AM     | Moved to FM in 1991, retained call                  | 7RN              | National   |
+|  8 | 7QT        | Queenstown    |       837   | AM     | Changed call to 7XS in 1988                         | 7XS              | Commercial |
+|  9 | 7UV        | Ulverstone    |       nan   | AM     | Moved to Devonport and changed call to 7AD in 1940  | 7AD              | Commercial |
+| 10 | 7ZL        | Hobart        |       603   | AM     | Changed call to 7RN in 1991                         | 7RN              | National   |
+===================Question===================
+what is the callsign of the only community station?
+===================Text===================
+<think>
+Okay, so I have this table about radio station callsigns in Tasmania, and I need to find out which one is the only community station. Let me go through it step by step.
+
+First, I'll look at each row and check the "Purpose" column because that's where it tells whether it's Community or something else. The question asks for the callsign of the only community station, so there should be just one with "Community" in that column.
+
+Looking at the rows:
+
+- Row 0: Purpose is Community. Callsign is 7CAE.
+- Row 1: Commercial
+- Row 2: Commercial
+- Row 3: Commercial
+- Row 4: Commercial
+- Row 5: Commercial
+- Row 6: National
+- Row 7: National
+- Row 8: Commercial
+- Row 9: Commercial
+- Row 10: National
+
+So only row 0 has "Community" as its purpose. The callsign there is 7CAE, but I notice that in the Fate column, it says changed to 7THE around 1980. However, the question is about the current callsign of the community station. Wait, no—the table's Purpose column directly assigns Community to 7CAE, so even though the callsign changed, the original one is still what's associated with being a community station.
+
+Wait, but maybe I'm misunderstanding. The Fate says it changed to 7THE in 1980, but "Freq currently" shows 7THE as well. However, Purpose was Community when it was called 7CAE before the change. So does that mean 7THE is now something else? Because after the change, its purpose might have changed too.
+
+Wait no, looking again: The Fate says Changed call to 7THE ca. 1980. So prior to 1980, it was 7CAE serving as Community. After that, it's called 7THE. But what is 7THE's current purpose? It doesn't have its own row here because this table only lists the original stations.
+
+So perhaps in the current setup, there are no community stations anymore because 7CAE changed to 7THE and maybe 7THE's purpose isn't community. Or maybe the station that was once community is now under a different callsign with a different purpose.
+
+But the question is asking for the callsign of the only community station based on this table, which lists each original station. So in this context, the only one with Purpose as Community is 7CAE. Therefore, even though it changed call signs, its original was 7CAE, which is what's listed here.
+
+So I think the answer is 7CAE.
+</think>
+
+The only community station according to the table is 7CAE.
+
+Final Answer: 7CAE
+===================Answer===================
+7CAE

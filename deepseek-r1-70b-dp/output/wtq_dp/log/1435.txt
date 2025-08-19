@@ -1,0 +1,41 @@
+===================Title===================
+2010–11 PFC CSKA Sofia season
+===================Table===================
+|    | Player              |   League |   Cup |   Europa\nLeague |   Total |
+|---:|:--------------------|---------:|------:|-----------------:|--------:|
+|  0 | Spas Delev          |       13 |     7 |                2 |      22 |
+|  1 | Marquinhos          |        9 |     1 |                3 |      13 |
+|  2 | Michel Platini      |       10 |     0 |                0 |      10 |
+|  3 | Cillian Sheridan    |        4 |     2 |                1 |       7 |
+|  4 | Giuseppe Aquaro     |        3 |     0 |                2 |       5 |
+|  5 | Gregory Nelson      |        3 |     0 |                1 |       4 |
+|  6 | Rumen Trifonov      |        2 |     0 |                1 |       3 |
+|  7 | Aleksandar Tonev    |        2 |     0 |                0 |       2 |
+|  8 | Apostol Popov       |        2 |     0 |                0 |       2 |
+|  9 | Emil Gargorov       |        2 |     0 |                0 |       2 |
+| 10 | Todor Yanchev       |        0 |     1 |                1 |       2 |
+| 11 | Stanislav Kostov    |        1 |     0 |                0 |       1 |
+| 12 | Kostadin Stoyanov   |        1 |     0 |                0 |       1 |
+| 13 | Boris Galchev       |        1 |     0 |                0 |       1 |
+| 14 | Pavel Vidanov       |        0 |     0 |                1 |       1 |
+| 15 | Tomislav Kostadinov |        0 |     0 |                1 |       1 |
+| 16 | Christian Tiboni    |        0 |     0 |                1 |       1 |
+| 17 | Total               |       53 |    11 |               14 |      78 |
+===================Question===================
+did todor yanchev score more or less goals than stanislav kostov?
+===================Text===================
+<think>
+Alright, so I need to figure out whether Todor Yanchev scored more goals than Stanislav Kostov based on the provided table. Let's start by understanding the table structure.
+
+The table lists players along with their goal statistics across different competitions: League, Cup, Europa League, and Total. Each row corresponds to a player, and the numbers under each competition represent how many goals they scored in that competition.
+
+First, I'll locate Todor Yanchev in the table. Scanning through the Player column, I see his name at row 10. Looking at his stats: League shows 0 goals, Cup shows 1 goal, Europa League shows 1 goal, and Total is 2 goals. So, Todor Yanchev scored a total of 2 goals across all competitions.
+
+Next, I'll find Stanislav Kostov in the table, which is at row 11. His stats are: League with 1 goal, Cup with 0, Europa League with 0, and Total of 1 goal. So, Stanislav Kostov scored a total of 1 goal across all competitions.
+
+Comparing the two totals: Todor Yanchev has 2 goals, while Stanislav Kostov has 1. Therefore, Todor Yanchev scored more goals than Stanislav Kostov.
+</think>
+
+Final Answer: Todor Yanchev, Stanislav Kostov
+===================Answer===================
+More

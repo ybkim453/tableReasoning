@@ -1,0 +1,99 @@
+===================Title===================
+Ballon d'Or 1965
+===================Table===================
+|    |   Rank | Name                    | Club              | Nationality    |   Points |
+|---:|-------:|:------------------------|:------------------|:---------------|---------:|
+|  0 |      1 | Eusébio                | Benfica           | Portugal       |       67 |
+|  1 |      2 | Giacinto Facchetti      | Internazionale    | Italy          |       59 |
+|  2 |      3 | Luis Suárez            | Internazionale    | Spain          |       45 |
+|  3 |      4 | Paul Van Himst          | Anderlecht        | Belgium        |       25 |
+|  4 |      5 | Bobby Charlton          | Manchester United | England        |       19 |
+|  5 |      6 | Flórián Albert        | Ferencvárosi     | Hungary        |       14 |
+|  6 |      7 | Gianni Rivera           | Milan             | Italy          |       10 |
+|  7 |      8 | Georgi Asparuhov        | Levski Sofia      | Bulgaria       |        9 |
+|  8 |      8 | Alessandro Mazzola      | Internazionale    | Italy          |        9 |
+|  9 |      8 | Valery Voronin          | Torpedo Moskva    | Soviet Union   |        9 |
+| 10 |     11 | Denis Law               | Manchester United | Scotland       |        8 |
+| 11 |     12 | Karl-Heinz Schnellinger | Milan             | West Germany   |        6 |
+| 12 |     13 | Ferenc Puskás          | Real Madrid       | Spain          |        5 |
+| 13 |     13 | Jim Baxter              | Sunderland        | Scotland       |        5 |
+| 14 |     15 | Mario Corso             | Internazionale    | Italy          |        3 |
+| 15 |     15 | Lev Yashin              | Dynamo Moscow     | Soviet Union   |        3 |
+| 16 |     17 | Mário Coluna           | Benfica           | Portugal       |        2 |
+| 17 |     17 | Amancio Amaro           | Real Madrid       | Spain          |        2 |
+| 18 |     17 | Franz Beckenbauer       | Bayern Munich     | West Germany   |        2 |
+| 19 |     17 | Milan Galić            | Partizan Beograd  | Yugoslavia     |        2 |
+| 20 |     17 | Philippe Gondet         | Nantes            | France         |        2 |
+| 21 |     17 | Andrej Kvašňák       | Sparta Praha      | Czechoslovakia |        2 |
+| 22 |     17 | Ferenc Bene             | Ujpest Dozsa      | Hungary        |        2 |
+| 23 |     17 | Slava Metreveli         | Dinamo Tbilisi    | Soviet Union   |        2 |
+| 24 |     25 | Ivor Allchurch          | Cardiff City      | Wales          |        1 |
+| 25 |     25 | Jakob Kühn             | Zürich           | Switzerland    |        1 |
+| 26 |     25 | Sigfried Held           | Borussia Dortmund | West Germany   |        1 |
+===================Question===================
+what was the average number of points scored by italians?
+===================Text===================
+<think>
+Okay, so I need to find the average number of points scored by Italian players in the 1965 Ballon d'Or rankings. Let me go through this step by step.
+
+First, looking at the table, each row lists a player's rank, name, club, nationality, and points. My goal is to extract all the Italian players and calculate their average points.
+
+I'll start by going through each row one by one and noting down the points for players with Nationality as Italy.
+
+Row 0: Eusebio from Portugal - not Italian.
+Row 1: Giacinto Facchetti from Italy. Points:59
+Row2:Luis Suarez from Spain - nope
+Row3:Paul Van Himst Belgium - nope
+Row4:Bobby Charlton England - no
+Row5:Flórián Albert Hungary 
+Wait, no, his club is Ferencvarosi but he's Hungarian.
+Row6:Gianni Rivera Italy. Points:10
+Row7:Georgi Asparuhov Bulgaria
+Row8:Alessandro Mazzola Italy. Points:9
+Also, in row 8, same points as others? Wait, the table shows that rank 8 is shared by multiple players with 9 points each.
+Wait, looking at row 6, it's Gianni Rivera from Italy with 10 points.
+Row8: Alessandro Mazzola (Italy) and two others from Soviet Union and Bulgaria. So his points are 9.
+
+Then, checking further down:
+Row14: Mario Corso, club Internazionale, nationality Italy. Points:3
+I should check if there are any more Italian players beyond this.
+
+Looking at the next rows:
+
+Row15: Lev Yashin from Soviet Union - not Italian.
+Rows16-25: Mário Coluna (Portugal), Amancio (Spain), Franz Beckenbauer (West Germany), Milan Galić (Yugoslavia), Philippe Gondet (France), etc. So no more Italians beyond Mario Corso.
+
+So the Italian players in this table are:
+1. Giacinto Facchetti - 59 points
+2. Gianni Rivera -10 points
+3. Alessandro Mazzola -9 points
+4. Mario Corso -3 points
+
+Wait, did I miss any others? Let me go through each row again to make sure.
+
+Row0-5: No other Italians.
+Row6: Gianni Rivera (Italy)
+Row7: Not Italian
+Row8: Alessandro Mazzola (Italy)
+Then rows 9-13: non-Italians
+Row14: Mario Corso (Italy)
+Rows15-26: Only Facchetti, Rivera, Mazzola, Corso.
+
+So total of four players. Now I need to sum their points and divide by the number of players to get the average.
+
+Calculating total points:
+59 +10 =69; 69+9=78; 78+3=81.
+
+Total points:81
+Number of Italian players:4
+
+Average = 81 /4 =20.25
+
+So, the average is 20.25.
+</think>
+
+The average number of points scored by Italians is calculated by summing their total points (59 + 10 + 9 + 3) and dividing by the number of Italian players (4), resulting in an average of 20.25.
+
+Final Answer: 20.25
+===================Answer===================
+20.25

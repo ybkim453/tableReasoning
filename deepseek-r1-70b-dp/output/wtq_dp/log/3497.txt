@@ -1,0 +1,83 @@
+===================Title===================
+List of football stadiums in France
+===================Table===================
+|    |   # | Stadium                          | Capacity   | City              | Region                      | Home Team                     |   Opened |
+|---:|----:|:---------------------------------|:-----------|:------------------|:----------------------------|:------------------------------|---------:|
+|  0 |   1 | Stade de France                  | 81,338     | Paris             | Île-de-France              | France national football team |     1998 |
+|  1 |   2 | Stade Vélodrome                 | 60,013     | Marseille         | Provence-Alpes-Côte d'Azur | Olympique de Marseille        |     1937 |
+|  2 |   3 | Grand Stade Lille Métropole     | 50,186     | Villeneuve-d'Ascq | Nord-Pas-de-Calais          | Lille OSC                     |     2012 |
+|  3 |   4 | Parc des Princes                 | 48,712     | Paris             | Île-de-France              | Paris Saint-Germain FC        |     1897 |
+|  4 |   5 | Stade Félix Bollaert            | 41,233     | Lens              | Nord-Pas-de-Calais          | RC Lens                       |     1932 |
+|  5 |   6 | Stade Gerland                    | 41,044     | Lyon              | Rhône-Alpes                | Olympique Lyonnais            |     1926 |
+|  6 |   7 | Stade de la Beaujoire            | 38,285     | Nantes            | Pays de la Loire            | FC Nantes Atlantique          |     1984 |
+|  7 |   8 | Stade Geoffroy-Guichard          | 37,587     | Saint-Étienne    | Rhône-Alpes                | AS Saint-Étienne             |     1931 |
+|  8 |   9 | Allianz Riviera                  | 35,624     | Nice              | Provence-Alpes-Côte d'Azur | OGC Nice                      |     2013 |
+|  9 |  10 | Stadium Municipal                | 35,575     | Toulouse          | Midi-Pyrénées             | Toulouse FC                   |     1937 |
+| 10 |  11 | Stade Chaban-Delmas              | 34,462     | Bordeaux          | Aquitaine                   | FC Girondins de Bordeaux      |     1938 |
+| 11 |  12 | Stade de la Mosson               | 32,939     | Montpellier       | Languedoc-Roussillon        | Montpellier HSC               |     1972 |
+| 12 |  13 | Stade de la Route de Lorient     | 31,127     | Rennes            | Brittany                    | Stade Rennais FC              |     1912 |
+| 13 |  14 | Stade de la Meinau               | 29,230     | Strasbourg        | Alsace                      | RC Strasbourg                 |     1914 |
+| 14 |  15 | Stade Municipal Saint-Symphorien | 26,700     | Metz              | Lorraine                    | FC Metz                       |     1923 |
+| 15 |  16 | Grand Stade du Havre             | 25,178     | Le Havre          | Upper Normandy              | Le Havre AC                   |     2012 |
+| 16 |  17 | MMArena                          | 25,000     | Le Mans           | Pays de la Loire            | Le Mans UC                    |     2011 |
+| 17 |  18 | Stade du Hainaut                 | 24,926     | Valenciennes      | Nord-Pas-de-Calais          | Valenciennes FC               |     2011 |
+| 18 |  19 | Stade de l'Abbé-Deschamps       | 23,467     | Auxerre           | Bourgogne                   | AJ Auxerre                    |     1918 |
+| 19 |  20 | Stade Louis Dugauguez            | 23,189     | Sedan             | Champagne-Ardenne           | Club Sportif Sedan Ardennes   |     2000 |
+| 20 |  21 | Stade Auguste-Delaune            | 21,684     | Reims             | Champagne-Ardenne           | Stade Reims                   |     1935 |
+| 21 |  22 | Stade Michel d'Ornano            | 21,500     | Caen              | Lower Normandy              | Stade Malherbe Caen           |     1993 |
+| 22 |  23 | Stade de l'Aube                  | 20,400     | Troyes            | Champagne-Ardenne           | Troyes AC                     |     1956 |
+| 23 |  24 | Stade Marcel Picot               | 20,087     | Tomblaine         | Lorraine                    | AS Nancy                      |     1926 |
+| 24 |  25 | Stade des Alpes                  | 20,068     | Grenoble          | Rhône-Alpes                | Grenoble Foot 38              |     2008 |
+| 25 |  26 | Stade Auguste Bonal              | 20,025     | Montbéliard      | Franche-Comté              | FC Sochaux-Montbéliard       |     2000 |
+| 26 |  27 | Stade Sébastien Charléty       | 20,000     | Paris             | Île-de-France              | Paris FC                      |     1938 |
+===================Question===================
+what is the number of stadiums that opened before 1920?
+===================Text===================
+<think>
+Okay, so I need to figure out how many stadiums in France opened before 1920 based on this table. Let me start by looking at the 'Opened' column for each stadium and check if the year is before 1920.
+
+Let's go through each row one by one:
+
+1. Stade de France opened in 1998. That's way after 1920, so no.
+2. Stade Vélodrome opened in 1937. Still after 1920.
+3. Grand Stade Lille Métropole opened in 2012. Definitely later.
+4. Parc des Princes was opened in 1897. Okay, that's before 1920, so count this one.
+5. Stade Félix Bollaert opened in 1932. After 1920.
+6. Stade Gerland opened in 1926. That's just after 1920? Wait, 1926 is after 1920, so no.
+7. Stade de la Beaujoire was opened in 1984. Later.
+8. Stade Geoffroy-Guichard opened in 1931. After 1920.
+9. Allianz Riviera opened in 2013. Much later.
+10. Stadium Municipal opened in 1937. After 1920.
+11. Stade Chaban-Delmas opened in 1938. Also after.
+12. Stade de la Mosson was opened in 1972. Later.
+13. Stade de la Route de Lorient opened in 1912. That's before 1920, so count this one too.
+14. Stade de la Meinau opened in 1914. Before 1920, so another one to add.
+15. Stade Municipal Saint-Symphorien was opened in 1923. After 1920.
+16. Grand Stade du Havre opened in 2012. Later.
+17. MMArena opened in 2011. Later.
+18. Stade du Hainaut opened in 2011. Later.
+19. Stade de l'Abbé-Deschamps was opened in 1918. That's before 1920, so count it.
+20. Stade Louis Dugauguez opened in 2000. Later.
+21. Stade Auguste-Delaune opened in 1935. After.
+22. Stade Michel d'Ornano opened in 1993. Later.
+23. Stade de l'Aube opened in 1956. Later.
+24. Stade Marcel Picot was opened in 1926. So, after.
+25. Stade des Alpes opened in 2008. Later.
+26. Stade Auguste Bonal opened in 2000. Later.
+27. Stade Sébastien Charléty opened in 1938. After.
+
+Wait, let me recount the ones before 1920:
+
+- Parc des Princes (1897)
+- Stade de la Route de Lorient (1912)
+- Stade de la Meinau (1914)
+- Stade de l'Abbé-Deschamps (1918)
+
+So that's four stadiums in total. Are there any others I might have missed?
+
+Looking back through the list, no, those are the only ones with opening years before 1920.
+</think>
+
+Final Answer: Parc des Princes, Stade de la Route de Lorient, Stade de la Meinau, Stade de l'Abbé-Deschamps
+===================Answer===================
+4

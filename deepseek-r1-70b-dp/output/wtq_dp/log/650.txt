@@ -1,0 +1,36 @@
+===================Title===================
+2000 Chicago Bears season
+===================Table===================
+|    |   Round |   Pick | Name           | Position   | College            |
+|---:|--------:|-------:|:---------------|:-----------|:-------------------|
+|  0 |       1 |      9 | Brian Urlacher | S          | New Mexico         |
+|  1 |       2 |     39 | Mike Brown     | S          | Nebraska           |
+|  2 |       3 |     69 | Dez White      | WR         | Georgia Tech       |
+|  3 |       3 |     87 | Dustin Lyman   | TE         | Wake Forest        |
+|  4 |       4 |    125 | Reggie Austin  | DB         | Wake Forest        |
+|  5 |       6 |    170 | Frank Murphy   | WR         | Kansas State       |
+|  6 |       6 |    174 | Paul Edinger   | K          | Michigan State     |
+|  7 |       7 |    223 | James Cotton   | DE         | Ohio State         |
+|  8 |       7 |    254 | Michael Green  | S          | Northwestern State |
+===================Question===================
+only one player was drafted in the first round - what is his name?
+===================Text===================
+<think>
+Alright, so I need to figure out which player was drafted in the first round by the Chicago Bears in 2000 based on the provided table. Let me start by looking at the table structure and entries.
+
+The table has columns: Round, Pick, Name, Position, College. There are 9 rows, each representing a different pick in the draft. My goal is to find the player selected in the first round.
+
+I remember that in the NFL Draft, the first round consists of picks 1 through 32 (or sometimes more depending on compensatory picks). So I'm looking for any row where the Round is 1 and the Pick number falls within this range.
+
+Looking at the table:
+
+- The first row has Round=1, Pick=9, Name=Brian Urlacher. That's definitely a first-round pick since 9 is within 1-32.
+- Then in Round=2, Pick=39 (Mike Brown), which is second round.
+- Next rounds go from 3 to 7.
+
+So the only player with Round=1 is Brian Urlacher at Pick 9. Therefore, he's the one drafted in the first round.
+</think>
+
+Final Answer: Brian Urlacher
+===================Answer===================
+Brian Urlacher

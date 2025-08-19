@@ -1,0 +1,64 @@
+===================Title===================
+Kingston Transit
+===================Table===================
+|    | Route   | Destinations                                          | Via                                                | Frequency\n(minutes)   | Peak Hours Only   | Former                      |
+|---:|:--------|:------------------------------------------------------|:---------------------------------------------------|:-----------------------|:------------------|:----------------------------|
+|  0 | 1       | Montreal Street\nSt. Lawrence College                 | Downtown                                           | 30                     | nan               | Cataraqui Town Centre-Woods |
+|  1 | 2       | Kingston Centre\nDivision Street                      | St. Lawrence College\nDowntown                     | 30                     | nan               | nan                         |
+|  2 | 3       | Kingston Centre\nDowntown                             | Queen Mary Road\nSt. Lawrence College\nKing Street | 30                     | nan               | nan                         |
+|  3 | 4       | Princess Street                                       | Cataraqui Town Centre\nDowntown                    | 30                     | nan               | nan                         |
+|  4 | 6       | Cataraqui Town Centre\nSt. Lawrence College           | Gardiners Town Centre                              | 30                     | nan               | Downtown                    |
+|  5 | 7       | Dalton/Division\nMidland/Gardiners                    | Cataraqui Town Centre\nTrain Station\nBus Terminal | 30                     | nan               | nan                         |
+|  6 | 9       | Downtown\nCataraqui Town Centre                       | Brock St. / Barrie St.\nGardiners Town Centre      | 20                     | nan               | nan                         |
+|  7 | 10      | Amherstview\nCataraqui Town Centre                    | Collins Bay Road                                   | 30                     | nan               | Kingston Centre             |
+|  8 | 11      | Kingston Centre\nCataraqui Town Centre                | Bath Road\nGardiners Town Centre                   | 30                     | nan               | (formerly Route 71)         |
+|  9 | 12      | Kingston Centre\nHighway 15                           | Downtown\nCFB Kingston (off-peak only)             | 30                     | nan               | -                           |
+| 10 | 12A     | CFB Kingston\nDowntown                                | nan                                                | 30                     | X                 | nan                         |
+| 11 | 18      | Train Station\nBus Terminal                           | Downtown\nQueen's University\nSt. Lawrence College | *                      | nan               | Student Circuit             |
+| 12 | 19      | Montreal Street\nQueen's University                   | Downtown                                           | 30                     | X                 | nan                         |
+| 13 | 14      | Train Station\nCataraqui Town Centre / Midland Avenue | Waterloo-Davis\nMultiplex                          | 30                     | nan               | (formerly Route A)          |
+| 14 | 15      | Reddendale\nCataraqui Town Centre - Woods             | Gardiners Town Centre                              | 30                     | nan               | (formerly Route B)          |
+| 15 | 16      | Train Station\nBus Terminal                           | Kingston Centre                                    | 30                     | nan               | (formerly Route C)          |
+===================Question===================
+how many times is the cataraqui town centre listed as a destination?
+===================Text===================
+<think>
+Alright, I need to figure out how many times Cataraqui Town Centre is listed as a destination based on the provided table. Let me start by looking at each row and checking the "Destinations" column for mentions of Cataraqui Town Centre.
+
+Starting from the top:
+
+- Route 1: Destinations are Montreal Street and St. Lawrence College. No mention here.
+- Route 2: Kingston Centre and Division Street. Not relevant.
+- Route 3: Kingston Centre and Downtown. Nope.
+- Route 4: Only Princess Street listed. Doesn't include Cataraqui Town Centre as a destination.
+  
+Now, moving to Route 6 (index 4): Destinations are Cataraqui Town Centre and St. Lawrence College. That's one mention.
+
+Route 7 (index 5): Destinations are Dalton/Division and Midland/Gardiners. No mention here.
+
+Route 9 (index 6): Destinations are Downtown and Cataraqui Town Centre. Another mention, that's two.
+
+Route 10 (index 7): Amherstview and Cataraqui Town Centre. Third mention.
+
+Route 11 (index 8): Kingston Centre and Cataraqui Town Centre. Fourth time it appears as a destination.
+
+Looking at Route 12A (index 9): CFB Kingston and Downtown, so no.
+
+Route 18 (index 10): Destinations are Train Station and Bus Terminal. Not here.
+
+Route 19 (index 11): Montreal Street and Queen's University. No mention of Cataraqui Town Centre.
+
+Route 14 (index 12): Train Station and Cataraqui Town Centre/Midland Avenue. That's the fifth instance.
+
+Route 15 (index 13): Reddendale and Cataraqui Town Centre - Woods. Sixth time it appears as a destination.
+
+Route 16 (index 14): Again, Train Station and Bus Terminal. Not relevant.
+
+So adding them up: Routes 6, 9, 10, 11, 14, and 15 mention Cataraqui Town Centre in the Destinations column. That makes six times total.
+</think>
+
+The Cataraqui Town Centre is listed as a destination 6 times in the table.
+
+Final Answer: 6
+===================Answer===================
+6

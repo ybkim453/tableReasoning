@@ -1,0 +1,45 @@
+===================Title===================
+Toy safety
+===================Table===================
+|    |   Year | Injuries (US $000)   |   Deaths (age <15) | CPSC toy safety funding\n(US$ Millions)   |   Toy sales\n(US $ Billions) |
+|---:|-------:|:---------------------|-------------------:|:------------------------------------------|-----------------------------:|
+|  0 |   1994 | 154                  |                nan | nan                                       |                        nan   |
+|  1 |   1995 | 139                  |                nan | nan                                       |                        nan   |
+|  2 |   1996 | 130                  |                nan | nan                                       |                        nan   |
+|  3 |   1997 | 141                  |                nan | nan                                       |                        nan   |
+|  4 |   1998 | 153                  |                 14 | nan                                       |                        nan   |
+|  5 |   1999 | 152                  |                 16 | 13.6                                      |                        nan   |
+|  6 |   2000 | 191                  |                 17 | 12.0                                      |                        nan   |
+|  7 |   2001 | 255                  |                 25 | 12.4                                      |                        nan   |
+|  8 |   2002 | 212                  |                 13 | 12.2                                      |                         21.3 |
+|  9 |   2003 | 206                  |                 11 | 12.8                                      |                         20.7 |
+| 10 |   2004 | 210                  |                 16 | 11.5                                      |                         22.4 |
+| 11 |   2005 | 202 (estimate)       |                 20 | 11.0                                      |                         22.2 |
+| 12 |   2006 | no data              |                 22 | no data†                                  |                         22.3 |
+| 13 |   2007 | no data              |                 22 | no data                                   |                        nan   |
+| 14 |   2008 | no data              |                 19 | no data                                   |                        nan   |
+| 15 |   2009 | no data              |                 12 | no data                                   |                        nan   |
+===================Question===================
+what were the total number of deaths in 2003?
+===================Text===================
+<think>
+Alright, so I'm trying to figure out how many deaths there were in 2003 based on this table about toy safety. Let me start by looking at the structure of the table. It has several columns: Year, Injuries (in thousands), Deaths for those under 15, CPSC toy safety funding in millions, and Toy sales in billions.
+
+I notice that each row represents a different year, starting from 1994 up to 2009. The rows are indexed from 0 to 15. My goal is to find the number of deaths in 2003, so I need to locate the row corresponding to that year.
+
+Looking at the table, the years go in order: 1994, 1995, ..., up to 2009. So, each subsequent row increments by one year. To find 2003, I can count the rows starting from 0 as 1994. Let's see: Row 0 is 1994, so adding 9 years would bring us to Row 9 for 2003.
+
+Now, checking Row 9, which should be the year 2003, let's look at the Deaths (age <15) column. The entry there is 11. That seems straightforward—no NA or 'no data' markers. So, in 2003, there were 11 deaths related to toys among children under the age of 15.
+
+I should double-check to make sure I didn't miscount the rows. Starting from 1994 as Row 0:
+- Row 0: 1994
+- Row 1: 1995
+- ...
+- Row 9: 2003
+
+Yes, that aligns correctly. So, the Deaths column for 2003 is indeed 11.
+</think>
+
+Final Answer: 11
+===================Answer===================
+11

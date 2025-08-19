@@ -1,0 +1,78 @@
+===================Title===================
+Toy safety
+===================Table===================
+|    |   Year | Injuries (US $000)   |   Deaths (age <15) | CPSC toy safety funding\n(US$ Millions)   |   Toy sales\n(US $ Billions) |
+|---:|-------:|:---------------------|-------------------:|:------------------------------------------|-----------------------------:|
+|  0 |   1994 | 154                  |                nan | nan                                       |                        nan   |
+|  1 |   1995 | 139                  |                nan | nan                                       |                        nan   |
+|  2 |   1996 | 130                  |                nan | nan                                       |                        nan   |
+|  3 |   1997 | 141                  |                nan | nan                                       |                        nan   |
+|  4 |   1998 | 153                  |                 14 | nan                                       |                        nan   |
+|  5 |   1999 | 152                  |                 16 | 13.6                                      |                        nan   |
+|  6 |   2000 | 191                  |                 17 | 12.0                                      |                        nan   |
+|  7 |   2001 | 255                  |                 25 | 12.4                                      |                        nan   |
+|  8 |   2002 | 212                  |                 13 | 12.2                                      |                         21.3 |
+|  9 |   2003 | 206                  |                 11 | 12.8                                      |                         20.7 |
+| 10 |   2004 | 210                  |                 16 | 11.5                                      |                         22.4 |
+| 11 |   2005 | 202 (estimate)       |                 20 | 11.0                                      |                         22.2 |
+| 12 |   2006 | no data              |                 22 | no data†                                  |                         22.3 |
+| 13 |   2007 | no data              |                 22 | no data                                   |                        nan   |
+| 14 |   2008 | no data              |                 19 | no data                                   |                        nan   |
+| 15 |   2009 | no data              |                 12 | no data                                   |                        nan   |
+===================Question===================
+how many injuries were reported in the year that toy safety funding was reported at its lowest?
+===================Text===================
+<think>
+Okay, so I need to figure out how many injuries were reported in the year when the toy safety funding was at its lowest. Let me start by looking carefully at the table provided.
+
+First, I see that there's a column for "CPSC toy safety funding (US$ Millions)". My goal is to find the year with the smallest number in this column and then check the corresponding injuries for that year.
+
+Let me list out the years along with their funding amounts:
+
+- 1994: nan
+- 1995: nan
+- 1996: nan
+- 1997: nan
+- 1998: nan
+- 1999: 13.6
+- 2000: 12.0
+- 2001: 12.4
+- 2002: 12.2
+- 2003: 12.8
+- 2004: 11.5
+- 2005: 11.0
+- 2006: no data†
+- 2007: no data
+- 2008: no data
+- 2009: no data
+
+Wait, the years before 1999 have "nan", which I think means that there's no data available for those years regarding funding. So I can only consider from 1999 onwards.
+
+Now, looking at the numbers:
+
+- 1999: 13.6
+- 2000: 12.0
+- 2001: 12.4
+- 2002: 12.2
+- 2003: 12.8
+- 2004: 11.5
+- 2005: 11.0
+
+I need to find the minimum value here. Let's compare them:
+
+Starting from 1999, each year's funding is as listed. The smallest number is in 2005 with 11.0 million.
+
+So, the lowest toy safety funding was reported in 2005.
+
+Now, I have to check how many injuries were reported that same year, 2005.
+
+Looking back at the table:
+
+- 2005: Injuries are listed as 202 (estimate).
+
+Therefore, the number of injuries in the year with the lowest funding is 202.
+</think>
+
+Final Answer: 202
+===================Answer===================
+202 (estimate)

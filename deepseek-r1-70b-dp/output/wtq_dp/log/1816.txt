@@ -1,0 +1,123 @@
+===================Title===================
+List of awards and nominations received by Charlie Sheen
+===================Table===================
+|    |   Year | Result    | Award                                                                                      | Film                 |
+|---:|-------:|:----------|:-------------------------------------------------------------------------------------------|:---------------------|
+|  0 |   1989 | Won       | Bronze Wrangler Theatrical Motion Picture                                                  | Young Guns           |
+|  1 |   1999 | Nominated | SAG Award Outstanding Performance by a Cast in a Theatrical Motion Picture                 | Being John Malkovich |
+|  2 |   1999 | Nominated | Online Film Critics Society Award for Best Cast                                            | Being John Malkovich |
+|  3 |   2001 | Nominated | ALMA Award Outstanding Actor in a Television Series                                        | Spin City            |
+|  4 |   2002 | Nominated | ALMA Award Outstanding Actor in a Television Series                                        | Spin City            |
+|  5 |   2002 | Won       | Golden Globe Award Best Performance by an Actor in a Television Series - Musical or Comedy | Spin City            |
+|  6 |   2002 | Nominated | Kids' Choice Awards Favorite Television Actor                                              | Two and a Half Men   |
+|  7 |   2005 | Nominated | SAG Award Outstanding Performance by a Male Actor in a Comedy Series                       | Two and a Half Men   |
+|  8 |   2005 | Nominated | Golden Globe Award for Best Actor – Television Series Musical or Comedy                    | Two and a Half Men   |
+|  9 |   2006 | Won       | Golden Icon Award Best Actor - Comedy Series                                               | Two and a Half Men   |
+| 10 |   2006 | Nominated | Emmy Award for Outstanding Lead Actor - Comedy Series                                      | Two and a Half Men   |
+| 11 |   2006 | Nominated | Golden Globe Award for Best Actor – Television Series Musical or Comedy                    | Two and a Half Men   |
+| 12 |   2007 | Nominated | People's Choice Award Favorite Male TV Star                                                | nan                  |
+| 13 |   2007 | Nominated | Teen Choice Award Choice TV Actor: Comedy                                                  | Two and a Half Men   |
+| 14 |   2007 | Nominated | Emmy Award for Outstanding Lead Actor - Comedy Series                                      | Two and a Half Men   |
+| 15 |   2008 | Nominated | People's Choice Award Favorite Male TV Star                                                | nan                  |
+| 16 |   2008 | Nominated | Teen Choice Awards Choice TV Actor: Comedy                                                 | Two and a Half Men   |
+| 17 |   2008 | Nominated | Outstanding Lead Actor - Comedy Series                                                     | Two and a Half Men   |
+| 18 |   2008 | Won       | ALMA Award Outstanding Actor in a Comedy Television Series                                 | Two and a Half Men   |
+| 19 |   2010 | Nominated | SAG Award Outstanding Performance by a Male Actor in a Comedy Series                       | Two and a Half Men   |
+| 20 |   2012 | Won       | WWE Slammy Award Top Social Media Ambassador                                               | WWE Raw              |
+===================Question===================
+charlie sheen was nominated for a total of how many awards between 1989 and 2012?
+===================Text===================
+<think>
+Alright, I need to figure out how many awards Charlie Sheen was nominated for between 1989 and 2012 based on the table provided. Let me go through this step by step.
+
+First, looking at the table, each row represents an award entry with details like Year, Result, Award, and Film. My goal is to count all the nominations, so I should focus on rows where the Result is "Nominated."
+
+The table has 21 entries (from index 0 to 20). I'll go through each one:
+
+- Index 0: Won in 1989 → Not a nomination.
+- Index 1: Nominated in 1999 → Counts as 1.
+- Index 2: Nominated in 1999 → Now total is 2.
+- Index 3: Nominated in 2001 → Total 3.
+- Index 4: Nominated in 2002 → Total 4.
+- Index 5: Won in 2002 → Not a nomination.
+- Index 6: Nominated in 2002 → Total 5.
+- Index 7: Nominated in 2005 → Total 6.
+- Index 8: Nominated in 2005 → Total 7.
+- Index 9: Won in 2006 → Not a nomination.
+- Index 10: Nominated in 2006 → Total 8.
+- Index 11: Nominated in 2006 → Total 9.
+- Index 12: Nominated in 2007 → Total 10. (Note: Film is 'nan', but that's irrelevant for counting)
+- Index 13: Nominated in 2007 → Total 11.
+- Index 14: Nominated in 2007 → Total 12.
+- Index 15: Nominated in 2008 → Total 13.
+- Index 16: Nominated in 2008 → Total 14.
+- Index 17: Nominated in 2008 → Total 15.
+- Index 18: Won in 2008 → Not a nomination.
+- Index 19: Nominated in 2010 → Total 16.
+- Index 20: Won in 2012 → Not a nomination.
+
+Wait, let me double-check to make sure I didn't miss any. Starting from the top:
+
+1989 - 1 entry, not nominated.
+
+1999 has two nominations (indices 1 and 2) → 2.
+
+2001 has one (index3).
+
+2002: index4 is Nominated, index5 is Won, index6 is Nominated → so that's 2 more in 2002, total now 2+1+2=5?
+
+Wait, but earlier count was different. Let me recount:
+
+Starting from the beginning:
+
+0: Won
+1: Nom (1)
+2: Nom (2)
+3: Nom (3)
+4: Nom (4)
+5: Won
+6: Nom (5)
+7: Nom (6)
+8: Nom (7)
+9: Won
+10: Nom (8)
+11: Nom (9)
+12: Nom (10) [even though film is nan]
+13: Nom (11)
+14: Nom (12)
+15: Nom (13)
+16: Nom (14)
+17: Nom (15)
+18: Won
+19: Nom (16)
+20: Won
+
+So that's 16 nominations. Wait, earlier I got 16 as the total.
+
+But let me recount each entry:
+
+1: Nominated (1999) → 1
+2: Nominated (1999) → 2
+3: Nominated (2001) →3
+4: Nominated (2002) →4
+6: Nominated (2002) →5
+7: Nominated (2005)→6
+8: Nominated (2005)→7
+10: Nominated (2006)→8
+11: Nominated (2006)→9
+12: Nominated (2007)→10
+13: Nominated (2007)→11
+14: Nominated (2007)→12
+15: Nominated (2008)→13
+16: Nominated (2008)→14
+17: Nominated (2008)→15
+19: Nominated (2010)→16
+
+So yes, 16 nominations.
+
+Wait, but earlier I thought of each row where Result is 'Nominated' and counted them. So the total number should be 16.
+</think>
+
+Final Answer: 16
+===================Answer===================
+21

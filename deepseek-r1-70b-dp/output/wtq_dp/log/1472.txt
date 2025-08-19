@@ -1,0 +1,37 @@
+===================Title===================
+2000 Úrvalsdeild
+===================Table===================
+|    |   Pos | Team       |   Played |   Won |   Draw |   Lost |   Goals For |   Goals Against |   Goal Difference |   Points | Notes                 |
+|---:|------:|:-----------|---------:|------:|-------:|-------:|------------:|----------------:|------------------:|---------:|:----------------------|
+|  0 |     1 | KR         |       18 |    11 |      4 |      3 |          27 |              14 |                13 |       37 | UEFA Champions League |
+|  1 |     2 | Fylkir     |       18 |    10 |      5 |      3 |          39 |              16 |                23 |       35 | UEFA Cup              |
+|  2 |     3 | Grindavík |       18 |     8 |      6 |      4 |          25 |              18 |                 7 |       30 | UEFA Cup              |
+|  3 |     4 | ÍBV       |       18 |     8 |      5 |      5 |          29 |              17 |                12 |       29 | Inter-Toto Cup        |
+|  4 |     5 | ÍA        |       18 |     7 |      5 |      6 |          21 |              17 |                 4 |       26 | nan                   |
+|  5 |     6 | Keflavík  |       18 |     4 |      7 |      7 |          21 |              35 |               -14 |       19 | nan                   |
+|  6 |     7 | Breiðablik |       18 |     5 |      3 |     10 |          29 |              35 |                -6 |       18 | nan                   |
+|  7 |     8 | Fram       |       18 |     4 |      5 |      9 |          22 |              33 |               -11 |       17 | nan                   |
+|  8 |     9 | Stjarnan   |       18 |     4 |      5 |      9 |          18 |              31 |               -13 |       17 | Relegated             |
+|  9 |    10 | Leiftur    |       18 |     3 |      7 |      8 |          24 |              39 |               -15 |       16 | Relegated             |
+===================Question===================
+what is the number of teams?
+===================Text===================
+<think>
+Alright, so I need to figure out how many teams are in the 2000 Úrvalsdeild based on this table. Let me start by looking at the structure of the table provided.
+
+First, I see that there's a row for each team with various statistics like position (Pos), Team name, number of games Played, Won, Drawn, Lost, and so on. Each row represents one team.
+
+I notice that the positions (Pos) go from 1 to 10. That suggests there are 10 teams because each position corresponds to a different team. Let me count the rows just to be sure—there are indeed 10 rows listed from Pos 1 down to Pos 10.
+
+Each of these rows has a unique team name: KR, Fylkir, Grindavík, ÍBV, ÍA, Keflavík, Breiðablik, Fram, Stjarnan, and Leiftur. That's 10 distinct names without any repeats.
+
+Additionally, at the end of the table, in the Notes column for positions 9 and 10, it mentions "Relegated," which usually refers to teams being relegated to a lower division after the season. This makes sense because typically a league has a set number of teams each season, and some get promoted or relegated based on their performance.
+
+So, putting this together, since there are 10 rows with unique team names and positions from 1 through 10, it's clear that there were 10 teams in the 2000 Úrvalsdeild.
+</think>
+
+The table lists statistics for 10 different teams, each occupying a position from 1 to 10. Therefore, the number of teams is 10.
+
+Final Answer: 10
+===================Answer===================
+10

@@ -1,0 +1,119 @@
+===================Title===================
+Austria's Next Topmodel (cycle 4)
+===================Table===================
+|    | Contestant                  |   Age | Height                 | Home City                          | Rank                         |
+|---:|:----------------------------|------:|:-----------------------|:-----------------------------------|:-----------------------------|
+|  0 | Isabelle Raisa              |    16 | 170 cm (5 ft 7 in)     | Vienna                             | Eliminated in Episode 1      |
+|  1 | Alina Chlebecek             |    18 | 170 cm (5 ft 7 in)     | Deutsch-Wagram                     | Eliminated in Episode 1      |
+|  2 | Sabrina Angelika Rauch †    |    21 | 175 cm (5 ft 9 in)     | Graz                               | Eliminated in Episode 2      |
+|  3 | Katharina Mihalović        |    23 | 179 cm (5 ft 10.5 in)  | Vienna                             | Eliminated in Episode 2      |
+|  4 | Nataša Marić              |    16 | 175 cm (5 ft 9 in)     | Liefering (originally from Serbia) | Eliminated in Episode 3      |
+|  5 | Michaela Schopf             |    21 | 172 cm (5 ft 7.5 in)   | Salzburg (originally from Germany) | Quit in Episode 4            |
+|  6 | Christine Riener            |    20 | 181 cm (5 ft 11.25 in) | Bludenz                            | Eliminated in Episode 4      |
+|  7 | Teodora-Mădălina Andreica |    17 | 177 cm (5 ft 9.5 in)   | Romania                            | Eliminated in Episode 6      |
+|  8 | Yemisi Rieger               |    17 | 177 cm (5 ft 9.5 in)   | Vienna                             | Eliminated in Episode 7      |
+|  9 | Izabela Pop Kostić         |    20 | 170 cm (5 ft 7 in)     | Vienna (originally from Bosnia)    | Eliminated in Episode 8      |
+| 10 | Bianca Ebelsberger          |    24 | 179 cm (5 ft 10.5 in)  | Aurach am Hongar                   | Eliminated in Episode 9      |
+| 11 | Nadine Trinker              |    21 | 183 cm (6 ft 0 in)     | Bodensdorf                         | Eliminated in Episode 9      |
+| 12 | Dzejlana "Lana" Baltić     |    20 | 179 cm (5 ft 10.5 in)  | Graz (originally from Bosnia)      | 1st Eliminated in Episode 10 |
+| 13 | Melisa Popanicić           |    16 | 175 cm (5 ft 9 in)     | Wörgl                             | 2nd Eliminated in Episode 10 |
+| 14 | Gina Zeneb Adamu            |    17 | 175 cm (5 ft 9 in)     | Bad Vöslau                        | Runner-Up                    |
+| 15 | Antonia Maria Hausmair      |    16 | 175 cm (5 ft 9 in)     | Siegendorf                         | Winner                       |
+===================Question===================
+in cycle 4 of austria's next top model, what is the average of all the contestants' ages?
+===================Text===================
+<think>
+Okay, so I need to find the average age of all the contestants in cycle 4 of Austria's Next Top Model based on the provided table. Let me start by looking at each contestant's age and list them out.
+
+Looking through the table, there are 16 contestants, numbered from 0 to 15. Their ages are as follows:
+
+0. Isabelle Raisa: 16
+1. Alina Chlebecek: 18
+2. Sabrina Angelika Rauch: 21
+3. Katharina Mihalović: 23
+4. Nataša Marić: 16
+5. Michaela Schopf: 21
+6. Christine Riener: 20
+7. Teodora-Mădălina Andreica: 17
+8. Yemisi Rieger: 17
+9. Izabela Pop Kostić: 20
+10. Bianca Ebelsberger: 24
+11. Nadine Trinker: 21
+12. Dzejlana "Lana" Baltić: 20
+13. Melisa Popanicić: 16
+14. Gina Zeneb Adamu: 17
+15. Antonia Maria Hausmair: 16
+
+Now, I'll add these ages together step by step:
+
+16 (Isabelle) + 18 (Alina) = 34
+
+34 + 21 (Sabrina) = 55
+
+55 + 23 (Katharina) = 78
+
+78 + 16 (Nataša) = 94
+
+94 + 21 (Michaela) = 115
+
+115 + 20 (Christine) = 135
+
+135 + 17 (Teodora) = 152
+
+152 + 17 (Yemisi) = 169
+
+169 + 20 (Izabela) = 189
+
+189 + 24 (Bianca) = 213
+
+213 + 21 (Nadine) = 234
+
+234 + 20 (Dzejlana) = 254
+
+254 + 16 (Melisa) = 270
+
+270 + 17 (Gina) = 287
+
+287 + 16 (Antonia) = 303
+
+Wait, let me double-check the addition because I think I might have made a mistake somewhere. Let's try adding them all again more carefully:
+
+Starting from 0:
+16 + 18 = 34
+34 +21=55
+55+23=78
+78+16=94
+94+21=115
+115+20=135
+135+17=152
+152+17=169
+169+20=189
+189+24=213
+213+21=234
+234+20=254
+254+16=270
+270+17=287
+287+16=303
+
+Okay, the total age is 303.
+
+Now, since there are 16 contestants, I'll divide 303 by 16 to find the average.
+
+Calculating that: 303 ÷ 16 = ?
+
+Let me do this division:
+
+16 × 18 = 288 (because 16×10=160, 16×8=128; 160+128=288)
+
+303 - 288 = 15
+
+So it's 18 with a remainder of 15. Therefore, the average is 18.9375.
+
+Rounding to two decimal places, that's approximately 18.94.
+</think>
+
+The sum of all contestants' ages in cycle 4 is 303 years. Dividing this by the number of contestants (16) gives an average age of 18.9375.
+
+Final Answer: 18.93875
+===================Answer===================
+18

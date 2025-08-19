@@ -1,0 +1,35 @@
+===================Title===================
+Charles Henderson High School
+===================Table===================
+|    |   Year |   Team Record\nW |   Team Record\nL | Playoffs                |
+|---:|-------:|-----------------:|-----------------:|:------------------------|
+|  0 |   2001 |                7 |                2 | 3rd Qualifier, Region 2 |
+|  1 |   2002 |                8 |                1 | 2nd Qualifier, Region 2 |
+|  2 |   2003 |                8 |                1 | 2nd Qualifier, Region 2 |
+|  3 |   2004 |                7 |                2 | 2nd Qualifier, Region 2 |
+|  4 |   2005 |                3 |                5 | Did Not Make Playoffs   |
+|  5 |   2006 |                5 |                4 | 4th Qualifier, Region 2 |
+|  6 |   2007 |               13 |                1 | 1st Qualifier, Region 2 |
+|  7 |   2008 |                7 |                4 | 2nd Qualifier, Region 2 |
+|  8 |   2009 |                5 |                5 | Did Not Make Playoffs   |
+|  9 |   2010 |                5 |                5 | Did Not Make Playoffs   |
+===================Question===================
+how many seasons did the team only have 5 wins?
+===================Text===================
+<think>
+Alright, so I need to figure out how many seasons Charles Henderson High School's team only had 5 wins based on the provided table. Let me start by carefully examining the data.
+
+First, looking at the table headers: Year, Wins (W), Losses (L), and Playoffs. The key here is to find the rows where the number of wins is exactly 5. I'll go through each year one by one.
+
+Starting from 2001, the team had 7 wins. That's more than 5, so that doesn't count. Moving on to 2002, they had 8 wins—again, too high. In 2003, also 8 wins. 2004 shows 7 wins. So far, none of these meet the criteria.
+
+Next is 2005 with 3 wins and 5 losses. Wait, here the W column says 3, which isn't 5, so that's not it either. Then in 2006, they had 5 wins. Okay, that's one season where they had exactly 5 wins.
+
+Looking at 2007, there are 13 wins—way higher than 5. In 2008, the team had 7 wins, which is still more than 5. Then in 2009, they had 5 wins again. That's the second season with exactly 5 wins. Checking 2010, it shows 5 wins as well, making that the third season where they reached exactly 5 wins.
+
+So, to summarize: I found three seasons (2006, 2009, 2010) where the team had exactly 5 wins each. I don't think I missed any years because each row after 2001 up to 2010 has been checked.
+</think>
+
+Final Answer: 3
+===================Answer===================
+3

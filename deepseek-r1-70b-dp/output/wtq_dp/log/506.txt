@@ -1,0 +1,79 @@
+===================Title===================
+AC Transit
+===================Table===================
+|    |   Year | Manufacturer   | Model               | Length (feet)    |   Quantity | Fleet Series          | Fuel Propulsion        | Powertrain                                |
+|---:|-------:|:---------------|:--------------------|:-----------------|-----------:|:----------------------|:-----------------------|:------------------------------------------|
+|  0 |   1996 | New Flyer      | D60                 | 60 (articulated) |         30 | 1901-1930*            | Diesel                 | Detroit Diesel Series 50\nAllison B400R   |
+|  1 |   1998 | NABI           | 416                 | 40               |        133 | 3001-3067, 3101-3166* | Diesel                 | Cummins M11E\nAllison B400R               |
+|  2 |   1999 | NABI           | 40-LFW              | 40               |         44 | 4001-4044             | Diesel                 | nan                                       |
+|  3 |   2000 | NABI           | 40-LFW              | 40               |         23 | 7201-7223             | Diesel                 | Cummins ISM\nAllison B400R                |
+|  4 |   2000 | MCI            | D4500               | 45               |         30 | 6001-6030             | Diesel                 | nan                                       |
+|  5 |   2001 | MCI            | D4500               | 45               |         10 | 6031-6040             | Diesel                 | nan                                       |
+|  6 |   2003 | MCI            | D4500               | 45               |         39 | 6041-6079             | Diesel                 | nan                                       |
+|  7 |   2003 | NABI           | 40-LFW              | 40               |         46 | 4051-4090             | Diesel                 | Cummins ISL\nAllison B400R                |
+|  8 |   2003 | Van Hool       | A330                | 40               |        110 | 1001-1110             | Diesel                 | Cummins ISM\nVoith D864.3E                |
+|  9 |   2003 | Van Hool       | AG300               | 60               |         57 | 2001-2057             | Diesel                 | Cummins ISM\nVoith D864.3E                |
+| 10 |   2005 | Van Hool       | A300FC              | 40               |          3 | FC1-FC3               | Hydrogen               | nan                                       |
+| 11 |   2006 | Van Hool       | A300K               | 30               |         50 | 5001-5050             | Diesel                 | Cummins ISB\nVoith D864.3E                |
+| 12 |   2007 | Van Hool       | AG300               | 60               |         10 | 2101-2110             | Diesel                 | Cummins ISL\nVoith D864.3E                |
+| 13 |   2007 | Van Hool       | AG300               | 60               |         15 | 2151-2165             | Diesel                 | Cummins ISM\nVoith D864.3E                |
+| 14 |   2008 | Van Hool       | A300L               | 40               |         27 | 1201-1227             | Diesel                 | Cummins ISL\nVoith D864.5                 |
+| 15 |   2008 | Van Hool       | A300K               | 30               |          1 | 5099                  | Diesel-electric hybrid | nan                                       |
+| 16 |   2008 | Van Hool       | A300K               | 30               |         39 | 5101-5139             | Diesel                 | Cummins ISB\nVoith D854.5                 |
+| 17 |   2010 | Van Hool       | AG300               | 60               |          9 | 2191-2199             | Diesel                 | Cummins ISL\nVoith D864.5                 |
+| 18 |   2010 | Van Hool       | A300L FC            | 40               |         12 | FC4-FC16              | Hydrogen               | nan                                       |
+| 19 |   2013 | Gillig         | Low-floor Advantage | 40               |         65 | 1301-1365             | Diesel                 | Cummins ISL 280 HP \nAllison B400 6-speed |
+| 20 |   2013 | New Flyer      | Xcelsior D60        | 60               |         23 | 2201-2223             | Diesel                 | Cummins ISL 330 HP\nAllison B400 6-speed  |
+| 21 |   2013 | Gillig         | Low-floor Advantage | 40               |         55 | 6101-6155             | Diesel                 | Cummins ISL 280 HP\nAllison B400 6-speed  |
+===================Question===================
+what is the total number of models covered in the table?
+===================Text===================
+<think>
+Alright, I'm trying to figure out how many different models are covered in this AC Transit table. Let me start by looking at each row and noting down the model names.
+
+First, I see that each row has a "Model" column. My goal is to count each unique entry in that column. I'll go through them one by one to make sure I don't miss any or count duplicates.
+
+Row 0: Model D60  
+Row 1: Model 416  
+Row 2: Model 40-LFW  
+Row 3: Again, 40-LFW  
+Row 4: D4500  
+Rows 5 and 6 also have D4500  
+Row 7: Back to 40-LFW  
+Row 8: A330  
+Row 9: AG300  
+Row10: A300FC  
+Row11: A300K  
+Row12: AG300 again  
+Row13: AG300 once more  
+Row14: A300L  
+Row15: A300K, but this might be a different variant since there's another entry for A300K in row16. Wait, no—model name is the same, so it's still one model.  
+Row16: A300K again  
+Row17: AG300  
+Row18: A300L FC – that's a different model from A300L because of the FC designation. So this counts as another unique model.  
+Rows19 and 21: Both are Low-floor Advantage  
+Row20: Xcelsior D60  
+
+Now, let me list them out without duplicates:
+
+1. D60  
+2. 416  
+3. 40-LFW  
+4. D4500  
+5. A330  
+6. AG300  
+7. A300FC  
+8. A300K  
+9. A300L  
+10. A300L FC  
+11. Low-floor Advantage  
+12. Xcelsior D60  
+
+Wait, that gives me 12 models. Let me double-check to make sure I didn't miss any.
+
+Looking back: Rows0-21 cover these models without repetition beyond the list above. So yes, 12 unique models in total.
+</think>
+
+Final Answer: 12
+===================Answer===================
+20

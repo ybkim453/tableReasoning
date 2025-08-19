@@ -1,0 +1,56 @@
+===================Title===================
+2004 Summer Paralympics
+===================Table===================
+|    |   Rank | Nation        |   Gold |   Silver |   Bronze |   Total |
+|---:|-------:|:--------------|-------:|---------:|---------:|--------:|
+|  0 |      1 | China         |     63 |       46 |       32 |     141 |
+|  1 |      2 | Great Britain |     35 |       30 |       29 |      94 |
+|  2 |      3 | Canada        |     28 |       19 |       25 |      72 |
+|  3 |      4 | United States |     27 |       22 |       39 |      88 |
+|  4 |      5 | Australia     |     26 |       38 |       36 |     100 |
+|  5 |      6 | Ukraine       |     24 |       12 |       19 |      55 |
+|  6 |      7 | Spain         |     20 |       27 |       24 |      71 |
+|  7 |      8 | Germany       |     19 |       28 |       31 |      78 |
+|  8 |      9 | France        |     18 |       26 |       30 |      74 |
+|  9 |     10 | Japan         |     17 |       16 |       20 |      53 |
+===================Question===================
+which nation has the most bronze medals?
+===================Text===================
+<think>
+Okay, so I need to determine which nation has the most bronze medals from the given table of the 2004 Summer Paralympics. Let me start by looking at the data provided.
+
+The table lists several countries along with their gold, silver, and bronze medal counts, as well as the total number of medals each won. The question specifically asks about bronze medals, so I should focus on that column.
+
+Starting from the top, China is ranked first with 32 bronze medals. Next, Great Britain has 29 bronze medals. Canada follows with 25. Then, the United States has 39 bronze medals. Australia has 36, Ukraine 19, Spain 24, Germany 31, France 30, and Japan 20.
+
+Looking through these numbers, I can list them out:
+
+- China: 32
+- Great Britain:29
+- Canada:25
+- USA:39
+- Australia:36
+- Ukraine:19
+- Spain:24
+- Germany:31
+- France:30
+- Japan:20
+
+Now, to find the highest number here. Let's compare them step by step.
+
+Starting from the top:
+- China has 32.
+- Then Great Britain with 29 is lower than China.
+- Canada at 25 is less.
+- Next, USA jumps up to 39, which is higher than China's 32.
+- Australia is next with 36, which is still below USA's 39.
+- Ukraine's 19 is low.
+- Spain:24, Germany:31, France:30—all lower than USA.
+- Japan:20.
+
+So the highest bronze count is 39 for the United States. I don't see any country above that. Therefore, the nation with the most bronze medals is the United States.
+</think>
+
+Final Answer: United States
+===================Answer===================
+United States

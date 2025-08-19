@@ -1,0 +1,64 @@
+===================Title===================
+1998 CART season
+===================Table===================
+|    | Team                     | Chassis                | Engine   | Tires     |   No | Drivers                                 |
+|---:|:-------------------------|:-----------------------|:---------|:----------|-----:|:----------------------------------------|
+|  0 | Chip Ganassi Racing      | Reynard 98i            | Honda    | Firestone |    1 | Alex Zanardi                            |
+|  1 | Chip Ganassi Racing      | Reynard 98i            | Honda    | Firestone |   12 | Jimmy Vasser                            |
+|  2 | Marlboro Team Penske     | Penske PC27-98         | Mercedes | Goodyear  |    2 | Al Unser, Jr.                           |
+|  3 | Marlboro Team Penske     | Penske PC27-98         | Mercedes | Goodyear  |    3 | André Ribeiro                          |
+|  4 | Walker Racing            | Reynard 98i            | Honda    | Goodyear  |    5 | Gil de Ferran                           |
+|  5 | Newman-Haas Racing       | Swift 009.c            | Ford XB  | Goodyear  |    6 | Michael Andretti                        |
+|  6 | Newman-Haas Racing       | Swift 009.c            | Ford XB  | Goodyear  |   11 | Christian Fittipaldi\n Roberto Moreno   |
+|  7 | Team Rahal               | Reynard 98i            | Ford XB  | Firestone |    7 | Bobby Rahal                             |
+|  8 | Team Rahal               | Reynard 98i            | Ford XB  | Firestone |    8 | Bryan Herta                             |
+|  9 | Hogan Racing             | Reynard 98i            | Mercedes | Firestone |    9 | JJ Lehto                                |
+| 10 | Della Penna Motorsports  | Swift 009.c            | Ford XB  | Firestone |   10 | Richie Hearn                            |
+| 11 | Della Penna Motorsports  | Swift 009.c            | Ford XB  | Firestone |   43 | Hideshi Matsuda                         |
+| 12 | Project Indy             | Reynard 97i            | Ford XB  | Goodyear  |   15 | Roberto Moreno\n Domenico Schiattarella |
+| 13 | Bettenhausen Racing      | Reynard 98i            | Mercedes | Goodyear  |   16 | Hélio Castroneves                      |
+| 14 | PacWest Racing Group     | Reynard 98i            | Mercedes | Firestone |   17 | Maurício Gugelmin                      |
+| 15 | PacWest Racing Group     | Reynard 98i            | Mercedes | Firestone |   18 | Mark Blundell                           |
+| 16 | Payton/Coyne Racing      | Reynard 98i            | Ford XB  | Firestone |   19 | Michel Jourdain, Jr.                    |
+| 17 | Payton/Coyne Racing      | Reynard 98i            | Ford XB  | Firestone |   34 | Dennis Vitolo\n Gualter Salles          |
+| 18 | Patrick Racing           | Reynard 98i            | Ford XB  | Firestone |   20 | Scott Pruett                            |
+| 19 | Patrick Racing           | Reynard 98i            | Ford XB  | Firestone |   40 | Adrián Fernández                      |
+| 20 | Tasman Motorsports Group | Reynard 98i            | Honda    | Firestone |   21 | Tony Kanaan                             |
+| 21 | Arciero-Wells Racing     | Reynard 98i            | Toyota   | Firestone |   24 | Hiro Matsushita\n Robby Gordon          |
+| 22 | Arciero-Wells Racing     | Reynard 98i            | Toyota   | Firestone |   25 | Max Papis                               |
+| 23 | Team KOOL Green          | Reynard 98i            | Honda    | Firestone |   26 | Paul Tracy                              |
+| 24 | Team KOOL Green          | Reynard 98i            | Honda    | Firestone |   27 | Dario Franchitti                        |
+| 25 | Forsythe Racing          | Reynard 98i            | Mercedes | Firestone |   33 | Patrick Carpentier                      |
+| 26 | Forsythe Racing          | Reynard 98i            | Mercedes | Firestone |   99 | Greg Moore                              |
+| 27 | All American Racing      | Reynard 98i\nEagle 987 | Toyota   | Goodyear  |   36 | Alex Barron                             |
+| 28 | All American Racing      | Reynard 98i\nEagle 987 | Toyota   | Goodyear  |   98 | P. J. Jones\n Vincenzo Sospiri          |
+| 29 | Davis Racing             | Lola T98/00            | Ford XB  | Goodyear  |   77 | Arnd Meier                              |
+===================Question===================
+what is the only team that has lola t98/00?
+===================Text===================
+<think>
+Okay, so I need to figure out which team in the 1998 CART season used the Lola T98/00 chassis. Let me look through the table provided.
+
+I see each row represents a different team with their respective details. The columns are Team, Chassis, Engine, Tires, No, and Drivers. My focus is on the "Chassis" column because I'm looking for the Lola T98/00 model.
+
+Starting from the top:
+
+- Row 0: Chip Ganassi Racing uses Reynard 98i.
+- Row 1: Same as above.
+- Rows 2 and 3 are Marlboro Team Penske with Penske PC27-98.
+- Row 4 is Walker Racing with Reynard again.
+- Newman-Haas in rows 5 and 6 have Swift 009.c.
+- Next few teams like Rahal, Hogan, Della Penna all use Reynard or Swift.
+
+Continuing down:
+
+Looking at each row until I reach the one that mentions Lola. 
+
+I get to Row 29: Team is Davis Racing, Chassis is Lola T98/00, Engine Ford XB, tires Goodyear, No is 77, Driver Arnd Meier.
+
+So it seems only Row 29 has the Lola chassis. The team name there is Davis Racing.
+</think>
+
+Final Answer: Davis Racing
+===================Answer===================
+Davis Racing

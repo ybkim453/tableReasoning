@@ -1,0 +1,74 @@
+===================Title===================
+Masters M40 100 metres world record progression
+===================Table===================
+|    |   Hand |   Auto |   Wind | Athlete                 | Nationality    | Birthdate   | Location   | Date       |
+|---:|-------:|-------:|-------:|:------------------------|:---------------|:------------|:-----------|:-----------|
+|  0 |  nan   |  10.26 |    2.3 | Troy Douglas            | Netherlands    | 30.11.1962  | Utrecht    | 10.07.2004 |
+|  1 |  nan   |  10.29 |    1.9 | Troy Douglas            | Netherlands    | 30.11.1962  | Leiden     | 07.06.2003 |
+|  2 |  nan   |  10.6  |  nan   | Bill Collins            | United States  | 20.11.1950  | nan        | 06.06.1992 |
+|  3 |  nan   |  10.84 |    1.8 | Erik Oostweegel         | Netherlands    | 29.04.1960  | Tilburg    | 10.06.2000 |
+|  4 |  nan   |  10.87 |  nan   | Eddie Hart              | United States  | 24.04.1949  | Eugene     | 03.08.1989 |
+|  5 |  nan   |  10.9  |  nan   | Thaddeus Bell           | United States  | 28.11.1942  | Raleigh    | 01.05.1988 |
+|  6 |  nan   |  10.93 |    0.6 | Gilles Echevin          | France         | 01.09.1948  | Grenoble   | 07.05.1989 |
+|  7 |   10.7 | nan    |  nan   | Klaus Jürgen Schneider | Germany        | 02.03.1942  | Stuttgart  | 07.07.1982 |
+|  8 |   10.7 | nan    |  nan   | Walt Butler             | United States  | 21.03.1941  | Northridge | 16.05.1981 |
+|  9 |   10.7 | nan    |  nan   | Thane Baker             | United States  | 04.10.1931  | Elkhart    | 13.09.1972 |
+| 10 |  nan   |  10.95 |  nan   | George McNeill          | United Kingdom | 19.02.1947  | Melbourne  | 31.11.1987 |
+| 11 |  nan   |  10.95 |  nan   | Karl Heinz Schröder    | Germany        | 17.06.1939  | Hannover   | 28.07.1979 |
+===================Question===================
+how many athletes are not from france?
+===================Text===================
+<think>
+Okay, I need to figure out how many athletes in the given table are not from France. Let me start by looking at the table provided.
+
+The table lists 12 entries, each representing an athlete and their details, including nationality. My task is to count how many of these athletes aren't French.
+
+First, I'll go through each row and check the "Nationality" column for each athlete.
+
+1. Row 0: Nationality is Netherlands.
+2. Row 1: Nationality is Netherlands again.
+3. Row 2: United States.
+4. Row 3: Netherlands.
+5. Row 4: United States.
+6. Row 5: United States.
+7. Row 6: France.
+8. Row 7: Germany.
+9. Row 8: United States.
+10. Row 9: United Kingdom.
+11. Row 10: Germany.
+12. Row 11: Germany.
+
+Wait, let me make sure I count correctly. There are 12 entries total (from index 0 to 11).
+
+Now, I notice that only one athlete is from France: Gilles Echevin in row 6. The rest of the nationalities are Netherlands, United States, Germany, and United Kingdom.
+
+So, if there's only 1 French athlete, then the number of athletes not from France would be 12 total minus 1, which equals 11.
+
+I can double-check by counting each nationality:
+
+- Netherlands: Troy Douglas appears twice (rows 0 and 1), Erik Oostweegel once (row3). So that's 3.
+- United States: Bill Collins, Eddie Hart, Thaddeus Bell, Walt Butler, and Thane Baker. Wait, let me recount the rows.
+
+Actually, from the table:
+
+Row 2: Bill Collins - USA
+Row4: Eddie Hart - USA
+Row5: Thaddeus Bell - USA
+Row8: Walt Butler - USA
+Row9: Thane Baker - USA
+
+That's 5 athletes from the United States.
+
+Germany: Klaus Jürgen Schneider (row7), Karl Heinz Schröder (row11). That's 2.
+United Kingdom: George McNeill (row10) - 1.
+
+France: Gilles Echevin (row6) - 1.
+
+So total athletes: 3 (Netherlands) +5 (USA)+2 (Germany)+1 (UK)+1 (France)=12, which matches the table entries.
+
+Therefore, non-French athletes = 12-1=11.
+</think>
+
+Final Answer: 11
+===================Answer===================
+11

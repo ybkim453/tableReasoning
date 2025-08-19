@@ -1,0 +1,42 @@
+===================Title===================
+2000 Chicago Bears season
+===================Table===================
+|    |   Round |   Pick | Name           | Position   | College            |
+|---:|--------:|-------:|:---------------|:-----------|:-------------------|
+|  0 |       1 |      9 | Brian Urlacher | S          | New Mexico         |
+|  1 |       2 |     39 | Mike Brown     | S          | Nebraska           |
+|  2 |       3 |     69 | Dez White      | WR         | Georgia Tech       |
+|  3 |       3 |     87 | Dustin Lyman   | TE         | Wake Forest        |
+|  4 |       4 |    125 | Reggie Austin  | DB         | Wake Forest        |
+|  5 |       6 |    170 | Frank Murphy   | WR         | Kansas State       |
+|  6 |       6 |    174 | Paul Edinger   | K          | Michigan State     |
+|  7 |       7 |    223 | James Cotton   | DE         | Ohio State         |
+|  8 |       7 |    254 | Michael Green  | S          | Northwestern State |
+===================Question===================
+how many players attended wake forest university before being drafted?
+===================Text===================
+<think>
+Okay, so I need to figure out how many players from Wake Forest University were drafted by the Chicago Bears in the 2000 season based on the provided table. Let me look at the table carefully.
+
+The table lists each player with their round, pick number, name, position, and college. My task is to count how many of these players attended Wake Forest before being drafted.
+
+I'll go through each row one by one:
+
+1. First entry: Brian Urlacher from New Mexico. Not Wake Forest.
+2. Second entry: Mike Brown from Nebraska. Not Wake Forest.
+3. Third entry: Dez White from Georgia Tech. Still not Wake Forest.
+4. Fourth entry: Dustin Lyman, position TE, college Wake Forest. That's one player from Wake Forest.
+5. Fifth entry: Reggie Austin, DB, Wake Forest again. So that's a second player from the same university.
+6. Sixth entry: Frank Murphy from Kansas State. Not relevant here.
+7. Seventh entry: Paul Edinger from Michigan State. Nope.
+8. Eighth entry: James Cotton from Ohio State. No.
+9. Ninth entry: Michael Green from Northwestern State. That's a different school, so not Wake Forest.
+
+Wait, wait. Let me double-check the ninth entry because sometimes schools have similar names. Michael Green is listed as attending Northwestern State, which is a separate institution from Wake Forest. So that doesn't count.
+
+So, Dustin Lyman and Reggie Austin both attended Wake Forest. That makes two players in total.
+</think>
+
+Final Answer: 2
+===================Answer===================
+2

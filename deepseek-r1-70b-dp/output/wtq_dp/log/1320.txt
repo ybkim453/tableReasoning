@@ -1,0 +1,81 @@
+===================Title===================
+JumpStart Adventures 3rd Grade: Mystery Mountain
+===================Table===================
+|    | Subject      | Robot's Name                  | Who?                    | When?                  | Where?                 | Occupation            |
+|---:|:-------------|:------------------------------|:------------------------|:-----------------------|:-----------------------|:----------------------|
+|  0 | Solar System | Cosmo-Bot                     | Copernicus              | 1531                   | Poland                 | Cosmonaut             |
+|  1 | Olympics     | Rhonda Robot                  | Greeks                  | 776 B.C.               | Greece                 | Beauty queen          |
+|  2 | Basketball   | Danny Defrost-Bot             | James Naismith          | 1891                   | United States          | Snowman               |
+|  3 | Nursing      | Dr. Bug-Bot                   | Florence Nightengale    | 1860                   | England                | Doctor                |
+|  4 | Scuba Gear   | Flip the High-Diving Robot    | Jacques Cousteau        | 1946                   | France                 | Diver                 |
+|  5 | Helicopter   | Amelia Air-Bot                | Leonardo da Vinci       | 1483                   | Italy                  | Pilot                 |
+|  6 | Corn Flakes  | Chef Boy-Robot                | William Kellogg         | 1894                   | Battle Creek, Michigan | Cook                  |
+|  7 | Radium       | Miss Battery-Bot              | Marie Curie             | 1898                   | France                 | Battery Lady          |
+|  8 | Chewing Gum  | Bubble-Bot                    | Mayans                  | 400                    | Mexico                 | Bubble Man            |
+|  9 | Painting     | Pierro-Bot                    | Stone-Age Humans        | 35,000 B.C.            | Europe                 | Clown/Artist          |
+| 10 | Phonograph   | Slide the Heavy-Metal Robot   | Thomas Edison           | 1877                   | New Jersey             | Rock Star             |
+| 11 | Paper        | Noshi Origami                 | Ts'ai Lun               | 105                    | China                  | Origami Maker         |
+| 12 | Round Earth  | Vasco da Robot                | Ferdinand Magellan      | 1522                   | Spain                  | Early Sailor          |
+| 13 | Dynamite     | Robby Robot                   | Alfred Nobel            | 1866                   | Sweden                 | Prankster             |
+| 14 | Microscope   | Slobot                        | Antonie van Leeuwenhoek | 1674                   | The Netherlands        | Dirty Person          |
+| 15 | Writing      | Eraser-Bot                    | Sumerians               | 3,500 B.C.             | Middle East            | Pencil Man            |
+| 16 | Sausage      | Sock-Bot                      | Babylonians             | 3,000 B.C.             | Middle East            | Sock Man              |
+| 17 | Bicycle      | Booster-Bot                   | Karl von Drais          | 1816                   | Germany                | Rocket Man            |
+| 18 | Wheel        | Rollin' Road-Bot              | Sumerians               | 3,000 B.C.             | Middle East            | Race Starter          |
+| 19 | Germs        | Roast-Bot                     | Louis Pasteur           | 1865                   | France                 | Firefighter           |
+| 20 | Boomerang    | Oswald the Mailman Robot      | Aborigines              | 40,000 years ago       | Australia              | Mailman               |
+| 21 | Coins        | Verna the Vend-Bot            | Lydians                 | 600 B.C.               | Turkey                 | Vending Machine       |
+| 22 | Tools        | Hank the Handyman Robot       | Stone-Age Humans        | 21⁄2 million years ago | Africa                 | Mechanic              |
+| 23 | Saxophone    | Bongo-Bot the Six-Armed Robot | Antoine-Joseph Sax      | 1846                   | France                 | Six-Armed Drum Player |
+| 24 | Toilet       | Brunwella the Bombshell       | Minoans                 | 2000 B.C.              | Crete                  | Demolisher            |
+===================Question===================
+what are the total number of robots in the middle east?
+===================Text===================
+<think>
+Alright, so I need to figure out how many robots are in the Middle East based on the given table. Let me break this down step by step.
+
+First, I'll look through each row of the table and check the "Where?" column for entries that say "Middle East." Each row represents a different robot, so counting these will give me the total number.
+
+Starting from the top:
+
+- Row 0: Poland → Not Middle East.
+- Row 1: Greece → Nope.
+- Row 2: United States → No.
+- Row 3: England → No.
+- Row 4: France → No.
+- Row 5: Italy → No.
+- Row 6: Battle Creek, Michigan → USA, so no.
+- Row 7: France → Still no.
+- Row 8: Mexico → Not Middle East.
+- Row 9: Europe → Broad region but not specifically Middle East.
+- Row 10: New Jersey → USA, no.
+- Row 11: China → Not Middle East.
+- Row 12: Spain → No.
+- Row 13: Sweden → Nope.
+- Row 14: The Netherlands → No.
+- Row 15: Middle East! Here's one. The robot is Eraser-Bot.
+- Row 16: Also Middle East, the Sumerians again. Robot is Sock-Bot.
+- Row 17: Germany → No.
+- Row 18: Middle East once more, same as above. Robot is Rollin' Road-Bot.
+- Rows 19 to 24: France, Australia, Turkey (which is partially in ME), Africa, etc., but specifically looking for "Middle East." 
+
+Wait, row 21 mentions Turkey with "Where?" as Turkey. So I should check if that's in the Middle East. But in the table, it just says "Turkey," which isn't explicitly stated as part of the Middle East, so maybe I shouldn't count it unless the "Where?" column says Middle East.
+
+Looking back:
+
+- Rows 15: Sumerians → Where? Middle East.
+- Row 16: Babylonians → Middle East.
+- Row 18: Sumerians again → Middle East.
+
+So that's three robots in total. Let me confirm each entry:
+
+Row 15: Eraser-Bot, Sumerians, 3,500 B.C., Middle East.
+Row 16: Sock-Bot, Babylonians, 3,000 B.C., Middle East.
+Row 18: Rollin' Road-Bot, Sumerians again, same location.
+
+So that's three robots. I don't see any others in the table with "Where?" as Middle East beyond these three.
+</think>
+
+Final Answer: 3
+===================Answer===================
+3

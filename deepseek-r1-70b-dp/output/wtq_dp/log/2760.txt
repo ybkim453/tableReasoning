@@ -1,0 +1,46 @@
+===================Title===================
+Miss Panamá 2014
+===================Table===================
+|    | Represents          | Contestant   | Age   | Height       | Hometown   |
+|---:|:--------------------|:-------------|:------|:-------------|:-----------|
+|  0 | Bocas del Toro      | TBD          | TBD   | 0.0 m (0 in) | TBD        |
+|  1 | Chiriquí           | TBD          | TBD   | 0.0 m (0 in) | TBD        |
+|  2 | Chiriquí Occidente | TBD          | TBD   | 0.0 m (0 in) | TBD        |
+|  3 | Coclé              | TBD          | TBD   | 0.0 m (0 in) | TBD        |
+|  4 | Colón              | TBD          | TBD   | 0.0 m (0 in) | TBD        |
+|  5 | Darién             | TBD          | TBD   | 0.0 m (0 in) | TBD        |
+|  6 | Comarcas            | TBD          | TBD   | 0.0 m (0 in) | TBD        |
+|  7 | Herrera             | TBD          | TBD   | 0.0 m (0 in) | TBD        |
+|  8 | Los Santos          | TBD          | TBD   | 0.0 m (0 in) | TBD        |
+|  9 | Panamá Centro      | TBD          | TBD   | 0.0 m (0 in) | TBD        |
+| 10 | Panamá Este        | TBD          | TBD   | 0.0 m (0 in) | TBD        |
+| 11 | Panamá Oeste       | TBD          | TBD   | 0.0 m (0 in) | TBD        |
+| 12 | Veraguas            | TBD          | TBD   | 0.0 m (0 in) | TBD        |
+===================Question===================
+how many cities are listed that contain the word "panama"?
+===================Text===================
+<think>
+Alright, I need to figure out how many cities listed in the table contain the word "Panama". Let me look at each entry one by one.
+
+Starting from the top:
+
+0. Bocas del Toro - Doesn't have Panama.
+1. Chiriquí - Nope.
+2. Chiriquí Occidente - Still no.
+3. Coclé - No mention of Panama.
+4. Colón - Not this either.
+5. Darién - Doesn't include Panama.
+6. Comarcas - No.
+7. Herrera - No.
+8. Los Santos - No.
+9. Panamá Centro - Yes, "Panamá" is here.
+10. Panamá Este - Definitely has "Panamá".
+11. Panamá Oeste - Also includes "Panamá".
+12. Veraguas - Doesn't.
+
+So, the entries at positions 9, 10, and 11 have "Panama" in their names. That makes a total of three cities.
+</think>
+
+Final Answer: 3
+===================Answer===================
+3

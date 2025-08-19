@@ -1,0 +1,56 @@
+===================Title===================
+Ailee
+===================Table===================
+|    |   Year | Award                        | Category                              | Recipient   | Result    |
+|---:|-------:|:-----------------------------|:--------------------------------------|:------------|:----------|
+|  0 |   2012 | Cyworld Digital Music Awards | Rookie & Song of the Month (February) | "Heaven"    | Won       |
+|  1 |   2012 | Asia Song Festival           | New Artist Award                      | Herself     | Won       |
+|  2 |   2012 | 4th MelOn Music Awards       | Best New Artist                       | Herself     | Won       |
+|  3 |   2012 | Soompi Gayo Awards           | Top 50 Songs (#3)                     | "Heaven"    | Won       |
+|  4 |   2012 | So-Loved Awards              | Best Female Newcomer                  | Herself     | Won       |
+|  5 |   2012 | 14th Mnet Asian Music Awards | Best New Female Artist                | Herself     | Won       |
+|  6 |   2013 | 27th Golden Disk Awards      | Best New Artist                       | Herself     | Won       |
+|  7 |   2013 | 23rd Seoul Music Awards      | Rookie Award                          | Herself     | Won       |
+|  8 |   2013 | Mnet Pre-Grammy Awards       | Mnet Rising Star                      | Herself     | Won       |
+|  9 |   2013 | 2nd Gaon Chart K-Pop Awards  | New Female Solo Artist                | Herself     | Won       |
+| 10 |   2013 | 5th MelOn Music Awards       | Top 10 Artists                        | Herself     | Won       |
+| 11 |   2013 | 15th Mnet Asian Music Awards | Best Female Artist                    | Herself     | Nominated |
+| 12 |   2013 | 15th Mnet Asian Music Awards | Artist of the Year                    | Herself     | Nominated |
+| 13 |   2013 | 15th Mnet Asian Music Awards | Best Vocal Performance - Female       | "U&I"       | Won       |
+| 14 |   2013 | 15th Mnet Asian Music Awards | BC - UnionPay Song of the year        | "U&I"       | Nominated |
+| 15 |   2014 | 28th Golden Disk Awards      | Digital Bonsang                       | "U&I"       | Won       |
+| 16 |   2014 | Soompi Music Awards          | Best Female Artist                    | "U&I"       | Won       |
+===================Question===================
+how many nominations did not win?
+===================Text===================
+<think>
+Alright, I need to figure out how many nominations Ailee didn't win based on the provided table. Let me go through each entry step by step.
+
+Looking at the table, it lists various awards from 2012 to 2014. Each row has a 'Result' column which indicates whether she won or was nominated. My task is to count all the instances where the result is not a win.
+
+Starting from the top:
+
+Row 0: Result is "Won" → Not a nomination.
+Row 1: Result is "Won" → Not a nomination.
+Row 2: Result is "Won" → Not a nomination.
+Row 3: Result is "Won" → Not a nomination.
+Row 4: Result is "Won" → Not a nomination.
+Row 5: Result is "Won" → Not a nomination.
+Row 6: Result is "Won" → Not a nomination.
+Row 7: Result is "Won" → Not a nomination.
+Row 8: Result is "Won" → Not a nomination.
+Row 9: Result is "Won" → Not a nomination.
+Row 10: Result is "Won" → Not a nomination.
+Row 11: Result is "Nominated" → Count this as a nomination that didn't win.
+Row 12: Result is "Nominated" → Another nomination to count.
+Row 13: Result is "Won" → Not a nomination.
+Row 14: Result is "Nominated" → Count this one too.
+Row 15: Result is "Won" → Not a nomination.
+Row 16: Result is "Won" → Not a nomination.
+
+So, looking through each row, the nominations that didn't result in a win are rows 11, 12, and 14. That's a total of three nominations where Ailee was nominated but did not win.
+</think>
+
+Final Answer: 3
+===================Answer===================
+3

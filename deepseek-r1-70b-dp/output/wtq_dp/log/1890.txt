@@ -1,0 +1,48 @@
+===================Title===================
+Nordic Council
+===================Table===================
+|    | State          | Membership   | Parliament    | Membership status                         |   Represented since |   Members |
+|---:|:---------------|:-------------|:--------------|:------------------------------------------|--------------------:|----------:|
+|  0 | Denmark        | Full         | The Folketing | Sovereign state                           |                1952 |        16 |
+|  1 | Iceland        | Full         | Alþingi       | Sovereign state                           |                1952 |         7 |
+|  2 | Norway         | Full         | The Storting  | Sovereign state                           |                1952 |        20 |
+|  3 | Sweden         | Full         | The Riksdag   | Sovereign state                           |                1952 |        20 |
+|  4 | Finland        | Full         | Eduskunta     | Sovereign state                           |                1955 |        18 |
+|  5 | Greenland      | Associate    | Landsting     | Self-governing region of the Danish Realm |                1984 |         2 |
+|  6 | Faroe Islands  | Associate    | Løgting       | Self-governing region of the Danish Realm |                1970 |         2 |
+|  7 | Åland Islands | Associate    | Lagting       | Self-governing region of Finland          |                1970 |         2 |
+|  8 | Estonia        | Observers    | nan           | nan                                       |                 nan |       nan |
+|  9 | Latvia         | Observers    | nan           | nan                                       |                 nan |       nan |
+| 10 | Lithuania      | Observers    | nan           | nan                                       |                 nan |       nan |
+===================Question===================
+how many states have a full membership?
+===================Text===================
+<think>
+Okay, so I need to figure out how many states have full membership in the Nordic Council based on the provided table. Let me start by looking at each row and checking the "Membership" column.
+
+The table has 11 entries, from index 0 to 10. Each row represents a different entity, either a country or a region. The second column is "Membership," which tells me whether each entity is a Full member, Associate, or Observer.
+
+I'll go through each row one by one:
+
+- Index 0: Denmark - Membership is "Full"
+- Index 1: Iceland - Membership is "Full"
+- Index 2: Norway - Membership is "Full"
+- Index 3: Sweden - Membership is "Full"
+- Index 4: Finland - Membership is "Full"
+- Index 5: Greenland - Membership is "Associate"
+- Index 6: Faroe Islands - Membership is "Associate"
+- Index 7: Åland Islands - Membership is "Associate"
+- Index 8: Estonia - Membership is "Observers"
+- Index 9: Latvia - Membership is "Observers"
+- Index 10: Lithuania - Membership is "Observers"
+
+So, the ones with full membership are Denmark, Iceland, Norway, Sweden, and Finland. That makes five states in total.
+
+Wait a second, I should make sure that these are all sovereign states. The table mentions "Membership status" for each, where the first five (Denmark to Finland) have "Sovereign state." Greenland, Faroe Islands, and Åland Islands are self-governing regions but part of Denmark or Finland, so they're not independent countries. Estonia, Latvia, and Lithuania are listed as Observers, which I think means they don't have full membership.
+
+Therefore, the count should only include the five sovereign states with Full membership.
+</think>
+
+Final Answer: 5
+===================Answer===================
+5

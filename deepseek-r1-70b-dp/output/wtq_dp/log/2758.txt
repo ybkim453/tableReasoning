@@ -1,0 +1,47 @@
+===================Title===================
+Miss Panamá 2014
+===================Table===================
+|    | Represents          | Contestant   | Age   | Height       | Hometown   |
+|---:|:--------------------|:-------------|:------|:-------------|:-----------|
+|  0 | Bocas del Toro      | TBD          | TBD   | 0.0 m (0 in) | TBD        |
+|  1 | Chiriquí           | TBD          | TBD   | 0.0 m (0 in) | TBD        |
+|  2 | Chiriquí Occidente | TBD          | TBD   | 0.0 m (0 in) | TBD        |
+|  3 | Coclé              | TBD          | TBD   | 0.0 m (0 in) | TBD        |
+|  4 | Colón              | TBD          | TBD   | 0.0 m (0 in) | TBD        |
+|  5 | Darién             | TBD          | TBD   | 0.0 m (0 in) | TBD        |
+|  6 | Comarcas            | TBD          | TBD   | 0.0 m (0 in) | TBD        |
+|  7 | Herrera             | TBD          | TBD   | 0.0 m (0 in) | TBD        |
+|  8 | Los Santos          | TBD          | TBD   | 0.0 m (0 in) | TBD        |
+|  9 | Panamá Centro      | TBD          | TBD   | 0.0 m (0 in) | TBD        |
+| 10 | Panamá Este        | TBD          | TBD   | 0.0 m (0 in) | TBD        |
+| 11 | Panamá Oeste       | TBD          | TBD   | 0.0 m (0 in) | TBD        |
+| 12 | Veraguas            | TBD          | TBD   | 0.0 m (0 in) | TBD        |
+===================Question===================
+what location is listed before darien?
+===================Text===================
+<think>
+Okay, so I need to figure out what location is listed before Darién in this table. Let me take a look at the information provided.
+
+The table has several columns: Represents, Contestant, Age, Height, and Hometown. Each row represents a different location with contestants for Miss Panamá 2014. The key here is to find where Darién appears and see which location comes right before it.
+
+Looking at the rows, I notice that each row has an index number starting from 0. Let me list out the locations in order based on these indices:
+
+- Index 0: Bocas del Toro
+- Index 1: Chiriquí
+- Index 2: Chiriquí Occidente
+- Index 3: Cóclé
+- Index 4: Colón
+- Index 5: Darién
+
+So, the index numbers go from 0 to 11. The location at index 5 is Darién. Therefore, the location listed right before it would be the one at index 4.
+
+Checking what's at index 4, I see that it's Colón. That means Colón comes immediately before Darién in the table.
+
+I should double-check to make sure I didn't skip any rows or indices. The numbering goes sequentially: 0,1,2,3,4,5,... up to 12. So yes, index 4 is right before 5.
+
+Therefore, the answer should be Colón.
+</think>
+
+Final Answer: Colón
+===================Answer===================
+Colón

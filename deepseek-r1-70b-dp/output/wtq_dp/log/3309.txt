@@ -1,0 +1,48 @@
+===================Title===================
+Abraham Lincoln High School (Los Angeles)
+===================Table===================
+|    | School                                     |   2007 |   2008 |   2009 |   2010 |   2011 |
+|---:|:-------------------------------------------|-------:|-------:|-------:|-------:|-------:|
+|  0 | Francisco Bravo Medical Magnet High School |    807 |    818 |    815 |    820 |    832 |
+|  1 | Marc and Eva Stern Math and Science School |    718 |    792 |    788 |    788 |    809 |
+|  2 | Oscar De La Hoya Animo Charter High School |    662 |    726 |    709 |    710 |    744 |
+|  3 | James A. Garfield High School              |    553 |    597 |    593 |    632 |    705 |
+|  4 | Abraham Lincoln High School                |    594 |    609 |    588 |    616 |    643 |
+|  5 | Woodrow Wilson High School                 |    582 |    585 |    600 |    615 |    636 |
+|  6 | Theodore Roosevelt High School             |    557 |    551 |    576 |    608 |    nan |
+|  7 | Thomas Jefferson High School               |    457 |    516 |    514 |    546 |    546 |
+|  8 | Santee Education Complex                   |    nan |    502 |    521 |    552 |    565 |
+===================Question===================
+what school is the first to reach 800 api and what year?
+===================Text===================
+<think>
+Alright, so I need to figure out which school was the first to reach an API score of 800 based on the provided table and determine the year it happened. Let me break this down step by step.
+
+First, I'll look at each school's scores across the years from 2007 to 2011. The goal is to find the earliest instance where any school's API score hits exactly 800 or more.
+
+Starting with Francisco Bravo Medical Magnet High School. Their scores are: 807 in 2007, and then it goes up a bit each year. Wait, in 2007 they already have an API of 807, which is above 800. So that's one school right there in 2007.
+
+Next, Marc and Eva Stern Math and Science School starts at 718 in 2007, increases each year to 809 by 2011. They cross 800 in 2011.
+
+Oscar De La Hoya Animo Charter High School never reaches 800; their highest is 744 in 2011.
+
+James A. Garfield High School goes up to 705 by 2011, so they don't reach 800 either.
+
+Abraham Lincoln High School peaks at 643 in 2011, so below 800.
+
+Woodrow Wilson High School's highest is 636 in 2011, also not reaching 800.
+
+Theodore Roosevelt High School's data ends with 'nan' in 2011; their last valid score is 608 in 2010.
+
+Thomas Jefferson High School's scores top at 546, so no.
+
+Santee Education Complex goes up to 565 by 2011, still below 800.
+
+So from this analysis, Francisco Bravo Medical Magnet High School had an API of 807 in 2007. Since that's the earliest year any school reaches or surpasses 800, they were the first.
+</think>
+
+Francisco Bravo Medical Magnet High School reached an API score of 807 in 2007, making it the first to cross 800.
+
+Final Answer: Francisco Bravo Medical Magnet High School, 2007
+===================Answer===================
+Francisco Bravo Medical Magnet High School,2007

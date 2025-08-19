@@ -1,0 +1,78 @@
+===================Title===================
+1989 NHL Entry Draft
+===================Table===================
+|    |   Pick # | Player          | Position   | Nationality    | NHL team              | College/junior/club team                 |
+|---:|---------:|:----------------|:-----------|:---------------|:----------------------|:-----------------------------------------|
+|  0 |      148 | Paul Krake      | Goalie     | Canada         | Quebec Nordiques      | University of Alaska Anchorage (NCAA)    |
+|  1 |      149 | Phil Huber      | Center     | Canada         | New York Islanders    | Kamloops Blazers (WHL)                   |
+|  2 |      150 | Derek Langille  | Defense    | Canada         | Toronto Maple Leafs   | North Bay Centennials (OHL)              |
+|  3 |      151 | Jim Solly       | Left Wing  | Canada         | Winnipeg Jets         | Bowling Green State University (NCAA)    |
+|  4 |      152 | Sergei Starikov | Defense    | Soviet Union   | New Jersey Devils     | CSKA Moscow (USSR)                       |
+|  5 |      153 | Milan Tichy     | Defense    | Czechoslovakia | Chicago Blackhawks    | Prince Albert Raiders (WHL)              |
+|  6 |      154 | Jon Pratt       | Left Wing  | United States  | Minnesota North Stars | Pingree High School (USHS-MA)            |
+|  7 |      155 | Rob Sangster    | Left Wing  | Canada         | Vancouver Canucks     | Kitchener Rangers (OHL)                  |
+|  8 |      156 | Kevin Plager    | Right Wing | United States  | St. Louis Blues       | Parkway North High School (USHS-MO)      |
+|  9 |      157 | Raymond Saumier | Right Wing | Canada         | Hartford Whalers      | Trois Rivieres Draveurs (QMJHL)          |
+| 10 |      158 | Andy Suhy       | Defense    | United States  | Detroit Red Wings     | Western Michigan University (NCAA)       |
+| 11 |      159 | Sverre Sears    | Defense    | United States  | Philadelphia Flyers   | Princeton University (NCAA)              |
+| 12 |      160 | Greg Spenrath   | Defense    | Canada         | New York Rangers      | Tri-City Americans (WHL)                 |
+| 13 |      161 | Derek Plante    | Center     | United States  | Buffalo Sabres        | Cloquet High School (USHS-MN)            |
+| 14 |      162 | Darcy Martini   | Defense    | Canada         | Edmonton Oilers       | Michigan Technological University (NCAA) |
+| 15 |      163 | David Shute     | Left Wing  | United States  | Pittsburgh Penguins   | Victoria Cougars (WHL)                   |
+| 16 |      164 | Rick Allain     | Defense    | Canada         | Boston Bruins         | Kitchener Rangers (OHL)                  |
+| 17 |      165 | Sean Whyte      | Right Wing | Canada         | Los Angeles Kings     | Guelph Platers (OHL)                     |
+| 18 |      166 | Dean Holoien    | Right Wing | Canada         | Washington Capitals   | Saskatoon Blades (WHL)                   |
+| 19 |      167 | Patrick Lebeau  | Left Wing  | Canada         | Montreal Canadiens    | St-Jean Lynx (QMJHL)                     |
+| 20 |      168 | Kevin Wortman   | Defense    | United States  | Calgary Flames        | American International College (NCAA)    |
+===================Question===================
+how many left wings were picked in the eighth round?
+===================Text===================
+<think>
+Alright, I need to figure out how many left wings were picked in the eighth round based on the provided table. Let me start by understanding the structure of the data.
+
+Looking at the table, each row represents a player's information with columns like Pick #, Player, Position, Nationality, NHL team, and College/junior/club team. The question is asking specifically about left wings drafted in the eighth round.
+
+First, I should determine which picks are part of the eighth round. Typically, an NHL Entry Draft has multiple rounds, but the exact number can vary each year. However, looking at the pick numbers in the table, they range from 148 to 168. To confirm this is the eighth round, I'll recall that prior rounds have lower pick numbers. For example, if the first round ends around pick 21, the second might go up to around 42, and so on. So, picks in the mid-140s likely fall into a later round like the eighth or ninth.
+
+Assuming this is the eighth round, I'll now focus on each player's position. I need to count how many have "Left Wing" as their position. Let me go through each row one by one:
+
+1. Paul Krake - Goalie: Not a left wing.
+2. Phil Huber - Center: No.
+3. Derek Langille - Defense: No.
+4. Jim Solly - Left Wing: Yes, count 1.
+5. Sergei Starikov - Defense: No.
+6. Milan Tichy - Defense: No.
+7. Jon Pratt - Left Wing: Yes, count increases to 2.
+8. Rob Sangster - Left Wing: Count is now 3.
+9. Kevin Plager - Right Wing: Not left wing.
+10. Raymond Saumier - Right Wing: No.
+11. Andy Suhy - Defense: No.
+12. Sverre Sears - Defense: No.
+13. Greg Spenrath - Defense: No.
+14. Derek Plante - Center: No.
+15. Darcy Martini - Defense: No.
+16. David Shute - Left Wing: Count becomes 4.
+17. Rick Allain - Defense: No.
+18. Sean Whyte - Right Wing: No.
+19. Dean Holoien - Right Wing: No.
+20. Patrick Lebeau - Left Wing: Now count is 5.
+21. Kevin Wortman - Defense: No.
+
+Wait, that's five left wings, but let me double-check to ensure I didn't make a mistake in counting. Let me list the names of those with "Left Wing":
+
+- Jim Solly (pick 151)
+- Jon Pratt (154)
+- Rob Sangster (155)
+- David Shute (163)
+- Patrick Lebeau (167)
+
+That's indeed five players. However, I might have miscounted because sometimes the eighth round could include a different range of picks. Let me verify how many picks are in each round typically.
+
+In 1989, the NHL Entry Draft had 12 rounds. Each round usually has around 21 picks, but it can vary. The first round is straightforward, but later rounds might have fewer or more depending on team needs and compensatory picks. However, given that this table starts at pick 148 and ends at 168, that's 21 picks, which aligns with a standard round length.
+
+So, within these 21 picks (assuming they're all in the eighth round), I've identified five left wings: Jim Solly, Jon Pratt, Rob Sangster, David Shute, and Patrick Lebeau. Each of their positions is listed as "Left Wing" in the table.
+</think>
+
+Final Answer: 5
+===================Answer===================
+5

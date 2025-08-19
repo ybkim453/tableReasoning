@@ -1,0 +1,60 @@
+===================Title===================
+Immigration to France
+===================Table===================
+|    | Naturalisations by origin   | 2000    | 2005    | 2009    |   % Total 2009 |
+|---:|:----------------------------|:--------|:--------|:--------|---------------:|
+|  0 | Africa                      | 84 182  | 98 453  | 85 144  |           62.7 |
+|  1 | Maghreb                     | 68 185  | 75 224  | 56 024  |           41.2 |
+|  2 | Sub-Saharan Africa          | 10 622  | 15 624  | 22 214  |           16.4 |
+|  3 | Other Africa                | 5 375   | 7 605   | 6 906   |            5.1 |
+|  4 | Asia                        | 27 941  | 26 286  | 19 494  |           14.4 |
+|  5 | South-East Asia             | 7 265   | 4 069   | 2 475   |            1.8 |
+|  6 | East Asia                   | 1 139   | 1 280   | 1 622   |            1.2 |
+|  7 | South Asia                  | 4 246   | 4 436   | 3 660   |            2.7 |
+|  8 | Other Asia                  | 15 291  | 16 501  | 11 737  |            8.6 |
+|  9 | Europe (not including CIS ) | 22 085  | 18 072  | 14 753  |           10.9 |
+| 10 | CIS                         | 1 181   | 2 108   | 4 704   |            3.5 |
+| 11 | CIS (Europe)                | 1 000   | 1 535   | 4 454   |            3.3 |
+| 12 | CIS (Asia)                  | 181     | 573     | 250     |            0.2 |
+| 13 | America                     | 5 668   | 6 352   | 6 677   |            4.9 |
+| 14 | North America               | 1 048   | 854     | 747     |            0.5 |
+| 15 | South and Central America   | 4 620   | 5 498   | 5 930   |            4.4 |
+| 16 | Oceania                     | 87      | 127     | 108     |            0.1 |
+| 17 | Others                      | 8 882   | 3 245   | 4 962   |            3.7 |
+| 18 | Total                       | 150 026 | 154 643 | 135 842 |          100   |
+===================Question===================
+what continent is listed at the top of the table?
+===================Text===================
+<think>
+Okay, so I have this table about immigration to France, and I need to figure out which continent is listed at the top of the table. Let me look at the table structure first.
+
+The table has headers: "Naturalisations by origin", followed by years 2000, 2005, 2009, and then "% Total 2009". There are several rows, each numbered from 0 to 18. Each row seems to represent a region or continent, along with the number of naturalizations in those years.
+
+Looking at the first few entries:
+
+- Row 0: Africa
+- Row 1: Maghreb (which is part of North Africa)
+- Row 2: Sub-Saharan Africa
+- Row 3: Other Africa
+
+So right from row 0, it's Africa. Then, the next rows break down Africa into more specific regions like Maghreb and Sub-Saharan Africa.
+
+Continuing down:
+
+- Row 4: Asia
+- Rows 5-8 are subdivisions of Asia (South-East Asia, East Asia, South Asia, Other Asia)
+- Row 9: Europe (excluding CIS)
+- Rows 10-12: CIS regions (CIS is the Commonwealth of Independent States, which includes both European and Asian countries)
+- Then comes America, subdivided into North and South/Central
+- Oceania at row 16
+- Others at row 17
+- Total at row 18
+
+So, starting from row 0, it's Africa. That means the first continent listed is Africa.
+
+I think that's straightforward. The question asks for the continent at the top of the table, which is Africa.
+</think>
+
+Final Answer: Africa
+===================Answer===================
+Africa

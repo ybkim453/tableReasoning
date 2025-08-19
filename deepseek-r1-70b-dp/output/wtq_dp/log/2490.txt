@@ -1,0 +1,60 @@
+===================Title===================
+Central America
+===================Table===================
+|    | Country     |   Amphibians |   Birds |   Mammals |   Reptile |   Total terrestrial vertebrates |   Vascular plants |   Biodiversity |
+|---:|:------------|-------------:|--------:|----------:|----------:|--------------------------------:|------------------:|---------------:|
+|  0 | Belize      |           46 |     544 |       147 |       140 |                             877 |              2894 |           3771 |
+|  1 | Costa Rica  |          183 |     838 |       232 |       258 |                            1511 |             12119 |          13630 |
+|  2 | El Salvador |           30 |     434 |       137 |       106 |                             707 |              2911 |           3618 |
+|  3 | Guatemala   |          133 |     684 |       193 |       236 |                            1246 |              8681 |           9927 |
+|  4 | Honduras    |          101 |     699 |       201 |       213 |                            1214 |              5680 |           6894 |
+|  5 | Nicaragua   |           61 |     632 |       181 |       178 |                            1052 |              7590 |           8642 |
+|  6 | Panama      |          182 |     904 |       241 |       242 |                            1569 |              9915 |          11484 |
+===================Question===================
+which country would be best to visit for someone who likes birds?
+===================Text===================
+<think>
+Okay, so I need to figure out which country in Central America would be best for someone who likes birds based on the given table. Let me start by understanding what data I have.
+
+Looking at the table, each row represents a different country: Belize, Costa Rica, El Salvador, Guatemala, Honduras, Nicaragua, and Panama. The columns include various categories like Amphibians, Birds, Mammals, Reptiles, Total terrestrial vertebrates, Vascular plants, and Biodiversity. 
+
+Since the question is about birds, I should focus on the "Birds" column for each country. My goal is to find out which country has the highest number of bird species because that would likely be the best place for someone interested in birds.
+
+Let me list out the numbers:
+
+- Belize: 544
+- Costa Rica: 838
+- El Salvador: 434
+- Guatemala: 684
+- Honduras: 699
+- Nicaragua: 632
+- Panama: 904
+
+Now I'll compare these. Starting from the top, Belize has 544 birds. That's a decent number but let me check the others.
+
+Costa Rica is next with 838, which is higher than Belize. Then El Salvador drops to 434, which is lower. Guatemala jumps back up to 684, which is more than Belize but less than Costa Rica. Honduras has 699, also more than Belize and Guatemala but still under Costa Rica. Nicaragua is at 632, so that's lower again. Finally, Panama comes in with 904 birds, which is the highest number I've seen so far.
+
+Wait a second, so Panama has 904 bird species, which is higher than Costa Rica's 838. That seems to make Panama the top choice for bird enthusiasts.
+
+I should double-check to ensure I didn't mix up any numbers. Let me go through them again quickly:
+
+Belize:544, CR:838, ES:434, GUA:684, HON:699, NIC:632, PAN:904.
+
+Yep, Panama definitely has the highest count. So, someone who likes birds would probably have the best experience in Panama.
+</think>
+
+To determine which country is best for someone interested in birds, we look at the "Birds" column:
+
+- Belize: 544
+- Costa Rica: 838
+- El Salvador: 434
+- Guatemala: 684
+- Honduras: 699
+- Nicaragua: 632
+- Panama: 904
+
+Panama has the highest number of bird species with 904.
+
+Final Answer: Panama
+===================Answer===================
+Panama

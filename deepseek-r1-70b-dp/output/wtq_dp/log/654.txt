@@ -1,0 +1,42 @@
+===================Title===================
+2000 Chicago Bears season
+===================Table===================
+|    |   Round |   Pick | Name           | Position   | College            |
+|---:|--------:|-------:|:---------------|:-----------|:-------------------|
+|  0 |       1 |      9 | Brian Urlacher | S          | New Mexico         |
+|  1 |       2 |     39 | Mike Brown     | S          | Nebraska           |
+|  2 |       3 |     69 | Dez White      | WR         | Georgia Tech       |
+|  3 |       3 |     87 | Dustin Lyman   | TE         | Wake Forest        |
+|  4 |       4 |    125 | Reggie Austin  | DB         | Wake Forest        |
+|  5 |       6 |    170 | Frank Murphy   | WR         | Kansas State       |
+|  6 |       6 |    174 | Paul Edinger   | K          | Michigan State     |
+|  7 |       7 |    223 | James Cotton   | DE         | Ohio State         |
+|  8 |       7 |    254 | Michael Green  | S          | Northwestern State |
+===================Question===================
+what were the number of players picked in the third round?
+===================Text===================
+<think>
+Okay, so I need to figure out how many players were picked in the third round by the Chicago Bears in the 2000 season based on the given table. Let me take a closer look at the table.
+
+First, I see that each row represents a different pick with details like Round, Pick number, Name, Position, and College. The task is to count how many players were selected in the third round.
+
+I'll start by examining each entry's "Round" column. The rounds are numbered from 1 onwards. My goal is to find all rows where the Round is equal to 3 because that indicates a third-round pick.
+
+Looking at the table:
+
+- Row 0: Round is 1, so not relevant.
+- Row 1: Round is 2, still not what I need.
+- Row 2: Round is 3. That's one player, Dez White.
+- Row 3: Also Round 3. Another player here, Dustin Lyman.
+- The subsequent rows have Rounds 4, 6, and so on. None of these are 3.
+
+Wait a minute, I notice that Rows 2 and 3 both have Round number 3. So that's two players picked in the third round: Dez White at pick 69 and Dustin Lyman at pick 87.
+
+I should double-check to make sure there aren't any other entries for Round 3. Scanning through the remaining rows, I don't see any others marked as Round 3. Therefore, it seems clear that the Bears picked two players in the third round of the 2000 draft.
+</think>
+
+The Chicago Bears selected two players in the third round.
+
+Final Answer: 2
+===================Answer===================
+2

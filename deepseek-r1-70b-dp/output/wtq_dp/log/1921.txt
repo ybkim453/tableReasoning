@@ -1,0 +1,75 @@
+===================Title===================
+1998 CART season
+===================Table===================
+|    | Team                     | Chassis                | Engine   | Tires     |   No | Drivers                                 |
+|---:|:-------------------------|:-----------------------|:---------|:----------|-----:|:----------------------------------------|
+|  0 | Chip Ganassi Racing      | Reynard 98i            | Honda    | Firestone |    1 | Alex Zanardi                            |
+|  1 | Chip Ganassi Racing      | Reynard 98i            | Honda    | Firestone |   12 | Jimmy Vasser                            |
+|  2 | Marlboro Team Penske     | Penske PC27-98         | Mercedes | Goodyear  |    2 | Al Unser, Jr.                           |
+|  3 | Marlboro Team Penske     | Penske PC27-98         | Mercedes | Goodyear  |    3 | André Ribeiro                          |
+|  4 | Walker Racing            | Reynard 98i            | Honda    | Goodyear  |    5 | Gil de Ferran                           |
+|  5 | Newman-Haas Racing       | Swift 009.c            | Ford XB  | Goodyear  |    6 | Michael Andretti                        |
+|  6 | Newman-Haas Racing       | Swift 009.c            | Ford XB  | Goodyear  |   11 | Christian Fittipaldi\n Roberto Moreno   |
+|  7 | Team Rahal               | Reynard 98i            | Ford XB  | Firestone |    7 | Bobby Rahal                             |
+|  8 | Team Rahal               | Reynard 98i            | Ford XB  | Firestone |    8 | Bryan Herta                             |
+|  9 | Hogan Racing             | Reynard 98i            | Mercedes | Firestone |    9 | JJ Lehto                                |
+| 10 | Della Penna Motorsports  | Swift 009.c            | Ford XB  | Firestone |   10 | Richie Hearn                            |
+| 11 | Della Penna Motorsports  | Swift 009.c            | Ford XB  | Firestone |   43 | Hideshi Matsuda                         |
+| 12 | Project Indy             | Reynard 97i            | Ford XB  | Goodyear  |   15 | Roberto Moreno\n Domenico Schiattarella |
+| 13 | Bettenhausen Racing      | Reynard 98i            | Mercedes | Goodyear  |   16 | Hélio Castroneves                      |
+| 14 | PacWest Racing Group     | Reynard 98i            | Mercedes | Firestone |   17 | Maurício Gugelmin                      |
+| 15 | PacWest Racing Group     | Reynard 98i            | Mercedes | Firestone |   18 | Mark Blundell                           |
+| 16 | Payton/Coyne Racing      | Reynard 98i            | Ford XB  | Firestone |   19 | Michel Jourdain, Jr.                    |
+| 17 | Payton/Coyne Racing      | Reynard 98i            | Ford XB  | Firestone |   34 | Dennis Vitolo\n Gualter Salles          |
+| 18 | Patrick Racing           | Reynard 98i            | Ford XB  | Firestone |   20 | Scott Pruett                            |
+| 19 | Patrick Racing           | Reynard 98i            | Ford XB  | Firestone |   40 | Adrián Fernández                      |
+| 20 | Tasman Motorsports Group | Reynard 98i            | Honda    | Firestone |   21 | Tony Kanaan                             |
+| 21 | Arciero-Wells Racing     | Reynard 98i            | Toyota   | Firestone |   24 | Hiro Matsushita\n Robby Gordon          |
+| 22 | Arciero-Wells Racing     | Reynard 98i            | Toyota   | Firestone |   25 | Max Papis                               |
+| 23 | Team KOOL Green          | Reynard 98i            | Honda    | Firestone |   26 | Paul Tracy                              |
+| 24 | Team KOOL Green          | Reynard 98i            | Honda    | Firestone |   27 | Dario Franchitti                        |
+| 25 | Forsythe Racing          | Reynard 98i            | Mercedes | Firestone |   33 | Patrick Carpentier                      |
+| 26 | Forsythe Racing          | Reynard 98i            | Mercedes | Firestone |   99 | Greg Moore                              |
+| 27 | All American Racing      | Reynard 98i\nEagle 987 | Toyota   | Goodyear  |   36 | Alex Barron                             |
+| 28 | All American Racing      | Reynard 98i\nEagle 987 | Toyota   | Goodyear  |   98 | P. J. Jones\n Vincenzo Sospiri          |
+| 29 | Davis Racing             | Lola T98/00            | Ford XB  | Goodyear  |   77 | Arnd Meier                              |
+===================Question===================
+who has the same engines as team kool green?
+===================Text===================
+<think>
+Alright, I need to figure out which teams have the same engines as Team KOOL Green based on the provided table.
+
+First, let's look up Team KOOL Green in the table. Scrolling through, I see that Team KOOL Green is listed at index 23 and 24. Their engine is Honda. So, we're looking for other teams that use the Honda engine.
+
+Now, I'll go through each row to check the Engine column. Starting from the top:
+
+- Chip Ganassi Racing (rows 0 and 1) uses Honda engines.
+- Marlboro Team Penske (rows 2 and 3) uses Mercedes.
+- Walker Racing (row 4) has Honda.
+- Newman-Haas Racing (rows 5 and 6) uses Ford XB.
+- Team Rahal (rows 7 and 8) also uses Ford XB.
+- Hogan Racing (row 9) is Mercedes.
+- Della Penna Motorsports (rows 10 and 11) use Ford XB.
+- Project Indy (row 12) has Ford XB.
+- Bettenhausen Racing (row 13) uses Mercedes.
+- PacWest Racing Group (rows 14 and 15) have Mercedes.
+- Payton/Coyne Racing (rows 16 and 17) use Ford XB.
+- Patrick Racing (rows 18 and 19) also use Ford XB.
+- Tasman Motorsports Group (row 20) uses Honda.
+- Arciero-Wells Racing (rows 21 and 22) have Toyota engines.
+- Forsythe Racing (rows 25 and 26) are using Mercedes.
+- All American Racing (rows 27 and 28) have Toyota.
+- Davis Racing (row 29) uses Ford XB.
+
+So, compiling all teams with Honda engines:
+
+1. Chip Ganassi Racing
+2. Walker Racing
+3. Tasman Motorsports Group
+
+I need to make sure I didn't miss any. Let me double-check each row again quickly, but it seems those three are the only ones with Honda.
+</think>
+
+Final Answer: Chip Ganassi Racing, Walker Racing, Tasman Motorsports Group
+===================Answer===================
+Chip Ganassi Racing,Walker Racing,Tasman Motorsports Group

@@ -1,0 +1,61 @@
+===================Title===================
+George Bush Intercontinental Airport
+===================Table===================
+|    |   Rank | City                  | Passengers   | Top Carriers             |
+|---:|-------:|:----------------------|:-------------|:-------------------------|
+|  0 |      1 | Los Angeles, CA       | 700,000      | American, Spirit, United |
+|  1 |      2 | Chicago, IL           | 673,000      | American, Spirit, United |
+|  2 |      3 | Denver, CO            | 654,000      | Frontier, Spirit, United |
+|  3 |      4 | San Francisco, CA     | 492,000      | United                   |
+|  4 |      5 | Dallas/Fort Worth, TX | 488,000      | American, United         |
+|  5 |      6 | Newark, NJ            | 480,000      | United                   |
+|  6 |      7 | Las Vegas, NV         | 442,000      | Spirit, United           |
+|  7 |      8 | Charlotte, NC         | 441,000      | United, US Airways       |
+|  8 |      9 | Atlanta, GA           | 400,000      | Delta, United            |
+|  9 |     10 | Phoenix, AZ           | 393,000      | United, US Airways       |
+===================Question===================
+which is the busiest domestic route out of houston intercontinental airport that does not have an american flight?
+===================Text===================
+<think>
+Okay, so I need to figure out which is the busiest domestic route out of Houston Intercontinental Airport (which is probably George Bush Intercontinental Airport) that doesn't have an American flight. Let me look at the table provided.
+
+First, the table lists various cities with their rank based on passengers. The columns are Rank, City, Passengers, and Top Carriers. I need to find the domestic route, so all these cities should be within the United States since they're all in states like CA, IL, CO, etc.
+
+The key here is to identify which of these routes doesn't have American Airlines as one of the top carriers because the question asks for routes without an American flight. So I'll go through each row and check the Top Carriers column.
+
+Looking at Rank 1: Los Angeles, CA. The top carriers are American, Spirit, United. So American is there, so this route has American flights. Not what we're looking for.
+
+Rank 2: Chicago, IL. Again, American, Spirit, United. Also includes American. Move on.
+
+Rank 3: Denver, CO. Top carriers are Frontier, Spirit, United. Wait, no American here. So that's a candidate. Let me note that down as a possibility. The passenger count is 654,000, which is pretty high.
+
+Continuing to Rank 4: San Francisco, CA. Only United. No American. So another candidate. Passengers are 492,000.
+
+Rank 5: Dallas/Fort Worth, TX. Carriers include American and United. So American is present. Not our target.
+
+Rank 6: Newark, NJ. Only United again. Another route without American. Passenger count is 480,000.
+
+Rank 7: Las Vegas, NV. Spirit and United. No American here either. Passengers are 442,000.
+
+Rank 8: Charlotte, NC. Carriers are United and US Airways. So no American flights here. Passengers at 441,000.
+
+Rank 9: Atlanta, GA. Delta and United. No American? Wait, Delta is there but not American. So that's another candidate with 400k passengers.
+
+Rank 10: Phoenix, AZ. Carriers are United and US Airways. No mention of American. So this one too has 393,000 passengers.
+
+Now, the question asks for the busiest route without an American flight. Looking at the passenger numbers:
+
+- Denver, CO: 654,000
+- San Francisco, CA: 492,000
+- Newark, NJ: 480,000
+- Las Vegas, NV: 442,000
+- Charlotte, NC: 441,000
+- Atlanta, GA: 400,000
+- Phoenix, AZ: 393,000
+
+Out of these, Denver has the highest passenger count at 654,000 and doesn't have American as a top carrier. So that would be the busiest domestic route without an American flight.
+</think>
+
+Final Answer: Denver
+===================Answer===================
+Denver, CO

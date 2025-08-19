@@ -1,0 +1,51 @@
+===================Title===================
+List of radio station callsigns in Tasmania
+===================Table===================
+|    | Callsign   | Area served   |   Frequency | Band   | Fate                                                | Freq currently   | Purpose    |
+|---:|:-----------|:--------------|------------:|:-------|:----------------------------------------------------|:-----------------|:-----------|
+|  0 | 7CAE       | Hobart        |        92.1 | FM     | Changed call to 7THE ca. 1980                       | 7THE             | Community  |
+|  1 | 7DY        | Derby         |       nan   | AM     | Moved to Scottsdale and changed call to 7SD in 1954 | 7SD              | Commercial |
+|  2 | 7EX        | Launceston    |      1008   | AM     | Moved to FM in 2008 as 7EXX                         | silent           | Commercial |
+|  3 | 7HO        | Hobart        |       864   | AM     | Moved to FM in 1990 as 7HHO                         | 7RPH             | Commercial |
+|  4 | 7HT        | Hobart        |      1080   | AM     | Moved to FM in 1998 as 7XXX                         | 7TAB (HPON)      | Commercial |
+|  5 | 7LA        | Launceston    |      1098   | AM     | Moved to FM in 2008 as 7LAA                         | silent           | Commercial |
+|  6 | 7NT        | Launceston    |       711   | AM     | Moved to FM in 2006, retained call                  | silent           | National   |
+|  7 | 7QN        | Queenstown    |       630   | AM     | Moved to FM in 1991, retained call                  | 7RN              | National   |
+|  8 | 7QT        | Queenstown    |       837   | AM     | Changed call to 7XS in 1988                         | 7XS              | Commercial |
+|  9 | 7UV        | Ulverstone    |       nan   | AM     | Moved to Devonport and changed call to 7AD in 1940  | 7AD              | Commercial |
+| 10 | 7ZL        | Hobart        |       603   | AM     | Changed call to 7RN in 1991                         | 7RN              | National   |
+===================Question===================
+which area had their callsign changed first?
+===================Text===================
+<think>
+Alright, so I need to figure out which area had their callsign changed first based on the table provided. Let me start by understanding what each column represents.
+
+Looking at the table, there's a "Fate" column that describes what happened to each callsign. For example, some moved to different areas and changed their callsigns, while others switched from AM to FM or remained silent. The key here is finding when these changes occurred because we need the earliest one.
+
+I'll go through each row one by one:
+
+1. **Row 0**: Callsign 7CAE in Hobart. Fate says it changed to 7THE around 1980.
+2. **Row 1**: Callsign 7DY in Derby. It moved to Scottsdale and became 7SD in 1954.
+3. **Row 2**: Callsign 7EX in Launceston. Moved to FM as 7EXX in 2008.
+4. **Row 3**: Callsign 7HO in Hobart. Changed to 7HHO in 1990.
+5. **Row 4**: Callsign 7HT in Hobart. Became 7XXX in 1998.
+6. **Row 5**: Callsign 7LA in Launceston. Moved to FM as 7LAA in 2008.
+7. **Row 6**: Callsign 7NT in Launceston. Changed to FM in 2006, kept the call.
+8. **Row 7**: Callsign 7QN in Queenstown. Moved to FM in 1991.
+9. **Row 8**: Callsign 7QT in Queenstown. Changed to 7XS in 1988.
+10. **Row 9**: Callsign 7UV in Ulverstone. Moved to Devonport and became 7AD in 1940.
+11. **Row 10**: Callsign 7ZL in Hobart. Changed to 7RN in 1991.
+
+Now, looking at the years when each Fate occurred:
+
+- Row 1: 1954
+- Row 9: 1940
+
+So the earliest change was in 1940 for callsign 7UV moving from Ulverstone to Devonport and changing to 7AD. That's before any of the other changes, which are all in later years like 1954, 1980, etc.
+
+Therefore, Ulverstone had their callsign changed first.
+</think>
+
+Final Answer: Ulverstone
+===================Answer===================
+Ulverstone

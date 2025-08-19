@@ -1,0 +1,71 @@
+===================Title===================
+Tina Weirather
+===================Table===================
+|    |   Season | Date        | Location                 | Discipline   | Place   |
+|---:|---------:|:------------|:-------------------------|:-------------|:--------|
+|  0 |     2012 | 2 Dec 2011  | Lake Louise, Canada      | Downhill     | 2nd     |
+|  1 |     2012 | 28 Jan 2012 | St. Moritz, Switzerland  | Downhill     | 3rd     |
+|  2 |     2012 | 4 Feb 2012  | Garmisch, Germany        | Downhill     | 3rd     |
+|  3 |     2012 | 5 Feb 2012  | Garmisch, Germany        | Super-G      | 3rd     |
+|  4 |     2012 | 26 Feb 2012 | Bansko, Bulgaria         | Super-G      | 2nd     |
+|  5 |     2013 | 30 Nov 2012 | Lake Louise, Canada      | Downhill     | 3rd     |
+|  6 |     2013 | 1 Mar 2013  | Garmisch, Germany        | Super-G      | 1st     |
+|  7 |     2014 | 29 Nov 2013 | Beaver Creek, USA        | Downhill     | 2nd     |
+|  8 |     2014 | 1 Dec 2013  | Beaver Creek, USA        | Giant slalom | 3rd     |
+|  9 |     2014 | 7 Dec 2013  | Lake Louise, Canada      | Downhill     | 2nd     |
+| 10 |     2014 | 8 Dec 2013  | Lake Louise, Canada      | Super-G      | 2nd     |
+| 11 |     2014 | 14 Dec 2013 | St. Moritz, Switzerland  | Super-G      | 1st     |
+| 12 |     2014 | 22 Dec 2013 | Val-d'Isère, France     | Giant slalom | 1st     |
+| 13 |     2014 | 24 Jan 2014 | Cortina d'Ampezzo, Italy | Downhill     | 2nd     |
+| 14 |     2014 | 25 Jan 2014 | Cortina d'Ampezzo, Italy | Downhill     | 3rd     |
+| 15 |     2014 | 26 Jan 2014 | Cortina d'Ampezzo, Italy | Super-G      | 2nd     |
+===================Question===================
+which location is previous to lake louise canada on 30 nov 2012
+===================Text===================
+<think>
+Okay, so I need to figure out which location comes before Lake Louise, Canada on 30 Nov 2012 in Tina Weirather's competition history based on the provided table.
+
+First, let me look at the table and understand its structure. The table has several columns: Season, Date, Location, Discipline, and Place. Each row represents a different event she participated in.
+
+I'm specifically interested in the entry where the date is 30 Nov 2012 because that's when Lake Louise, Canada was the location. I need to find the location that came right before this date in her competition history.
+
+Looking at the table, I'll go through each row in order and note down the dates and locations to see which one comes just before November 30, 2012.
+
+Starting from the top:
+
+- The first entry is Season 2012 on 2 Dec 2011. That's earlier than Nov 2012.
+- Next, on 28 Jan 2012 in St. Moritz, Switzerland.
+- Then 4 Feb and 5 Feb 2012 in Garmisch, Germany for both Downhill and Super-G.
+- On 26 Feb 2012, Bansko, Bulgaria for Super-G.
+- Now, the next season is 2013 with a date of 30 Nov 2012. So this is the event at Lake Louise, Canada.
+
+Wait, so before November 30, 2012, the previous events were in February and then in November. But looking back, after Season 2012, the next entry is in Season 2013 but on 30 Nov 2012. That's a bit confusing because seasons usually run from one year to another.
+
+Wait, maybe I should sort all the dates chronologically regardless of the season number. Let me list them out by date:
+
+1. 2 Dec 2011: Lake Louise, Canada
+2. 28 Jan 2012: St. Moritz, Switzerland
+3. 4 Feb 2012: Garmisch, Germany (Downhill)
+4. 5 Feb 2012: Garmisch, Germany (Super-G)
+5. 26 Feb 2012: Bansko, Bulgaria
+6. 30 Nov 2012: Lake Louise, Canada
+7. Then the rest are from Dec 2013 onwards.
+
+Wait a second, that doesn't make sense because November comes before December in the same year. So Season 2013's first event is on 30 Nov 2012, which would actually be part of Season 2012-2013, I suppose.
+
+So in order:
+
+After February 26, 2012 (Bansko), the next event is November 30, 2012 at Lake Louise. But that can't be right because there's a gap between Feb and Nov. So what happened before Nov 30, 2012? The last event before that would have been in Season 2012.
+
+Wait, but all events after Bansko on 26 Feb 2012 are from the next season, starting with Lake Louise on 30 Nov 2012. So is there any event between February and November 2012? From the table provided, no. The next entry after February 26, 2012 is November 30, 2012.
+
+Therefore, the immediate previous event before November 30, 2012 was in Bansko, Bulgaria on February 26, 2012. Wait, but that's in Season 2012 as well. So in terms of date order, yes, that comes before.
+
+Wait, no, because after Bansko (Feb), there are no other events until Nov 30, 2012. So the event right before Lake Louise on Nov 30, 2012 would be Bansko on Feb 26, 2012.
+
+But wait, that's a gap of several months. However, according to the table provided, those are the only entries. There are no events between February and November in Season 2012. So the last event before Lake Louise was in Bansko, Bulgaria.
+</think>
+
+Final Answer: Bansko, Bulgaria
+===================Answer===================
+Bansko, Bulgaria

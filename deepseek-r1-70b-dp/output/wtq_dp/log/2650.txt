@@ -1,0 +1,81 @@
+===================Title===================
+Sport in Australia
+===================Table===================
+|    | Competition                        | Total spectatorship   | Average match attendance   | Year      |
+|---:|:-----------------------------------|:----------------------|:---------------------------|:----------|
+|  0 | A-League                           | 1,772,133             | 12,707                     | 2012/2013 |
+|  1 | Australian Football League         | 6,931,085             | 33,484                     | 2013      |
+|  2 | Big Bash League                    | 550,262               | 17,750                     | 2011/2012 |
+|  3 | National Basketball League         | 547,021               | 4,031                      | 2010/2011 |
+|  4 | National Rugby League              | 3,345,248             | 16,643                     | 2013      |
+|  5 | Super Rugby                        | 773,940               | 19,348                     | 2012      |
+|  6 | Rugby Championship                 | 133,532               | 44,511                     | 2012      |
+|  7 | State of Origin series             | 186,607               | 62,202                     | 2011      |
+|  8 | Women's National Basketball League | 77,944                | nan                        | 2010/2011 |
+===================Question===================
+what is the total of the 4 highest total spectatorships?
+===================Text===================
+<think>
+Okay, so I need to figure out the total of the four highest total spectatorships from the given table about sports in Australia. Let me break this down step by step.
+
+First, I'll look at each row and note the "Total spectatorship" numbers. The table has 9 entries, from index 0 to 8. Each represents a different competition. 
+
+Starting with index 0: A-League has 1,772,133 spectators.
+Index 1: Australian Football League (AFL) has a much higher number at 6,931,085.
+Index 2: Big Bash League is next with 550,262.
+Index 3: National Basketball League (NBL) shows 547,021.
+Index 4: National Rugby League (NRL) has 3,345,248.
+Index 5: Super Rugby's total is 773,940.
+Index 6: Rugby Championship at 133,532.
+Index 7: State of Origin series is 186,607.
+Index 8: Women's National Basketball League (WNBL) has 77,944.
+
+Now, I need to list all the Total spectatorship numbers in order to identify the top four. Let me jot them down:
+
+- AFL: 6,931,085
+- NRL: 3,345,248
+- A-League: 1,772,133
+- Super Rugby: 773,940
+- Big Bash League: 550,262
+- NBL: 547,021
+- State of Origin: 186,607
+- Rugby Championship: 133,532
+- WNBL: 77,944
+
+Wait, I think I might have missed one. Let me recount to make sure I got all nine entries. Yep, that's correct.
+
+Now, arranging them from highest to lowest:
+
+1. AFL - 6,931,085
+2. NRL - 3,345,248
+3. A-League - 1,772,133
+4. Super Rugby - 773,940
+5. Big Bash League - 550,262
+6. NBL - 547,021
+7. State of Origin - 186,607
+8. Rugby Championship - 133,532
+9. WNBL - 77,944
+
+So the top four are the first four entries in this ordered list: AFL, NRL, A-League, and Super Rugby.
+
+Now I need to sum these four numbers:
+
+AFL: 6,931,085  
+NRL: 3,345,248  
+A-League: 1,772,133  
+Super Rugby: 773,940
+
+Let me add them one by one. 
+
+First, AFL + NRL: 6,931,085 + 3,345,248 = 10,276,333.
+
+Next, adding A-League's total: 10,276,333 + 1,772,133 = 12,048,466.
+
+Then, add Super Rugby's number: 12,048,466 + 773,940 = 12,822,406.
+
+So, the total of the four highest spectatorships is 12,822,406.
+</think>
+
+Final Answer: 12822406
+===================Answer===================
+12822406

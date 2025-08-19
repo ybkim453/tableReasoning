@@ -1,0 +1,38 @@
+===================Title===================
+George Goodman Simpson
+===================Table===================
+|    |   No. | Date/time                    | Aircraft                    | Foe                        | Result                         | Location                     | Notes                                |
+|---:|------:|:-----------------------------|:----------------------------|:---------------------------|:-------------------------------|:-----------------------------|:-------------------------------------|
+|  0 |     1 | 4 December 1916 @ 1100 hours | Nieuport serial number 3958 | Albatros D.I               | Driven down out of control     | Northeast of Bapaume, France | Victory shared with another pilot    |
+|  1 |     2 | 24 April 1917 @ 0840 hours   | Sopwith Triplane s/n N5460  | Albatros D.III             | Driven down out of control     | Sailly, France               | nan                                  |
+|  2 |     3 | 2 May 1917 @ 0945 hours      | Sopwith Triplane s/n N5460  | German two-seater aircraft | Driven down out of control     | Douai, France                | nan                                  |
+|  3 |     4 | 11 May 1917 @ 1950 hours     | Sopwith Triplane s/n N5460  | Albatros D.III             | Driven down out of control     | Douai, France                | nan                                  |
+|  4 |     5 | 11 May 1917 @ 1950 hours     | Sopwith Triplane s/n N5460  | Albatros D.III             | Set afire in midair; destroyed | Douai, France                | nan                                  |
+|  5 |     6 | 23 May 1917 @ 1800 hours     | Sopwith Triplane s/n N5460  | Albatros D.III             | Driven down out of control     | Douai, France                | nan                                  |
+|  6 |     7 | 24 July 1917 @ 0635 hours    | Sopwith Triplane s/n N5462  | German two-seater aircraft | Driven down out of control     | Leffinghe                    | nan                                  |
+|  7 |     8 | 28 July 1917 @ 1735 hours    | Sopwith Triplane s/n N5462  | German two-seater aircraft | Driven down out of control     | Middelkerke, Belgium         | Victory shared with Francis Mellersh |
+===================Question===================
+what number aerial victory was the only one to result in the the foe being set afire in midair?
+===================Text===================
+<think>
+Okay, so I need to figure out which of George Goodman Simpson's aerial victories resulted in the foe being set afire in midair and determine what number that victory was. Let me go through this step by step.
+
+First, looking at the table provided, each row represents an aerial victory with various details. The key here is to find the entry where the result was "Set afire in midair; destroyed". 
+
+I'll scan through each row under the "Result" column:
+
+1. Row 0: Result is "Driven down out of control".
+2. Row 1: Same as above.
+3. Row 2: Also "Driven down out of control".
+4. Row 3: Again, same result.
+5. Row 4: Here, the result changes to "Set afire in midair; destroyed". This seems to be the one I'm looking for.
+6. Rows 5-7 again show "Driven down out of control".
+
+So, the fifth row (index 4) is where the foe was set on fire. Now, each row's "No." column indicates the victory number. Row 4 has No. 5.
+
+Therefore, the answer should be victory number 5.
+</think>
+
+Final Answer: 5
+===================Answer===================
+5

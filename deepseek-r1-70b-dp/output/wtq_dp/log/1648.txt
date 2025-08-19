@@ -1,0 +1,46 @@
+===================Title===================
+Jacques Laffite
+===================Table===================
+|    |   Year | Class   |   No | Tyres   | Car                                              | Team                    | Co-Drivers                                 |   Laps | Pos.   | Class\nPos.   |
+|---:|-------:|:--------|-----:|:--------|:-------------------------------------------------|:------------------------|:-------------------------------------------|-------:|:-------|:--------------|
+|  0 |   1972 | S\n3.0  |   22 | nan     | Ligier JS2\nMaserati 3.0L V6                     | Automobiles Ligier      | Pierre Maublanc                            |    195 | DNF    | DNF           |
+|  1 |   1973 | S\n3.0  |   62 | nan     | Ligier JS2\nMaserati 3.0L V6                     | Automobiles Ligier      | Guy Ligier                                 |     24 | DSQ    | DSQ           |
+|  2 |   1974 | S\n3.0  |   15 | nan     | Ligier JS2\nMaserati 3.0L V6                     | Automobiles Ligier      | Alain Serpaggi                             |    310 | 8th    | 5th           |
+|  3 |   1977 | S\n+2.0 |    8 | nan     | Renault Alpine A442\nRenault 2.0L Turbo V6       | Renault Sport           | Patrick Depailler                          |    289 | DNF    | DNF           |
+|  4 |   1978 | S\n+2.0 |   10 | nan     | Mirage M9\nRenault 2.0L Turbo V6                 | Grand Touring Cars Inc. | Vern Schuppan\n Sam Posey                  |    293 | 10th   | 5th           |
+|  5 |   1990 | C1      |    6 | G       | Porsche 962C\nPorsche Type-935 3.0L Turbo Flat-6 | Joest Porsche Racing    | Henri Pescarolo\n Jean-Louis Ricci         |    328 | 14th   | 14th          |
+|  6 |   1993 | GT      |   71 | D       | Venturi 500LM\nRenault PRV 3.0 L Turbo V6        | Jacadi Racing           | Michel Maisonneuve\n Christophe Dechavanne |    210 | DNF    | DNF           |
+|  7 |   1994 | GT2     |   49 | P       | Porsche 911 Carrera RSR\nPorsche 3.8 L Flat-6    | Larbre Compétition     | Jacques Alméras\n Jean-Marie Alméras     |     94 | DNF    | DNF           |
+|  8 |   1996 | GT1     |   38 | M       | McLaren F1 GTR\nBMW S70 6.1L V12                 | Team Bigazzi SRL        | Steve Soper\n Marc Duez                    |    318 | 11th   | 9th           |
+===================Question===================
+how many teams have only one co-driver?
+===================Text===================
+<think>
+Alright, so I need to figure out how many teams in Jacques Laffite's table have only one co-driver. Let me go through this step by step.
+
+First, I'll look at each row of the table and check the "Co-Drivers" column for each entry. The task is to count the number of times there's exactly one co-driver listed.
+
+Starting with the first row (Year 1972), Co-Drivers are Pierre Maublanc. That's just one name, so this team has only one co-driver.
+
+Next, in 1973, it's Guy Ligier again, a single co-driver.
+
+In 1974, Alain Serpaggi is listed alone as well, so that's another team with one co-driver.
+
+Moving to 1977, Patrick Depailler is the sole co-driver here too.
+
+Now, looking at 1978, the Co-Drivers are Vern Schuppan and Sam Posey. That's two names, so this row doesn't count towards our total.
+
+In 1990, we have Henri Pescarolo and Jean-Louis Ricci as co-drivers. Two names again, so this team isn't counted.
+
+For 1993, the Co-Drivers are Michel Maisonneuve and Christophe Dechavanne. Another two names, so no count here.
+
+In 1994, Jacques Alméras and Jean-Marie Alméras are listed together as co-drivers. That's two people again.
+
+Lastly, in 1996, Steve Soper and Marc Duez are the co-drivers, which is two names once more.
+
+So, from all these rows, the ones with only one co-driver are years 1972, 1973, 1974, and 1977. That makes a total of four teams.
+</think>
+
+Final Answer: 4
+===================Answer===================
+4

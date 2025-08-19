@@ -1,0 +1,44 @@
+===================Title===================
+Leonor Piuza
+===================Table===================
+|    |   Year | Competition           | Venue                 | Position   | Event   | Notes   |
+|---:|-------:|:----------------------|:----------------------|:-----------|:--------|:--------|
+|  0 |   2003 | All-Africa Games      | Abuja, Nigeria        | 11th (h)   | 800 m   | 2:05.19 |
+|  1 |   2006 | Commonwealth Games    | Melbourne, Australia  | 9th (sf)   | 800 m   | 2:01.84 |
+|  2 |   2006 | African Championships | Bambous, Mauritius    | 13th (h)   | 800 m   | 2:10.50 |
+|  3 |   2006 | Lusophony Games       | Macau                 | 1st        | 800 m   | 2:07.34 |
+|  4 |   2007 | All-Africa Games      | Algiers, Algeria      | 1st        | 800 m   | 2:02.83 |
+|  5 |   2008 | African Championships | Addis Ababa, Ethiopia | 6th        | 800 m   | 2:05.95 |
+|  6 |   2009 | Lusophony Games       | Lisbon, Portugal      | 4th        | 800 m   | 2:07.48 |
+|  7 |   2009 | World Championships   | Berlin, Germany       | 36th (h)   | 800 m   | 2:06.72 |
+|  8 |   2010 | African Championships | Nairobi, Kenya        | 7th        | 800 m   | 2:08.45 |
+|  9 |   2010 | Commonwealth Games    | Delhi, India          | –          | 800 m   | DNF     |
+| 10 |   2011 | All-Africa Games      | Maputo, Mozambique    | 12th (h)   | 800 m   | 2:06.72 |
+===================Question===================
+what is the last competition?
+===================Text===================
+<think>
+Alright, so I need to figure out what the last competition is from the table provided about Leonor Piuza's performances. Let me take it step by step.
+
+First, looking at the table structure, each row represents a different event she participated in. The columns are: Year, Competition, Venue, Position, Event, and Notes. Since I'm interested in the last competition, I should focus on the most recent entry in the table.
+
+The table has entries from 2003 up to 2011. Each row is numbered from 0 to 10, with row 0 being the earliest (2003) and row 10 the latest (2011). So, the last entry should be at index 10.
+
+Looking at row 10:
+- Year: 2011
+- Competition: All-Africa Games
+- Venue: Maputo, Mozambique
+- Position: 12th (h)
+- Event: 800 m
+- Notes: 2:06.72
+
+Therefore, the last competition she participated in was the "All-Africa Games" held in Maputo, Mozambique in 2011.
+
+I should make sure there are no entries beyond 2011. Scanning through the years, they go up to 2011, so that's indeed the latest one. There's no entry after that year.
+</think>
+
+The last competition Leonor Piuza participated in was the All-Africa Games in Maputo, Mozambique in 2011.
+
+Final Answer: All-Africa Games
+===================Answer===================
+All-Africa Games

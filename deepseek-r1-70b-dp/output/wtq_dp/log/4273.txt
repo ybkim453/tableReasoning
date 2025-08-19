@@ -1,0 +1,76 @@
+===================Title===================
+Brose Baskets
+===================Table===================
+|    | Season   |   Tier | League     |   Pos. | Postseason          | German Cup      | European competitions                          |
+|---:|:---------|-------:|:-----------|-------:|:--------------------|:----------------|:-----------------------------------------------|
+|  0 | 1991–92  |      1 | Bundesliga |      2 | Semifinalist        | Champion        | –                                              |
+|  1 | 1992–93  |      1 | Bundesliga |      1 | Finalist            | –               | –                                              |
+|  2 | 1993–94  |      1 | Bundesliga |      1 | Semifinalist        | Semifinalist    | –                                              |
+|  3 | 1994–95  |      1 | Bundesliga |      1 | Semifinalist        | –               | 3 Played Korać Cup                            |
+|  4 | 1995–96  |      1 | Bundesliga |      4 | Semifinalist        | Semifinalist    | 3 Played Korać Cup                            |
+|  5 | 1996–97  |      1 | Bundesliga |      3 | Semifinalist        | Semifinalist    | 3 Played Korać Cup                            |
+|  6 | 1997–98  |      1 | Bundesliga |      3 | Semifinalist        | –               | 3 Played Korać Cup                            |
+|  7 | 1998–99  |      1 | Bundesliga |      6 | Quarterfinalist     | Third place     | 3 Played Korać Cup                            |
+|  8 | 1999–00  |      1 | Bundesliga |     10 | Round of 16         | –               | –                                              |
+|  9 | 2000–01  |      1 | Bundesliga |     10 | Relegation playoffs | –               | –                                              |
+| 10 | 2001–02  |      1 | Bundesliga |      7 | Quarterfinalist     | –               | –                                              |
+| 11 | 2002–03  |      1 | Bundesliga |      2 | Finalist            | –               | –                                              |
+| 12 | 2003–04  |      1 | Bundesliga |      2 | Finalist            | –               | 3 Played FIBA Europe League                    |
+| 13 | 2004–05  |      1 | Bundesliga |      1 | Champion            | –               | 2 Played ULEB Cup                              |
+| 14 | 2005–06  |      1 | Bundesliga |      3 | Semifinalist        | Finalist        | 1 Euroleague Top 16                            |
+| 15 | 2006–07  |      1 | Bundesliga |      1 | Champion            | –               | 2 Played ULEB Cup                              |
+| 16 | 2007–08  |      1 | Bundesliga |      7 | Quarterfinalist     | –               | 1 Euroleague Regular Season                    |
+| 17 | 2008–09  |      1 | Bundesliga |      4 | Semifinalist        | –               | 2 Played Eurocup                               |
+| 18 | 2009–10  |      1 | Bundesliga |      1 | Champion            | Champion        | 2 Played Eurocup                               |
+| 19 | 2010–11  |      1 | Bundesliga |      1 | Champion            | Champion        | 1 Euroleague Regular Season                    |
+| 20 | 2011–12  |      1 | Bundesliga |      1 | Champion            | Champion        | 1 Euroleague Regular Season                    |
+| 21 | 2012–13  |      1 | Bundesliga |      1 | Champion            | Quarterfinalist | 1 Euroleague Top 16                            |
+| 22 | 2013–14  |      1 | Bundesliga |    nan | nan                 | Third place     | 1 Euroleague Regular Season\n2 Eurocup Last 32 |
+===================Question===================
+after 2000-01 how many times were they semifinalists in the postseason?
+===================Text===================
+<think>
+Okay, let me try to figure this out step by step. The question is asking how many times Brose Baskets were semifinalists in the postseason after the 2000-01 season.
+
+First, I need to understand the table structure. Each row represents a season from 1991-92 to 2013-14. The columns are Season, Tier, League, Position (Pos.), Postseason, German Cup, and European competitions.
+
+I'm focusing on the seasons after 2000-01, so that would be starting from the next season, which is 2001-02 up until 2013-14.
+
+Looking at each relevant row:
+
+1. **2001-02 (Row 10):** Postseason is Quarterfinalist.
+2. **2002-03 (Row 11):** Postseason is Finalist.
+3. **2003-04 (Row 12):** Postseason is Finalist.
+4. **2004-05 (Row 13):** They were Champion, so that's beyond semifinalist.
+5. **2005-06 (Row 14):** Postseason is Semifinalist. That counts as one.
+6. **2006-07 (Row 15):** They were Champion again.
+7. **2007-08 (Row 16):** Quarterfinalist.
+8. **2008-09 (Row 17):** Semifinalist. That's another one, so total two now.
+9. **2009-10 (Row 18):** Champion.
+10. **2010-11 (Row 19):** Champion.
+11. **2011-12 (Row 20):** Champion.
+12. **2012-13 (Row 21):** Champion, but wait, the Postseason is listed as 'Quarterfinalist'? No, looking back, Row 21 says the Postseason is 'Champion', so I think maybe it's a typo in my notes. Wait no, checking again: Row 21 has Pos. 1 and Postseason as Champion? Or did I misread?
+
+Wait, let me check each row carefully.
+
+Row 10 (2001-02): Quarterfinalist
+Row 11 (2002-03): Finalist
+Row 12 (2003-04): Finalist
+Row 13 (2004-05): Champion
+Row 14 (2005-06): Semifinalist → count =1
+Row 15 (2006-07): Champion
+Row 16 (2007-08): Quarterfinalist
+Row 17 (2008-09): Semifinalist → count=2
+Wait, is that right? Let me confirm.
+
+Looking at the table:
+
+For 2005–06: Postseason is 'Semifinalist' → yes.
+Then for 2008–09: Postseason is 'Semifinalist' again. So that's two instances after 2000-01.
+
+I think I might have miscounted earlier, but upon rechecking, only rows 14 (2005-06) and 17 (2008-09) have 'Semifinalist' in Postseason after 2001.
+</think>
+
+Final Answer: 2
+===================Answer===================
+2

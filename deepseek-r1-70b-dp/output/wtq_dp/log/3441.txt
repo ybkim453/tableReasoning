@@ -1,0 +1,62 @@
+===================Title===================
+AFL Cairns
+===================Table===================
+|    |   Year | Premiers                        | Score       | Runners Up                      | Score .1   |
+|---:|-------:|:--------------------------------|:------------|:--------------------------------|:-----------|
+|  0 |   2003 | Centrals Trinity Beach Bulldogs | 14.11 (95)  | North Cairns                    | 6.7 (43)   |
+|  1 |   2004 | Port Douglas Crocs              | 17.13 (115) | North Cairns Tigers             | 8.9 (57)   |
+|  2 |   2005 | Port Douglas Crocs              | 19.14 (128) | Cairns Saints                   | 4.11 (35)  |
+|  3 |   2006 | Manunda Hawks                   | 11.11 (77)  | Centrals Trinity Beach Bulldogs | 10.9 (69)  |
+|  4 |   2007 | Centrals Trinity Beach Bulldogs | 14.16 (100) | Cairns Saints                   | 11.2 (68)  |
+|  5 |   2008 | Cairns Saints                   | 12.15 (87)  | North Cairns Tigers             | 2.9 (21)   |
+|  6 |   2009 | South Cairns Cutters            | 9.11 (65)   | Cairns Saints                   | 9.4 (58)   |
+|  7 |   2010 | North Cairns Tigers             | 8.10 (58)   | Port Douglas Crocs              | 8.5 (53)   |
+|  8 |   2011 | Manunda Hawks                   | 11.8 (74)   | Port Douglas Crocs              | 6.9 (45)   |
+|  9 |   2012 | Cairns Saints                   | 17.6 (108)  | North Cairns Tigers             | 11.12 (78) |
+| 10 |   2013 | North Cairns Tigers             | 14.14 (98)  | Port Douglas Crocs              | 13.6 (84)  |
+===================Question===================
+which premier had the top score?
+===================Text===================
+<think>
+Okay, so I have this table about AFL Cairns premiers from 2003 to 2013, and I need to figure out which premier had the top score. Let me break it down step by step.
+
+First, I should understand what each column represents. The columns are Year, Premiers, Score, Runners Up, and another Score column (maybe for runners-up). My focus is on the Premiers and their Scores because the question asks about the premier with the highest score.
+
+Looking at the data:
+
+- In 2003, Centrals Trinity Beach Bulldogs scored 14.11 (95).
+- 2004: Port Douglas Crocs with 17.13 (115).
+- 2005: Port Douglas Crocs again, this time 19.14 (128).
+- 2006: Manunda Hawks at 11.11 (77).
+- 2007: Centrals Trinity Beach Bulldogs with 14.16 (100).
+- 2008: Cairns Saints scored 12.15 (87).
+- 2009: South Cairns Cutters had 9.11 (65).
+- 2010: North Cairns Tigers with 8.10 (58).
+- 2011: Manunda Hawks again, scoring 11.8 (74).
+- 2012: Cairns Saints at 17.6 (108).
+- 2013: North Cairns Tigers with 14.14 (98).
+
+Now, I need to compare the scores for each premier. Let's list them out:
+
+1. 95
+2. 115
+3. 128
+4. 77
+5. 100
+6. 87
+7. 65
+8. 58
+9. 74
+10. 108
+11. 98
+
+Looking at these numbers, the highest score is 128 in 2005 by Port Douglas Crocs. So that's the top score.
+
+I need to make sure I didn't miss any higher scores. Scanning through again: 95, 115, then 128 which is clearly the biggest. The next high is 100 and 108 but nothing exceeds 128.
+
+So, the answer should be Port Douglas Crocs in 2005 with 128 points.
+</think>
+
+Final Answer: Port Douglas Crocs
+===================Answer===================
+Port Douglas Crocs

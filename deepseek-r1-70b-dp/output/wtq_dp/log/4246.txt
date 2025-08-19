@@ -1,0 +1,46 @@
+===================Title===================
+James Brooks (American football)
+===================Table===================
+|    | Year          | Team                 |   GP | Att   | Yds   |   Avg |   Long |   Rush TD |   Rec | Yds .1   |   Avg .1 |   Long .1 |   Rec TD |
+|---:|:--------------|:---------------------|-----:|:------|:------|------:|-------:|----------:|------:|:---------|---------:|----------:|---------:|
+|  0 | 1981          | San Diego Chargers   |   14 | 109   | 525   |   4.8 |     28 |         3 |    46 | 329      |      7.2 |        29 |        3 |
+|  1 | 1982          | San Digeo Chargers   |    9 | 87    | 430   |   4.9 |     48 |         6 |    13 | 66       |      5.1 |        12 |        0 |
+|  2 | 1983          | San Diego Chargers   |   15 | 127   | 516   |   4.1 |     61 |         3 |    25 | 215      |      8.6 |        36 |        0 |
+|  3 | 1984          | Cincinnati Bengals   |   15 | 103   | 396   |   3.8 |     33 |         2 |    34 | 268      |      7.9 |        27 |        2 |
+|  4 | 1985          | Cincinnati Bengals   |   16 | 192   | 929   |   4.8 |     39 |         7 |    55 | 576      |     10.5 |        57 |        5 |
+|  5 | 1986          | Cincinnati Bengals   |   16 | 205   | 1,087 |   5.3 |     56 |         5 |    54 | 686      |     12.7 |        54 |        4 |
+|  6 | 1987          | Cincinnati Bengals   |    9 | 94    | 280   |   3.1 |     18 |         1 |    22 | 272      |     12.4 |        46 |        2 |
+|  7 | 1988          | Cincinnati Bengals   |   15 | 182   | 931   |   5.1 |     51 |         8 |    29 | 287      |      9.9 |        28 |        6 |
+|  8 | 1989          | Cincinnati Bengals   |   16 | 221   | 1,239 |   5.6 |     65 |         7 |    37 | 306      |      8.3 |        25 |        2 |
+|  9 | 1990          | Cincinnati Bengals   |   16 | 195   | 1,004 |   5.1 |     56 |         5 |    26 | 269      |     10.3 |        35 |        4 |
+| 10 | 1991          | Cincinnati Bengals   |   15 | 152   | 571   |   3.8 |     25 |         2 |    40 | 348      |      8.7 |        40 |        2 |
+| 11 | 1992          | Tampa Bay Buccaneers |    2 | 5     | 6     |   1.2 |      4 |         0 |     0 | 0        |      0   |         0 |        0 |
+| 12 | 1992          | Cleveland Browns     |    4 | 13    | 38    |   2.9 |     13 |         0 |     2 | -1       |     -0.5 |         4 |        0 |
+| 13 | Career Totals | nan                  |  162 | 1,685 | 7,962 |   4.7 |     65 |        49 |   383 | 3,621    |      9.5 |        57 |       30 |
+===================Question===================
+which years have the most games played at 16?
+===================Text===================
+<think>
+Okay, I need to figure out which years James Brooks played in 16 games. Let's start by looking at the table provided.
+
+The table has columns for Year and GP (which stands for Games Played). I'll go through each row and check the GP column for each year.
+
+Starting with 1981: GP is 14, so that's not 16.
+1982: GP is 9, way below.
+1983: GP is 15, close but not 16.
+1984: GP is 15 again.
+1985: Here, GP is 16. So that's one year.
+1986: Also GP is 16, another year.
+Looking at 1987: Only 9 games, so no.
+1988: GP is 15.
+1989: GP is 16, so that's a third year.
+1990: GP is 16 again, fourth year.
+1991: GP drops to 15.
+1992 with Tampa Bay Buccaneers: He played only 2 games there and then 4 with Cleveland Browns. So combined, he didn't reach 16 in 1992.
+
+So the years where GP was exactly 16 are 1985, 1986, 1989, and 1990.
+</think>
+
+Final Answer: 1985, 1986, 1989, 1990
+===================Answer===================
+1985,1986,1989,1990

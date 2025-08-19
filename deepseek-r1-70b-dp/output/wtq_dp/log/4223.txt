@@ -1,0 +1,119 @@
+===================Title===================
+Men's 200 metres world record progression
+===================Table===================
+|    | Time   | Wind   | Auto   | Athlete        | Nationality    | Location of race              | Date              |
+|---:|:-------|:-------|:-------|:---------------|:---------------|:------------------------------|:------------------|
+|  0 | 20.6y  | nan    | nan    | Andy Stanfield | United States  | Philadelphia, United States   | May 26, 1951      |
+|  1 | 20.6   | nan    | nan    | Andy Stanfield | United States  | Los Angeles, United States    | June 28, 1952     |
+|  2 | 20.6   | 0.0    | nan    | Thane Baker    | United States  | Bakersfield, United States    | June 23, 1956     |
+|  3 | 20.6   | nan    | 20.75  | Bobby Morrow   | United States  | Melbourne, Australia          | November 27, 1956 |
+|  4 | 20.6   | nan    | nan    | Manfred Germar | West Germany   | Wuppertal, Germany            | October 1, 1958   |
+|  5 | 20.6y  | −1.6   | nan    | Ray Norton     | United States  | Berkeley, United States       | March 19, 1960    |
+|  6 | 20.6   | nan    | nan    | Ray Norton     | United States  | Philadelphia, United States   | April 30, 1960    |
+|  7 | 20.5y  | nan    | nan    | Peter Radford  | United Kingdom | Wolverhampton, United Kingdom | May 28, 1960      |
+|  8 | 20.5   | 0.0    | 20.75  | Stone Johnson  | United States  | Stanford, United States       | July 2, 1960      |
+|  9 | 20.5   | 0.0    | nan    | Ray Norton     | United States  | Stanford, United States       | July 2, 1960      |
+| 10 | 20.5   | nan    | 20.65  | Livio Berruti  | Italy          | Rome, Italy                   | September 3, 1960 |
+| 11 | 20.5   | nan    | 20.62  | Livio Berruti  | Italy          | Rome, Italy                   | September 3, 1960 |
+| 12 | 20.5y  | −1.1   | 20.67  | Paul Drayton   | United States  | Walnut, United States         | June 23, 1962     |
+| 13 | 20.3y  | −0.1   | nan    | Henry Carr     | United States  | Tempe, United States          | March 23, 1963    |
+| 14 | 20.2y  | 0.5    | nan    | Henry Carr     | United States  | Tempe, United States          | April 4, 1964     |
+| 15 | 20.0y  | 0.0    | nan    | Tommie Smith   | United States  | Sacramento, United States     | June 11, 1968     |
+| 16 | 19.8A  | 0.9    | 19.83A | Tommie Smith   | United States  | Mexico City, Mexico           | October 16, 1968  |
+| 17 | 19.8A  | 0.9    | 19.86A | Donald Quarrie | Jamaica        | Cali, Colombia                | August 3, 1971    |
+| 18 | 19.8+  | 1.3    | nan    | Donald Quarrie | Jamaica        | Eugene, Oregon, United States | June 7, 1975      |
+===================Question===================
+which athlete set the most records in a country other than the united states?
+===================Text===================
+<think>
+Alright, so I'm looking at this table about the Men's 200 metres world record progression. The question is asking which athlete set the most records in a country other than the United States. Hmm, okay.
+
+First, I need to go through each row and note where the race took place. The key columns here are "Location of race" and "Nationality". But wait, actually, the nationality of the athlete might not matter because the question is about where the record was set, regardless of the athlete's country. So, I should focus on the "Location of race" column.
+
+Looking at each entry:
+
+0: Philadelphia, United States → USA
+1: Los Angeles, USA
+2: Bakersfield, USA
+3: Melbourne, Australia → Not USA
+4: Wuppertal, Germany → Not USA (West Germany)
+5: Berkeley, USA
+6: Philadelphia, USA
+7: Wolverhampton, UK → Not USA
+8: Stanford, USA
+9: Stanford, USA
+10: Rome, Italy → Not USA
+11: Rome, Italy again, same athlete?
+12: Walnut, USA
+13: Tempe, USA
+14: Tempe, USA
+15: Sacramento, USA
+16: Mexico City, Mexico → Not USA
+17: Cali, Colombia → Not USA
+18: Eugene, Oregon, USA
+
+Now, let's list the athletes who set records outside the USA:
+
+Entry 3: Bobby Morrow in Melbourne, Australia. Wait, but Bobby is from the US, according to his nationality. So he set a record in Australia.
+
+Entry 4: Manfred Germar in Wuppertal, Germany (West Germany). Nationality: West Germany, so that's another country.
+
+Entry7: Peter Radford in Wolverhampton, UK. He's from the UK, so setting a record there.
+
+Entries10 and11: Livio Berruti in Rome, Italy. Both entries are for him, same location, different times perhaps?
+
+Entry16: Tommie Smith in Mexico City, Mexico.
+
+Entry17: Donald Quarrie in Cali, Colombia.
+
+So now, let's count how many records each athlete set outside the USA:
+
+Bobby Morrow: 1 (Melbourne)
+Manfred Germar:1 (Wuppertal)
+Peter Radford:1 (Wolverhampton)
+Livio Berruti:2 (Rome twice)
+Tommie Smith:1 (Mexico City)
+Donald Quarrie:1 (Cali)
+
+Wait, but the question is about how many records in a country other than USA. So for each athlete, count their entries where the location was outside USA.
+
+So:
+
+- Bobby Morrow: 1
+- Manfred Germar:1
+- Peter Radford:1
+- Livio Berruti:2 (since he has two entries both in Rome)
+- Tommie Smith:1
+- Donald Quarrie:1
+
+So the athlete with the most records set outside USA is Livio Berruti, with 2 records. Wait no, looking back at the table:
+
+Entries10 and11 are both for Livio Berruti in Rome, Italy on September 3, 1960. So he has two entries there, meaning he set two records in Italy.
+
+But I need to check if those are separate records or just two versions of the same record. The "Auto" column shows different times: 20.65 and 20.62, so perhaps they're different records on the same day? That might be a bit odd, but according to the table, that's what it is.
+
+So Livio Berruti has two entries outside USA, more than any other athlete in the table.
+
+Wait, but let me double-check. Any others besides him who set multiple non-USA records?
+
+Looking through again:
+
+- Bobby Morrow:1
+- Manfred Germar:1
+- Peter Radford:1
+- Tommie Smith:1 (Mexico)
+- Donald Quarrie:1 (Colombia)
+
+No, no one else has more than 1. So Livio Berruti is the only one with multiple records set outside USA.
+
+Wait, but in row17 and18:
+
+Row17: Donald Quarrie in Cali, Colombia on August3,1971
+Row18: Eugene, Oregon, USA on June7,1975. So that's in USA.
+
+So yes, only two entries for Livio Berruti outside USA.
+</think>
+
+Final Answer: Livio Berruti
+===================Answer===================
+Livio Berruti

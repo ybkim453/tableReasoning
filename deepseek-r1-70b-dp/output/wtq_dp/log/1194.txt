@@ -1,0 +1,64 @@
+===================Title===================
+2007–08 Washington Huskies men's basketball team
+===================Table===================
+|    |   # | Name                  | Height   |   Weight (lbs.) | Position   | Class   | Hometown              | Previous Team(s)               |
+|---:|----:|:----------------------|:---------|----------------:|:-----------|:--------|:----------------------|:-------------------------------|
+|  0 |   0 | Joel Smith            | 6'4"     |             210 | G          | RS Jr.  | Lompoc, CA, U.S.      | Brewster Academy               |
+|  1 |   1 | Venoy Overton         | 5'11"    |             180 | G          | Fr.     | Seattle, WA, U.S.     | Franklin HS                    |
+|  2 |   4 | Tim Morris            | 6'4"     |             210 | G          | Sr.     | Spokane Wa, U.S.      | Central Valley HS              |
+|  3 |   5 | Justin Dentmon        | 5'11"    |             185 | G          | Jr.     | Carbondale, IL, U.S.  | Winchendon School              |
+|  4 |  11 | Matthew Bryan-Amaning | 6'9"     |             235 | F          | Fr.     | London, England, U.K. | South Kent School              |
+|  5 |  20 | Ryan Appleby          | 6'3"     |             170 | G          | Sr.     | Stanwood, WA, U.S.    | Florida                        |
+|  6 |  21 | Artem Wallace         | 6'8"     |             250 | C          | Jr.     | Toledo, WA, U.S.      | Toledo HS                      |
+|  7 |  22 | Justin Holiday        | 6'6"     |             170 | F          | Fr.     | Chatsworth, CA, U.S.  | Campbell Hall School           |
+|  8 |  24 | Quincy Pondexter      | 6'6"     |             210 | F          | So.     | Fresno, CA, U.S.      | San Joaquin Memorial HS        |
+|  9 |  32 | Joe Wolfinger         | 7'0"     |             255 | C          | RS So.  | Portland, OR, U.S.    | Northfield Mount Hermon School |
+| 10 |  40 | Jon Brockman          | 6'7"     |             255 | F          | Jr.     | Snohomish, WA, U.S.   | Snohomish Sr. HS               |
+| 11 |  44 | Darnell Gant          | 6'8"     |             215 | F          | Fr.     | Los Angeles, CA, U.S. | Crenshaw HS                    |
+===================Question===================
+whose name is listed before justin holiday?
+===================Text===================
+<think>
+Alright, so I need to figure out whose name comes before Justin Holiday in the given table of the 2007–08 Washington Huskies men's basketball team. Let me start by looking at the table structure.
+
+The table has several columns: #, Name, Height, Weight (lbs.), Position, Class, Hometown, and Previous Team(s). Each row represents a different player with their corresponding details.
+
+First, I should locate Justin Holiday in the table. Scanning through the names, I see that Justin Holiday is listed at number 22. His position is Forward (F), he's a Freshman, from Chatsworth, CA, and his previous team was Campbell Hall School.
+
+Now, to determine who is listed before him, I need to look at the players with numbers lower than 22. Let me go through each row one by one.
+
+Starting from the top:
+- The first player is Joel Smith, number 0.
+- Next is Venoy Overton, number 1.
+- Then Tim Morris, number 4.
+- Justin Dentmon is number 5.
+- Matthew Bryan-Amaning is number 11.
+- Ryan Appleby is number 20.
+- Artem Wallace is number 21.
+- Then we have Justin Holiday at number 22.
+
+So, all the players with numbers less than 22 are before him in the table. Now, I need to extract their names.
+
+Let me list them out:
+0: Joel Smith
+1: Venoy Overton
+4: Tim Morris
+5: Justin Dentmon
+11: Matthew Bryan-Amaning
+20: Ryan Appleby
+21: Artem Wallace
+
+Wait, the numbering isn't sequential. The numbers go 0,1,4,5,11,20,21,22... So after number 1 is 4, then 5, skipping some in between.
+
+So the players before Justin Holiday (number 22) are:
+
+Joel Smith (#0), Venoy Overton (#1), Tim Morris (#4), Justin Dentmon (#5), Matthew Bryan-Amaning (#11), Ryan Appleby (#20), and Artem Wallace (#21).
+
+I need to make sure I include all these names, as each is listed before him in the table.
+</think>
+
+The players listed before Justin Holiday are Joel Smith, Venoy Overton, Tim Morris, Justin Dentmon, Matthew Bryan-Amaning, Ryan Appleby, and Artem Wallace.
+
+Final Answer: Joel Smith, Venoy Overton, Tim Morris, Justin Dentmon, Matthew Bryan-Amaning, Ryan Appleby, Artem Wallace
+===================Answer===================
+Artem Wallace

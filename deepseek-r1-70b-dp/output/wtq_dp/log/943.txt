@@ -1,0 +1,86 @@
+===================Title===================
+Demographics of Niger
+===================Table===================
+|    | Period    | Live births per year   | Deaths per year   | Natural change per year   |   CBR* |   CDR* |   NC* |   TFR* |   IMR* |
+|---:|:----------|:-----------------------|:------------------|:--------------------------|-------:|-------:|------:|-------:|-------:|
+|  0 | 1950-1955 | 139 000                | 66 000            | 74 000                    |   52.6 |   24.8 |  27.8 |   6.86 |    174 |
+|  1 | 1955-1960 | 164 000                | 76 000            | 88 000                    |   53.8 |   24.9 |  29   |   6.96 |    171 |
+|  2 | 1960-1965 | 195 000                | 89 000            | 105 000                   |   55.5 |   25.5 |  30.1 |   7.13 |    167 |
+|  3 | 1965-1970 | 229 000                | 105 000           | 124 000                   |   56.2 |   25.8 |  30.4 |   7.32 |    164 |
+|  4 | 1970-1975 | 263 000                | 121 000           | 142 000                   |   55.8 |   25.6 |  30.2 |   7.52 |    162 |
+|  5 | 1975-1980 | 301 000                | 138 000           | 164 000                   |   55.1 |   25.1 |  29.9 |   7.63 |    161 |
+|  6 | 1980-1985 | 350 000                | 157 000           | 193 000                   |   55.4 |   24.8 |  30.6 |   7.76 |    159 |
+|  7 | 1985-1990 | 406 000                | 179 000           | 227 000                   |   55.9 |   24.6 |  31.3 |   7.81 |    155 |
+|  8 | 1990-1995 | 471 000                | 192 000           | 279 000                   |   55.5 |   22.7 |  32.8 |   7.78 |    146 |
+|  9 | 1995-2000 | 538 000                | 194 000           | 344 000                   |   53.5 |   19.3 |  34.2 |   7.6  |    131 |
+| 10 | 2000-2005 | 614 000                | 194 000           | 420 000                   |   51.3 |   16.2 |  35.1 |   7.4  |    113 |
+| 11 | 2005-2010 | 705 000                | 196 000           | 509 000                   |   49.5 |   13.8 |  35.7 |   7.19 |     96 |
+===================Question===================
+how many consecutive times does a cbr above 50 happen?
+===================Text===================
+<think>
+Okay, I need to figure out how many consecutive times the Crude Birth Rate (CBR) stayed above 50 in Niger based on the provided table.
+
+First, I'll look at the CBR* column for each period. The CBR values are:
+
+1950-1955: 52.6  
+1955-1960: 53.8  
+1960-1965: 55.5  
+1965-1970: 56.2  
+1970-1975: 55.8  
+1975-1980: 55.1  
+1980-1985: 55.4  
+1985-1990: 55.9  
+1990-1995: 55.5  
+1995-2000: 53.5  
+2000-2005: 51.3  
+2005-2010: 49.5  
+
+Next, I'll check each value to see if it's above 50 and note the consecutive periods.
+
+Starting from 1950-1955 (52.6) which is above 50. Then each subsequent period up until 1995-2000 (53.5), which also stays above 50. However, in 2000-2005, CBR drops to 51.3, still above 50, so the streak continues. Wait, but after that, in 2005-2010, it's 49.5, which is below 50. 
+
+Wait, let me recount:
+
+1. 1950-55: 52.6 ✅
+2. 1955-60:53.8 ✅ (2)
+3. 1960-65:55.5 ✅ (3)
+4. 1965-70:56.2 ✅ (4)
+5. 1970-75:55.8 ✅ (5)
+6. 1975-80:55.1 ✅ (6)
+7. 1980-85:55.4 ✅ (7)
+8. 1985-90:55.9 ✅ (8)
+9. 1990-95:55.5 ✅ (9)
+10. 1995-00:53.5 ✅ (10)
+11. 2000-05:51.3 ✅ (11)
+12. 2005-10:49.5 ❌
+
+So from period 1950-55 to 2000-05, each CBR is above 50 except for the last one. So that's 11 consecutive periods.
+
+Wait, but let me make sure I'm counting correctly. Each row represents a 5-year period, and they are consecutive without gaps. So starting from 1950-55 up to 2000-05, each has CBR above 50 except the last one which is below. That's 11 periods in total, so the consecutive times it's above 50 would be 10 or 11? Let me count again.
+
+Row 0: 1950-55 ✅  
+Row1:1955-60✅ (2)  
+Row2:1960-65✅ (3)  
+Row3:1965-70✅ (4)  
+Row4:1970-75✅ (5)  
+Row5:1975-80✅ (6)  
+Row6:1980-85✅ (7)  
+Row7:1985-90✅ (8)  
+Row8:1990-95✅ (9)  
+Row9:1995-00✅ (10)  
+Row10:2000-05✅ (11)  
+Row11:2005-10❌
+
+Wait, so from row 0 to row10, all except the last one have CBR above 50. Wait no, row11 is the 12th period but it's below 50. So how many consecutive periods with CBR>50? Well, in rows 0 through 10 (which are 1950-55 up to 2000-05), each has CBR above 50 except none, so that's 11 periods.
+
+Wait no, looking back: row10 is 2000-2005 with CBR=51.3, which is still above 50. So the next period after that, row11 (2005-2010) is below 50. Therefore, from row0 to row10, all have CBR>50 except none, so 11 periods.
+
+Wait, but when I count rows, they're 12 in total, each representing a 5-year span starting at 1950-55. So row0 is first period, row1 second, etc., up to row11 as the 12th period (2005-10). But the CBR>50 occurs from row0 (52.6) through row10 (51.3), which are 11 periods (rows 0-10 inclusive). So that's 11 consecutive times.
+
+So the answer is 11.
+</think>
+
+Final Answer: 11
+===================Answer===================
+11

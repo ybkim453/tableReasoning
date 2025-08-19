@@ -1,0 +1,62 @@
+===================Title===================
+Kansas City Brass
+===================Table===================
+|    |   Year |   Division | League     | Regular Season      | Playoffs        | Open Cup        |
+|---:|-------:|-----------:|:-----------|:--------------------|:----------------|:----------------|
+|  0 |   1998 |          4 | USISL PDSL | 4th, Central        | Division Finals | 1st Round       |
+|  1 |   1999 |          4 | USL PDL    | 5th, Heartland      | Did not qualify | Did not qualify |
+|  2 |   2000 |          4 | USL PDL    | 4th, Rocky Mountain | Did not qualify | Did not qualify |
+|  3 |   2001 |          4 | USL PDL    | 5th, Rocky Mountain | Did not qualify | Did not qualify |
+|  4 |   2002 |          4 | USL PDL    | 5th, Heartland      | Did not qualify | Did not qualify |
+|  5 |   2003 |          4 | USL PDL    | 5th, Heartland      | Did not qualify | Did not qualify |
+|  6 |   2004 |          4 | USL PDL    | 6th, Heartland      | Did not qualify | Did not qualify |
+|  7 |   2005 |          4 | USL PDL    | 3rd, Heartland      | Did not qualify | Did not qualify |
+|  8 |   2006 |          4 | USL PDL    | 3rd, Heartland      | Did not qualify | Did not qualify |
+|  9 |   2007 |          4 | USL PDL    | 3rd, Heartland      | Did not qualify | 1st Round       |
+| 10 |   2008 |          4 | USL PDL    | 5th, Heartland      | Did not qualify | Did not qualify |
+| 11 |   2009 |          4 | USL PDL    | 6th, Heartland      | Did not qualify | Did not qualify |
+| 12 |   2010 |          4 | USL PDL    | 7th, Heartland      | Did not qualify | Did not qualify |
+| 13 |   2011 |          4 | USL PDL    | 4th, Heartland      | Did not qualify | Did not qualify |
+| 14 |   2012 |          4 | USL PDL    | 5th, Heartland      | Did not qualify | Did not qualify |
+| 15 |   2013 |          4 | USL PDL    | 4th, Heartland      | Did not qualify | Did not qualify |
+===================Question===================
+what is the total number of open cup's the team qualified for?
+===================Text===================
+<think>
+Alright, let's tackle this problem step by step. The user provided a table about the Kansas City Brass team, spanning from 1998 to 2013. They're asking for the total number of Open Cup qualifications the team achieved based on this data.
+
+First, I'll need to understand the structure of the table. It has columns for Year, Division, League, Regular Season performance, Playoffs, and Open Cup results. The key here is the "Open Cup" column because that's what the question is about.
+
+Looking at each row, under the Open Cup column, there are entries like "1st Round" or "Did not qualify." I need to count how many times they qualified for the Open Cup. But wait, does reaching the 1st Round count as qualifying? Or is there a specific term that denotes qualification?
+
+In most competitions, making it past the initial rounds usually means you've qualified into the tournament. So if the team reached the 1st Round, that implies they were part of the competition beyond just trying to qualify. Therefore, each "1st Round" entry indicates they qualified for that year's Open Cup.
+
+Now, I'll go through each year:
+
+- 1998: Open Cup result is "1st Round" → Qualified
+- 1999: "Did not qualify"
+- 2000: "Did not qualify"
+- 2001: "Did not qualify"
+- 2002: "Did not qualify"
+- 2003: "Did not qualify"
+- 2004: "Did not qualify"
+- 2005: "Did not qualify"
+- 2006: "Did not qualify"
+- 2007: "1st Round" → Qualified
+- 2008: "Did not qualify"
+- 2009: "Did not qualify"
+- 2010: "Did not qualify"
+- 2011: "Did not qualify"
+- 2012: "Did not qualify"
+- 2013: "Did not qualify"
+
+So, in the years 1998 and 2007, they made it to the 1st Round. That's two instances where they qualified for the Open Cup.
+
+I should double-check if there are any other entries that might indicate qualification beyond just "1st Round." Scanning through again, I don't see any other terms that suggest participation beyond "Did not qualify" except those two years. 
+
+Therefore, the total number of times Kansas City Brass qualified for the Open Cup is 2.
+</think>
+
+Final Answer: 2
+===================Answer===================
+2

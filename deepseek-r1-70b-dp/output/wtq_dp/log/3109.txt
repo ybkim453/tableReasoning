@@ -1,0 +1,45 @@
+===================Title===================
+2005 U.S. Open (golf)
+===================Table===================
+|    | Place   | Player           | Country       | Score        | To par   |
+|---:|:--------|:-----------------|:--------------|:-------------|:---------|
+|  0 | 1       | Retief Goosen    | South Africa  | 68-70-69=207 | –3       |
+|  1 | T2      | Olin Browne      | United States | 67-71-72=210 | E        |
+|  2 | T2      | Jason Gore       | United States | 71-67-72=210 | E        |
+|  3 | T4      | Michael Campbell | New Zealand   | 71-69-71=211 | +1       |
+|  4 | T4      | Mark Hensby      | Australia     | 71-68-72=211 | +1       |
+|  5 | 6       | David Toms       | United States | 70-72-70=212 | +2       |
+|  6 | T7      | K. J. Choi       | South Korea   | 69-70-74=213 | +3       |
+|  7 | T7      | Peter Hedblom    | Sweden        | 77-66-70=213 | +3       |
+|  8 | T7      | Lee Westwood     | England       | 68-72-73=213 | +3       |
+|  9 | T7      | Tiger Woods      | United States | 70-71-72=213 | +3       |
+===================Question===================
+how many strokes did david toms make?
+===================Text===================
+<think>
+Alright, so I need to figure out how many strokes David Toms made in the 2005 U.S. Open based on the provided table. Let me start by looking at the structure of the table to understand where the relevant information is.
+
+First, I see that each row represents a player's performance, with columns for Place, Player, Country, Score, and To par. My focus is on David Toms, so I'll scan through the "Player" column to find his row.
+
+Looking at the rows:
+
+- Row 0: Retief Goosen
+- Row 1: Olin Browne
+- Row 2: Jason Gore
+- Row 3: Michael Campbell
+- Row 4: Mark Hensby
+- Row 5: David Toms
+- Rows 6 to 9: K.J. Choi, Peter Hedblom, Lee Westwood, Tiger Woods
+
+So, David Toms is in row 5. Now, I need to look at his score in the "Score" column. The entry there is "70-72-70=212". This seems to represent his scores over three rounds: 70 in the first round, 72 in the second, and 70 in the third.
+
+To find the total number of strokes, I can add these individual round scores together or just look at the sum provided after the equals sign. The score column shows that he had a total of 212 strokes across the three rounds.
+
+I should double-check to make sure there's no mistake in adding up the numbers. Let me do a quick calculation: 70 + 72 is 142, and then plus another 70 makes 212. Yep, that adds up correctly.
+
+So, based on this information from the table, David Toms made 212 strokes in total during the tournament.
+</think>
+
+Final Answer: 212
+===================Answer===================
+212

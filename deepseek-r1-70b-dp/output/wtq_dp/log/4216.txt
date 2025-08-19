@@ -1,0 +1,44 @@
+===================Title===================
+Men's 200 metres world record progression
+===================Table===================
+|    | Time   | Wind   | Auto   | Athlete        | Nationality    | Location of race              | Date              |
+|---:|:-------|:-------|:-------|:---------------|:---------------|:------------------------------|:------------------|
+|  0 | 20.6y  | nan    | nan    | Andy Stanfield | United States  | Philadelphia, United States   | May 26, 1951      |
+|  1 | 20.6   | nan    | nan    | Andy Stanfield | United States  | Los Angeles, United States    | June 28, 1952     |
+|  2 | 20.6   | 0.0    | nan    | Thane Baker    | United States  | Bakersfield, United States    | June 23, 1956     |
+|  3 | 20.6   | nan    | 20.75  | Bobby Morrow   | United States  | Melbourne, Australia          | November 27, 1956 |
+|  4 | 20.6   | nan    | nan    | Manfred Germar | West Germany   | Wuppertal, Germany            | October 1, 1958   |
+|  5 | 20.6y  | −1.6   | nan    | Ray Norton     | United States  | Berkeley, United States       | March 19, 1960    |
+|  6 | 20.6   | nan    | nan    | Ray Norton     | United States  | Philadelphia, United States   | April 30, 1960    |
+|  7 | 20.5y  | nan    | nan    | Peter Radford  | United Kingdom | Wolverhampton, United Kingdom | May 28, 1960      |
+|  8 | 20.5   | 0.0    | 20.75  | Stone Johnson  | United States  | Stanford, United States       | July 2, 1960      |
+|  9 | 20.5   | 0.0    | nan    | Ray Norton     | United States  | Stanford, United States       | July 2, 1960      |
+| 10 | 20.5   | nan    | 20.65  | Livio Berruti  | Italy          | Rome, Italy                   | September 3, 1960 |
+| 11 | 20.5   | nan    | 20.62  | Livio Berruti  | Italy          | Rome, Italy                   | September 3, 1960 |
+| 12 | 20.5y  | −1.1   | 20.67  | Paul Drayton   | United States  | Walnut, United States         | June 23, 1962     |
+| 13 | 20.3y  | −0.1   | nan    | Henry Carr     | United States  | Tempe, United States          | March 23, 1963    |
+| 14 | 20.2y  | 0.5    | nan    | Henry Carr     | United States  | Tempe, United States          | April 4, 1964     |
+| 15 | 20.0y  | 0.0    | nan    | Tommie Smith   | United States  | Sacramento, United States     | June 11, 1968     |
+| 16 | 19.8A  | 0.9    | 19.83A | Tommie Smith   | United States  | Mexico City, Mexico           | October 16, 1968  |
+| 17 | 19.8A  | 0.9    | 19.86A | Donald Quarrie | Jamaica        | Cali, Colombia                | August 3, 1971    |
+| 18 | 19.8+  | 1.3    | nan    | Donald Quarrie | Jamaica        | Eugene, Oregon, United States | June 7, 1975      |
+===================Question===================
+who had a world record before june 1, 1951?
+===================Text===================
+<think>
+Okay, so I need to figure out who held the world record before June 1, 1951, based on this table of Men's 200 metres world record progression. Let me start by looking at each row and checking their dates.
+
+The first entry in the table is index 0: Andy Stanfield with a time of 20.6y on May 26, 1951. Wait, that's after June 1? No, May comes before June, so May 26, 1951, is actually before June 1st. So this record was set in late May, which is still before the cutoff.
+
+Looking further down, all other entries have dates starting from June 28, 1952, and onwards. So there's only one entry with a date before June 1, 1951? Wait no, because May 26, 1951, is indeed before June 1st. Are there any records earlier than that?
+
+Wait, the first row is index 0: May 26, 1951. But maybe the question is about who had a record before June 1, so Andy Stanfield's record on May 26 would count. However, sometimes world records might have been set before the table starts. The table begins with May 26, 1951, but perhaps there were earlier records. For example, maybe someone held the record before that date.
+
+But according to the data given, the earliest entry is Andy Stanfield in 1951. So if we only consider what's in the table, then before June 1, 1951, the world record was held by Andy Stanfield as of May 26. But wait, the question is asking who had a world record before June 1, 1951. That would include anyone whose record was set prior to that date.
+
+So if the first entry is on May 26, which is before June 1, then Andy Stanfield's time counts. However, sometimes the initial record might be considered as the starting point, and perhaps there were no official records before that in the table. So based solely on this data, only Andy Stanfield had a record before June 1951.
+</think>
+
+Final Answer: Andy Stanfield
+===================Answer===================
+Andy Stanfield

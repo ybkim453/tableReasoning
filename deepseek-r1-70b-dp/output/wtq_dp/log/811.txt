@@ -1,0 +1,39 @@
+===================Title===================
+Tony Gulotta
+===================Table===================
+|    | Year   | Car    | Start   | Qual    | Rank   | Finish   |   Laps |   Led | Retired      |
+|---:|:-------|:-------|:--------|:--------|:-------|:---------|-------:|------:|:-------------|
+|  0 | 1926   | 31     | 12      | 102.789 | 13     | 11       |    142 |     0 | Flagged      |
+|  1 | 1927   | 27     | 27      | 107.765 | 22     | 3        |    200 |     0 | Running      |
+|  2 | 1928   | 8      | 4       | 117.031 | 4      | 10       |    200 |    33 | Running      |
+|  3 | 1929   | 23     | 11      | 112.146 | 15     | 17       |     91 |     0 | Supercharger |
+|  4 | 1930   | 9      | 20      | 100.033 | 18     | 20       |     79 |     0 | Valve        |
+|  5 | 1931   | 37     | 19      | 111.725 | 6      | 18       |    167 |     0 | Crash T4     |
+|  6 | 1932   | 25     | 20      | 108.896 | 34     | 13       |    184 |     0 | Flagged      |
+|  7 | 1933   | 34     | 12      | 113.578 | 15     | 7        |    200 |     0 | Running      |
+|  8 | 1934   | 8      | 7       | 113.733 | 13     | 17       |     94 |     0 | Rod          |
+|  9 | 1935   | 44     | 6       | 115.459 | 11     | 21       |    102 |     0 | Magneto      |
+| 10 | 1937   | 38     | 7       | 118.788 | 16     | 8        |    200 |     0 | Running      |
+| 11 | 1938   | 17     | 4       | 122.499 | 6      | 17       |    130 |     0 | Rod          |
+| 12 | 1939   | 62     | 27      | 121.749 | 24     | 11       |    200 |     0 | Running      |
+| 13 | Totals | Totals | Totals  | Totals  | Totals | Totals   |   1989 |    33 | nan          |
+===================Question===================
+how many indy 500 did tony gulotta finish in the top 3?
+===================Text===================
+<think>
+Okay, so I need to figure out how many Indy 500 races Tony Gulotta finished in the top 3 based on this table. Let me go through each year and check his finish position.
+
+Starting from 1926, his first entry shows he finished 11th, which isn't top 3. Next, in 1927, he finished 3rd – that counts as a top 3 finish. Moving to 1928, he was 10th, so no. In 1929, 17th place doesn't make the cut either.
+
+In 1930, he finished 20th, which is way outside the top 3. The next year, 1931, he ended up 18th – still not in the top 3. Then in 1932, a 13th place finish isn't there yet. 
+
+Looking at 1933, he came in 7th, so that's close but not within the top 3. In 1934, his finish was 17th again. The next year, 1935, saw him finish 21st. That's too low.
+
+Jumping to 1937, Tony finished 8th. Another near miss. Then in 1938, he was 17th once more. Finally, in 1939, his finish was 11th, which isn't top 3 either.
+
+So out of all these years, only the 1927 race where he finished 3rd counts as a top 3 finish.
+</think>
+
+Final Answer: 1
+===================Answer===================
+1

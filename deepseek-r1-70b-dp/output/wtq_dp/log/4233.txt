@@ -1,0 +1,47 @@
+===================Title===================
+2005–06 FIS Ski Jumping World Cup
+===================Table===================
+|    |   Rank | Name             | Nationality   |   1st (m) |   2nd (m) |   Points |
+|---:|-------:|:-----------------|:--------------|----------:|----------:|---------:|
+|  0 |      1 | Matti Hautamäki | FIN           |     132   |     131.5 |    274.3 |
+|  1 |      2 | Tami Kiuru       | FIN           |     128.5 |     130.5 |    264.7 |
+|  2 |      3 | Janne Ahonen     | FIN           |     127   |     130.5 |    264   |
+|  3 |      4 | Adam Małysz      | POL           |     127   |     130.5 |    261.5 |
+|  4 |      5 | Andreas Kofler   | AUT           |     126.5 |     132   |    261.3 |
+|  5 |     11 | Jakub Janda      | CZE           |     123.5 |     128.5 |    252.6 |
+===================Question===================
+who has the top 2nd score?
+===================Text===================
+<think>
+Alright, so I need to figure out who has the top 2nd score based on the provided table from the "2005–06 FIS Ski Jumping World Cup". Let me start by understanding what each column represents.
+
+Looking at the table headers: Rank, Name, Nationality, 1st (m), 2nd (m), and Points. It seems like "1st" and "2nd" might refer to scores from two different jumps or competitions, perhaps the first and second rounds in a particular event.
+
+The question is asking for who has the top 2nd score, so I'm focusing on the column labeled "2nd (m)". My goal is to find which athlete has the highest value in this column.
+
+Let me list out each athlete with their corresponding "2nd (m)" scores:
+
+1. Matti Hautamäki - 131.5
+2. Tami Kiuru - 130.5
+3. Janne Ahonen - 130.5
+4. Adam Małysz - 130.5
+5. Andreas Kofler - 132
+6. Jakub Janda - 128.5
+
+Wait, but in the table, I see that Andreas Kofler has a "2nd (m)" score of 132, which is higher than Matti Hautamäki's 131.5. So, Andreas Kofler has the highest second score.
+
+But let me double-check to make sure I didn't miss anyone else with a higher score. Scanning through again:
+
+- Hautamäki: 131.5
+- Kiuru:130.5
+- Ahonen:130.5
+- Małysz:130.5
+- Kofler:132
+- Janda:128.5
+
+Yes, Kofler has the highest "2nd (m)" score at 132 meters. So he's the one with the top second score.
+</think>
+
+Final Answer: Andreas Kofler
+===================Answer===================
+Andreas Kofler

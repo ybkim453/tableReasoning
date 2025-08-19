@@ -1,0 +1,101 @@
+===================Title===================
+Radhika Pandit
+===================Table===================
+|    |   Year | Film                      | Role      | Language   | Notes                                                                                                                         |
+|---:|-------:|:--------------------------|:----------|:-----------|:------------------------------------------------------------------------------------------------------------------------------|
+|  0 |   2008 | Moggina Manasu            | Chanchala | Kannada    | Filmfare Award for Best Actress - Kannada\nKarnataka State Film Award for Best Actress                                        |
+|  1 |   2009 | Olave Jeevana Lekkachaara | Rukmini   | Kannada    | Innovative Film Award for Best Actress                                                                                        |
+|  2 |   2009 | Love Guru                 | Kushi     | Kannada    | Filmfare Award for Best Actress - Kannada                                                                                     |
+|  3 |   2010 | Krishnan Love Story       | Geetha    | Kannada    | Filmfare Award for Best Actress - Kannada\nUdaya Award for Best Actress                                                       |
+|  4 |   2010 | Gaana Bajaana             | Radhey    | Kannada    | nan                                                                                                                           |
+|  5 |   2011 | Hudugaru                  | Gayithri  | Kannada    | Nominated, Filmfare Award for Best Actress – Kannada                                                                          |
+|  6 |   2012 | Alemari                   | Neeli     | Kannada    | nan                                                                                                                           |
+|  7 |   2012 | Breaking News             | Shraddha  | Kannada    | nan                                                                                                                           |
+|  8 |   2012 | Addhuri                   | Poorna    | Kannada    | Udaya Award for Best Actress\nNominated — SIIMA Award for Best Actress\nNominated — Filmfare Award for Best Actress – Kannada |
+|  9 |   2012 | 18th Cross                | Punya     | Kannada    | nan                                                                                                                           |
+| 10 |   2012 | Sagar                     | Kajal     | Kannada    | nan                                                                                                                           |
+| 11 |   2012 | Drama                     | Nandini   | Kannada    | nan                                                                                                                           |
+| 12 |   2013 | Kaddipudi                 | Uma       | Kannada    | nan                                                                                                                           |
+| 13 |   2013 | Dilwala                   | Preethi   | Kannada    | nan                                                                                                                           |
+| 14 |   2013 | Bahaddoor                 | Anjali    | Kannada    | Filming                                                                                                                       |
+| 15 |   2014 | Mr. & Mrs. Ramachari      | nan       | nan        | Announced                                                                                                                     |
+| 16 |   2014 | Endendigu                 | nan       | nan        | Filming                                                                                                                       |
+===================Question===================
+how many movies were made between 2009 and 2013?
+===================Text===================
+<think>
+Alright, let's tackle this question step by step. The user is asking how many movies Radhika Pandit made between 2009 and 2013 based on the provided table.
+
+First, I need to understand the time frame: "between 2009 and 2013." This could be interpreted in two ways—either including both 2009 and 2013 or excluding one of them. But since the user mentioned "between," it's safer to include all movies released in 2009 up through 2013.
+
+Looking at the table, each row represents a movie with its release year. I'll go through each entry from 2008 to 2014 and count those that fall within the specified range.
+
+Starting with the years:
+
+- 2008: This is before our target range, so we can ignore it.
+- 2009: This is included, so count the movies from this year.
+- 2010: Included.
+- 2011: Included.
+- 2012: Included.
+- 2013: Included.
+- 2014: Exceeds our upper limit if we're considering up to and including 2013.
+
+Now, let's list out all the movies between these years:
+
+From 2009:
+- Olave Jeevana Lekkachaara (2009)
+- Love Guru (2009)
+
+Wait, actually looking back at the table, in 2009 there are two entries: index 1 and 2. So that's two films.
+
+2010 has two movies as well: Krishnan Love Story and Gaana Bajaana.
+
+2011: Hudugaru is one movie.
+
+2012: There are six movies listed—Alemari, Breaking News, Addhuri, 18th Cross, Sagar, Drama.
+
+2013: Kaddipudi, Dilwala, Bahaddoor. That's three movies.
+
+Adding these up:
+
+2009: 2
+2010: 2
+2011: 1
+2012: 6
+2013: 3
+
+Total is 2+2=4; 4+1=5; 5+6=11; 11+3=14.
+
+Wait, that can't be right because the table might not have entries for all years beyond what's listed. Let me recount based on the actual rows provided.
+
+Looking at each row:
+
+Index 0: 2008 - Exclude
+1: 2009 - Include
+2: 2009 - Include (so two in 2009)
+3: 2010
+4: 2010 (two in 2010)
+5: 2011 (one)
+6-11: All 2012, that's six movies (indices 6 to 11)
+12: 2013
+13: 2013
+14: 2013 (three in total for 2013)
+
+So:
+
+2009: 2
+2010: 2
+2011: 1
+2012: 6
+2013: 3
+
+Total = 2 + 2 + 1 + 6 + 3 = 14 movies.
+
+Wait, but the user's question is about "movies made between 2009 and 2013." If we're including both years, then yes, it's 14. However, sometimes "between" might mean excluding the start and end years, but that's less common. It's more likely they want all movies from 2009 through 2013 inclusive.
+
+So the final count is 14.
+</think>
+
+Final Answer: 14
+===================Answer===================
+14

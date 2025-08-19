@@ -1,0 +1,50 @@
+===================Title===================
+Colorado Rapids Women
+===================Table===================
+|    |   Year |   Division | League       | Reg. Season   | Playoffs        |
+|---:|-------:|-----------:|:-------------|:--------------|:----------------|
+|  0 |   2003 |          2 | USL W-League | 5th, Western  | nan             |
+|  1 |   2004 |          1 | USL W-League | 8th, Western  | nan             |
+|  2 |   2005 |          1 | USL W-League | 6th, Western  | nan             |
+|  3 |   2006 |          1 | USL W-League | 5th, Western  | nan             |
+|  4 |   2007 |          1 | USL W-League | 5th, Western  | nan             |
+|  5 |   2008 |          1 | USL W-League | 6th, Western  | Did not qualify |
+|  6 |   2009 |          1 | USL W-League | 7th, Western  | Did not qualify |
+|  7 |   2010 |          1 | USL W-League | 6th, Western  | Did not qualify |
+|  8 |   2011 |          1 | USL W-League | 7th, Western  | Did not qualify |
+|  9 |   2012 |          1 | USL W-League | 4th, Western  | Did not qualify |
+| 10 |   2013 |          1 | USL W-League | 4th, Western  | Did not qualify |
+===================Question===================
+how many times have the colorado rapids women finished outside of the top 5 teams in the usl w-league western division 1?
+===================Text===================
+<think>
+Okay, so I need to figure out how many times the Colorado Rapids Women finished outside of the top 5 teams in the USL W-League Western Division 1 based on the given table.
+
+First, let me look at each year's data. The table lists years from 2003 to 2013. For each year, there's a ranking under "Reg. Season" which shows their position in the Western division of Division 1.
+
+I'm interested in when they were not in the top 5. So any rank higher than 5th place (like 6th, 7th, 8th) would mean they finished outside the top 5.
+
+Looking at each row:
+
+- 2003: 5th Western → Top 5
+- 2004: 8th Western → Outside top 5
+- 2005: 6th Western → Outside top 5
+- 2006: 5th Western → Top 5
+- 2007: 5th Western → Top 5
+- 2008: 6th Western → Outside top 5
+- 2009: 7th Western → Outside top 5
+- 2010: 6th Western → Outside top 5
+- 2011: 7th Western → Outside top 5
+- 2012: 4th Western → Top 5
+- 2013: 4th Western → Top 5
+
+Now, count the years they were outside top 5:
+
+2004 (8th), 2005 (6th), 2008 (6th), 2009 (7th), 2010 (6th), 2011 (7th). That's 6 instances.
+
+Wait, let me recount to make sure I didn't miss any. From the list above: 2004 is outside, then 2005, 2008, 2009, 2010, and 2011. So that's a total of 6 times.
+</think>
+
+Final Answer: 6
+===================Answer===================
+6

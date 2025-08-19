@@ -1,0 +1,71 @@
+===================Title===================
+Opinion polling by state for the United States presidential election, 2008 (Iowa)
+===================Table===================
+|    | Poll Source       |   Sample Size |   Margin of Error | Date            | Democrat        |   % | Republican    |   % .1 |
+|---:|:------------------|--------------:|------------------:|:----------------|:----------------|----:|:--------------|-------:|
+|  0 | Rasmussen Reports |           500 |               4.5 | Mar 31, 2008    | Hillary Clinton |  36 | John McCain   |     51 |
+|  1 | Rasmussen Reports |           500 |               4.5 | Mar 31, 2008    | Barack Obama    |  46 | John McCain   |     42 |
+|  2 | Survey USA        |           517 |               4.4 | Mar 14-16, 2008 | Hillary Clinton |  44 | John McCain   |     48 |
+|  3 | Survey USA        |           517 |               4.4 | Mar 14-16, 2008 | Barack Obama    |  50 | John McCain   |     44 |
+|  4 | Rasmussen Reports |           500 |             nan   | Feb 18, 2008    | Hillary Clinton |  37 | John McCain   |     47 |
+|  5 | Rasmussen Reports |           500 |             nan   | Feb 18, 2008    | Barack Obama    |  44 | John McCain   |     41 |
+|  6 | Survey USA        |           563 |               4.2 | Feb 15-17, 2008 | Hillary Clinton |  41 | John McCain   |     52 |
+|  7 | Survey USA        |           563 |               4.2 | Feb 15-17, 2008 | Barack Obama    |  51 | John McCain   |     41 |
+|  8 | Survey USA        |           543 |               4.3 | Jan 4-6, 2008   | Hillary Clinton |  51 | Rudy Giuliani |     35 |
+|  9 | Survey USA        |           543 |               4.3 | Jan 4-6, 2008   | Hillary Clinton |  47 | Mike Huckabee |     45 |
+| 10 | Survey USA        |           543 |               4.3 | Jan 4-6, 2008   | Hillary Clinton |  44 | John McCain   |     48 |
+| 11 | Survey USA        |           543 |               4.3 | Jan 4-6, 2008   | Hillary Clinton |  48 | Mitt Romney   |     40 |
+| 12 | Survey USA        |           543 |               4.3 | Jan 4-6, 2008   | Barack Obama    |  66 | Rudy Giuliani |     26 |
+| 13 | Survey USA        |           543 |               4.3 | Jan 4-6, 2008   | Barack Obama    |  58 | Mike Huckabee |     35 |
+| 14 | Survey USA        |           543 |               4.3 | Jan 4-6, 2008   | Barack Obama    |  55 | John McCain   |     38 |
+| 15 | Survey USA        |           543 |               4.3 | Jan 4-6, 2008   | Barack Obama    |  59 | Mitt Romney   |     33 |
+| 16 | Survey USA        |           nan |             nan   | Dec. 17, 2007   | Hillary Clinton |  46 | Mike Huckabee |     45 |
+| 17 | Survey USA        |           546 |               4.3 | Nov 9-11, 2007  | Hillary Clinton |  47 | Rudy Giuliani |     43 |
+| 18 | Survey USA        |           546 |               4.3 | Nov 9-11, 2007  | Hillary Clinton |  49 | Mike Huckabee |     43 |
+| 19 | Survey USA        |           546 |               4.3 | Nov 9-11, 2007  | Hillary Clinton |  44 | John McCain   |     48 |
+| 20 | Survey USA        |           546 |               4.3 | Nov 9-11, 2007  | Hillary Clinton |  49 | Mitt Romney   |     43 |
+| 21 | Survey USA        |           546 |               4.3 | Nov 9-11, 2007  | Barack Obama    |  52 | Rudy Giuliani |     39 |
+| 22 | Survey USA        |           546 |               4.3 | Nov 9-11, 2007  | Barack Obama    |  56 | Mike Huckabee |     35 |
+| 23 | Survey USA        |           546 |               4.3 | Nov 9-11, 2007  | Barack Obama    |  50 | John McCain   |     42 |
+| 24 | Survey USA        |           546 |               4.3 | Nov 9-11, 2007  | Barack Obama    |  53 | Mitt Romney   |     39 |
+| 25 | Survey USA        |           513 |               4.4 | Oct 12-14, 2007 | Hillary Clinton |  48 | Rudy Giuliani |     43 |
+| 26 | Survey USA        |           506 |               4.3 | Oct 12-14, 2007 | Hillary Clinton |  51 | Mike Huckabee |     41 |
+| 27 | Survey USA        |           502 |               4.5 | Oct 12-14, 2007 | Hillary Clinton |  49 | John McCain   |     44 |
+| 28 | Survey USA        |           498 |               4.5 | Oct 12-14, 2007 | Hillary Clinton |  52 | Ron Paul      |     36 |
+| 29 | Survey USA        |           506 |               4.4 | Oct 12-14, 2007 | Hillary Clinton |  50 | Mitt Romney   |     42 |
+| 30 | Survey USA        |           509 |               4.4 | Oct 12-14, 2007 | Hillary Clinton |  50 | Fred Thompson |     42 |
+===================Question===================
+which poll did not have a sample size or margin of error?
+===================Text===================
+<think>
+Alright, so I'm trying to figure out which poll didn't have a sample size or margin of error based on the table provided. Let me go through this step by step.
+
+First, I'll look at each row in the table and check the "Sample Size" and "Margin of Error" columns. The question is asking for any polls where either the sample size or the margin of error is missing.
+
+Starting from the top:
+
+- Row 0: Sample Size is 500, Margin of Error is 4.5. Both are present.
+- Row 1: Same as above.
+- Rows 2 and 3: Both have sample sizes and margins.
+- Rows 4 and 5: Wait, here the Margin of Error is listed as "nan". Hmm, nan usually stands for 'not a number' which might indicate missing data. So here, both polls (rows 4 and 5) have Sample Size as 500 but Margin of Error is nan.
+- Row 6 and onwards up to row 15: Most of these rows have sample sizes around 500-600 and margins around 4.2-4.5.
+- Row 16: The Sample Size is "nan" and Margin of Error is also "nan". So both are missing here.
+- Rows 17 to 30: These have sample sizes and margins as numbers.
+
+So, the key rows where either sample size or margin is missing are rows 4, 5 (margin nan), row 16 (both nan). But the question is about which poll did not have a sample size *or* margin of error. So any poll that has at least one of them missing.
+
+Looking back:
+
+- Rows 4 and 5: Sample Size present, Margin Error nan.
+- Row 16: Both nan.
+
+So all three rows (4, 5, 16) don't have complete data. But the question is about which polls did not have either sample size or margin of error. So each of these would count because they're missing at least one.
+
+Wait, but row 4 and 5 have sample sizes but missing margins, while row 16 has both missing. So all three should be considered.
+</think>
+
+The answer includes the rows where either Sample Size or Margin of Error is missing: 4, 5, and 16.
+
+Final Answer: 4, 5, 16
+===================Answer===================
+Dec. 17, 2007

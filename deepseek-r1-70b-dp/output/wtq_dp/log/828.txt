@@ -1,0 +1,32 @@
+===================Title===================
+GameStorm.org
+===================Table===================
+|    | Iteration    | Dates             | Location                 | Attendance   | Notes                                                                                   |
+|---:|:-------------|:------------------|:-------------------------|:-------------|:----------------------------------------------------------------------------------------|
+|  0 | GameStorm 10 | March 2008        | Red Lion - Vancouver, WA | 750          | -                                                                                       |
+|  1 | GameStorm 11 | March 26–29, 2009 | Hilton - Vancouver, WA   | 736          | debut of Video games, first-ever Artist Guest of Honor, Rob Alexander                   |
+|  2 | GameStorm 12 | March 25–28, 2010 | Hilton - Vancouver, WA   | 802          | Board games Guest of Honor: Tom Lehmann                                                 |
+|  3 | GameStorm 13 | March 24–27, 2011 | Hilton - Vancouver, WA   | 984          | Guests: Lisa Steenson, Michael A. Stackpole                                             |
+|  4 | GameStorm 14 | March 22–25, 2012 | Hilton - Vancouver, WA   | 1072         | Boardgame:Andrew Hackard and Sam Mitschke of Steve Jackson Games - RPG: Jason Bulmahn   |
+|  5 | GameStorm 15 | March 21–24, 2013 | Hilton - Vancouver, WA   | 1188         | nan                                                                                     |
+|  6 | GameStorm 16 | March 20–23, 2014 | Hilton - Vancouver, WA   | tba          | Guests: Mike Selinker, Shane Lacy Hensley, Lisa Steenson, Zev Shlasinger of Z-Man Games |
+===================Question===================
+what's the difference in attendance between gamestorm 10 and gamestorm 11?
+===================Text===================
+<think>
+Okay, so I need to find out the difference in attendance between GameStorm 10 and GameStorm 11 based on the provided table. Let me start by locating the relevant information.
+
+Looking at the table, each row represents a different iteration of GameStorm. The first column is the index number, starting from 0. The second column is the event name, like "GameStorm 10", which I assume corresponds to their numbering. 
+
+So, GameStorm 10 is in the first row (index 0), and it has an attendance of 750. Then, GameStorm 11 is the next iteration (index 1) with an attendance of 736.
+
+To find the difference, I need to subtract one number from the other. Since the question asks for the difference between GameStorm 10 and GameStorm 11, I can either do 750 - 736 or 736 - 750. But since it's just asking for the numerical difference without specifying direction, I think taking the absolute value would make sense. So, subtracting 736 from 750 gives me a difference of 14 attendees.
+
+Wait, no, actually, GameStorm 10 had higher attendance than GameStorm 11 by 14. Because 750 minus 736 equals 14. So the difference is 14 people.
+</think>
+
+The attendance at GameStorm 10 was 750 and at GameStorm 11 it was 736. The difference in attendance between them is 750 - 736 = 14.
+
+Final Answer: 14
+===================Answer===================
+14

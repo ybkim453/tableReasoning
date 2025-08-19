@@ -1,0 +1,43 @@
+===================Title===================
+2011 USL Pro season
+===================Table===================
+|    |   Rank | Player            | Nation   | Club                      |   Goals |
+|---:|-------:|:------------------|:---------|:--------------------------|--------:|
+|  0 |      1 | Jhonny Arteaga    | COL      | FC New York               |      13 |
+|  1 |      2 | Matthew Delicâte | ENG      | Richmond Kickers          |      10 |
+|  2 |      3 | José Angulo      | USA      | Harrisburg City Islanders |       9 |
+|  3 |      3 | Maxwell Griffin   | USA      | Orlando City              |       9 |
+|  4 |      3 | Luke Mulholland   | ENG      | Wilmington Hammerheads    |       9 |
+|  5 |      6 | Andriy Budnyy     | UKR      | Wilmington Hammerheads    |       8 |
+|  6 |      6 | Jamie Watson      | USA      | Orlando City              |       8 |
+|  7 |      6 | Andrew Welker     | USA      | Harrisburg City Islanders |       8 |
+|  8 |      9 | Chris Banks       | USA      | Wilmington Hammerheads    |       7 |
+|  9 |      9 | Sallieu Bundu     | SLE      | Charlotte Eagles          |       7 |
+| 10 |      9 | George Davis IV   | USA      | Dayton Dutch Lions        |       7 |
+| 11 |      9 | Sainey Touray     | GAM      | Harrisburg City Islanders |       7 |
+===================Question===================
+how many total goals did the sixth ranked players score?
+===================Text===================
+<think>
+Okay, so I need to figure out how many total goals the sixth-ranked players scored in the 2011 USL Pro season based on the given table. Let me walk through this step by step.
+
+First, looking at the table, it's sorted by rank, and each row shows a player's name, nation, club, and the number of goals they scored. The ranks are listed under the "Rank" column. I need to identify all players who are ranked sixth because the question is about the total goals scored by these sixth-ranked players.
+
+I see that the table has multiple entries with the same rank. For example, there are three players tied at third place and three at sixth. So, I'll scan through each row and note which ones have a Rank of 6.
+
+Looking at the rows:
+
+- Row 5: Andriy Budnyy is ranked 6th with 8 goals.
+- Row 6: Jamie Watson is also ranked 6th with 8 goals.
+- Row 7: Andrew Welker is another sixth-ranked player with 8 goals.
+
+So, there are three players at rank six. Now, I need to add up their goals to find the total. Each of them scored 8 goals, so adding those together:
+
+8 (Andriy Budnyy) + 8 (Jamie Watson) + 8 (Andrew Welker) = 24.
+
+Therefore, the total number of goals scored by all sixth-ranked players is 24.
+</think>
+
+Final Answer: 24
+===================Answer===================
+24

@@ -1,0 +1,91 @@
+===================Title===================
+List of defunct National Basketball Association teams
+===================Table===================
+|    | Team                    | City                     | Years active   |   Seasons played | Win–loss record   | Win%   |   Playoffs appearances |
+|---:|:------------------------|:-------------------------|:---------------|-----------------:|:------------------|:-------|-----------------------:|
+|  0 | Anderson Packers        | Anderson, Indiana        | 1949–1950      |                1 | 37–27             | .578   |                      1 |
+|  1 | BAA Buffalo             | Buffalo, New York        | Never Played   |                0 | 0–0               | N/A    |                      0 |
+|  2 | BAA Indianapolis        | Indianapolis, Indiana    | Never Played   |                0 | 0–0               | N/A    |                      0 |
+|  3 | Baltimore Bullets*      | Baltimore, Maryland      | 1947–1954      |                8 | 158–292           | .351   |                      3 |
+|  4 | Chicago Stags           | Chicago, Illinois        | 1946–1950      |                4 | 145–92            | .612   |                      4 |
+|  5 | Cleveland Rebels        | Cleveland, Ohio          | 1946–1947      |                1 | 30–30             | .500   |                      1 |
+|  6 | Denver Nuggets          | Denver, Colorado         | 1949–1950      |                1 | 11–51             | .177   |                      0 |
+|  7 | Detroit Falcons         | Detroit, Michigan        | 1946–1947      |                1 | 20–40             | .333   |                      0 |
+|  8 | Indianapolis Jets       | Indianapolis, Indiana    | 1948–1949      |                1 | 18–42             | .300   |                      0 |
+|  9 | Indianapolis Olympians  | Indianapolis, Indiana    | 1949–1953      |                4 | 132–137           | .491   |                      4 |
+| 10 | Pittsburgh Ironmen      | Pittsburgh, Pennsylvania | 1946–1947      |                1 | 15–45             | .250   |                      0 |
+| 11 | Providence Steamrollers | Providence, Rhode Island | 1946–1949      |                3 | 46–122            | .274   |                      0 |
+| 12 | Sheboygan Red Skins     | Sheboygan, Wisconsin     | 1949–1950      |                1 | 22–40             | .355   |                      1 |
+| 13 | St. Louis Bombers       | St. Louis, Missouri      | 1946–1950      |                4 | 122–115           | .515   |                      3 |
+| 14 | Toronto Huskies         | Toronto, Ontario         | 1946–1947      |                1 | 22–38             | .367   |                      0 |
+| 15 | Washington Capitols     | Washington, D.C.         | 1946–1951      |                5 | 157–114           | .579   |                      4 |
+| 16 | Waterloo Hawks          | Waterloo, Iowa           | 1949–1950      |                1 | 19–43             | .306   |                      0 |
+===================Question===================
+which team had the same number of playoffs appearances as the st. louis bombers?
+===================Text===================
+<think>
+Okay, so I need to figure out which team had the same number of playoff appearances as the St. Louis Bombers based on the table provided. Let me start by finding the relevant information for the St. Louis Bombers first.
+
+Looking at the table, each row represents a different team with various statistics. The columns are: Team, City, Years active, Seasons played, Win–loss record, Win%, and Playoffs appearances.
+
+I'll locate the St. Louis Bombers in the table. Scanning through the "Team" column, I see that entry 13 is the St. Louis Bombers. Let me check their playoff appearances. The value under "Playoffs appearances" for them is 3.
+
+Now, my task is to find all other teams that also have exactly 3 playoff appearances. So, I'll go through each row and look at the "Playoffs appearances" column.
+
+Starting from the top:
+
+- Anderson Packers (0): Playoffs appearances = 1 → Not 3.
+- BAA Buffalo (1): 0 → Nope.
+- BAA Indianapolis (2): 0 → No.
+- Baltimore Bullets* (3): 3 → This is a match. Wait, but I need to confirm the team name.
+- Chicago Stags (4): Playoffs appearances = 4 → Not 3.
+- Cleveland Rebels (5): 1 → No.
+- Denver Nuggets (6): 0 → No.
+- Detroit Falcons (7): 0 → No.
+- Indianapolis Jets (8): 0 → No.
+- Indianapolis Olympians (9): Playoffs appearances = 4 → Close, but not 3.
+- Pittsburgh Ironmen (10): 0 → No.
+- Providence Steamrollers (11): 0 → No.
+- Sheboygan Red Skins (12): 1 → No.
+- St. Louis Bombers (13): Already know it's 3, so looking for others.
+- Toronto Huskies (14): 0 → No.
+- Washington Capitols (15): Playoffs appearances =4 → Not 3.
+- Waterloo Hawks (16): 0 → No.
+
+Wait a second, I see that the Baltimore Bullets* have 3 playoff appearances. But let me double-check their row to make sure I didn't misread anything. Yes, under entry 3, it's Baltimore Bullets* with Playoffs appearances as 3. So that's one team.
+
+Are there any other teams? Let me go through again just to be thorough.
+
+Looking at each "Playoffs appearances" number:
+
+0:1, 2:0, etc. The only other team with exactly 3 is the Baltimore Bullets*. Wait, but I thought entry 13 was St. Louis Bombers with 3, so any others?
+
+Wait, no, from the table rows, looking at each "Playoffs appearances" column:
+
+- Anderson Packers (1 appearance)
+- BAA Buffalo and Indianapolis: 0
+- Baltimore Bullets*:3
+- Chicago Stags:4
+- Cleveland Rebels:1
+- Denver Nuggets:0
+- Detroit Falcons:0
+- Indianapolis Jets:0
+- Indianapolis Olympians:4
+- Pittsburgh Ironmen:0
+- Providence Steamrollers:0
+- Sheboygan Red Skins:1
+- St. Louis Bombers:3
+- Toronto Huskies:0
+- Washington Capitols:4
+- Waterloo Hawks:0
+
+So, the only other team besides St. Louis Bombers with exactly 3 playoff appearances is the Baltimore Bullets*.
+
+Wait, but in my initial scan, I thought entry 3 was the Baltimore Bullets*, yes. So the answer should be the Baltimore Bullets*.
+
+Wait, but the question is asking for which teams had the same number of playoffs appearances as St. Louis Bombers (which is 3). So the only other team with exactly 3 playoff appearances is the Baltimore Bullets*. Therefore, the answer is the Baltimore Bullets*.
+</think>
+
+Final Answer: Baltimore Bullets*
+===================Answer===================
+Baltimore Bullets

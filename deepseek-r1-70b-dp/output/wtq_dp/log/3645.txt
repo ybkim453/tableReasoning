@@ -1,0 +1,77 @@
+===================Title===================
+1972 Minnesota Vikings season
+===================Table===================
+|    |   Week | Date         | Opponent               | Results\nFinal score   | Results\nTeam record   | Venue                         | Attendance   |
+|---:|-------:|:-------------|:-----------------------|:-----------------------|:-----------------------|:------------------------------|:-------------|
+|  0 |      1 | September 18 | Washington Redskins    | L 24–21                | 0–1                    | Metropolitan Stadium          | 47,900       |
+|  1 |      2 | September 24 | at Detroit Lions       | W 34–10                | 1–1                    | Tiger Stadium                 | 54,418       |
+|  2 |      3 | October 1    | Miami Dolphins         | L 16–14                | 1–2                    | Metropolitan Stadium          | 47,900       |
+|  3 |      4 | October 8    | St. Louis Cardinals    | L 19–17                | 1–3                    | Metropolitan Stadium          | 49,687       |
+|  4 |      5 | October 15   | at Denver Broncos      | W 23–20                | 2–3                    | Mile High Stadium             | 51,656       |
+|  5 |      6 | October 23   | at Chicago Bears       | L 13–10                | 2–4                    | Soldier Field                 | 55,701       |
+|  6 |      7 | October 29   | at Green Bay Packers   | W 27–13                | 3–4                    | Lambeau Field                 | 56,263       |
+|  7 |      8 | November 5   | New Orleans Saints     | W 37–6                 | 4–4                    | Metropolitan Stadium          | 49,784       |
+|  8 |      9 | November 12  | Detroit Lions          | W 16–14                | 5–4                    | Metropolitan Stadium          | 49,784       |
+|  9 |     10 | November 19  | at Los Angeles Rams    | W 45–41                | 6–4                    | Los Angeles Memorial Coliseum | 77,982       |
+| 10 |     11 | November 26  | at Pittsburgh Steelers | L 23–10                | 6–5                    | Three Rivers Stadium          | 50,348       |
+| 11 |     12 | December 3   | Chicago Bears          | W 23–10                | 7–5                    | Metropolitan Stadium          | 49,784       |
+| 12 |     13 | December 10  | Green Bay Packers      | L 23–7                 | 7–6                    | Metropolitan Stadium          | 49,784       |
+| 13 |     14 | December 16  | at San Francisco 49ers | L 20–17                | 7–7                    | Candlestick Park              | 61,214       |
+===================Question===================
+what's the number of games played at home?
+===================Text===================
+<think>
+Okay, so I need to figure out how many games the 1972 Minnesota Vikings played at home based on this table. Let me start by looking through each row of the table. 
+
+Each row represents a game, and there's a column labeled "Venue" which tells me where each game was played. The venue information will help determine if it's a home or away game for the Vikings.
+
+Looking at the first row (Week 1), the Venue is Metropolitan Stadium. I know that was the Vikings' home stadium in 1972, so this is a home game. 
+
+Next, Week 2 shows "at Detroit Lions" with the venue as Tiger Stadium. The "at" indicates it's an away game, so not a home game.
+
+Week 3 again has Metropolitan Stadium as the venue, so that's another home game.
+
+Week 4 is also at Metropolitan Stadium, adding to the home games count.
+
+Week 5 is an away game against Denver Broncos at Mile High Stadium.
+
+Week 6 is another away game in Chicago.
+
+Week 7 is away in Green Bay.
+
+Week 8 shows back at Metropolitan Stadium, so that's a home game.
+
+Week 9 is again a home game at Metropolitan Stadium.
+
+Week 10 is an away game in Los Angeles.
+
+Week 11 is an away game in Pittsburgh.
+
+Week 12 is at home against the Chicago Bears.
+
+Week 13 is another home game against Green Bay Packers.
+
+Week 14 is an away game in San Francisco, so that's not a home game.
+
+Now, let me count how many times Metropolitan Stadium appears as the venue because each of those represents a home game. 
+
+Looking through all the weeks:
+
+- Week 1: Home
+- Week 3: Home
+- Week 4: Home
+- Week 8: Home
+- Week 9: Home
+- Week 12: Home
+- Week 13: Home
+
+That's a total of 7 games. Wait, let me recount to make sure I didn't miss any.
+
+Yes, from the table:
+
+Weeks 1,3,4,8,9,12,13 are home games, which is 7 in total.
+</think>
+
+Final Answer: 7
+===================Answer===================
+7

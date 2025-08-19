@@ -1,0 +1,42 @@
+===================Title===================
+Gordon Ramsay
+===================Table===================
+|    | Restaurant                         | Location                                    | Date Opened   | Date Closed   |
+|---:|:-----------------------------------|:--------------------------------------------|:--------------|:--------------|
+|  0 | Verre at the Hilton Dubai Creek    | Dubai, United Arab Emirates                 | nan           | October 2011  |
+|  1 | Maze by Gordon Ramsay              | The Pearl-Qatar, Doha, Qatar                | 2010          | March 2012    |
+|  2 | Gordon Ramsay at Conrad Tokyo      | Conrad Tokyo, Tokyo, Japan                  | nan           | -             |
+|  3 | Cerise by Gordon Ramsay            | Minato, Tokyo, Japan                        | nan           | -             |
+|  4 | Maze by Gordon Ramsay              | One and Only Hotel, Cape Town, South Africa | April 2009    | July 2010     |
+|  5 | Maze / Maze Grill by Gordon Ramsay | Crown Metropol, Melbourne, Australia        | March 2010    | August 2011   |
+===================Question===================
+which popular gordon ramsey cape town, south africa restaurant also has branches in doha, qatar and melbourne, australia?
+===================Text===================
+<think>
+Okay, so I need to figure out which Gordon Ramsay restaurant in Cape Town also has branches in Doha and Melbourne. Let's look at the table provided.
+
+First, I'll scan through each row to find the one located in Cape Town. Looking at the 'Location' column:
+
+- Row 0: Dubai
+- Row 1: Doha
+- Row 2: Tokyo
+- Row 3: Tokyo again
+- Row 4: Cape Town
+- Row 5: Melbourne
+
+So, row 4 is the one in Cape Town. The restaurant name there is "Maze by Gordon Ramsay" located at One and Only Hotel.
+
+Now, I need to check if this same restaurant has branches in Doha and Melbourne. Looking back:
+
+Row 1 is Maze by Gordon Ramsay in Doha, Qatar. So that's the Doha branch.
+
+Row 5 is Maze / Maze Grill by Gordon Ramsay in Melbourne, Australia. The name is slightly different with a slash, but it includes "Maze", so probably part of the same chain.
+
+Therefore, the restaurant in Cape Town that also has branches in Doha and Melbourne is "Maze by Gordon Ramsay".
+</think>
+
+The restaurant in Cape Town that also operates in Doha and Melbourne is Maze by Gordon Ramsay. 
+
+Final Answer: Maze by Gordon Ramsay
+===================Answer===================
+Maze

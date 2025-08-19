@@ -1,0 +1,59 @@
+===================Title===================
+2008–09 Sacramento Kings season
+===================Table===================
+|    |   Game | Date       | Team           | Score           | High points                     | High rebounds                                      | High assists                                 | Location\nAttendance               | Record   |
+|---:|-------:|:-----------|:---------------|:----------------|:--------------------------------|:---------------------------------------------------|:---------------------------------------------|:-----------------------------------|:---------|
+|  0 |     33 | January 2  | @ Detroit      | L 92–98         | Brad Miller (25)                | Brad Miller (16)                                   | John Salmons (4)                             | The Palace of Auburn Hills\n22,076 | 8–25     |
+|  1 |     34 | January 3  | @ Indiana      | L 117–122       | Kevin Martin (45)               | Bobby Jackson (10)                                 | Kevin Martin, Brad Miller (6)                | Conseco Fieldhouse\n12,765         | 8–26     |
+|  2 |     35 | January 5  | @ New Jersey   | L 90–98         | Kevin Martin (36)               | Kenny Thomas (8)                                   | Brad Miller (8)                              | Izod Center\n12,314                | 8–27     |
+|  3 |     36 | January 6  | @ Chicago      | L 94–99         | Kevin Martin (29)               | Brad Miller (12)                                   | Beno Udrih (5)                               | United Center\n18,060              | 8–28     |
+|  4 |     37 | January 9  | Miami          | L 115–119 (OT)  | John Salmons (29)               | Brad Miller (16)                                   | John Salmons, Brad Miller, Bobby Jackson (4) | ARCO Arena\n12,587                 | 8–29     |
+|  5 |     38 | January 11 | Dallas         | W 102–95        | Kevin Martin (21)               | Spencer Hawes (8)                                  | Beno Udrih (6)                               | ARCO Arena\n12,294                 | 9–29     |
+|  6 |     39 | January 13 | Orlando        | L 107–139       | Kevin Martin (30)               | Francisco García (5)                              | Francisco García (5)                        | ARCO Arena\n11,168                 | 9–30     |
+|  7 |     40 | January 14 | @ Golden State | W 135–133 (3OT) | Brad Miller (30)                | Brad Miller (22)                                   | John Salmons, Beno Udrih (7)                 | Oracle Arena\n19,122               | 10–30    |
+|  8 |     41 | January 16 | Milwaukee      | L 122–129       | John Salmons, Kevin Martin (24) | Jason Thompson (11)                                | John Salmons (6)                             | ARCO Arena\n11,663                 | 10–31    |
+|  9 |     42 | January 20 | @ Denver       | L 99–118        | Kevin Martin (25)               | Jason Thompson (11)                                | John Salmons, Beno Udrih (5)                 | Pepsi Center\n15,164               | 10–32    |
+| 10 |     43 | January 21 | Washington     | L 107–110       | John Salmons, Beno Udrih (24)   | John Salmons, Shelden Williams, Jason Thompson (5) | John Salmons (5)                             | ARCO Arena\n10,821                 | 10–33    |
+| 11 |     44 | January 24 | @ Milwaukee    | L 104–106       | Kevin Martin (20)               | Brad Miller (13)                                   | Brad Miller (9)                              | Bradley Center\n15,379             | 10–34    |
+| 12 |     45 | January 25 | @ Toronto      | L 97–113        | John Salmons (21)               | John Salmons (7)                                   | Beno Udrih (5)                               | Air Canada Centre\n18,127          | 10–35    |
+| 13 |     46 | January 27 | @ Cleveland    | L 110–117       | Kevin Martin (35)               | Kevin Martin (7)                                   | Kevin Martin (7)                             | Quicken Loans Arena\n20,562        | 10–36    |
+| 14 |     47 | January 28 | @ Boston       | L 100–119       | John Salmons (22)               | Jason Thompson (11)                                | John Salmons (5)                             | TD Banknorth Garden\n18,624        | 10–37    |
+| 15 |     48 | January 30 | Chicago        | L 88–109        | Kevin Martin (27)               | Jason Thompson (12)                                | Spencer Hawes, Kevin Martin (3)              | ARCO Arena\n13,356                 | 10–38    |
+===================Question===================
+how many games were played where the audience turnout was greater than 20,000?
+===================Text===================
+<think>
+Alright, so I need to figure out how many games had an audience turnout greater than 20,000 based on the provided table. Let me start by understanding what each column represents.
+
+Looking at the header, there's a column called "Location\nAttendance" which seems to list both where the game was played and the attendance number. My task is to go through each row and check if the attendance exceeds 20,000.
+
+I'll go through each game one by one:
+
+1. **Game 33**: Attendance at The Palace of Auburn Hills is 22,076. That's more than 20,000.
+2. **Game 34**: Conseco Fieldhouse has 12,765 attendees. Less than 20k.
+3. **Game 35**: Izod Center shows 12,314. Also less.
+4. **Game 36**: United Center with 18,060. That's under 20k.
+5. **Game 37**: ARCO Arena at 12,587. No.
+6. **Game 38**: Same arena, 12,294. Less than 20k.
+7. **Game 39**: ARCO again with 11,168. Nope.
+8. **Game 40**: Oracle Arena has 19,122. Still under 20k.
+9. **Game 41**: Back to ARCO with 11,663. No.
+10. **Game 42**: Pepsi Center at 15,164. Less than 20k.
+11. **Game 43**: ARCO again, 10,821. Too low.
+12. **Game 44**: Bradley Center with 15,379. Under 20k.
+13. **Game 45**: Air Canada Centre has 18,127. Close but still under.
+14. **Game 46**: Quicken Loans Arena shows 20,562. That's over 20k.
+15. **Game 47**: TD Banknorth Garden at 18,624. Under.
+16. **Game 48**: ARCO with 13,356. No.
+
+Wait, let me recount to make sure I didn't miss any:
+
+- Game 33: Yes (22,076)
+- Game 46: Yes (20,562)
+
+So that's two games where attendance was over 20k.
+</think>
+
+Final Answer: 2
+===================Answer===================
+2

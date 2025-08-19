@@ -1,0 +1,60 @@
+===================Title===================
+Kristýna Plíšková
+===================Table===================
+|    | Outcome   |   No. | Date              | Tournament                    | Surface    | Partner               | Opponents                              | Score                  |
+|---:|:----------|------:|:------------------|:------------------------------|:-----------|:----------------------|:---------------------------------------|:-----------------------|
+|  0 | Runner-up |     1 | 16 May 2010       | Kurume, Japan                 | Clay       | Karolína Plíšková | Sun Shengnan\n Xu Yifan                | 0–6, 3–6               |
+|  1 | Winner    |     1 | 13 February 2011  | Rancho Mirage, United States  | Hard       | Karolína Plíšková | Nadejda Guskova\n Sandra Zaniewska     | 6–7(6–8), 6–1, 6–4     |
+|  2 | Winner    |     2 | 7 August 2011     | Vancouver, Canada             | Hard       | Karolína Plíšková | Jamie Hampton\n N. Lertcheewakarn      | 5–7, 6–2, 6–4          |
+|  3 | Runner-up |     2 | 6 November 2011   | Taipei 5, Taiwan              | Hard       | Karolína Plíšková | Chan Yung-jan\n Zheng Jie              | 6–7(5–7), 7–5, 3–6     |
+|  4 | Runner-up |     3 | 20 November 2011  | Bratislava, Slovakia          | Hard       | Karolína Plíšková | Naomi Broady\n Kristina Mladenovic     | 7–5, 4–6, [2–10]       |
+|  5 | Winner    |     3 | 23 January 2012   | Andrézieux-Bouthéon, France | Hard (i)   | Karolína Plíšková | Julie Coin\n Eva Hrdinová             | 6–4, 4–6, [10–5]       |
+|  6 | Winner    |     4 | 30 January 2012   | Grenoble, France              | Hard (i)   | Karolína Plíšková | Valentyna Ivakhnenko\n Maryna Zanevska | 6–1, 6–3               |
+|  7 | Runner-up |     4 | 17 September 2012 | Shrewsbury, United Kingdom    | Hard (i)   | Karolína Plíšková | Vesna Dolonc\n Stefanie Vögele        | 1–6, 7–6(7–3), [13–15] |
+|  8 | Winner    |     5 | 12 November 2012  | Zawada, Poland                | Carpet (i) | Karolína Plíšková | Kristina Barrois\n Sandra Klemenschits | 6–3, 6–1               |
+|  9 | Winner    |     6 | 28 October 2013   | Barnstaple, United Kingdom    | Hard (i)   | Naomi Broady          | Raluca Olaru\n Tamira Paszek           | 6–3, 3–6, [10–5]       |
+===================Question===================
+are the dates set in a consecutive order?
+===================Text===================
+<think>
+Alright, I'm trying to figure out if the dates in Kristýna Plíšková's tournament table are set in consecutive order. Let me go through each date one by one.
+
+First, looking at the dates:
+
+1. 16 May 2010
+2. 13 February 2011
+3. 7 August 2011
+4. 6 November 2011
+5. 20 November 2011
+6. 23 January 2012
+7. 30 January 2012
+8. 17 September 2012
+9. 12 November 2012
+10. 28 October 2013
+
+I need to check if each subsequent date is after the previous one without any gaps or skips. Starting from May 2010, the next event is in February 2011. That's about 8 months later, which seems like a big gap but not necessarily non-consecutive since it's just moving forward.
+
+Then from Feb '11 to Aug '11—about 6 months, again moving forward without going back. Next, August to November 2011 is a few months, then Nov 20, 2011, right after Nov 6, so that's within the same month, which is consecutive.
+
+January 23, 2012, comes next, then January 30—again, same month. That seems fine. Then September '12 and November '12 follow correctly. Finally, October 2013 is way after November 2012, but it's still later in time.
+
+Wait, but the question is about consecutive order, not necessarily if they're back-to-back dates without any gaps. Consecutive just means each date comes after the previous one chronologically. So as long as each next event happens after the prior one, regardless of the time in between, they are in order.
+
+Looking through each pair:
+
+1. 16 May 2010 → 13 Feb 2011: yes.
+2. 13 Feb '11 →7 Aug '11: yes.
+3. 7 Aug '11→6 Nov '11: yes.
+4. 6 Nov '11→20 Nov '11: yes.
+5. 20 Nov '11→23 Jan '12: yes.
+6. 23 Jan '12→30 Jan '12: yes.
+7. 30 Jan '12→17 Sep '12: yes.
+8. 17 Sep '12→12 Nov '12: yes.
+9. 12 Nov '12→28 Oct '13: yes.
+
+So each date is indeed in consecutive order without any going back in time. Therefore, the dates are set consecutively.
+</think>
+
+Final Answer: Yes
+===================Answer===================
+yes

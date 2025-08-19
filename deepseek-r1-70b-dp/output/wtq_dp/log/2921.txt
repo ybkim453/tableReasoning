@@ -1,0 +1,40 @@
+===================Title===================
+Tommy Moe
+===================Table===================
+|    |   Season | Date        | Location             | Discipline   | Place   |
+|---:|---------:|:------------|:---------------------|:-------------|:--------|
+|  0 |     1993 | 27 Feb 1993 | Whistler, BC, Canada | Downhill     | 2nd     |
+|  1 |     1994 | 12 Dec 1993 | Val-d'Isère, France | Super G      | 3rd     |
+|  2 |     1994 | 29 Dec 1993 | Bormio, Italy        | Downhill     | 3rd     |
+|  3 |     1994 | 12 Mar 1994 | Whistler, BC, Canada | Downhill     | 3rd     |
+|  4 |     1994 | 13 Mar 1994 | Whistler, BC, Canada | Super G      | 1st     |
+|  5 |     1994 | 16 Mar 1994 | Vail, CO, USA        | Downhill     | 3rd     |
+|  6 |     1995 | 11 Dec 1994 | Tignes, France       | Super G      | 2nd     |
+===================Question===================
+what is the next location listed after bormio, italy?
+===================Text===================
+<think>
+Okay, so I need to figure out what's the next location after Bormio, Italy in the table provided about Tommy Moe. Let me start by looking at the table carefully.
+
+The table has entries from 1993 and 1994. Each row lists a Season, Date, Location, Discipline, and Place. The question is asking specifically for the location that comes right after Bormio, Italy. So I need to find where Bormio is in the list and then see what's next.
+
+Looking at each entry:
+
+- Row 0: Whistler, BC, Canada
+- Row 1: Val-d'Isère, France
+- Row 2: Bormio, Italy (this is our starting point)
+- So after row 2 comes row 3 and beyond. What's the location in row 3?
+
+Row 3 lists Whistler, BC, Canada again, but with a different date and event. Then row 4 is also Whistler, same as above. So the next unique location would be Vail, CO, USA in row 5.
+
+Wait, no, actually, I think it's just the immediate next row after Bormio. Let me check again:
+
+Row 2: Bormio, Italy
+The very next row is row 3, which is also at Whistler, BC, Canada on March 12, 1994.
+
+So the answer should be Whistler, BC, Canada because it's the immediate next location listed after Bormio in the table.
+</think>
+
+Final Answer: Whistler, BC, Canada
+===================Answer===================
+Whistler, BC, Canada

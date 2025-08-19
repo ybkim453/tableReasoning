@@ -1,0 +1,35 @@
+===================Title===================
+2005 East Asian Games
+===================Table===================
+|    | Rank   | Nation               |   Gold |   Silver |   Bronze |   Total |
+|---:|:-------|:---------------------|-------:|---------:|---------:|--------:|
+|  0 | 1      | China (CHN)          |    127 |       63 |       33 |     223 |
+|  1 | 2      | Japan (JPN)          |     46 |       56 |       77 |     179 |
+|  2 | 3      | South Korea (KOR)    |     32 |       48 |       65 |     145 |
+|  3 | 4      | Chinese Taipei (TPE) |     12 |       34 |       26 |      72 |
+|  4 | 5      | Macau (MAC)          |     11 |       16 |       17 |      44 |
+|  5 | 6      | North Korea (PRK)    |      6 |       10 |       20 |      36 |
+|  6 | 7      | Hong Kong (HKG)      |      2 |        2 |        9 |      13 |
+|  7 | 8      | Mongolia (MGL)       |      1 |        1 |        6 |       8 |
+|  8 | 9      | Guam (GUM)           |      0 |        0 |        1 |       1 |
+|  9 | Total  | Total                |    237 |      230 |      254 |     721 |
+===================Question===================
+which nation only earn two gold and two silver medals?
+===================Text===================
+<think>
+Alright, let's tackle this problem step by step. I have a table that lists various nations and their medal counts at the 2005 East Asian Games. The task is to find which nation earned exactly two gold medals and two silver medals.
+
+First, I'll look through each row of the table. Each row represents a country and its respective Gold, Silver, Bronze, and Total medals. Let's go through them one by one.
+
+Starting with China (CHN), they have 127 golds, which is way more than two, so that's not it. Next is Japan (JPN) with 46 golds, also too high. South Korea (KOR) has 32 golds, still higher. Then Chinese Taipei (TPE) has 12 golds, which is more than two.
+
+Moving on to Macau (MAC), they have 11 gold medals. That's still more than two. Next up is North Korea (PRK) with six golds and ten silvers. Their gold count is higher than two, so not the one we're looking for.
+
+Now, Hong Kong (HKG) catches my eye. They've got exactly two gold medals and two silver medals. That matches our criteria perfectly. Let me just check the remaining countries to make sure there's no other nation with those exact numbers.
+
+Mongolia (MGL) has only one gold medal, so that's not it. Guam (GUM) didn't earn any gold or silver medals; they only have a bronze. So, Hong Kong is the only country in this table that earned two gold and two silver medals.
+</think>
+
+Final Answer: Hong Kong (HKG)
+===================Answer===================
+Hong Kong

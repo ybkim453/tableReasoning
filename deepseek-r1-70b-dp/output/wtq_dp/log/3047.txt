@@ -1,0 +1,40 @@
+===================Title===================
+2004 Summer Paralympics
+===================Table===================
+|    |   Rank | Nation        |   Gold |   Silver |   Bronze |   Total |
+|---:|-------:|:--------------|-------:|---------:|---------:|--------:|
+|  0 |      1 | China         |     63 |       46 |       32 |     141 |
+|  1 |      2 | Great Britain |     35 |       30 |       29 |      94 |
+|  2 |      3 | Canada        |     28 |       19 |       25 |      72 |
+|  3 |      4 | United States |     27 |       22 |       39 |      88 |
+|  4 |      5 | Australia     |     26 |       38 |       36 |     100 |
+|  5 |      6 | Ukraine       |     24 |       12 |       19 |      55 |
+|  6 |      7 | Spain         |     20 |       27 |       24 |      71 |
+|  7 |      8 | Germany       |     19 |       28 |       31 |      78 |
+|  8 |      9 | France        |     18 |       26 |       30 |      74 |
+|  9 |     10 | Japan         |     17 |       16 |       20 |      53 |
+===================Question===================
+how many total medals did the united states earn?
+===================Text===================
+<think>
+Alright, so I need to figure out how many total medals the United States earned in the 2004 Summer Paralympics based on the table provided.
+
+First, I'll look through the table and find the row that corresponds to the United States. Scanning through each row, I see that the third row (index 3) lists "United States" with a rank of 4. 
+
+Now, looking at the columns for Gold, Silver, Bronze, and Total medals. The numbers under these columns for the United States are:
+- Gold: 27
+- Silver: 22
+- Bronze: 39
+
+To find the total number of medals, I can add up the gold, silver, and bronze medals. So that's 27 + 22 + 39.
+
+Calculating that, 27 plus 22 is 49, and then adding 39 to that gives me 88.
+
+I also notice there's a Total column which directly provides this number as 88, so that confirms it.
+</think>
+
+The United States earned a total of 88 medals at the 2004 Summer Paralympics. 
+
+Final Answer: 88
+===================Answer===================
+88

@@ -1,0 +1,87 @@
+===================Title===================
+Janko Tipsarević
+===================Table===================
+|    | Outcome   |   No. | Date             | Tournament                                        | Surface   | Opponent               | Score                        |
+|---:|:----------|------:|:-----------------|:--------------------------------------------------|:----------|:-----------------------|:-----------------------------|
+|  0 | Runner-up |     1 | 25 October 2009  | Kremlin Cup, Russia                               | Hard (i)  | Mikhail Youzhny        | 7–6(7–5), 0–6, 4–6           |
+|  1 | Runner-up |     2 | 19 June 2010     | UNICEF Open, Netherlands                          | Grass     | Sergiy Stakhovsky      | 3–6, 0–6                     |
+|  2 | Runner-up |     3 | 27 February 2011 | International Tennis Championships, United States | Hard      | Juan Martín del Potro | 4–6, 4–6                     |
+|  3 | Runner-up |     4 | 18 June 2011     | Aegon International, United Kingdom               | Grass     | Andreas Seppi          | 6–7(5–7), 6–3, 3–5 ret.      |
+|  4 | Winner    |     1 | 2 October 2011   | Malaysian Open, Malaysia                          | Hard (i)  | Marcos Baghdatis       | 6–4, 7–5                     |
+|  5 | Winner    |     2 | 23 October 2011  | Kremlin Cup, Russia                               | Hard (i)  | Viktor Troicki         | 6–4, 6–2                     |
+|  6 | Runner-up |     5 | 30 October 2011  | St. Petersburg Open, Russia                       | Hard (i)  | Marin Čilić          | 3–6, 6–3, 2–6                |
+|  7 | Runner-up |     6 | 8 January 2012   | Chennai Open, India                               | Hard      | Milos Raonic           | 7–6(7–4), 6–7(4–7), 6–7(4–7) |
+|  8 | Winner    |     3 | 15 July 2012     | Stuttgart Open, Germany                           | Clay      | Juan Mónaco           | 6–4, 5–7, 6–3                |
+|  9 | Runner-up |     7 | 22 July 2012     | Swiss Open, Switzerland                           | Clay      | Thomaz Bellucci        | 7–6(8–6), 4–6, 2–6           |
+| 10 | Winner    |     4 | 6 January 2013   | Chennai Open, India                               | Hard      | Roberto Bautista-Agut  | 3–6, 6–1, 6–3                |
+===================Question===================
+after 2011, how many times has tipsarevic been runner up in a championship tournament?
+===================Text===================
+<think>
+Alright, so I need to figure out how many times Janko Tipsarević was a runner-up in championship tournaments after 2011 based on the provided table. Let me go through this step by step.
+
+First, I'll look at each row of the table and note the dates, outcomes, and whether they are after 2011. The question is about the period after 2011, so I should focus on dates from 2012 onwards.
+
+Looking at the table:
+
+- Row 0: Date is 25 October 2009 – that's before 2011, so I can ignore this.
+- Row 1: 19 June 2010 – also before 2011, so skip.
+- Rows 2 and 3: February and June 2011 – these are within 2011 but we're looking for after 2011. So these might be on the edge, but since the question is about after 2011, I think these should not be counted unless the tournament is in late 2011. However, row 4 is in October 2011 and he won that, which is within 2011.
+
+Now, the key rows to consider are from 2012 onwards:
+
+- Row 6: Date 30 October 2011 – Wait, that's still in 2011, right? So even though it's late 2011, it's not after 2011 yet. So I shouldn't count this one as "after 2011".
+  
+So moving forward to 2012 and beyond:
+
+- Row 6: 8 January 2012 – Runner-up.
+- Row 7: 15 July 2012 – Winner, so not a runner-up.
+- Row 8: 22 July 2012 – Runner-up.
+- Row 9: 6 January 2013 – Winner.
+
+Additionally, I should check if there are any other rows beyond these up to the end of 2013 or later. Looking at the last row (Row 10), it's in 2013 but he was a winner.
+
+Wait, let me recount:
+
+After 2011, the relevant runner-up positions would be in 2012 and beyond. So looking again:
+
+- Row 6: 30 October 2011 – actually, this is still in 2011, so it's not after. Therefore, I shouldn't count this one as "after 2011".
+
+So focusing on rows where the date is 2012 or later:
+
+Row 6: 8 January 2012 – Runner-up (count = 1)
+Row 7: 15 July 2012 – Winner → no
+Row 8: 22 July 2012 – Runner-up (count = 2)
+Row 9: 6 January 2013 – Winner → no
+
+Wait a second, in the table, Rows are 0-10. Let me list them again:
+
+After 2011, the dates are from 2012 onwards.
+
+So rows with Outcome 'Runner-up' and Date >=2012:
+
+Row 6: Runner-up on 8 January 2012
+Row 8: Runner-up on 22 July 2012
+
+Wait, Row 9 is a winner in 2013. Any others?
+
+Looking back at the table:
+
+- After row 10 (6 Jan 2013), there are no more rows.
+
+So that's two runner-ups after 2011: one in 2012 and another in 2012 as well. Wait, both in 2012.
+
+Wait, but I think I might have missed something. Let me check each date:
+
+- Row 6: 8 Jan 2012 → Runner-up
+- Row 7: 15 July 2012 → Winner
+- Row 8: 22 July 2012 → Runner-up
+
+That's two runner-ups in 2012.
+
+Wait, but the question is after 2011. So from 2012 onwards, how many times was he a runner-up? So that would be rows 6 and 8, making it two times.
+</think>
+
+Final Answer: 2
+===================Answer===================
+2

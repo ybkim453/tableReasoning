@@ -1,0 +1,62 @@
+===================Title===================
+List of international cricket centuries at Eden Gardens
+===================Table===================
+|    |   No. | Score   | Player             | Team         |   Balls |   Inns. | Opposing team   | Date             | Result   |
+|---:|------:|:--------|:-------------------|:-------------|--------:|--------:|:----------------|:-----------------|:---------|
+|  0 |     1 | 123     | Kris Srikkanth     | India        |     103 |       1 | Pakistan        | 18 February 1987 | Lost     |
+|  1 |     2 | 107*    | Desmond Haynes     | West Indies  |     137 |       1 | Pakistan        | 1 November 1989  | Lost     |
+|  2 |     3 | 100*    | Sachin Tendulkar   | India        |     103 |       2 | Kenya           | 31 May 1998      | Won      |
+|  3 |     4 | 121     | Marcus Trescothick | England      |     109 |       2 | India           | 19 January 2002  | Lost     |
+|  4 |     5 | 108*    | Salman Butt        | Pakistan     |     130 |       2 | India           | 13 November 2004 | Won      |
+|  5 |     6 | 134*    | Graeme Smith       | South Africa |     124 |       2 | India           | 25 November 2005 | Won      |
+|  6 |     7 | 118     | Upul Tharanga      | Sri Lanka    |     128 |       1 | India           | 24 December 2009 | Lost     |
+|  7 |     8 | 150*    | Gautam Gambhir     | India        |     137 |       2 | Sri Lanka       | 24 December 2009 | Won      |
+|  8 |     9 | 107     | Virat Kohli        | India        |     114 |       2 | Sri Lanka       | 24 December 2009 | Won      |
+|  9 |    10 | 106     | Ryan ten Doeschate | Netherlands  |     108 |       1 | Ireland         | 18 March 2011    | Lost     |
+| 10 |    11 | 101     | Paul Stirling      | Ireland      |      72 |       2 | Netherlands     | 18 March 2011    | Won      |
+| 11 |    12 | 106     | Nasir Jamshed      | Pakistan     |     124 |       1 | India           | 3 January 2013   | Won      |
+===================Question===================
+what is the difference in balls between the first and fourth players?
+===================Text===================
+<think>
+Okay, so I need to figure out the difference in balls between the first and fourth players based on the given table. Let me start by understanding what's being asked.
+
+First, I'll look at the table structure. The columns are: an unnamed first column (probably just an index), No., Score, Player, Team, Balls, Innings, Opposing team, Date, Result. Each row represents a century scored at Eden Gardens.
+
+The question is about the difference in balls between the first and fourth players. So I need to find the 'Balls' value for both the first player and the fourth player, then subtract one from the other to get the difference.
+
+Looking at the table:
+
+- The first entry (row 0) has Balls = 103.
+- The fourth entry is row 3, but wait, in the table index starts at 0. So row 4 would be the fifth entry because indexing begins at 0. Let me double-check that.
+
+Wait no, looking again: rows are numbered from 0 to 11. So the first player is row 0 (No.1), second is row1 (No.2), third is row2 (No.3), fourth would be row3 (No.4). Wait wait, but in the table as displayed:
+
+Row 0: No.1
+
+Row1: No.2
+
+Row2: No.3
+
+Row3: No.4
+
+So the first player is row0, which is Kris Srikkanth with Balls=103.
+
+The fourth player would be row3, which is Marcus Trescothick with Balls=109.
+
+Wait no, wait: the question says 'first and fourth players', so in terms of their positions in the list. The table has 12 entries, numbered from No.1 to No.12. So the first player is No.1 (row0), the fourth would be No.4 (row3).
+
+So Balls for first player: 103.
+
+Balls for fourth player: looking at row3, which is Marcus Trescothick with Balls=109.
+
+Now, I need to find the difference between these two values. So subtract 103 from 109.
+
+Calculating that: 109 - 103 = 6.
+
+So the difference in balls between the first and fourth players is 6.
+</think>
+
+Final Answer: 6
+===================Answer===================
+6

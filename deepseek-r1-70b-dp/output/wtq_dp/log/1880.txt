@@ -1,0 +1,40 @@
+===================Title===================
+Quebec lieutenant
+===================Table===================
+|    | Political lieutenant   | District\n(Area)                                              |   Took Office |   Left Office | Party leader                |
+|---:|:-----------------------|:--------------------------------------------------------------|--------------:|--------------:|:----------------------------|
+|  0 | Georges-Henri Héon    | Argenteuil\n(Laurentides)                                     |          1949 |          1949 | George A. Drew              |
+|  1 | Léon Balcer           | Trois-Rivières\n(Mauricie)                                   |          1957 |          1965 | John George Diefenbaker     |
+|  2 | Marcel Faribault       | none                                                          |          1967 |          1968 | Robert Stanfield            |
+|  3 | Claude Wagner          | Saint-Hyacinthe\n(Montérégie)                               |          1972 |          1978 | Robert Stanfield\nJoe Clark |
+|  4 | Lucien Bouchard        | Lac-Saint-Jean\n(Saguenay-Lac-Saint-Jean)                     |          1988 |          1990 | Brian Mulroney              |
+|  5 | Benoît Bouchard       | Roberval\n(Saguenay-Lac-Saint-Jean)                           |          1990 |          1993 | Brian Mulroney              |
+|  6 | Monique Landry         | Blainville—Deux-Montagnes\n(Laurentides)                      |          1993 |          1993 | Kim Campbell                |
+|  7 | André Bachand         | Richmond—Arthabaska\n(Centre-du-Québec &\nEastern Townships) |          1998 |          2004 | Joe Clark\nPeter MacKay     |
+===================Question===================
+the number of party leaders with the first name brian from 1949-2004?
+===================Text===================
+<think>
+Alright, so I've got this table about "Quebec lieutenant" and I need to figure out how many party leaders with the first name Brian were active from 1949 to 2004. Let me break it down step by step.
+
+First, I'll look at each row of the table one by one. The table has columns for Political lieutenant, District, Took Office, Left Office, and Party leader. My focus is on the "Party leader" column, specifically looking for any names that start with Brian.
+
+Starting from the top:
+
+1. **Row 0**: The party leader here is George A. Drew. Not a Brian.
+2. **Row 1**: John George Diefenbaker. Again, not Brian.
+3. **Row 2**: Robert Stanfield. Still no Brian.
+4. **Row 3**: This one lists both Robert Stanfield and Joe Clark. No Brian here either.
+5. **Row 4**: Now, party leader is Brian Mulroney. That's a hit! So that's one Brian.
+6. **Row 5**: Again, Brian Mulroney is the party leader. Wait, this might be another term or continuation, but it's still the same person. I need to count unique individuals, so even if he appears multiple times, it's just once for the total count.
+7. **Row 6**: Kim Campbell. Not a Brian.
+8. **Row 7**: Joe Clark and Peter MacKay. No Brian here.
+
+So, from scanning all rows, the only party leader with the first name Brian is Brian Mulroney. Even though he appears in two different rows (4 and 5), it's still just one unique individual.
+
+I should also make sure that I'm within the time frame of 1949-2004. All the entries are within this range, so no issues there.
+</think>
+
+Final Answer: 1
+===================Answer===================
+2

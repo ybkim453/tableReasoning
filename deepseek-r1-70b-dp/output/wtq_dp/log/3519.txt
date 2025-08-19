@@ -1,0 +1,49 @@
+===================Title===================
+Dino (singer)
+===================Table===================
+|    |   Year | Song                | Album        | Position   | Chart                 |
+|---:|-------:|:--------------------|:-------------|:-----------|:----------------------|
+|  0 |   1987 | "Summergirls"       | 24/7         | 50         | Billboard Hot 100     |
+|  1 |   1989 | "24/7"              | 24/7         | 42         | Billboard Hot 100     |
+|  2 |   1989 | "24/7"              | 24/7         | 12         | Hot R&B/Hip-Hop Songs |
+|  3 |   1989 | "I Like It"         | 24/7         | 7          | Billboard Hot 100     |
+|  4 |   1989 | "I Like It"         | 24/7         | 3          | Hot Dance Club Play   |
+|  5 |   1989 | "Sunshine"          | 24/7         | 23         | Billboard Hot 100     |
+|  6 |   1990 | "Never 2 Much of U" | 24/7         | 61         | Billboard Hot 100     |
+|  7 |   1990 | "Romeo"             | Swingin'     | 6          | Billboard Hot 100     |
+|  8 |   1991 | "Gentle"            | Swingin'     | 31         | Billboard Hot 100     |
+|  9 |   1993 | "Ooh Child"         | The Way I Am | 27         | Billboard Hot 100     |
+| 10 |   1993 | "Endlessly"         | The Way I Am | --         | Billboard Hot 100     |
+===================Question===================
+what number of dino's singles reached the top 10 on the billboard hot 100?
+===================Text===================
+<think>
+Alright, so I have this table about Dino's songs and their performances on various Billboard charts. The question is asking how many of his singles reached the top 10 on the Billboard Hot 100 chart.
+
+First, I need to identify all the entries that are part of the Billboard Hot 100 chart. Looking at the 'Chart' column, I can see multiple rows where it says "Billboard Hot 100." There are several other charts mentioned like "Hot R&B/Hip-Hop Songs" and "Hot Dance Club Play," but I'm only interested in the main Billboard Hot 100 for this question.
+
+Now, looking through each row:
+
+- Row 0: Song "Summergirls" from 1987 reached position 50. That's not top 10.
+- Row 1: "24/7" from 1989 is at position 42. Also not top 10.
+- Row 3: "I Like It" from 1989 is at position 7 on Billboard Hot 100. That's within the top 10.
+- Row 5: "Sunshine" same year, position 23. Not top 10.
+- Row 6: "Never 2 Much of U" in 1990 at 61. Nope.
+- Row 7: "Romeo" from 1990 is at number 6 on the Billboard Hot 100. That's another top 10 hit.
+- Rows 8 and 9: "Gentle" at 31 and "Ooh Child" at 27 in 1993. Both outside the top 20, so not top 10.
+
+Wait a second, are there any others? Let me check again:
+
+- Row 2 is for "24/7" but on Hot R&B/Hip-Hop Songs chart, position 12. Doesn't count here.
+- Row 4 is "I Like It" on the dance chart at number 3, which is great, but again, not the main Billboard Hot 100.
+
+So far, I found two songs: "I Like It" and "Romeo." Each reached positions 7 and 6 respectively on the Billboard Hot 100. Are there any more? Let me go through each row once more to make sure I didn't miss anything.
+
+Looking at all rows:
+
+0:50, 1:42, 2:12 (different chart), 3:7 (top10),4:3(dance chart),5:23,6:61,7:6(top10),8:31,9:27,10:--(no position). So yes, only two entries where the Billboard Hot 100 position is in the top 10.
+</think>
+
+Final Answer: 2
+===================Answer===================
+2

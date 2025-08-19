@@ -1,0 +1,37 @@
+===================Title===================
+Marcos Pizzelli
+===================Table===================
+|    |   Goal | Date       | Venue                                                | Opponent   | Score   | Result   | Competition    |
+|---:|-------:|:-----------|:-----------------------------------------------------|:-----------|:--------|:---------|:---------------|
+|  0 |      1 | 2008-5-28  | Sheriff Stadium, Tiraspol, Moldova                   | Moldova    | 0-1     | 2–2      | Friendly match |
+|  1 |      2 | 2010-10-12 | Hanrapetakan Stadium, Yerevan, Armenia               | Andorra    | 4–0     | 4–0      | Euro 2012 Q    |
+|  2 |      3 | 2011-6-4   | Petrovsky Stadium, Saint Petersburg, Russia          | Russia     | 0-1     | 3–1      | Euro 2012 Q    |
+|  3 |      4 | 2011-9-2   | Estadi Comunal d'Aixovall, Andorra la Vella, Andorra | Andorra    | 0-1     | 0-3      | Euro 2012 Q    |
+|  4 |      5 | 2011-10-7  | Hanrapetakan Stadium, Yerevan, Armenia               | Macedonia  | 1-0     | 4-1      | Euro 2012 Q    |
+|  5 |      6 | 2012-2-29  | Tsirion Stadium, Limassol, Cyprus                    | Canada     | 1-1     | 1-3      | Friendly match |
+|  6 |      7 | 2012-2-29  | Tsirion Stadium, Limassol, Cyprus                    | Canada     | 1-2     | 1-3      | Friendly match |
+===================Question===================
+how many other international goals did marcos pizzelli in the same year as he made a goal against russia?
+===================Text===================
+<think>
+Alright, let me try to figure this out step by step. So, the question is asking how many other international goals Marcos Pizzelli scored in the same year he made a goal against Russia.
+
+First, I need to find when he scored against Russia. Looking at the table, there's an entry where the Opponent is Russia. Checking the Date column for that row: it's 2011-6-4. So the match was on June 4, 2011.
+
+Now, I need to look through all his goals in the year 2011 to see how many he scored besides the one against Russia. Let me go through each row:
+
+Row 0: Date is May 28, 2008. That's before 2011, so not relevant.
+Row 1: October 12, 2010. Also before 2011.
+Row 2: June 4, 2011. This is the one against Russia. He scored his third goal here.
+Now, I need to check the other rows in 2011.
+
+Row 3: September 2, 2011. Opponent Andorra. He scored his fourth goal here.
+Row 4: October 7, 2011. Opponent Macedonia. That's his fifth goal.
+Rows 5 and 6 are both February 29, 2012. That's in the next year, so I can ignore those.
+
+So in 2011, besides the goal against Russia on June 4, he scored two more goals: one on September 2 and another on October 7. Therefore, that's a total of two other goals.
+</think>
+
+Final Answer: 2
+===================Answer===================
+1

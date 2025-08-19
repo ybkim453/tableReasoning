@@ -1,0 +1,75 @@
+===================Title===================
+Boksburg
+===================Table===================
+|    | Year    | Name              | Year .1   | Name .1            | Year .2   | Name .2             |
+|---:|:--------|:------------------|:----------|:-------------------|:----------|:--------------------|
+|  0 | 1903-04 | Mr B. Owen- Jones | 1935-36   | Mr W.Pearce        | 1967-68   | Mr J.F.Serfontein   |
+|  1 | 1904-05 | Mr B. Owen- Jones | 1936-37   | Mr W.Pearce        | 1968-69   | Mr Ben Steyn        |
+|  2 | 1905-06 | Mr G. Constable   | 1937 -38  | nan                | 1969-70   | nan                 |
+|  3 | 1907-08 | Mr T.R.Ziervogel  | 1939 -40  | Mr W.E.Vickers     | 1971-72   | Mr Chris Smith      |
+|  4 | 1908-09 | Mr T.R.Ziervogel  | 1940-41   | Mr P.Venter        | 1972-73   | Mr Ben Steyn        |
+|  5 | 1909-10 | Mr J.Morris       | 1941-42   | Mr P.Venter        | 1973-74   | Mr Issy Kramer      |
+|  6 | 1910-11 | nan               | 1942-43   | Mr P.Venter        | 1974-75   | nan                 |
+|  7 | 1911-12 | Mr B.Owen- Jones  | 1943-44   | Mr P.Venter        | 1975-76   | Mr Sakkie Blanche   |
+|  8 | 1912-13 | Mr J.Johnston     | 1944-45   | Mrs E.Myer         | 1977-78   | Mr Sakkie Blanche   |
+|  9 | 1913-14 | Mr J.Cook         | 1945-46   | Mrs E.Myer         | 1978-79   | nan                 |
+| 10 | 1914-15 | Mr J.Cook         | 1946-47   | Mrs E.Myer         | 1979 -80  | Mr Kobus Durand     |
+| 11 | 1915-16 | Mr R.Champion     | 1947-48   | Mr C.Chambers      | 1980-81   | Mr Meyer            |
+| 12 | 1916-17 | Mr R.Champion     | 1948-49   | Mrs S.Von Wielligh | 1981-82   | Mr Wiek Steyn       |
+| 13 | 1917-18 | Mr A.Ruffels      | 1949-50   | Mr A.J.Law         | 1982-83   | Mr Andrew Wheeler   |
+| 14 | 1918-19 | Mr J.Campbell     | 1950-51   | Mr P.Venter        | 1983-84   | nan                 |
+| 15 | 1919-20 | Mr B.Melman       | 1951-52   | Mr P.Venter        | 1984-85   | nan                 |
+| 16 | 1920-21 | Mr B.Melman       | 1952-53   | Mr Vic Pretorius   | 1985-86   | Mr J.Prins          |
+| 17 | 1921-21 | Mr B.Melman       | 1953-54   | Mr Vic Pretorius   | 1986-87   | nan                 |
+| 18 | 1922-23 | Mr J.Campbell     | 1954-55   | nan                | 1987-88   | nan                 |
+| 19 | 1923-24 | nan               | 1954-56   | Mr J.H.A.Roets     | 1988-89   | Mr Beyers De Klerk  |
+| 20 | 1924-25 | Mr E.Murton       | 1956-57   | Mr P.H.Tredoux     | 1989-90   | Mr Gerrie Wolmarans |
+| 21 | 1925-26 | Mr S.Steenberg    | 1957- 58  | nan                | 1990-91   | Mr Gerrie Wolmarans |
+| 22 | 1926-27 | nan               | 1958-59   | Mr J.M.Cawood      | 1991-92   | Mr TJ Ferreira      |
+| 23 | 1927-28 | Mr J.Stanbury     | 1959-60   | Mr A.P.Scribante   | 1992-93   | Mr Gerrie Wolmarans |
+| 24 | 1928-29 | Mr E.Murton       | 1960-61   | Mr J.L.Viljoen     | 1993-94   | Mr TJ Ferreira      |
+| 25 | 1929-30 | Mr K.Turner       | 1961-62   | Mr J.L.Viljoen     | nan       | nan                 |
+| 26 | 1930-31 | Mr J.E.Bigwood    | 1962-63   | Mrs S.Von Wielligh | nan       | nan                 |
+| 27 | 1931-32 | Mr A.Zaretsky     | 1963-64   | Mr F.J.Van Heerden | nan       | nan                 |
+| 28 | 1932-33 | Mr G.J.Malan      | 1964-65   | nan                | nan       | nan                 |
+| 29 | 1933-34 | nan               | 1965-66   | nan                | nan       | nan                 |
+| 30 | 1934-34 | nan               | 1966-67   | Mr H.McLennan      | nan       | nan                 |
+===================Question===================
+after mr. ben steyn, who was the next mayor?
+===================Text===================
+<think>
+Alright, so I need to figure out who became mayor after Mr. Ben Steyn based on this table. Let me look through the data carefully.
+
+First, I'll scan through each row and note where Mr. Ben Steyn is listed. From the table, I see that in row 1 (1904-05), under Name, it's Mr B. Owen-Jones. That doesn't help yet. Moving further down...
+
+Looking at the columns, there are three sets of years and names: Year, Name; Year .1, Name .1; Year .2, Name .2.
+
+I need to find where Mr. Ben Steyn appears. Let me check each row's Name .2 column because that seems to be the third position in each row.
+
+Row 0: Name .2 is Mr J.F.Serfontein (1967-68). Not Ben Steyn.
+
+Row 1: Name .2 is Mr Ben Steyn for 1968-69. Okay, so this is the first occurrence of him as mayor during 1968-69.
+
+Now, I need to find who comes after that term. Since each row represents a year or range, the next would be in the subsequent rows under Name .2.
+
+Looking at Row 2: Year .2 is 1969-70, but Name .2 is nan (which probably means no data or not applicable). So, no one there.
+
+Row 3: Year .2 is 1971-72, and Name .2 is Mr Chris Smith. Wait, that's a gap between 1968-69 (Ben Steyn) and then next in 1971-72 (Chris Smith). Did I miss any rows?
+
+Wait, let me check again. After row 1 (which ends at 1968-69), the next Name .2 is in Row 3 for 1971-72 as Mr Chris Smith.
+
+So between 1969 and 1971, there might be a gap or no data, but according to the table, after Ben Steyn's term ended in 1968-69, the next mayor listed under Name .2 is Mr Chris Smith starting in 1971-72. Therefore, he would be the next mayor after Ben Steyn.
+
+Wait, maybe I should check if there are any entries between 1968 and 1971. Looking at row indices:
+
+Row 0: up to 1967-68
+Row 1: 1968-69 (Ben)
+Row 2: 1969-70 nan
+Row 3: jumps to 1971-72 with Chris Smith.
+
+Yes, so the next mayor after Ben Steyn in Name .2 is Mr. Chris Smith.
+</think>
+
+Final Answer: Mr Chris Smith
+===================Answer===================
+Mr Issy Kramer

@@ -1,0 +1,49 @@
+===================Title===================
+Levanger
+===================Table===================
+|    | Parish     | Church name       | Location   |   Year built |
+|---:|:-----------|:------------------|:-----------|-------------:|
+|  0 | Alstadhaug | Alstadhaug Church | Alstadhaug |         1180 |
+|  1 | Ekne       | Ekne Church       | Ekne       |         1893 |
+|  2 | Levanger   | Levanger Church   | Levanger   |         1902 |
+|  3 | Levanger   | Bamberg Church    | Levanger   |         1998 |
+|  4 | Markabygd  | Markabygda Church | Markabygd  |         1887 |
+|  5 | Okkenhaug  | Okkenhaug Chapel  | Okkenhaug  |         1893 |
+|  6 | Ytterøy    | Ytterøy Church    | Ytterøya   |         1890 |
+|  7 | Åsen      | Åsen Church      | Åsen      |         1904 |
+===================Question===================
+how many churches in levanger were built between 1800 and 1900?
+===================Text===================
+<think>
+Alright, so I have this table about Levanger and its churches. The question is asking how many churches in Levanger were built between 1800 and 1900.
+
+First, I need to look at each row where the Parish or Location is Levanger because the question specifically asks about Levanger. Let me go through the rows one by one.
+
+Row 0: Parish Alstadhaug, Church name Alstadhaug Church, Location Alstadhaug, built in 1180. That's way before 1800, so it doesn't count.
+
+Row 1: Ekne parish, Ekne Church in Ekne, built in 1893. That falls within the 1800-1900 range. But wait, the location is Ekne, not Levanger. So this one isn't in Levanger.
+
+Row 2: Parish Levanger, Church name Levanger Church, Location Levanger, year 1902. Hmm, 1902 is just after 1900, so it's outside the upper limit of 1900.
+
+Row 3: Also under Levanger parish, Bamberg Church in Levanger, built in 1998. That's way beyond our range.
+
+Rows 4 to 7 are about different parishes and locations like Markabygd, Okkenhaug, Ytterøy, and Åsen. None of these are Levanger, so they don't apply.
+
+Wait a second, I might have missed something. Let me double-check the years. The range is between 1800 and 1900, so from 1801 up to 1900 inclusive? Or does it include the exact year 1800 and 1900?
+
+Looking back at the question: "between 1800 and 1900." Usually, that's interpreted as not including the endpoints unless stated otherwise. But sometimes people mean inclusive. To be safe, I'll consider both.
+
+From the table:
+- Levanger Church was built in 1902, which is after 1900.
+- Bamberg Church in 1998 is even later.
+
+Are there any other churches in Levanger? The rows under Levanger parish are only these two: 1902 and 1998. So no churches in Levanger were built between 1800 and 1900.
+
+Wait, maybe I missed other parishes that cover Levanger? Let me check the locations again. No, all other locations are different places like Ekne, which is nearby but not Levanger itself.
+
+So, actually, there are zero churches in Levanger built between 1800 and 1900 according to this table.
+</think>
+
+Final Answer: 0
+===================Answer===================
+4

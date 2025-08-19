@@ -1,0 +1,52 @@
+===================Title===================
+Solar eclipse of May 20, 2012
+===================Table===================
+|    | May 20-21\n118   | March 9\n120   | December 25-26\n122   | October 13-14\n124   | August 1-2\n126   |
+|---:|:-----------------|:---------------|:----------------------|:---------------------|:------------------|
+|  0 | May 21, 1993     | March 9, 1997  | December 25, 2000     | October 14, 2004     | August 1, 2008    |
+|  1 | 128              | 130            | 132                   | 134                  | 136               |
+|  2 | May 20, 2012     | March 9, 2016  | December 26, 2019     | October 14, 2023     | August 2, 2027    |
+|  3 | 138              | 140            | 142                   | 144                  | 146               |
+|  4 | May 21, 2031     | March 9, 2035  | December 26, 2038     | October 14, 2042     | August 2, 2046    |
+|  5 | 148              | 150            | 152                   | 154                  | 156               |
+|  6 | May 20, 2050     | March 9, 2054  | December 26, 2057     | October 13, 2061     | August 2, 2065    |
+===================Question===================
+name the eclipse that directly after 122.
+===================Text===================
+<think>
+Alright, I'm looking at this table about solar eclipses, and I need to figure out which eclipse comes directly after the one numbered 122. 
+
+First, I notice that each row in the table represents different sets of information. The top row has numbers like 118, 120, 122, etc., so those must be some kind of identifiers or perhaps eclipse series numbers. Then, the rows below have dates and corresponding numbers which might be related to the Saros cycle, a period of about 18 years between eclipses.
+
+The question is asking for the eclipse that comes directly after 122. So I should look at where 122 is located in the table. Scanning through, I see that 122 is under the "December 25-26" column, specifically on the first row below the header which lists dates from 2012 onwards.
+
+Looking down the rows, each subsequent row increments by 6 and adds about 18 years to the date. For example, after December 25, 2000 (which is under 122), the next one would be December 26, 2018, but I need to check if that's directly after 122.
+
+Wait, actually, in the table provided, each number (like 118, 120) seems to correspond to a specific eclipse date. So 122 is associated with "December 25-26". The row below that has dates like December 26, 2019 under the same column, which would be the next eclipse after 122.
+
+Looking at the numbering, each column increases by 2 as you go down. For instance, 118 in the first column goes to 128 in the next row, and so on. So, directly after 122 should be the next number in that sequence, which is 124? Wait, no, because 122 is in one column, and the columns are separate.
+
+Wait, maybe I'm misunderstanding the structure. The top numbers (118,120, etc.) might represent each eclipse's Saros series number or another identifier. So each column represents a different series, with the dates progressing down each column.
+
+In that case, looking at the 122 column, the next date after December 25-26 would be in row 2, which is December 26, 2019, under number 124? Wait no, because the numbering goes from 118 to 128 in the next row. So perhaps each row corresponds to different cycles.
+
+Wait, perhaps I'm overcomplicating this. The question is simply asking for the eclipse that comes directly after 122. Since 122 is one of the top numbers, the next number after it would be 124. But looking at the columns, 122's column has dates from 2000 to 2019 and onwards, so the next eclipse in time would actually be October 14, 2023, which is under 124.
+
+Wait no, because each column seems to represent a different series. So the date after December 25-26 (under 122) would be in the same column but further down, like row 2: December 26, 2019. But that's the next occurrence in the same series. However, the question is about what comes directly after 122 in the table's sequence, so perhaps it's just the next number after 122, which is 124.
+
+Alternatively, maybe each column represents a different eclipse, and within each column, the dates go down in time. So if I'm looking for the eclipse that comes right after 122, I should look at the same column but the next row below. But 122's date is December 25-26, then moving down, it would be December 26, 2019 under number 124? Wait no, because in the table, each column increments by 6 every time.
+
+Wait, perhaps each column represents a different set of eclipses, and within each column, the dates go forward in time. So, for example, looking at the first column: May 20-21 with numbers 118, then below it's May 21,1993 (row0), then 128 (row1), May 20,2012 (row2), etc.
+
+So if I'm focusing on the column where 122 is in row0 as December25-26,2000, then the next one in that column would be under row2: December26,2019. So the eclipse directly after 122's date is December26,2019.
+
+But wait, the question is to name the eclipse that comes directly after 122, so perhaps it refers to the next number after 122, which is 124. But looking at the numbers in row0:118,120,122,124... So the next one would be 124. The date under 124 in row2 is October14,2023.
+
+Alternatively, maybe each column represents a series of eclipses separated by Saros cycles (18 years), and within each column, the dates are increasing by 18 years each time.
+
+In any case, I think the eclipse directly after 122 would be the one under number124 in row2, which is October14,2023. So the name would be that date.
+</think>
+
+Final Answer: October 14-15, 2023
+===================Answer===================
+124

@@ -1,0 +1,53 @@
+===================Title===================
+Catherine Deneuve
+===================Table===================
+|    |   Year | Award                   | Film                                | Result    |
+|---:|-------:|:------------------------|:------------------------------------|:----------|
+|  0 |   1976 | Best Actress            | Le Sauvage                          | Nominated |
+|  1 |   1981 | Best Actress            | Le Dernier métro                   | Won       |
+|  2 |   1982 | Best Actress            | Hôtel des Amériques               | Nominated |
+|  3 |   1988 | Best Actress            | Agent trouble                       | Nominated |
+|  4 |   1989 | Best Actress            | Drôle d'endroit pour une rencontre | Nominated |
+|  5 |   1993 | Best Actress            | Indochine                           | Won       |
+|  6 |   1994 | Best Actress            | Ma saison préférée               | Nominated |
+|  7 |   1997 | Best Actress            | Les Voleurs                         | Nominated |
+|  8 |   1999 | Best Actress            | Place Vendôme                      | Nominated |
+|  9 |   2006 | Best Supporting Actress | Palais Royal!                       | Nominated |
+| 10 |   2011 | Best Actress            | Potiche                             | Nominated |
+| 11 |   2014 | Best Actress            | On My Way                           | Pending   |
+===================Question===================
+how many of the films won an award?
+===================Text===================
+<think>
+Okay, so I've got this table about Catherine Deneuve's awards and nominations over different years. The question is asking how many of her films actually won an award based on this table. Let me break it down step by step.
+
+First, I need to understand the structure of the table. It has columns: index, year, award category, film name, and result. The result column shows whether she was nominated or if she won. So, my focus is on the 'Result' column because that's where it says whether the film won or not.
+
+Looking through each row:
+
+1. 1976 - Le Sauvage: Nominated
+2. 1981 - Le Dernier métro: Won
+3. 1982 - Hôtel des Amériques: Nominated
+4. 1988 - Agent trouble: Nominated
+5. 1989 - Drôle d'endroit pour une rencontre: Nominated
+6. 1993 - Indochine: Won
+7. 1994 - Ma saison préférée: Nominated
+8. 1997 - Les Voleurs: Nominated
+9. 1999 - Place Vendôme: Nominated
+10. 2006 - Palais Royal!: Nominated (and this was for Best Supporting Actress)
+11. 2011 - Potiche: Nominated
+12. 2014 - On My Way: Pending
+
+So, I'm scanning each row's 'Result' to find where it says 'Won'. From what I can see:
+
+- In 1981, Le Dernier métro won.
+- In 1993, Indochine also won.
+
+Wait, that's two films. Let me double-check to make sure I didn't miss any others. The rest of the entries either say Nominated or Pending. So no other 'Won' results besides those two.
+
+Therefore, Catherine Deneuve has two films that actually won an award according to this table.
+</think>
+
+Final Answer: 2
+===================Answer===================
+2

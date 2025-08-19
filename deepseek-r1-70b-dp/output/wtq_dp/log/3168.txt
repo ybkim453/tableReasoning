@@ -1,0 +1,64 @@
+===================Title===================
+The French Connection (film)
+===================Table===================
+|    | Award                                  | Category                            | Nominee                                | Result    |
+|---:|:---------------------------------------|:------------------------------------|:---------------------------------------|:----------|
+|  0 | Academy Awards, 1972                   | Best Picture                        | Phillip D'Antoni                       | Won       |
+|  1 | Academy Awards, 1972                   | Best Director                       | William Friedkin                       | Won       |
+|  2 | Academy Awards, 1972                   | Best Actor                          | Gene Hackman                           | Won       |
+|  3 | Academy Awards, 1972                   | Best Adapted Screenplay             | Ernest Tidyman                         | Won       |
+|  4 | Academy Awards, 1972                   | Film Editing                        | Gerald B. Greenberg                    | Won       |
+|  5 | Academy Awards, 1972                   | Best Supporting Actor               | Roy Scheider                           | Nominated |
+|  6 | Academy Awards, 1972                   | Best Cinematography                 | Owen Roizman                           | Nominated |
+|  7 | Academy Awards, 1972                   | Best Sound                          | Theodore Soderberg\nChristopher Newman | Nominated |
+|  8 | American Cinema Editors, 1972          | Best Edited Feature Film            | Gerald B. Greenberg                    | Nominated |
+|  9 | BAFTA, 1972                            | Best Actor                          | Gene Hackman                           | Won       |
+| 10 | BAFTA, 1972                            | Best Film Editing                   | Gerald B. Greenberg                    | Won       |
+| 11 | BAFTA, 1972                            | Best Direction                      | William Friedkin                       | Nominated |
+| 12 | BAFTA, 1972                            | Best Film                           | Philip D'Antoni                        | Nominated |
+| 13 | BAFTA, 1972                            | Best Sound Track                    | Christopher Newman\nTheodore Soderberg | Nominated |
+| 14 | David di Donatello Award, 1972         | Best Foreign Film                   | Philip D'Antoni                        | Won       |
+| 15 | Directors Guild of America, 1972       | Outstanding Directorial Achievement | William Friedkin                       | Won       |
+| 16 | Edgar Allan Poe Awards, 1972           | Best Motion Picture                 | Ernest Tidyman                         | Won       |
+| 17 | Golden Globe Awards, 1972              | Best Motion Picture                 | Phillip D'Antoni                       | Won       |
+| 18 | Golden Globe Awards, 1972              | Best Director                       | William Friedkin                       | Won       |
+| 19 | Golden Globe Awards, 1972              | Best Actor                          | Gene Hackman                           | Won       |
+| 20 | Golden Globe Awards, 1972              | Best Screenplay                     | Ernest Tidyman                         | Nominated |
+| 21 | Kansas City Film Critics Circle, 1972  | Best Actor                          | Gene Hackman                           | Won       |
+| 22 | Kansas City Film Critics Circle, 1972  | Best Film                           | Ernest Tidyman                         | Won       |
+| 23 | National Society of Film Critics, 1972 | Best Actor                          | Gene Hackman                           | Nominated |
+| 24 | New York Film Critics Circle, 1971     | Best Actor                          | Gene Hackman                           | Won       |
+| 25 | New York Film Critics Circle, 1971     | Best Film                           | Ernest Tidyman                         | Nominated |
+| 26 | Writers Guild of America, 1972         | Best Drama Adaptation               | Ernest Tidyman                         | Nominated |
+===================Question===================
+for how many academy awards was the french connection nominated?
+===================Text===================
+<think>
+Okay, so I need to figure out how many Academy Awards The French Connection was nominated for based on the table provided. Let me go through each row step by step.
+
+Looking at the table, I see that there are entries from index 0 to 26, but I'm only interested in those related to the Academy Awards. So I'll focus on rows where the Award is "Academy Awards, 1972".
+
+At index 0: Best Picture, Phillip D'Antoni, Won.
+Index 1: Best Director, William Friedkin, Won.
+Index 2: Best Actor, Gene Hackman, Won.
+Index 3: Best Adapted Screenplay, Ernest Tidyman, Won.
+Index 4: Film Editing, Gerald B. Greenberg, Won.
+
+So up to index 4, all are wins. Now, moving further:
+
+Index 5: Best Supporting Actor, Roy Scheider, Nominated.
+Index 6: Best Cinematography, Owen Roizman, Nominated.
+Index 7: Best Sound, Theodore Soderberg and Christopher Newman, Nominated.
+
+So in total, from the Academy Awards section, there are 8 categories listed. The first five (indices 0-4) were wins, and the next three (indices 5-7) were nominations. Each of these represents a nomination because even though some won, they were still nominated.
+
+Therefore, the number of Academy Award nominations would be 8: 5 wins and 3 nominations. Wait, no—when counting nominations, both wins and actual nominations count as being nominated. Because to win, you have to be nominated first. So each entry in the Academy Awards section is a nomination, regardless of whether it won or not.
+
+So from indices 0-7, that's 8 entries under Academy Awards. Each one represents a nomination, so The French Connection was nominated for 8 Academy Awards.
+</think>
+
+The French Connection received 8 Academy Award nominations.
+
+Final Answer: 8
+===================Answer===================
+8

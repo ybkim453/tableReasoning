@@ -1,0 +1,95 @@
+===================Title===================
+Cold Blank
+===================Table===================
+|    | Single / EP                         | Tracks                                                                                              | Label              |   Year | Album      |
+|---:|:------------------------------------|:----------------------------------------------------------------------------------------------------|:-------------------|-------:|:-----------|
+|  0 | Your Love Is Electric               | Your Love Is Electric                                                                               | Burn The Fire      |   2009 | —          |
+|  1 | Fresh Attire Vol. 3                 | Crush Groovin'                                                                                      | Wearhouse Music    |   2009 | —          |
+|  2 | Left To Right                       | Left To Right                                                                                       | Destination?       |   2009 | —          |
+|  3 | Breakdown                           | Breakdown                                                                                           | Burn The Fire      |   2009 | —          |
+|  4 | Doin' It Right                      | Doin' It Right                                                                                      | Burn The Fire      |   2009 | —          |
+|  5 | Los Angeles                         | Los Angeles\nLos Angeles feat. Whiskey Pete (Clean Mix)\nLos Angeles feat. Whiskey Pete (Dirty Mix) | Burn The Fire      |   2010 | The Agenda |
+|  6 | Dutchie                             | Dutchie                                                                                             | Burn The Fire      |   2010 | —          |
+|  7 | Ghetto Ass Bitches                  | Ghetto Ass Bitches                                                                                  | Burn The Fire      |   2010 | —          |
+|  8 | Hot & Cold                          | Overdose                                                                                            | Burn The Fire      |   2010 | —          |
+|  9 | The Flying Cat                      | The Flying Cat                                                                                      | Burn The Fire      |   2010 | —          |
+| 10 | Rave To The Grave                   | Raver Booty\nShuffle                                                                                | Burn The Fire      |   2010 | —          |
+| 11 | Those Who From Heaven To Earth Came | The Lizard King\nAnnunaki                                                                           | Burn The Fire      |   2010 | —          |
+| 12 | Still Smoking                       | Nasty & Gaspar Still Smoking                                                                        | Burn The Fire      |   2010 | —          |
+| 13 | The Thirteenth Skull                | The Thirteenth Skull                                                                                | Burn The Fire      |   2010 | —          |
+| 14 | Die Famous                          | Die Famous                                                                                          | Burn The Fire      |   2011 | —          |
+| 15 | Redroid                             | Redroid                                                                                             | Temple Music Group |   2011 | —          |
+| 16 | Ancient Psychic Tandem War Elephant | Ancient Psychic Tandem War Elephant                                                                 | Burn The Fire      |   2011 | —          |
+| 17 | 2012 – Remix Contest EP             | 2012 (Remastered)                                                                                   | Burn The Fire      |   2012 | The Agenda |
+| 18 | Louder Than Bombs                   | Louder Than Bombs                                                                                   | Burn The Fire      |   2012 | The Agenda |
+| 19 | Deception                           | Deception                                                                                           | Burn The Fire      |   2012 | The Agenda |
+| 20 | Onslaught                           | Onslaught                                                                                           | Burn The Fire      |   2012 | The Agenda |
+| 21 | Drop Bears                          | Drop Bears                                                                                          | Burn The Fire      |   2013 | —          |
+| 22 | Hyped                               | Hyped                                                                                               | Vicious            |   2014 | —          |
+===================Question===================
+count the number of record labels that released music.
+===================Text===================
+<think>
+Alright, let me try to figure this out step by step. So the question is asking how many record labels released music based on the given table about "Cold Blank." 
+
+First, I need to look at the table and identify all the unique entries under the "Label" column because each unique label represents a different record company that released their music. 
+
+Looking through the table:
+
+- The first entry is by "Burn The Fire" in 2009.
+- Next few are also "Burn The Fire," so no new labels yet.
+- Then, at row 15, I see "Temple Music Group" which is a different label.
+- Further down, everything else like rows 16 to the end again mention "Burn The Fire" and another instance of "Vicious" at row 22.
+
+Wait, let me check each row:
+
+0: Burn The Fire
+1: Wearhouse Music
+2: Destination?
+3: Burn The Fire
+4: Burn The Fire
+5: Burn The Fire
+6: Burn The Fire
+7: Burn The Fire
+8: Burn The Fire
+9: Burn The Fire
+10: Burn The Fire
+11: Burn The Fire
+12: Burn The Fire
+13: Burn The Fire
+14: Burn The Fire
+15: Temple Music Group
+16: Burn The Fire
+17: Burn The Fire
+18: Burn The Fire
+19: Burn The Fire
+20: Burn The Fire
+21: Burn The Fire
+22: Vicious
+
+So the labels I'm seeing are:
+
+1. Burn The Fire
+2. Wearhouse Music (row 1)
+3. Destination? (row 2)
+4. Temple Music Group (row 15)
+5. Vicious (row 22)
+
+Wait, is "Destination?" a separate label or just part of the name? Since it's under Label column as "Destination?", I think it's a distinct label.
+
+So that gives me five different labels:
+
+- Burn The Fire
+- Wearhouse Music
+- Destination?
+- Temple Music Group
+- Vicious
+
+I should double-check to make sure there are no duplicates beyond these. Yep, those are the only unique ones mentioned.
+</think>
+
+The number of record labels that released music is 5.
+
+Final Answer: 5
+===================Answer===================
+5

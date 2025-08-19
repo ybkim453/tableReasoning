@@ -1,0 +1,28 @@
+===================Title===================
+World Golf Championships
+===================Table===================
+|    | Golfer         | Country          |   Wins | Match Play          | Championship                                 | Invitational                                       | Champions   |
+|---:|:---------------|:-----------------|-------:|:--------------------|:---------------------------------------------|:---------------------------------------------------|:------------|
+|  0 | Tiger Woods    | United States    |     18 | 3: 2003, 2004, 2008 | 7: 1999, 2002, 2003,\n2005, 2006, 2007, 2013 | 8: 1999, 2000, 2001, 2005,\n2006, 2007, 2009, 2013 | —           |
+|  1 | Geoff Ogilvy   | Australia        |      3 | 2: 2006, 2009       | 1: 2008                                      | —                                                  | —           |
+|  2 | Darren Clarke  | Northern Ireland |      2 | 1: 2000             | —                                            | 1: 2003                                            | —           |
+|  3 | Ernie Els      | South Africa     |      2 | —                   | 2: 2004, 2010                                | —                                                  | —           |
+|  4 | Hunter Mahan   | United States    |      2 | 1: 2012             | —                                            | 1: 2010                                            | —           |
+|  5 | Phil Mickelson | United States    |      2 | —                   | 1: 2009                                      | —                                                  | 1: 2009     |
+|  6 | Ian Poulter    | England          |      2 | 1: 2010             | —                                            | —                                                  | 1: 2012     |
+===================Question===================
+which was the first year in which ernie els won a championship?
+===================Text===================
+<think>
+Okay, so I need to figure out the first year Ernie Els won a championship based on the provided table. Let me look at the table again.
+
+The table has several columns: Golfer, Country, Wins, Match Play, Championship, Invitational, and Champions. For each golfer, their wins are broken down into different categories.
+
+Ernie Els is listed as row 3. His total wins are 2. Looking at his entries under the "Championship" column, it says "2: 2004, 2010". That means he won two championships in those years. Since the question asks for the first year he won a championship, I should pick the earlier one between 2004 and 2010.
+
+So the first year Ernie Els won was 2004.
+</think>
+
+Final Answer: 2004
+===================Answer===================
+2004

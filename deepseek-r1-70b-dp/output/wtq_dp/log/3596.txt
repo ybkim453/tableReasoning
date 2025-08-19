@@ -1,0 +1,41 @@
+===================Title===================
+Lic. Adolfo López Mateos International Airport
+===================Table===================
+|    |   Rank | City                           | Passengers   |   Ranking | Airline                                |
+|---:|-------:|:-------------------------------|:-------------|----------:|:---------------------------------------|
+|  0 |      1 | Quintana Roo, Cancún          | 132,046      |       nan | Aeroméxico Connect, Interjet, Volaris |
+|  1 |      2 | Nuevo León, Monterrey         | 106,513      |       nan | Aeroméxico Connect, Interjet          |
+|  2 |      3 | Guerrero, Acapulco             | 56,069       |       nan | Aeroméxico Connect, Interjet          |
+|  3 |      4 | Jalisco, Guadalajara           | 52,584       |       nan | Aeroméxico Connect, Volaris           |
+|  4 |      5 | Jalisco, Puerto Vallarta       | 43,419       |         1 | Interjet                               |
+|  5 |      6 | Baja California Sur, Los Cabos | 37,526       |         1 | Interjet                               |
+|  6 |      7 | Guerrero, Ixtapa/Zihuatanejo   | 35,507       |       nan | Interjet                               |
+|  7 |      8 | Baja California, Tijuana       | 14,906       |       nan | Interjet                               |
+|  8 |      9 | Tabasco, Villahermosa          | 6,928        |         1 | VivaAerobus                            |
+|  9 |     10 | Tamaulipas, Tampico            | 3,619        |         1 | VivaAerobus                            |
+===================Question===================
+what is the next busiest domestic routes, next to quintana roo, cancun?
+===================Text===================
+<think>
+Okay, so I'm trying to figure out what the next busiest domestic routes are after Quintana Roo, Cancun. Let me look at this table again.
+
+First, I see the table has several columns: Rank, City, Passengers, Ranking, and Airline. The cities listed seem to be destinations from Lic. Adolfo López Mateos International Airport, which is probably in Mexico since some of these are Mexican states like Quintana Roo, Nuevo Leon, etc.
+
+The first row shows Quintana Roo, Cancun with 132,046 passengers. That's the highest number, so it's the busiest. Now I need to find the next ones after that.
+
+Looking at Rank column: The next rank is 2, which is Nuevo Leon, Monterrey with 106,513 passengers. Then rank 3 is Guerrero, Acapulco with 56,069. After that, Jalisco, Guadalajara has 52,584, so that's the fourth spot.
+
+Wait, but I'm being asked for the next busiest routes after Cancun. So the order should be based on passenger numbers in descending order.
+
+So after Quintana Roo, Cancun (132k), the next highest is Nuevo Leon, Monterrey with over 100k passengers. Then comes Guerrero, Acapulco at about 56k, followed by Jalisco, Guadalajara at 52k.
+
+Wait, but I also see that some of them have a "Ranking" column with '1'. Not sure if that affects the overall ranking. Maybe it's a different kind of ranking, perhaps for airlines or something else. But since the Rank column is sequential from 1 to 10, I think that's the main ordering.
+
+So, after Cancun, the next busiest routes would be Monterrey, then Acapulco, followed by Guadalajara. So the answer should list these cities in order of their passenger numbers after Cancun.
+</think>
+
+The next busiest domestic routes after Quintana Roo, Cancun are Nuevo Leon, Monterrey; Guerrero, Acapulco; and Jalisco, Guadalajara.
+
+Final Answer: Nuevo Leon, Monterrey; Guerrero, Acapulco; Jalisco, Guadalajara
+===================Answer===================
+Nuevo León, Monterrey

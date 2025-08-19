@@ -1,0 +1,50 @@
+===================Title===================
+Škoda Auto
+===================Table===================
+|    | Model           | 1991    | 1995    | 1996    | 1997    | 1998    | 1999    | 2000    | 2001    | 2002    | 2003    | 2004    | 2005    | 2006    | 2007    | 2008    | 2009    | 2010    | 2011    | 2012    | 2013    |
+|---:|:----------------|:--------|:--------|:--------|:--------|:--------|:--------|:--------|:--------|:--------|:--------|:--------|:--------|:--------|:--------|:--------|:--------|:--------|:--------|:--------|:--------|
+|  0 | Škoda Felicia  | 172,000 | 210,000 | nan     | 288,458 | 261,127 | 241,256 | 148,028 | 44,963  | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       |
+|  1 | Škoda Octavia  | −       | −       | nan     | 47,876  | 102,373 | 143,251 | 158,503 | 164,134 | 164,017 | 165,635 | 181,683 | 233,322 | 270,274 | 309,951 | 344,857 | 317,335 | 349,746 | 387,200 | 409,360 | 359,600 |
+|  2 | Škoda Fabia    | −       | −       | −       | −       | −       | 823     | 128,872 | 250,978 | 264,641 | 260,988 | 247,600 | 236,698 | 243,982 | 232,890 | 246,561 | 264,173 | 229,045 | 266,800 | 255,025 | 202,000 |
+|  3 | Škoda Superb   | −       | −       | −       | −       | −       | −       | −       | 177     | 16,867  | 23,135  | 22,392  | 22,091  | 20,989  | 20,530  | 25,645  | 44,548  | 98,873  | 116,700 | 106,847 | 94,400  |
+|  4 | Škoda Roomster | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | 14,422  | 66,661  | 57,467  | 47,152  | 32,332  | 36,000  | 39,249  | 33,300  |
+|  5 | Škoda Yeti     | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | 11,018  | 52,604  | 70,300  | 90,952  | 82,400  |
+|  6 | Škoda Rapid    | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | 1,700   | 9,292   | 103,800 |
+|  7 | Škoda Citigo   | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | −       | 509     | 36,687  | 45,200  |
+|  8 | Total           | 172,000 | 210,000 | 261,000 | 336,334 | 363,500 | 385,330 | 435,403 | 460,252 | 445,525 | 449,758 | 451,675 | 492,111 | 549,667 | 630,032 | 674,530 | 684,226 | 762,600 | 879,200 | 949,412 | 920,800 |
+===================Question===================
+what year had least number for skoda felicia?
+===================Text===================
+<think>
+Okay, I need to figure out which year had the least number for Škoda Felicia based on the provided table. Let's start by looking at the data for the Škoda Felicia model.
+
+From the table, the years and corresponding numbers are:
+
+- 1991: 172,000
+- 1995: 210,000
+- 1996: nan (which I assume means no data or zero)
+- 1997: 288,458
+- 1998: 261,127
+- 1999: 241,256
+- 2000: 148,028
+- 2001: 44,963
+- From 2002 onwards, it's marked with '-', which likely means production stopped or data isn't available.
+
+So the available numbers are from 1991 to 2001. I need to find the smallest number among these. Let's list them out:
+
+1991: 172,000  
+1995: 210,000  
+1997: 288,458  
+1998: 261,127  
+1999: 241,256  
+2000: 148,028  
+2001: 44,963  
+
+Looking at these numbers, 2001 has the lowest number at 44,963. There's also a 'nan' in 1996, but I think that means there were no sales or production that year, so it might be considered as zero. If we treat nan as zero, then 1996 would technically have the least number (0). However, since 'nan' often stands for missing data rather than an actual count of zero, it's safer to consider only the years with actual numbers provided.
+
+Therefore, the year with the least number for Škoda Felicia is 2001 with 44,963 units.
+</think>
+
+Final Answer: 2001
+===================Answer===================
+2001

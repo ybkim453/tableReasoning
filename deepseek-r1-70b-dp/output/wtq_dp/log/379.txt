@@ -1,0 +1,35 @@
+===================Title===================
+Salvatore Bettiol
+===================Table===================
+|    |   Year | Competition            | Venue                  | Position   | Event    | Notes   |
+|---:|-------:|:-----------------------|:-----------------------|:-----------|:---------|:--------|
+|  0 |   1986 | Venice Marathon        | Venice, Italy          | 1st        | Marathon | 2:18:44 |
+|  1 |   1987 | World Championships    | Rome, Italy            | 13th       | Marathon | 2:17:45 |
+|  2 |   1987 | Venice Marathon        | Venice, Italy          | 1st        | Marathon | 2:10:01 |
+|  3 |   1990 | European Championships | Split, FR Yugoslavia   | 4th        | Marathon | 2:17:45 |
+|  4 |   1991 | World Championships    | Tokyo, Japan           | 6th        | Marathon | 2:15:58 |
+|  5 |   1992 | Olympic Games          | Barcelona, Spain       | 5th        | Marathon | 2:14:15 |
+|  6 |   1993 | World Championships    | Stuttgart, Germany     | —          | Marathon | DNF     |
+|  7 |   1996 | Olympic Games          | Atlanta, United States | 20th       | Marathon | 2:17:27 |
+===================Question===================
+are the dates in a consecutive order?
+===================Text===================
+<think>
+Okay, so I need to figure out if the dates in Salvatore Bettiol's competition table are in consecutive order. Let me look at each year listed and check them one by one.
+
+Starting from 1986, that's the first entry. The next one is 1987, which comes right after, so that's consecutive. Then another 1987 entry—same year as before, but that's fine because it's just two entries in the same year. 
+
+Moving on to 1990. Wait, there's a jump from 1987 to 1990. That means there are years missing in between, like 1988 and 1989. So those aren't consecutive. 
+
+Next is 1991, which follows 1990 without any gap. Then 1992 comes after that—no problem there. After 1992, the next entry is 1993, so that's consecutive as well.
+
+After 1993, it jumps to 1996 for the Olympic Games in Atlanta. So from 1993 to 1996, there are missing years: 1994 and 1995 aren't represented here. That definitely breaks the consecutiveness.
+
+Putting it all together, while some years follow each other without gaps, like from 1987 to 1987 (same year), 1990-1991-1992-1993, there are significant gaps between 1987 and 1990, and then after 1993 to 1996. So the overall sequence isn't consecutive.
+</think>
+
+The dates in the table are not in strict consecutive order as there are missing years (e.g., 1988, 1989, 1994, 1995).
+
+Final Answer: No
+===================Answer===================
+no

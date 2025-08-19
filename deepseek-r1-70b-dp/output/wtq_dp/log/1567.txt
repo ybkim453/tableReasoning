@@ -1,0 +1,43 @@
+===================Title===================
+Kansas City Brass
+===================Table===================
+|    |   Year |   Division | League     | Regular Season      | Playoffs        | Open Cup        |
+|---:|-------:|-----------:|:-----------|:--------------------|:----------------|:----------------|
+|  0 |   1998 |          4 | USISL PDSL | 4th, Central        | Division Finals | 1st Round       |
+|  1 |   1999 |          4 | USL PDL    | 5th, Heartland      | Did not qualify | Did not qualify |
+|  2 |   2000 |          4 | USL PDL    | 4th, Rocky Mountain | Did not qualify | Did not qualify |
+|  3 |   2001 |          4 | USL PDL    | 5th, Rocky Mountain | Did not qualify | Did not qualify |
+|  4 |   2002 |          4 | USL PDL    | 5th, Heartland      | Did not qualify | Did not qualify |
+|  5 |   2003 |          4 | USL PDL    | 5th, Heartland      | Did not qualify | Did not qualify |
+|  6 |   2004 |          4 | USL PDL    | 6th, Heartland      | Did not qualify | Did not qualify |
+|  7 |   2005 |          4 | USL PDL    | 3rd, Heartland      | Did not qualify | Did not qualify |
+|  8 |   2006 |          4 | USL PDL    | 3rd, Heartland      | Did not qualify | Did not qualify |
+|  9 |   2007 |          4 | USL PDL    | 3rd, Heartland      | Did not qualify | 1st Round       |
+| 10 |   2008 |          4 | USL PDL    | 5th, Heartland      | Did not qualify | Did not qualify |
+| 11 |   2009 |          4 | USL PDL    | 6th, Heartland      | Did not qualify | Did not qualify |
+| 12 |   2010 |          4 | USL PDL    | 7th, Heartland      | Did not qualify | Did not qualify |
+| 13 |   2011 |          4 | USL PDL    | 4th, Heartland      | Did not qualify | Did not qualify |
+| 14 |   2012 |          4 | USL PDL    | 5th, Heartland      | Did not qualify | Did not qualify |
+| 15 |   2013 |          4 | USL PDL    | 4th, Heartland      | Did not qualify | Did not qualify |
+===================Question===================
+how many years are listed?
+===================Text===================
+<think>
+Alright, so I have this table about the Kansas City Brass, and I need to figure out how many years are listed in it. Let me take a closer look.
+
+First, I see that there's a column labeled "Year" which probably lists the years they were active or playing. The rows go from 0 to 15, so that's 16 entries in total. Each row represents one year, starting from 1998 up to 2013. 
+
+Let me count them just to be sure. Starting with 1998 as the first year, and each subsequent row increments by one year: 99, 2000, and so on until 2013. So that's 1998 through 2013 inclusive.
+
+Calculating the number of years between 1998 and 2013 can be done by subtracting the smaller year from the larger one and then adding one (since both endpoints are included). So, 2013 minus 1998 is 15, plus one gives us 16 years total. 
+
+I don't think there are any gaps or missing years in the table because each row corresponds to a consecutive year without skipping any. All entries from 1998 through 2013 are present.
+
+So, the number of years listed should be 16.
+</think>
+
+The table lists data for Kansas City Brass from 1998 through 2013, inclusive. This span includes 16 distinct years.
+
+Final Answer: 16
+===================Answer===================
+16

@@ -1,0 +1,102 @@
+===================Title===================
+1981 Iowa Hawkeyes football team
+===================Table===================
+|    | Date         | Opponent#           | Rank#   | Site                                                | TV   | Result   | Attendance   |
+|---:|:-------------|:--------------------|:--------|:----------------------------------------------------|:-----|:---------|:-------------|
+|  0 | September 12 | #7 Nebraska*        | nan     | Kinnick Stadium • Iowa City, IA                     | nan  | W 10-7   | 60,160       |
+|  1 | September 19 | at Iowa State*      | nan     | Cyclone Stadium • Ames, IA (Cy-Hawk Trophy)         | nan  | L 12-23  | 53,922       |
+|  2 | September 26 | #6 UCLA*            | nan     | Kinnick Stadium • Iowa City, IA                     | nan  | W 20-7   | 60,004       |
+|  3 | October 3    | at Northwestern     | #18     | Dyche Stadium • Evanston, IL                        | nan  | W 64-0   | 30,113       |
+|  4 | October 10   | Indiana             | #15     | Kinnick Stadium • Iowa City, IA                     | nan  | W 42-28  | 60,000       |
+|  5 | October 17   | at #5 Michigan      | #12     | Michigan Stadium • Ann Arbor, MI                    | nan  | W 9-7    | 105,915      |
+|  6 | October 24   | Minnesota           | #6      | Kinnick Stadium • Iowa City, IA (Floyd of Rosedale) | ABC  | L 10-12  | 60,000       |
+|  7 | October 31   | at Illinois         | #16     | Memorial Stadium • Champaign, IL                    | nan  | L 7-24   | 66,877       |
+|  8 | November 7   | Purdue              | nan     | Kinnick Stadium • Iowa City, IA                     | nan  | W 33-7   | 60,114       |
+|  9 | November 14  | at Wisconsin        | nan     | Camp Randall Stadium • Madison, WI                  | ABC  | W 17-7   | 78,731       |
+| 10 | November 21  | Michigan State      | #19     | Kinnick Stadium • Iowa City, IA                     | nan  | W 36-7   | 60,103       |
+| 11 | January 1    | vs. #12 Washington* | #13     | Rose Bowl • Pasadena, CA (Rose Bowl)                | NBC  | L 0-28   | 105,611      |
+===================Question===================
+how many games had an attendance above 60,000?
+===================Text===================
+<think>
+Okay, so I need to figure out how many games from the 1981 Iowa Hawkeyes football team had an attendance above 60,000. Let me look at the table provided.
+
+First, I'll go through each row and check the "Attendance" column. Each game is listed with its date, opponent, rank, site, TV info, result, and attendance. My task is to count how many times the attendance number was higher than 60,000.
+
+Let's start from the top:
+
+1. September 12 vs #7 Nebraska: Attendance is 60,160. That's above 60k.
+2. September 19 at Iowa State: 53,922. Below 60k.
+3. September 26 vs #6 UCLA: 60,004. Just barely over.
+4. October 3 at Northwestern: 30,113. Way below.
+5. October 10 vs Indiana: 60,000 exactly. Hmm, so that's right on the mark. Wait, does "above" mean strictly more than? Or is equal included? The question says "above," which usually means strictly greater than. So maybe this one doesn't count. I'll make a note of that.
+6. October 17 at #5 Michigan: 105,915. Definitely above.
+7. October 24 vs Minnesota: 60,000 again. Same as before; probably doesn't count if we're only considering strictly above.
+8. October 31 at Illinois: 66,877. Above.
+9. November 7 vs Purdue: 60,114. That's just over.
+10. November 14 at Wisconsin: 78,731. Well above.
+11. November 21 vs Michigan State: 60,103. Slightly above.
+12. January 1 vs #12 Washington (Rose Bowl): 105,611. Way above.
+
+Wait, I think I miscounted because the table starts from row 0 to 11, which is 12 games total. Let me recount each game's attendance:
+
+Row 0: 60,160 → Above? Yes.
+Row 1: 53,922 → No.
+Row 2: 60,004 → Yes.
+Row 3: 30k → No.
+Row 4: 60k → Equal, not above. So no.
+Row 5: 105k → Yes.
+Row 6: 60k → Equal, so no.
+Row 7: 66k → Yes.
+Row 8: 60,114 → Yes.
+Row 9: 78k → Yes.
+Row 10: 60,103 → Yes.
+Row 11: 105k → Yes.
+
+Now I'll count how many "Yes" answers:
+
+Rows 0 (yes), 2 (yes), 5 (yes),7(yes),8(yes),9(yes),10(yes),11(yes).
+
+Wait, let me check each one again to be sure:
+
+- Row 0: 60,160 → Yes.
+- Row 1: No.
+- Row 2: 60,004 → Yes (since it's above 60k).
+- Row3:No.
+- Row4:Exactly 60k→No.
+- Row5:Yes.
+- Row6:Exactly 60k→No.
+- Row7:66k→Yes.
+- Row8:60,114→Yes.
+- Row9:78k→Yes.
+- Row10:60,103→Yes.
+- Row11:105k→Yes.
+
+So that's 1 (row0), 3 (rows0,2=2; row5=3; row7=4; rows8,9,10,11=5 more). Wait, let me count each yes:
+
+Row0: Yes →1
+Row2: Yes →2
+Row5: Yes →3
+Row7: Yes →4
+Row8: Yes →5
+Row9: Yes →6
+Row10: Yes →7
+Row11: Yes →8
+
+Wait, that's 8 games. Wait, did I miscount? Let me list them:
+
+1. Row0: yes.
+2. Row2: yes.
+3. Row5: yes.
+4. Row7: yes.
+5. Row8: yes.
+6. Row9: yes.
+7. Row10: yes.
+8. Row11: yes.
+
+Yes, 8 games had attendance above 60k.
+</think>
+
+Final Answer: 8
+===================Answer===================
+8

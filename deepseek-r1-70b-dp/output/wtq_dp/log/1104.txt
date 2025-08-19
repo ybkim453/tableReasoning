@@ -1,0 +1,40 @@
+===================Title===================
+Immigration to France
+===================Table===================
+|    | Naturalisations by origin   | 2000    | 2005    | 2009    |   % Total 2009 |
+|---:|:----------------------------|:--------|:--------|:--------|---------------:|
+|  0 | Africa                      | 84 182  | 98 453  | 85 144  |           62.7 |
+|  1 | Maghreb                     | 68 185  | 75 224  | 56 024  |           41.2 |
+|  2 | Sub-Saharan Africa          | 10 622  | 15 624  | 22 214  |           16.4 |
+|  3 | Other Africa                | 5 375   | 7 605   | 6 906   |            5.1 |
+|  4 | Asia                        | 27 941  | 26 286  | 19 494  |           14.4 |
+|  5 | South-East Asia             | 7 265   | 4 069   | 2 475   |            1.8 |
+|  6 | East Asia                   | 1 139   | 1 280   | 1 622   |            1.2 |
+|  7 | South Asia                  | 4 246   | 4 436   | 3 660   |            2.7 |
+|  8 | Other Asia                  | 15 291  | 16 501  | 11 737  |            8.6 |
+|  9 | Europe (not including CIS ) | 22 085  | 18 072  | 14 753  |           10.9 |
+| 10 | CIS                         | 1 181   | 2 108   | 4 704   |            3.5 |
+| 11 | CIS (Europe)                | 1 000   | 1 535   | 4 454   |            3.3 |
+| 12 | CIS (Asia)                  | 181     | 573     | 250     |            0.2 |
+| 13 | America                     | 5 668   | 6 352   | 6 677   |            4.9 |
+| 14 | North America               | 1 048   | 854     | 747     |            0.5 |
+| 15 | South and Central America   | 4 620   | 5 498   | 5 930   |            4.4 |
+| 16 | Oceania                     | 87      | 127     | 108     |            0.1 |
+| 17 | Others                      | 8 882   | 3 245   | 4 962   |            3.7 |
+| 18 | Total                       | 150 026 | 154 643 | 135 842 |          100   |
+===================Question===================
+which area has more naturalizations in 2000: maghreb or north america?
+===================Text===================
+<think>
+Okay, so I have this table about naturalisations in France from different origins and years. The question is asking which area had more naturalizations in 2000: Maghreb or North America.
+
+First, I need to find the correct rows for both areas in the year 2000 column. Looking at the table, each row represents a region, with their numbers corresponding to each year: 2000, 2005, 2009, and % Total 2009. 
+
+I'll start by locating Maghreb. From the table, Maghreb is row 1 with the values 68,185 for 2000; that's under the "Naturalisations by origin" column. Then I need to find North America. Scanning through the rows, I see that North America is listed as row 14 with a value of 1,048 in 2000.
+
+So, comparing these two numbers: Maghreb has 68,185 naturalizations and North America has 1,048. Clearly, 68,185 is much larger than 1,048. Therefore, Maghreb had more naturalisations in the year 2000.
+</think>
+
+Final Answer: Maghreb
+===================Answer===================
+Maghreb

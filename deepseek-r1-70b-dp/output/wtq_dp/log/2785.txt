@@ -1,0 +1,64 @@
+===================Title===================
+Martina Hrašnová
+===================Table===================
+|    |   Year | Competition                   | Venue                | Position   | Notes   |
+|---:|-------:|:------------------------------|:---------------------|:-----------|:--------|
+|  0 |   1999 | World Youth Championships     | Bydgoszcz, Poland    | 12th       | nan     |
+|  1 |   2000 | World Junior Championships    | Santiago, Chile      | 5th        | nan     |
+|  2 |   2001 | European Junior Championships | Grosseto, Italy      | 2nd        | 61.97 m |
+|  3 |   2001 | World Championships           | Edmonton, Canada     | 23rd       | 61.26 m |
+|  4 |   2002 | World Junior Championships    | Kingston, Jamaica    | 2nd        | 63.91 m |
+|  5 |   2002 | European Championships        | Munich, Germany      | 26th       | 60.28 m |
+|  6 |   2006 | European Championships        | Gothenburg, Sweden   | 26th       | 62.39 m |
+|  7 |   2007 | World Student Games           | Bangkok, Thailand    | 5th        | 64.95 m |
+|  8 |   2007 | World Championships           | Osaka, Japan         | 13th       | 68.15 m |
+|  9 |   2008 | Olympic Games                 | Beijing, PR China    | 8th        | 71.00 m |
+| 10 |   2008 | World Athletics Final         | Stuttgart, Germany   | 2nd        | 71.40 m |
+| 11 |   2009 | World Student Games           | Belgrade, Serbia     | 2nd        | 72.85 m |
+| 12 |   2009 | World Championships           | Berlin, Germany      | 3rd        | 74.79 m |
+| 13 |   2009 | World Athletics Final         | Thessaloniki, Greece | 3rd        | 70.45 m |
+| 14 |   2012 | European Championships        | Helsinki, Finland    | 2nd        | 73.34 m |
+===================Question===================
+how many competitions did slovakia place at least 2nd?
+===================Text===================
+<think>
+Alright, I'm trying to figure out how many competitions Slovakia placed at least 2nd based on the table provided about Martina Hrašnová. Let me go through each row one by one.
+
+Starting from the top:
+
+1. **1999 World Youth Championships**: She came in 12th. That's not 2nd or better, so no count here.
+2. **2000 World Junior Championships**: Position is 5th. Still not within the top 2.
+3. **2001 European Junior Championships**: Here she got 2nd place. That counts as one.
+4. **2001 World Championships**: She was 23rd. Not in the top 2.
+5. **2002 World Junior Championships**: Another 2nd place. That's two now.
+6. **2002 European Championships**: Placed 26th. Doesn't count.
+7. **2006 European Championships**: Again, 26th position. No luck here.
+8. **2007 World Student Games**: She finished 5th. Not top 2.
+9. **2007 World Championships**: 13th place. Still not there.
+10. **2008 Olympic Games**: Came in 8th. Nope.
+11. **2008 World Athletics Final**: Here she got 2nd. That's three competitions now.
+12. **2009 World Student Games**: Another 2nd place finish, making it four.
+13. **2009 World Championships**: She took the 3rd position here. Since we're looking for at least 2nd, this doesn't count because it's lower than 2nd (since 1st is higher than 2nd).
+14. **2009 World Athletics Final**: Another 3rd place. Again, not top 2.
+15. **2012 European Championships**: She was 2nd here, bringing the total to five.
+
+Wait a second, I think I might have miscalculated earlier. Let me recount to make sure:
+
+Looking back at each row where Position is 2nd or better (i.e., 1st would also count but in this table she didn't get any 1sts). Let's list them out:
+
+- 2001 European Junior Championships: 2nd
+- 2002 World Junior Championships: 2nd
+- 2008 World Athletics Final: 2nd
+- 2009 World Student Games: 2nd
+- 2012 European Championships: 2nd
+
+So that's five times where she placed at least 2nd. Wait, did I miscount earlier? Let me check again.
+
+No, actually in the initial pass, when I was counting, I thought entry 12 (2009 World Championships) was 3rd and didn't count it. Similarly, another entry had 3rd but that's not top 2. So yeah, only five instances where she placed exactly 2nd. Since there are no 1st places in the table, we don't include any higher positions beyond 2nd.
+
+So the total is five competitions.
+</think>
+
+Final Answer: 5
+===================Answer===================
+4

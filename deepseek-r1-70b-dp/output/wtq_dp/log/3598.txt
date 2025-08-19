@@ -1,0 +1,35 @@
+===================Title===================
+Lic. Adolfo López Mateos International Airport
+===================Table===================
+|    |   Rank | City                           | Passengers   |   Ranking | Airline                                |
+|---:|-------:|:-------------------------------|:-------------|----------:|:---------------------------------------|
+|  0 |      1 | Quintana Roo, Cancún          | 132,046      |       nan | Aeroméxico Connect, Interjet, Volaris |
+|  1 |      2 | Nuevo León, Monterrey         | 106,513      |       nan | Aeroméxico Connect, Interjet          |
+|  2 |      3 | Guerrero, Acapulco             | 56,069       |       nan | Aeroméxico Connect, Interjet          |
+|  3 |      4 | Jalisco, Guadalajara           | 52,584       |       nan | Aeroméxico Connect, Volaris           |
+|  4 |      5 | Jalisco, Puerto Vallarta       | 43,419       |         1 | Interjet                               |
+|  5 |      6 | Baja California Sur, Los Cabos | 37,526       |         1 | Interjet                               |
+|  6 |      7 | Guerrero, Ixtapa/Zihuatanejo   | 35,507       |       nan | Interjet                               |
+|  7 |      8 | Baja California, Tijuana       | 14,906       |       nan | Interjet                               |
+|  8 |      9 | Tabasco, Villahermosa          | 6,928        |         1 | VivaAerobus                            |
+|  9 |     10 | Tamaulipas, Tampico            | 3,619        |         1 | VivaAerobus                            |
+===================Question===================
+what city served the most passengers in 2013?
+===================Text===================
+<think>
+Alright, let's try to figure out which city served the most passengers in 2013 based on this table. First, I need to understand what each column represents. The columns are Rank, City, Passengers, Ranking, and Airline.
+
+Looking at the data, the first row has a Rank of 1 with the city "Quintana Roo, Cancún" and 132,046 passengers. The next rows have lower passenger numbers as we go down the list. So, Rank 1 is the highest in terms of passengers.
+
+Since the question is about the city that served the most passengers, I should focus on the Passengers column. The highest number there is 132,046, which corresponds to Quintana Roo, Cancún. 
+
+Wait, but let me double-check. Each row seems to represent a different city, and the passenger numbers decrease from Rank 1 onwards. So yes, the first entry has both the highest rank and the highest passenger count.
+
+I don't think any other cities in the table have higher numbers than that. The second city, Nuevo León, Monterrey, only has about half of that number at 106,513. So it's clear that Cancún had the most passengers.
+</think>
+
+The city with the highest passenger count is Quintana Roo, Cancún.
+
+Final Answer: Quintana Roo, Cancún
+===================Answer===================
+Quintana Roo, Cancún

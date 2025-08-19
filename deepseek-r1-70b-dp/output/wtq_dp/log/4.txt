@@ -1,0 +1,39 @@
+===================Title===================
+2008 Clásica de San Sebastián
+===================Table===================
+|    |   Rank | Cyclist                  | Team               | Time       |   UCI ProTour\nPoints |
+|---:|-------:|:-------------------------|:-------------------|:-----------|----------------------:|
+|  0 |      1 | Alejandro Valverde (ESP) | Caisse d'Epargne   | 5h 29' 10" |                    40 |
+|  1 |      2 | Alexandr Kolobnev (RUS)  | Team CSC Saxo Bank | s.t.       |                    30 |
+|  2 |      3 | Davide Rebellin (ITA)    | Gerolsteiner       | s.t.       |                    25 |
+|  3 |      4 | Paolo Bettini (ITA)      | Quick Step         | s.t.       |                    20 |
+|  4 |      5 | Franco Pellizotti (ITA)  | Liquigas           | s.t.       |                    15 |
+|  5 |      6 | Denis Menchov (RUS)      | Rabobank           | s.t.       |                    11 |
+|  6 |      7 | Samuel Sánchez (ESP)    | Euskaltel-Euskadi  | s.t.       |                     7 |
+|  7 |      8 | Stéphane Goubert (FRA)  | Ag2r-La Mondiale   | + 2"       |                     5 |
+|  8 |      9 | Haimar Zubeldia (ESP)    | Euskaltel-Euskadi  | + 2"       |                     3 |
+|  9 |     10 | David Moncoutié (FRA)   | Cofidis            | + 2"       |                     1 |
+===================Question===================
+what was the total number of points by franco pellizotti?
+===================Text===================
+<think>
+Okay, so I need to figure out how many UCI ProTour points Franco Pellizotti got in the 2008 Clásica de San Sebastián based on this table. Let me look at the table again.
+
+The table lists the top 10 cyclists with their ranks, names, teams, times, and points. Each row corresponds to a cyclist's performance. I'm looking specifically for Franco Pellizotti. 
+
+Looking through the rows:
+
+- Row 0: Alejandro Valverde got 40 points.
+- Row 1: Alexandr Kolobnev got 30.
+- Row 2: Davide Rebellin with 25.
+- Row 3: Paolo Bettini with 20.
+- Row 4: Franco Pellizotti, and it shows he got 15 points.
+
+So, I just need to find the row where his name appears. There he is at rank 5, so his points are 15.
+
+I think that's all there is to it. The answer should be 15.
+</think>
+
+Final Answer: 15
+===================Answer===================
+15

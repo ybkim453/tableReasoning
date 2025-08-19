@@ -1,0 +1,67 @@
+===================Title===================
+Kingston Transit
+===================Table===================
+|    | Route   | Destinations                                          | Via                                                | Frequency\n(minutes)   | Peak Hours Only   | Former                      |
+|---:|:--------|:------------------------------------------------------|:---------------------------------------------------|:-----------------------|:------------------|:----------------------------|
+|  0 | 1       | Montreal Street\nSt. Lawrence College                 | Downtown                                           | 30                     | nan               | Cataraqui Town Centre-Woods |
+|  1 | 2       | Kingston Centre\nDivision Street                      | St. Lawrence College\nDowntown                     | 30                     | nan               | nan                         |
+|  2 | 3       | Kingston Centre\nDowntown                             | Queen Mary Road\nSt. Lawrence College\nKing Street | 30                     | nan               | nan                         |
+|  3 | 4       | Princess Street                                       | Cataraqui Town Centre\nDowntown                    | 30                     | nan               | nan                         |
+|  4 | 6       | Cataraqui Town Centre\nSt. Lawrence College           | Gardiners Town Centre                              | 30                     | nan               | Downtown                    |
+|  5 | 7       | Dalton/Division\nMidland/Gardiners                    | Cataraqui Town Centre\nTrain Station\nBus Terminal | 30                     | nan               | nan                         |
+|  6 | 9       | Downtown\nCataraqui Town Centre                       | Brock St. / Barrie St.\nGardiners Town Centre      | 20                     | nan               | nan                         |
+|  7 | 10      | Amherstview\nCataraqui Town Centre                    | Collins Bay Road                                   | 30                     | nan               | Kingston Centre             |
+|  8 | 11      | Kingston Centre\nCataraqui Town Centre                | Bath Road\nGardiners Town Centre                   | 30                     | nan               | (formerly Route 71)         |
+|  9 | 12      | Kingston Centre\nHighway 15                           | Downtown\nCFB Kingston (off-peak only)             | 30                     | nan               | -                           |
+| 10 | 12A     | CFB Kingston\nDowntown                                | nan                                                | 30                     | X                 | nan                         |
+| 11 | 18      | Train Station\nBus Terminal                           | Downtown\nQueen's University\nSt. Lawrence College | *                      | nan               | Student Circuit             |
+| 12 | 19      | Montreal Street\nQueen's University                   | Downtown                                           | 30                     | X                 | nan                         |
+| 13 | 14      | Train Station\nCataraqui Town Centre / Midland Avenue | Waterloo-Davis\nMultiplex                          | 30                     | nan               | (formerly Route A)          |
+| 14 | 15      | Reddendale\nCataraqui Town Centre - Woods             | Gardiners Town Centre                              | 30                     | nan               | (formerly Route B)          |
+| 15 | 16      | Train Station\nBus Terminal                           | Kingston Centre                                    | 30                     | nan               | (formerly Route C)          |
+===================Question===================
+what is the total number of routes that stops at montreal street?
+===================Text===================
+<think>
+Alright, so I need to figure out how many Kingston Transit routes stop at Montreal Street based on the given table. Let me go through each row one by one and check if "Montreal Street" is listed in the Destinations column.
+
+Starting with Route 1: Yes, under Destinations it says "Montreal Street\nSt. Lawrence College." So that's one route that stops there.
+
+Next, Route 2: The destinations are Kingston Centre and Division Street. No mention of Montreal Street here.
+
+Route 3: Destinations are Kingston Centre and Downtown. Again, no Montreal Street.
+
+Route 4: Only Princess Street is listed as the destination. Doesn't include Montreal Street.
+
+Route 6: The destinations are Cataraqui Town Centre and St. Lawrence College. No Montreal Street here either.
+
+Route 7:Destinations are Dalton/Division and Midland/Gardiners. Not seeing Montreal Street.
+
+Route 9: Destinations are Downtown and Cataraqui Town Centre. Still no mention.
+
+Route 10: Amherstview and Cataraqui Town Centre. Doesn't include Montreal Street.
+
+Route 11: Kingston Centre and Cataraqui Town Centre. No luck here.
+
+Route 12: Kingston Centre and Highway 15. Not the one we're looking for.
+
+Route 12A: CFB Kingston and Downtown. Nope.
+
+Route 18: Destinations are Train Station and Bus Terminal. Doesn't include Montreal Street.
+
+Route 19: Ah, here it says "Montreal Street\nQueen's University." So that's another route stopping at Montreal Street.
+
+Looking further down:
+
+Route 14: Train Station and Cataraqui Town Centre/Midland Avenue. No mention of Montreal Street.
+
+Route 15: Reddendale and Cataraqui Town Centre - Woods. Not relevant.
+
+Route 16: Same as Route 18, doesn't include Montreal Street.
+
+So from this, I can see that Route 1 and Route 19 both stop at Montreal Street. That makes a total of two routes.
+</think>
+
+Final Answer: 2
+===================Answer===================
+2

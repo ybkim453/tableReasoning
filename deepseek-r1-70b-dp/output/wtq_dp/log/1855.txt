@@ -1,0 +1,50 @@
+===================Title===================
+Mao Inoue
+===================Table===================
+|    |   Year | Organization                             | Award                   | Work                                    | Result    |
+|---:|-------:|:-----------------------------------------|:------------------------|:----------------------------------------|:----------|
+|  0 |   2005 | 47th The Television Drama Academy Awards | Best Actress            | Hana Yori Dango                         | Won       |
+|  1 |   2007 | 10th Nikkan Sports Drama Grand Prix      | Best Actress            | Hana Yori Dango 2                       | Won       |
+|  2 |   2007 | 16th Hashida Awards                      | Newcomer Award          | Hana Yori Dango 2                       | Won       |
+|  3 |   2007 | 2007 MTV Student Voice Awards            | Best Actress            | Hana Yori Dango 2                       | Won       |
+|  4 |   2007 | 54th The Television Academy Drama Awards | Best Actress            | First Kiss                              | Nominated |
+|  5 |   2008 | Nickelodeon Kids' Choice Awards          | Best Actress            | Hana Yori Dango 2                       | Won       |
+|  6 |   2010 | Nikkan Sports Grand Prix (Fall)          | Best Supporting Actress | Veterinarian Dolittle                   | Nominated |
+|  7 |   2011 | 3rd TAMA Film Award                      | Best Emerging Actress   | Miracle in the Pacific                  | Won       |
+|  8 |   2011 | 35th Fumiko Yamaji Award Film Awards     | Newcomer Actress        | Youkame no Semi                         | Won       |
+|  9 |   2011 | 26th Nikkan Sport Film Awards            | Best Newcomer           | Youkame no Semi, Miracle in the Pacific | Won       |
+| 10 |   2011 | TV Navi                                  | Best Actress            | Ohisama                                 | Won       |
+| 11 |   2011 | 70th The Television Drama Academy Awards | Best Actress            | Ohisama                                 | Won       |
+| 12 |   2012 | 35th Japan Academy Awards                | Best Starring Actress   | Youkame no Semi                         | Won       |
+| 13 |   2012 | Japan Film Festival Theater Staff        | Best Actress            | Youkame no Semi                         | Won       |
+| 14 |   2012 | 16th Nikkan Sport Grand Prix             | Best Actress            | Tokkan                                  | Nominated |
+===================Question===================
+what was the total number of wins?
+===================Text===================
+<think>
+Okay, so I need to figure out the total number of wins Mao Inoue has based on this table. Let me go through each row and count the "Won" entries in the Result column.
+
+Looking at the table:
+
+Row 0: Result is Won. So that's 1 win.
+Row 1: Won again, so now it's 2.
+Row 2: Another Win, total 3.
+Row 3: Won once more, totaling 4.
+Row 4: Nominated, so no win here.
+Row 5: Won, bringing the count to 5.
+Row 6: Nominated, no addition.
+Row 7: Won, now it's 6.
+Row 8: Another Win, total 7.
+Row 9: Won again, making it 8.
+Row 10: Won, so that's 9 wins.
+Row 11: Won once more, totaling 10.
+Row 12: Won, bringing the count to 11.
+Row 13: Another Win, now at 12.
+Row 14: Nominated, so no change.
+
+Wait, let me recount to make sure I didn't miss anything. Rows 0,1,2,3,5 are wins in 2005-2008. Then rows 7,8,9,10,11,12,13 in 2011 and 2012. That should be 12 wins total. So the final answer is 12.
+</think>
+
+Final Answer: 12
+===================Answer===================
+12

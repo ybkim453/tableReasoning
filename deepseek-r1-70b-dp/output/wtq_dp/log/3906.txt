@@ -1,0 +1,63 @@
+===================Title===================
+Reina Nacional de Belleza Miss República Dominicana 2007
+===================Table===================
+|    | Represented       | Contestant                          |   Age |   Height | Hometown                     |
+|---:|:------------------|:------------------------------------|------:|---------:|:-----------------------------|
+|  0 | Azua              | Alicia Fernández de la Cruz        |    23 |     1.69 | Santo Domingo                |
+|  1 | Barahona          | Lucía Magdalena Alvarado Suarez    |    20 |     1.71 | Santo Domingo                |
+|  2 | Com. Dom. EU      | Sandra Elisabeth Tavares Ruíz      |    19 |     1.8  | Newark                       |
+|  3 | Distrito Nacional | Aimeé Elaine Melo Hernández       |    23 |     1.73 | Santo Domingo                |
+|  4 | Duarte            | Paola Saint-Hilaire Arias           |    20 |     1.79 | Santiago de los Caballeros   |
+|  5 | Espaillat         | Angela María García Ruíz         |    26 |     1.77 | Moca                         |
+|  6 | Independencia     | Joany Marleny Sosa Peralta          |    20 |     1.82 | Jimaní                      |
+|  7 | La Altagracia     | Ana Carolina Viñas Machado         |    22 |     1.84 | Santiago de los Caballeros   |
+|  8 | La Romana         | Alina Charlin Espinal Luna          |    19 |     1.81 | La Romana                    |
+|  9 | La Vega           | Catherine Mabel Ramírez Rosario    |    21 |     1.83 | Santiago de los Caballeros   |
+| 10 | Monte Cristi      | Grace Stephany Mota Grisanty        |    18 |     1.75 | San Fernando de Monte Cristi |
+| 11 | Peravia           | Mariela Joselin Rosario Jiménez    |    25 |     1.86 | Santo Domingo                |
+| 12 | Puerto Plata      | Sheila Massiel Castíllo Domínguez |    18 |     1.83 | Altamira                     |
+| 13 | Salcedo           | Rossemely Cruz Logroño             |    26 |     1.76 | Salcedo                      |
+| 14 | San Cristóbal    | Daniela Teresa Peguero Brito        |    24 |     1.74 | Santo Domingo                |
+| 15 | Santiago          | Karina Luisa Betances Cabrera       |    21 |     1.8  | Santiago de los Caballeros   |
+| 16 | Santo Domingo     | Yisney Lina Lagrange Méndez        |    19 |     1.82 | Pedro Brand                  |
+| 17 | Valverde          | Fania Miguelina Marte Lozada        |    22 |     1.73 | Mao                          |
+===================Question===================
+how many contestants at reina nacional de belleza miss república dominicana 2007 were older than 22 years old?
+===================Text===================
+<think>
+Alright, I need to figure out how many contestants in the Reina Nacional de Belleza Miss República Dominicana 2007 were older than 22 years old. Let me start by looking at each contestant's age and comparing it to 22.
+
+First, I'll go through each row of the table one by one.
+
+1. Alicia Fernández de la Cruz is 23, which is older than 22.
+2. Lucía Magdalena Alvarado Suarez is 20, younger.
+3. Sandra Elisabeth Tavares Ruíz is 19, younger.
+4. Aimeé Elaine Melo Hernández is 23, older.
+5. Paola Saint-Hilaire Arias is 20, younger.
+6. Angela María García Ruíz is 26, definitely older.
+7. Joany Marleny Sosa Peralta is 20, younger.
+8. Ana Carolina Viñas Machado is 22, exactly 22. Since the question asks for older than 22, she doesn't count.
+9. Alina Charlin Espinal Luna is 19, younger.
+10. Catherine Mabel Ramírez Rosario is 21, younger.
+11. Grace Stephany Mota Grisanty is 18, younger.
+12. Sheila Massiel Castíllo Domínguez is 18, younger.
+13. Rossemely Cruz Logroño is 26, older.
+14. Daniela Teresa Peguero Brito is 24, older.
+15. Karina Luisa Betances Cabrera is 21, younger.
+16. Yisney Lina Lagrange Méndez is 19, younger.
+17. Fania Miguelina Marte Lozada is 22, exactly 22, so she doesn't count.
+
+Now I'll list all the contestants who are older than 22:
+
+- Alicia (23)
+- Aimeé (23)
+- Angela (26)
+- Rossemely (26)
+- Daniela (24)
+
+That's a total of 5 contestants.
+</think>
+
+Final Answer: 5
+===================Answer===================
+6

@@ -1,0 +1,57 @@
+===================Title===================
+Hannes Hopley
+===================Table===================
+|    |   Year | Competition                | Venue                              | Position   | Event        | Notes   |
+|---:|-------:|:---------------------------|:-----------------------------------|:-----------|:-------------|:--------|
+|  0 |   2000 | World Junior Championships | Santiago, Chile                    | 1st        | Discus throw | 59.51 m |
+|  1 |   2003 | All-Africa Games           | Abuja, Nigeria                     | 5th        | Shot put     | 17.76 m |
+|  2 |   2003 | All-Africa Games           | Abuja, Nigeria                     | 2nd        | Discus throw | 62.86 m |
+|  3 |   2004 | African Championships      | Brazzaville, Republic of the Congo | 2nd        | Discus throw | 63.50 m |
+|  4 |   2004 | Olympic Games              | Athens, Greece                     | 8th        | Discus throw | 62.58 m |
+|  5 |   2006 | Commonwealth Games         | Melbourne, Australia               | 7th        | Shot put     | 18.44 m |
+|  6 |   2006 | Commonwealth Games         | Melbourne, Australia               | 4th        | Discus throw | 60.99 m |
+|  7 |   2007 | All-Africa Games           | Algiers, Algeria                   | 3rd        | Discus throw | 57.79 m |
+|  8 |   2008 | African Championships      | Addis Ababa, Ethiopia              | 2nd        | Discus throw | 56.98 m |
+===================Question===================
+how many events featured a distance of at least 60 in the discus throw?
+===================Text===================
+<think>
+Alright, let's try to figure out how many discus throw events Hannes Hopley had where he threw at least 60 meters. Okay, so I have this table with several entries, and each entry has details like Year, Competition, Venue, Position, Event, and Notes which include the distance.
+
+First, I need to focus only on the discus throw events because the question is specifically about that. So I'll go through each row of the table and pick out the ones where the event is "Discus throw".
+
+Let me list them out:
+
+1. 2000 World Junior Championships in Santiago, Chile: He got 1st with a throw of 59.51m.
+2. 2003 All-Africa Games in Abuja, Nigeria: He was 2nd with 62.86m.
+3. 2004 African Championships in Brazzaville: 63.50m for 2nd place.
+4. 2004 Olympic Games in Athens: 8th position with 62.58m.
+5. 2006 Commonwealth Games in Melbourne, Australia: He finished 4th with 60.99m.
+6. 2007 All-Africa Games in Algiers: 3rd place, threw 57.79m.
+7. 2008 African Championships in Addis Ababa: 2nd with 56.98m.
+
+Now I need to check which of these are at least 60 meters. Let's go one by one:
+
+1. 59.51m is less than 60, so that doesn't count.
+2. 62.86m is definitely over 60.
+3. 63.50m is way above 60.
+4. 62.58m is also above 60.
+5. 60.99m just barely makes it over 60.
+6. 57.79m is below, so no.
+7. 56.98m is also below.
+
+So counting the events that meet or exceed 60m:
+
+- 2003: 62.86m
+- 2004 African Championships:63.50m
+- 2004 Olympics:62.58m
+- 2006 Commonwealth Games:60.99m
+
+That's four events. Wait, let me count again to make sure I didn't miss any.
+
+Yes, that's correct. Each of these throws is at least 60 meters or more in the discus throw event.
+</think>
+
+Final Answer: 4
+===================Answer===================
+4 events

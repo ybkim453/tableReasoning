@@ -1,0 +1,35 @@
+===================Title===================
+Canadian National class N-4 2-8-0
+===================Table===================
+|    | Builder   | Works numbers            |   Dates | CN numbers                                 | GT numbers                       | Notes                        |
+|---:|:----------|:-------------------------|--------:|:-------------------------------------------|:---------------------------------|:-----------------------------|
+|  0 | MLW       | 39548-39562\n40583-40622 |    1906 | 2525-2566\n2663                            | 651-705                          | nan                          |
+|  1 | MLW       | 42331-42345\n43150-43164 |    1907 | 2577-2605\n2661-2662\n2685                 | 721-750                          | nan                          |
+|  2 | ALCO      | 42046-42060\n43540-43554 |    1907 | 2567-2576\n2606-2615\n2664-2665\n2669-2676 | 706-720\n752\n755\n758\n761\n763 | nan                          |
+|  3 | MLW       | 45163-45182              |    1908 | 2627-2646                                  | 631-650                          | nan                          |
+|  4 | MLW       | 46880-46894              |    1910 | 2647-2660\n2686                            | 616-630                          | nan                          |
+|  5 | ALCO      | 49663-49674              |    1911 | 2616-2625\n2677-2678                       | 766-777                          | built at ALCO's Brooks Works |
+|  6 | ALCO      | 50472-50481              |    1911 | 2626\n2666-2668\n2679-2684                 | 779-780\n784\n786-787            | nan                          |
+===================Question===================
+what is the last year it was built?
+===================Text===================
+<think>
+Okay, so I need to figure out the last year that the Canadian National class N-4 2-8-0 locomotives were built based on the provided table. Let me start by looking at the "Dates" column in each row because that should give me the years when each batch was constructed.
+
+Looking at the first row, the date is 1906. The second row is 1907, same as the third and fourth rows? Wait no, let's check again. Actually, I'll go through each entry one by one to make sure I don't miss anything.
+
+Row 0: Date is 1906.
+Row 1: Date is 1907.
+Row 2: Date is also 1907.
+Row 3: Date is 1908.
+Row 4: Date is 1910.
+Rows 5 and 6 both have dates of 1911.
+
+So, the years listed are 1906, 1907 (appearing in two rows), 1908, 1910, and 1911. The latest year among these is 1911. That should be the last year any of these locomotives were built.
+</think>
+
+The table lists build dates up to 1911.
+
+Final Answer: 1911
+===================Answer===================
+1911

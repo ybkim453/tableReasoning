@@ -1,0 +1,31 @@
+===================Title===================
+Shree 420
+===================Table===================
+|    |   # | Title                       | Singer(s)                              | Lyricist       | Length   |
+|---:|----:|:----------------------------|:---------------------------------------|:---------------|:---------|
+|  0 |   1 | "Dil Ka Haal Sune Dilwaala" | Manna Dey                              | Shailendra     | 5:36     |
+|  1 |   2 | "Ichak Dana Beechak Dana"   | Mukesh, Lata Mangeshkar                | Hasrat Jaipuri | 5:08     |
+|  2 |   3 | "Mera Juta Hai Japani"      | Mukesh                                 | Shailendra     | 4:33     |
+|  3 |   4 | "Mudh Mudh Ke Na Dekh"      | Lata Mangeshkar, Manna Dey             | Shailendra     | 6:34     |
+|  4 |   5 | "O Janewale"                | Lata Mangeshkar                        | Hasrat Jaipuri | 2:20     |
+|  5 |   6 | "Pyar Hua Iqrar Hua"        | Lata Mangeshkar, Manna Dey             | Shailendra     | 4:22     |
+|  6 |   7 | "Ramaiya Vastavaiya"        | Mohammed Rafi, Lata Mangeshkar, Mukesh | Shailendra     | 6:10     |
+|  7 |   8 | "Sham Gayi Raat Aayi"       | Lata Mangeshkar                        | Hasrat Jaipuri | 4:00     |
+===================Question===================
+which title is listed previous to "o janewale"?
+===================Text===================
+<think>
+Alright, so I have this table with information about songs from "Shree 420." The question is asking which title comes right before "O Janewale." Let me see how to approach this.
+
+First, I need to locate "O Janewale" in the table. Scanning through the 'Title' column, I find it on row 4, which is the fifth entry because the index starts at 0. The row number is 4, and the song's position is #5. 
+
+The question is about the title listed previous to this one. So, I should look at the row just before row 4. That would be row 3, where the title is "Mudh Mudh Ke Na Dekh." This song is in position #4.
+
+I need to make sure that I'm checking the correct column and that there are no duplicates or other complications. The titles seem unique, so it's straightforward. Therefore, the previous title before "O Janewale" is indeed "Mudh Mudh Ke Na Dekh."
+</think>
+
+The song listed before "O Janewale" is "Mudh Mudh Ke Na Dekh."
+
+Final Answer: Mudh Mudh Ke Na Dekh
+===================Answer===================
+Mudh Mudh Ke Na Dekh

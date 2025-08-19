@@ -1,0 +1,44 @@
+===================Title===================
+Royal Bahamas Defence Force
+===================Table===================
+|    | Aircraft                      | Origin   | Type                     |   In service | Notes                                            |
+|---:|:------------------------------|:---------|:-------------------------|-------------:|:-------------------------------------------------|
+|  0 | Aero Commander 500            | USA      | Light utility transport  |            0 | 3 in service with the Air Wing from 1976 to 1990 |
+|  1 | Beechcraft Super King Air 350 | USA      | Light transport          |            1 | in service since 2004                            |
+|  2 | Cessna 208 Caravan            | USA      | Light transport          |            1 | in service since 2007                            |
+|  3 | Cessna 404 Titan              | USA      | Light transport          |            0 | 1 in service with the Air Wing from 1991 to 2008 |
+|  4 | Cessna 421C Golden Eagle      | USA      | Light transport          |            0 | 1 in service with the Air Wing from 1988 to 2002 |
+|  5 | Partenvia P.68 Observer       | Italy    | Light transport aircraft |            1 | in service since 2009                            |
+|  6 | Piper PA-31 Navajo            | USA      | Light transport          |            0 | in service since 1993                            |
+===================Question===================
+what is the total amount of aircrafts that were in service?
+===================Text===================
+<think>
+Alright, let's see. I need to figure out how many aircraft were in service based on the given table about the Royal Bahamas Defence Force.
+
+First, I'll look at each row of the table and focus on the "In service" column. The numbers there indicate whether the aircraft is currently in service (1) or not (0).
+
+Starting from the top:
+
+1. Aero Commander 500: In service is 0. So, not in service.
+2. Beechcraft Super King Air 350: In service is 1. That's one.
+3. Cessna 208 Caravan: In service is 1. That's two now.
+4. Cessna 404 Titan: In service is 0. Not counted.
+5. Cessna 421C Golden Eagle: In service is 0. Also not counted.
+6. Partenvia P.68 Observer: In service is 1. Now three.
+7. Piper PA-31 Navajo: Wait, the "In service" column here says 0? Or did I misread it?
+
+Wait, looking again at row 6, it shows:
+
+| 6 | Piper PA-31 Navajo | USA | Light transport | 0 | in service since 1993 |
+
+Hmm, that's confusing. The note says "in service since 1993," but the "In service" column is marked as 0. That might be an error or it could mean something else, like it's currently not in service despite being used before.
+
+So, for consistency, I'll go by the "In service" numbers. So Piper PA-31 Navajo isn't counted because In service is 0.
+
+So adding up all the '1's: rows 1, 2, and 5 are in service. That makes a total of three aircraft in service.
+</think>
+
+Final Answer: 3
+===================Answer===================
+9

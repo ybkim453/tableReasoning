@@ -1,0 +1,49 @@
+===================Title===================
+2007 Weber Cup
+===================Table===================
+|    |   Match no. | Match Type   | Team Europe       | Score     | Team USA     | Progressive Total   |
+|---:|------------:|:-------------|:------------------|:----------|:-------------|:--------------------|
+|  0 |          25 | Singles      | Mika Koivuniemi   | 217 - 279 | Chris Barnes | 14 - 11             |
+|  1 |          26 | Singles      | Osku Palermaa     | 217 - 244 | Tommy Jones  | 14 - 12             |
+|  2 |          27 | Singles      | Paul Moor         | 210 - 199 | Tim Mack     | 15 - 12             |
+|  3 |          28 | Singles      | Tore Torgersen    | 206 - 275 | Doug Kent    | 15 - 13             |
+|  4 |          29 | Singles      | Tomas Leandersson | 176 - 258 | Bill Hoffman | 15 - 14             |
+|  5 |          30 | Baker        | Team Europe       | 202 - 203 | Team USA     | 15 - 15             |
+|  6 |          31 | Singles      | Tore Torgersen    | 202 - 264 | Chris Barnes | 15 - 16             |
+|  7 |          32 | Singles      | Osku Palermaa     | 196 - 235 | Tommy Jones  | 15 - 17             |
+===================Question===================
+how many match no. have a combined score above 450?
+===================Text===================
+<think>
+Alright, so I need to figure out how many match numbers from the 2007 Weber Cup have a combined score above 450. Let's start by understanding the table provided.
+
+The table has several columns: Match no., Match Type, Team Europe, Score, Team USA, and Progressive Total. The key here is the 'Score' column, which shows the points each team scored in that match. To find matches where the combined score exceeds 450, I need to add the two scores for each match and check if their sum is greater than 450.
+
+Let me go through each row one by one:
+
+1. **Match no. 25**: The score is 217-279. Adding these together: 217 + 279 = 496. That's above 450, so this counts.
+2. **Match no. 26**: Score is 217-244. Sum is 217 + 244 = 461. Still above 450, so another one.
+3. **Match no. 27**: 210-199 gives us 210 + 199 = 409. That's below 450, so it doesn't count.
+4. **Match no. 28**: 206-275 equals 481 when added together (206 + 275). Above 450, counts.
+5. **Match no. 29**: 176-258 sums up to 434. Below 450, so no.
+6. **Match no. 30**: This is a Baker match, but the score is Team Europe 202 vs Team USA 203. Adding those gives 405, which is below 450. So this doesn't count either.
+7. **Match no. 31**: The scores are 202-264. That adds up to 466, which is above 450. Counts.
+8. **Match no. 32**: 196-235 equals 431 when added. Below 450, so it's out.
+
+Now, let me count how many matches met the criteria:
+
+- Match 25: Yes
+- Match 26: Yes
+- Match 27: No
+- Match 28: Yes
+- Match 29: No
+- Match 30: No
+- Match 31: Yes
+- Match 32: No
+
+That's four matches where the combined score is above 450. So the answer should be these specific match numbers.
+</think>
+
+Final Answer: 25,26,28,31
+===================Answer===================
+4

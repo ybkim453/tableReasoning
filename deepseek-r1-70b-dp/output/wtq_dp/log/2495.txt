@@ -1,0 +1,48 @@
+===================Title===================
+Central America
+===================Table===================
+|    | Country     |   Amphibians |   Birds |   Mammals |   Reptile |   Total terrestrial vertebrates |   Vascular plants |   Biodiversity |
+|---:|:------------|-------------:|--------:|----------:|----------:|--------------------------------:|------------------:|---------------:|
+|  0 | Belize      |           46 |     544 |       147 |       140 |                             877 |              2894 |           3771 |
+|  1 | Costa Rica  |          183 |     838 |       232 |       258 |                            1511 |             12119 |          13630 |
+|  2 | El Salvador |           30 |     434 |       137 |       106 |                             707 |              2911 |           3618 |
+|  3 | Guatemala   |          133 |     684 |       193 |       236 |                            1246 |              8681 |           9927 |
+|  4 | Honduras    |          101 |     699 |       201 |       213 |                            1214 |              5680 |           6894 |
+|  5 | Nicaragua   |           61 |     632 |       181 |       178 |                            1052 |              7590 |           8642 |
+|  6 | Panama      |          182 |     904 |       241 |       242 |                            1569 |              9915 |          11484 |
+===================Question===================
+which central american country has the most species of amphibians and reptiles?
+===================Text===================
+<think>
+Okay, so I need to figure out which Central American country in the table has the most species of amphibians and reptiles combined. Let me go through each step carefully.
+
+First, looking at the table, each row represents a different country. The columns under consideration are "Amphibians" and "Reptile". My goal is to sum these two numbers for each country and see which has the highest total.
+
+Let's start with Belize. They have 46 amphibians and 140 reptiles. So adding those together, that's 46 + 140 = 186 species.
+
+Next up is Costa Rica. Their amphibian count is 183 and reptile count is 258. Adding those gives me 183 + 258 = 441 species.
+
+Then we have El Salvador with 30 amphibians and 106 reptiles. That sums to 30 + 106 = 136 species.
+
+Guatemala has 133 amphibians and 236 reptiles, so that's 133 + 236 = 369 species.
+
+Honduras is next: 101 amphibians and 213 reptiles, totaling 101 + 213 = 314 species.
+
+Nicaragua shows 61 amphibians and 178 reptiles. That adds up to 61 + 178 = 239 species.
+
+Finally, Panama has 182 amphibians and 242 reptiles, so that's 182 + 242 = 424 species.
+
+Now I need to compare these totals: Belize (186), Costa Rica (441), El Salvador (136), Guatemala (369), Honduras (314), Nicaragua (239), Panama (424). The highest number here is Costa Rica with 441, closely followed by Panama at 424. Therefore, Costa Rica has the most species of amphibians and reptiles combined.
+
+Wait, just double-checking my calculations to make sure I didn't add wrong anywhere. Let me verify a couple:
+
+- Belize: 46 +140 =186 ✔️
+- Costa Rica:183+258=441 ✔️
+- Panama:182+242=424 ✔️
+
+Yes, seems correct. So the answer should be Costa Rica.
+</think>
+
+Final Answer: Costa Rica
+===================Answer===================
+Costa Rica

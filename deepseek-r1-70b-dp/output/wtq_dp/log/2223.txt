@@ -1,0 +1,54 @@
+===================Title===================
+ICW World Heavyweight Championship
+===================Table===================
+|    | Wrestler:    |   Reigns: | Date:             | Place:                    | Notes:                                          |
+|---:|:-------------|----------:|:------------------|:--------------------------|:------------------------------------------------|
+|  0 | Lanny Poffo  |         1 | May 10, 1978      | San Francisco, California | Defeated Joe Banek to become the first champion |
+|  1 | Randy Savage |         1 | March 13, 1979    | Halifax, Nova Scotia      | nan                                             |
+|  2 | Lanny Poffo  |         2 | July 21, 1979     | Lexington, Kentucky       | nan                                             |
+|  3 | Randy Savage |         2 | 1981              | Unknown                   | nan                                             |
+|  4 | Lanny Poffo  |         3 | 1981              | Unknown                   | nan                                             |
+|  5 | Randy Savage |         3 | 1982              | Unknown                   | nan                                             |
+|  6 | Paul Christy |         1 | November 13, 1983 | Springfield, Illinois     | nan                                             |
+|  7 | Lanny Poffo  |         4 | January 1, 1984   | Springfield, Illinois     | nan                                             |
+===================Question===================
+which wrestler had the most reigns?
+===================Text===================
+<think>
+Okay, so I'm trying to figure out which wrestler had the most reigns based on the table provided. Let me start by understanding what each column represents. 
+
+The table has columns: an index starting from 0, Wrestler's name, Reigns (which seems to indicate the number of times they held the championship), Date when they won it, Place where they won it, and Notes which sometimes have extra information.
+
+First, I need to look at each wrestler's reign count. The 'Reigns' column shows how many times each wrestler has held the title during that specific event, but wait—that might be a bit confusing because each row represents a different reign, not the total for each wrestler. Let me clarify that. For example, Lanny Poffo has multiple entries: Reign 1, then later Reign 2, and so on.
+
+So, to find out who had the most total reigns, I should count how many times each wrestler appears in the table because each row is a different reign, regardless of whether they lost it or regained it.
+
+Looking at the table:
+
+- Lanny Poffo has entries at index 0, 2, 4, and 6. Wait no, let's check again:
+
+Wait, actually, the indexes are 0 through 7. Let me list each entry:
+
+0: Lanny Poffo - Reign 1
+1: Randy Savage - Reign 1
+2: Lanny Poffo - Reign 2
+3: Randy Savage - Reign 2
+4: Lanny Poffo - Reign 3
+5: Randy Savage - Reign 3
+6: Paul Christy - Reign 1
+7: Lanny Poffo - Reign 4
+
+So, Lanny Poffo appears four times (indices 0, 2, 4, 7) which means he had four reigns.
+
+Randy Savage appears three times (indices 1, 3, 5), so that's three reigns.
+
+Paul Christy only once at index 6, so one reign.
+
+So, Lanny Poffo has the most reigns with four.
+</think>
+
+The wrestler with the most reigns is Lanny Poffo, who held the championship on four separate occasions.
+
+Final Answer: Lanny Poffo
+===================Answer===================
+Lanny Poffo

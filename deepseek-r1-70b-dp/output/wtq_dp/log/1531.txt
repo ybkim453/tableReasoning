@@ -1,0 +1,40 @@
+===================Title===================
+2005 East Asian Games
+===================Table===================
+|    | Rank   | Nation               |   Gold |   Silver |   Bronze |   Total |
+|---:|:-------|:---------------------|-------:|---------:|---------:|--------:|
+|  0 | 1      | China (CHN)          |    127 |       63 |       33 |     223 |
+|  1 | 2      | Japan (JPN)          |     46 |       56 |       77 |     179 |
+|  2 | 3      | South Korea (KOR)    |     32 |       48 |       65 |     145 |
+|  3 | 4      | Chinese Taipei (TPE) |     12 |       34 |       26 |      72 |
+|  4 | 5      | Macau (MAC)          |     11 |       16 |       17 |      44 |
+|  5 | 6      | North Korea (PRK)    |      6 |       10 |       20 |      36 |
+|  6 | 7      | Hong Kong (HKG)      |      2 |        2 |        9 |      13 |
+|  7 | 8      | Mongolia (MGL)       |      1 |        1 |        6 |       8 |
+|  8 | 9      | Guam (GUM)           |      0 |        0 |        1 |       1 |
+|  9 | Total  | Total                |    237 |      230 |      254 |     721 |
+===================Question===================
+what are the number of bronze medals hong kong earned?
+===================Text===================
+<think>
+Okay, let me try to figure out how many bronze medals Hong Kong earned in the 2005 East Asian Games. So, I'm looking at this table here, and it's got several columns: Rank, Nation, Gold, Silver, Bronze, Total. Each row represents a different country and their medal counts.
+
+First, I need to find the row for Hong Kong. Let me scan through the Nations listed. The first one is China with 127 golds, that's definitely top. Then Japan, South Korea, Chinese Taipei, Macau, North Korea, Hong Kong... there it is on row 6. So, Hong Kong is ranked 7th.
+
+Now, I need to look at the Bronze column for Hong Kong. The columns are ordered as Gold, Silver, Bronze, Total. So, under Bronze, what's the number next to Hong Kong? Let me check the numbers again. For each country:
+
+- China: Gold 127, Silver 63, Bronze 33
+- Japan: 46, 56, 77
+- South Korea:32,48,65
+- Chinese Taipei:12,34,26
+- Macau:11,16,17
+- North Korea:6,10,20
+- Hong Kong:2,2,9
+Wait, so Bronze for Hong Kong is 9. Let me make sure I'm reading the right number. The Bronze column is the third one from the left in each row. So yes, under Bronze, it's 9.
+
+So the answer should be 9 bronze medals for Hong Kong.
+</think>
+
+Final Answer: 9
+===================Answer===================
+9

@@ -1,0 +1,45 @@
+===================Title===================
+1995 U.S. Open (golf)
+===================Table===================
+|    | Place   | Player         | Country       | Score           | To par   | Money ($)   |
+|---:|:--------|:---------------|:--------------|:----------------|:---------|:------------|
+|  0 | 1       | Corey Pavin    | United States | 72-69-71-68=280 | E        | 350,000     |
+|  1 | 2       | Greg Norman    | Australia     | 68-67-74-73=282 | +2       | 207,000     |
+|  2 | 3       | Tom Lehman     | United States | 70-72-67-74=283 | +3       | 131,974     |
+|  3 | T4      | Bill Glasson   | United States | 69-70-76-69=284 | +4       | 66,633      |
+|  4 | T4      | Jay Haas       | United States | 70-73-72-69=284 | +4       | 66,633      |
+|  5 | T4      | Neal Lancaster | United States | 70-72-77-65=284 | +4       | 66,633      |
+|  6 | T4      | Davis Love III | United States | 72-68-73-71=284 | +4       | 66,633      |
+|  7 | T4      | Jeff Maggert   | United States | 69-72-77-66=284 | +4       | 66,633      |
+|  8 | T4      | Phil Mickelson | United States | 68-70-72-74=284 | +4       | 66,633      |
+|  9 | T10     | Frank Nobilo   | New Zealand   | 72-72-70-71=285 | +5       | 44,184      |
+| 10 | T10     | Vijay Singh    | Fiji          | 70-71-72-72=285 | +5       | 44,184      |
+| 11 | T10     | Bob Tway       | United States | 69-69-72-75=285 | +5       | 44,184      |
+===================Question===================
+what was frank nobilo's total score?
+===================Text===================
+<think>
+Okay, I need to find Frank Nobilo's total score from the 1995 U.S. Open golf tournament based on the provided table. Let me look through the table step by step.
+
+First, I'll scan each row to locate Frank Nobilo. The table has entries for players ranked from 1st place down. Each entry includes their Place, Player name, Country, Score, To par, and Money earned.
+
+Looking at the rows:
+
+- Row 0: Corey Pavin with a score of 280.
+- Row 1: Greg Norman with 282.
+- Row 2: Tom Lehman with 283.
+- Rows 3 to 8: T4 players all with 284.
+- Then, starting from row 9, we have T10 players.
+
+In row 9, the place is T10. The player's name here is Frank Nobilo from New Zealand. His score column shows "72-72-70-71=285". So, each of those numbers represents his scores across four rounds: first round 72, second 72, third 70, fourth 71.
+
+Adding them up: 72 + 72 = 144 for the first two rounds. Then, adding 70 brings it to 214 after three rounds. Adding the final round score of 71 gives a total of 285.
+
+Alternatively, the table already sums it up as 285 in the Score column, so I can directly take that number without having to add each round manually.
+
+Therefore, Frank Nobilo's total score was 285.
+</think>
+
+Final Answer: 285
+===================Answer===================
+285

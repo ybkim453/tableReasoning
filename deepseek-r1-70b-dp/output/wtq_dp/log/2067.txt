@@ -1,0 +1,82 @@
+===================Title===================
+1989 NHL Entry Draft
+===================Table===================
+|    |   Pick # | Player          | Position   | Nationality    | NHL team              | College/junior/club team                 |
+|---:|---------:|:----------------|:-----------|:---------------|:----------------------|:-----------------------------------------|
+|  0 |      148 | Paul Krake      | Goalie     | Canada         | Quebec Nordiques      | University of Alaska Anchorage (NCAA)    |
+|  1 |      149 | Phil Huber      | Center     | Canada         | New York Islanders    | Kamloops Blazers (WHL)                   |
+|  2 |      150 | Derek Langille  | Defense    | Canada         | Toronto Maple Leafs   | North Bay Centennials (OHL)              |
+|  3 |      151 | Jim Solly       | Left Wing  | Canada         | Winnipeg Jets         | Bowling Green State University (NCAA)    |
+|  4 |      152 | Sergei Starikov | Defense    | Soviet Union   | New Jersey Devils     | CSKA Moscow (USSR)                       |
+|  5 |      153 | Milan Tichy     | Defense    | Czechoslovakia | Chicago Blackhawks    | Prince Albert Raiders (WHL)              |
+|  6 |      154 | Jon Pratt       | Left Wing  | United States  | Minnesota North Stars | Pingree High School (USHS-MA)            |
+|  7 |      155 | Rob Sangster    | Left Wing  | Canada         | Vancouver Canucks     | Kitchener Rangers (OHL)                  |
+|  8 |      156 | Kevin Plager    | Right Wing | United States  | St. Louis Blues       | Parkway North High School (USHS-MO)      |
+|  9 |      157 | Raymond Saumier | Right Wing | Canada         | Hartford Whalers      | Trois Rivieres Draveurs (QMJHL)          |
+| 10 |      158 | Andy Suhy       | Defense    | United States  | Detroit Red Wings     | Western Michigan University (NCAA)       |
+| 11 |      159 | Sverre Sears    | Defense    | United States  | Philadelphia Flyers   | Princeton University (NCAA)              |
+| 12 |      160 | Greg Spenrath   | Defense    | Canada         | New York Rangers      | Tri-City Americans (WHL)                 |
+| 13 |      161 | Derek Plante    | Center     | United States  | Buffalo Sabres        | Cloquet High School (USHS-MN)            |
+| 14 |      162 | Darcy Martini   | Defense    | Canada         | Edmonton Oilers       | Michigan Technological University (NCAA) |
+| 15 |      163 | David Shute     | Left Wing  | United States  | Pittsburgh Penguins   | Victoria Cougars (WHL)                   |
+| 16 |      164 | Rick Allain     | Defense    | Canada         | Boston Bruins         | Kitchener Rangers (OHL)                  |
+| 17 |      165 | Sean Whyte      | Right Wing | Canada         | Los Angeles Kings     | Guelph Platers (OHL)                     |
+| 18 |      166 | Dean Holoien    | Right Wing | Canada         | Washington Capitals   | Saskatoon Blades (WHL)                   |
+| 19 |      167 | Patrick Lebeau  | Left Wing  | Canada         | Montreal Canadiens    | St-Jean Lynx (QMJHL)                     |
+| 20 |      168 | Kevin Wortman   | Defense    | United States  | Calgary Flames        | American International College (NCAA)    |
+===================Question===================
+how many americans were picked between picks 148 and 168?
+===================Text===================
+<think>
+Alright, I need to figure out how many American players were picked between picks 148 and 168 in the 1989 NHL Entry Draft based on the provided table.
+
+First, I'll go through each row from pick 148 up to pick 168 and check the "Nationality" column for each player. If it says "United States," that's an American player.
+
+Starting with pick 148: Paul Krake is Canadian, so not American.
+
+Pick 149: Phil Huber, also Canadian.
+
+Pick 150: Derek Langille, Canadian.
+
+Pick 151: Jim Solly, Canadian again.
+
+Pick 152: Sergei Starikov is from the Soviet Union, so no.
+
+Pick 153: Milan Tichy from Czechoslovakia, not American.
+
+Pick 154: Jon Pratt's nationality is United States. That's one American.
+
+Pick 155: Rob Sangster, Canadian.
+
+Pick 156: Kevin Plager is listed as United States, that's the second American.
+
+Pick 157: Raymond Saumier, Canadian.
+
+Pick 158: Andy Suhy is from the United States, third American.
+
+Pick 159: Sverre Sears, also United States, fourth American.
+
+Pick 160: Greg Spenrath, Canadian.
+
+Pick 161: Derek Plante, United States, fifth American.
+
+Pick 162: Darcy Martini, Canadian.
+
+Pick 163: David Shute is from the United States, sixth American.
+
+Pick 164: Rick Allain, Canadian.
+
+Pick 165: Sean Whyte, Canadian.
+
+Pick 166: Dean Holoien, Canadian.
+
+Pick 167: Patrick Lebeau, Canadian.
+
+Pick 168: Kevin Wortman, United States, seventh American.
+
+So, counting them up: picks 154 (Jon Pratt), 156 (Kevin Plager), 158 (Andy Suhy), 159 (Sverre Sears), 161 (Derek Plante), 163 (David Shute), and 168 (Kevin Wortman). That makes a total of seven American players picked in that range.
+</think>
+
+Final Answer: 7
+===================Answer===================
+7

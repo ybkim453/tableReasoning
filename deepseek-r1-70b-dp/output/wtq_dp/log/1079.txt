@@ -1,0 +1,56 @@
+===================Title===================
+2007 BWF Super Series
+===================Table===================
+|    |   Tour | Official title             | Venue                                             | City                 | Date\nStart   | Date\nFinish   | Prize money\nUSD   | Report   |
+|---:|-------:|:---------------------------|:--------------------------------------------------|:---------------------|:--------------|:---------------|:-------------------|:---------|
+|  0 |      1 | Malaysia Super Series      | Stadium Badminton Kuala Lumpur                    | Kuala Lumpur         | January 16    | January 21     | 200,000            | Report   |
+|  1 |      2 | Korea Open Super Series    | Seoul National University Gymnasium               | Seoul                | January 23    | January 28     | 300,000            | Report   |
+|  2 |      3 | All England Super Series   | National Indoor Arena                             | Birmingham           | March 6       | March 11       | 200,000            | Report   |
+|  3 |      4 | Swiss Open Super Series    | St. Jakobshalle                                   | Basel                | March 12      | March 18       | 200,000            | Report   |
+|  4 |      5 | Singapore Super Series     | Singapore Indoor Stadium                          | Singapore            | May 1         | May 6          | 200,000            | Report   |
+|  5 |      6 | Indonesia Super Series     | Bung Karno Stadium                                | Jakarta              | May 7         | May 13         | 250,000            | Report   |
+|  6 |      7 | China Masters Super Series | Sichuan Provincial Gymnasium                      | Chengdu              | July 10       | July 15        | 250,000            | Report   |
+|  7 |      8 | Japan Super Series         | Tokyo Metropolitan Gymnasium                      | Tokyo                | September 11  | September 16   | 200,000            | Report   |
+|  8 |      9 | Denmark Super Series       | Arena Fyn                                         | Odense               | October 23    | October 28     | 200,000            | Report   |
+|  9 |     10 | French Super Series        | Stade Pierre de Coubertin                         | Paris                | October 30    | November 4     | 200,000            | Report   |
+| 10 |     11 | China Open Super Series    | Tianhe Gymnasium                                  | Guangzhou            | November 20   | November 25    | 250,000            | Report   |
+| 11 |     12 | Hong Kong Super Series     | Ma On Shan Sports Centre\nQueen Elizabeth Stadium | Ma On Shan\nWan Chai | November 26   | December 2     | 200,000            | Report   |
+| 12 |     13 | Super Series Finals        | Cancelled                                         | Cancelled            | Cancelled     | Cancelled      | 500,000            | Report   |
+===================Question===================
+how many venues bear the name of its city?
+===================Text===================
+<think>
+Okay, so I need to figure out how many venues from the 2007 BWF Super Series have names that match their city's name. Let me go through each row of the table and check this.
+
+Starting with the first one: Malaysia Super Series is in Kuala Lumpur at Stadium Badminton Kuala Lumpur. The venue is named after the city, so that's a yes.
+
+Next, Korea Open in Seoul uses the gymnasium at Seoul National University. The venue name includes "Seoul," which matches the city, so that counts too.
+
+Moving to Birmingham for All England Super Series, the venue is the National Indoor Arena. Doesn't have the city name in it, so no.
+
+The Swiss Open in Basel is at St. Jakobshalle. I don't think "Basel" is part of the venue's name, so that doesn't count.
+
+In Singapore, the venue is the Singapore Indoor Stadium. The name includes "Singapore," which matches the city, so yes.
+
+Indonesia Super Series in Jakarta uses Bung Karno Stadium. Doesn’t have "Jakarta" in it, so no.
+
+China Masters in Chengdu is at Sichuan Provincial Gymnasium. The gymnasium doesn't include "Chengdu," so that's a no.
+
+Japan Super Series in Tokyo is held at the Tokyo Metropolitan Gymnasium. "Tokyo" is part of the venue name, so yes.
+
+Denmark Super Series in Odense uses Arena Fyn. No mention of Odense there, so no.
+
+French Super Series in Paris is at Stade Pierre de Coubertin. Doesn't have "Paris," so that's a no.
+
+China Open in Guangzhou is at Tianhe Gymnasium. The venue doesn’t include the city name, so no.
+
+Hong Kong Super Series has two venues: Ma On Shan Sports Centre and Queen Elizabeth Stadium. Neither includes "Hong Kong" or specific city names mentioned (Ma On Shan and Wan Chai), but since the cities are different from the main city of Hong Kong, I think they don't match.
+
+Lastly, Super Series Finals were canceled, so we can ignore that one.
+
+Counting up: Kuala Lumpur, Seoul, Singapore, Tokyo. So that's four venues where the venue name includes the city's name.
+</think>
+
+Final Answer: 4
+===================Answer===================
+5

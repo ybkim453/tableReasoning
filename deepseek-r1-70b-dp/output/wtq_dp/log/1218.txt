@@ -1,0 +1,32 @@
+===================Title===================
+Athletics at the 1959 Mediterranean Games
+===================Table===================
+|    | Rank   | Nation     |   Gold |   Silver |   Bronze |   Total |
+|---:|:-------|:-----------|-------:|---------:|---------:|--------:|
+|  0 | 1      | France     |     11 |        5 |        3 |      19 |
+|  1 | 2      | Greece     |      6 |        7 |        6 |      19 |
+|  2 | 3      | Yugoslavia |      3 |        2 |        1 |       6 |
+|  3 | 4      | Spain      |      1 |        5 |        5 |      11 |
+|  4 | 5      | Morocco    |      1 |        1 |        0 |       2 |
+|  5 | 5      | Turkey     |      1 |        1 |        0 |       2 |
+|  6 | 7      | Egypt      |      0 |        1 |        7 |       8 |
+|  7 | 8      | Tunisia    |      0 |        1 |        0 |       1 |
+|  8 | Totaal | Totaal     |     23 |       23 |       22 |      68 |
+===================Question===================
+what is the overall total number of gold medals awarded?
+===================Text===================
+<think>
+Okay, so I need to figure out the overall total number of gold medals awarded at the 1959 Mediterranean Games based on this table. Let me start by looking at each row and see how they contribute to the total.
+
+First, France is ranked 1 with 11 gold medals. That's straightforward. Next, Greece has 6 golds. Then Yugoslavia with 3, Spain with 1, Morocco also has 1, Turkey has another 1. The next ones are Egypt, Tunisia, and then a row labeled "Totaal" which I think means total in some languages.
+
+Wait, that last row might already sum everything up. Let me check. It says under Gold for Totaal: 23. So does that mean the total is just 23? Because all the individual countries' golds should add up to this number.
+
+Let me double-check by adding them up manually. France has 11, Greece 6, Yugoslavia 3, Spain 1, Morocco 1, Turkey 1. Adding those together: 11 + 6 = 17, plus 3 is 20, then each of the next three adds 1, so that's 23 altogether. Yep, that matches the total in the last row.
+
+So the overall total number of gold medals awarded is 23.
+</think>
+
+Final Answer: 23
+===================Answer===================
+23

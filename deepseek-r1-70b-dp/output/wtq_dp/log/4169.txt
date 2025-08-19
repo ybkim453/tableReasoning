@@ -1,0 +1,92 @@
+===================Title===================
+2007 Buffalo Bandits season
+===================Table===================
+|    |   Game | Date              | Opponent                | Location              | Score   | OT   | Attendance   | Record   |
+|---:|-------:|:------------------|:------------------------|:----------------------|:--------|:-----|:-------------|:---------|
+|  0 |      1 | December 30, 2007 | @ Portland LumberJax    | Rose Garden           | L 10–11 | OT   | 8,437        | 0–1      |
+|  1 |      2 | January 12, 2007  | New York Titans         | HSBC Arena            | W 16–14 | nan  | 18,690       | 1–1      |
+|  2 |      3 | January 13, 2007  | @ Colorado Mammoth      | Pepsi Center          | L 10–11 | OT   | 16,523       | 1–2      |
+|  3 |      4 | January 20, 2007  | Minnesota Swarm         | HSBC Arena            | W 22–13 | nan  | 12,883       | 2–2      |
+|  4 |      5 | February 2, 2007  | Toronto Rock            | HSBC Arena            | L 10–14 | nan  | 13,659       | 2–3      |
+|  5 |      6 | February 3, 2007  | @ Toronto Rock          | Air Canada Centre     | L 8–13  | nan  | 15,471       | 2–4      |
+|  6 |      7 | February 11, 2007 | @ Chicago Shamrox       | Sears Centre          | W 12–11 | nan  | 5,010        | 3–4      |
+|  7 |      8 | February 17, 2007 | @ Philadelphia Wings    | Wachovia Center       | W 12–8  | nan  | 12,688       | 4–4      |
+|  8 |      9 | February 24, 2007 | Philadelphia Wings      | HSBC Arena            | W 13–12 | nan  | 14,882       | 5–4      |
+|  9 |     10 | March 4, 2007     | @ Minnesota Swarm       | Xcel Energy Center    | W 16–15 | nan  | 7,504        | 6–4      |
+| 10 |     11 | March 17, 2007    | @ New York Titans       | Madison Square Garden | W 11–8  | nan  | 7,012        | 7–4      |
+| 11 |     12 | March 24, 2007    | Colorado Mammoth        | HSBC Arena            | W 19–15 | nan  | 15,156       | 8–4      |
+| 12 |     13 | March 31, 2007    | Chicago Shamrox         | HSBC Arena            | W 15–10 | nan  | 16,228       | 9–4      |
+| 13 |     14 | April 7, 2007     | Arizona Sting           | HSBC Arena            | W 15–5  | nan  | 13,492       | 10–4     |
+| 14 |     15 | April 13, 2007    | Rochester Knighthawks   | HSBC Arena            | L 10–14 | nan  | 15,334       | 10–5     |
+| 15 |     16 | April 14, 2007    | @ Rochester Knighthawks | Blue Cross Arena      | L 8–14  | nan  | 11,200       | 10–6     |
+===================Question===================
+did they win more at home or away?
+===================Text===================
+<think>
+Okay, so I need to figure out whether the Buffalo Bandits won more games at home or away during their 2007 season based on the provided table. Let me start by understanding the structure of the table.
+
+Looking at the table headers: Game number, Date, Opponent, Location, Score, OT (overtime), Attendance, and Record. Each row represents a game they played, with details about where it was held, against whom, the score, and whether it went into overtime or not.
+
+The key here is to determine for each game whether it was a home game or an away game and then tally up the wins in each category. 
+
+First, I'll go through each row and classify them as Home or Away. The Location column will help with that. If the location starts with '@', that means they were playing away; otherwise, it's a home game at HSBC Arena.
+
+Let me list out each game:
+
+1. Game 1: @ Portland LumberJax (Away) - Result: Loss 10-11 OT
+2. Game 2: New York Titans (Home) - Win 16-14
+3. Game 3: @ Colorado Mammoth (Away) - Loss 10-11 OT
+4. Game 4: Minnesota Swarm (Home) - Win 22-13
+5. Game 5: Toronto Rock (Home) - Loss 10-14
+6. Game 6: @ Toronto Rock (Away) - Loss 8-13
+7. Game 7: @ Chicago Shamrox (Away) - Win 12-11
+8. Game 8: @ Philadelphia Wings (Away) - Win 12-8
+9. Game 9: Philadelphia Wings (Home) - Win 13-12
+10. Game 10: @ Minnesota Swarm (Away) - Win 16-15
+11. Game 11: @ New York Titans (Away) - Win 11-8
+12. Game 12: Colorado Mammoth (Home) - Win 19-15
+13. Game 13: Chicago Shamrox (Home) - Win 15-10
+14. Game 14: Arizona Sting (Home) - Win 15-5
+15. Game 15: Rochester Knighthawks (Home) - Loss 10-14
+16. Game 16: @ Rochester Knighthawks (Away) - Loss 8-14
+
+Now, I'll separate these into Home and Away wins.
+
+Starting with Home games:
+
+Games where Location is HSBC Arena:
+- Game 2: Win
+- Game 4: Win
+- Game 5: Loss
+- Game 9: Win
+- Game 12: Win
+- Game 13: Win
+- Game 14: Win
+- Game 15: Loss
+
+So let's count the Home wins:
+
+Game 2, 4, 9, 12, 13, 14. That's 6 wins.
+
+Now for Away games:
+
+Games where Location starts with '@':
+- Game 1: Loss
+- Game 3: Loss
+- Game 6: Loss
+- Game 7: Win
+- Game 8: Win
+- Game 10: Win
+- Game 11: Win
+- Game 16: Loss
+
+Counting the Away wins:
+
+Game 7, 8, 10, 11. That's 4 wins.
+
+So at Home they have 6 wins, and Away they have 4 wins. Therefore, they won more games at home than away in the 2007 season.
+</think>
+
+Final Answer: 6–4
+===================Answer===================
+Home

@@ -1,0 +1,60 @@
+===================Title===================
+1939 Masters Tournament
+===================Table===================
+|    | Place   | Player        | Country       | Score           | To par   | Money ($)   |
+|---:|:--------|:--------------|:--------------|:----------------|:---------|:------------|
+|  0 | 1       | Ralph Guldahl | United States | 72-68-70-69=279 | –9       | 1,500       |
+|  1 | 2       | Sam Snead     | United States | 70-70-72-68=280 | –8       | 800         |
+|  2 | T3      | Billy Burke   | United States | 69-72-71-70=282 | –6       | 550         |
+|  3 | T3      | Lawson Little | United States | 72-72-68-70=282 | –6       | 550         |
+|  4 | 5       | Gene Sarazen  | United States | 73-66-72-72=283 | –5       | 400         |
+|  5 | 6       | Craig Wood    | United States | 72-73-71-68=284 | –4       | 300         |
+|  6 | 7       | Byron Nelson  | United States | 71-69-72-75=287 | –1       | 250         |
+|  7 | 8       | Henry Picard  | United States | 71-71-76-71=289 | +1       | 175         |
+|  8 | 9       | Ben Hogan     | United States | 75-71-72-72=290 | +2       | 125         |
+|  9 | T10     | Ed Dudley     | United States | 75-75-69-72=291 | +3       | 100         |
+| 10 | T10     | Toney Penna   | United States | 72-75-72-72=291 | +3       | 100         |
+===================Question===================
+who won after byron nelson?
+===================Text===================
+<think>
+Okay, so I need to figure out who won after Byron Nelson in the 1939 Masters Tournament based on the provided table. Let me start by understanding what the question is asking.
+
+First, looking at the table, it lists players with their placing, scores, and money earned. The columns are Place, Player, Country, Score, To par, and Money ($). 
+
+The key here is to determine who came after Byron Nelson in terms of their placement. So I need to find out who finished just below or next to him in the standings.
+
+Looking at the table, each row represents a player's performance. The first column is the index (0-10), the second is Place, which shows their rank, and the third is Player.
+
+Byron Nelson is listed as 7th place with an index of 6. His score is 287, which is –1 to par. Now, I need to see who comes after him in the rankings.
+
+Looking at the next rows beyond index 6: row 7 is Henry Picard with a Place of 8, then Ben Hogan at 9th place (row 8), followed by Ed Dudley and Toney Penna tied for 10th (rows 9 and 10).
+
+So after Byron Nelson in the standings would be the players who finished lower than him. So that's Henry Picard, Ben Hogan, Ed Dudley, and Toney Penna.
+
+Wait, but the question is asking "who won after byron nelson?" I think that might mean who came right after him in the rankings. Since Byron Nelson was 7th, the next lower place would be 8th, which is Henry Picard. So perhaps it's asking for the player immediately following Nelson.
+
+Alternatively, if it's asking all players who placed after him, then it includes everyone from 8th to T10.
+
+But in golf tournaments, usually when someone asks "who won after Byron Nelson," they might be referring to who came right behind him, meaning the next lower position. So that would be Henry Picard in 8th place.
+
+Wait, but let me double-check the table again. The places beyond Byron are:
+
+7 | 8 | Henry Picard
+
+8 |9 | Ben Hogan
+
+9 | T10 | Ed Dudley and Toney Penna.
+
+So the immediate next after Nelson is Henry Picard, then Ben Hogan, then tied for 10th place, Dudley and Penna.
+
+But perhaps the question is asking who won (as in placed) after Byron, meaning all players who came below him. So that would include Henry Picard, Ben Hogan, Ed Dudley, and Toney Penna.
+
+I think the answer should list all of them because they are the ones who placed after Nelson.
+</think>
+
+The players who placed after Byron Nelson are Henry Picard, Ben Hogan, Ed Dudley, and Toney Penna.
+
+Final Answer: Henry Picard, Ben Hogan, Ed Dudley, Toney Penna
+===================Answer===================
+Henry Picard

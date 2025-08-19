@@ -1,0 +1,42 @@
+===================Title===================
+Immigration to France
+===================Table===================
+|    | Naturalisations by origin   | 2000    | 2005    | 2009    |   % Total 2009 |
+|---:|:----------------------------|:--------|:--------|:--------|---------------:|
+|  0 | Africa                      | 84 182  | 98 453  | 85 144  |           62.7 |
+|  1 | Maghreb                     | 68 185  | 75 224  | 56 024  |           41.2 |
+|  2 | Sub-Saharan Africa          | 10 622  | 15 624  | 22 214  |           16.4 |
+|  3 | Other Africa                | 5 375   | 7 605   | 6 906   |            5.1 |
+|  4 | Asia                        | 27 941  | 26 286  | 19 494  |           14.4 |
+|  5 | South-East Asia             | 7 265   | 4 069   | 2 475   |            1.8 |
+|  6 | East Asia                   | 1 139   | 1 280   | 1 622   |            1.2 |
+|  7 | South Asia                  | 4 246   | 4 436   | 3 660   |            2.7 |
+|  8 | Other Asia                  | 15 291  | 16 501  | 11 737  |            8.6 |
+|  9 | Europe (not including CIS ) | 22 085  | 18 072  | 14 753  |           10.9 |
+| 10 | CIS                         | 1 181   | 2 108   | 4 704   |            3.5 |
+| 11 | CIS (Europe)                | 1 000   | 1 535   | 4 454   |            3.3 |
+| 12 | CIS (Asia)                  | 181     | 573     | 250     |            0.2 |
+| 13 | America                     | 5 668   | 6 352   | 6 677   |            4.9 |
+| 14 | North America               | 1 048   | 854     | 747     |            0.5 |
+| 15 | South and Central America   | 4 620   | 5 498   | 5 930   |            4.4 |
+| 16 | Oceania                     | 87      | 127     | 108     |            0.1 |
+| 17 | Others                      | 8 882   | 3 245   | 4 962   |            3.7 |
+| 18 | Total                       | 150 026 | 154 643 | 135 842 |          100   |
+===================Question===================
+what area is listed previous to east asia?
+===================Text===================
+<think>
+Alright, I'm trying to figure out which area comes right before East Asia in the given table about immigration to France. Let's see... The table lists various regions with their naturalisation numbers for different years and the percentage in 2009.
+
+Looking at the rows, each region is numbered from 0 to 18. The question asks what area is listed just before East Asia. So I need to find where East Asia is located in this list. Scanning through, I see that East Asia is labeled as number 6. Now, I should check the previous number, which would be number 5.
+
+What's number 5? Let me look back at the table. Number 5 is South-East Asia with numbers like 7,265 in 2000, decreasing to 2,475 by 2009, which is 1.8% of the total that year. So right before East Asia (number 6) is South-East Asia (number 5). 
+
+I think that's it. It makes sense because regions are grouped geographically, so moving down the list, each subsequent number follows a regional breakdown.
+</think>
+
+The area listed just before East Asia in the table is South-East Asia.
+
+Final Answer: South-East Asia
+===================Answer===================
+South-East Asia

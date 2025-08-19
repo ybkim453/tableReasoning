@@ -1,0 +1,41 @@
+===================Title===================
+2011 BWF World Junior Championships
+===================Table===================
+|    |   Rank | Nation         |   Gold |   Silver |   Bronze |   Total |
+|---:|-------:|:---------------|-------:|---------:|---------:|--------:|
+|  0 |      1 | Malaysia       |      3 |        0 |        1 |       4 |
+|  1 |      2 | Indonesia      |      1 |        3 |        2 |       6 |
+|  2 |      3 | Korea          |      1 |        1 |        2 |       4 |
+|  3 |      4 | Thailand       |      1 |        0 |        0 |       1 |
+|  4 |      5 | Chinese Taipei |      0 |        1 |        2 |       3 |
+|  5 |      6 | Denmark        |      0 |        1 |        0 |       1 |
+|  6 |      7 | Japan          |      0 |        0 |        2 |       2 |
+|  7 |      8 | India          |      0 |        0 |        1 |       1 |
+|  8 |      9 | Spain          |      0 |        0 |        1 |       1 |
+===================Question===================
+which nation earned the most medals?
+===================Text===================
+<think>
+Okay, so I need to figure out which nation earned the most medals at the 2011 BWF World Junior Championships based on the table provided. Let me start by looking at each row and understanding what the numbers represent.
+
+The table has columns for Rank, Nation, Gold, Silver, Bronze, and Total medals. The Total column should show the sum of all medals (Gold + Silver + Bronze) a nation won. So my goal is to find which nation has the highest number in the Total column.
+
+Let me go through each row one by one:
+
+1. **Malaysia**: They have 3 Gold, 0 Silver, and 1 Bronze. That adds up to 3+0+1=4 Total medals.
+2. **Indonesia**: 1 Gold, 3 Silver, 2 Bronze. So that's 1+3+2=6 Total medals.
+3. **Korea**: 1 Gold, 1 Silver, 2 Bronze. That totals to 1+1+2=4.
+4. **Thailand**: 1 Gold and nothing else, so just 1 medal total.
+5. **Chinese Taipei**: No Gold, but 1 Silver and 2 Bronze, which is 0+1+2=3.
+6. **Denmark**: Only 1 Silver, so their Total is 1.
+7. **Japan**: They have 2 Bronze medals, so that's 2 in total.
+8. **India** and **Spain** each have only 1 Bronze medal.
+
+Looking at these totals, Indonesia stands out with the highest number of Total medals at 6. Malaysia and Korea both have 4 each, which is less than Indonesia. The other nations have fewer than that.
+
+I should double-check to make sure I didn't miss any numbers. For example, confirming Indonesia's Gold, Silver, Bronze: 1+3+2 does equal 6. No one else has a higher Total than that in the table.
+</think>
+
+Final Answer: Indonesia
+===================Answer===================
+Indonesia

@@ -1,0 +1,62 @@
+===================Title===================
+World Golf Championships
+===================Table===================
+|    | Golfer         | Country          |   Wins | Match Play          | Championship                                 | Invitational                                       | Champions   |
+|---:|:---------------|:-----------------|-------:|:--------------------|:---------------------------------------------|:---------------------------------------------------|:------------|
+|  0 | Tiger Woods    | United States    |     18 | 3: 2003, 2004, 2008 | 7: 1999, 2002, 2003,\n2005, 2006, 2007, 2013 | 8: 1999, 2000, 2001, 2005,\n2006, 2007, 2009, 2013 | —           |
+|  1 | Geoff Ogilvy   | Australia        |      3 | 2: 2006, 2009       | 1: 2008                                      | —                                                  | —           |
+|  2 | Darren Clarke  | Northern Ireland |      2 | 1: 2000             | —                                            | 1: 2003                                            | —           |
+|  3 | Ernie Els      | South Africa     |      2 | —                   | 2: 2004, 2010                                | —                                                  | —           |
+|  4 | Hunter Mahan   | United States    |      2 | 1: 2012             | —                                            | 1: 2010                                            | —           |
+|  5 | Phil Mickelson | United States    |      2 | —                   | 1: 2009                                      | —                                                  | 1: 2009     |
+|  6 | Ian Poulter    | England          |      2 | 1: 2010             | —                                            | —                                                  | 1: 2012     |
+===================Question===================
+name a golfer from the same country as phil mickelson.
+===================Text===================
+<think>
+Okay, so I need to figure out which golfers are from the same country as Phil Mickelson based on the provided table. Let me start by looking at the table and focusing on Phil Mickelson's row.
+
+First, I'll scan through each column to find where Phil Mickelson is listed. From the table:
+
+|    | Golfer         | Country          |   Wins | Match Play          | Championship                                 | Invitational                                       | Champions   |
+...
+|  5 | Phil Mickelson | United States    |      2 | —                   | 1: 2009                                      | —                                                  | 1: 2009     |
+
+So, Phil Mickelson is from the United States. Now, I need to find other golfers in this table who are also from the United States.
+
+Looking at each row:
+
+- Row 0: Tiger Woods - Country is United States.
+- Rows 1 to 6: The countries listed are Australia (Geoff Ogilvy), Northern Ireland (Darren Clarke), South Africa (Ernie Els), and England (Ian Poulter). 
+
+Wait, in addition to Tiger Woods at row 0, I should check if there's anyone else. Let me go through each Golfer:
+
+1. Tiger Woods - United States
+2. Geoff Ogilvy - Australia
+3. Darren Clarke - Northern Ireland
+4. Ernie Els - South Africa
+5. Phil Mickelson - United States (target)
+6. Hunter Mahan - United States
+
+Wait, I almost missed that. Hunter Mahan is also listed as being from the United States. Let me confirm:
+
+Looking at row 4: Hunter Mahan's country is indeed United States.
+
+So in total, there are three golfers from the United States in this table: Tiger Woods, Phil Mickelson, and Hunter Mahan.
+
+Wait, let me double-check each row to make sure I didn't miss any others. 
+
+Row 0: Tiger Woods - USA
+Row 1: Geoff Ogilvy - Australia
+Row 2: Darren Clarke - Northern Ireland
+Row 3: Ernie Els - South Africa
+Row 4: Hunter Mahan - USA
+Row 5: Phil Mickelson - USA
+Row 6: Ian Poulter - England
+
+Yes, that's correct. So the golfers from the same country as Phil Mickelson are Tiger Woods and Hunter Mahan.
+</think>
+
+Final Answer: Tiger Woods, Hunter Mahan
+===================Answer===================
+Hunter Mahan

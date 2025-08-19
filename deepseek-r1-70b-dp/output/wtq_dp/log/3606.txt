@@ -1,0 +1,44 @@
+===================Title===================
+CF Palencia
+===================Table===================
+|    | Season   |   Tier | Division   | Place   |
+|---:|:---------|-------:|:-----------|:--------|
+|  0 | 1988/89  |      4 | 3a         | 3rd     |
+|  1 | 1989/90  |      4 | 3a         | 1st     |
+|  2 | 1990/91  |      3 | 2aB        | 6th     |
+|  3 | 1991/92  |      3 | 2aB        | 12th    |
+|  4 | 1992/93  |      3 | 2aB        | 4th     |
+|  5 | 1993/94  |      3 | 2aB        | 15th    |
+|  6 | 1994/95  |      3 | 2aB        | 9th     |
+|  7 | 1995/96  |      3 | 2aB        | 19th    |
+|  8 | 1996/97  |      4 | 3a         | 2nd     |
+|  9 | 1997/98  |      4 | 3a         | 1st     |
+| 10 | 1998/99  |      4 | 3a         | 6th     |
+===================Question===================
+how many years in a row did tier 4 get between first and tenth place?
+===================Text===================
+<think>
+Okay, let's try to figure out how many years in a row CF Palencia was in Tier 4 and between 1st and 10th place based on the given table.
+
+First, I'll look at each season from 1988/89 to 1998/99. Each entry has the tier, division, and their placement. My goal is to find consecutive years where they were in Tier 4 with a finish between 1st and 10th.
+
+Starting from Season 0 (1988/89): They're in Tier 4, Division 3a, placed 3rd. That's within the range.
+
+Season 1 (1989/90): Still Tier 4, same division, and they finished 1st. Still good.
+
+Now, Season 2 (1990/91) jumps to Tier 3. So from here on, we need to see if there are consecutive Tier 4 placements again after this.
+
+Looking further down:
+
+Seasons 8,9,10: These correspond to 1996/97, 1997/98, and 1998/99. In each of these seasons, they're in Tier 4, Division 3a, with placements 2nd, 1st, and 6th respectively.
+
+That's three consecutive years in Tier 4 (Seasons 8 to 10). But wait, before that, from Season 0 to 1, it's also two consecutive years. So the longest streak would be three years from Season 8 onwards.
+
+So the answer is 3 consecutive years.
+</think>
+
+The team spent three consecutive years in Tier 4 between first and tenth place.
+
+Final Answer: 3
+===================Answer===================
+3

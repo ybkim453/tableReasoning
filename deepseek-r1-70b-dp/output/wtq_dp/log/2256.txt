@@ -1,0 +1,27 @@
+===================Title===================
+Tongan paʻanga
+===================Table===================
+|    | Value     | Diameter   | Composition   | 1975–1979\nObverse   | 1975–1979\nReverse                                      | 1981-\nObverse      | 1981-\nReverse                                          |
+|---:|:----------|:-----------|:--------------|:---------------------|:--------------------------------------------------------|:--------------------|:--------------------------------------------------------|
+|  0 | 1 seniti  | 18 mm      | Bronze        | Maize                | Pig                                                     | Maize               | Vanilla                                                 |
+|  1 | 2 seniti  | 21 mm      | Bronze        | Marrows              | PLANNED FAMILIES FOOD FOR ALL, six people holding hands | Taro                | PLANNED FAMILIES FOOD FOR ALL, six people holding hands |
+|  2 | 5 seniti  | 19 mm      | Cupronickel   | Chicken with chicks  | Bananas                                                 | Chicken with chicks | Coconuts                                                |
+|  3 | 10 seniti | 24 mm      | Cupronickel   | King                 | Grazing cattle                                          | King                | Bananas on tree                                         |
+|  4 | 20 seniti | 29 mm      | Cupronickel   | King                 | Bees and hive                                           | King                | Yams                                                    |
+|  5 | 50 seniti | 32–33 mm   | Cupronickel   | King                 | Fishes around a vortex                                  | King                | Tomatoes                                                |
+===================Question===================
+what is the difference in diameters of the smallest denomination coin and the largest denomination coin?
+===================Text===================
+<think>
+Okay, I need to figure out the difference in diameters between the smallest and largest denomination coins of Tongan paʻanga based on the provided table.
+
+First, I should identify which coin is the smallest denomination and which is the largest. Looking at the "Value" column, the denominations go from 1 seniti up to 50 seniti. So, the smallest is 1 seniti (0 index) with a diameter of 18 mm, and the largest is 50 seniti (5 index) with diameters ranging from 32–33 mm.
+
+Next, I need to calculate the difference between these two diameters. The smallest is 18 mm, and the largest is either 32 or 33 mm. But since the question asks for a single number, I think it's appropriate to take the maximum diameter of the largest coin, which is 33 mm.
+
+So, subtracting the smallest from the largest: 33 mm - 18 mm equals 15 mm.
+</think>
+
+Final Answer: 15
+===================Answer===================
+15 mm

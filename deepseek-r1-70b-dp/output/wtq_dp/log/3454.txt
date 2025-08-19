@@ -1,0 +1,57 @@
+===================Title===================
+List of schools in Saginaw, Michigan
+===================Table===================
+|    | School Name                           | Low grade   | High grade   |   Students (K-12) |   FTE Teachers |   Student/teacher ratio |
+|---:|:--------------------------------------|:------------|:-------------|------------------:|---------------:|------------------------:|
+|  0 | Bethany Lutheran School               | PK          | 8            |                28 |            3.6 |                    7.78 |
+|  1 | Bethlehem Lutheran School             | PK          | 8            |               182 |           10   |                   18.2  |
+|  2 | Christ Lutheran School                | K           | 8            |                12 |            2   |                    6    |
+|  3 | Community Baptist Christian School    | PK          | 12           |               120 |            9.8 |                   12.24 |
+|  4 | Good Shepherd Early Childhood         | PK          | K            |                20 |            1   |                   20    |
+|  5 | Grace Christian School                | PK          | 12           |               117 |           13   |                    9    |
+|  6 | Holy Cross Lutheran School            | PK          | 8            |               135 |            7.9 |                   17.09 |
+|  7 | Immanuel Lutheran School              | PK          | 8            |                82 |            5.6 |                   14.64 |
+|  8 | Michigan Lutheran Seminary            | 9           | 12           |               313 |           31   |                   10.1  |
+|  9 | Nouvel Catholic Central High School   | 9           | 12           |               505 |           37   |                   13.65 |
+| 10 | Peace Lutheran School                 | PK          | 8            |               229 |          nan   |                  nan    |
+| 11 | Sheridan Road Christian School        | K           | 12           |                42 |            5.9 |                    7.12 |
+| 12 | St Helen Elementary School            | K           | 8            |               182 |           10.9 |                   16.7  |
+| 13 | St John's Evangelical Lutheran School | K           | 8            |                32 |            3   |                   10.67 |
+| 14 | St Pauls Lutheran School              | PK          | 8            |               155 |            9.6 |                   16.15 |
+| 15 | St Stephen Elementary School          | PK          | 8            |               364 |           23.1 |                   15.76 |
+| 16 | St Thomas Aquinas Elementary School   | K           | 8            |               403 |           25   |                   16.12 |
+| 17 | Tri-City Seventh-Day Adventist School | 1           | 8            |                18 |            2.1 |                    8.57 |
+| 18 | Valley Lutheran High School           | 9           | 12           |               344 |           21   |                   16.38 |
+| 19 | Notes                                 | nan         | nan          |               nan |          nan   |                  nan    |
+===================Question===================
+does st.thomas aquinas elementary have more or less grades than sheridan road elementary school?
+===================Text===================
+<think>
+Okay, so I'm trying to figure out whether St. Thomas Aquinas Elementary has more or less grades than Sheridan Road Christian School based on the provided table. Let me look at each step carefully.
+
+First, I need to locate both schools in the table. The table lists various schools with their details like Low grade, High grade, number of students, etc. 
+
+Looking through the list, St. Thomas Aquinas Elementary School is listed as entry 16. Its Low grade is K (which stands for Kindergarten) and High grade is 8. So that means it covers from Kindergarten to 8th grade.
+
+Next, Sheridan Road Christian School is at entry 11. The table shows that its Low grade is K and High grade is 12. Wait, so that's from Kindergarten all the way up to 12th grade, which is high school level.
+
+Now, I need to compare the number of grades each school offers. Let me break it down:
+
+For St. Thomas Aquinas:
+- Starting at K (which is typically considered before 1st grade), then grades 1 through 8.
+- So that's Kindergarten plus grades 1-8, making a total of 9 levels (K,1,2,3,4,5,6,7,8).
+
+For Sheridan Road Christian School:
+- Also starts at K and goes up to 12th grade.
+- That would include Kindergarten, then grades 1 through 12. So that's 13 levels in total.
+
+Comparing the two:
+- St. Thomas Aquinas has 9 levels (K-8)
+- Sheridan Road has 13 levels (K-12)
+
+Therefore, Sheridan Road Christian School offers more grades than St. Thomas Aquinas Elementary.
+</think>
+
+Final Answer: less
+===================Answer===================
+Less

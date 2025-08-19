@@ -1,0 +1,48 @@
+===================Title===================
+Central America
+===================Table===================
+|    | Country     |   Amphibians |   Birds |   Mammals |   Reptile |   Total terrestrial vertebrates |   Vascular plants |   Biodiversity |
+|---:|:------------|-------------:|--------:|----------:|----------:|--------------------------------:|------------------:|---------------:|
+|  0 | Belize      |           46 |     544 |       147 |       140 |                             877 |              2894 |           3771 |
+|  1 | Costa Rica  |          183 |     838 |       232 |       258 |                            1511 |             12119 |          13630 |
+|  2 | El Salvador |           30 |     434 |       137 |       106 |                             707 |              2911 |           3618 |
+|  3 | Guatemala   |          133 |     684 |       193 |       236 |                            1246 |              8681 |           9927 |
+|  4 | Honduras    |          101 |     699 |       201 |       213 |                            1214 |              5680 |           6894 |
+|  5 | Nicaragua   |           61 |     632 |       181 |       178 |                            1052 |              7590 |           8642 |
+|  6 | Panama      |          182 |     904 |       241 |       242 |                            1569 |              9915 |          11484 |
+===================Question===================
+how many species of birds are there in guatemala?
+===================Text===================
+<think>
+Alright, so I need to figure out how many species of birds are in Guatemala based on the provided table. Let me start by looking at the table structure and identifying where Guatemala is listed.
+
+First, I see that each row represents a country in Central America. The columns include various categories like Amphibians, Birds, Mammals, Reptile, etc. My main focus here is on the "Birds" column for Guatemala.
+
+Looking through the rows:
+
+- Row 0: Belize
+- Row 1: Costa Rica
+- Row 2: El Salvador
+- Row 3: Guatemala
+- Row 4: Honduras
+- Row 5: Nicaragua
+- Row 6: Panama
+
+So, Guatemala is in row 3. Now, I need to check the "Birds" column for this specific row. The numbers under "Birds" are as follows:
+
+- Belize: 544
+- Costa Rica: 838
+- El Salvador: 434
+- Guatemala: 684
+- Honduras: 699
+- Nicaragua: 632
+- Panama: 904
+
+From this, it's clear that the number of bird species in Guatemala is listed under the "Birds" column as 684. I should make sure that I'm reading the correct row and column to avoid any mistakes.
+
+I don't think there's any calculation needed here since the question is straightforward—just extracting the value from the table.
+</think>
+
+Final Answer: 684
+===================Answer===================
+684

@@ -1,0 +1,38 @@
+===================Title===================
+Great Officer of State
+===================Table===================
+|    |   Position | Officer                       | current officers                   | superseded by       | Royal Household     |
+|---:|-----------:|:------------------------------|:-----------------------------------|:--------------------|:--------------------|
+|  0 |          1 | Lord High Steward             | vacant                             | Justiciar           | Lord Steward        |
+|  1 |          2 | Lord High Chancellor          | The Rt Hon Chris Grayling, MP      | nan                 | nan                 |
+|  2 |          3 | Lord High Treasurer           | in commission                      | nan                 | nan                 |
+|  3 |          4 | Lord President of the Council | The Rt Hon Nick Clegg, MP          | nan                 | nan                 |
+|  4 |          5 | Lord Privy Seal               | The Rt Hon Andrew Lansley, CBE, MP | nan                 | nan                 |
+|  5 |          6 | Lord Great Chamberlain        | The Marquess of Cholmondeley       | Lord High Treasurer | Lord Chamberlain    |
+|  6 |          7 | Lord High Constable           | vacant                             | Earl Marshal        | Master of the Horse |
+|  7 |          8 | Earl Marshal                  | The Duke of Norfolk                | nan                 | Master of the Horse |
+|  8 |          9 | Lord High Admiral             | HRH The Duke of Edinburgh          | nan                 | nan                 |
+===================Question===================
+how many positions' names do not begin with lord?
+===================Text===================
+<think>
+Okay, so I'm trying to figure out how many positions in the table don't begin with 'Lord'. Let me look through each position one by one.
+
+Starting from the top:
+
+1. **Position 1**: Lord High Steward – begins with 'Lord'.
+2. **Position 2**: Lord High Chancellor – starts with 'Lord' again.
+3. **Position 3**: Lord High Treasurer – same here, 'Lord' is at the beginning.
+4. **Position 4**: Lord President of the Council – yes, starts with 'Lord'.
+5. **Position 5**: Lord Privy Seal – begins with 'Lord', so that's another one.
+6. **Position 6**: Lord Great Chamberlain – same pattern, 'Lord' is there.
+7. **Position 7**: Lord High Constable – starts with 'Lord'.
+8. **Position 8**: Earl Marshal – this doesn't start with 'Lord'; it begins with 'Earl'.
+9. **Position 9**: Lord High Admiral – yes, starts with 'Lord'.
+
+So, out of all nine positions, only one position (Earl Marshal) doesn't begin with 'Lord'. Therefore, the number should be just one.
+</think>
+
+Final Answer: 1
+===================Answer===================
+1

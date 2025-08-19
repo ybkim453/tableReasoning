@@ -1,0 +1,32 @@
+===================Title===================
+Sport in Australia
+===================Table===================
+|    | Competition                        | Total spectatorship   | Average match attendance   | Year      |
+|---:|:-----------------------------------|:----------------------|:---------------------------|:----------|
+|  0 | A-League                           | 1,772,133             | 12,707                     | 2012/2013 |
+|  1 | Australian Football League         | 6,931,085             | 33,484                     | 2013      |
+|  2 | Big Bash League                    | 550,262               | 17,750                     | 2011/2012 |
+|  3 | National Basketball League         | 547,021               | 4,031                      | 2010/2011 |
+|  4 | National Rugby League              | 3,345,248             | 16,643                     | 2013      |
+|  5 | Super Rugby                        | 773,940               | 19,348                     | 2012      |
+|  6 | Rugby Championship                 | 133,532               | 44,511                     | 2012      |
+|  7 | State of Origin series             | 186,607               | 62,202                     | 2011      |
+|  8 | Women's National Basketball League | 77,944                | nan                        | 2010/2011 |
+===================Question===================
+how many had an average match attendance greater than 15,000?
+===================Text===================
+<think>
+Okay, so I need to figure out how many competitions from the provided table had an average match attendance greater than 15,000. Let's start by looking at each row and checking the "Average match attendance" column.
+
+First, the A-League has 12,707. That's below 15k, so it doesn't count. Next is the Australian Football League with a whopping 33,484. That's definitely over 15k. Then the Big Bash League is at 17,750, which is also above 15k.
+
+Looking at the National Basketball League, their average attendance is only 4,031, way below the mark. The National Rugby League comes in at 16,643, which is just over 15k. Super Rugby has 19,348; that's well above 15k.
+
+The Rugby Championship shows an average of 44,511, which is much higher than 15k. The State of Origin series has 62,202, so definitely counts. Finally, the Women's National Basketball League doesn't have a number listed (it's marked as nan), so we can ignore that one.
+
+Now, let me count how many met the criteria: Australian Football League, Big Bash League, National Rugby League, Super Rugby, Rugby Championship, and State of Origin series. That makes six competitions in total.
+</think>
+
+Final Answer: 6
+===================Answer===================
+6

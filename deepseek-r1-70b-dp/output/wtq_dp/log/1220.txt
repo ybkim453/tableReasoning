@@ -1,0 +1,53 @@
+===================Title===================
+Athletics at the 1959 Mediterranean Games
+===================Table===================
+|    | Rank   | Nation     |   Gold |   Silver |   Bronze |   Total |
+|---:|:-------|:-----------|-------:|---------:|---------:|--------:|
+|  0 | 1      | France     |     11 |        5 |        3 |      19 |
+|  1 | 2      | Greece     |      6 |        7 |        6 |      19 |
+|  2 | 3      | Yugoslavia |      3 |        2 |        1 |       6 |
+|  3 | 4      | Spain      |      1 |        5 |        5 |      11 |
+|  4 | 5      | Morocco    |      1 |        1 |        0 |       2 |
+|  5 | 5      | Turkey     |      1 |        1 |        0 |       2 |
+|  6 | 7      | Egypt      |      0 |        1 |        7 |       8 |
+|  7 | 8      | Tunisia    |      0 |        1 |        0 |       1 |
+|  8 | Totaal | Totaal     |     23 |       23 |       22 |      68 |
+===================Question===================
+which countries did not win any bronze medals?
+===================Text===================
+<think>
+Okay, so I need to figure out which countries didn't win any bronze medals in the Athletics at the 1959 Mediterranean Games based on the table provided. Let me go through this step by step.
+
+First, I'll look at each row of the table and check the "Bronze" column for each country. The question is asking for countries that did not win any bronze medals, which means their Bronze count should be zero.
+
+Starting with France: They have 3 bronzes, so they won some. Next, Greece has 6 bronzes, so they also have some. Yugoslavia has 1 bronze medal, so that's not zero either.
+
+Spain is next with 5 bronzes, so definitely not them. Moving on to Morocco and Turkey—both are listed as having 0 bronze medals each. That means neither of these two countries won any bronze in Athletics during those games.
+
+Then I see Egypt with 7 bronzes, Tunisia with 0. Wait, no, looking again: Tunisia actually has 0 bronzes? Or is that their total? Let me double-check the table. Under Bronze for Tunisia, it's listed as 0. So Tunisia didn't win any bronze medals either.
+
+Wait a minute, I thought Spain had 5 bronzes, so they're out. Let me list them again:
+
+- France: 3
+- Greece:6
+- Yugoslavia:1
+- Spain:5
+- Morocco:0
+- Turkey:0
+- Egypt:7
+- Tunisia:0
+
+So the countries with Bronze count of zero are Morocco, Turkey, and Tunisia.
+
+Wait, but in the table, I see that the row for Tunisia has a Bronze value of 0? Let me confirm. The table shows:
+
+| 7 | 8      | Tunisia    | 0 | 1 | 0 | 1 |
+
+Yes, so Tunisia's bronze count is indeed 0.
+
+So the countries without any bronze medals are Morocco, Turkey, and Tunisia.
+</think>
+
+Final Answer: Morocco, Turkey, Tunisia
+===================Answer===================
+Morocco,Turkey,Tunisia

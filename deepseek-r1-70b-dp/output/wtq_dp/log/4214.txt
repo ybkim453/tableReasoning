@@ -1,0 +1,40 @@
+===================Title===================
+Royal Bahamas Defence Force
+===================Table===================
+|    | Aircraft                      | Origin   | Type                     |   In service | Notes                                            |
+|---:|:------------------------------|:---------|:-------------------------|-------------:|:-------------------------------------------------|
+|  0 | Aero Commander 500            | USA      | Light utility transport  |            0 | 3 in service with the Air Wing from 1976 to 1990 |
+|  1 | Beechcraft Super King Air 350 | USA      | Light transport          |            1 | in service since 2004                            |
+|  2 | Cessna 208 Caravan            | USA      | Light transport          |            1 | in service since 2007                            |
+|  3 | Cessna 404 Titan              | USA      | Light transport          |            0 | 1 in service with the Air Wing from 1991 to 2008 |
+|  4 | Cessna 421C Golden Eagle      | USA      | Light transport          |            0 | 1 in service with the Air Wing from 1988 to 2002 |
+|  5 | Partenvia P.68 Observer       | Italy    | Light transport aircraft |            1 | in service since 2009                            |
+|  6 | Piper PA-31 Navajo            | USA      | Light transport          |            0 | in service since 1993                            |
+===================Question===================
+what is the total number of aircraft currently in service?
+===================Text===================
+<think>
+Okay, so I need to figure out how many aircraft are currently in service with the Royal Bahamas Defence Force based on the table provided. Let me break this down step by step.
+
+First, I'll look at each row of the table and check the "In service" column. It seems like a 1 indicates that the aircraft is still in service, while a 0 means it's not currently active.
+
+Starting with the first entry: Aero Commander 500. The "In service" value is 0, so this one isn't currently in use. Next, Beechcraft Super King Air 350 has an "In service" of 1, so that's counted as active. Cessna 208 Caravan also shows a 1, adding another to the count.
+
+The fourth entry, Cessna 404 Titan, is marked with a 0, meaning it's not in service anymore. Then, Cessna 421C Golden Eagle has an "In service" of 0 as well—so that's out. The Partenvia P.68 Observer has a 1, so another active aircraft.
+
+Lastly, Piper PA-31 Navajo is listed with an "In service" value of 0, indicating it's no longer in use. 
+
+Now, adding up all the active ones: Beechcraft Super King Air 350, Cessna 208 Caravan, and Partenvia P.68 Observer. That makes three aircraft currently in service.
+
+Wait, just to make sure I didn't miss anything. Let me recount:
+
+1. Beechcraft - Active
+2. Cessna 208 - Active
+3. Partenvia - Active
+
+Yes, that's three. So the total number of aircraft currently in service is 3.
+</think>
+
+Final Answer: 3
+===================Answer===================
+3

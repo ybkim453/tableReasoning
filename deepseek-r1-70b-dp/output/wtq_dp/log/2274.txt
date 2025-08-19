@@ -1,0 +1,42 @@
+===================Title===================
+Arabic numerals
+===================Table===================
+|    | Binary    |   Octal |   Decimal |   Hexadecimal |   Glyph |
+|---:|:----------|--------:|----------:|--------------:|--------:|
+|  0 | 0011 0000 |      60 |        48 |            30 |       0 |
+|  1 | 0011 0001 |      61 |        49 |            31 |       1 |
+|  2 | 0011 0010 |      62 |        50 |            32 |       2 |
+|  3 | 0011 0011 |      63 |        51 |            33 |       3 |
+|  4 | 0011 0100 |      64 |        52 |            34 |       4 |
+|  5 | 0011 0101 |      65 |        53 |            35 |       5 |
+|  6 | 0011 0110 |      66 |        54 |            36 |       6 |
+|  7 | 0011 0111 |      67 |        55 |            37 |       7 |
+|  8 | 0011 1000 |      70 |        56 |            38 |       8 |
+|  9 | 0011 1001 |      71 |        57 |            39 |       9 |
+===================Question===================
+what binary is listed before 0011 0101?
+===================Text===================
+<think>
+Okay, so I'm trying to figure out what binary number comes before 0011 0101 in the given table. Let me start by understanding the table structure.
+
+The table lists numbers from 0 to 9, each with their representations in Binary, Octal, Decimal, Hexadecimal, and Glyph. Each row corresponds to a specific digit, starting at 0 and going up to 9.
+
+I need to find the binary number that's listed right before 0011 0101. First, I should locate which row has 0011 0101 in the Binary column.
+
+Looking through each row:
+
+- Row 0: Binary is 00110000
+- Row 1: 00110001
+- Row 2: 00110010
+- Row 3: 00110011
+- Row 4: 00110100
+- Row 5: 00110101 ← This is the binary I'm looking for.
+
+So, row 5 has Binary value 0011 0101. The question is asking what's before this, meaning the binary number in the previous row, which would be row 4.
+
+Row 4's Binary is 00110100. Therefore, the binary listed before 0011 0101 is 0011 0100.
+</think>
+
+Final Answer: 0011 0100
+===================Answer===================
+0011 0100

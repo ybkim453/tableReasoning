@@ -1,0 +1,39 @@
+===================Title===================
+ICW World Heavyweight Championship
+===================Table===================
+|    | Wrestler:    |   Reigns: | Date:             | Place:                    | Notes:                                          |
+|---:|:-------------|----------:|:------------------|:--------------------------|:------------------------------------------------|
+|  0 | Lanny Poffo  |         1 | May 10, 1978      | San Francisco, California | Defeated Joe Banek to become the first champion |
+|  1 | Randy Savage |         1 | March 13, 1979    | Halifax, Nova Scotia      | nan                                             |
+|  2 | Lanny Poffo  |         2 | July 21, 1979     | Lexington, Kentucky       | nan                                             |
+|  3 | Randy Savage |         2 | 1981              | Unknown                   | nan                                             |
+|  4 | Lanny Poffo  |         3 | 1981              | Unknown                   | nan                                             |
+|  5 | Randy Savage |         3 | 1982              | Unknown                   | nan                                             |
+|  6 | Paul Christy |         1 | November 13, 1983 | Springfield, Illinois     | nan                                             |
+|  7 | Lanny Poffo  |         4 | January 1, 1984   | Springfield, Illinois     | nan                                             |
+===================Question===================
+who won the first reign in the 80's?
+===================Text===================
+<think>
+Okay, so I need to figure out who won the first reign in the 80's for the ICW World Heavyweight Championship based on this table. Let me look at the data step by step.
+
+First, I'll examine each row of the table, focusing on the Date column because that will tell me which years fall into the 1980s. The 1980s would be any date between January 1, 1980, and December 31, 1989.
+
+Looking at the first row: Lanny Poffo won on May 10, 1978. That's in the 70s, so that's not it.
+
+Second row: Randy Savage on March 13, 1979. Also in the 70s.
+
+Third row: July 21, 1979—again, 70s.
+
+Fourth row: Randy Savage in 1981. Wait, but the exact date isn't specified, just the year. So that's within the 80s.
+
+But wait, is there a reign before that? Let me check all the rows to make sure I'm not missing anything. The next row after that is Lanny Poffo again in 1981, then Randy Savage in 1982, Paul Christy in November 13, 1983, and another by Lanny on January 1, 1984.
+
+So the first reign in the 80s would be the earliest date after 1979. The fourth row shows that Randy Savage won it in 1981. But let's make sure there isn't an earlier one. Looking at the fifth row is also 1982, but later than 1981. So yes, the first reign in the 80s was Randy Savage in 1981.
+
+Wait, actually, looking again, the table starts with 1978. The entries after that go up to 1984. So the first entry in the 80s is indeed row 3: Randy Savage in 1981. Therefore, he won the first reign in the 80's.
+</think>
+
+Final Answer: Randy Savage
+===================Answer===================
+Randy Savage

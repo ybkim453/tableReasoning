@@ -1,0 +1,48 @@
+===================Title===================
+Mudanjiang
+===================Table===================
+|    |   # | Name              | Hanzi   | Hanyu Pinyin     | Population (2003 est.)   | Area (km²)   |   Density (/km²) |
+|---:|----:|:------------------|:--------|:-----------------|:-------------------------|:-------------|-----------------:|
+|  0 |   1 | Aimin District    | 爱民区     | Àimín Qū      | 230,000                  | 359          |              641 |
+|  1 |   2 | Dong'an District  | 东安区     | Dōng'ān Qū    | 180,000                  | 566          |              318 |
+|  2 |   3 | Yangming District | 阳明区     | Yángmíng Qū   | 160,000                  | 358          |              447 |
+|  3 |   4 | Xi'an District    | 西安区     | Xī'ān Qū      | 210,000                  | 325          |              646 |
+|  4 |   5 | Muling City       | 穆棱市     | Mùlíng Shì    | 330,000                  | 6,094        |               54 |
+|  5 |   6 | Suifenhe City     | 绥芬河市    | Suífēnhé Shi  | 60,000                   | 427          |              141 |
+|  6 |   7 | Hailin City       | 海林市     | Hǎilín Shì    | 440,000                  | 9,877        |               45 |
+|  7 |   8 | Ning'an City      | 宁安市     | Níng'ān Shì   | 440,000                  | 7,870        |               56 |
+|  8 |   9 | Dongning County   | 东宁县     | Dōngníng Xiàn | 210,000                  | 7,368        |               29 |
+|  9 |  10 | Linkou County     | 林口县     | Línkǒu Xiàn   | 450,000                  | 7,191        |               63 |
+===================Question===================
+which division has the most area?
+===================Text===================
+<think>
+Okay, so I need to figure out which division in Mudanjiang has the most area based on the given table. Let me start by looking at the columns provided: Name, Population (2003 est.), Area (km²), and Density (/km²). The question is about the largest area, so my focus should be on the "Area" column.
+
+First, I'll list out all the divisions along with their respective areas to make it easier to compare. Let's see:
+
+1. Aimin District: 359 km²
+2. Dong'an District: 566 km²
+3. Yangming District: 358 km²
+4. Xi'an District: 325 km²
+5. Muling City: 6,094 km²
+6. Suifenhe City: 427 km²
+7. Hailin City: 9,877 km²
+8. Ning'an City: 7,870 km²
+9. Dongning County: 7,368 km²
+10. Linkou County: 7,191 km²
+
+Now, I'll go through each area to identify the largest one.
+
+Starting with Aimin at 359 km², that's the first entry but not too big. Dong'an is next with 566 km², which is larger than Aimin. Yangming has 358 km², so smaller than both Aimin and Dong'an. Xi'an District is even smaller at 325 km².
+
+Then we have Muling City with a significant jump to 6,094 km². That's much bigger than the previous districts. Next is Suifenhe City at 427 km², which is less than half of Muling's area. Hailin City comes in with a massive 9,877 km², which is way more than all the previous entries so far.
+
+Ning'an City follows with 7,870 km², which is less than Hailin but still quite large. Dongning County has 7,368 km², which is smaller than Ning'an and Hailin. Lastly, Linkou County is at 7,191 km², which is also less than Hailin.
+
+Comparing all these numbers, Hailin City clearly stands out with the largest area of 9,877 km². The next closest are Ning'an at 7,870 and Dongning at 7,368, but they don't come near Hailin's area.
+</think>
+
+Final Answer: Hailin City
+===================Answer===================
+Hailin City

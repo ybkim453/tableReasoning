@@ -1,0 +1,30 @@
+===================Title===================
+Figure skating at the Asian Winter Games
+===================Table===================
+|    | Rank   | Nation      |   Gold |   Silver |   Bronze |   Total |
+|---:|:-------|:------------|-------:|---------:|---------:|--------:|
+|  0 | 1      | China       |     13 |        9 |       13 |      35 |
+|  1 | 2      | Japan       |      7 |       10 |        7 |      24 |
+|  2 | 3      | Uzbekistan  |      1 |        2 |        3 |       6 |
+|  3 | 4      | Kazakhstan  |      2 |        2 |        0 |       4 |
+|  4 | 5      | North Korea |      1 |        0 |        1 |       2 |
+|  5 | 6      | South Korea |      0 |        0 |        2 |       2 |
+|  6 | Total  | Total       |     24 |       23 |       26 |      73 |
+===================Question===================
+which nation won only one bronze medal?
+===================Text===================
+<think>
+Alright, let me try to figure out which nation won only one bronze medal based on the table provided. Okay, so first I need to look at each row in the table and check the Bronze column.
+
+Starting with China: they have 13 Bronze medals. That's way more than one, so it's not them. Next is Japan with 7 Bronze medals—also more than one. Then we have Uzbekistan with 3 Bronze medals. Still more than one. Moving on to Kazakhstan, they have 0 Bronze medals. Hmm, that's none, so definitely not the one.
+
+Looking at North Korea now, their Bronze count is 1. That's exactly what I'm looking for—only one bronze medal. Next is South Korea with 2 Bronze medals, which doesn't fit the criteria since it's more than one. Finally, the Total row sums everything up, so that's not relevant here.
+
+So, after going through each nation, only North Korea has exactly one Bronze medal.
+</think>
+
+The nation that won only one bronze medal is North Korea.
+
+Final Answer: North Korea
+===================Answer===================
+North Korea

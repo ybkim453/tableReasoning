@@ -1,0 +1,56 @@
+===================Title===================
+1989 NHL Entry Draft
+===================Table===================
+|    |   Pick # | Player          | Position   | Nationality    | NHL team              | College/junior/club team                 |
+|---:|---------:|:----------------|:-----------|:---------------|:----------------------|:-----------------------------------------|
+|  0 |      148 | Paul Krake      | Goalie     | Canada         | Quebec Nordiques      | University of Alaska Anchorage (NCAA)    |
+|  1 |      149 | Phil Huber      | Center     | Canada         | New York Islanders    | Kamloops Blazers (WHL)                   |
+|  2 |      150 | Derek Langille  | Defense    | Canada         | Toronto Maple Leafs   | North Bay Centennials (OHL)              |
+|  3 |      151 | Jim Solly       | Left Wing  | Canada         | Winnipeg Jets         | Bowling Green State University (NCAA)    |
+|  4 |      152 | Sergei Starikov | Defense    | Soviet Union   | New Jersey Devils     | CSKA Moscow (USSR)                       |
+|  5 |      153 | Milan Tichy     | Defense    | Czechoslovakia | Chicago Blackhawks    | Prince Albert Raiders (WHL)              |
+|  6 |      154 | Jon Pratt       | Left Wing  | United States  | Minnesota North Stars | Pingree High School (USHS-MA)            |
+|  7 |      155 | Rob Sangster    | Left Wing  | Canada         | Vancouver Canucks     | Kitchener Rangers (OHL)                  |
+|  8 |      156 | Kevin Plager    | Right Wing | United States  | St. Louis Blues       | Parkway North High School (USHS-MO)      |
+|  9 |      157 | Raymond Saumier | Right Wing | Canada         | Hartford Whalers      | Trois Rivieres Draveurs (QMJHL)          |
+| 10 |      158 | Andy Suhy       | Defense    | United States  | Detroit Red Wings     | Western Michigan University (NCAA)       |
+| 11 |      159 | Sverre Sears    | Defense    | United States  | Philadelphia Flyers   | Princeton University (NCAA)              |
+| 12 |      160 | Greg Spenrath   | Defense    | Canada         | New York Rangers      | Tri-City Americans (WHL)                 |
+| 13 |      161 | Derek Plante    | Center     | United States  | Buffalo Sabres        | Cloquet High School (USHS-MN)            |
+| 14 |      162 | Darcy Martini   | Defense    | Canada         | Edmonton Oilers       | Michigan Technological University (NCAA) |
+| 15 |      163 | David Shute     | Left Wing  | United States  | Pittsburgh Penguins   | Victoria Cougars (WHL)                   |
+| 16 |      164 | Rick Allain     | Defense    | Canada         | Boston Bruins         | Kitchener Rangers (OHL)                  |
+| 17 |      165 | Sean Whyte      | Right Wing | Canada         | Los Angeles Kings     | Guelph Platers (OHL)                     |
+| 18 |      166 | Dean Holoien    | Right Wing | Canada         | Washington Capitals   | Saskatoon Blades (WHL)                   |
+| 19 |      167 | Patrick Lebeau  | Left Wing  | Canada         | Montreal Canadiens    | St-Jean Lynx (QMJHL)                     |
+| 20 |      168 | Kevin Wortman   | Defense    | United States  | Calgary Flames        | American International College (NCAA)    |
+===================Question===================
+who was the top pick in round 8?
+===================Text===================
+<think>
+Alright, let's see what the user is asking here. They provided a table from the 1989 NHL Entry Draft and are asking about who was the top pick in round 8.
+
+First, I need to understand how the draft rounds work. In the NHL Entry Draft, each round consists of multiple picks, typically one per team. The first round has the most prominent picks, and as the rounds progress, the picks are considered later or lower.
+
+Looking at the table provided, it's a bit confusing because the picks listed start from 148 to 168. These are all relatively high pick numbers, so they must be from later rounds. But how do these correspond to the actual round numbers?
+
+I know that in 1989, the NHL had 21 teams, and each round would have one pick per team. So, Round 1 would be picks 1-21, Round 2 picks 22-42, and so on. Let me calculate where pick 148 falls.
+
+To find out which round pick 148 is in, I can subtract the total number of picks before that round. Each round has 21 picks (since there were 21 teams), but wait, actually, let's check the exact number of teams in 1989. Wait, no, in 1989, there were 21 teams? Or maybe fewer? Let me think: the NHL expanded in the late '80s; I believe it was around 21 teams then.
+
+But looking at the table, each "round" as per the user's question might be different. Alternatively, perhaps the user is referring to rounds based on grouping every 25 picks or another method. However, traditionally, each round consists of one pick per team in order.
+
+Wait, actually, let me do the math correctly. If there are 21 teams, Round 1: 1-21, Round 2:22-42, Round3:43-63, Round4:64-84, Round5:85-105, Round6:106-126, Round7:127-147, Round8:148-168.
+
+So pick 148 would be the first pick of Round 8. Therefore, the top pick in Round 8 is the player selected at pick 148.
+
+Looking back at the table, row 0 has Pick #148, which is Paul Krake, a Goalie from Canada, drafted by the Quebec Nordiques.
+
+Wait, but let me double-check: if each round has 21 picks, then Round 1 ends at 21. So Round 2 would be 22-42 (21 picks), Round3 43-63, Round4 64-84, Round5 85-105, Round6 106-126, Round7 127-147, and Round8 starts at 148. Yes, that makes sense.
+
+Therefore, the top pick in Round 8 is Paul Krake.
+</think>
+
+Final Answer: Paul Krake
+===================Answer===================
+Paul Krake

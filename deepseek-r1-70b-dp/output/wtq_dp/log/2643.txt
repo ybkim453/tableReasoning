@@ -1,0 +1,47 @@
+===================Title===================
+Sport in Australia
+===================Table===================
+|    | Competition                        | Total spectatorship   | Average match attendance   | Year      |
+|---:|:-----------------------------------|:----------------------|:---------------------------|:----------|
+|  0 | A-League                           | 1,772,133             | 12,707                     | 2012/2013 |
+|  1 | Australian Football League         | 6,931,085             | 33,484                     | 2013      |
+|  2 | Big Bash League                    | 550,262               | 17,750                     | 2011/2012 |
+|  3 | National Basketball League         | 547,021               | 4,031                      | 2010/2011 |
+|  4 | National Rugby League              | 3,345,248             | 16,643                     | 2013      |
+|  5 | Super Rugby                        | 773,940               | 19,348                     | 2012      |
+|  6 | Rugby Championship                 | 133,532               | 44,511                     | 2012      |
+|  7 | State of Origin series             | 186,607               | 62,202                     | 2011      |
+|  8 | Women's National Basketball League | 77,944                | nan                        | 2010/2011 |
+===================Question===================
+how many leagues had at least 1 million spectators?
+===================Text===================
+<think>
+Alright, I need to figure out how many leagues had at least 1 million spectators based on the given table. Let me start by understanding what each column represents. The table has five columns: an index, Competition name, Total spectatorship, Average match attendance, and Year.
+
+My task is to look at the "Total spectatorship" for each competition and count how many of them have a number equal to or greater than 1 million.
+
+Let me go through each row one by one:
+
+1. A-League: The total spectatorship is 1,772,133. That's more than 1 million.
+2. Australian Football League: Total is 6,931,085, which is way over a million.
+3. Big Bash League: 550,262 spectators. That's less than a million.
+4. National Basketball League: 547,021, also under a million.
+5. National Rugby League: 3,345,248, definitely above a million.
+6. Super Rugby: 773,940, which is more than a million.
+7. Rugby Championship: Only 133,532 spectators, so less than a million.
+8. State of Origin series: 186,607, under a million as well.
+9. Women's National Basketball League: 77,944, way below.
+
+Now, let me count how many competitions met the criteria:
+
+- A-League
+- Australian Football League
+- National Rugby League
+- Super Rugby
+
+So that's four leagues with total spectatorship of at least 1 million each.
+</think>
+
+Final Answer: 4
+===================Answer===================
+3

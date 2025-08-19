@@ -1,0 +1,54 @@
+===================Title===================
+1954 Ottawa Rough Riders season
+===================Table===================
+|    |   Week | Date    | Opponent                | Score   | Result   | Record   |
+|---:|-------:|:--------|:------------------------|:--------|:---------|:---------|
+|  0 |      1 | Aug 28  | at Toronto Argonauts    | 13–6    | Loss     | 0–1      |
+|  1 |      2 | Sept 4  | at Montreal Alouettes   | 21–2    | Loss     | 0–2      |
+|  2 |      2 | Sept 6  | vs. Montreal Alouettes  | 20–11   | Loss     | 0–3      |
+|  3 |      3 | Sept 11 | at Toronto Argonauts    | 12–5    | Win      | 1–3      |
+|  4 |      4 | Sept 18 | vs. Toronto Argonauts   | 34–6    | Loss     | 1–4      |
+|  5 |      5 | Sept 25 | vs. Hamilton Tiger-Cats | 38–12   | Loss     | 1–5      |
+|  6 |      6 | Oct 2   | at Hamilton Tiger-Cats  | 45–0    | Loss     | 1–6      |
+|  7 |      7 | Oct 9   | vs. Montreal Alouettes  | 25–11   | Loss     | 1–7      |
+|  8 |      7 | Oct 11  | at Montreal Alouettes   | 24–6    | Loss     | 1–8      |
+|  9 |      8 | Oct 16  | vs. Toronto Argonauts   | 27–11   | Loss     | 1–9      |
+| 10 |      9 | Oct 23  | at Hamilton Tiger-Cats  | 25–17   | Loss     | 1–10     |
+| 11 |     10 | Oct 30  | vs. Hamilton Tiger-Cats | 30–9    | Loss     | 1–11     |
+| 12 |     11 | Nov 6   | at Toronto Argonauts    | 18–12   | Loss     | 1–12     |
+| 13 |     12 | Nov 13  | vs. Montreal Alouettes  | 14–12   | Win      | 2–12     |
+===================Question===================
+what is the highest amount of points scored in a game by an opponent?
+===================Text===================
+<think>
+Alright, so I need to figure out the highest amount of points scored in a game by an opponent during the 1954 Ottawa Rough Riders season based on the provided table. Let me go through each step carefully.
+
+First, I'll look at the table and identify the columns that are relevant: "Score" and "Opponent." Each row represents a game with the score format being something like "13–6" where I assume the first number is Ottawa's points and the second is the opponent's. So for each game, I need to extract the opponent's score.
+
+Starting from the top:
+
+1. Week 1: Opponent Toronto Argonauts, Score 13–6. Opponent scored 6.
+2. Week 2: Opponent Montreal Alouettes, Score 21–2. Opponent scored 21.
+3. Week 2 (another game same week): vs. Montreal Alouettes, Score 20–11. Opponent scored 20.
+4. Week 3: at Toronto Argonauts, Score 12–5. Opponent scored 12.
+5. Week 4: vs. Toronto Argonauts, Score 34–6. Opponent scored 34.
+6. Week 5: vs. Hamilton Tiger-Cats, Score 38–12. Opponent scored 38.
+7. Week 6: at Hamilton Tiger-Cats, Score 45–0. Opponent scored 45.
+8. Week 7: vs. Montreal Alouettes, Score 25–11. Opponent scored 25.
+9. Week 7 (another game): at Montreal Alouettes, Score 24–6. Opponent scored 24.
+10. Week 8: vs. Toronto Argonauts, Score 27–11. Opponent scored 27.
+11. Week 9: at Hamilton Tiger-Cats, Score 25–17. Opponent scored 25.
+12. Week 10: vs. Hamilton Tiger-Cats, Score 30–9. Opponent scored 30.
+13. Week 11: at Toronto Argonauts, Score 18–12. Opponent scored 18.
+14. Week 12: vs. Montreal Alouettes, Score 14–12. Opponent scored 12.
+
+Now I'll list all the opponent scores to find the highest:
+
+6, 21, 20, 12, 34, 38, 45, 25, 24, 27, 25, 30, 18, 12.
+
+Looking through these numbers, the highest is 45. That was in Week 6 against Hamilton Tiger-Cats on Oct 2.
+</think>
+
+Final Answer: 45
+===================Answer===================
+45

@@ -1,0 +1,284 @@
+===================Title===================
+Narkhed
+===================Table===================
+|    |   Sr. No. |   Train No. | Name of the Train                  | Arrival   | Departure   | Day          |
+|---:|----------:|------------:|:-----------------------------------|:----------|:------------|:-------------|
+|  0 |         1 |       18238 | Chhatisgarh Express                | 01:23     | 01:25       | Daily        |
+|  1 |         2 |       12160 | Jabalpur-Amravati SF               | 04:51     | 04:53       | Daily        |
+|  2 |         3 |       51294 | Amla-Nagpur Pass                   | 06:39     | 06:40       | Daily        |
+|  3 |         4 |       12913 | Indore-Nag Tri. Exp                | 06:49     | 06:51       | M            |
+|  4 |         5 |       19301 | Indore-Yashwantpur Exp             | 07:20     | 07:25       | M            |
+|  5 |         6 |       12406 | Nizamuddin-Bhusaval Gondwana Exp   | 07:25     | 07:27       | M,St         |
+|  6 |         7 |       12410 | Nizamuddin-Raigarh Gondwana Exp    | 07:25     | 07:27       | S,M,Tu,W,T,F |
+|  7 |         8 |       51151 | New Amravati-Narkhed Pass          | 08:30     | N/a         | Daily        |
+|  8 |         9 |       22112 | Nagpur-Bhusaval SF                 | 08:37     | 08:39       | M,T,St       |
+|  9 |        10 |       11045 | Dikshsabhoomi Exp                  | 08:53     | 08:55       | St           |
+| 10 |        11 |       16359 | Ernakulam-Patna Exp                | 08:53     | 08:55       | M            |
+| 11 |        12 |       51829 | Nagpur-Agra Pass                   | 09:41     | 09:42       | Daily        |
+| 12 |        13 |       12861 | Visakapatnam-Nizamuddin            | 10:43     | 10:44       | Daily        |
+| 13 |        14 |       12721 | Dakshin Express                    | 10:43     | 10:44       | Daily        |
+| 14 |        15 |       12616 | Grand Trunk(GT) Exp                | 10:49     | 10:51       | Daily        |
+| 15 |        16 |       19714 | Sec-Jaipur Exp                     | 11:58     | 12:00       | Tu           |
+| 16 |        17 |       11203 | Nagpur-Jaipur Weekly Express       | 13:03     | 13:05       | T            |
+| 17 |        18 |       12615 | Grand Trunk(GT) Exp                | 13:30     | 13:32       | Daily        |
+| 18 |        19 |       12405 | Bhusaval-H.Nizamuddin Gondwana Exp | 14:08     | 14:10       | S,Tu,        |
+| 19 |        20 |       12409 | Raigarh-H.Nizamuddin- Gondwana Exp | 14:08     | 14:10       | M,W,T,F,St   |
+| 20 |        21 |       16360 | Patna-Ernakulam Exp                | 14:08     | 14:10       | W            |
+| 21 |        22 |       11046 | Dikshsabhoomi Exp                  | 14:09     | 14:10       | Tu           |
+| 22 |        23 |       22111 | Bhusaval_Nagpur SF                 | 14:36     | 14:38       | S,W,F        |
+| 23 |        24 |       19713 | Jaipur-Sec Exp                     | 15:48     | 15:50       | Tu           |
+| 24 |        25 |       12722 | Dakshin Express                    | 16:00     | 16:02       | Daily        |
+| 25 |        26 |       51183 | Bhusaval-Narkhed Pass              | 16:00     | N/a         | Daily        |
+| 26 |        27 |       11204 | Jaipur-Nagpur Exp                  | 17:24     | 17:25       | St           |
+| 27 |        28 |       19302 | Yashwantpur-Indore Exp             | 17:35     | 17:40       | W            |
+| 28 |        29 |       51830 | Agra-Nagpur Pass                   | 18:04     | 18:05       | Daily        |
+| 29 |        30 |       51293 | Nagpur-Amla Pass                   | 19:55     | 20:00       | Daily        |
+| 30 |        31 |       12914 | Nagpur-Indore Tri. Exp             | 20:08     | 20:10       | M            |
+| 31 |        32 |       12159 | Amravati-Jabalpur SF               | 22:30     | 22:32       | Daily        |
+| 32 |        33 |       18237 | Chhatisgarh Express                | 23:09     | 23:10       | Daily        |
+| 33 |        34 |       51152 | Narkhed-New Amravati Pass          | N/a       | 18:00       | Daily        |
+| 34 |        35 |       51184 | Bhusaval-Narkhed Pass              | N/a       | 09:00       | Daily        |
+===================Question===================
+how many trains are on tuesday only?
+===================Text===================
+<think>
+Alright, so I need to figure out how many trains are running on Tuesday only from Narkhed based on the given table. Let me go through this step by step.
+
+First, I'll look at each train and check the 'Day' column to see which ones operate on Tuesday. The days are abbreviated as M (Monday), T (Tuesday), W (Wednesday), Th (Thursday), F (Friday), S (Saturday), Su (Sunday). Sometimes it's written out fully, but here they're using single letters.
+
+I'll go through each row:
+
+1. Train 18238: Daily – so every day, not just Tuesday.
+2. Train 12160: Daily – same as above.
+3. Train 51294: Daily
+4. Train 12913: M (Monday) only.
+5. Train 19301: M
+6. Train 12406: M and St? Wait, the abbreviation might be 'St' for Saturday. So it runs on Monday and Saturday. Not Tuesday.
+7. Train 12410: S, M, Tu, W, T, F – that's Sunday, Monday, Tuesday, Wednesday, Thursday, Friday. So every day except maybe Saturday? Or perhaps including all days, but not sure about Su or Sa. Wait, the entry is "S,M,Tu,W,T,F". So it includes Tuesday.
+8. Train 51151: Daily
+9. Train 22112: M, T, St – Monday, Tuesday, Saturday
+10. Train 11045: St (Saturday) only
+11. Train 16359: M
+12. Train 51829: Daily
+13. Train 12861: Daily
+14. Train 12721: Daily
+15. Train 12616: Daily
+16. Train 19714: Tu – that's Tuesday.
+17. Train 11203: T (Thursday)
+18. Train 12615: Daily
+19. Train 12405: S, Tu – Saturday and Tuesday
+20. Train 12409: M, W, T, F, St – includes Friday but not sure about days. Wait, the days listed are M, W, T, F, St, so it's Monday, Wednesday, Thursday, Friday, Saturday. No Sunday or Tuesday? Or maybe I'm misreading it. Wait, no 'Tu' here.
+21. Train 16360: W (Wednesday)
+22. Train 11046: Tu – Tuesday
+23. Train 22111: S, W, F – Saturday, Wednesday, Friday
+24. Train 19713: Tu – Tuesday
+25. Train 12722: Daily
+26. Train 51183: Daily
+27. Train 11204: St (Saturday)
+28. Train 19302: W (Wednesday)
+29. Train 51830: Daily
+30. Train 51293: Daily
+31. Train 12914: M
+32. Train 12159: Daily
+33. Train 18237: Daily
+34. Train 51152: Daily
+35. Train 51184: Daily
+
+Now, I'll list all trains that have 'Tu' in their Day column:
+
+- Train 12410: Runs on Tuesday among other days.
+- Train 22112: Runs on Monday, Tuesday, Saturday – so includes Tuesday.
+- Train 19714: Only runs on Tuesday.
+- Train 12405: Runs on Saturday and Tuesday.
+- Train 11046: Only runs on Tuesday.
+- Train 19713: Only runs on Tuesday.
+
+Wait, but the question is asking for trains that are on Tuesday only. So I need to find trains whose days include Tuesday and no other days except maybe others, but actually, wait, no – the question is about how many trains run specifically on Tuesday, regardless of whether they run on other days as well. Wait, no, perhaps it's asking for how many trains are running on Tuesday, so any train that includes Tuesday in their schedule.
+
+But now I'm a bit confused because some trains run daily and therefore include Tuesday, while others have specific days including Tuesday. So the count would be all trains that have 'Tu' in their Day column or are Daily, since they also run on Tuesday.
+
+Wait no, the question is "how many trains are on Tuesday only?" which I think means how many trains operate on Tuesday (regardless of other days). So any train that runs on Tuesday, including those that run daily and those that have specific days including Tuesday.
+
+But looking back at each entry:
+
+1. 18238: Daily – includes Tuesday.
+2. 12160: Daily
+3. 51294: Daily
+4. 12913: M only.
+5. 19301: M
+6. 12406: M, St
+7. 12410: S, M, Tu, W, T, F – yes, includes Tuesday.
+8. 51151: Daily
+9. 22112: M, T, St – includes Tuesday.
+10. 11045: St
+11. 16359: M
+12. 51829: Daily
+13. 12861: Daily
+14. 12721: Daily
+15. 12616: Daily
+16. 19714: Tu only.
+17. 11203: T (Thursday)
+18. 12615: Daily
+19. 12405: S, Tu – includes Tuesday.
+20. 12409: M, W, T, F, St – does this include Tuesday? The days are M, W, Th, F, Sa. Wait, 'T' here is Thursday (since it's after Wednesday). So no, it doesn't run on Tuesday.
+21. 16360: W
+22. 11046: Tu only.
+23. 22111: S, W, F – no Tuesday.
+24. 19713: Tu only.
+25. 12722: Daily
+26. 51183: Daily
+27. 11204: St
+28. 19302: W
+29. 51830: Daily
+30. 51293: Daily
+31. 12914: M
+32. 12159: Daily
+33. 18237: Daily
+34. 51152: Daily
+35. 51184: Daily
+
+So let's count all trains that include Tuesday in their running days:
+
+- Trains with 'Daily': All of them run on Tuesday, so that's a lot.
+
+But actually, the question is how many are on Tuesday only, which might mean how many have services on Tuesday, irrespective of other days. So the answer would be the count of all trains where Tuesday is one of their running days.
+
+But I'll approach it by listing each train and whether they run on Tuesday:
+
+1. 18238: Yes (Daily)
+2. 12160: Yes
+3. 51294: Yes
+4. 12913: No
+5. 19301: No
+6. 12406: No
+7. 12410: Yes
+8. 51151: Yes
+9. 22112: Yes
+10. 11045: No
+11. 16359: No
+12. 51829: Yes
+13. 12861: Yes
+14. 12721: Yes
+15. 12616: Yes
+16. 19714: Yes (only Tuesday)
+17. 11203: No (Thursday only)
+18. 12615: Yes
+19. 12405: Yes (Saturday and Tuesday)
+20. 12409: No
+21. 16360: No
+22. 11046: Yes (Tuesday only)
+23. 22111: No
+24. 19713: Yes (Tuesday only)
+25. 12722: Yes
+26. 51183: Yes
+27. 11204: No
+28. 19302: No
+29. 51830: Yes
+30. 51293: Yes
+31. 12914: No
+32. 12159: Yes
+33. 18237: Yes
+34. 51152: Yes
+35. 51184: Yes
+
+Now, count all the 'Yes' answers:
+
+1. Yes (1)
+2. Yes (2)
+3. Yes (3)
+4. No
+5. No
+6. No
+7. Yes (4)
+8. Yes (5)
+9. Yes (6)
+10. No
+11. No
+12. Yes (7)
+13. Yes (8)
+14. Yes (9)
+15. Yes (10)
+16. Yes (11)
+17. No
+18. Yes (12)
+19. Yes (13)
+20. No
+21. No
+22. Yes (14)
+23. No
+24. Yes (15)
+25. Yes (16)
+26. Yes (17)
+27. No
+28. No
+29. Yes (18)
+30. Yes (19)
+31. No
+32. Yes (20)
+33. Yes (21)
+34. Yes (22)
+35. Yes (23)
+
+Wait, but that can't be right because 35 minus the 'No' entries would give a larger number.
+
+Alternatively, perhaps it's better to count each Yes:
+
+- Trains running on Tuesday: All Daily trains plus specific ones.
+
+Total number of daily trains: Let's see how many have 'Daily'.
+
+Looking back:
+
+Trains marked as 'Daily':
+
+1. 18238: Daily
+2. 12160: Daily
+3. 51294: Daily
+4. 12913: M only – no.
+5. 19301: M – no.
+6. 12406: M, St – no.
+7. 12410: multiple days including Tuesday – yes.
+8. 51151: Daily
+9. 22112: M, T, Sa – includes Tuesday but not daily? Wait, earlier analysis says it's Monday, Tuesday, Saturday?
+Wait no, wait:
+
+Looking back at each train:
+
+Train numbers and days:
+
+1. 18238 - Daily
+2. 12160 - Daily
+3. 51294 - Daily
+4. 12913 - M
+5. 19301 - M
+6. 12406 - M, St (Monday and Saturday)
+7. 12410 - S, M, Tu, W, Th, F – that's all days except Sunday? Or including Tuesday?
+Wait: S is Saturday? Wait in the initial problem description.
+
+Wait, I'm a bit confused about abbreviations: Is 'S' Saturday or Sunday?
+
+Typically, in some contexts:
+
+- Su: Sunday
+- M: Monday
+- T: Tuesday
+- W: Wednesday
+- Th: Thursday
+- F: Friday
+- Sa: Saturday
+
+But sometimes S is used for Saturday.
+
+In the initial problem statement, I'm not sure if 'S' stands for Saturday or Sunday. It's crucial because it affects the count.
+
+Looking back:
+
+Train 7 (12410) has days: S, M, Tu, W, T, F – So 'S' here could be either Saturday or Sunday.
+
+If 'S' is Saturday, then this train runs from Monday to Saturday and also on Tuesday. But if 'S' is Sunday, it's running from Sunday to Friday plus Tuesday? That can't be because you can't have both S (Sunday) and T (Tuesday). Wait no, it would mean the train runs every day except perhaps one or something.
+
+But given that 12410 has days listed as: S, M, Tu, W, T, F – probably meaning Saturday is 'Sa' but maybe S here stands for Sunday. Hmm, confusion arises because in some systems S is Sunday and Sa is Saturday.
+
+Alternatively, perhaps the user input used "S" for Saturday, which would make 12410 run on Saturday, Monday, Tuesday, Wednesday, Thursday, Friday – that's every day
+===================Answer===================
+3

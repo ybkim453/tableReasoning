@@ -1,0 +1,72 @@
+===================Title===================
+The Harvest (Boondox album)
+===================Table===================
+|    |   # | Title                   | Time   | Lyrics       | Music                      | Producer(s)   | Performer(s)                          |
+|---:|----:|:------------------------|:-------|:-------------|:---------------------------|:--------------|:--------------------------------------|
+|  0 |   1 | "Intro"                 | 1:16   | nan          | nan                        | nan           | nan                                   |
+|  1 |   2 | "Seven"                 | 3:30   | Boondox      | Mike E. Clark              | Boondox       | Boondox                               |
+|  2 |   3 | "Out Here"              | 3:18   | Boondox      | Mike E. Clark\nTino Grosse | Boondox       | Boondox                               |
+|  3 |   4 | "It Ain't A Thang"      | 3:45   | Boondox      | Mike E. Clark              | Boondox       | Boondox                               |
+|  4 |   5 | "Digging"               | 3:04   | Boondox      | Kuma                       | Boondox       | Boondox                               |
+|  5 |   6 | "Lady In The Jaguar"    | 3:55   | Boondox\nICP | Mike E. Clark              | Boondox\nICP  | Boondox\nICP                          |
+|  6 |   7 | "They Pray with Snakes" | 3:56   | Boondox      | Kuma                       | Boondox       | Boondox                               |
+|  7 |   8 | "Rollin Hard"           | 4:07   | Boondox      | Mike E. Clark              | Boondox       | Boondox                               |
+|  8 |   9 | "The Harvest"           | 3:53   | Boondox\nAMB | Kuma                       | Boondox\nAMB  | Boondox\nAxe Murder Boyz              |
+|  9 |  10 | "Sippin"                | 3:16   | Boondox      | Mike E. Clark              | Boondox       | Boondox                               |
+| 10 |  11 | "Lake of Fire"          | 4:12   | Boondox      | Mike E. Clark              | Boondox       | Boondox                               |
+| 11 |  12 | "Red Mist"              | 3:54   | Boondox      | Mike E. Clark              | Boondox       | Boondox\nBlaze Ya Dead Homie\nTwiztid |
+| 12 |  13 | "Angel Like"            | 3:42   | Boondox      | Mike E. Clark              | Boondox       | Boondox                               |
+===================Question===================
+how many song come after "rollin hard"?
+===================Text===================
+<think>
+Okay, so I need to figure out how many songs come after "Rollin Hard" on Boondox's album called "The Harvest". Let me start by looking at the table provided.
+
+First, I'll scan through the table to find where "Rollin Hard" is located. Each row represents a song with its track number and other details. The track numbers go from 1 to 13, but they're listed under the "#" column as 0 to 12 since it starts counting from zero.
+
+Looking at each row:
+
+- Row 8 has track #9: "The Harvest"
+- Wait, no, I think I misread that. Let me check again.
+
+Wait, actually, in the table provided, each row's index is from 0 to 12, which corresponds to tracks numbered 1 to 13 because the first row (index 0) is track #1 "Intro". So for example:
+
+- Index 0: Track 1
+- Index 1: Track 2
+- ...
+- Index 12: Track 13
+
+So I need to find where "Rollin Hard" is. Let's go through the Titles.
+
+Looking at each Title in order:
+
+Row 0: Intro (Track 1)
+Row 1: Seven (Track 2)
+Row 2: Out Here (Track3)
+Row3: It Ain't A Thang (4)
+Row4: Digging (5)
+Row5: Lady In The Jaguar (6)
+Row6: They Pray with Snakes (7)
+Row7: Rollin Hard (8)
+Ah, so "Rollin Hard" is at index 7, which is Track #8.
+
+Now, I need to count how many songs come after this. So the next tracks would be from Track 9 onwards up to Track 13.
+
+Looking at the remaining rows after index 7:
+
+Index 8: The Harvest (Track9)
+Index9: Sippin (10)
+Index10: Lake of Fire (11)
+Index11: Red Mist (12)
+Index12: Angel Like (13)
+
+So that's from Track9 to Track13, which is 5 tracks.
+
+Wait, let me make sure I didn't miscount. Starting after "Rollin Hard" at Track8, the next ones are Tracks9,10,11,12,13. That makes 5 songs: The Harvest, Sippin, Lake of Fire, Red Mist, Angel Like.
+
+So there are 5 songs that come after "Rollin Hard".
+</think>
+
+Final Answer: 5
+===================Answer===================
+5

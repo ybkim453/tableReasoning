@@ -1,0 +1,54 @@
+===================Title===================
+Martina Hrašnová
+===================Table===================
+|    |   Year | Competition                   | Venue                | Position   | Notes   |
+|---:|-------:|:------------------------------|:---------------------|:-----------|:--------|
+|  0 |   1999 | World Youth Championships     | Bydgoszcz, Poland    | 12th       | nan     |
+|  1 |   2000 | World Junior Championships    | Santiago, Chile      | 5th        | nan     |
+|  2 |   2001 | European Junior Championships | Grosseto, Italy      | 2nd        | 61.97 m |
+|  3 |   2001 | World Championships           | Edmonton, Canada     | 23rd       | 61.26 m |
+|  4 |   2002 | World Junior Championships    | Kingston, Jamaica    | 2nd        | 63.91 m |
+|  5 |   2002 | European Championships        | Munich, Germany      | 26th       | 60.28 m |
+|  6 |   2006 | European Championships        | Gothenburg, Sweden   | 26th       | 62.39 m |
+|  7 |   2007 | World Student Games           | Bangkok, Thailand    | 5th        | 64.95 m |
+|  8 |   2007 | World Championships           | Osaka, Japan         | 13th       | 68.15 m |
+|  9 |   2008 | Olympic Games                 | Beijing, PR China    | 8th        | 71.00 m |
+| 10 |   2008 | World Athletics Final         | Stuttgart, Germany   | 2nd        | 71.40 m |
+| 11 |   2009 | World Student Games           | Belgrade, Serbia     | 2nd        | 72.85 m |
+| 12 |   2009 | World Championships           | Berlin, Germany      | 3rd        | 74.79 m |
+| 13 |   2009 | World Athletics Final         | Thessaloniki, Greece | 3rd        | 70.45 m |
+| 14 |   2012 | European Championships        | Helsinki, Finland    | 2nd        | 73.34 m |
+===================Question===================
+what year did she receive her most recent highest rated position?
+===================Text===================
+<think>
+Okay, so I need to figure out in which year Martina Hrašnová received her most recent highest rated position based on the table provided. Let me look at the table again.
+
+The table lists competitions from 1999 through 2012. Each entry has a Year, Competition name, Venue, Position, and Notes. The Positions are numbers like 12th, 5th, 2nd, etc., with lower numbers indicating better positions since 1st is the best.
+
+I need to find her highest rated position, which would be the lowest numerical value in the Position column. Then, determine the most recent year she achieved that position.
+
+Looking through each row:
+
+- 1999: 12th
+- 2000: 5th
+- 2001: 2nd and 23rd
+- 2002: 2nd and 26th
+- 2006: 26th
+- 2007: 5th and 13th
+- 2008: 8th and 2nd
+- 2009: 2nd, 3rd, 3rd
+- 2012: 2nd
+
+From this, the best position she has is 2nd place. Now I need to find the most recent year where she got 2nd.
+
+Looking at the years:
+
+She achieved 2nd in 2001, 2002, 2008, 2009 (twice), and 2012.
+
+The latest among these is 2012 when she got 2nd place at the European Championships in Helsinki, Finland. So that's her most recent highest-rated position.
+</think>
+
+Final Answer: 2012
+===================Answer===================
+2012

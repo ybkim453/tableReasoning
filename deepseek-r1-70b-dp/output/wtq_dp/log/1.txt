@@ -1,0 +1,33 @@
+===================Title===================
+2008 Clásica de San Sebastián
+===================Table===================
+|    |   Rank | Cyclist                  | Team               | Time       |   UCI ProTour\nPoints |
+|---:|-------:|:-------------------------|:-------------------|:-----------|----------------------:|
+|  0 |      1 | Alejandro Valverde (ESP) | Caisse d'Epargne   | 5h 29' 10" |                    40 |
+|  1 |      2 | Alexandr Kolobnev (RUS)  | Team CSC Saxo Bank | s.t.       |                    30 |
+|  2 |      3 | Davide Rebellin (ITA)    | Gerolsteiner       | s.t.       |                    25 |
+|  3 |      4 | Paolo Bettini (ITA)      | Quick Step         | s.t.       |                    20 |
+|  4 |      5 | Franco Pellizotti (ITA)  | Liquigas           | s.t.       |                    15 |
+|  5 |      6 | Denis Menchov (RUS)      | Rabobank           | s.t.       |                    11 |
+|  6 |      7 | Samuel Sánchez (ESP)    | Euskaltel-Euskadi  | s.t.       |                     7 |
+|  7 |      8 | Stéphane Goubert (FRA)  | Ag2r-La Mondiale   | + 2"       |                     5 |
+|  8 |      9 | Haimar Zubeldia (ESP)    | Euskaltel-Euskadi  | + 2"       |                     3 |
+|  9 |     10 | David Moncoutié (FRA)   | Cofidis            | + 2"       |                     1 |
+===================Question===================
+who was the first cyclist to finish?
+===================Text===================
+<think>
+Okay, so I'm trying to figure out who was the first cyclist to finish in the 2008 Clásica de San Sebastián based on the table provided. Let me go through this step by step.
+
+First, looking at the table structure: there are several columns like Rank, Cyclist, Team, Time, and UCI ProTour Points. The key here is to identify which cyclist came in first place because that's who we're looking for.
+
+I notice that the ranks start from 0 and go up to 9. Wait, that's a bit unusual because typically, rankings start at 1, but maybe it's zero-based indexing here. So rank 0 would correspond to first place, followed by rank 1 as second, and so on.
+
+Looking at Rank 0, the cyclist listed is Alejandro Valverde from Spain, riding for Caisse d'Epargne. His time is 5h 29' 10", which seems pretty fast. The next entries have "s.t." which I think stands for "same time," meaning those cyclists finished at the same time as the leader.
+
+Since Alejandro Valverde is in Rank 0 with no one above him, that must mean he was the first to finish. All the others either have the same time but higher ranks or are a few seconds behind. So there's no doubt he won the race.
+</think>
+
+Final Answer: Alejandro Valverde (ESP)
+===================Answer===================
+Alejandro Valverde

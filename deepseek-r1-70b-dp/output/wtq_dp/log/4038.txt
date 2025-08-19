@@ -1,0 +1,65 @@
+===================Title===================
+1966 French Grand Prix
+===================Table===================
+|    | Pos   |   No | Driver           | Constructor     |   Laps | Time/Retired   | Grid   |   Points |
+|---:|:------|-----:|:-----------------|:----------------|-------:|:---------------|:-------|---------:|
+|  0 | 1     |   12 | Jack Brabham     | Brabham-Repco   |     48 | 1:48:31.3      | 4      |        9 |
+|  1 | 2     |   22 | Mike Parkes      | Ferrari         |     48 | + 9.5          | 3      |        6 |
+|  2 | 3     |   14 | Denny Hulme      | Brabham-Repco   |     46 | + 2 laps       | 9      |        4 |
+|  3 | 4     |    6 | Jochen Rindt     | Cooper-Maserati |     46 | + 2 laps       | 5      |        3 |
+|  4 | 5     |   26 | Dan Gurney       | Eagle-Climax    |     45 | + 3 laps       | 14     |        2 |
+|  5 | 6     |   44 | John Taylor      | Brabham-BRM     |     45 | + 3 laps       | 15     |        1 |
+|  6 | 7     |   36 | Bob Anderson     | Brabham-Climax  |     44 | + 4 laps       | 12     |      nan |
+|  7 | 8     |    8 | Chris Amon       | Cooper-Maserati |     44 | + 4 laps       | 7      |      nan |
+|  8 | NC    |   42 | Guy Ligier       | Cooper-Maserati |     42 | Not Classified | 11     |      nan |
+|  9 | Ret   |    2 | Pedro Rodríguez | Lotus-Climax    |     40 | Oil Leak       | 13     |      nan |
+| 10 | NC    |   20 | Lorenzo Bandini  | Ferrari         |     37 | Not Classified | 1      |      nan |
+| 11 | NC    |   30 | Jo Bonnier       | Brabham-Climax  |     32 | Not Classified | 17     |      nan |
+| 12 | Ret   |   16 | Graham Hill      | BRM             |     13 | Engine         | 8      |      nan |
+| 13 | Ret   |   38 | Jo Siffert       | Cooper-Maserati |     10 | Fuel System    | 6      |      nan |
+| 14 | Ret   |   32 | Mike Spence      | Lotus-BRM       |      8 | Clutch         | 10     |      nan |
+| 15 | Ret   |   10 | John Surtees     | Cooper-Maserati |      5 | Fuel System    | 2      |      nan |
+| 16 | Ret   |    4 | Peter Arundell   | Lotus-BRM       |      3 | Gearbox        | 16     |      nan |
+| 17 | DNS   |    2 | Jim Clark        | Lotus-Climax    |    nan | Accident       | (18)   |      nan |
+===================Question===================
+which constructor scored the most points?
+===================Text===================
+<think>
+Okay, so I need to figure out which constructor scored the most points at the 1966 French Grand Prix based on this table. Let's see... First, I'll look through each row and note down the constructors and their corresponding points.
+
+Looking at the first few rows:
+
+- Jack Brabham (Brabham-Repco) got 9 points.
+- Mike Parkes (Ferrari) got 6 points.
+- Denny Hulme (Brabham-Repco) got 4 points.
+- Jochen Rindt (Cooper-Maserati) got 3 points.
+- Dan Gurney (Eagle-Climax) got 2 points.
+- John Taylor (Brabham-BRM) got 1 point.
+
+Now, I need to add up the points for each constructor. Let's list them:
+
+1. Brabham-Repco: Jack Brabham has 9 and Denny Hulme has 4. So that's 9 + 4 = 13 points.
+2. Ferrari: Mike Parkes has 6, Lorenzo Bandini didn't finish but got NC which I think doesn't give points. So only 6 points from Parkes.
+3. Cooper-Maserati: Jochen Rindt with 3 and Chris Amon without points (nan), so just 3 points.
+4. Eagle-Climax: Dan Gurney has 2, so total 2.
+5. Brabham-BRM: John Taylor with 1 point.
+6. Lotus-Climax: Pedro Rodríguez didn't finish, Jim Clark DNS, so no points.
+7. BRM: Graham Hill retired, no points.
+8. Lotus-BRM: Mike Spence and Peter Arundell both retired without points.
+
+So adding up all the constructors:
+
+- Brabham-Repco: 13
+- Ferrari: 6
+- Cooper-Maserati: 3
+- Eagle-Climax: 2
+- Brabham-BRM:1
+
+The rest have 0 or less. So Brabham-Repco clearly has the highest with 13 points.
+</think>
+
+Brabham-Repco scored the most points.
+
+Final Answer: Brabham-Repco
+===================Answer===================
+Brabham-Repco

@@ -1,0 +1,89 @@
+===================Title===================
+1994 NCAA Women's Division I Basketball Tournament
+===================Table===================
+|    | Conference       |   # of Bids | Record   | Win %   | Round\nof 32   | Sweet\nSixteen   | Elite\nEight   | Final\nFour   | Championship\nGame   |
+|---:|:-----------------|------------:|:---------|:--------|:---------------|:-----------------|:---------------|:--------------|:---------------------|
+|  0 | Southeastern     |           6 | 10–6     | .625    | 5              | 3                | 1              | 1             | –                    |
+|  1 | Big Ten          |           5 | 9–5      | .643    | 4              | 2                | 2              | 1             | –                    |
+|  2 | Pacific-10       |           5 | 8–5      | .615    | 4              | 2                | 2              | –             | –                    |
+|  3 | Southwest        |           4 | 5–4      | .556    | 3              | 2                | –              | –             | –                    |
+|  4 | Big Eight        |           4 | 3–4      | .429    | 2              | 1                | –              | –             | –                    |
+|  5 | Atlantic Coast   |           3 | 9–2      | .818    | 3              | 2                | 1              | 1             | 1                    |
+|  6 | Atlantic 10      |           3 | 1–3      | .250    | 1              | –                | –              | –             | –                    |
+|  7 | Sun Belt         |           2 | 6–2      | .750    | 2              | 1                | 1              | 1             | 1                    |
+|  8 | Big East         |           2 | 5–2      | .714    | 2              | 2                | 1              | –             | –                    |
+|  9 | Metro            |           2 | 2–2      | .500    | 1              | 1                | –              | –             | –                    |
+| 10 | Missouri Valley  |           2 | 2–2      | .500    | 2              | –                | –              | –             | –                    |
+| 11 | Big Sky          |           2 | 1–2      | .333    | 1              | –                | –              | –             | –                    |
+| 12 | Big West         |           2 | 0–2      | –       | –              | –                | –              | –             | –                    |
+| 13 | Great Midwest    |           2 | 0–2      | –       | –              | –                | –              | –             | –                    |
+| 14 | Mid-Continent    |           2 | 0–2      | –       | –              | –                | –              | –             | –                    |
+| 15 | West Coast       |           2 | 0–2      | –       | –              | –                | –              | –             | –                    |
+| 16 | Colonial         |           1 | 1–1      | .500    | 1              | –                | –              | –             | –                    |
+| 17 | Western Athletic |           1 | 1–1      | .500    | 1              | –                | –              | –             | –                    |
+===================Question===================
+how many teams wont at least 5 times?
+===================Text===================
+<think>
+Alright, I need to figure out how many teams won at least 5 times based on the given table for the "1994 NCAA Women's Division I Basketball Tournament." Let me go through this step by step.
+
+First, looking at the table columns: Each row represents a conference and shows the number of bids they had, their record (wins-losses), win percentage, and how far each team from that conference progressed in the tournament. The key here is to find out which conferences have teams with at least 5 wins. However, I need to clarify whether this refers to total season wins or just tournament wins. But since the table includes a "Record" column showing wins and losses, it's likely referring to their regular season performance.
+
+So, focusing on the "Record" column under the "Conference" section: Each team's record is listed as something like "10–6", which I assume means 10 wins and 6 losses. Therefore, I need to count how many conferences have teams with at least 5 wins in their regular season records.
+
+Let me list out each conference and their corresponding record:
+
+0 | Southeastern | 10–6  
+1 | Big Ten | 9–5  
+2 | Pacific-10 |8–5  
+3 | Southwest |5–4  
+4 | Big Eight |3–4  
+5 | Atlantic Coast |9–2  
+6 | Atlantic 10 |1–3  
+7 | Sun Belt |6–2  
+8 | Big East |5–2  
+9 | Metro |2–2  
+10 | Missouri Valley |2–2  
+11 | Big Sky |1–2  
+12 | Big West |0–2  
+13 | Great Midwest |0–2  
+14 | Mid-Continent |0–2  
+15 | West Coast |0–2  
+16 | Colonial |1–1  
+17 | Western Athletic |1–1  
+
+Now, I'll go through each record and check if the wins are 5 or more.
+
+Starting from the top:
+
+Southeastern: 10 wins. That's more than 5.
+Big Ten:9-5. 9 wins. More than 5.
+Pacific-10:8-5. 8 wins. Also over 5.
+Southwest:5-4. Exactly 5.
+Big Eight:3-4. Less than 5.
+Atlantic Coast:9-2. 9 wins, so yes.
+Atlantic 10:1–3. Only 1 win.
+Sun Belt:6–2. 6 is more than 5.
+Big East:5–2. Exactly 5.
+Metro:2–2. Less than 5.
+Missouri Valley:2–2. Less than 5.
+Big Sky:1–2. Less than 5.
+Big West:0–2. None.
+Great Midwest:0–2. None.
+Mid-Continent:0–2. None.
+West Coast:0–2. None.
+Colonial:1–1. Only 1 win.
+Western Athletic:1–1. Only 1.
+
+Now, the conferences that have at least 5 wins in their record are:
+
+Southeastern (10), Big Ten (9), Pacific-10 (8), Southwest (5), Atlantic Coast (9), Sun Belt (6), and Big East (5).
+
+So that's a total of 7 conferences where teams had at least 5 wins.
+
+Wait, let me recount: Southeastern, Big Ten, Pac-10, Southwest, ACC, Sun Belt, Big East. That makes seven.
+</think>
+
+Final Answer: 7
+===================Answer===================
+6

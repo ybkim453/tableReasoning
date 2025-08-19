@@ -1,0 +1,53 @@
+===================Title===================
+Przemysław Czerwiński
+===================Table===================
+|    |   Year | Competition                   | Venue                      | Position   | Notes   |
+|---:|-------:|:------------------------------|:---------------------------|:-----------|:--------|
+|  0 |   1999 | World Youth Championships     | Bydgoszcz, Poland          | 13th (q)   | 4.60 m  |
+|  1 |   2001 | European Junior Championships | Grosseto, Italy            | 7th        | 5.15 m  |
+|  2 |   2002 | World Junior Championships    | Kingston, Jamaica          | 8th        | 5.30 m  |
+|  3 |   2003 | European U23 Championships    | Bydgoszcz, Poland          | 13th (q)   | 5.20 m  |
+|  4 |   2005 | European U23 Championships    | Erfurt, Germany            | 7th        | 5.50 m  |
+|  5 |   2005 | Universiade                   | Izmir, Turkey              | 5th        | 5.50 m  |
+|  6 |   2006 | World Indoor Championships    | Moscow, Russia             | 10th (q)   | 5.65 m  |
+|  7 |   2006 | European Championships        | Gothenburg, Sweden         | 5th        | 5.65 m  |
+|  8 |   2007 | European Indoor Championships | Birmingham, United Kingdom | 16th (q)   | 5.40 m  |
+|  9 |   2008 | Olympic Games                 | Beijing, China             | 11th       | 5.45 m  |
+| 10 |   2010 | European Championships        | Barcelona, Spain           | 3rd        | 5.75 m  |
+| 11 |   2012 | European Championships        | Helsinki, Finland          | –          | NM      |
+===================Question===================
+how many times was a position of at least 10th place or better earned?
+===================Text===================
+<think>
+Okay, so I need to figure out how many times Przemysław Czerwiński earned a position of at least 10th place or better based on the table provided. Let me go through each row one by one.
+
+Starting with the first entry in 1999: he was 13th (q) with a jump of 4.60m. The (q) probably stands for qualifying round, but regardless, 13th is worse than 10th, so that doesn't count.
+
+Next, in 2001 at the European Junior Championships, he placed 7th. That's better than 10th, so that's one.
+
+In 2002, World Junior Championships: 8th place. Also better than 10th, that's two now.
+
+2003 European U23 Championships: 13th (q). Again, worse than 10th, so no count.
+
+Moving to 2005, first at the European U23 Championships with a 7th position. That's three.
+
+Same year, Universiade: 5th place. Four counts now.
+
+In 2006, World Indoor Championships: 10th (q). Exactly 10th, which is within our criteria, so that's five.
+
+Then in the same year, European Championships: 5th place. That makes six.
+
+2007 at the European Indoor Championships: 16th (q). Worse than 10th, so no count.
+
+In 2008, Olympic Games: 11th place. Slightly below 10th, so that doesn't add to our total.
+
+2010 European Championships: He got bronze with a 3rd position. Definitely better than 10th, making it seven.
+
+Finally, in 2012: It shows a dash under Position and "NM" in Notes. I'm not sure what NM stands for, but typically in athletics, NM might mean "No Mark," which could imply he didn't clear any height or didn't participate further. So maybe he didn't place at all here.
+
+So adding them up: 2001 (7th), 2002 (8th), 2005 U23 (7th), 2005 Universiade (5th), 2006 Indoor (10th), 2006 European (5th), and 2010 (3rd). That's a total of seven times he placed at least 10th or better.
+</think>
+
+Final Answer: 7
+===================Answer===================
+7

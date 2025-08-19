@@ -1,0 +1,110 @@
+===================Title===================
+Cold Blank
+===================Table===================
+|    | Single / EP                         | Tracks                                                                                              | Label              |   Year | Album      |
+|---:|:------------------------------------|:----------------------------------------------------------------------------------------------------|:-------------------|-------:|:-----------|
+|  0 | Your Love Is Electric               | Your Love Is Electric                                                                               | Burn The Fire      |   2009 | —          |
+|  1 | Fresh Attire Vol. 3                 | Crush Groovin'                                                                                      | Wearhouse Music    |   2009 | —          |
+|  2 | Left To Right                       | Left To Right                                                                                       | Destination?       |   2009 | —          |
+|  3 | Breakdown                           | Breakdown                                                                                           | Burn The Fire      |   2009 | —          |
+|  4 | Doin' It Right                      | Doin' It Right                                                                                      | Burn The Fire      |   2009 | —          |
+|  5 | Los Angeles                         | Los Angeles\nLos Angeles feat. Whiskey Pete (Clean Mix)\nLos Angeles feat. Whiskey Pete (Dirty Mix) | Burn The Fire      |   2010 | The Agenda |
+|  6 | Dutchie                             | Dutchie                                                                                             | Burn The Fire      |   2010 | —          |
+|  7 | Ghetto Ass Bitches                  | Ghetto Ass Bitches                                                                                  | Burn The Fire      |   2010 | —          |
+|  8 | Hot & Cold                          | Overdose                                                                                            | Burn The Fire      |   2010 | —          |
+|  9 | The Flying Cat                      | The Flying Cat                                                                                      | Burn The Fire      |   2010 | —          |
+| 10 | Rave To The Grave                   | Raver Booty\nShuffle                                                                                | Burn The Fire      |   2010 | —          |
+| 11 | Those Who From Heaven To Earth Came | The Lizard King\nAnnunaki                                                                           | Burn The Fire      |   2010 | —          |
+| 12 | Still Smoking                       | Nasty & Gaspar Still Smoking                                                                        | Burn The Fire      |   2010 | —          |
+| 13 | The Thirteenth Skull                | The Thirteenth Skull                                                                                | Burn The Fire      |   2010 | —          |
+| 14 | Die Famous                          | Die Famous                                                                                          | Burn The Fire      |   2011 | —          |
+| 15 | Redroid                             | Redroid                                                                                             | Temple Music Group |   2011 | —          |
+| 16 | Ancient Psychic Tandem War Elephant | Ancient Psychic Tandem War Elephant                                                                 | Burn The Fire      |   2011 | —          |
+| 17 | 2012 – Remix Contest EP             | 2012 (Remastered)                                                                                   | Burn The Fire      |   2012 | The Agenda |
+| 18 | Louder Than Bombs                   | Louder Than Bombs                                                                                   | Burn The Fire      |   2012 | The Agenda |
+| 19 | Deception                           | Deception                                                                                           | Burn The Fire      |   2012 | The Agenda |
+| 20 | Onslaught                           | Onslaught                                                                                           | Burn The Fire      |   2012 | The Agenda |
+| 21 | Drop Bears                          | Drop Bears                                                                                          | Burn The Fire      |   2013 | —          |
+| 22 | Hyped                               | Hyped                                                                                               | Vicious            |   2014 | —          |
+===================Question===================
+which year had the most releases?
+===================Text===================
+<think>
+Alright, so I need to figure out which year had the most releases based on this table about Cold Blank. Let me start by understanding the data presented.
+
+First, looking at the columns: there's Single/EP, Tracks, Label, Year, and Album. Each row represents a release. My task is to count how many entries each year has because that will show which year was the most productive in terms of releases.
+
+I'll go through each row one by one and note down the years and their counts. Let's see:
+
+Row 0: Year 2009
+Row 1: Year 2009
+Row 2: Year 2009
+Row 3: Year 2009
+Row 4: Year 2009
+Row 5: Year 2010, but wait, this one is associated with the album "The Agenda". I think each row counts as one release regardless of the album it's linked to. So this is still one release in 2010.
+Row 6: Year 2010
+Row 7: Year 2010
+Row 8: Year 2010
+Row 9: Year 2010
+Row10: Year 2010
+Row11: Year 2010
+Row12: Year 2010
+Row13: Year 2010
+That's a lot for 2010. Let me count how many that is up to now.
+
+From rows 5 to 13, that's 9 entries for 2010 already, but wait, let me recount all.
+
+Wait, actually, each row from 0 to 22 is individual releases. So I need to go through each one and tally the years.
+
+Let me list them:
+
+Row 0: 2009
+Row1: 2009
+Row2: 2009
+Row3: 2009
+Row4: 2009
+Row5: 2010
+Row6: 2010
+Row7: 2010
+Row8: 2010
+Row9: 2010
+Row10:2010
+Row11:2010
+Row12:2010
+Row13:2010
+Row14:2011
+Row15:2011
+Row16:2011
+Row17:2012
+Row18:2012
+Row19:2012
+Row20:2012
+Row21:2013
+Row22:2014
+
+Now, let's count each year.
+
+2009: Rows 0-4 → 5 releases.
+2010: Rows5-13 → that's rows 5 to13 inclusive. Let me count: row5 is 1, then up to row13 is 9 more? Wait, no: from row5 (first 2010) to row13 (inclusive). So that's row5,6,7,8,9,10,11,12,13 → total of 9 releases in 2010.
+
+Wait, let me recount. From row5 to row13 is 9 rows: yes, because 13-5+1 =9.
+
+Then 2011 has rows14,15,16: that's three releases.
+2012: rows17,18,19,20 → four releases.
+2013: row21 → one release.
+2014: row22 → one release.
+
+So the counts are:
+2009:5
+2010:9
+2011:3
+2012:4
+2013:1
+2014:1
+
+So 2010 has the highest number of releases with 9. Therefore, the year with the most releases is 2010.
+</think>
+
+Final Answer: 2010
+===================Answer===================
+2010

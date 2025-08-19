@@ -1,0 +1,28 @@
+===================Title===================
+Television stations in Chiapas
+===================Table===================
+|    | Network name           | Flagship   | Programming type                     | Owner                          |   Affiliates |
+|---:|:-----------------------|:-----------|:-------------------------------------|:-------------------------------|-------------:|
+|  0 | Canal de las Estrellas | XEW 2      | soap operas, retro movies and sports | Televisa                       |           10 |
+|  1 | Canal 5                | XHGC 5     | cartoons, movies, and series         | Televisa                       |            4 |
+|  2 | Azteca 7               | XHIMT 7    | sports, series, and movies           | TV Azteca                      |            5 |
+|  3 | Galavisión            | XEQ 9      | retro programming and sports         | Televisa                       |            1 |
+|  4 | TV 10 Chiapas          | XHTTG      | educational                          | Gobierno del Estado de Chiapas |            7 |
+|  5 | Azteca 13              | XHDF 13    | news, soap operas, and sports        | TV Azteca                      |            4 |
+|  6 | Independent            | nan        | varies                               | Independent                    |            3 |
+===================Question===================
+is canal de las estrella affiliates more or less than 8?
+===================Text===================
+<think>
+Okay, I need to figure out whether Canal de las Estrellas has more or fewer affiliates than 8 based on the provided table.
+
+First, I'll look at each row in the table and find the one that mentions "Canal de las Estrellas". Scanning through the Network name column, I see that it's the first entry, index 0. 
+
+Now, looking at the Affiliates column for this network, the value is 10. So, Canal de las Estrellas has 10 affiliates.
+
+The question is asking if this number is more or less than 8. Since 10 is greater than 8, it means they have more affiliates.
+</think>
+
+Final Answer: more
+===================Answer===================
+More

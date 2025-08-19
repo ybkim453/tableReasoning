@@ -1,0 +1,46 @@
+===================Title===================
+2005 Australia national football team season
+===================Table===================
+|    | Player       | Friendlies   | FIFA Confederations Cup   | FIFA World Cup Qual.   |   Total Goals |
+|---:|:-------------|:-------------|:--------------------------|:-----------------------|--------------:|
+|  0 | Aloisi       | 1            | 4                         | -                      |             5 |
+|  1 | Bresciano    | 2            | -                         | 1                      |             3 |
+|  2 | Thompson     | 1            | -                         | 2                      |             3 |
+|  3 | Viduka       | 1            | -                         | 2                      |             3 |
+|  4 | Chipperfield | 1            | -                         | 1                      |             2 |
+|  5 | Emerton      | -            | -                         | 2                      |             2 |
+|  6 | Milicic      | 2            | -                         | -                      |             2 |
+|  7 | Cahill       | -            | -                         | 1                      |             1 |
+|  8 | Colosimo     | 1            | -                         | -                      |             1 |
+|  9 | Culina       | -            | -                         | 1                      |             1 |
+| 10 | Elrich       | 1            | -                         | -                      |             1 |
+| 11 | Griffiths    | 1            | -                         | -                      |             1 |
+| 12 | Skoko        | -            | 1                         | -                      |             1 |
+| 13 | Zdrilic      | 1            | -                         | -                      |             1 |
+===================Question===================
+add up the total number of goals scored by chipperfield and viduka.
+===================Text===================
+<think>
+Alright, so I need to figure out how many goals Chipperfield and Viduka scored in total based on this table. Let me look at each step carefully.
+
+First, I should locate both players in the table. The table lists 14 players with their respective goal counts in different tournaments. Each row corresponds to a player, their friendlies, FIFA Confederations Cup, FIFA World Cup Qualifiers, and then the total goals they scored overall.
+
+Starting with Chipperfield. His name is listed as "Chipperfield" at index 4 (since indexing starts at 0). Looking at his Total Goals column, it shows a value of 2. So that's straightforward—Chipperfield scored 2 goals in total.
+
+Next, Viduka is listed at index 3. Under the Total Goals for him, I see he also has 3 goals. That's clear as well.
+
+Now, to add them up: Chipperfield with 2 goals and Viduka with 3 goals. So adding those together, 2 + 3 equals 5. 
+
+I should double-check to make sure I didn't misread the table or confuse any numbers. Let me confirm:
+
+- Chipperfield's Total Goals: 2
+- Viduka's Total Goals: 3
+
+Adding them gives 5. That seems correct. There's no need to look into the other columns unless the question had asked for specific tournaments, but since it just asks for their total goals combined, adding these two numbers should suffice.
+
+I don't think I made a mistake here, so the final answer is 5.
+</think>
+
+Final Answer: 5
+===================Answer===================
+5

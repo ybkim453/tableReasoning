@@ -1,0 +1,66 @@
+===================Title===================
+Last Hero 3
+===================Table===================
+|    | Contestant                              | Original Tribe   | Switched Tribe   | Merged Tribe   | Finish                                  |   Total Votes |
+|---:|:----------------------------------------|:-----------------|:-----------------|:---------------|:----------------------------------------|--------------:|
+|  0 | Yelena Kondulaynen\n44.the actress      | Pelicans         | nan              | nan            | 1st Voted Out\nDay 3                    |             5 |
+|  1 | Kris Kelmi\n47.the singer               | Barracudas       | nan              | nan            | 2nd Voted Out\nDay 6                    |             1 |
+|  2 | Aleksandr Pashutin\n60.the actor        | Barracudas       | nan              | nan            | 3rd Voted Out\nDay 9                    |             7 |
+|  3 | Igor' Livanov\n49.the actor             | Pelicans         | nan              | nan            | Eliminated\nDay 11                      |             0 |
+|  4 | Dana Borisova\n26.the TV presenter      | Pelicans         | Barracudas       | nan            | 4th Voted Out\nDay 12                   |             5 |
+|  5 | Aleksandr Byalko\n50.the physicist      | Pelicans         | Barracudas       | nan            | 5th Voted Out\nDay 15                   |             6 |
+|  6 | Tatyana Dogileva\n45.the actress        | Pelicans         | Barracudas       | nan            | 6th Voted Out\nDay 18                   |             3 |
+|  7 | Tat'yana Ovsiyenko\n36.the singer       | Barracudas       | Pelicans         | nan            | Eliminated\nDay 19                      |             1 |
+|  8 | Viktor Gusev\n47.the sport commentator  | Pelicans         | Pelicans         | Crocodiles     | 7th Voted Out\n1st Jury Member\nDay 21  |             6 |
+|  9 | Ivan Demidov\n39.the TV presenter       | Barracudas       | Pelicans         | Crocodiles     | Eliminated\n2nd Jury Member\nDay 23     |             3 |
+| 10 | Yelena Proklova\n49.the TV presenter    | Pelicans         | Barracudas       | Crocodiles     | 8th Voted Out\n3rd Jury Member\nDay 24  |             4 |
+| 11 | Marina Aleksandrova\n20.the actress     | Barracudas       | Pelicans         | Crocodiles     | 9th Voted Out\n4th Jury Member\nDay 27  |             6 |
+| 12 | Ivar Kalnynsh\n54.the actor             | nan              | nan              | Crocodiles     | 10th Voted Out\n5th Jury Member\nDay 30 |             3 |
+| 13 | Vera Glagoleva\n46.the actress          | nan              | nan              | Crocodiles     | 11th Voted Out\n6th Jury Member\nDay 33 |             4 |
+| 14 | Larisa Verbitskaya\n43.the TV presenter | Barracudas       | Pelicans         | Crocodiles     | 12th Voted Out\n7th Jury Member\nDay 36 |            11 |
+| 15 | Aleksandr Lykov\n41.the actor           | Barracudas       | Barracudas       | Crocodiles     | 13th Voted Out\n8th Jury Member\nDay 37 |             6 |
+| 16 | Olga Orlova\n25.the singer              | Barracudas       | Baracudas        | Crocodiles     | Eliminated\n9th Jury Member\nDay 38     |            10 |
+| 17 | Yelena Perova\n26.the singer            | Pelicans         | Pelicans         | Crocodiles     | Runner-Up                               |             2 |
+| 18 | Vladimir Presnyakov, Jr.\n34.the singer | Pelicans         | Pelicans         | Crocodiles     | Sole Survivor                           |             6 |
+===================Question===================
+how many contestants did not receive any votes?
+===================Text===================
+<think>
+Alright, let's tackle this problem step by step. I'm being asked how many contestants didn't receive any votes based on the provided table from "Last Hero 3." 
+
+First, I need to understand the structure of the table. It has several columns: an index, Contestant names with their profession and age, Original Tribe, Switched Tribe, Merged Tribe, Finish, and Total Votes. The key here is the "Total Votes" column since the question is about contestants who didn't receive any votes.
+
+So, my goal is to go through each row of the table and count how many times the "Total Votes" are zero because that would indicate a contestant who didn't get any votes.
+
+Looking at the data:
+
+- Index 0: Yelena Kondulaynen with 5 votes.
+- Index 1: Kris Kelmi with 1 vote.
+- Index 2: Aleksandr Pashutin with 7 votes.
+- Index 3: Igor' Livanov with 0 votes. This is the first contestant without any votes.
+- Index 4: Dana Borisova with 5 votes.
+- Index 5: Aleksandr Byalko with 6 votes.
+- Index 6: Tatyana Dogileva with 3 votes.
+- Index 7: Tat'yana Ovsiyenko with 1 vote.
+- Index 8: Viktor Gusev with 6 votes.
+- Index 9: Ivan Demidov with 3 votes.
+- Index 10: Yelena Proklova with 4 votes.
+- Index 11: Marina Aleksandrova with 6 votes.
+- Index 12: Ivar Kalnynsh with 3 votes.
+- Index 13: Vera Glagoleva with 4 votes.
+- Index 14: Larisa Verbitskaya with 11 votes.
+- Index 15: Aleksandr Lykov with 6 votes.
+- Index 16: Olga Orlova with 10 votes.
+- Index 17: Yelena Perova with 2 votes.
+- Index 18: Vladimir Presnyakov, Jr. with 6 votes.
+
+Now, I scan through the "Total Votes" column to find any zeros. From what I can see, only one contestant has a zero in that column: Igor' Livanov at index 3. 
+
+Wait, let me double-check each row to make sure I didn't miss anyone else with zero votes. Indexes 0 to 18 all have non-zero values except for index 3. So, it seems like only one contestant didn't receive any votes.
+
+Therefore, the number of contestants who did not receive any votes is just Igor' Livanov.
+</think>
+
+Final Answer: 1
+===================Answer===================
+1

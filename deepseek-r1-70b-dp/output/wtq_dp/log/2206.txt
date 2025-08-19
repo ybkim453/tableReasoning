@@ -1,0 +1,40 @@
+===================Title===================
+Primeval Beech Forests of the Carpathians and the Ancient Beech Forests of Germany
+===================Table===================
+|    |   # | Massif                     | Region                 | Type of nature reserve           | Preserved area   | Buffer zone   |
+|---:|----:|:---------------------------|:-----------------------|:---------------------------------|:-----------------|:--------------|
+|  0 |   1 | Chornohora                 | Zakarpattia            | Carpathian Biosphere Reserve     | 2476.8 ha        | 12925 ha      |
+|  1 |   2 | Uholka / Wide Meadow       | Zakarpattia            | Carpathian Biosphere Reserve     | 11860 ha         | 3301 ha       |
+|  2 |   3 | Svydovets                  | Zakarpattia            | Carpathian Biosphere Reserve     | 3030.5 ha        | 5639.5 ha     |
+|  3 |   4 | Maramoros                  | Zakarpattia            | Carpathian Biosphere Reserve     | 2243.6 ha        | 6230.4 ha     |
+|  4 |   5 | Kuziy / Trybushany         | Zakarpattia            | Carpathian Biosphere Reserve     | 1369.6 ha        | 3163.4 ha     |
+|  5 |   6 | Stuzhytsia / Uzhok         | Zakarpattia            | Uzh National Nature Park         | 2532 ha          | 3615 ha       |
+|  6 |   7 | Stužica / Bukovské vrchy | Presov                 | Poloniny National Park           | 2950 ha          | 11300 ha      |
+|  7 |   8 | Rožok                     | Presov                 | Presov Preserved areas           | 67.1 ha          | 41.4 ha       |
+|  8 |   9 | Vihorlat                   | Presov                 | Presov Preserved areas           | 2578 ha          | 2413 ha       |
+|  9 |  10 | Havešová                 | Presov                 | Presov Preserved areas           | 171.3 ha         | 63.9 ha       |
+| 10 |  11 | Jasmund                    | Mecklenburg-Vorpommern | Jasmund National Park            | 492.5 ha         | 2510.5 ha     |
+| 11 |  12 | Serrahn                    | Mecklenburg-Vorpommern | Müritz National Park            | 268.1 ha         | 2568 ha       |
+| 12 |  13 | Grumsiner Forest           | Brandenburg            | Grumsiner Forest Nature Reserve  | 590.1 ha         | 274.3 ha      |
+| 13 |  14 | Hainich                    | Thuringia              | Hainich National Park            | 1573.4 ha        | 4085.4 ha     |
+| 14 |  15 | Kellerwald                 | Hesse                  | Kellerwald-Edersee National Park | 1467.1 ha        | 4271.4 ha     |
+===================Question===================
+name a forest that covers at least 3000 ha.
+===================Text===================
+<think>
+Okay, so I need to find a forest from the given table that covers at least 3000 hectares. Let me look through each row and check the "Preserved area" column.
+
+Starting with the first entry, Chornohora has 2476.8 ha, which is less than 3000. Next, Uholka / Wide Meadow shows 11860 ha — that's way more than 3000. Then Svydovets is 3030.5 ha, which just barely makes it over 3000.
+
+Maramoros has 2243.6 ha, so under. Kuziy / Trybushany is 1369.6, also under. Stuzhytsia / Uzhok is 2532, still under. Moving on to the next region, Stužica / Bukovské vrchy has a preserved area of 2950 ha, which is close but not quite 3000.
+
+Rožok and Vihorlat are both in the same Presov region with 67.1 and 2578 respectively, so no. Havešová is only 171.3 ha. Jasmund has 492.5, Serrahn 268.1 — these are all too small.
+
+Grumsiner Forest is 590.1, still under. Hainich is 1573.4 and Kellerwald is 1467.1, both below 3000.
+
+So the ones that meet or exceed 3000 ha are Uholka/Wide Meadow with 11860 ha and Svydovets with 3030.5 ha.
+</think>
+
+Final Answer: Uholka / Wide Meadow, Svydovets
+===================Answer===================
+Uholka / Wide Meadow

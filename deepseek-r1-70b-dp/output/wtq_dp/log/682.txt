@@ -1,0 +1,47 @@
+===================Title===================
+Henry J. Kaiser-class oiler
+===================Table===================
+|    | Ship               | Hull No.   | Status                                                                                                                                                                                                                                      | Years Active                                     | NVR\nPage   |
+|---:|:-------------------|:-----------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------|:------------|
+|  0 | Henry J. Kaiser    | T-AO-187   | Active—Southern California Duty Oiler                                                                                                                                                                                                       | 1986–present                                     | AO187       |
+|  1 | Joshua Humphreys   | T-AO-188   | Inactivated 1996, returned to service 2005                                                                                                                                                                                                  | 1987-1996; 2005-2006; 2010-present               | AO188       |
+|  2 | John Lenthall      | T-AO-189   | Active                                                                                                                                                                                                                                      | 1987-1996; 1998–present                          | AO189       |
+|  3 | Andrew J. Higgins  | T-AO-190   | Inactivated May 1996. Sold to the Chilean Navy May 2009. Towed to Atlantic Marine Alabama shipyard, Mobile, Alabama, September 2009 for three-month refit. Commissioned in Chilean Navy on 10 February 2010 and renamed Almirante Montt.[1] | 1987-1996 (USA); 2010–present (Chile)            | AO190       |
+|  4 | Benjamin Isherwood | T-AO-191   | Cancelled when 95.3% complete,\ntransferred to the Maritime Administration,\nlaid up in the James River Reserve Fleet,\nscrapped in 2011                                                                                                    | Launched 1988, christened 1991, never in service | AO191       |
+|  5 | Henry Eckford      | T-AO-192   | Cancelled when 84% complete,\ntransferred to the Maritime Administration,\nlaid up in the James River Reserve Fleet,\nscrapped in 2011                                                                                                      | Launched 1989, never in service                  | AO192       |
+|  6 | Walter S. Diehl    | T-AO-193   | Active                                                                                                                                                                                                                                      | 1988–present                                     | AO193       |
+|  7 | John Ericsson      | T-AO-194   | Active                                                                                                                                                                                                                                      | 1991–present                                     | AO194       |
+|  8 | Leroy Grumman      | T-AO-195   | Active                                                                                                                                                                                                                                      | 1989–present                                     | AO195       |
+|  9 | Kanawha            | T-AO-196   | Active                                                                                                                                                                                                                                      | 1991–present                                     | AO196       |
+| 10 | Pecos              | T-AO-197   | Active                                                                                                                                                                                                                                      | 1990–present                                     | AO197       |
+| 11 | Big Horn           | T-AO-198   | Active                                                                                                                                                                                                                                      | 1992–present                                     | AO198       |
+| 12 | Tippecanoe         | T-AO-199   | Active                                                                                                                                                                                                                                      | 1993–present                                     | AO199       |
+| 13 | Guadalupe          | T-AO-200   | Active                                                                                                                                                                                                                                      | 1992–present                                     | AO200       |
+| 14 | Patuxent           | T-AO-201   | Active                                                                                                                                                                                                                                      | 1995–present                                     | AO201       |
+| 15 | Yukon              | T-AO-202   | Active                                                                                                                                                                                                                                      | 1994–present                                     | AO202       |
+| 16 | Laramie            | T-AO-203   | Active                                                                                                                                                                                                                                      | 1996–present                                     | AO203       |
+| 17 | Rappahannock       | T-AO-204   | Active                                                                                                                                                                                                                                      | 1995–present                                     | AO204       |
+===================Question===================
+how many ships were never in service?
+===================Text===================
+<think>
+Alright, let me try to figure out how to determine which ships were never in service based on the provided table.
+
+First, I'll go through each row of the table and look at the "Status" column because that's where it will say whether a ship was active or not. I'm specifically looking for any mention that a ship was never in service.
+
+Starting from the top:
+
+- Row 0: Henry J. Kaiser (T-AO-187) is active, so it was definitely in service.
+- Row 1: Joshua Humphreys (T-AO-188) has multiple periods of activity, so it was in service.
+- Row 2: John Lenthall (T-AO-189) is active now and had some service before, so in service.
+- Row 3: Andrew J. Higgins (T-AO-190) was inactivated but later sold to Chile, so it did serve for a time.
+- Row 4: Benjamin Isherwood (T-AO-191). The Status says "Cancelled when 95.3% complete, transferred to Maritime Administration, laid up, scrapped in 2011." Also, the Years Active say "Launched 1988, christened 1991, never in service." So this ship was never in service.
+- Row 5: Henry Eckford (T-AO-192). Status says it was cancelled at 84% complete, transferred, laid up, and scrapped. The Years Active note it as "Launched 1989, never in service." So this one also wasn't ever in service.
+- Rows 6 to 17 all show ships that are active with various years of service listed, so they were all in service at some point.
+
+So from the table, only two ships (Benjamin Isherwood and Henry Eckford) were never in service. Therefore, the number is 2.
+</think>
+
+Final Answer: 2
+===================Answer===================
+2

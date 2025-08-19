@@ -1,0 +1,44 @@
+===================Title===================
+Bexar County, Texas
+===================Table===================
+|    | Representative        | Party   | Home Town/City   |   District |
+|---:|:----------------------|:--------|:-----------------|-----------:|
+|  0 | Trey Martinez Fischer | D       | San Antonio      |        116 |
+|  1 | Philip Cortez         | D       | San Antonio      |        117 |
+|  2 | Joe Farias            | D       | San Antonio      |        118 |
+|  3 | Roland Gutierrez      | D       | San Antonio      |        119 |
+|  4 | Ruth McClendon        | D       | San Antonio      |        120 |
+|  5 | Joe Straus            | R       | San Antonio      |        121 |
+|  6 | Lyle Larson           | R       | San Antonio      |        122 |
+|  7 | Mike Villarreal       | D       | San Antonio      |        123 |
+|  8 | Jose Menendez         | D       | San Antonio      |        124 |
+|  9 | Justin Rodriguez      | D       | San Antonio      |        125 |
+===================Question===================
+who are the only two representatives to not be democrats?
+===================Text===================
+<think>
+Alright, so I need to figure out who the only two representatives from Bexar County, Texas, are that aren't Democrats. Let me start by looking at the table provided.
+
+First, I see there's a column for "Party" which indicates each representative's political affiliation. My goal is to scan through this column and identify which ones are not marked as "D," since D stands for Democrat. 
+
+Looking at each row one by one:
+
+- Trey Martinez Fischer: Party is D → Democrat.
+- Philip Cortez: D → Democrat.
+- Joe Farias: D → Democrat.
+- Roland Gutierrez: D → Democrat.
+- Ruth McClendon: D → Democrat.
+- Joe Straus: R → Republican. Okay, that's the first non-Democrat.
+- Lyle Larson: R → Another Republican. That makes two.
+- Mike Villarreal: D → Back to Democrats.
+- Jose Menendez: D → Democrat.
+- Justin Rodriguez: D → Democrat.
+
+So, only Joe Straus and Lyle Larson are Republicans here. No other parties are listed in the table. Therefore, they must be the only two representatives who aren't Democrats.
+</think>
+
+The two representatives from Bexar County, Texas, that are not Democrats are Joe Straus and Lyle Larson.
+
+Final Answer: Joe Straus, Lyle Larson
+===================Answer===================
+Joe Straus,Lyle Larson

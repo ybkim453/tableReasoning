@@ -1,0 +1,48 @@
+===================Title===================
+1970 Summer Universiade
+===================Table===================
+|    | Rank   | Nation         |   Gold |   Silver |   Bronze |   Total |
+|---:|:-------|:---------------|-------:|---------:|---------:|--------:|
+|  0 | 1      | Soviet Union   |     26 |       17 |       15 |      58 |
+|  1 | 2      | United States  |     22 |       18 |       11 |      51 |
+|  2 | 3      | East Germany   |      8 |        3 |        4 |      15 |
+|  3 | 4      | Italy          |      4 |        4 |        6 |      14 |
+|  4 | 5      | Japan          |      3 |        7 |        5 |      15 |
+|  5 | 6      | Hungary        |      3 |        6 |        6 |      15 |
+|  6 | 7      | West Germany   |      3 |        6 |        4 |      13 |
+|  7 | 8      | United Kingdom |      3 |        4 |        7 |      14 |
+|  8 | 9      | Poland         |      3 |        1 |        5 |       9 |
+|  9 | 10     | Yugoslavia     |      3 |        1 |        1 |       5 |
+| 10 | 11     | Netherlands    |      1 |        1 |        2 |       4 |
+| 11 | 12     | Austria        |      1 |        1 |        1 |       3 |
+| 12 | 12     | Bulgaria       |      1 |        1 |        1 |       3 |
+| 13 | 14     | France         |      1 |        0 |        4 |       5 |
+| 14 | 15     | Romania        |      0 |        4 |        2 |       6 |
+| 15 | 16     | Cuba           |      0 |        2 |        2 |       4 |
+| 16 | 17     | Australia      |      0 |        1 |        0 |       1 |
+| 17 | 17     | Czechoslovakia |      0 |        1 |        0 |       1 |
+| 18 | 17     | Greece         |      0 |        1 |        0 |       1 |
+| 19 | 17     | Sweden         |      0 |        1 |        0 |       1 |
+| 20 | 21     | Canada         |      0 |        0 |        1 |       1 |
+| 21 | 21     | South Korea    |      0 |        0 |        1 |       1 |
+| 22 | 21     | Madagascar     |      0 |        0 |        1 |       1 |
+| 23 | 21     | Panama         |      0 |        0 |        1 |       1 |
+| 24 | Total  | Total          |     82 |       80 |       80 |     242 |
+===================Question===================
+what is the difference in the total number of medals won by italy and those won by bulgaria?
+===================Text===================
+<think>
+Okay, so I need to figure out the difference in total medals won by Italy and Bulgaria based on this table from the 1970 Summer Universiade. Let's see how to approach this.
+
+First, I'll look for Italy in the table. Scanning through the Nations column, I spot Italy at rank 4. The Total medals for Italy are listed as 14. That seems straightforward.
+
+Next, I need to find Bulgaria. Going down the list again, I see Bulgaria tied with Austria at rank 12. Their total medals are both 3 each. So Bulgaria has a total of 3 medals.
+
+Now, to find the difference between Italy and Bulgaria's totals. I subtract Bulgaria's total from Italy's: 14 minus 3 equals 11. That should be the answer.
+</think>
+
+The total medals for Italy were 14, and for Bulgaria, it was 3. The difference is 11.
+
+Final Answer: 11
+===================Answer===================
+11

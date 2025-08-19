@@ -1,0 +1,48 @@
+===================Title===================
+2005–06 FIS Ski Jumping World Cup
+===================Table===================
+|    |   Rank | Name             | Nationality   |   1st (m) |   2nd (m) |   Points |
+|---:|-------:|:-----------------|:--------------|----------:|----------:|---------:|
+|  0 |      1 | Matti Hautamäki | FIN           |     132   |     131.5 |    274.3 |
+|  1 |      2 | Tami Kiuru       | FIN           |     128.5 |     130.5 |    264.7 |
+|  2 |      3 | Janne Ahonen     | FIN           |     127   |     130.5 |    264   |
+|  3 |      4 | Adam Małysz      | POL           |     127   |     130.5 |    261.5 |
+|  4 |      5 | Andreas Kofler   | AUT           |     126.5 |     132   |    261.3 |
+|  5 |     11 | Jakub Janda      | CZE           |     123.5 |     128.5 |    252.6 |
+===================Question===================
+who had less points than adam malysz?
+===================Text===================
+<think>
+Okay, so I need to figure out who had fewer points than Adam Małysz in the 2005–06 FIS Ski Jumping World Cup based on the given table. Let me start by understanding the table structure.
+
+Looking at the table, each row represents a skier with their rank, name, nationality, two measurements (1st and 2nd in meters), and total points. The key here is to compare each skier's points against Adam Małysz's points.
+
+First, I'll locate Adam Małysz. He is ranked 4th, so that's the fourth row. His points are listed as 261.5. Now, I need to look at all the other skiers and see who has fewer than 261.5 points.
+
+Starting from the top:
+
+1. Matti Hautamäki is first with 274.3 points, which is more than Adam's.
+2. Tami Kiuru is second with 264.7, still higher than 261.5.
+3. Janne Ahonen is third with exactly 264 points. Wait, that's still above 261.5 because 264 is higher than 261.5? No, wait: 264 is more than 261.5, so he has more. So Adam is fourth.
+
+Moving on:
+
+4. Andreas Kofler is fifth with 261.3 points. Hmm, 261.3 is less than 261.5 because 0.2 difference. So Andreas Kofler has fewer points.
+   
+5. Jakub Janda is 11th with 252.6 points, which is definitely lower than Adam's 261.5.
+
+So the skiers who have fewer points than Adam Małysz are Andreas Kofler and Jakub Janda. Are there any others? Let me check again:
+
+- Matti: higher
+- Tami: higher
+- Janne: higher (264 > 261.5)
+- Adam: same as himself, so not counted.
+- Andreas: lower (261.3 < 261.5)
+- Jakub: lower.
+
+So only two skiers have less than Adam's points in this table.
+</think>
+
+Final Answer: Andreas Kofler, Jakub Janda
+===================Answer===================
+Andreas Kofler,Jakub Janda

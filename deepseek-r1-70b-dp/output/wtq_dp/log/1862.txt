@@ -1,0 +1,78 @@
+===================Title===================
+Mao Inoue
+===================Table===================
+|    |   Year | Organization                             | Award                   | Work                                    | Result    |
+|---:|-------:|:-----------------------------------------|:------------------------|:----------------------------------------|:----------|
+|  0 |   2005 | 47th The Television Drama Academy Awards | Best Actress            | Hana Yori Dango                         | Won       |
+|  1 |   2007 | 10th Nikkan Sports Drama Grand Prix      | Best Actress            | Hana Yori Dango 2                       | Won       |
+|  2 |   2007 | 16th Hashida Awards                      | Newcomer Award          | Hana Yori Dango 2                       | Won       |
+|  3 |   2007 | 2007 MTV Student Voice Awards            | Best Actress            | Hana Yori Dango 2                       | Won       |
+|  4 |   2007 | 54th The Television Academy Drama Awards | Best Actress            | First Kiss                              | Nominated |
+|  5 |   2008 | Nickelodeon Kids' Choice Awards          | Best Actress            | Hana Yori Dango 2                       | Won       |
+|  6 |   2010 | Nikkan Sports Grand Prix (Fall)          | Best Supporting Actress | Veterinarian Dolittle                   | Nominated |
+|  7 |   2011 | 3rd TAMA Film Award                      | Best Emerging Actress   | Miracle in the Pacific                  | Won       |
+|  8 |   2011 | 35th Fumiko Yamaji Award Film Awards     | Newcomer Actress        | Youkame no Semi                         | Won       |
+|  9 |   2011 | 26th Nikkan Sport Film Awards            | Best Newcomer           | Youkame no Semi, Miracle in the Pacific | Won       |
+| 10 |   2011 | TV Navi                                  | Best Actress            | Ohisama                                 | Won       |
+| 11 |   2011 | 70th The Television Drama Academy Awards | Best Actress            | Ohisama                                 | Won       |
+| 12 |   2012 | 35th Japan Academy Awards                | Best Starring Actress   | Youkame no Semi                         | Won       |
+| 13 |   2012 | Japan Film Festival Theater Staff        | Best Actress            | Youkame no Semi                         | Won       |
+| 14 |   2012 | 16th Nikkan Sport Grand Prix             | Best Actress            | Tokkan                                  | Nominated |
+===================Question===================
+what is the name of the organization listed after 2008?
+===================Text===================
+<think>
+Alright, so I need to figure out what the organization is that's listed after 2008 based on the given table about Mao Inoue. Let me start by understanding the structure of the table.
+
+Looking at the columns: there are entries with Year, Organization, Award, Work, and Result. The task is to find the name of the organization that comes after the year 2008.
+
+First, I'll scan through each row to identify which ones have a year greater than 2008. Starting from the top:
+
+- Row 0: 2005 - Before 2008.
+- Rows 1-4: All in 2007 - Still before.
+- Row 5: 2008 - Exactly the year we're looking for, but we need after this year.
+- So, I'll continue past row 5.
+
+Moving forward:
+
+- Row 6: 2010
+- Row 7: 2011
+- Rows 8-10: 2011
+- Rows 11: 2011
+- Rows 12 and 13: 2012
+- Row 14: 2012
+
+Each of these is after 2008, so I need to list the organizations from these rows.
+
+Looking at each relevant row:
+
+Row 6 (2010): Organization is "Nikkan Sports Grand Prix (Fall)"
+Row 7 (2011): "3rd TAMA Film Award"
+Rows 8-10: 
+- Row8: "35th Fumiko Yamaji Award Film Awards"
+- Row9: "26th Nikkan Sport Film Awards"
+- Row10: "TV Navi"
+Rows 11: "70th The Television Drama Academy Awards"
+Rows12 and13: "35th Japan Academy Awards" and "Japan Film Festival Theater Staff"
+Row14 (2012): "16th Nikkan Sport Grand Prix"
+
+Now, I'll list all these organizations:
+
+1. Nikkan Sports Grand Prix (Fall)
+2. 3rd TAMA Film Award
+3. 35th Fumiko Yamaji Award Film Awards
+4. 26th Nikkan Sport Film Awards
+5. TV Navi
+6. 70th The Television Drama Academy Awards
+7. 35th Japan Academy Awards
+8. Japan Film Festival Theater Staff
+9. 16th Nikkan Sport Grand Prix
+
+Wait, I think some of these might be the same organizations but different years or categories. For example, Nikkan Sports Grand Prix appears in both 2010 and 2012 with different numbers (Fall vs 16th). Are they considered separate? Since each row is a distinct award instance, their names are slightly different, so I'll list them as separate entities.
+
+So the final list of organizations after 2008 includes all these names.
+</think>
+
+Final Answer: Nikkan Sports Grand Prix (Fall), 3rd TAMA Film Award, 35th Fumiko Yamaji Award Film Awards, 26th Nikkan Sport Film Awards, TV Navi, 70th The Television Drama Academy Awards, 35th Japan Academy Awards, Japan Film Festival Theater Staff, 16th Nikkan Sport Grand Prix
+===================Answer===================
+Nikkan Sports Grand Prix (Fall)

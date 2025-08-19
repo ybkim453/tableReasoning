@@ -1,0 +1,35 @@
+===================Title===================
+Ismael Urzaiz
+===================Table===================
+|    |   # | Date             | Venue                            | Opponent   | Score   | Result   | Competition          |
+|---:|----:|:-----------------|:---------------------------------|:-----------|:--------|:---------|:---------------------|
+|  0 |   1 | 27 March 1999    | Mestalla, Valencia, Spain        | Austria    | 3–0     | 9–0      | Euro 2000 qualifying |
+|  1 |   2 | 27 March 1999    | Mestalla, Valencia, Spain        | Austria    | 5–0     | 9–0      | Euro 2000 qualifying |
+|  2 |   3 | 31 March 1999    | Olimpico, Serravalle, San Marino | San Marino | 0–3     | 0–6      | Euro 2000 qualifying |
+|  3 |   4 | 8 September 1999 | Vivero, Badajoz, Spain           | Cyprus     | 1–0     | 8–0      | Euro 2000 qualifying |
+|  4 |   5 | 8 September 1999 | Vivero, Badajoz, Spain           | Cyprus     | 2–0     | 8–0      | Euro 2000 qualifying |
+|  5 |   6 | 8 September 1999 | Vivero, Badajoz, Spain           | Cyprus     | 4–0     | 8–0      | Euro 2000 qualifying |
+|  6 |   7 | 26 January 2000  | Cartagonova, Cartagena, Spain    | Poland     | 2–0     | 3–0      | Friendly             |
+|  7 |   8 | 26 January 2000  | Cartagonova, Cartagena, Spain    | Poland     | 3–0     | 3–0      | Friendly             |
+===================Question===================
+where did he score his first international goal?
+===================Text===================
+<think>
+Alright, so I need to figure out where Ismael Urzaiz scored his first international goal based on the table provided. Let me go through this step by step.
+
+First, I should understand what the table represents. It looks like it's a list of goals scored by Ismael Urzaiz in various matches. Each row has details about the match, including the date, venue, opponent, score at the time of the goal, final result, and the competition.
+
+The question is asking for the location of his first international goal. So I should identify the earliest game in which he scored and note where that took place.
+
+Looking at the table, each row has a "#", which seems to indicate the number of the goal, starting from 1. The first row (index 0) shows that on March 27, 1999, at Mestalla in Valencia, Spain, against Austria, he scored the 3–0 and then the 5–0 goals in a match that ended 9–0. So his first goal was when the score went to 3–0.
+
+Wait, but I need to check if this is indeed his first international goal. Since it's listed as #1 and #2 in the same game, perhaps both are his goals in that match. So the first time he scored would be at Mestalla, Valencia, Spain.
+
+Is there any earlier match? Looking through the dates, March 27, 1999, is the earliest date in the table. The next entries are from March 31 and September of the same year, so they come after. Therefore, his first goal was on that initial date.
+
+So the venue for his first international goal would be Mestalla, Valencia, Spain.
+</think>
+
+Final Answer: Mestalla, Valencia, Spain
+===================Answer===================
+Mestalla, Valencia, Spain

@@ -1,0 +1,27 @@
+===================Title===================
+2008–09 Egyptian Premier League
+===================Table===================
+|    |   Nr. | Name       | Area (km²)   | Population (2006)   | Capital    | Club(s)                                                          |
+|---:|------:|:-----------|:-------------|:--------------------|:-----------|:-----------------------------------------------------------------|
+|  0 |     1 | Alexandria | 2,900        | 4,110,015           | Alexandria | Al Itthad Al Sakandary - El-Olympi - Haras El Hodood             |
+|  1 |     2 | Asyut      | 25,926       | 3,441,597           | Asyut      | Petrol Asyout                                                    |
+|  2 |     3 | Cairo      | 3,435        | 7,786,640           | Cairo      | Al-Ahly - Al Mokawloon - ENPPI - El-Jaish - El-Shorta - Itesalat |
+|  3 |     4 | Gharbia    | 25,400       | 3,790,670           | Tanta      | Ghazl El-Mehalla                                                 |
+|  4 |     5 | Giza       | 85,153       | 6,272,571           | Giza       | Zamalek- Tersana                                                 |
+|  5 |     6 | Ismailia   | 1,442        | 942,832             | Ismailia   | Ismaily                                                          |
+|  6 |     7 | Port Said  | 72           | 570,768             | Port Said  | Al Masry                                                         |
+|  7 |     6 | Suez       | 17,840       | 510,935             | Suez       | Petrojet                                                         |
+===================Question===================
+which area is the largest in square km?
+===================Text===================
+<think>
+Alright, so I need to figure out which area in square kilometers is the largest from the given table of the 2008–09 Egyptian Premier League. Let me start by looking at each row and noting down their respective areas.
+
+First, there's Alexandria with an area of 2,900 km². Next, Asyut has a much larger area at 25,926 km². That's already bigger than Alexandria. Moving on to Cairo, it's 3,435 km², which is smaller than both Alexandria and Asyut. Gharbia comes in at 25,400 km², which is close to Asyut but a bit less. Then there's Giza with an impressive 85,153 km²; that's definitely the largest so far. Ismailia is 1,442 km², Port Said is just 72 km², and Suez has 17,840 km².
+
+So when I compare all these numbers: 2,900 (Alexandria), 25,926 (Asyut), 3,435 (Cairo), 25,400 (Gharbia), 85,153 (Giza), 1,442 (Ismailia), 72 (Port Said), and 17,840 (Suez). Clearly, Giza stands out as having by far the largest area with 85,153 square kilometers. So the answer should be Giza.
+</think>
+
+Final Answer: Giza
+===================Answer===================
+Giza

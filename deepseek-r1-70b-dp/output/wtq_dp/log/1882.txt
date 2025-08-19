@@ -1,0 +1,39 @@
+===================Title===================
+Quebec lieutenant
+===================Table===================
+|    | Political lieutenant   | District\n(Area)                                              |   Took Office |   Left Office | Party leader                |
+|---:|:-----------------------|:--------------------------------------------------------------|--------------:|--------------:|:----------------------------|
+|  0 | Georges-Henri Héon    | Argenteuil\n(Laurentides)                                     |          1949 |          1949 | George A. Drew              |
+|  1 | Léon Balcer           | Trois-Rivières\n(Mauricie)                                   |          1957 |          1965 | John George Diefenbaker     |
+|  2 | Marcel Faribault       | none                                                          |          1967 |          1968 | Robert Stanfield            |
+|  3 | Claude Wagner          | Saint-Hyacinthe\n(Montérégie)                               |          1972 |          1978 | Robert Stanfield\nJoe Clark |
+|  4 | Lucien Bouchard        | Lac-Saint-Jean\n(Saguenay-Lac-Saint-Jean)                     |          1988 |          1990 | Brian Mulroney              |
+|  5 | Benoît Bouchard       | Roberval\n(Saguenay-Lac-Saint-Jean)                           |          1990 |          1993 | Brian Mulroney              |
+|  6 | Monique Landry         | Blainville—Deux-Montagnes\n(Laurentides)                      |          1993 |          1993 | Kim Campbell                |
+|  7 | André Bachand         | Richmond—Arthabaska\n(Centre-du-Québec &\nEastern Townships) |          1998 |          2004 | Joe Clark\nPeter MacKay     |
+===================Question===================
+who was the party leader after george a. drew?
+===================Text===================
+<think>
+Okay, so I need to figure out who was the party leader after George A. Drew based on the table provided. Let me start by looking at each row and understanding the information.
+
+First, the table lists people under "Political lieutenant" along with their respective districts, when they took office, left office, and the party leader during their tenure. The question is asking about the party leader who came after George A. Drew. 
+
+Looking at the first row, index 0, Georges-Henri Héon was the lieutenant from Argenteuil in 1949 under leader George A. Drew. So George A. Drew was the leader at that time.
+
+Now, I need to find out who succeeded him as party leader. That would be the next party leader after his term. Let's look through each subsequent row:
+
+- Index 1: León Balcer served from 1957 to 1965 under John George Diefenbaker.
+- Index 2: Marcel Faribault, no district listed, served from 1967–68 under Robert Stanfield.
+- The next rows continue with different leaders.
+
+So the immediate party leader after George A. Drew would be the one who started their leadership right after his term ended. George A. Drew was in office until 1949. The next party leader is John George Diefenbaker, who took over later in 1957 as per index 1.
+
+Wait, but there's a gap between 1949 and 1957. So perhaps I should check if there were any leaders between those years. But according to the table, the next lieutenant after 1949 is León Balcer in 1957 under Diefenbaker, so it implies that George A. Drew led up until 1949, then the next leader was Diefenbaker starting around 1957.
+
+Therefore, the party leader after George A. Drew would be John George Diefenbaker.
+</think>
+
+Final Answer: John George Diefenbaker
+===================Answer===================
+John George Diefenbaker
