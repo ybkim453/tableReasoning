@@ -1,0 +1,54 @@
+=================== Table Summary ===================
+Column-wise Information:
+- **Year**:
+    - Data type: text, representing a season.
+    - Mixed types: Contains both full years ("1940/41") and season descriptors ("Spring 1932").
+    - Example values: "Spring 1932", "1940/41", "1942/43", "1952/53".
+    - Role: Identifier/Descriptor for the season.
+- **Division**:
+    - Data type: numeric, but also contains "nan" (Not a Number).
+    - Mixed types: Numeric values ("1") and missing values ("nan").
+    - Example values: "1", "nan", "nan", "nan".
+    - Role: Categorical, representing the division level.
+- **League**:
+    - Data type: text.
+    - Example values: "ASL", "ASL", "ASL", "ASL".
+    - Role: Categorical, representing the league name.
+- **Reg. Season**:
+    - Data type: text, representing the finishing position in the regular season.
+    - Mixed types: Contains numeric positions ("6th") and placeholders ("5th?", "?").
+    - Example values: "5th?", "?", "6th", "6th".
+    - Role: Score field, representing the regular season ranking.
+- **Playoffs**:
+    - Data type: text, indicating playoff participation or absence.
+    - Example values: "No playoff", "?", "No playoff", "No playoff".
+    - Role: Categorical, indicating playoff status.
+- **National Cup**:
+    - Data type: text, representing the furthest stage reached in the National Cup.
+    - Example values: "1st Round", "Final", "?", "Semifinals".
+    - Role: Categorical, representing cup progression.
+
+Special / Atypical Rows:
+- Row 1: "Spring 1932 | 1 | ASL | 5th? | No playoff | 1st Round" contains "5th?" in "Reg. Season", indicating an uncertain value. This row should be handled with caution during reasoning.
+- Row 3: "Spring 1933 | 1 | ASL | ? | ? | Final" contains "?" in both "Reg. Season" and "Playoffs", indicating missing or unknown values. This row requires special handling.
+- Rows 11, 13, 17, and 23 all contain "?" in the "National Cup" column, indicating missing data. These rows should be treated with caution.
+- The presence of "nan" in the "Division" column indicates missing data and requires special handling.
+
+Derived / Relational Hints:
+- None observed — inconsistent or incompatible forms. There are no clear formulas or deterministic relationships between columns.
+
+Sorting / Structural Hints:
+- **Year**: Appears to be sorted chronologically. Evidence: "Spring 1932", "Spring 1933", "1940/41", "1942/43", "1946/47", "1952/53". The table is likely partial, as there are gaps in the years represented.
+- **Division**: No apparent order. Values are "1", "nan", "nan", etc.
+
+Preprocessing Artifacts:
+- (A) Syntactic artifacts: Missing values are represented by "nan" in the "Division" column and "?" in other columns.
+- (B) Mixed literal expressions: None observed.
+- (C) Semantic normalization — Units & Scales: The "Reg. Season" column uses a textual representation of ranking (e.g., "6th"). Normalization target: convert to numeric rank.
+
+Abbreviations / Acronyms:
+- **ASL**: Unclear. Likely an abbreviation for a league name.
+- **?**: Not Applicable (missing or unknown value).
+- **nan**: Not a Number (missing value).
+- **Division**: Could be aliased as "Tier" or "Level".
+- **Reg. Season**: Could be aliased as "Regular Season".

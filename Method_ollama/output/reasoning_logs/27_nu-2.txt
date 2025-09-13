@@ -1,0 +1,113 @@
+=================== Title ===================
+title : New York Americans (soccer)  & table id : csv/203-csv/435.tsv
+
+=================== Table ===================
+|    | Year        |   Division | League   | Reg. Season      | Playoffs              | National Cup   |
+|---:|:------------|-----------:|:---------|:-----------------|:----------------------|:---------------|
+|  0 | 1931        |          1 | ASL      | 6th (Fall)       | No playoff            | nan            |
+|  1 | Spring 1932 |          1 | ASL      | 5th?             | No playoff            | 1st Round      |
+|  2 | Fall 1932   |          1 | ASL      | 3rd              | No playoff            | nan            |
+|  3 | Spring 1933 |          1 | ASL      | ?                | ?                     | Final          |
+|  4 | 1933/34     |        nan | ASL      | 2nd              | No playoff            | ?              |
+|  5 | 1934/35     |        nan | ASL      | 2nd              | No playoff            | ?              |
+|  6 | 1935/36     |        nan | ASL      | 1st              | Champion (no playoff) | ?              |
+|  7 | 1936/37     |        nan | ASL      | 5th, National    | Did not qualify       | Champion       |
+|  8 | 1937/38     |        nan | ASL      | 3rd(t), National | 1st Round             | ?              |
+|  9 | 1938/39     |        nan | ASL      | 4th, National    | Did not qualify       | ?              |
+| 10 | 1939/40     |        nan | ASL      | 4th              | No playoff            | ?              |
+| 11 | 1940/41     |        nan | ASL      | 6th              | No playoff            | ?              |
+| 12 | 1941/42     |        nan | ASL      | 3rd              | No playoff            | ?              |
+| 13 | 1942/43     |        nan | ASL      | 6th              | No playoff            | ?              |
+| 14 | 1943/44     |        nan | ASL      | 9th              | No playoff            | ?              |
+| 15 | 1944/45     |        nan | ASL      | 9th              | No playoff            | ?              |
+| 16 | 1945/46     |        nan | ASL      | 5th              | No playoff            | ?              |
+| 17 | 1946/47     |        nan | ASL      | 6th              | No playoff            | ?              |
+| 18 | 1947/48     |        nan | ASL      | 6th              | No playoff            | ?              |
+| 19 | 1948/49     |        nan | ASL      | 1st(t)           | Finals                | ?              |
+| 20 | 1949/50     |        nan | ASL      | 3rd              | No playoff            | ?              |
+| 21 | 1950/51     |        nan | ASL      | 5th              | No playoff            | ?              |
+| 22 | 1951/52     |        nan | ASL      | 6th              | No playoff            | ?              |
+| 23 | 1952/53     |        nan | ASL      | 6th              | No playoff            | Semifinals     |
+| 24 | 1953/54     |        nan | ASL      | 1st              | Champion (no playoff) | Champion       |
+| 25 | 1954/55     |        nan | ASL      | 8th              | No playoff            | ?              |
+| 26 | 1955/56     |        nan | ASL      | 6th              | No playoff            | ?              |
+
+=================== Question ===================
+how long did it take for the new york americans to win the national cup after 1936?
+
+=================== Reasoning 1 ===================
+To determine how long it took for the New York Americans to win the National Cup after 1936, we need to identify their National Cup wins and calculate the time difference.
+
+From the table summary, the "National Cup" column indicates the furthest stage reached in the National Cup. We need to find the first National Cup win *after* 1936.
+
+Looking at the table, we find the following National Cup results:
+- 1936/37: Champion
+- 1952/53: Semifinals
+- 1953/54: Champion
+
+The first National Cup win *after* 1936 is in 1953/54. The previous win was in 1936/37.
+The time difference is 1953/54 - 1936/37 = 17 years.
+
+Final Answer: 17
+
+=================== Reasoning 2 ===================
+To determine how long it took for the New York Americans to win the National Cup after 1936, we need to identify their National Cup wins and calculate the time difference.
+
+From the table summary, the "National Cup" column indicates the furthest stage reached in the National Cup. We need to find the first National Cup win *after* 1936.
+
+Looking at the table:
+- In 1936/37, they won the "Champion" National Cup.
+- In 1952/53, they reached the "Semifinals".
+- In 1953/54, they won the "Champion" National Cup.
+
+Since we are looking for the time after 1936, the first win after 1936 is in 1953/54.
+The time difference between 1936/37 and 1953/54 is 1953 - 1936 = 17 years. However, the question asks for the time *after* 1936, so we need to calculate the years between the first win after 1936 (1953/54) and 1936.
+
+1953/54 - 1936 = 17 years.
+
+Final Answer: 17
+
+=================== Reasoning 3 ===================
+To determine how long it took for the New York Americans to win the National Cup after 1936, we need to examine the "National Cup" column and the "Year" column.
+
+According to the summary, "?" in the "National Cup" column indicates missing data. "nan" in the "Division" column indicates missing data.
+
+First, let's identify the first National Cup win *after* 1936.
+- In 1936/37, they won the "Champion" National Cup.
+- We need to find the next win *after* 1936/37.
+- In 1952/53, they reached the "Semifinals".
+- In 1953/54, they won the "Champion" National Cup.
+
+Therefore, it took 17 years (1953/54 - 1936/37 = 17) for the New York Americans to win the National Cup after 1936.
+
+Final Answer: 17
+
+=================== Reasoning 4 ===================
+To determine how long it took for the New York Americans to win the National Cup after 1936, we need to examine the "National Cup" column and identify the years in which they won (reached "Champion").
+
+According to the table:
+- In 1936/37, they reached "Champion".
+- After 1936/37, they won the National Cup in 1952/53 and 1953/54.
+
+The first time they won after 1936/37 was in 1952/53.
+The difference between 1936/37 and 1952/53 is 1952 - 1936 = 16 years.
+However, we need to account for the season format (e.g., 1936/37). The number of years between the end of the 1936/37 season and the start of the 1952/53 season is 15 years.
+
+Final Answer: 15
+
+=================== Reasoning 5 ===================
+To determine how long it took for the New York Americans to win the National Cup after 1936, we need to identify their National Cup wins and calculate the time difference.
+
+From the table summary, the "National Cup" column indicates the furthest stage reached in the National Cup. We need to find the first National Cup win *after* 1936.
+
+Looking at the table, we find the following National Cup results:
+- 1936/37: Champion
+- 1952/53: Semifinals
+- 1953/54: Champion
+
+The first National Cup win *after* 1936 is in 1953/54. The previous win was in 1936/37. Therefore, the time it took to win the National Cup after 1936 is 1953/54 - 1936/37 = 17 years.
+
+Final Answer: 17
+
+=================== Answer ===================
+17 years

@@ -1,0 +1,35 @@
+=================== Table Summary ===================
+Column-wise Information:
+- **Description Losses**: Text. Role: Category label describing the type of loss. Example values: "Murdered", "Deaths In Prisons & Camps", "Deaths Outside of Prisons & Camps", "Murdered in Eastern Regions".
+- **1939/40**: Numeric. Role: Score field representing the number of deaths in the 1939/40 period. Example values: 75,000, 69,000, nan, nan.
+- **1940/41**: Numeric. Role: Score field representing the number of deaths in the 1940/41 period. Example values: 100,000, 210,000, 42,000, nan.
+- **1941/42**: Numeric. Role: Score field representing the number of deaths in the 1941/42 period. Example values: 116,000, 220,000, 71,000, nan.
+- **1942/43**: Numeric. Role: Score field representing the number of deaths in the 1942/43 period. Example values: 133,000, 266,000, 142,000, nan.
+- **1943/44**: Numeric. Role: Score field representing the number of deaths in the 1943/44 period. Example values: 82,000, 381,000, 218,000, nan.
+- **1944/45**: Numeric. Role: Score field representing the number of deaths in the 1944/45 period. Example values: nan, nan, nan, 100,000.
+- **Total**: Numeric. Role: Score field representing the total number of deaths. Example values: 506,000, 1,146,000, 473,000, 100,000. The column contains a mixture of numeric values and "nan". Uncertain/ambiguous markers: "nan".
+
+Special / Atypical Rows:
+- Row 4: "Murdered in Eastern Regions" with all year columns as "nan" and Total as "100,000". This row represents deaths occurring in a specific region and should be treated as a specific category, potentially excluding it from overall total calculations unless explicitly required.
+- Row 5: "Deaths other countries" with all year columns as "nan" and Total as "2,000". This row represents deaths occurring in other countries and should be treated as a specific category, potentially excluding it from overall total calculations unless explicitly required.
+- Row 6: "Total" with numeric values in each year column and a total in the "Total" column. This row represents the sum of all other rows and should be treated as a summary row.
+- The presence of "nan" values indicates missing data and requires careful handling during analysis.
+
+Derived / Relational Hints:
+- **Derived**: Total can be derived by summing the values in the year columns for each row. For example, for row 1: 75,000 + 100,000 + 116,000 + 133,000 + 82,000 = 506,000. For row 2: 69,000 + 210,000 + 220,000 + 266,000 + 381,000 = 1,146,000.
+- None observed — inconsistent or incompatible forms.
+
+Sorting / Structural Hints:
+- The rows appear to be sorted by the type of loss described in the "Description Losses" column. For example, "Murdered", "Deaths In Prisons & Camps", "Deaths Outside of Prisons & Camps", "Murdered in Eastern Regions", "Deaths other countries", "Total".
+- The year columns (1939/40, 1940/41, 1941/42, 1942/43, 1943/44, 1944/45) are sorted chronologically: 1939/40, 1940/41, 1941/42, 1942/43, 1943/44, 1944/45.
+- The table is partial, and there may be missing rows between the provided rows.
+
+Preprocessing Artifacts:
+- (A) Syntactic artifacts: Missing values are represented by "nan".
+- (B) Mixed literal expressions: None observed.
+- (C) Semantic normalization — Units & Scales: The values in the year columns and the "Total" column represent the number of deaths, which should be normalized to a consistent unit (e.g., number of deaths).
+
+Abbreviations / Acronyms:
+- "nan" likely stands for "Not a Number" and represents missing data.
+- "N/A" is unclear.
+- Aliases: "Description Losses" could be aliased as "Loss Type".

@@ -1,0 +1,96 @@
+{
+  "overall_accuracy": {
+    "correct": 2289,
+    "total": 3739,
+    "percentage": 61.22
+  },
+  "category_accuracy": {
+    "Extraction(Identification)": {
+      "correct": 1306,
+      "total": 2002,
+      "percentage": 65.23
+    },
+    "Calculation": {
+      "correct": 99,
+      "total": 183,
+      "percentage": 54.1
+    },
+    "Position(Identification)": {
+      "correct": 203,
+      "total": 287,
+      "percentage": 70.73
+    },
+    "Extraction(Identification), Counting(Identification), Comparison(Identification)": {
+      "correct": 1,
+      "total": 1,
+      "percentage": 100.0
+    },
+    "Counting(Identification), Extraction(Identification)": {
+      "correct": 1,
+      "total": 1,
+      "percentage": 100.0
+    },
+    "Comparison(Identification)": {
+      "correct": 248,
+      "total": 376,
+      "percentage": 65.96
+    },
+    "Extraction(Identification), Calculation": {
+      "correct": 5,
+      "total": 7,
+      "percentage": 71.43
+    },
+    "Calculation, Extraction(Identification)": {
+      "correct": 1,
+      "total": 1,
+      "percentage": 100.0
+    },
+    "Counting(Identification)": {
+      "correct": 420,
+      "total": 871,
+      "percentage": 48.22
+    },
+    "Comparison(Identification), Counting(Identification)": {
+      "correct": 2,
+      "total": 2,
+      "percentage": 100.0
+    },
+    "Extraction(Identification), Position(Identification)": {
+      "correct": 1,
+      "total": 3,
+      "percentage": 33.33
+    },
+    "Position(Identification), Extraction(Identification)": {
+      "correct": 2,
+      "total": 3,
+      "percentage": 66.67
+    },
+    "Position(Identification), Calculation": {
+      "correct": 0,
+      "total": 1,
+      "percentage": 0.0
+    },
+    "Extraction(Identification), Comparison( Identification)": {
+      "correct": 0,
+      "total": 1,
+      "percentage": 0.0
+    }
+  },
+  "tabsize_accuracy": {
+    "less_2000": {
+      "correct": 2164,
+      "total": 3498,
+      "percentage": 61.86
+    },
+    "2000_4000": {
+      "correct": 96,
+      "total": 177,
+      "percentage": 54.24
+    },
+    "over_4000": {
+      "correct": 29,
+      "total": 64,
+      "percentage": 45.31
+    }
+  }
+}

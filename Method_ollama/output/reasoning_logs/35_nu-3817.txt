@@ -1,0 +1,169 @@
+=================== Title ===================
+title : New York Americans (soccer)  & table id : csv/203-csv/435.tsv
+
+=================== Table ===================
+|    | Year        |   Division | League   | Reg. Season      | Playoffs              | National Cup   |
+|---:|:------------|-----------:|:---------|:-----------------|:----------------------|:---------------|
+|  0 | 1931        |          1 | ASL      | 6th (Fall)       | No playoff            | nan            |
+|  1 | Spring 1932 |          1 | ASL      | 5th?             | No playoff            | 1st Round      |
+|  2 | Fall 1932   |          1 | ASL      | 3rd              | No playoff            | nan            |
+|  3 | Spring 1933 |          1 | ASL      | ?                | ?                     | Final          |
+|  4 | 1933/34     |        nan | ASL      | 2nd              | No playoff            | ?              |
+|  5 | 1934/35     |        nan | ASL      | 2nd              | No playoff            | ?              |
+|  6 | 1935/36     |        nan | ASL      | 1st              | Champion (no playoff) | ?              |
+|  7 | 1936/37     |        nan | ASL      | 5th, National    | Did not qualify       | Champion       |
+|  8 | 1937/38     |        nan | ASL      | 3rd(t), National | 1st Round             | ?              |
+|  9 | 1938/39     |        nan | ASL      | 4th, National    | Did not qualify       | ?              |
+| 10 | 1939/40     |        nan | ASL      | 4th              | No playoff            | ?              |
+| 11 | 1940/41     |        nan | ASL      | 6th              | No playoff            | ?              |
+| 12 | 1941/42     |        nan | ASL      | 3rd              | No playoff            | ?              |
+| 13 | 1942/43     |        nan | ASL      | 6th              | No playoff            | ?              |
+| 14 | 1943/44     |        nan | ASL      | 9th              | No playoff            | ?              |
+| 15 | 1944/45     |        nan | ASL      | 9th              | No playoff            | ?              |
+| 16 | 1945/46     |        nan | ASL      | 5th              | No playoff            | ?              |
+| 17 | 1946/47     |        nan | ASL      | 6th              | No playoff            | ?              |
+| 18 | 1947/48     |        nan | ASL      | 6th              | No playoff            | ?              |
+| 19 | 1948/49     |        nan | ASL      | 1st(t)           | Finals                | ?              |
+| 20 | 1949/50     |        nan | ASL      | 3rd              | No playoff            | ?              |
+| 21 | 1950/51     |        nan | ASL      | 5th              | No playoff            | ?              |
+| 22 | 1951/52     |        nan | ASL      | 6th              | No playoff            | ?              |
+| 23 | 1952/53     |        nan | ASL      | 6th              | No playoff            | Semifinals     |
+| 24 | 1953/54     |        nan | ASL      | 1st              | Champion (no playoff) | Champion       |
+| 25 | 1954/55     |        nan | ASL      | 8th              | No playoff            | ?              |
+| 26 | 1955/56     |        nan | ASL      | 6th              | No playoff            | ?              |
+
+=================== Question ===================
+how many years were there no playoffs?
+
+=================== Reasoning 1 ===================
+To determine the number of years with no playoffs, we need to examine the "Playoffs" column and count the occurrences of "No playoff" or "Did not qualify". According to the summary, we should also consider "Champion (no playoff)" as a "no playoff" case.
+
+Let's go through the table and count:
+
+*   Row 0: No playoff
+*   Row 1: No playoff
+*   Row 2: No playoff
+*   Row 4: No playoff
+*   Row 5: No playoff
+*   Row 7: Did not qualify
+*   Row 8: Did not qualify
+*   Row 9: Did not qualify
+*   Row 10: No playoff
+*   Row 11: No playoff
+*   Row 12: No playoff
+*   Row 13: No playoff
+*   Row 14: No playoff
+*   Row 15: No playoff
+*   Row 16: No playoff
+*   Row 17: No playoff
+*   Row 18: No playoff
+*   Row 20: No playoff
+*   Row 21: No playoff
+*   Row 22: No playoff
+*   Row 23: Semifinals
+*   Row 24: Champion (no playoff)
+*   Row 25: No playoff
+*   Row 26: No playoff
+
+Counting these instances, we find there are 27 years with no playoffs.
+
+Final Answer: 27
+
+=================== Reasoning 2 ===================
+To determine the number of years with no playoffs, we need to examine the "Playoffs" column and count the occurrences of "No playoff" or "Did not qualify". According to the summary, "nan" values in "Division" and "?" in other columns represent missing data.
+
+Scanning the "Playoffs" column, we find the following entries indicating no playoff participation:
+
+*   Row 0: No playoff
+*   Row 1: No playoff
+*   Row 2: No playoff
+*   Row 4: No playoff
+*   Row 5: No playoff
+*   Row 7: Did not qualify
+*   Row 8: Did not qualify
+*   Row 10: No playoff
+*   Row 11: No playoff
+*   Row 12: No playoff
+*   Row 13: No playoff
+*   Row 14: No playoff
+*   Row 15: No playoff
+*   Row 16: No playoff
+*   Row 17: No playoff
+*   Row 18: No playoff
+*   Row 20: No playoff
+*   Row 21: No playoff
+*   Row 22: No playoff
+*   Row 25: No playoff
+*   Row 26: No playoff
+
+Counting these occurrences, we find there were 22 years with no playoffs.
+
+Final Answer: 22
+
+=================== Reasoning 3 ===================
+To determine the number of years with no playoffs, we need to examine the "Playoffs" column and count the occurrences of "No playoff" or "Did not qualify".
+
+From the table:
+- Row 0: No playoff
+- Row 1: No playoff
+- Row 2: No playoff
+- Row 5: No playoff
+- Row 7: Did not qualify
+- Row 8: Did not qualify
+- Row 10: No playoff
+- Row 11: No playoff
+- Row 12: No playoff
+- Row 13: No playoff
+- Row 14: No playoff
+- Row 15: No playoff
+- Row 16: No playoff
+- Row 17: No playoff
+- Row 18: No playoff
+- Row 20: No playoff
+- Row 21: No playoff
+- Row 22: No playoff
+- Row 25: No playoff
+- Row 26: No playoff
+
+Counting these occurrences, we find there are 21 years where there were no playoffs.
+
+Final Answer: 21
+
+=================== Reasoning 4 ===================
+To determine the number of years with no playoffs, we need to examine the "Playoffs" column and count the occurrences of "No playoff" or "Did not qualify". We must also account for "Champion (no playoff)" as a year with no playoff.
+
+Here's a breakdown of the "Playoffs" column:
+
+*   **No playoff:** Appears 13 times (rows 0, 1, 2, 4, 5, 6, 10, 11, 12, 13, 14, 15, 16)
+*   **Did not qualify:** Appears 2 times (rows 7, 9)
+*   **Champion (no playoff):** Appears 2 times (rows 6, 24)
+*   **Finals:** Appears 1 time (row 19)
+*   **1st Round:** Appears 1 time (row 8)
+*   **?:** Appears 0 times
+
+Adding up the occurrences of "No playoff", "Did not qualify", and "Champion (no playoff)": 13 + 2 + 2 = 17
+
+Therefore, there were 17 years with no playoffs.
+
+Final Answer: 17
+
+=================== Reasoning 5 ===================
+To determine the number of years with no playoffs, we need to examine the "Playoffs" column and count the occurrences of "No playoff" or "Did not qualify". We must also consider "Champion (no playoff)" as a year with no playoff.
+
+Here's a breakdown of the "Playoffs" column:
+
+*   **No playoff:** Appears 13 times (Rows 0, 1, 2, 4, 5, 10, 11, 12, 14, 15, 16, 17, 18)
+*   **Did not qualify:** Appears 2 times (Rows 7, 9)
+*   **Champion (no playoff):** Appears 2 times (Rows 6, 24)
+*   **Finals:** Appears 1 time (Row 19)
+*   **1st Round:** Appears 1 time (Row 8)
+*   **Champion:** Appears 1 time (Row 23)
+
+Adding up the occurrences of "No playoff", "Did not qualify", and "Champion (no playoff)": 13 + 2 + 2 = 17
+
+Therefore, there were 17 years with no playoffs.
+
+Final Answer: 17
+
+=================== Answer ===================
+21

@@ -1,0 +1,92 @@
+=================== Title ===================
+title : 2008 Clásica de San Sebastián  & table id : csv/203-csv/733.tsv
+
+=================== Table ===================
+|    |   Rank | Cyclist                  | Team               | Time       |   UCI ProTour\nPoints |
+|---:|-------:|:-------------------------|:-------------------|:-----------|----------------------:|
+|  0 |      1 | Alejandro Valverde (ESP) | Caisse d'Epargne   | 5h 29' 10" |                    40 |
+|  1 |      2 | Alexandr Kolobnev (RUS)  | Team CSC Saxo Bank | s.t.       |                    30 |
+|  2 |      3 | Davide Rebellin (ITA)    | Gerolsteiner       | s.t.       |                    25 |
+|  3 |      4 | Paolo Bettini (ITA)      | Quick Step         | s.t.       |                    20 |
+|  4 |      5 | Franco Pellizotti (ITA)  | Liquigas           | s.t.       |                    15 |
+|  5 |      6 | Denis Menchov (RUS)      | Rabobank           | s.t.       |                    11 |
+|  6 |      7 | Samuel Sánchez (ESP)     | Euskaltel-Euskadi  | s.t.       |                     7 |
+|  7 |      8 | Stéphane Goubert (FRA)   | Ag2r-La Mondiale   | + 2"       |                     5 |
+|  8 |      9 | Haimar Zubeldia (ESP)    | Euskaltel-Euskadi  | + 2"       |                     3 |
+|  9 |     10 | David Moncoutié (FRA)    | Cofidis            | + 2"       |                     1 |
+
+=================== Question ===================
+what was the total number of points by franco pellizotti?
+
+=================== Reasoning 1 ===================
+To determine the total number of points earned by Franco Pellizotti, we need to consult the table and the provided summary.
+
+From the summary:
+- The **Cyclist** column identifies the cyclist’s name.
+- The **UCI ProTour\nPoints** column contains the points earned by each cyclist.
+
+From the full table:
+- Franco Pellizotti (ITA) appears in the table with 15 points in the **UCI ProTour\nPoints** column.
+
+Therefore, the total number of points earned by Franco Pellizotti is 15.
+
+Final Answer: 15
+
+=================== Reasoning 2 ===================
+To find the total number of points earned by Franco Pellizotti, we need to consult the provided summary and the full table.
+
+The summary states:
+- The **Cyclist** column identifies the cyclist's name.
+- The **UCI ProTour\nPoints** column contains the points earned by the cyclist.
+
+Looking at the full table, we find the row for Franco Pellizotti:
+
+|    |   Rank | Cyclist                  | Team               | Time       |   UCI ProTour\nPoints |
+|---:|-------:|:-------------------------|:-------------------|:-----------|----------------------:|
+|  4 |      5 | Franco Pellizotti (ITA)  | Liquigas           | s.t.       |                    15 |
+
+The **UCI ProTour\nPoints** for Franco Pellizotti is 15.
+
+Final Answer: 15
+
+=================== Reasoning 3 ===================
+To determine the total number of points earned by Franco Pellizotti, we need to consult the provided summary and the full table.
+
+The summary states:
+- The **Cyclist** column identifies the cyclist's name.
+- The **UCI ProTour\nPoints** column contains the points earned by the cyclist.
+
+Looking at the full table, we find Franco Pellizotti (ITA) in row 4. The corresponding value in the **UCI ProTour\nPoints** column is 15.
+
+Therefore, the total number of points earned by Franco Pellizotti is 15.
+
+Final Answer: 15
+
+=================== Reasoning 4 ===================
+To find the total number of points earned by Franco Pellizotti, we need to consult the provided summary and the full table.
+
+The summary states:
+- The **Cyclist** column identifies the cyclist's name.
+- The **UCI ProTour\nPoints** column contains the points earned by the cyclist.
+
+Looking at the full table, we find Franco Pellizotti (ITA) in row 4. The corresponding value in the **UCI ProTour\nPoints** column is 15.
+
+Therefore, the total number of points earned by Franco Pellizotti is 15.
+
+Final Answer: 15
+
+=================== Reasoning 5 ===================
+To determine the total number of points earned by Franco Pellizotti, we need to consult the provided summary and the full table.
+
+The summary states:
+- The **Cyclist** column identifies the cyclist's name.
+- The **UCI ProTour\nPoints** column contains the points earned by the cyclist.
+
+Looking at the full table, we find Franco Pellizotti in row 4. The corresponding value in the **UCI ProTour\nPoints** column is 15.
+
+Therefore, the total number of points earned by Franco Pellizotti is 15.
+
+Final Answer: 15
+
+=================== Answer ===================
+15

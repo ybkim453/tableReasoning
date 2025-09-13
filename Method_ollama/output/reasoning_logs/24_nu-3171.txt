@@ -1,0 +1,116 @@
+=================== Title ===================
+title : World War II casualties of Poland  & table id : csv/204-csv/149.tsv
+
+=================== Table ===================
+|    | Description Losses                | 1939/40   | 1940/41   | 1941/42   | 1942/43   | 1943/44   | 1944/45   | Total     |
+|---:|:----------------------------------|:----------|:----------|:----------|:----------|:----------|:----------|:----------|
+|  0 | Direct War Losses                 | 360,000   | nan       | nan       | nan       | nan       | 183,000   | 543,000   |
+|  1 | Murdered                          | 75,000    | 100,000   | 116,000   | 133,000   | 82,000    | nan       | 506,000   |
+|  2 | Deaths In Prisons & Camps         | 69,000    | 210,000   | 220,000   | 266,000   | 381,000   | nan       | 1,146,000 |
+|  3 | Deaths Outside of Prisons & Camps | nan       | 42,000    | 71,000    | 142,000   | 218,000   | nan       | 473,000   |
+|  4 | Murdered in Eastern Regions       | nan       | nan       | nan       | nan       | nan       | 100,000   | 100,000   |
+|  5 | Deaths other countries            | nan       | nan       | nan       | nan       | nan       | nan       | 2,000     |
+|  6 | Total                             | 504,000   | 352,000   | 407,000   | 541,000   | 681,000   | 270,000   | 2,770,000 |
+
+=================== Question ===================
+what is the only years that total losses were below 350,000?
+
+=================== Reasoning 1 ===================
+The question asks for the years where the total losses were below 350,000. We need to examine the "Total" column in the full table and identify the years corresponding to those totals.
+
+From the table:
+- 1939/40: 504,000
+- 1940/41: 352,000
+- 1941/42: 407,000
+- 1942/43: 541,000
+- 1943/44: 681,000
+- 1944/45: 270,000
+
+Comparing these values to the threshold of 350,000, we find that only 1944/45 (270,000) is below the threshold.
+
+Final Answer: 1944/45
+
+=================== Reasoning 2 ===================
+The question asks for the years where the total losses were below 350,000. We need to examine the "Total" column for each year (1939/40, 1940/41, etc.) and identify the years that meet this criterion.
+
+From the table:
+- 1939/40: 504,000
+- 1940/41: 352,000
+- 1941/42: 407,000
+- 1942/43: 541,000
+- 1943/44: 681,000
+- 1944/45: 270,000
+
+Comparing these values to the criterion of being below 350,000, we find that only 1944/45 (270,000) meets the condition.
+
+Final Answer: 1944/45
+
+=================== Reasoning 3 ===================
+The question asks for the years where the total losses were below 350,000. We need to examine the "Total" column in the table and identify the years corresponding to those totals.
+
+From the table, the "Total" column shows the following values:
+- 543,000
+- 506,000
+- 1,146,000
+- 473,000
+- 100,000
+- 2,000
+- 2,770,000
+
+However, the question asks for *years* where the total losses were below 350,000, and the "Total" column represents the cumulative total across all categories. We need to look at the yearly columns (1939/40, 1940/41, etc.) to determine which year had a total loss below 350,000.
+
+Let's sum the losses for each year:
+- 1939/40: 360,000 + 75,000 + 69,000 + 0 + 0 + 0 = 504,000
+- 1940/41: 0 + 100,000 + 210,000 + 42,000 + 0 + 0 = 352,000
+- 1941/42: 0 + 116,000 + 220,000 + 71,000 + 0 + 0 = 407,000
+- 1942/43: 0 + 133,000 + 266,000 + 142,000 + 0 + 0 = 541,000
+- 1943/44: 0 + 82,000 + 381,000 + 218,000 + 0 + 0 = 681,000
+- 1944/45: 0 + 0 + 0 + 0 + 0 + 100,000 = 100,000
+
+The only year with total losses below 350,000 is 1944/45, with a total of 100,000.
+
+Final Answer: 1944/45
+
+=================== Reasoning 4 ===================
+The question asks for the years where the total losses were below 350,000. We need to examine the "Total" column in the provided table and identify the years that meet this criterion.
+
+From the table:
+- 1939/40: 504,000
+- 1940/41: 352,000
+- 1941/42: 407,000
+- 1942/43: 541,000
+- 1943/44: 681,000
+- 1944/45: 270,000
+
+Comparing these values to the criterion of being below 350,000, we find that only 1944/45 (270,000) meets the condition.
+
+Final Answer: 1944/45
+
+=================== Reasoning 5 ===================
+The question asks for the years where the total losses were below 350,000. We need to examine the "Total" column in the full table and identify the years corresponding to those totals.
+
+From the full table, the "Total" column has the following values:
+- 543,000
+- 506,000
+- 1,146,000
+- 473,000
+- 100,000
+- 2,000
+- 2,770,000
+
+However, the question asks for years, but the table provides total losses for each *category* of loss, not for each year. The question is likely asking about the "Total" row, which represents the sum of all losses across all categories for each year. Therefore, we must look at the values in the columns 1939/40, 1940/41, 1941/42, 1942/43, 1943/44, and 1944/45 to determine which years had total losses below 350,000.
+
+Looking at the values in the year columns for the "Total" row (row 6):
+- 1939/40: 504,000
+- 1940/41: 352,000
+- 1941/42: 407,000
+- 1942/43: 541,000
+- 1943/44: 681,000
+- 1944/45: 270,000
+
+The years with total losses below 350,000 are 1940/41 and 1944/45.
+
+Final Answer: 1940/41, 1944/45
+
+=================== Answer ===================
+1944/45

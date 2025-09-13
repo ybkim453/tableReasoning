@@ -1,0 +1,90 @@
+=================== Title ===================
+title : World War II casualties of Poland  & table id : csv/204-csv/149.tsv
+
+=================== Table ===================
+|    | Description Losses                | 1939/40   | 1940/41   | 1941/42   | 1942/43   | 1943/44   | 1944/45   | Total     |
+|---:|:----------------------------------|:----------|:----------|:----------|:----------|:----------|:----------|:----------|
+|  0 | Direct War Losses                 | 360,000   | nan       | nan       | nan       | nan       | 183,000   | 543,000   |
+|  1 | Murdered                          | 75,000    | 100,000   | 116,000   | 133,000   | 82,000    | nan       | 506,000   |
+|  2 | Deaths In Prisons & Camps         | 69,000    | 210,000   | 220,000   | 266,000   | 381,000   | nan       | 1,146,000 |
+|  3 | Deaths Outside of Prisons & Camps | nan       | 42,000    | 71,000    | 142,000   | 218,000   | nan       | 473,000   |
+|  4 | Murdered in Eastern Regions       | nan       | nan       | nan       | nan       | nan       | 100,000   | 100,000   |
+|  5 | Deaths other countries            | nan       | nan       | nan       | nan       | nan       | nan       | 2,000     |
+|  6 | Total                             | 504,000   | 352,000   | 407,000   | 541,000   | 681,000   | 270,000   | 2,770,000 |
+
+=================== Question ===================
+what is the total numbers of losses not including direct war losses?
+
+=================== Reasoning 1 ===================
+To calculate the total number of losses not including direct war losses, we need to sum the "Total" values for rows 1 through 5 (excluding row 0, "Direct War Losses"). We must also account for "nan" values, treating them as 0 for summation purposes.
+
+From the table:
+- Row 1 ("Murdered"): Total = 506,000
+- Row 2 ("Deaths In Prisons & Camps"): Total = 1,146,000
+- Row 3 ("Deaths Outside of Prisons & Camps"): Total = 473,000
+- Row 4 ("Murdered in Eastern Regions"): Total = 100,000
+- Row 5 ("Deaths other countries"): Total = 2,000
+
+Summing these values: 506,000 + 1,146,000 + 473,000 + 100,000 + 2,000 = 2,227,000
+
+Final Answer: 2227000
+
+=================== Reasoning 2 ===================
+To find the total number of losses not including direct war losses, we need to sum the "Total" values for rows 1 through 5 (excluding row 0, which represents "Direct War Losses"). We must also account for "nan" values, treating them as 0 for summation purposes.
+
+From the table:
+- Row 1 ("Murdered"): Total = 506,000
+- Row 2 ("Deaths In Prisons & Camps"): Total = 1,146,000
+- Row 3 ("Deaths Outside of Prisons & Camps"): Total = 473,000
+- Row 4 ("Murdered in Eastern Regions"): Total = 100,000
+- Row 5 ("Deaths other countries"): Total = 2,000
+
+Summing these values: 506,000 + 1,146,000 + 473,000 + 100,000 + 2,000 = 2,227,000
+
+Final Answer: 2227000
+
+=================== Reasoning 3 ===================
+To calculate the total number of losses not including direct war losses, we need to sum the "Total" values for rows 1 through 5 (excluding row 0, which represents "Direct War Losses"). We must also account for "nan" values, treating them as 0 for summation purposes.
+
+From the table:
+- Row 1 ("Murdered"): Total = 506,000
+- Row 2 ("Deaths In Prisons & Camps"): Total = 1,146,000
+- Row 3 ("Deaths Outside of Prisons & Camps"): Total = 473,000
+- Row 4 ("Murdered in Eastern Regions"): Total = 100,000
+- Row 5 ("Deaths other countries"): Total = 2,000
+
+Summing these values: 506,000 + 1,146,000 + 473,000 + 100,000 + 2,000 = 2,227,000
+
+Final Answer: 2227000
+
+=================== Reasoning 4 ===================
+To calculate the total number of losses not including direct war losses, we need to sum the "Total" values for rows 1 through 5 (excluding row 0, which represents "Direct War Losses"). We also need to handle the "nan" values appropriately.
+
+From the table:
+
+*   Row 1 ("Murdered"): Total = 506,000
+*   Row 2 ("Deaths In Prisons & Camps"): Total = 1,146,000
+*   Row 3 ("Deaths Outside of Prisons & Camps"): Total = 473,000
+*   Row 4 ("Murdered in Eastern Regions"): Total = 100,000
+*   Row 5 ("Deaths other countries"): Total = 2,000
+
+Summing these values: 506,000 + 1,146,000 + 473,000 + 100,000 + 2,000 = 2,227,000
+
+Final Answer: 2227000
+
+=================== Reasoning 5 ===================
+To calculate the total number of losses not including direct war losses, we need to sum the "Total" values for rows 1 through 5 (excluding row 0 which represents "Direct War Losses" and row 6 which is the overall total). We also need to handle the "nan" values appropriately.
+
+From the table:
+- Row 1 ("Murdered"): Total = 506,000
+- Row 2 ("Deaths In Prisons & Camps"): Total = 1,146,000
+- Row 3 ("Deaths Outside of Prisons & Camps"): Total = 473,000
+- Row 4 ("Murdered in Eastern Regions"): Total = 100,000
+- Row 5 ("Deaths other countries"): Total = 2,000
+
+Summing these values: 506,000 + 1,146,000 + 473,000 + 100,000 + 2,000 = 2,227,000
+
+Final Answer: 2227000
+
+=================== Answer ===================
+2,227,000

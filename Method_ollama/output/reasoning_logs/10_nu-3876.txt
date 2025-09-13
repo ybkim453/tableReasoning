@@ -1,0 +1,86 @@
+=================== Title ===================
+title : 2008 Clásica de San Sebastián  & table id : csv/203-csv/733.tsv
+
+=================== Table ===================
+|    |   Rank | Cyclist                  | Team               | Time       |   UCI ProTour\nPoints |
+|---:|-------:|:-------------------------|:-------------------|:-----------|----------------------:|
+|  0 |      1 | Alejandro Valverde (ESP) | Caisse d'Epargne   | 5h 29' 10" |                    40 |
+|  1 |      2 | Alexandr Kolobnev (RUS)  | Team CSC Saxo Bank | s.t.       |                    30 |
+|  2 |      3 | Davide Rebellin (ITA)    | Gerolsteiner       | s.t.       |                    25 |
+|  3 |      4 | Paolo Bettini (ITA)      | Quick Step         | s.t.       |                    20 |
+|  4 |      5 | Franco Pellizotti (ITA)  | Liquigas           | s.t.       |                    15 |
+|  5 |      6 | Denis Menchov (RUS)      | Rabobank           | s.t.       |                    11 |
+|  6 |      7 | Samuel Sánchez (ESP)     | Euskaltel-Euskadi  | s.t.       |                     7 |
+|  7 |      8 | Stéphane Goubert (FRA)   | Ag2r-La Mondiale   | + 2"       |                     5 |
+|  8 |      9 | Haimar Zubeldia (ESP)    | Euskaltel-Euskadi  | + 2"       |                     3 |
+|  9 |     10 | David Moncoutié (FRA)    | Cofidis            | + 2"       |                     1 |
+
+=================== Question ===================
+how many more points did team liquigas score than robobank?
+
+=================== Reasoning 1 ===================
+First, we need to identify the cyclists representing Liquigas and Rabobank and their corresponding UCI ProTour Points.
+
+From the table:
+- Franco Pellizotti (ITA) represents Liquigas and scored 15 points.
+- Denis Menchov (RUS) represents Rabobank and scored 11 points.
+
+Now, calculate the difference in points:
+15 (Liquigas) - 11 (Rabobank) = 4
+
+Final Answer: 4
+
+=================== Reasoning 2 ===================
+First, we need to identify the cyclists representing Liquigas and Rabobank and their corresponding UCI ProTour Points.
+
+From the table:
+- Franco Pellizotti (ITA) represents Liquigas and scored 15 points.
+- Denis Menchov (RUS) represents Rabobank and scored 11 points.
+
+Now, we calculate the difference in points:
+15 (Liquigas) - 11 (Rabobank) = 4
+
+Therefore, Team Liquigas scored 4 more points than Rabobank.
+
+Final Answer: 4
+
+=================== Reasoning 3 ===================
+First, we need to identify the cyclists associated with each team and their corresponding UCI ProTour Points.
+
+From the table:
+- **Liquigas**: Franco Pellizotti (ITA) scored 15 points.
+- **Rabobank**: Denis Menchov (RUS) scored 11 points.
+
+Now, we calculate the difference in points:
+15 (Liquigas) - 11 (Rabobank) = 4
+
+Therefore, Team Liquigas scored 4 more points than Rabobank.
+
+Final Answer: 4
+
+=================== Reasoning 4 ===================
+First, let's identify the points scored by cyclists from Liquigas and Rabobank.
+
+From the table:
+- Franco Pellizotti (ITA) is from Liquigas and scored 15 UCI ProTour points.
+- Denis Menchov (RUS) is from Rabobank and scored 11 UCI ProTour points.
+
+Now, calculate the difference in points:
+15 (Liquigas) - 11 (Rabobank) = 4
+
+Final Answer: 4
+
+=================== Reasoning 5 ===================
+First, let's identify the points scored by cyclists from Liquigas and Rabobank.
+
+From the table:
+- Franco Pellizotti (ITA) is from Liquigas and scored 15 UCI ProTour points.
+- Denis Menchov (RUS) is from Rabobank and scored 11 UCI ProTour points.
+
+Now, calculate the difference in points:
+15 (Liquigas) - 11 (Rabobank) = 4
+
+Final Answer: 4
+
+=================== Answer ===================
+4

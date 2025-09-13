@@ -1,0 +1,44 @@
+=================== Table Summary ===================
+### 1) Column-wise Information
+- **Series #**:
+    - Numeric.
+    - Values: 3, 6, 7, 8, 10, 12.
+    - Role: Identifier for the episode within a season.
+- **Season #**:
+    - Numeric.
+    - Values: 4, 7, 8, 9, 11, 13.
+    - Role: Identifier for the season.
+- **Title**:
+    - Text.
+    - Values: "Robin Hood Play", "Dee Dee's Girlfriend", "Dee Dee's Haircut", "Dee Dee Runs Away", "Alfie's Birthday Party", "The Big Bully".
+    - Role: Descriptive name of the episode.
+- **Notes**:
+    - Text.
+    - Values: Long-form descriptions of the episode's plot.
+    - Role: Detailed summary of the episode's events.
+- **Original air date**:
+    - Date.
+    - Values: "November 9, 1994", "December 15, 1994", "December 20, 1994", "December 28, 1994", "January 19, 1995", "February 2, 1995".
+    - Role: Date the episode was first broadcast.
+
+### 2) Special / Atypical Rows
+- No special or atypical rows are present in the provided preview. All rows appear to represent standard episode entries. There are no totals, averages, or placeholder values like "?", "N/A", or "—".
+
+### 3) Derived / Relational Hints
+- **Derived**: Episode Number can be derived by multiplying Season # and Series #. For example, row 3: 4 * 3 = 12. Row 6: 7 * 6 = 42.
+- **Relational**: None observed — inconsistent or incompatible forms.
+
+### 4) Sorting / Structural Hints
+- **Series #**: Appears to be sorted in ascending order: 3, 6, 7, 8, 10, 12. This is the primary ordering.
+- **Original air date**: Also appears to be sorted in ascending order: "November 9, 1994", "December 15, 1994", "December 20, 1994", "December 28, 1994", "January 19, 1995", "February 2, 1995". This is a secondary ordering.
+- The table appears to be a partial listing of episodes, and there may be gaps in the Series # sequence.
+
+### 5) Preprocessing Artifacts
+- **(A)** No missing values (nan, None) or duplicated rows are present in the preview.
+- **(B)** No mixed literal expressions are observed.
+- **(C)** Semantic normalization: Dates are in a consistent format (Month Day, Year). No other inconsistencies are apparent in the preview.
+
+### 6) Abbreviations / Acronyms & Aliases
+- No abbreviations or acronyms are explicitly present in the preview.
+- "N/A" or similar placeholders are not used.
+- Aliases: None apparent from the preview. The table appears to use straightforward terminology.

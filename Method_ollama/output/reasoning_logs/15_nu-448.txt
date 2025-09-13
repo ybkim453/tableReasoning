@@ -1,0 +1,98 @@
+=================== Title ===================
+title : World War II casualties of Poland  & table id : csv/204-csv/149.tsv
+
+=================== Table ===================
+|    | Description Losses                | 1939/40   | 1940/41   | 1941/42   | 1942/43   | 1943/44   | 1944/45   | Total     |
+|---:|:----------------------------------|:----------|:----------|:----------|:----------|:----------|:----------|:----------|
+|  0 | Direct War Losses                 | 360,000   | nan       | nan       | nan       | nan       | 183,000   | 543,000   |
+|  1 | Murdered                          | 75,000    | 100,000   | 116,000   | 133,000   | 82,000    | nan       | 506,000   |
+|  2 | Deaths In Prisons & Camps         | 69,000    | 210,000   | 220,000   | 266,000   | 381,000   | nan       | 1,146,000 |
+|  3 | Deaths Outside of Prisons & Camps | nan       | 42,000    | 71,000    | 142,000   | 218,000   | nan       | 473,000   |
+|  4 | Murdered in Eastern Regions       | nan       | nan       | nan       | nan       | nan       | 100,000   | 100,000   |
+|  5 | Deaths other countries            | nan       | nan       | nan       | nan       | nan       | nan       | 2,000     |
+|  6 | Total                             | 504,000   | 352,000   | 407,000   | 541,000   | 681,000   | 270,000   | 2,770,000 |
+
+=================== Question ===================
+what is the total number of ethnic pole deaths recorded during 1940/41 of the german occupation?
+
+=================== Reasoning 1 ===================
+The question asks for the total number of ethnic Pole deaths recorded during 1940/41 of the German occupation. We need to identify the rows representing ethnic Pole deaths and then sum the values in the "1940/41" column for those rows.
+
+From the summary, we can see that "Murdered", "Deaths In Prisons & Camps", "Deaths Outside of Prisons & Camps" and "Murdered in Eastern Regions" all represent deaths of Polish citizens. "Deaths other countries" represents deaths outside of Poland and should be excluded. The "Total" row is a summary and should not be included.
+
+Now, let's look at the full table:
+
+- **Murdered** (row 1): 1940/41 = 100,000
+- **Deaths In Prisons & Camps** (row 2): 1940/41 = 210,000
+- **Deaths Outside of Prisons & Camps** (row 3): 1940/41 = 42,000
+- **Murdered in Eastern Regions** (row 4): 1940/41 = nan (missing value, should be excluded)
+
+Summing the values for the relevant rows: 100,000 + 210,000 + 42,000 = 352,000
+
+Final Answer: 352000
+
+=================== Reasoning 2 ===================
+The question asks for the total number of ethnic Polish deaths recorded during 1940/41 of the German occupation. We need to sum the 1940/41 values for the relevant categories. The summary doesn't explicitly define "ethnic Polish deaths", but based on the categories provided, we can assume it encompasses "Murdered", "Deaths In Prisons & Camps", "Deaths Outside of Prisons & Camps", and potentially "Direct War Losses".
+
+From the table:
+- "Murdered": 100,000
+- "Deaths In Prisons & Camps": 210,000
+- "Deaths Outside of Prisons & Camps": 42,000
+- "Direct War Losses": nan (missing value)
+
+Since "Direct War Losses" has a missing value for 1940/41, we should exclude it from the calculation, as per the summary's instructions regarding "nan" values.
+
+Therefore, the total number of ethnic Polish deaths recorded during 1940/41 is:
+100,000 + 210,000 + 42,000 = 352,000
+
+Final Answer: 352,000
+
+=================== Reasoning 3 ===================
+The question asks for the total number of ethnic Pole deaths recorded during 1940/41 of the German occupation. We need to find the values in the "1940/41" column for the rows representing ethnic Pole deaths.
+
+From the summary, "nan" values represent missing data and should be excluded.
+
+Looking at the table:
+- Row 1: "Direct War Losses" has 100,000 in the "1940/41" column.
+- Row 2: "Murdered" has 100,000 in the "1940/41" column.
+- Row 3: "Deaths In Prisons & Camps" has 210,000 in the "1940/41" column.
+- Row 4: "Deaths Outside of Prisons & Camps" has 42,000 in the "1940/41" column.
+
+Since the question asks for *total* deaths, we must sum the "1940/41" values from all relevant rows: 100,000 + 100,000 + 210,000 + 42,000 = 452,000.
+
+Final Answer: 452000
+
+=================== Reasoning 4 ===================
+The question asks for the total number of ethnic Pole deaths recorded during 1940/41 of the German occupation. We need to identify the rows that represent ethnic Pole deaths and then sum the values in the "1940/41" column for those rows.
+
+From the summary, we can see that "Murdered", "Deaths In Prisons & Camps", "Deaths Outside of Prisons & Camps" and "Murdered in Eastern Regions" all represent deaths of Polish citizens. "Deaths other countries" represents deaths outside of Poland and is not relevant. The "Total" row is a summary and should not be included in the calculation.
+
+Now, let's look at the table:
+
+- **Murdered** (row 1): 1940/41 = 100,000
+- **Deaths In Prisons & Camps** (row 2): 1940/41 = 210,000
+- **Deaths Outside of Prisons & Camps** (row 3): 1940/41 = 42,000
+- **Murdered in Eastern Regions** (row 4): 1940/41 = nan (missing value, should be excluded)
+
+Summing the relevant values: 100,000 + 210,000 + 42,000 = 352,000
+
+Final Answer: 352000
+
+=================== Reasoning 5 ===================
+The question asks for the total number of ethnic Pole deaths recorded during 1940/41 of the German occupation. We need to identify the rows representing ethnic Pole deaths and then sum the values in the "1940/41" column for those rows.
+
+From the summary, we can see that "Murdered", "Deaths In Prisons & Camps", "Deaths Outside of Prisons & Camps" and "Murdered in Eastern Regions" all represent deaths of Polish citizens. "Deaths other countries" represents deaths outside of Poland. The "Total" row is a summary.
+
+Now, let's examine the table:
+
+- **Murdered (Row 1):** 1940/41 = 100,000
+- **Deaths In Prisons & Camps (Row 2):** 1940/41 = 210,000
+- **Deaths Outside of Prisons & Camps (Row 3):** 1940/41 = 42,000
+- **Murdered in Eastern Regions (Row 4):** 1940/41 = nan (missing value, should be excluded)
+
+Summing the relevant values: 100,000 + 210,000 + 42,000 = 352,000
+
+Final Answer: 352000
+
+=================== Answer ===================
+352,000

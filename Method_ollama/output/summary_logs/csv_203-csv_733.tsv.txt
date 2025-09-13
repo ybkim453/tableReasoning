@@ -1,0 +1,43 @@
+=================== Table Summary ===================
+Column-wise Information:
+- **Rank**:
+    - Numeric.
+    - Values: 1, 2, 4, 6, 7, 9.
+    - Role: Identifier/Ordinal position.
+- **Cyclist**:
+    - Text.
+    - Values: "Alexandr Kolobnev (RUS)", "Davide Rebellin (ITA)", "Franco Pellizotti (ITA)", "Samuel Sánchez (ESP)", "Stéphane Goubert (FRA)", "David Moncoutié (FRA)".
+    - Role: Descriptor – name of the cyclist, includes nationality in parentheses.
+- **Team**:
+    - Text.
+    - Values: "Team CSC Saxo Bank", "Gerolsteiner", "Liquigas", "Euskaltel-Euskadi", "Ag2r-La Mondiale", "Cofidis".
+    - Role: Descriptor – team affiliation of the cyclist.
+- **Time**:
+    - Text/Numeric mixture.
+    - Values: "s.t.", "+ 2\"", "+ 2\"".  "s.t." likely represents "same time" and "+ 2\"" represents a time difference of 2 seconds.
+    - Role: Score field – time taken by the cyclist, potentially relative to a leader.
+- **UCI ProTour\nPoints**:
+    - Numeric.
+    - Values: 30, 25, 15, 7, 5, 1.
+    - Role: Score field – points earned by the cyclist in the UCI ProTour.
+
+Special / Atypical Rows:
+- No explicitly atypical rows are present in the preview. The table appears to be a standard listing of cyclists and their results. However, the "Time" column contains non-numeric values ("s.t.") which require special handling.
+
+Derived / Relational Hints:
+- **Derived**:  It's possible to calculate a relative time difference from the "Time" column. For example, "s.t." can be treated as 0 seconds, and "+ 2\"" as 2 seconds.  Row 1: 0 seconds, Row 5: 2 seconds.
+- **Relational**: None observed — inconsistent or incompatible forms.
+
+Sorting / Structural Hints:
+- The table is sorted by the "Rank" column in ascending order. Evidence: 1, 2, 4, 6, 7, 9. The table appears to be partial, and there are gaps in the "Rank" sequence (e.g., missing rank 3, 5, 8).
+
+Preprocessing Artifacts:
+- (A) Syntactic artifacts: The "\n" character in the "UCI ProTour\nPoints" header suggests a formatting issue or a multi-line header.
+- (B) Mixed literal expressions: The "Time" column mixes text ("s.t.") with numeric values ("+ 2\"").
+- (C) Semantic normalization — Units & Scales: The "Time" column uses seconds ("") as a unit, but "s.t." is a textual representation. Normalization target: Time → seconds (numeric).
+
+Abbreviations / Acronyms:
+- "s.t." likely stands for "same time".
+- "UCI" likely stands for "Union Cycliste Internationale".
+- "RUS", "ITA", "ESP", "FRA" are country codes for Russia, Italy, Spain, and France respectively.
+- Aliases: Team ↔ Club.
