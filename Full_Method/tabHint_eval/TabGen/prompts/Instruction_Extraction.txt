@@ -1,0 +1,139 @@
+You are an expert at converting table summaries into detailed table generation instructions.
+
+***TASK***:
+Given a table summary, extract and convert all the descriptive information into specific instructions that will guide table data generation.
+
+***INSTRUCTIONS***:
+1. Convert "Special / Atypical Rows" into row generation instructions
+2. Convert "Derived / Relational Hints" into column relationship rules
+3. Convert "Sorting / Structural Hints" into data ordering instructions
+4. Convert "Preprocessing Artifacts" into data formatting rules
+5. Convert "Abbreviations / Acronyms" into value generation guidelines
+6. Create specific data generation requirements based on examples
+
+***REASONING STEPS***:
+
+**Step 1 - Process Special Rows**:
+From "Special / Atypical Rows" section:
+- Identify what makes certain rows special
+- Convert into instructions for handling these rows
+- Specify where these rows should appear
+
+**Step 2 - Extract Relationship Rules**:
+From "Derived / Relational Hints" section:
+- Identify column dependencies (A → B)
+- Convert into rules for generating consistent data
+- Specify how columns should relate to each other
+
+**Step 3 - Define Sorting Requirements**:
+From "Sorting / Structural Hints" section:
+- Extract sorting criteria and order
+- Convert into data arrangement instructions
+- Specify the exact sorting logic
+
+**Step 4 - Create Formatting Rules**:
+From "Preprocessing Artifacts" section:
+- Identify data formatting requirements
+- Convert into specific formatting instructions
+- Handle missing data patterns
+
+**Step 5 - Define Value Guidelines**:
+From "Abbreviations / Acronyms" section:
+- Create mapping rules for abbreviated values
+- Specify when and how to use abbreviations
+- Ensure consistent abbreviation usage
+
+**Step 6 - Extract Data Examples**:
+From column examples throughout the summary:
+- Extract ALL specific examples mentioned in the table summary (states, names, values, etc.)
+- Identify data patterns and formats from these concrete examples
+- List the exact data values that appear in examples
+- Create guidelines for generating similar, realistic data based on these patterns
+- Ensure consistency with the table's domain and context
+
+***OUTPUT FORMAT***:
+{
+    "data_generation_instructions": [
+        "Instruction 1: <Specific instruction for data generation>",
+        "Instruction 2: <Another specific instruction>",
+        ...
+    ],
+    "special_row_instructions": [
+        "Special Row 1: <How to handle this special row>",
+        "Special Row 2: <Another special row instruction>",
+        ...
+    ],
+    "column_relationship_rules": [
+        "Rule 1: <Column dependency or relationship rule>",
+        "Rule 2: <Another relationship rule>",
+        ...
+    ],
+    "sorting_instructions": {
+        "sort_by": "<Column to sort by>",
+        "order": "<ascending/descending>",
+        "details": "<Specific sorting requirements>"
+    },
+    "formatting_rules": [
+        "Format 1: <Specific formatting requirement>",
+        "Format 2: <Another formatting rule>",
+        ...
+    ],
+    "abbreviation_guidelines": {
+        "usage_rule": "When and how to use abbreviations based on examples",
+        "mappings": {
+            "<abbreviation>": "<full_form>",
+            "...": "..."
+        },
+        "application_note": "Follow abbreviation usage patterns shown in examples"
+    },
+    "data_examples_patterns": [
+        "Pattern 1: <Data pattern to follow>",
+        "Pattern 2: <Another data pattern>",
+        ...
+    ],
+    "concrete_examples": {
+        "primary_entities": "List main entities mentioned (e.g., names, places, organizations)",
+        "secondary_entities": "List secondary entities (e.g., categories, types, groups)",
+        "data_values": "List specific data values (e.g., numbers, percentages, dates)",
+        "missing_data_format": "Format used for missing/unknown data in examples",
+        "special_formats": "Any special formatting patterns observed in examples"
+    }
+}
+
+***EXAMPLE***:
+Input Table Summary containing:
+"Special / Atypical Rows:
+- Row 6 appears to be a placeholder row with incomplete data
+
+Derived / Relational Hints:
+- Strong dependency: State → Incumbent Senator → Party
+
+Sorting / Structural Hints:
+- The table is sorted by State in alphabetical order"
+
+Output:
+{
+    "special_row_instructions": [
+        "Include a placeholder row with incomplete or missing data as the last row"
+    ],
+    "column_relationship_rules": [
+        "Each State must have a corresponding Incumbent Senator",
+        "Each Incumbent Senator must have a corresponding Party affiliation"
+    ],
+    "sorting_instructions": {
+        "sort_by": "State",
+        "order": "ascending",
+        "details": "Sort all rows alphabetically by State name"
+    }
+}
+
+***FINAL CHECKLIST***:
+- All sections of the table summary are processed
+- Instructions are specific and actionable
+- Relationship rules are clear and enforceable
+- Sorting requirements are precisely defined
+- Formatting rules cover all special cases
+- Abbreviation guidelines are comprehensive
+- Data patterns are extracted from examples
+
+Provide the *OUTPUT* in the specified JSON format only.

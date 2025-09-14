@@ -1,0 +1,109 @@
+=================== Title ===================
+title : 2008 Clásica de San Sebastián  & table id : csv/203-csv/733.tsv
+
+=================== Table ===================
+|    | Rank     | Cyclist                    | Team                 | Time          | UCI ProTour Points      |
+|---:|:---------|:---------------------------|:---------------------|:--------------|:------------------------|
+|  0 | -------: | :------------------------- | :------------------- | :-----------  | ----------------------: |
+|  1 | 1        | Alejandro Valverde (ESP)   | Caisse d'Epargne     | "5h 29' 10""" | 40                      |
+|  2 | 2        | Alexandr Kolobnev (RUS)    | Team CSC Saxo Bank   | s.t.          | 30                      |
+|  3 | 3        | Davide Rebellin (ITA)      | Gerolsteiner         | s.t.          | 25                      |
+|  4 | 4        | Paolo Bettini (ITA)        | Quick Step           | s.t.          | 20                      |
+|  5 | 5        | Franco Pellizotti (ITA)    | Liquigas             | s.t.          | 15                      |
+|  6 | 6        | Denis Menchov (RUS)        | Rabobank             | s.t.          | 11                      |
+|  7 | 7        | Samuel Sánchez (ESP)      | Euskaltel-Euskadi    | s.t.          | 7                       |
+|  8 | 8        | Stéphane Goubert (FRA)    | Ag2r-La Mondiale     | "+ 2"""       | 5                       |
+|  9 | 9        | Haimar Zubeldia (ESP)      | Euskaltel-Euskadi    | "+ 2"""       | 3                       |
+| 10 | 10       | David Moncoutié (FRA)     | Cofidis              | "+ 2"""       | 1                       |
+
+=================== Question ===================
+who was ranked next after davide rebellin?
+
+=================== Reasoning 1 ===================
+To determine who was ranked next after Davide Rebellin, we should first identify Davide Rebellin's rank and then find the cyclist with the next rank.
+
+From the full table:
+- Davide Rebellin is ranked 3rd in the "Rank" column.
+
+To find the cyclist ranked next after Davide Rebellin:
+- We should look for the cyclist with the rank immediately following 3.
+
+From the full table:
+- The cyclist ranked next after Davide Rebellin (ranked 3rd) is Paolo Bettini.
+
+Therefore, the cyclist who was ranked next after Davide Rebellin is:
+Paolo Bettini
+
+Final Answer: Paolo Bettini
+
+=================== Reasoning 2 ===================
+To determine who was ranked next after Davide Rebellin, we should consider the **Rank** column, which provides a clear ordering of the cyclists.
+
+From the full table:
+- Davide Rebellin (ITA) is ranked 3rd.
+
+To find out who was ranked next, we need to look for the cyclist with the rank immediately following 3.
+
+From the full table:
+- The cyclist ranked next after Davide Rebellin (ranked 3rd) is Paolo Bettini (ITA), who is ranked 4th.
+
+Therefore, the cyclist who was ranked next after Davide Rebellin is:
+Paolo Bettini (ITA)
+
+Final Answer: Paolo Bettini
+
+=================== Reasoning 3 ===================
+To determine who was ranked next after Davide Rebellin, we should consider the ordering provided by the **Rank** column in the full table.
+
+From the full table:
+- Davide Rebellin (ITA) has a rank of 3.
+
+By examining the **Rank** column, we can see that the cyclist ranked next after Davide Rebellin is Paolo Bettini (ITA) with a rank of 4.
+
+Therefore, the cyclist who was ranked next after Davide Rebellin is:
+Paolo Bettini (ITA)
+
+Final Answer: Paolo Bettini
+
+=================== Reasoning 4 ===================
+To determine who was ranked next after Davide Rebellin, we need to consider the ranking provided in the "Rank" column of the full table.
+
+From the full table:
+- Davide Rebellin is ranked 3rd.
+
+To find the cyclist who was ranked next after Davide Rebellin:
+- We look for the row where the rank is immediately after 3.
+
+By examining the "Rank" column:
+- The rank following 3 is 4, which corresponds to Paolo Bettini.
+
+Therefore, the cyclist who was ranked next after Davide Rebellin was:
+Paolo Bettini
+
+Final Answer: Paolo Bettini
+
+=================== Reasoning 5 ===================
+To determine who was ranked next after Davide Rebellin, we need to refer to the information provided in the summary and the full table.
+
+From the summary:
+- The **Rank** column provides the ranking of the cyclists.
+- The **Cyclist** column contains the names of the cyclists.
+- The **Team** column specifies the team of each cyclist.
+- The **UCI ProTour Points** column displays the points earned by each cyclist.
+
+From the full table:
+- Davide Rebellin (ITA) is ranked 3rd with 25 UCI ProTour Points.
+
+To find out who was ranked next after Davide Rebellin:
+- The cyclist ranked next after Davide Rebellin would be the one with a rank of 4.
+
+From the full table:
+- Paolo Bettini (ITA) is ranked 4th.
+
+Therefore, the cyclist who was ranked next after Davide Rebellin was:
+Paolo Bettini (ITA)
+
+Final Answer: Paolo Bettini
+
+=================== Answer ===================
+Paolo Bettini (ITA)

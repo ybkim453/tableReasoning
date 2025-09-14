@@ -1,0 +1,8 @@
+EM (Exact Match) score is low (current: {score:.3f}, threshold: {threshold:.3f}).
+
+To improve exact value matching:
+- Verify numerical value accuracy
+- Match text case and spacing exactly
+- Maintain original date formats
+- Include all special characters and symbols
+- Copy values from the original table precisely

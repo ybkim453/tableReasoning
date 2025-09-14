@@ -1,0 +1,107 @@
+=================== Title ===================
+title : 2008 Clásica de San Sebastián  & table id : csv/203-csv/733.tsv
+
+=================== Table ===================
+|    | Rank     | Cyclist                    | Team                 | Time          | UCI ProTour Points      |
+|---:|:---------|:---------------------------|:---------------------|:--------------|:------------------------|
+|  0 | -------: | :------------------------- | :------------------- | :-----------  | ----------------------: |
+|  1 | 1        | Alejandro Valverde (ESP)   | Caisse d'Epargne     | "5h 29' 10""" | 40                      |
+|  2 | 2        | Alexandr Kolobnev (RUS)    | Team CSC Saxo Bank   | s.t.          | 30                      |
+|  3 | 3        | Davide Rebellin (ITA)      | Gerolsteiner         | s.t.          | 25                      |
+|  4 | 4        | Paolo Bettini (ITA)        | Quick Step           | s.t.          | 20                      |
+|  5 | 5        | Franco Pellizotti (ITA)    | Liquigas             | s.t.          | 15                      |
+|  6 | 6        | Denis Menchov (RUS)        | Rabobank             | s.t.          | 11                      |
+|  7 | 7        | Samuel Sánchez (ESP)      | Euskaltel-Euskadi    | s.t.          | 7                       |
+|  8 | 8        | Stéphane Goubert (FRA)    | Ag2r-La Mondiale     | "+ 2"""       | 5                       |
+|  9 | 9        | Haimar Zubeldia (ESP)      | Euskaltel-Euskadi    | "+ 2"""       | 3                       |
+| 10 | 10       | David Moncoutié (FRA)     | Cofidis              | "+ 2"""       | 1                       |
+
+=================== Question ===================
+what was the difference in points between davide rebellin and franco pellizotti?
+
+=================== Reasoning 1 ===================
+To find the difference in points between Davide Rebellin and Franco Pellizotti, we need to locate their respective UCI ProTour Points from the full table.
+
+From the full table:
+- Davide Rebellin earned 25 UCI ProTour Points.
+- Franco Pellizotti earned 15 UCI ProTour Points.
+
+Calculating the difference:
+Difference = Points of Davide Rebellin - Points of Franco Pellizotti
+Difference = 25 - 15
+Difference = 10
+
+Therefore, the difference in points between Davide Rebellin and Franco Pellizotti is:
+10
+
+Final Answer: 10
+
+=================== Reasoning 2 ===================
+To find the difference in points between Davide Rebellin and Franco Pellizotti, we need to look at the UCI ProTour Points column for both cyclists.
+
+From the full table:
+- Davide Rebellin earned 25 UCI ProTour Points.
+- Franco Pellizotti earned 15 UCI ProTour Points.
+
+Calculating the difference:
+Difference = Points of Davide Rebellin - Points of Franco Pellizotti
+Difference = 25 - 15
+Difference = 10
+
+Therefore, the difference in points between Davide Rebellin and Franco Pellizotti is:
+10
+
+Final Answer: 10
+
+=================== Reasoning 3 ===================
+To find the difference in points between Davide Rebellin and Franco Pellizotti, we should follow these steps:
+
+1. Identify the UCI ProTour Points for Davide Rebellin and Franco Pellizotti.
+2. Calculate the absolute difference between their points.
+
+From the full table:
+- Davide Rebellin earned 25 UCI ProTour Points.
+- Franco Pellizotti earned 15 UCI ProTour Points.
+
+Calculating the difference:
+\[ |25 - 15| = 10 \]
+
+Therefore, the difference in points between Davide Rebellin and Franco Pellizotti is:
+10
+
+Final Answer: 10
+
+=================== Reasoning 4 ===================
+To find the difference in points between Davide Rebellin and Franco Pellizotti, we need to look at the UCI ProTour Points for each cyclist.
+
+From the full table:
+- Davide Rebellin earned 25 UCI ProTour Points.
+- Franco Pellizotti earned 15 UCI ProTour Points.
+
+Calculating the difference:
+Difference = Points of Davide Rebellin - Points of Franco Pellizotti
+Difference = 25 - 15
+Difference = 10
+
+Therefore, the difference in points between Davide Rebellin and Franco Pellizotti is:
+10
+
+Final Answer: 10
+
+=================== Reasoning 5 ===================
+To find the difference in points between Davide Rebellin and Franco Pellizotti, we need to locate the UCI ProTour Points for each cyclist in the full table.
+
+From the full table:
+- Davide Rebellin earned 25 UCI ProTour Points.
+- Franco Pellizotti earned 15 UCI ProTour Points.
+
+Now, we can calculate the difference in points between Davide Rebellin and Franco Pellizotti:
+25 (Davide Rebellin's points) - 15 (Franco Pellizotti's points) = 10
+
+Therefore, the difference in points between Davide Rebellin and Franco Pellizotti is:
+10
+
+Final Answer: 10
+
+=================== Answer ===================
+10

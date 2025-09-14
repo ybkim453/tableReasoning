@@ -1,0 +1,8 @@
+chrF (Character-level F1) score is low (current: {score:.3f}, threshold: {threshold:.3f}).
+
+To improve character-level similarity:
+- Check word spelling accuracy
+- Use abbreviations and acronyms exactly as in original
+- Include punctuation and special symbols correctly
+- Maintain table format and structure similar to original
+- Remove unnecessary characters or spaces

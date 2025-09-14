@@ -1,0 +1,166 @@
+You are an expert at generating realistic tabular data. Your task is to create a complete table using the provided schema and detailed instructions.
+
+***TASK***:
+**Given**:
+*Schema*: A JSON object with table name, column headers, and row information
+*Instructions*: Detailed instructions for data generation, relationships, formatting, and special requirements
+
+**Your goal is to**:
+Generate a complete table by systematically creating rows and filling each cell according to the provided schema and instructions.
+
+***OUTPUT FORMAT***:
+<REASONING STEPS>
+
+***FINAL OUTPUT***:
+### <TABLE NAME>
+| <Column Header 1> | <Column Header 2> | ... |
+|-------------------|-------------------|-----|
+| <Row 1 Data> | <Row 1 Data> | ... |
+| <Row 2 Data> | <Row 2 Data> | ... |
+| <Row 3 Data> | <Row 3 Data> | ... |
+| <Row 4 Data> | <Row 4 Data> | ... |
+| <Row 5 Data> | <Row 5 Data> | ... |
+| <Row 6 Data> | <Row 6 Data> | ... |
+
+***REASONING STEPS***:
+Follow the given algorithm thoroughly:
+
+**ALGORITHM**
+Step 1: Initialize Table Structure
+    Create empty table with column headers from schema
+    Create empty rows based on schema.row_identifier (6 rows total)
+    Initialize all cells as None/empty
+
+Step 2: Process Each Data Generation Instruction
+    For each instruction in data_generation_instructions:
+        Identify target cell (table, row, column) based on the instruction
+        Generate ONE specific value for that cell based on:
+            - Column type and concrete_examples
+            - Relationship rules with already filled cells
+            - Formatting requirements from data_examples_patterns
+            - Use concrete_examples when available, following their patterns
+        Update the cell with the generated value
+        
+Step 3: Fill Remaining Empty Cells
+    For any remaining empty cells:
+        Generate realistic values following established patterns
+        Maintain consistency with already filled cells
+        Use missing data format from concrete_examples when appropriate
+
+Step 4: Apply Special Row Instructions
+    Add any special rows (placeholders, headers, etc.) as specified
+    Position special rows according to instructions
+
+Step 5: Final Validation
+    Ensure all relationship rules are satisfied
+    Verify sorting is applied correctly
+    Check formatting consistency
+    Validate special rows are positioned properly
+
+**DETAILED PROCESS**:
+
+**Step 1 - Initialize Table Structure**:
+Create table framework:
+- Column headers: [List from schema]
+- Number of rows: [From schema.estimated_rows]
+- Special row positions: [From instructions]
+
+**Step 2 - Generate Row Identifiers**:
+Based on schema.row_identifier, create:
+- Row 1: [Primary identifier 1]
+- Row 2: [Primary identifier 2]
+- ...
+Apply sorting_instructions to order rows
+
+**Step 3 - Fill Each Cell Systematically**:
+*Row 1 Processing*:
+- Column 1: [Apply data generation logic]
+    * Check column_relationship_rules
+    * Apply formatting_rules
+    * Use data_examples_patterns
+    * Result: [Generated value]
+- Column 2: [Apply data generation logic with dependencies]
+    * Consider relationship with Column 1
+    * Apply formatting_rules
+    * Result: [Generated value]
+- Continue for all columns...
+
+*Row 2 Processing*:
+- Repeat same process for Row 2
+- Ensure consistency with Row 1 where required
+- Continue for all columns...
+
+*Continue for all rows...*
+
+**Step 4 - Handle Special Rows**:
+Process special_row_instructions:
+- Special Row Type: [Description]
+- Position: [Where to place]
+- Content: [What to include]
+- Implementation: [How it's handled]
+
+**Step 5 - Apply Final Requirements**:
+- Sorting: [Verify correct order]
+- Relationships: [Validate all rules satisfied]
+- Formatting: [Check consistency]
+- Abbreviations: [Verify correct usage]
+
+***SPECIFIC REQUIREMENTS***:
+1. **Data Generation**:
+   - Follow all data_generation_instructions precisely
+   - Use realistic, coherent data that could plausibly exist
+   - Maintain consistency across the entire table
+   - MANDATORY: Generate EXACTLY 6 data rows
+   - Always provide specific, realistic values
+
+2. **Column Relationships**:
+   - Strictly follow all column_relationship_rules
+   - Ensure dependencies are maintained (if A determines B, generate B based on A)
+   - Keep contextual links consistent
+
+3. **Formatting**:
+   - Apply all formatting_rules consistently
+   - Use abbreviation_guidelines correctly
+   - Handle missing data as specified
+
+4. **Special Rows**:
+   - Include all special_row_instructions
+   - Position special rows at correct locations
+   - Use appropriate content for special rows
+
+5. **Sorting**:
+   - Apply sorting_instructions exactly
+   - Maintain sort order throughout
+
+***FINAL CHECKLIST***:
+- Table structure matches schema exactly
+- All column relationships are maintained
+- Sorting is applied as instructed
+- Special rows are positioned correctly
+- Data is realistic and internally consistent
+- Formatting follows all specified rules
+- Abbreviations are used correctly
+- All instructions have been followed
+
+***Final Output Instructions***:
+1. **Row Count**: Generate EXACTLY 6 data rows - no more, no less
+2. **Format Consistency**: Follow patterns from concrete_examples and data_examples_patterns
+3. **Missing Data**: Use the missing data format specified in concrete_examples when applicable
+4. **Table Formatting**: Use "|" to separate cells, maintain alignment
+5. **Realistic Data**: Generate domain-appropriate data following the patterns shown in examples, not generic placeholders
+
+**Process the table generation step by step:**
+
+*Step 1: Initialize empty table*
+Show the empty table structure with None/empty values
+
+*Step 2: Process each instruction*
+For each data_generation_instruction:
+- Show which cell is being updated
+- Show the reasoning for the value
+- Show the updated table state
+
+*Step 3: Fill remaining cells*
+Complete any remaining empty cells with realistic values
+
+Generate the table following the Map&Make cell-by-cell iteration process above.

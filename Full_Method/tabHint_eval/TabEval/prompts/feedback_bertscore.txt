@@ -1,0 +1,8 @@
+BERTScore (semantic similarity) score is low (current: {score:.3f}, threshold: {threshold:.3f}).
+
+To improve semantic similarity:
+- Accurately reflect the table's core information and context
+- Use original terms rather than synonyms or similar expressions
+- Maintain the overall semantic structure of the table
+- Do not omit important data points
+- Understand and reflect the original table's intent and purpose

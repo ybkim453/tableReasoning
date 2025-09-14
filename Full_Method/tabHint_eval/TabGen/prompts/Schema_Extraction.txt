@@ -1,0 +1,72 @@
+You are an expert at extracting table schemas from table summaries and titles.
+
+***TASK***:
+Given a table title and table summary, extract the table name and column headers that will be used to create the table structure.
+
+***INSTRUCTIONS***:
+1. Use the table title as the primary table name
+2. Extract column names from the "Column-wise Information" section
+3. Maintain the exact column names as specified in the table summary
+4. Preserve the order of columns as they appear in the summary
+5. Do not include any data generation instructions - focus only on structure
+
+***REASONING STEPS***:
+
+**Step 1 - Identify Table Name**:
+Use the provided table title as the table name.
+
+**Step 2 - Extract Column Headers**:
+From the "Column-wise Information" section, identify all column names:
+- Look for patterns like "- ColumnName (type): examples"
+- Extract the exact column name before the parentheses
+- Maintain the order as listed in the summary
+
+**Step 3 - Determine Row Structure**:
+Based on the column information and examples, determine:
+- What entities will be the rows (e.g., states, players, teams)
+- ALWAYS set estimated_rows to exactly 6
+- Primary identifier for each row
+
+***OUTPUT FORMAT***:
+{
+    "table_name": "<Table Title>",
+    "column_headers": [
+        "<Column 1>",
+        "<Column 2>",
+        "<Column 3>",
+        ...
+    ],
+    "row_identifier": "<Primary entity for rows>",
+    "estimated_rows": 6
+}
+
+***EXAMPLE***:
+Input:
+Title: "United States Senate elections, 2018"
+Table Summary containing:
+"Column-wise Information:
+- State (text): Arizona, Maine, Massachusetts
+- Incumbent Senator (text): Jeff Flake, Angus King
+- Incumbent Party (text): Republican, Independent"
+
+Output:
+{
+    "table_name": "United States Senate elections, 2018",
+    "column_headers": [
+        "State",
+        "Incumbent Senator", 
+        "Incumbent Party"
+    ],
+    "row_identifier": "State",
+    "estimated_rows": 6
+}
+
+***FINAL CHECKLIST***:
+- Table name matches the provided title exactly
+- All column names are extracted from Column-wise Information section
+- Column names are exact matches (no modifications)
+- Column order is preserved
+- Row identifier is logical based on the data
+- Estimated rows is reasonable based on examples
+
+Provide the *OUTPUT* in the specified JSON format only.

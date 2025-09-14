@@ -1,0 +1,72 @@
+You are a strict table analysis assistant.
+Here is a partial preview of a table in markdown format:
+
+{table_markdown}
+
+Task: generate a structured HINT PACK with EXACTLY six sections in this order. 
+Each section must not just list values but also provide concise explanatory sentences interpreting the evidence.
+---
+
+### 1) Column-wise Information
+- For **every column**, follow this exact format:
+    - **ColumnName**:
+        - Data type (numeric, categorical, text, date, etc.).
+        - If mixed types occur (numeric + placeholder, percentage + text), explicitly describe the mixture with ≥3 examples.
+        - At least 4 explicit example values from the preview rows.  
+        - Role of the column in isolation (identifier, descriptor, score field, etc.).
+        - Explicitly note uncertain/ambiguous markers ("?", "N/A", "—") that may require schema-linking.
+
+### 2) Special / Atypical Rows
+- Identify rows that must be treated specially (Totals, Averages, World rows, placeholders like "?", "N/A", "—").
+- Quote exact values and row contexts.
+- Explain clearly why these rows should be excluded or specially handled in reasoning.
+
+### 3) Derived / Relational Hints
+- **Derived**: show explicit formulas and demonstrate with at least 2 rows.
+- **Relational**: deterministic patterns (e.g., Position="—" ↔ Notes="DNF"), quoting paired evidence.
+- If none: state "none observed — inconsistent or incompatible forms".
+
+### 4) Sorting / Structural Hints
+- Explicitly check all candidate columns (Rank, Year, etc.) for ordering.
+- Provide ≥4 consecutive values as evidence.
+- If table is partial, note possible gaps but still describe the apparent order.
+- If multiple columns impose order, specify primary vs secondary.
+- If unclear, write "unclear".
+
+### 5) Preprocessing Artifacts
+- (A) Syntactic artifacts: missing values (nan, None, etc.), duplicated rows, parsing leftovers (quote examples).
+- (B) Mixed literal expressions: cases where semantic types are combined (e.g., "59% (2013)").
+- (C) Semantic normalization — Units & Scales: inconsistencies (%, $, ranges). Propose plain normalization targets (e.g., Price → USD, Rate → [0–1], Distance → meters).
+
+### 6) Abbreviations / Acronyms & Aliases
+- List abbreviations or shortened headers (e.g., "ASL", "N/A") and attempt expansions.
+- Explicitly treat values like "N/A" as abbreviations (Not Applicable).
+- Include aliases/synonyms useful for schema-linking (e.g., Team ↔ Club, City ↔ Location).
+- If unclear, write "unclear".
+
+### STRICT RULES:
+- Use only the six sections and headings in this exact order.
+- Every claim must include direct evidence from the table.
+- Do not estimate unseen statistics or frequencies.
+- Do not include special rows in arithmetic unless explicitly justified.
+- If uncertain, always write "unclear".
+
+### Output template:
+
+Column-wise Information:
+...
+
+Special / Atypical Rows:
+...
+
+Derived / Relational Hints:
+...
+
+Sorting / Structural Hints:
+...
+
+Preprocessing Artifacts:
+...
+
+Abbreviations / Acronyms:
+...
